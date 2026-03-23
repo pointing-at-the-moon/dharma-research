@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>指月研究 — 論文進度追蹤</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700;900&family=Noto+Sans+TC:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --ink: #1a1a1a;
+  --ink-70: #4a4a4a;
+  --ink-40: #666;
+  --ink-20: #999;
+  --ink-10: #ddd;
+  --parchment: #f6f1e9;
+  --parchment-warm: #ede6d8;
+  --parchment-deep: #e0d7c5;
+  --card-bg: white;
+  --sidebar-bg: #f0ebe1;
+  --header-bg-start: #1a1a1a;
+  --header-bg-end: #2a2520;
+  --gold: #9e7c2e;
+  --gold-light: #c9a84c;
+  --gold-faint: rgba(158,124,46,0.08);
+  --red-seal: #b83a2a;
+  --green: #3d7a4a;
+  --green-light: #e8f0e6;
+  --blue: #3a5f8a;
+  --blue-light: #e4ecf4;
+  --amber: #8a6520;
+  --amber-light: #f5eeda;
+  --pair-break: #8b4a2a;
+  --pair-build: #2a5a7a;
+  --series-origin: #4a6a3a;
+  --wip: #7a5a2a;
+  --sidebar-w: 260px;
+  --header-h: 72px;
+  --border-subtle: rgba(0,0,0,0.06);
+  --border-faint: rgba(0,0,0,0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e8e4dc;
+    --ink-70: #b8b0a4;
+    --ink-40: #918a7e;
+    --ink-20: #5a5550;
+    --ink-10: #3a3530;
+    --parchment: #1c1a17;
+    --parchment-warm: #242119;
+    --parchment-deep: #2e2a22;
+    --card-bg: #28251e;
+    --sidebar-bg: #221f19;
+    --header-bg-start: #0e0d0b;
+    --header-bg-end: #1a1815;
+    --gold: #c9a84c;
+    --gold-light: #d4b860;
+    --gold-faint: rgba(201,168,76,0.1);
+    --green: #5a9a66;
+    --green-light: rgba(90,154,102,0.15);
+    --blue-light: rgba(58,95,138,0.2);
+    --amber-light: rgba(138,101,32,0.2);
+    --pair-break: #b86a44;
+    --pair-build: #4a8aaa;
+    --series-origin: #6a8a5a;
+    --wip: #aa8a44;
+    --border-subtle: rgba(255,255,255,0.08);
+    --border-faint: rgba(255,255,255,0.05);
+  }
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+  background: var(--parchment);
+  color: var(--ink);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ========== SKIP LINK ========== */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 16px;
+  z-index: 200;
+  padding: 8px 16px;
+  background: var(--gold);
+  color: white;
+  border-radius: 0 0 6px 6px;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.skip-link:focus { top: 0; }
+
+/* ========== TOP BAR ========== */
+.top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: var(--header-h);
+  padding: 0 28px;
+  background: linear-gradient(135deg, var(--header-bg-start), var(--header-bg-end));
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.header-left { display: flex; align-items: center; gap: 14px; }
+
+.top-bar h1 {
+  font-family: 'Noto Serif TC', serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: #f0ebe1;
+  letter-spacing: 4px;
+}
+
+.subtitle {
+  font-size: 11px;
+  color: var(--gold-light);
+  letter-spacing: 1px;
+  margin-top: 2px;
+}
+
+.menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  color: #f0ebe1;
+  font-size: 22px;
+  cursor: pointer;
+  padding: 4px 8px;
+}
+
+.stats-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.progress-ring {
+  width: 40px;
+  height: 40px;
+}
+
+.progress-ring .bg {
+  fill: none;
+  stroke: rgba(255,255,255,0.1);
+  stroke-width: 3;
+}
+
+.progress-ring .fg {
+  fill: none;
+  stroke: var(--gold-light);
+  stroke-width: 3;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.4s ease;
+}
+
+.stat-pill {
+  font-size: 12px;
+  color: rgba(240,235,225,0.7);
+  white-space: nowrap;
+}
+
+.stat-pill .num {
+  color: var(--gold-light);
+  font-weight: 600;
+}
+
+/* ========== SIDEBAR ========== */
+.sidebar {
+  position: fixed;
+  top: var(--header-h);
+  left: 0;
+  bottom: 0;
+  width: var(--sidebar-w);
+  background: var(--sidebar-bg);
+  border-right: 1px solid var(--border-subtle);
+  overflow-y: auto;
+  padding: 16px 0;
+  z-index: 30;
+}
+
+.sidebar-section { margin-bottom: 8px; }
+
+.sidebar-section-title {
+  font-family: 'Noto Serif TC', serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-40);
+  padding: 8px 20px 4px;
+  letter-spacing: 2px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 20px;
+  text-decoration: none;
+  color: var(--ink-70);
+  font-size: 13px;
+  transition: background 0.15s;
+}
+
+.nav-item:hover { background: var(--gold-faint); }
+
+.nav-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.nav-dot.pair-break { background: var(--pair-break); }
+.nav-dot.pair-build { background: var(--pair-build); }
+.nav-dot.series-origin { background: var(--series-origin); }
+.nav-dot.wip { background: var(--wip); }
+
+.nav-progress {
+  font-size: 11px;
+  color: var(--ink-20);
+  margin-left: auto;
+}
+
+/* ========== MAIN ========== */
+.main-content {
+  margin-left: var(--sidebar-w);
+  padding: 32px 40px 80px;
+  max-width: 900px;
+}
+
+/* ========== GROUP HEADER ========== */
+.group-header {
+  margin-bottom: 8px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--gold-faint);
+}
+
+.group-header:not(:first-child) { margin-top: 40px; }
+
+.group-header h2 {
+  font-family: 'Noto Serif TC', serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 1px;
+}
+
+.group-header .en {
+  font-size: 12px;
+  color: var(--ink-40);
+  margin-top: 2px;
+  letter-spacing: 0.5px;
+}
+
+.group-header .desc {
+  font-size: 13px;
+  color: var(--ink-70);
+  margin-top: 6px;
+  line-height: 1.6;
+}
+
+.pair-badge {
+  display: inline-block;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-top: 6px;
+  font-weight: 500;
+}
+
+.pair-badge.break { background: rgba(139,74,42,0.12); color: var(--pair-break); }
+.pair-badge.build { background: rgba(42,90,122,0.12); color: var(--pair-build); }
+
+/* ========== PAPER CARD ========== */
+.paper-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+}
+
+.paper-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
+.paper-card.completed { opacity: 0.7; }
+
+.paper-toggle {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  text-align: left;
+  color: var(--ink);
+  font-family: inherit;
+}
+
+.paper-number {
+  font-family: 'Noto Serif TC', serif;
+  font-weight: 900;
+  font-size: 20px;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  flex-shrink: 0;
+  color: white;
+}
+
+.paper-number.pair-break { background: var(--pair-break); }
+.paper-number.pair-build { background: var(--pair-build); }
+.paper-number.series-origin { background: var(--series-origin); }
+.paper-number.wip { background: var(--wip); }
+
+.paper-info { flex: 1; min-width: 0; }
+
+.paper-title {
+  font-family: 'Noto Serif TC', serif;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.paper-title-en {
+  font-size: 12px;
+  color: var(--ink-40);
+  margin-top: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.paper-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.paper-sutras {
+  font-size: 11px;
+  color: var(--gold);
+  background: var(--gold-faint);
+  padding: 2px 8px;
+  border-radius: 8px;
+  white-space: nowrap;
+}
+
+.paper-expand-icon {
+  font-size: 12px;
+  color: var(--ink-20);
+  transition: transform 0.2s;
+}
+
+.paper-card.open .paper-expand-icon { transform: rotate(90deg); }
+
+.paper-body {
+  display: none;
+  padding: 0 20px 16px;
+  border-top: 1px solid var(--border-faint);
+}
+
+.paper-card.open .paper-body { display: block; }
+
+.paper-abstract {
+  font-size: 13px;
+  color: var(--ink-70);
+  line-height: 1.7;
+  margin: 12px 0;
+  padding: 10px 14px;
+  background: var(--gold-faint);
+  border-radius: 6px;
+  border-left: 3px solid var(--gold);
+}
+
+.paper-pair-link {
+  font-size: 12px;
+  color: var(--ink-40);
+  margin-bottom: 10px;
+}
+
+.paper-pair-link a {
+  color: var(--gold);
+  text-decoration: none;
+}
+
+.paper-pair-link a:hover { text-decoration: underline; }
+
+/* ========== CHECKLIST ========== */
+.checklist {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.checklist li label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 4px 0;
+}
+
+.checklist input[type="checkbox"] {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--ink-20);
+  border-radius: 4px;
+  cursor: pointer;
+  flex-shrink: 0;
+  position: relative;
+  transition: all 0.15s;
+}
+
+.checklist input[type="checkbox"]:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.checklist input[type="checkbox"]:checked {
+  background: var(--green);
+  border-color: var(--green);
+}
+
+.checklist input[type="checkbox"]:checked::after {
+  content: '\2713';
+  position: absolute;
+  top: -1px;
+  left: 2px;
+  color: white;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.checklist .done { text-decoration: line-through; color: var(--ink-20); }
+
+/* ========== RESEARCH STATS ========== */
+.research-stats {
+  margin-top: 48px;
+  padding: 20px;
+  background: var(--card-bg);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+}
+
+.research-stats h3 {
+  font-family: 'Noto Serif TC', serif;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--ink);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.stat-card {
+  padding: 14px;
+  background: var(--parchment-warm);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.stat-card .stat-value {
+  font-family: 'Noto Serif TC', serif;
+  font-size: 28px;
+  font-weight: 900;
+  color: var(--gold);
+}
+
+.stat-card .stat-label {
+  font-size: 12px;
+  color: var(--ink-40);
+  margin-top: 4px;
+}
+
+/* ========== OVERLAY (mobile sidebar) ========== */
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 40;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 800px) {
+  .menu-btn { display: block; }
+
+  .sidebar {
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    z-index: 60;
+  }
+
+  .sidebar.open { transform: translateX(0); }
+  .sidebar.open ~ .sidebar-overlay { display: block; }
+
+  .main-content { margin-left: 0; padding: 24px 16px 60px; }
+  .top-bar { padding: 0 16px; }
+  .top-bar h1 { font-size: 18px; letter-spacing: 2px; }
+  .stats-bar { gap: 12px; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+
+<a href="#main" class="skip-link">跳到主要內容</a>
+
+<!-- ========== TOP BAR ========== -->
+<header class="top-bar">
+  <div class="header-left">
+    <button class="menu-btn" aria-label="開啟導航選單" id="menuBtn">&#9776;</button>
+    <div>
+      <h1>指月研究</h1>
+      <div class="subtitle">Dharma Research — Paper Progress</div>
+    </div>
+  </div>
+  <div class="stats-bar">
+    <svg class="progress-ring" viewBox="0 0 40 40" role="img" aria-label="完成進度 0%" id="ringSvg">
+      <circle class="bg" cx="20" cy="20" r="17"/>
+      <circle class="fg" id="ring" cx="20" cy="20" r="17"
+        stroke-dasharray="106.8" stroke-dashoffset="106.8"
+        transform="rotate(-90 20 20)"/>
+    </svg>
+    <div class="stat-pill"><span class="num" id="stat-done">0</span> / <span id="stat-total">0</span> 步驟</div>
+    <div class="stat-pill"><span class="num" id="stat-pub">0</span> / <span id="stat-papers">0</span> 篇發布</div>
+  </div>
+</header>
+
+<!-- ========== SIDEBAR ========== -->
+<nav class="sidebar" id="sidebar" aria-label="論文導航"></nav>
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+<!-- ========== MAIN ========== -->
+<main class="main-content" id="main"></main>
+
+<script>
+// ============================================================
+// DATA
+// ============================================================
+const STEPS = ['構思', 'RAG 查經', '中文初稿', '英文翻譯', '校正審閱', '推送發布'];
+const STEPS_EN = ['Ideation', 'RAG Query', 'Chinese Draft', 'English Translation', 'Review', 'Published'];
+
+const groups = [
+  {
+    id: 'origin',
+    title: '初發心系列',
+    en: 'Bodhicitta Origins',
+    desc: '探索初發菩提心的義理結構與動態效應。',
+    cssClass: 'series-origin',
+    papers: [
+      {
+        num: 1,
+        title: '初發心的蝴蝶效應',
+        en: 'The Butterfly Effect of Initial Aspiration',
+        abstract: '以唯識種子熏習機制為中介，連結如來藏本體論與華嚴果地論，論證「初發菩提心」如何構成共業動態系統的初始條件質變。',
+        sutras: 8,
+        pair: null
+      },
+      {
+        num: 2,
+        title: '初發菩提心與法流',
+        en: 'Initial Arising of Bodhicitta and Dharma-Flow',
+        abstract: '探討「未來佛果是否回溯加持現在菩薩」的義理問題。法性本來遍滿，初發心是「打開接收」而非「建立連線」。',
+        sutras: 7,
+        pair: null
+      }
+    ]
+  },
+  {
+    id: 'ai-mind',
+    title: '一破一立：AI 與意識',
+    en: 'Break & Build: AI and Consciousness',
+    desc: '#3 用作意判定 AI「不是識」（破），#6 用作意說明人「如何覺醒」（立）。',
+    cssClass: 'pair',
+    papers: [
+      {
+        num: 3,
+        title: 'LLM 的唯識定位',
+        en: 'Yogācāra Positioning of Large Language Models',
+        abstract: '以唯識五遍行心所為判準，論證 LLM 從根本上不具備「作意」，因此不是唯識意義上的「識」。LLM 最精確的對應是「器世間」。',
+        sutras: 9,
+        pair: { type: 'break', partner: 6 }
+      },
+      {
+        num: 6,
+        title: '覺察即轉向',
+        en: 'Awareness as Turning Point',
+        abstract: '以「作意」（manaskāra）為核心，論證如理作意是從被動業力反應轉向主動修行道路的關鍵轉折點。以量子雙縫實驗為啟發性類比。',
+        sutras: 11,
+        pair: { type: 'build', partner: 3 }
+      }
+    ]
+  },
+  {
+    id: 'ai-merit',
+    title: '一破一立：AI 與福報',
+    en: 'Break & Build: AI and Merit',
+    desc: '#4 論證 AI 不能生福報（破），#5 論證善用 AI 增上緣可助成善業（立）。',
+    cssClass: 'pair',
+    papers: [
+      {
+        num: 4,
+        title: 'AI 不生福報',
+        en: 'AI Does Not Generate Merit',
+        abstract: '依阿含經典，佛陀明確指出財富的親因緣是「長夜好施」。AI 作為器世間之工具僅能充當增上緣，不是親因緣。',
+        sutras: 10,
+        pair: { type: 'break', partner: 5 }
+      },
+      {
+        num: 5,
+        title: '善用 AI 增上緣來累積福報',
+        en: 'Skillful Use of AI as Adhipati-pratyaya',
+        abstract: '善用增上緣可助成善業。依阿含經佛陀教在家弟子的次第（施論→戒論→生天之論），論證布施品質取決於施者的心。',
+        sutras: 12,
+        pair: { type: 'build', partner: 4 }
+      }
+    ]
+  },
+  {
+    id: 'causal-chain',
+    title: '因果與種子',
+    en: 'Causality and Seeds',
+    desc: '#7 完整展開業→種子→異熟果的六步因果機制，論證善惡不能互抵，以表觀遺傳學為跨學科會通。',
+    cssClass: 'series',
+    papers: [
+      {
+        num: 7,
+        title: '深入因果鏈——決定你的未來',
+        en: 'Deep into the Causal Chain — Shaping Your Future',
+        abstract: '以唯識種子論為核心，完整展開六步因果機制。依種子六義論證善惡不能互抵，以表觀遺傳學為跨學科會通。接續 #6：覺察、轉向之後——為未來世的你種下每一個善種子。',
+        sutras: 10,
+        pair: null
+      }
+    ]
+  },
+  {
+    id: 'wip',
+    title: '進行中',
+    en: 'Work in Progress',
+    desc: '正在構思或撰寫中的論文。',
+    cssClass: 'wip',
+    papers: [
+      {
+        num: 8,
+        title: '心不向外求',
+        en: 'Do Not Seek Outside',
+        abstract: '論證外境不是滿足的來源。從受蘊到自依止，系統梳理佛陀「不向外求」的完整教導，以享樂適應為跨學科會通。',
+        sutras: 0,
+        pair: null
+      }
+    ]
+  }
+];
+
+// Pre-set completed steps for published papers
+const PUBLISHED = {
+  1: true, 2: true, 3: true, 4: true, 5: true, 6: true, 7: true
+};
+
+// ============================================================
+// STORAGE
+// ============================================================
+const STORAGE_KEY = 'dharma_research_progress';
+
+function loadState() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
+    if (saved && saved._initialized) return saved;
+    // First load: pre-populate published papers
+    const init = { _initialized: true };
+    for (const num of Object.keys(PUBLISHED)) {
+      for (let i = 0; i < STEPS.length; i++) {
+        init[`p${num}__${i}`] = true;
+      }
+    }
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(init));
+    return init;
+  } catch { return { _initialized: true }; }
+}
+
+function saveState(s) {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(s)); }
+  catch { /* quota exceeded */ }
+}
+
+function getKey(paperNum, stepIdx) { return `p${paperNum}__${stepIdx}`; }
+
+// ============================================================
+// RENDER
+// ============================================================
+let state = loadState();
+
+function buildUI() {
+  const sidebar = document.getElementById('sidebar');
+  const main = document.getElementById('main');
+  let totalSteps = 0, doneSteps = 0, totalPapers = 0, pubPapers = 0;
+
+  groups.forEach(group => {
+    // Sidebar section
+    const sec = document.createElement('div');
+    sec.className = 'sidebar-section';
+    sec.innerHTML = `<div class="sidebar-section-title">${group.title}</div>`;
+
+    group.papers.forEach(p => {
+      let epDone = 0;
+      for (let i = 0; i < STEPS.length; i++) {
+        totalSteps++;
+        if (state[getKey(p.num, i)]) { doneSteps++; epDone++; }
+      }
+      totalPapers++;
+      if (epDone === STEPS.length) pubPapers++;
+
+      const cssClass = p.pair ? `pair-${p.pair.type}` : group.cssClass;
+      const a = document.createElement('a');
+      a.className = 'nav-item';
+      a.href = `#paper-${p.num}`;
+      a.dataset.navFor = `${p.num}`;
+      a.innerHTML = `
+        <span class="nav-dot ${cssClass}"></span>
+        <span style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">#${p.num} ${p.title}</span>
+        <span class="nav-progress">${epDone}/${STEPS.length}</span>
+      `;
+      if (epDone === STEPS.length) a.style.opacity = '0.5';
+      a.addEventListener('click', closeMobileSidebar);
+      sec.appendChild(a);
+    });
+
+    sidebar.appendChild(sec);
+
+    // Main content — group header
+    const groupDiv = document.createElement('div');
+    groupDiv.id = `group-${group.id}`;
+    groupDiv.innerHTML = `
+      <div class="group-header${group === groups[0] ? '' : ''}">
+        <h2>${group.title}</h2>
+        <div class="en">${group.en}</div>
+        <div class="desc">${group.desc}</div>
+      </div>
+    `;
+
+    group.papers.forEach(p => {
+      let epDone = 0;
+      for (let i = 0; i < STEPS.length; i++) {
+        if (state[getKey(p.num, i)]) epDone++;
+      }
+      const isComplete = epDone === STEPS.length;
+      const cssClass = p.pair ? `pair-${p.pair.type}` : group.cssClass;
+
+      const card = document.createElement('div');
+      card.className = `paper-card${isComplete ? ' completed' : ''}`;
+      card.id = `paper-${p.num}`;
+      card.dataset.paperNum = p.num;
+
+      const pairBadge = p.pair
+        ? `<span class="pair-badge ${p.pair.type}">${p.pair.type === 'break' ? '破' : '立'}</span>`
+        : '';
+
+      const pairLink = p.pair
+        ? `<div class="paper-pair-link">${p.pair.type === 'break' ? '破' : '立'}｜配對：<a href="#paper-${p.pair.partner}">#${p.pair.partner}</a></div>`
+        : '';
+
+      let checklistHTML = STEPS.map((step, i) => {
+        const key = getKey(p.num, i);
+        const checked = state[key] ? 'checked' : '';
+        const id = `cb-${key}`;
+        return `<li>
+          <label for="${id}">
+            <input type="checkbox" id="${id}" data-key="${key}" data-paper="${p.num}" ${checked}>
+            <span class="${state[key] ? 'done' : ''}">${step} <span style="color:var(--ink-20);font-size:11px">${STEPS_EN[i]}</span></span>
+          </label>
+        </li>`;
+      }).join('');
+
+      card.innerHTML = `
+        <button class="paper-toggle" aria-expanded="false" data-paper-num="${p.num}">
+          <div class="paper-number ${cssClass}">${p.num}</div>
+          <div class="paper-info">
+            <div class="paper-title">${p.title} ${pairBadge}</div>
+            <div class="paper-title-en">${p.en}</div>
+          </div>
+          <div class="paper-meta">
+            ${p.sutras ? `<span class="paper-sutras">${p.sutras} 部經論</span>` : ''}
+            <span class="paper-expand-icon" aria-hidden="true">&#9654;</span>
+          </div>
+        </button>
+        <div class="paper-body" role="region">
+          ${pairLink}
+          <div class="paper-abstract">${p.abstract}</div>
+          <ul class="checklist">${checklistHTML}</ul>
+        </div>
+      `;
+
+      groupDiv.appendChild(card);
+    });
+
+    main.appendChild(groupDiv);
+  });
+
+  // Research stats
+  const allSutras = groups.flatMap(g => g.papers).reduce((sum, p) => sum + p.sutras, 0);
+  const statsDiv = document.createElement('div');
+  statsDiv.className = 'research-stats';
+  statsDiv.innerHTML = `
+    <h3>研究概覽</h3>
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-value" id="stat-pub-big">${pubPapers}</div>
+        <div class="stat-label">篇已發布</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">${totalPapers}</div>
+        <div class="stat-label">篇論文</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">${allSutras}</div>
+        <div class="stat-label">部經論引用</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">2</div>
+        <div class="stat-label">組一破一立</div>
+      </div>
+    </div>
+  `;
+  main.appendChild(statsDiv);
+
+  updateStats(totalSteps, doneSteps, totalPapers, pubPapers);
+}
+
+// ============================================================
+// INCREMENTAL UPDATES
+// ============================================================
+function countAll() {
+  let totalSteps = 0, doneSteps = 0, totalPapers = 0, pubPapers = 0;
+  groups.forEach(g => {
+    g.papers.forEach(p => {
+      let epDone = 0;
+      for (let i = 0; i < STEPS.length; i++) {
+        totalSteps++;
+        if (state[getKey(p.num, i)]) { doneSteps++; epDone++; }
+      }
+      totalPapers++;
+      if (epDone === STEPS.length) pubPapers++;
+    });
+  });
+  return { totalSteps, doneSteps, totalPapers, pubPapers };
+}
+
+function updateStats(totalSteps, doneSteps, totalPapers, pubPapers) {
+  document.getElementById('stat-done').textContent = doneSteps;
+  document.getElementById('stat-total').textContent = totalSteps;
+  document.getElementById('stat-pub').textContent = pubPapers;
+  document.getElementById('stat-papers').textContent = totalPapers;
+
+  const circumference = 2 * Math.PI * 17;
+  const pct = totalSteps ? (doneSteps / totalSteps) : 0;
+  document.getElementById('ring').style.strokeDashoffset = circumference * (1 - pct);
+  document.getElementById('ringSvg').setAttribute('aria-label', `完成進度 ${Math.round(pct * 100)}%`);
+
+  const pubBig = document.getElementById('stat-pub-big');
+  if (pubBig) pubBig.textContent = pubPapers;
+}
+
+function updatePaperUI(paperNum) {
+  let epDone = 0;
+  for (let i = 0; i < STEPS.length; i++) {
+    if (state[getKey(paperNum, i)]) epDone++;
+  }
+  const isComplete = epDone === STEPS.length;
+
+  const card = document.querySelector(`[data-paper-num="${paperNum}"]`);
+  if (card) {
+    card.closest('.paper-card').classList.toggle('completed', isComplete);
+  }
+
+  const nav = document.querySelector(`[data-nav-for="${paperNum}"]`);
+  if (nav) {
+    nav.querySelector('.nav-progress').textContent = `${epDone}/${STEPS.length}`;
+    nav.style.opacity = isComplete ? '0.5' : '';
+  }
+}
+
+// ============================================================
+// EVENT DELEGATION
+// ============================================================
+
+// Toggle cards
+document.getElementById('main').addEventListener('click', function(e) {
+  const btn = e.target.closest('.paper-toggle');
+  if (!btn) return;
+  const card = btn.closest('.paper-card');
+  const isOpen = card.classList.toggle('open');
+  btn.setAttribute('aria-expanded', isOpen);
+});
+
+// Checkbox changes
+document.getElementById('main').addEventListener('change', function(e) {
+  if (e.target.type !== 'checkbox') return;
+  const cb = e.target;
+  const key = cb.dataset.key;
+  state[key] = cb.checked;
+  saveState(state);
+
+  const span = cb.nextElementSibling;
+  if (span) span.classList.toggle('done', cb.checked);
+
+  updatePaperUI(cb.dataset.paper);
+  const counts = countAll();
+  updateStats(counts.totalSteps, counts.doneSteps, counts.totalPapers, counts.pubPapers);
+});
+
+// ============================================================
+// MOBILE SIDEBAR
+// ============================================================
+const menuBtn = document.getElementById('menuBtn');
+const sidebarEl = document.getElementById('sidebar');
+const overlayEl = document.getElementById('sidebarOverlay');
+
+function closeMobileSidebar() {
+  sidebarEl.classList.remove('open');
+  menuBtn.setAttribute('aria-expanded', 'false');
+}
+
+menuBtn.addEventListener('click', function() {
+  const isOpen = sidebarEl.classList.toggle('open');
+  this.setAttribute('aria-expanded', isOpen);
+});
+
+overlayEl.addEventListener('click', closeMobileSidebar);
+
+// ============================================================
+// INIT
+// ============================================================
+buildUI();
+</script>
+</body>
+</html>
