@@ -3,6 +3,14 @@
 *.swo
 *~
 .obsidian/
+.claude/
+
+# Internal working files (not for public repo)
+tasks/
+research/
+
+# Legacy RAG working directories
 papers/paper4/
 papers/paper5/
 papers/paper6/
+series*/rag/
