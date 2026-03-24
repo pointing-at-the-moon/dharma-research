@@ -306,6 +306,15 @@ This paper proposes a Buddhist thesis directly addressing a contemporary social 
 
 ---
 
-*本文以 CC BY-NC-SA 4.0 授權發布，歡迎轉載引用，敬請標明出處。*  
-*經論引文依 CBETA 電子佛典集成校對。*  
+## 系列論文交叉引用索引
+
+| Paper | 標題 | 與本文關係 |
+|-------|------|----------|
+| #3 | LLM 唯識定位 | #3 判定 AI 是器世間，#4 進一步論證器世間不生福報 |
+| #5 | 善用 AI 增上緣 | #4 破（AI 不生福報），#5 立（善用 AI 增上緣可助成善業） |
+
+---
+
+*本文以 CC BY-NC-SA 4.0 授權發布，歡迎轉載引用，敬請標明出處。*
+*經論引文依 CBETA 電子佛典集成校對。*
 *Repository: github.com/pointing-at-the-moon/dharma-research*
