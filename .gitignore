@@ -14,3 +14,10 @@ papers/paper4/
 papers/paper5/
 papers/paper6/
 series*/rag/
+
+# Draft ideas and plans (keep local, not for public repo)
+series*/paper*_draft_ideas.md
+series*/*_paper_plan.md
+
+# Progress dashboard (moved to local)
+docs/研究進度追蹤.html

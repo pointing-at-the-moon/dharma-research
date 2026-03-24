@@ -18,7 +18,7 @@ Papers #11–20 · YouTube EP08–16
 
 | # | 中文標題 | English Title | 狀態 |
 |---|---------|---------------|------|
-| 11 | 般若·心·經——標題即教法 | Prajna Heart Sutra: The Title IS the Teaching | 初稿 |
+| 11 | 般若·心·經——標題即教法 | Prajñā · Heart · Sūtra: The Title IS the Teaching | ✅ 完稿 |
 | 12 | 觀自在——因地菩提心的結構 | Avalokiteśvara: The Structure of Causal Bodhicitta | 規劃 |
 | 13 | 行深般若波羅蜜多——向內深入行蘊 | Going Deep: Into the Saṃskāra-skandha | 規劃 |
 | 14 | 照見五蘊皆空——識所現的覺醒迴路 | Seeing the Five Aggregates as Empty | 規劃 |
