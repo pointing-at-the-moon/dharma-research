@@ -1,6 +1,6 @@
 # Series 2：解 — 般若波羅蜜多：照見實相
 
-**PrajnaParamita — Seeing Reality As It Is**
+**PrajñāPāramitā — Seeing Reality As It Is**
 
 Papers #11–20 · YouTube EP08–16
 
@@ -16,9 +16,9 @@ Papers #11–20 · YouTube EP08–16
 
 ## 論文一覽
 
-| # | 中文標題 | English Title | 狀態 |
+| # | 中文標題 | English Title | 連結 |
 |---|---------|---------------|------|
-| 11 | 般若·心·經——標題即教法 | Prajñā · Heart · Sūtra: The Title IS the Teaching | ✅ 完稿 |
+| 11 | 般若·心·經——標題即教法 | Prajñā · Heart · Sūtra: The Title IS the Teaching | [中](../papers/般若心經標題即教法.md) · [EN](../papers/prajna-heart-sutra-title-is-teaching.md) |
 | 12 | 觀自在——因地菩提心的結構 | Avalokiteśvara: The Structure of Causal Bodhicitta | 規劃 |
 | 13 | 行深般若波羅蜜多——向內深入行蘊 | Going Deep: Into the Saṃskāra-skandha | 規劃 |
 | 14 | 照見五蘊皆空——識所現的覺醒迴路 | Seeing the Five Aggregates as Empty | 規劃 |
@@ -31,6 +31,4 @@ Papers #11–20 · YouTube EP08–16
 
 ---
 
-📋 詳細規劃見 [series2_paper_plan.md](series2_paper_plan.md)
-
-*本目錄包含規劃文件、RAG 查詢素材及草稿構想。論文完稿統一存放於 [`papers/`](../papers/)。*
+*論文完稿統一存放於 [`papers/`](../papers/)。*
