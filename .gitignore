@@ -19,5 +19,9 @@ series*/rag/
 series*/paper*_draft_ideas.md
 series*/*_paper_plan.md
 
+# Project instructions (local only)
+CLAUDE.md
+series*/CLAUDE.md
+
 # Progress dashboard (moved to local)
 docs/研究進度追蹤.html
