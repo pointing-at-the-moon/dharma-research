@@ -16,7 +16,7 @@
 
 ## Abstract
 
-This paper examines a crucial yet often overlooked prerequisite in Buddhist practice: **is your mind ready to receive deeper Dharma?** The Buddha used the parable of three water vessels in the *Saṃyukta Āgama* — one intact and non-leaking, one intact but leaking, one broken and leaking — to illustrate that receiving the Dharma requires a qualified container (dharma-pātra). The *Separate Translation Saṃyukta Āgama* records the Buddha's complete pedagogical sequence: first teaching generosity and morality, observing the listener's response, confirming readiness as a "dharma vessel," then revealing the Four Noble Truths. Building on this classical foundation, this paper argues that the modern digital environment systematically damages three basic capacities for receiving Dharma: sustained attention (corresponding to the leaking vessel), open listening (corresponding to the overturned vessel), and accurate understanding (corresponding to the contaminated vessel). The cross-disciplinary section (⚠️ structural correspondence, not theoretical equivalence) introduces attention science and neuroplasticity research, noting that short-video consumption reduces prefrontal cortex function — while meditation training strengthens the same regions. The Middle Way correction clarifies that this paper is neither anti-technology nor elitist, standing on the Avataṃsaka Sūtra's position that "all sentient beings can serve as dharma vessels for all Buddhas." This is Paper #9 in the series, following Paper #8 (stop seeking externally) and preparing for Paper #10 (the thirty-seven factors of awakening): before studying the Buddha's most complete practice roadmap, first confirm that your vessel can hold what you receive.
+This paper examines a crucial yet often overlooked prerequisite in Buddhist practice: **is your mind ready to receive deeper Dharma?** The Buddha used the parable of three water vessels in the *Saṃyukta Āgama* — one intact and non-leaking, one intact but leaking, one broken and leaking — to illustrate that receiving the Dharma requires a qualified container (dharma-pātra). The *Separate Translation Saṃyukta Āgama* records the Buddha's complete pedagogical sequence: first teaching generosity and morality, observing the listener's response, confirming readiness as a "dharma vessel," then revealing the Four Noble Truths. Building on this classical foundation, this paper argues that the modern digital environment systematically damages three basic capacities for receiving Dharma: sustained attention (corresponding to the leaking vessel), open listening (corresponding to the overturned vessel), and accurate understanding (corresponding to the contaminated vessel). The cross-disciplinary section (⚠️ structural correspondence, not theoretical equivalence) introduces attention science and neuroplasticity research, noting that short-video consumption reduces prefrontal cortex function — while meditation training strengthens the same regions. The Middle Way correction clarifies that this paper is neither anti-technology nor elitist, standing on the Avataṃsaka Sūtra's position that "all sentient beings can serve as dharma vessels for all Buddhas." This is S1-P09 in the series, following S1-P08 (stop seeking externally) and preparing for S1-P10 (the thirty-seven factors of awakening): before studying the Buddha's most complete practice roadmap, first confirm that your vessel can hold what you receive.
 
 **Keywords:** dharma-pātra, overturned vessel, leaking vessel, contaminated vessel, attention, neuroplasticity, digital detox, graduated teaching
 
@@ -324,9 +324,9 @@ But if you want to go deeper — if you do not merely want to take a photo at th
 
 **Clear out your biases.** Your vessel cannot be contaminated. When you encounter a viewpoint that differs from your existing understanding, do not rush to fit it into your framework. First set your framework aside. Understand the other person using their framework. Then come back and see whether your own framework needs revision.
 
-Paper #8 told you to stop seeking externally. [^19] This paper tells you: before you look inward, first confirm that your vessel can hold what you find.
+S1-P08 told you to stop seeking externally. [^19] This paper tells you: before you look inward, first confirm that your vessel can hold what you find.
 
-In the next paper (Paper #10), we will introduce the Buddha's most complete practice roadmap — the thirty-seven factors of awakening (saptatriṃśad-bodhipakṣa-dharmāḥ). [^20] But the prerequisite is: your vessel must be prepared first.
+In the next paper (S1-P10), we will introduce the Buddha's most complete practice roadmap — the thirty-seven factors of awakening (saptatriṃśad-bodhipakṣa-dharmāḥ). [^20] But the prerequisite is: your vessel must be prepared first.
 
 Starting today, put down your phone for ten minutes.
 
@@ -375,10 +375,10 @@ See if you can do it.
 
 | Paper | Title | Relationship to This Paper |
 |-------|-------|---------------------------|
-| #6 | Awareness as the Turning Point | #6 helps you notice your reactive patterns; #9 helps you assess whether your vessel can hold the Dharma |
-| #7 | Going Deeper into the Chain of Causation | #7 argues the seed mechanism; #9 examines whether you are ready to receive the seed teaching |
-| #8 | Do Not Seek Outside | #8 clarifies direction (stop seeking externally); #9 examines the container (is your vessel ready?) |
-| #10 | The Thirty-Seven Factors of Awakening (preview) | #9 is the prerequisite (vessel prepared); #10 is the method (practice via the thirty-seven factors) |
+| S1-P06 | Awareness as the Turning Point | S1-P06 helps you notice your reactive patterns; S1-P09 helps you assess whether your vessel can hold the Dharma |
+| S1-P07 | Going Deeper into the Chain of Causation | S1-P07 argues the seed mechanism; S1-P09 examines whether you are ready to receive the seed teaching |
+| S1-P08 | Do Not Seek Outside | S1-P08 clarifies direction (stop seeking externally); S1-P09 examines the container (is your vessel ready?) |
+| S1-P10 | The Thirty-Seven Factors of Awakening (preview) | S1-P09 is the prerequisite (vessel prepared); S1-P10 is the method (practice via the thirty-seven factors) |
 
 ---
 
@@ -401,9 +401,9 @@ See if you can do it.
 [^15]: For research on how meditation training strengthens the prefrontal cortex and anterior cingulate cortex, see Fox, K. C. R. et al. "Is Meditation Associated with Altered Brain Structure? A Systematic Review and Meta-analysis." *Neuroscience & Biobehavioral Reviews* 43 (2014): 48–73.
 [^16]: Georgetown University digital detox study. See also Newport, C. *Digital Minimalism: Choosing a Focused Life in a Noisy World*. Portfolio, 2019. Related experiments demonstrate significant attention recovery from short-term digital detox.
 [^17]: Csikszentmihalyi, M. *Flow: The Psychology of Optimal Experience*. Harper & Row, 1990. Core of flow theory: the balance between challenge and skill.
-[^18]: *Saṃyukta Āgama* 《雜阿含經》, fascicle 24, sūtra 615, "the mind seeks externally, and then one must restrain it to seek the mind" (心於外求，然後制令求其心), *Taishō* vol. 2, No. 0099. See Paper #8 in this series for full discussion.
+[^18]: *Saṃyukta Āgama* 《雜阿含經》, fascicle 24, sūtra 615, "the mind seeks externally, and then one must restrain it to seek the mind" (心於外求，然後制令求其心), *Taishō* vol. 2, No. 0099. See S1-P08 in this series for full discussion.
 [^19]: Shi Huijing 釋慧鏡, "Do Not Seek Outside — Take Refuge in Your Own Nature" (心不向外求——依止自性), Point-to-the-moon dharma-research, 2026.
-[^20]: The thirty-seven factors of awakening (saptatriṃśad-bodhipakṣa-dharmāḥ), the Buddha's most complete practice system, to be discussed in Paper #10 of this series.
+[^20]: The thirty-seven factors of awakening (saptatriṃśad-bodhipakṣa-dharmāḥ), the Buddha's most complete practice system, to be discussed in S1-P10 of this series.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ## Abstract
 
-This paper argues a core thesis taught repeatedly by the Buddha, transmitted consistently from the Āgamas through Chan: **the mind should not seek externally—because external conditions were never the source of satisfaction.** The argument proceeds: (1) an everyday entry point: the same bowl of rice tastes delicious when hungry and nauseating when full—what changed was not the food but your mind; from this arises the core question: if satisfaction does not come from the food, where does it come from? (2) In Yogācāra, vedanā (feeling) is a mental factor (caitta), not a property of external objects—"vedanā is characterized by the experience of agreeable, disagreeable, and neutral aspects"; two sticks rubbed together produce fire, but the fire resides in neither stick; (3) a systematic survey of the Buddha's complete teachings on not seeking externally in the Āgama corpus: from "the mind seeks externally, and then one must restrain it to seek the mind" to "be your own lamp, do not rely on another"; from "it is impossible for a stream-enterer to abandon the inner and seek externally" to "one who deeply sees dependent arising never seeks a teacher outside"; (4) hedonic adaptation as cross-disciplinary correspondence (⚠️ structural analogy only), demonstrating how modern psychology independently discovered the same phenomenon; (5) Middle Way corrections against asceticism and nihilism—after the Buddha attained awakening, he ate fine food when offered, and ate alms food when that was what came. This is Paper #8 in the series, following Paper #6 (awareness of outward-seeking) and Paper #7 (turning inward to plant seeds for the future), arguing the fundamental problem of external seeking: **it is not that good things don't exist outside, but that outside things cannot resolve your inner problem.**
+This paper argues a core thesis taught repeatedly by the Buddha, transmitted consistently from the Āgamas through Chan: **the mind should not seek externally—because external conditions were never the source of satisfaction.** The argument proceeds: (1) an everyday entry point: the same bowl of rice tastes delicious when hungry and nauseating when full—what changed was not the food but your mind; from this arises the core question: if satisfaction does not come from the food, where does it come from? (2) In Yogācāra, vedanā (feeling) is a mental factor (caitta), not a property of external objects—"vedanā is characterized by the experience of agreeable, disagreeable, and neutral aspects"; two sticks rubbed together produce fire, but the fire resides in neither stick; (3) a systematic survey of the Buddha's complete teachings on not seeking externally in the Āgama corpus: from "the mind seeks externally, and then one must restrain it to seek the mind" to "be your own lamp, do not rely on another"; from "it is impossible for a stream-enterer to abandon the inner and seek externally" to "one who deeply sees dependent arising never seeks a teacher outside"; (4) hedonic adaptation as cross-disciplinary correspondence (⚠️ structural analogy only), demonstrating how modern psychology independently discovered the same phenomenon; (5) Middle Way corrections against asceticism and nihilism—after the Buddha attained awakening, he ate fine food when offered, and ate alms food when that was what came. This is S1-P08 in the series, following S1-P06 (awareness of outward-seeking) and S1-P07 (turning inward to plant seeds for the future), arguing the fundamental problem of external seeking: **it is not that good things don't exist outside, but that outside things cannot resolve your inner problem.**
 
 **Keywords:** vedanā, caitta, external seeking, self-refuge, pañca-kāma, dukkha of not-obtaining, hedonic adaptation, satipaṭṭhāna
 
@@ -253,9 +253,9 @@ You do not need to add anything from the outside onto yourself. What you need is
 
 This is not motivational fluff. This is the conclusion verified repeatedly over twenty-five hundred years—through the Āgamas, Prajñā, Yogācāra, Huayan, and Chan, by every generation of awakened beings: if you seek externally, you will inevitably fail—not because there is nothing good out there, but because **the good things out there cannot resolve your inner problem**.
 
-Paper #6 told us: manaskāra (attention) allows you to become aware that you are seeking externally.[^20]
+S1-P06 told us: manaskāra (attention) allows you to become aware that you are seeking externally.[^20]
 
-Paper #7 told us: after turning inward, you plant wholesome seeds for your future self.[^21]
+S1-P07 told us: after turning inward, you plant wholesome seeds for your future self.[^21]
 
 This paper argues the more fundamental step: **why must you turn inward?** Because the path of seeking externally, followed to its end, is a dead end.
 
@@ -304,9 +304,9 @@ The person who does not know this is still looking outside.
 
 | Paper | Title | Relationship to This Paper |
 |-------|-------|---------------------------|
-| #2 | First Arousing Bodhicitta and the Dharma Stream | A Dharma vessel must be pure—seeking externally fills it with craving (Paper #9 will elaborate) |
-| #6 | Awareness Is the Turning Point | Manaskāra enables awareness of seeking externally—**this paper argues why turning inward is necessary** |
-| #7 | Deep into the Causal Chain | After turning inward, plant wholesome seeds for the future—the prerequisite is that you first stop seeking externally |
+| S1-P02 | First Arousing Bodhicitta and the Dharma Stream | A Dharma vessel must be pure—seeking externally fills it with craving (S1-P09 will elaborate) |
+| S1-P06 | Awareness Is the Turning Point | Manaskāra enables awareness of seeking externally—**this paper argues why turning inward is necessary** |
+| S1-P07 | Deep into the Causal Chain | After turning inward, plant wholesome seeds for the future—the prerequisite is that you first stop seeking externally |
 
 ---
 

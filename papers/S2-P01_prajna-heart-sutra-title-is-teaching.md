@@ -146,7 +146,7 @@ The *Vajracchedikā* answers: "**The Tathāgata has nowhere from which he comes,
 
 Nāgārjuna pushes this to its ultimate: "**With mind one sees the Buddha; with mind one becomes the Buddha. Mind itself is the Buddha; mind itself is my body. Yet the mind does not know itself, nor does it see itself.**"[^13] The Buddha is not somewhere outside waiting for you to arrive; the Buddha is your own mind — the only problem is that "the mind does not know itself." The Sixth Patriarch Huineng's great awakening — five exclamations of "who would have thought that self-nature..."[^14] — is precisely the structure of recognition: not "I have finally reached a new state," but "I never realized this was here all along."
 
-The doctrinal meaning of "neither coming nor going" receives its complete structural unfolding in the Heart Sūtra's opening sentence — "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he illuminated the emptiness of the five aggregates and transcended all suffering" — which constitutes a closed awakening loop whose endpoint returns to its origin: the causal-level "Avalokiteśvara" is the original face of the fruition-level "Avalokiteśvara." For the full argument with scriptural evidence, see Paper #12.
+The doctrinal meaning of "neither coming nor going" receives its complete structural unfolding in the Heart Sūtra's opening sentence — "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he illuminated the emptiness of the five aggregates and transcended all suffering" — which constitutes a closed awakening loop whose endpoint returns to its origin: the causal-level "Avalokiteśvara" is the original face of the fruition-level "Avalokiteśvara." For the full argument with scriptural evidence, see S2-P02.
 
 ---
 
@@ -248,10 +248,10 @@ The Tathāgata has nowhere from which he comes and nowhere to which he goes. You
 
 | Paper | Relationship to This Paper |
 |-------|---------------------------|
-| Paper #1 — The Butterfly Effect of Initial Aspiration | #1 examines the seed-effect of initial aspiration; #11 examines inherent prajñā and the structure of *āśraya-parāvṛtti*—two perspectives from planting the causal seed to recognizing original awakening |
-| Paper #6 — Awareness Is the Turning Point | #6 argues that *manaskāra* is the key to turning; #11 argues that *āśraya-parāvṛtti* is the deep structure encoded in the Heart Sutra's title—different levels of "turning" |
-| Paper #8 — Do Not Seek Outside | #8 diagnoses the root affliction of seeking satisfaction externally; #11 provides the scriptural foundation for inherent prajñā that need not be sought outside—the same thesis, grounded in canonical evidence |
-| Paper #12 — Avalokiteśvara: The Four Links of the Awakening Loop | #11 opens the question (the title as three-nature *āśraya-parāvṛtti*); #12 develops the first theme's four sentences (subject → method → insight → fruit) — #11's "neither coming nor going" receives its full structural argument in #12's closed-loop demonstration |
+| S1-P01 — The Butterfly Effect of Initial Aspiration | S1-P01 examines the seed-effect of initial aspiration; S2-P01 examines inherent prajñā and the structure of *āśraya-parāvṛtti*—two perspectives from planting the causal seed to recognizing original awakening |
+| S1-P06 — Awareness Is the Turning Point | S1-P06 argues that *manaskāra* is the key to turning; S2-P01 argues that *āśraya-parāvṛtti* is the deep structure encoded in the Heart Sutra's title—different levels of "turning" |
+| S1-P08 — Do Not Seek Outside | S1-P08 diagnoses the root affliction of seeking satisfaction externally; S2-P01 provides the scriptural foundation for inherent prajñā that need not be sought outside—the same thesis, grounded in canonical evidence |
+| S2-P02 — Avalokiteśvara: The Four Links of the Awakening Loop | S2-P01 opens the question (the title as three-nature *āśraya-parāvṛtti*); S2-P02 develops the first theme's four sentences (subject → method → insight → fruit) — S2-P01's "neither coming nor going" receives its full structural argument in S2-P02's closed-loop demonstration |
 
 ---
 

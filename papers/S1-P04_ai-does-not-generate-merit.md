@@ -74,7 +74,7 @@ The *Madhyamāgama* (Fascicle 2) records the Buddha's description of how merit g
 
 The "seven worldly merits" refer to the fruits of seven kinds of wholesome action including generosity and offerings. The Buddha used the Ganges metaphor to illustrate merit's **self-amplifying nature**—once wholesome seeds begin to mature, their fruits expand naturally, like the Ganges growing ever deeper and broader as it flows toward the sea.
 
-This self-amplifying mechanism is structurally identical to the "butterfly effect of initial aspiration" argued in Paper #1 of this series: once a pure seed enters the storehouse consciousness, it continues to grow through subsequent conditions. But a crucial distinction must be noted: **what grows is the merit itself, not the efficacy of any tool.** Merit grows according to the self-amplifying logic of wholesome seeds, independent of tool upgrades.
+This self-amplifying mechanism is structurally identical to the "butterfly effect of initial aspiration" argued in S1-P01 of this series: once a pure seed enters the storehouse consciousness, it continues to grow through subsequent conditions. But a crucial distinction must be noted: **what grows is the merit itself, not the efficacy of any tool.** Merit grows according to the self-amplifying logic of wholesome seeds, independent of tool upgrades.
 
 ### 2.4 The Miser Hears the Teaching on Generosity Like a Knife on an Unripe Wound
 
@@ -119,7 +119,7 @@ Yogācāra's four-condition theory (catvāri pratyayāni)[^6] provides a precise
 
 A simple analogy clarifies this doctrinal determination: fertile soil (auxiliary condition) is not the seed (direct cause). Without seeds, no matter how fertile the soil, nothing grows. AI is "soil"—it can be exceptionally high-quality soil, but if your ālaya-vijñāna contains no merit seeds, this soil is useless to you.
 
-Paper #3 in this series has already established that LLMs, within the Yogācāra framework, most precisely correspond to **bhājana-loka** (the container world)—a static cross-section of collective human karmic consciousness.[^7] The container world, as the environment produced by shared karma, bears the collective karma of sentient beings but itself possesses no independent consciousness, no discriminative capacity, creates no karma, and generates no merit.
+S1-P03 in this series has already established that LLMs, within the Yogācāra framework, most precisely correspond to **bhājana-loka** (the container world)—a static cross-section of collective human karmic consciousness.[^7] The container world, as the environment produced by shared karma, bears the collective karma of sentient beings but itself possesses no independent consciousness, no discriminative capacity, creates no karma, and generates no merit.
 
 Conclusion: **"AI helps me make money" = mistaking an auxiliary condition (tool) for a direct cause (seed). This is a structural cognitive error within Yogācāra causal theory.** ❌
 
@@ -237,7 +237,7 @@ The core argument of this paper may be summarized as follows:
 
 2. **Among nine causes of wealth diminishment, "lacking tools" is not one of them**—the variable "tools" simply does not exist in the Buddha's causal framework (*Saṃyuktāgama*, Fascicle 32).
 
-3. **AI is a container-world tool that can serve only as an auxiliary condition, not a direct cause**—without merit seeds, no tool generates wealth (Yogācāra four-condition theory + Paper #3 bhājana-loka positioning).
+3. **AI is a container-world tool that can serve only as an auxiliary condition, not a direct cause**—without merit seeds, no tool generates wealth (Yogācāra four-condition theory + S1-P03 bhājana-loka positioning).
 
 4. **The "AI wealth" narrative is the contemporary version of causal inversion**—mistaking the channel for the source, the auxiliary condition for the direct cause.
 

@@ -12,7 +12,7 @@
 **Date:** March 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
-**Series:** Understanding — Prajñāpāramitā: Seeing Reality As It Is (Paper #13 of 28)
+**Series:** Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P03)
 
 ---
 
@@ -54,7 +54,7 @@ Kuiji's answer in the *Youzhan* is: three incalculable great aeons.[^2] This is 
 
 The question of this paper is: **How does this transformation happen according to the scriptures?** Beyond the practice-depth (depth of the observing wisdom) and object-depth (depth of the observed reality) that Kuiji has already identified in the word "deep" (*shēn* 深), is there a third dimension — prajñā descending from saṃjñā-level understanding to saṃskāra-level instinct? What is the precise mechanism of this descent? From ordinary being to eighth bhūmi, what qualitative changes does compassion undergo at each stage?
 
-This paper continues from Paper #12 (*Avalokiteśvara: The Four Links of the Awakening Loop*), expanding the second link of the awakening loop — "deep practice." Paper #12 established the closed-loop structure of the Heart Sūtra's opening sentence, touching on Kuiji's practice-depth/object-depth duality and the cognitive psychology analogy of automaticity. The present paper takes this link as its independent subject, using compassion as a concrete case to trace the complete transformation path from saṃjñā to saṃskāra.
+This paper continues from S2-P02 (*Avalokiteśvara: The Four Links of the Awakening Loop*), expanding the second link of the awakening loop — "deep practice." S2-P02 established the closed-loop structure of the Heart Sūtra's opening sentence, touching on Kuiji's practice-depth/object-depth duality and the cognitive psychology analogy of automaticity. The present paper takes this link as its independent subject, using compassion as a concrete case to trace the complete transformation path from saṃjñā to saṃskāra.
 
 ---
 
@@ -188,7 +188,7 @@ First-bhūmi compassion still bears this characteristic. The *Avataṃsaka Sūtr
 
 **Stage Two: manas hijacks wholesome dharmas.** As practice deepens, a more insidious crisis emerges: manas — the seventh consciousness that perpetually deliberates and grasps "self" — begins to hijack compassion. You do compassionate things, but the motivation unconsciously slides from "for sentient beings" to "to prove I am a compassionate person." When you see someone who needs help, your first thought is no longer their suffering but "this is an opportunity to showcase my compassion." *Māna* (conceit) has donned the robes of compassion.
 
-This stage has no independent name in the scriptures, yet it is among Yogācāra's most penetrating insights: manas's self-grasping does not cease merely because you are performing wholesome deeds. It simply adopts more sophisticated disguises. Paper #3 has already demonstrated the projection mechanism of manas;[^33] in the present context, manas's hijacking of compassion is a symptom of prajñā having not yet penetrated the saṃskāra — saṃjñā knows "one should not grasp self," but the automatic response patterns of the saṃskāra (perpetual deliberation, the four ever-present afflictions) remain untouched.
+This stage has no independent name in the scriptures, yet it is among Yogācāra's most penetrating insights: manas's self-grasping does not cease merely because you are performing wholesome deeds. It simply adopts more sophisticated disguises. S1-P03 has already demonstrated the projection mechanism of manas;[^33] in the present context, manas's hijacking of compassion is a symptom of prajñā having not yet penetrated the saṃskāra — saṃjñā knows "one should not grasp self," but the automatic response patterns of the saṃskāra (perpetual deliberation, the four ever-present afflictions) remain untouched.
 
 **Stage Three: a mother's instinctive love — conventional-truth saṃskāra transformation.** A mother needs no reminder to "love her child." Her love already operates at the saṃskāra level — an instinctive creative pattern that requires no saṃjñā activation. Someone else's child is noisy: you feel irritated. Your own child is noisy: you naturally accommodate — because your love for your own child is already "firmware" at the saṃskāra level, requiring no passage through the saṃjñā program of "I should be patient."
 
@@ -224,7 +224,7 @@ The transformation from saṃjñā to saṃskāra has a precise mechanism in Yog
 
 **First level: cetanā determines the direction of creation.** Cetanā is the sovereign of saṃskāra, whose nature is "causing the mind to create, directing the mind toward wholesome states and the like."[^38] Every act of creation — whether wholesome or unwholesome — perfumes seeds in the ālaya-vijñāna. *Yogācārabhūmi-śāstra*, Scroll 53, explicitly records: unwholesome cetanā "by means of seeds and manifest activity, operating in the continuum of the present" continuously functions; wholesome cetanā "always accompanies its seeds, and from time to time also accompanies manifest activity."[^39] The interaction between cetanā and seeds is continuous and automatic — your every act of creation either strengthens or weakens specific seeds.
 
-**Second level: hearing-perfumation awakens inherently present uncontaminated seeds.** *Cheng weishi lun*, Scroll 2, records a critical mechanism: uncontaminated seeds "are inherently present by nature" (*fǎ ěr běnyǒu*) but dormant in the ordinary-being stage; "when hearing correct Dharma, it also perfumes the inherently present uncontaminated seeds, causing them to gradually increase, progressively until the supramundane mind arises."[^40] The inherently present uncontaminated seeds are the direct cause (*hetu-pratyaya*); hearing-perfumation is the dominant condition (*adhipati-pratyaya*) — as if the seed was always in the soil, and hearing the Dharma is watering it. This is consistent with the *adhipati-pratyaya* theory in Papers #4–5.[^41]
+**Second level: hearing-perfumation awakens inherently present uncontaminated seeds.** *Cheng weishi lun*, Scroll 2, records a critical mechanism: uncontaminated seeds "are inherently present by nature" (*fǎ ěr běnyǒu*) but dormant in the ordinary-being stage; "when hearing correct Dharma, it also perfumes the inherently present uncontaminated seeds, causing them to gradually increase, progressively until the supramundane mind arises."[^40] The inherently present uncontaminated seeds are the direct cause (*hetu-pratyaya*); hearing-perfumation is the dominant condition (*adhipati-pratyaya*) — as if the seed was always in the soil, and hearing the Dharma is watering it. This is consistent with the *adhipati-pratyaya* theory in S1-P04–S1-P05.[^41]
 
 **Third level: the gradual structure of the six types of āśraya-parāvṛtti.** *Cheng weishi lun*, Scroll 10, describes the entire transformation process through six types of basis-revolution:[^42]
 
@@ -302,7 +302,7 @@ This has a structural parallel with the Yogācāra five-stage path: the accumula
 
 Neuroplasticity research (Doidge 2007, Davidson & Lutz 2008) demonstrates that the brains of long-term meditation practitioners differ significantly from non-practitioners in both structure and function — prefrontal cortex thickening, amygdala reactivity reduction, increased γ-wave activity. These changes indicate that the brain's "default response mode" can indeed be rewritten through sustained training.
 
-Paper #9 has already demonstrated the restorative effects of mindfulness training on prefrontal function.[^56] In the present context, neuroplasticity provides corroboration at the conventional-truth level: the creative patterns of saṃskāra are not permanently fixed. Just as seeds in the ālaya-vijñāna can be altered by perfumation, neural pathways in the brain can be reshaped by training.
+S1-P09 has already demonstrated the restorative effects of mindfulness training on prefrontal function.[^56] In the present context, neuroplasticity provides corroboration at the conventional-truth level: the creative patterns of saṃskāra are not permanently fixed. Just as seeds in the ālaya-vijñāna can be altered by perfumation, neural pathways in the brain can be reshaped by training.
 
 ⚠️ **Heuristic analogy.** Yogācāra's saṃskāra transformation points toward the manifestation of uncontaminated seeds and the basis-revolution of ālaya-vijñāna, and cannot be reduced to the material process of neuroplasticity. Changes in neural pathways are the accompanying phenomenon of saṃskāra transformation at the vessel-world (*bhājana-loka*) level, not its cause. Confusing the two leads to the reductionist misunderstanding that "practice = brain training" — yet the fact that "default patterns can be rewritten" genuinely helps readers unfamiliar with Yogācāra concepts build intuitive understanding.
 
@@ -320,7 +320,7 @@ The description of "saṃjñā → saṃskāra" may mislead readers into thinkin
 
 ### ❌ 5.3 Misunderstanding Three: The Mind Is a Computer, Saṃskāra Transformation = Flashing Firmware
 
-This paper uses the "firmware" analogy to help modern readers understand the operational difference between saṃjñā and saṃskāra, but its boundaries must be strictly delimited. The mind is not a computer — this is a core thesis already established in Paper #3.[^59] Computer firmware is passive code: once written, it is fixed; once overwritten, it disappears. Saṃskāra's creative patterns are living seed-streams, and the cycle of "seeds produce manifestation, manifestation perfumes seeds" never ceases. The more fundamental difference: computers have no awareness (the *manaskāra* criterion of Paper #3), while saṃskāra-prajñā is the manifestation of *nirvikalpaka-jñāna* — it is "effortless" not "awareness-less," meaning awareness so thorough, so natural, that the additional characteristic of "there is someone being aware" is unnecessary.
+This paper uses the "firmware" analogy to help modern readers understand the operational difference between saṃjñā and saṃskāra, but its boundaries must be strictly delimited. The mind is not a computer — this is a core thesis already established in S1-P03.[^59] Computer firmware is passive code: once written, it is fixed; once overwritten, it disappears. Saṃskāra's creative patterns are living seed-streams, and the cycle of "seeds produce manifestation, manifestation perfumes seeds" never ceases. The more fundamental difference: computers have no awareness (the *manaskāra* criterion of S1-P03), while saṃskāra-prajñā is the manifestation of *nirvikalpaka-jñāna* — it is "effortless" not "awareness-less," meaning awareness so thorough, so natural, that the additional characteristic of "there is someone being aware" is unnecessary.
 
 ### ❌ 5.4 Misunderstanding Four: "Automaticity" = No Awareness = Ignorance
 
@@ -344,11 +344,11 @@ Using the mother analogy: a mother's love for her child is "automatic," but she 
 
 **Four: "freedom" = contaminated seeds exhausted.** Avalokiteśvara is "free in observation" not because he suppresses afflictions through willpower, but because all seeds capable of harming beings have been completely eliminated. Without seeds, no external condition can activate negative manifestation. The same child crying — you are afflicted because your anger-seed is activated; a mother is not afflicted because that seed is overridden by love; Avalokiteśvara is not afflicted because that seed simply no longer exists. Going deep into saṃskāra means not only "installing" the new firmware of compassion but simultaneously "deleting" the old firmware of contaminated seeds — relinquishing and attaining must be understood together.
 
-**Five: Avalokiteśvara is free precisely because he has gone deep.** Paper #12 demonstrates the awakening loop of the Heart Sūtra's opening sentence: Avalokiteśvara (subject) → going deep (method) → illuminating (insight) → transcending suffering (fruit). This paper reveals the internal structure of the "going deep" link: when prajñā has entered the saṃskāra level, one observes freely in all situations — not because external conditions have changed, but because your response patterns have been rewritten by prajñā. Someone else's child is noisy and you are afflicted; your own child is noisy and you observe freely — the difference is not in the child but in your saṃskāra. And Avalokiteśvara observes freely with respect to all sentient beings.
+**Five: Avalokiteśvara is free precisely because he has gone deep.** S2-P02 demonstrates the awakening loop of the Heart Sūtra's opening sentence: Avalokiteśvara (subject) → going deep (method) → illuminating (insight) → transcending suffering (fruit). This paper reveals the internal structure of the "going deep" link: when prajñā has entered the saṃskāra level, one observes freely in all situations — not because external conditions have changed, but because your response patterns have been rewritten by prajñā. Someone else's child is noisy and you are afflicted; your own child is noisy and you observe freely — the difference is not in the child but in your saṃskāra. And Avalokiteśvara observes freely with respect to all sentient beings.
 
 **Six: "time" is every present moment.** Three incalculable great aeons are not meant to drive you to despair but to ground you in practicality. Each correct act of creation diminishes one fraction of contaminated seed and enhances one fraction of pure seed. This one act of compassion you perform right now — even though it still requires a reminder — is pushing prajñā one micrometer from saṃjñā toward saṃskāra. Three great incalculable aeons are composed of countless such micrometers.
 
-The next line of the Heart Sūtra reads "illuminated the emptiness of the five aggregates" — to what depth must one go deep before illumination? This is the question of Paper #14.
+The next line of the Heart Sūtra reads "illuminated the emptiness of the five aggregates" — to what depth must one go deep before illumination? This is the question of S1-P014.
 
 ---
 
@@ -396,7 +396,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 [^5]: Ibid. The As-Appropriate interpretation of "practice."
 [^6]: Ibid. The As-Appropriate rebuttal: "If there were no practice yet also nothing not practiced, then the ignorance of sentient beings would be nothing not illuminated, and from beginningless time all should already be illuminated — but who was the one previously unilluminated and now illuminated?"
 [^7]: Ibid. "One must possess the two types of Mahāyāna lineage and be able to cultivate gradually through the five stages."
-[^8]: Ibid. Kuiji's analysis of "two kinds of depth." Paper #12 §2.4 previously cited this passage; the present paper re-cites it to establish a complete argumentative foundation.
+[^8]: Ibid. Kuiji's analysis of "two kinds of depth." S2-P02 §2.4 previously cited this passage; the present paper re-cites it to establish a complete argumentative foundation.
 [^9]: *Mahāprajñāpāramitā-śāstra*, Scroll 34, T25, No. 1509.
 [^10]: *Mahāprajñāpāramitā-śāstra*, Scroll 62, T25, No. 1509.
 [^11]: *Mahāprajñāpāramitā-śāstra*, Scroll 34, T25, No. 1509.
@@ -422,7 +422,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 [^31]: Ibid.
 [^31b]: *Avataṃsaka Sūtra*, Scroll 38, Ten Stages — Eighth Bhūmi, T10, No. 0279. From the section on the ten names of the eighth bhūmi: "Attains the well-established power of great compassion, not abandoning benefit for sentient beings; attains the well-established power of great loving-kindness, rescuing all worlds."
 [^32]: *Avataṃsaka Sūtra*, Scroll 34, Ten Stages — First Bhūmi, T10, No. 0279.
-[^33]: See Paper #3 in this series: *Yogācāra Positioning of Large Language Models*, §3.3 on the manas projection mechanism.
+[^33]: See S1-P03 in this series: *Yogācāra Positioning of Large Language Models*, §3.3 on the manas projection mechanism.
 [^34]: *Avataṃsaka Sūtra*, Scroll 37, Ten Stages — Sixth Bhūmi, T10, No. 0279.
 [^35]: Ibid., Seventh Bhūmi.
 [^36]: Ibid.
@@ -430,7 +430,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 [^38]: *Cheng weishi lun*, Scroll 3, T31, No. 1585.
 [^39]: *Yogācārabhūmi-śāstra*, Scroll 53, T30, No. 1579.
 [^40]: *Cheng weishi lun*, Scroll 2, T31, No. 1585.
-[^41]: See Papers #4–5 in this series: *AI Does Not Generate Merit* / *Skillful Use of AI as Adhipati-pratyaya*.
+[^41]: See S1-P04–S1-P05 in this series: *AI Does Not Generate Merit* / *Skillful Use of AI as Adhipati-pratyaya*.
 [^42]: *Cheng weishi lun*, Scroll 10, T31, No. 1585. The six types of basis-revolution.
 [^43]: Ibid. Citing the *Mahāyānasaṃgraha* on the distinction between the first six and last four bhūmis.
 [^44]: *Cheng weishi lun*, Scroll 9, T31, No. 1585.
@@ -445,15 +445,15 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 [^53]: Ibid. The second layer.
 [^54]: Ibid. The fifth layer.
 [^55]: Ibid. Summary of the five layers.
-[^56]: See Paper #9 in this series: *Preparing the Vessel*, §4 on attention science.
+[^56]: See S1-P09 in this series: *Preparing the Vessel*, §4 on attention science.
 [^57]: Kuiji, *Youzhan*, Scroll 2, T33, No. 1710.
 [^58]: *Cheng weishi lun*, Scroll 10, T31, No. 1585.
-[^59]: See Paper #3 in this series: *Yogācāra Positioning of Large Language Models*, §3 Core Argument.
+[^59]: See S1-P03 in this series: *Yogācāra Positioning of Large Language Models*, §3 Core Argument.
 [^60]: Kuiji, *Youzhan*, Scroll 1, preface, T33, No. 1710. "Bound by habitual obstructions, confused about the true nature of dharmas."
 
 ---
 
-*This is Paper #13 of the Point-to-the-moon research project. Scriptural citations verified against the CBETA Taishō Tripiṭaka RAG system.*
+*This is S2-P03 of the Point-to-the-moon research project. Scriptural citations verified against the CBETA Taishō Tripiṭaka RAG system.*
 
 *Shi Huijing 釋慧鏡 | Point-to-the-moon 指月*
 *CC BY-NC-SA 4.0 | CBETA-verified | github.com/pointing-at-the-moon/dharma-research*
