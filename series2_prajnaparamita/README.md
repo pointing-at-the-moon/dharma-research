@@ -20,6 +20,7 @@ Papers #11–20 (in progress)
 | S2-P02 | 觀自在——覺醒迴路的四個環節 | Avalokiteśvara: The Four Links of the Awakening Loop | [中](../papers/S2-P02_觀自在覺醒迴路.md) · [EN](../papers/S2-P02_avalokitesvara-awakening-loop.md) |
 | S2-P03 | 行深——朝內，深入行蘊 | Going Deep: Inward, Into the Formations | [中](../papers/S2-P03_行深朝內深入行蘊.md) · [EN](../papers/S2-P03_going-deep-inward-into-the-formations.md) |
 | S2-P04 | 照見五蘊皆空——本來具足的洞見 | Illuminating the Emptiness of the Five Aggregates: An Insight Already Within | [中](../papers/S2-P04_照見五蘊皆空.md) · [EN](../papers/S2-P04_illuminating-emptiness-of-five-aggregates.md) |
+| S2-P05 | 色即是空——苦的生產線 | Form Is Emptiness: The Assembly Line of Suffering | [中](../papers/S2-P05_色即是空苦的生產線.md) · [EN](../papers/S2-P05_form-is-emptiness-assembly-line-of-suffering.md) |
 
 ---
 

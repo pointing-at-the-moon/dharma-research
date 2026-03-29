@@ -14,6 +14,7 @@ papers/paper4/
 papers/paper5/
 papers/paper6/
 series*/rag/
+series*/rag_*.sh
 
 # Draft ideas and plans (keep local, not for public repo)
 series*/paper*_draft_ideas.md
