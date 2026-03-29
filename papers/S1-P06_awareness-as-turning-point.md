@@ -38,7 +38,7 @@ A strict disclaimer is necessary here (⚠️): quantum observation is a physica
 
 Yet the intuition revealed by this structural form is profound: **Before you observe yourself, your life disperses across various possibilities like a wave function. When you begin to observe—when you activate yoniśo manaskāra—your life trajectory begins to change.**
 
-Paper #3 in this series, "Yogācāra Positioning of Large Language Models," used manaskāra as the criterion to argue that AI "is not consciousness"—because AI does not possess manaskāra among the five universal mental factors.[^2] That was an argument of negation. The present paper is an argument of affirmation: since manaskāra is the dividing line between consciousness and non-consciousness, how can human beings—sentient beings who possess manaskāra—skillfully employ this mental factor to shift from passive karmic reactivity to an active path of practice?
+S1-P03 in this series, "Yogācāra Positioning of Large Language Models," used manaskāra as the criterion to argue that AI "is not consciousness"—because AI does not possess manaskāra among the five universal mental factors.[^2] That was an argument of negation. The present paper is an argument of affirmation: since manaskāra is the dividing line between consciousness and non-consciousness, how can human beings—sentient beings who possess manaskāra—skillfully employ this mental factor to shift from passive karmic reactivity to an active path of practice?
 
 This is the core question of this paper.
 
@@ -182,9 +182,9 @@ The *Avataṃsaka Sūtra* (Fascicle 46) makes a resounding declaration:
 
 "At the moment of first generating the aspiration, one already achieves perfect enlightenment"—this does not mean that by generating an aspiration you have instantly become a Buddha. Rather, it means: **the very thought of generating aspiration already contains, at the causal level, the complete seeds of the fruition.** The moment you activate yoniśo manaskāra, your life trajectory has already changed. Because within the framework of seed-theory (bīja-vāda), the first wholesome seed is perfumed into the ālaya-vijñāna from this very thought—it will not disappear; it awaits the maturation of conditions.
 
-"Does not awaken through another"—this awakening cannot be completed for you by someone else. Your parents cannot generate aspiration on your behalf, your teacher cannot be aware for you, your AI cannot perform manaskāra for you. This is the core argument of Paper #3 in this series: AI does not possess manaskāra, therefore it is not consciousness and cannot awaken.[^2] Human beings possess manaskāra—therefore you can awaken. But the prerequisite is: you must activate it.
+"Does not awaken through another"—this awakening cannot be completed for you by someone else. Your parents cannot generate aspiration on your behalf, your teacher cannot be aware for you, your AI cannot perform manaskāra for you. This is the core argument of S1-P03 in this series: AI does not possess manaskāra, therefore it is not consciousness and cannot awaken.[^2] Human beings possess manaskāra—therefore you can awaken. But the prerequisite is: you must activate it.
 
-Paper #1 in this series, "The Butterfly Effect of First Aspiration," demonstrated how the initial thought of yoniśo manaskāra produces exponential impact through causal processes—small differences in initial conditions lead to entirely different karmic trajectories.[^17] Paper #2, "First Generation of Bodhicitta and the Dharma Stream," argued that generating aspiration opens the channel for receiving the true Dharma—the generation of aspiration is itself a form of yoniśo manaskāra that shifts you from "unable to hear" the Dharma to "able to hear" the Dharma.[^18]
+S1-P01 in this series, "The Butterfly Effect of First Aspiration," demonstrated how the initial thought of yoniśo manaskāra produces exponential impact through causal processes—small differences in initial conditions lead to entirely different karmic trajectories.[^17] S1-P02, "First Generation of Bodhicitta and the Dharma Stream," argued that generating aspiration opens the channel for receiving the true Dharma—the generation of aspiration is itself a form of yoniśo manaskāra that shifts you from "unable to hear" the Dharma to "able to hear" the Dharma.[^18]
 
 The Samantabhadra chapter of the *Avataṃsaka Sūtra* also encourages practitioners:
 
@@ -256,7 +256,7 @@ This wholesome seed will not disappear because you planted it for only one day. 
 
 Yoniśo manaskāra is not merely a technique for use during seated meditation. It is an encompassing life orientation.
 
-In Paper #3 of this series, "Yogācāra Positioning of Large Language Models," we used an analogy to illustrate AI's operating mode: AI's behavior is determined by a system prompt—whatever role you assign it, it plays that role.[^2] Interestingly, this analogy can be applied in reverse to human practice:
+In S1-P03 of this series, "Yogācāra Positioning of Large Language Models," we used an analogy to illustrate AI's operating mode: AI's behavior is determined by a system prompt—whatever role you assign it, it plays that role.[^2] Interestingly, this analogy can be applied in reverse to human practice:
 
 **The "role" you set for yourself each morning is your system prompt.**
 
@@ -428,7 +428,7 @@ Right view (sammā-diṭṭhi) is the navigation system of yoniśo manaskāra. A
 
 The Dharma's yoniśo manaskāra, observation, and mindfulness were never intended to make you more efficient at succeeding within saṃsāra. They are meant to help you see the true nature of saṃsāra—suffering, impermanence, non-self—and then generate the aspiration for renunciation, moving toward liberation.
 
-This directly echoes the argument of Paper #4 in this series, "AI Does Not Generate Merit."[^29] That paper demonstrated that AI as a tool can enhance your efficiency, but efficiency does not equal merit. Similarly, awareness can improve the quality of your decisions, but decision quality does not equal liberation.
+This directly echoes the argument of S1-P04 in this series, "AI Does Not Generate Merit."[^29] That paper demonstrated that AI as a tool can enhance your efficiency, but efficiency does not equal merit. Similarly, awareness can improve the quality of your decisions, but decision quality does not equal liberation.
 
 ❌ **Yoniśo manaskāra must not be treated as a "life optimization tool."** If your yoniśo manaskāra is: "Today I will be aware of every thought so I can avoid impulse spending and invest the savings in cryptocurrency"—this is not yoniśo manaskāra. This is greed using awareness as its instrument; it is ayoniśo manaskāra wearing the costume of practice.
 
@@ -436,7 +436,7 @@ The Middle Way position is: worldly success is not a bad thing. The Buddha taugh
 
 A householder practicing yoniśo manaskāra may succeed in business, or may not. External success or failure depends on countless conditions—past karma, present effort, social circumstances—none of which your awareness can fully control. But the internal direction—from clinging to letting go, from automatic reaction to aware response, from chasing saṃsāric pleasures to moving toward the peace of liberation—this direction is what your yoniśo manaskāra can determine.
 
-✅ **Doctrinally established:** The goal of yoniśo manaskāra is liberation, not worldly success. Worldly success may be a byproduct of the practice process, but a byproduct cannot replace the goal. This echoes Paper #4, "AI Does Not Generate Merit"—the skillful use of tools does not equal the attainment of the purpose.
+✅ **Doctrinally established:** The goal of yoniśo manaskāra is liberation, not worldly success. Worldly success may be a byproduct of the practice process, but a byproduct cannot replace the goal. This echoes S1-P04, "AI Does Not Generate Merit"—the skillful use of tools does not equal the attainment of the purpose.
 
 ---
 
@@ -503,14 +503,14 @@ But the first step is simply this: **This morning, did you see yourself?**
 ### II. Modern Scholarship
 
 [^1]: Feynman, R. P., Leighton, R. B., & Sands, M. (1965). *The Feynman Lectures on Physics*, Vol. III. Addison-Wesley. Classic exposition of the double-slit experiment.
-[^2]: Shi Huijing (2026). "Yogācāra Positioning of Large Language Models." Paper #3 in the Point-to-the-moon series.
+[^2]: Shi Huijing (2026). "Yogācāra Positioning of Large Language Models." S1-P03 in the Point-to-the-moon series.
 [^3]: Yokoyama, Kōichi (2017). *Introduction to Yogācāra Thought* 唯識思想入門. Tokyo: Shunjūsha. Modern scholarly analysis of the five universal mental factors.
-[^17]: Shi Huijing (2026). "The Butterfly Effect of First Aspiration." Paper #1 in the Point-to-the-moon series.
-[^18]: Shi Huijing (2026). "First Generation of Bodhicitta and the Dharma Stream." Paper #2 in the Point-to-the-moon series.
+[^17]: Shi Huijing (2026). "The Butterfly Effect of First Aspiration." S1-P01 in the Point-to-the-moon series.
+[^18]: Shi Huijing (2026). "First Generation of Bodhicitta and the Dharma Stream." S1-P02 in the Point-to-the-moon series.
 [^24]: Beck, A. T. (1979). *Cognitive Therapy and Emotional Disorders*. New York: Penguin Books.
 [^25]: Kabat-Zinn, J. (1990). *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. New York: Dell Publishing.
 [^26]: Hölzel, B. K., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36–43.
-[^29]: Shi Huijing (2026). "AI Does Not Generate Merit." Paper #4 in the Point-to-the-moon series.
+[^29]: Shi Huijing (2026). "AI Does Not Generate Merit." S1-P04 in the Point-to-the-moon series.
 
 ### III. Sūtra & Śāstra Index
 
@@ -532,14 +532,14 @@ But the first step is simply this: **This morning, did you see yourself?**
 
 | Paper | Relationship to This Paper |
 |:---|:---|
-| Paper #1, "The Butterfly Effect of First Aspiration" | Yoniśo manaskāra = the initial conditions of the butterfly effect. The directional choice in the initial thought produces exponential impact through causal processes. |
-| Paper #2, "First Generation of Bodhicitta and the Dharma Stream" | Generating aspiration = the "yoniśo manaskāra" that opens reception. The generation of bodhicitta is itself a form of yoniśo manaskāra that shifts the practitioner from "unable to hear" the Dharma to "able to hear" the Dharma. |
-| Paper #3, "Yogācāra Positioning of Large Language Models" | Used manaskāra to determine that AI "is not consciousness" → Paper #6 uses manaskāra to explain how humans "can awaken." Negation and affirmation together form a complete doctrinal picture. |
-| Paper #4, "AI Does Not Generate Merit" | "Observing trends" does not equal merit. The Middle Way correction in §5.3 directly echoes this—awareness is not for worldly success but for liberation. |
-| Paper #5, "Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit" | Yoniśo manaskāra is the prerequisite for skillful use of adhipati-pratyaya. Without the guidance of yoniśo manaskāra, adhipati-pratyaya (including AI) merely reinforces existing karmic inertia. |
+| S1-P01, "The Butterfly Effect of First Aspiration" | Yoniśo manaskāra = the initial conditions of the butterfly effect. The directional choice in the initial thought produces exponential impact through causal processes. |
+| S1-P02, "First Generation of Bodhicitta and the Dharma Stream" | Generating aspiration = the "yoniśo manaskāra" that opens reception. The generation of bodhicitta is itself a form of yoniśo manaskāra that shifts the practitioner from "unable to hear" the Dharma to "able to hear" the Dharma. |
+| S1-P03, "Yogācāra Positioning of Large Language Models" | Used manaskāra to determine that AI "is not consciousness" → S1-P06 uses manaskāra to explain how humans "can awaken." Negation and affirmation together form a complete doctrinal picture. |
+| S1-P04, "AI Does Not Generate Merit" | "Observing trends" does not equal merit. The Middle Way correction in §5.3 directly echoes this—awareness is not for worldly success but for liberation. |
+| S1-P05, "Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit" | Yoniśo manaskāra is the prerequisite for skillful use of adhipati-pratyaya. Without the guidance of yoniśo manaskāra, adhipati-pratyaya (including AI) merely reinforces existing karmic inertia. |
 
 ---
 
-*This is Paper #6 in the Point-to-the-moon series, published under CC BY-NC-SA 4.0.*
+*This is S1-P06 in the Point-to-the-moon series, published under CC BY-NC-SA 4.0.*
 *Scriptural quotations verified against the CBETA Chinese Electronic Tripiṭaka Collection.*
 *Repository: github.com/pointing-at-the-moon/dharma-research*

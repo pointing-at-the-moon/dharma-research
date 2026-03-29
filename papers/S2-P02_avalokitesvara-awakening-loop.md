@@ -11,7 +11,7 @@
 **Date:** March 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.1
-**Series:** Understanding — Prajñāpāramitā: Illuminating Reality (Paper #12 of 28)
+**Series:** Understanding — Prajñāpāramitā: Illuminating Reality (S2-P02)
 
 ---
 
@@ -379,11 +379,11 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 | Related Paper | Connection |
 |--------------|------------|
-| Paper #11: The Title of the Heart Sūtra as Teaching Itself | Continues from title deconstruction into the sūtra's first sentence |
-| Paper #13 (forthcoming: Deepening the Five Aggregates) | The four form-emptiness statements and the Yogācāra reading of the aggregates |
-| Paper #2: Bodhicitta and Dharma-Flow | The causal-level aspiration mechanism and dharma-flow empowerment |
-| Paper #3: Yogācāra Positioning of Large Language Models | Pratyavekṣaṇā-jñāna vs the five universal mental factors as criterion |
-| Paper #9: Prerequisites of the Dharma-Vessel | Transition from Series 1 aspiration to Series 2 prajñā practice |
+| S2-P01: The Title of the Heart Sūtra as Teaching Itself | Continues from title deconstruction into the sūtra's first sentence |
+| S2-P03 (forthcoming: Deepening the Five Aggregates) | The four form-emptiness statements and the Yogācāra reading of the aggregates |
+| S1-P02: Bodhicitta and Dharma-Flow | The causal-level aspiration mechanism and dharma-flow empowerment |
+| S1-P03: Yogācāra Positioning of Large Language Models | Pratyavekṣaṇā-jñāna vs the five universal mental factors as criterion |
+| S1-P09: Prerequisites of the Dharma-Vessel | Transition from Series 1 aspiration to Series 2 prajñā practice |
 
 ---
 
@@ -447,7 +447,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 ---
 
-*This paper is Paper #12 of the Point-to-the-moon research project. All scriptural citations verified through the CBETA Tripiṭaka RAG system.*
+*This paper is S2-P02 of the Point-to-the-moon research project. All scriptural citations verified through the CBETA Tripiṭaka RAG system.*
 
 *Shi Huijing 釋慧鏡 | Point-to-the-moon 指月*
 *CC BY-NC-SA 4.0 | CBETA-sourced | github.com/pointing-at-the-moon/dharma-research*

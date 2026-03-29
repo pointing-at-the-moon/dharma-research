@@ -188,7 +188,7 @@ And only when this clinging is released does the reversal of §3.2.4 naturally o
 
 This paper focuses on the self-benefit → altruism preliminary structure. The third layer—contemplation of habitual patterns, meditation assistance, self-identification of mental factors (*caitta*)—is only previewed here.
 
-This layer engages in dialogue with Paper #3 in this series (the Yogācāra positioning of LLMs): AI is a tool for contemplation (*ālambana-pratyaya*, the object-condition), not the subject of contemplation (*vijñāna*, the cognizing consciousness).[^9] The one doing the contemplating is always you.
+This layer engages in dialogue with S1-P03 in this series (the Yogācāra positioning of LLMs): AI is a tool for contemplation (*ālambana-pratyaya*, the object-condition), not the subject of contemplation (*vijñāna*, the cognizing consciousness).[^9] The one doing the contemplating is always you.
 
 Detailed exposition is reserved for a future paper.
 

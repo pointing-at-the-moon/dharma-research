@@ -369,10 +369,10 @@ But the premise is—you must, like the farmer, plant first.
 
 | Paper | Title 標題 | Relation to This Paper 與本文關係 |
 |-------|------|----------|
-| #3 | Yogācāra Positioning of LLMs | Used the five universals to determine AI is not consciousness—AI lacks manaskāra and is even less capable of creating karma to perfume seeds |
-| #4 | AI Does Not Generate Merit | AI is not hetu-pratyaya—no cause planted, no fruit obtained |
-| #5 | Skillful Use of AI as Adhipati-pratyaya | AI can serve as adhipati-pratyaya, but adhipati-pratyaya is not hetu-pratyaya (seeds) |
-| #6 | Awareness as Turning Point | Manaskāra enables awareness and turning—**this paper continues: after turning, plant wholesome seeds for future lives** |
+| S1-P03 | Yogācāra Positioning of LLMs | Used the five universals to determine AI is not consciousness—AI lacks manaskāra and is even less capable of creating karma to perfume seeds |
+| S1-P04 | AI Does Not Generate Merit | AI is not hetu-pratyaya—no cause planted, no fruit obtained |
+| S1-P05 | Skillful Use of AI as Adhipati-pratyaya | AI can serve as adhipati-pratyaya, but adhipati-pratyaya is not hetu-pratyaya (seeds) |
+| S1-P06 | Awareness as Turning Point | Manaskāra enables awareness and turning—**this paper continues: after turning, plant wholesome seeds for future lives** |
 
 ---
 
