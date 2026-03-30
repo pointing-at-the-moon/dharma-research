@@ -157,6 +157,13 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 
 📄 [中文](papers/S5-P01_金剛般若_即非三段式映射唯識三性.md) · [English](papers/S5-P01_diamond-prajna-jifei-tripartite-formula-trisvabhava-mapping.md)
 
+### S5-P02. 公案鏡——金剛經的教學設計與指月解法
+**The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra and the Zhǐyuè Method**
+
+金剛經不是一部等待理解的哲學論文——它是一面鏡子。本文論證金剛經的整體結構具備禪宗公案的核心特徵：鏡像反射而非知識傳遞。以六祖惠能聞「應無所住而生其心」言下大悟為核心案例，說明同一面鏡子如何照出不同的人。提出指月方法論聲明：教學設計的逆向工程——問的不是「經文說了什麼」，而是「經文對讀者做了什麼」。進而論證每篇論文自身即是即非結構，八部曲的宏觀架構即是金剛經的放大版。
+
+📄 [中文](papers/S5-P02_公案鏡.md) · [English](papers/S5-P02_koan-mirror.md)
+
 ---
 
 ## 方法論 Methodology
