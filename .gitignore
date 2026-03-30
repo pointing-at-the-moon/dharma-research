@@ -16,9 +16,13 @@ papers/paper6/
 series*/rag/
 series*/rag_*.sh
 
-# Draft ideas and plans (keep local, not for public repo)
+# Draft ideas, plans, and archives (keep local, not for public repo)
 series*/paper*_draft_ideas.md
 series*/*_paper_plan.md
+series*/archive/
+series*/*_draft_ideas.md
+series*/*_draft.md
+series*/*_draft_en.md
 
 # Project instructions and roadmap (local only)
 CLAUDE.md
