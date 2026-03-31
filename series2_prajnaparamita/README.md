@@ -23,6 +23,7 @@ Papers #01–07（持續更新中）
 | 5 | 色即是空——苦的生產線 | Form Is Emptiness: The Assembly Line of Suffering | [中](../papers/S2-P05_色即是空苦的生產線.md) · [EN](../papers/S2-P05_form-is-emptiness-assembly-line-of-suffering.md) |
 | 6 | 是諸法空相——此心不生不滅 | The True Mark of All Dharmas: This Mind Is Unborn and Unceasing | [中](../papers/S2-P06_是諸法空相_此心不生不滅.md) · [EN](../papers/S2-P06_true-mark-of-all-dharmas.md) |
 | 7 | 空中無色——根境識的覺察 | In Emptiness There Is No Form: Awareness of Sense-Bases, Objects, and Consciousness | [中](../papers/S2-P07_空中無色_根境識的覺察.md) · [EN](../papers/S2-P07_in-emptiness-no-form.md) |
+| 8 | 無明是感知的顛倒——十二因緣新詮 | Ignorance as Perceptual Inversion: A New Interpretation of the Twelve Links | [中](../papers/S2-P08_無明是感知的顛倒.md) · [EN](../papers/S2-P08_ignorance-as-perceptual-inversion.md) |
 
 ---
 
