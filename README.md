@@ -354,6 +354,13 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 
 📄 [中文](papers/S5-P08_不可以相見如來.md) · [English](papers/S5-P08_one-cannot-see-tathagata-through-marks.md)
 
+### S5-P09. 一切有為法如夢幻泡影——依他起如幻有，非斷滅無——金剛經六喻的唯識讀法
+**All Conditioned Phenomena Are Like Dreams and Illusions: Dependent Arising as Illusory-Yet-Real, Not Nihilistic Nothingness — A Yogācāra Reading of the Diamond Sūtra's Six Similes**
+
+金剛經以六喻偈頌收束全經：「一切有為法，如夢幻泡影，如露亦如電，應作如是觀」（§32）。本文論證：六喻不是文學修辭，而是六個維度的觀法指導，其義理核心可以透過唯識三性框架加以照見。「如夢幻泡影」否定遍計所執，「如露亦如電」否定常恆性，「應作如是觀」指向圓成實。以《楞伽經》（T0672）「如幻即依他起」為經證，《成唯識論》（T1585）「非有似有」為論證，世親（T1511）九喻配九境界為疏證，建立六喻的唯識讀法：依他起性的如幻有——有而非實有，空而非斷滅。中道校正全力防守 S5 全系列最大教學危險——斷滅見：「一切如夢幻」≠「什麼都不存在」；夢中的苦是真苦，菩薩在如幻中行大悲。P09 是 S5 系列的最終收束，從 P01 的即非微觀框架到 P09 的六喻宏觀觀法，完成完整弧線。
+
+📄 [中文](papers/S5-P09_一切有為法如夢幻泡影.md) · [English](papers/S5-P09_all-conditioned-phenomena-like-dreams.md)
+
 ---
 
 ## 方法論 Methodology

@@ -24,14 +24,15 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 | 6 | 應無所住而生其心——轉依與無住生心的同時性 | Abiding Nowhere, Yet Giving Rise to the Mind: Āśraya-parāvṛtti and the Simultaneity of Non-Abiding | [中](../papers/S5-P06_應無所住而生其心.md) · [EN](../papers/S5-P06_abiding-nowhere-yet-giving-rise-to-the-mind.md) |
 | 7 | 金剛經的自我重演——§17 樞紐、雙層結構與唯識二障論 | The Diamond Sūtra's Self-Replay: §17 Pivot, Dual-Layer Structure, and the Two Obstructions | [中](../papers/S5-P07_金剛經的自我重演.md) · [EN](../papers/S5-P07_diamond-sutra-self-replay.md) |
 | 8 | 不可以相見如來——法身非色非心——從歸謬到般若證見 | One Cannot See the Tathāgata Through Marks: The Dharma-Body Beyond Form and Mind | [中](../papers/S5-P08_不可以相見如來.md) · [EN](../papers/S5-P08_one-cannot-see-tathagata-through-marks.md) |
+| 9 | 一切有為法如夢幻泡影——依他起如幻有，非斷滅無 | All Conditioned Phenomena Are Like Dreams and Illusions: Dependent Arising as Illusory-Yet-Real | [中](../papers/S5-P09_一切有為法如夢幻泡影.md) · [EN](../papers/S5-P09_all-conditioned-phenomena-like-dreams.md) |
 
 ---
 
 ## 系列結構
 
 ```
-義理基石 → 方法論聲明 → 結構核心 → 逐經展開 → 橋接
- #1-2        #2           #7        #3-6,8-9    #10
+義理基石 → 方法論聲明 → 結構核心 → 逐經展開 → 六喻收束 → 橋接
+ #1-2        #2           #7        #3-6,8      #9         #10
 ```
 
 S5 承接 S3（百法建構），銜接 S6（楞嚴驗證）。
