@@ -21,6 +21,7 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 | 3 | 凡所有相皆是虛妄——金剛經的第一刀 | Whatever Has Marks Is Illusory: The Diamond Sūtra's First Cut | [中](../papers/S5-P03_凡所有相皆是虛妄.md) · [EN](../papers/S5-P03_whatever-has-marks-is-illusory.md) |
 | 4 | 法尚應捨，何況非法——筏喻與依他起的正用 | Dharma Should Still Be Let Go: The Raft Analogy and the Right Use of Paratantra | [中](../papers/S5-P04_法尚應捨何況非法.md) · [EN](../papers/S5-P04_dharma-should-still-be-let-go.md) |
 | 5 | 功德較量的教學弧線——法供養與獎勵悖論 | The Pedagogical Arc of Merit Comparisons: Dharma-Offering and the Reward Paradox | [中](../papers/S5-P05_功德較量的教學弧線.md) · [EN](../papers/S5-P05_pedagogical-arc-of-merit-comparisons.md) |
+| 6 | 應無所住而生其心——轉依與無住生心的同時性 | Abiding Nowhere, Yet Giving Rise to the Mind: Āśraya-parāvṛtti and the Simultaneity of Non-Abiding | [中](../papers/S5-P06_應無所住而生其心.md) · [EN](../papers/S5-P06_abiding-nowhere-yet-giving-rise-to-the-mind.md) |
 | 7 | 金剛經的自我重演——§17 樞紐、雙層結構與唯識二障論 | The Diamond Sūtra's Self-Replay: §17 Pivot, Dual-Layer Structure, and the Two Obstructions | [中](../papers/S5-P07_金剛經的自我重演.md) · [EN](../papers/S5-P07_diamond-sutra-self-replay.md) |
 
 ---

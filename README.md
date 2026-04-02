@@ -326,6 +326,13 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 
 📄 [中文](papers/S5-P05_功德較量的教學弧線.md) · [English](papers/S5-P05_pedagogical-arc-of-merit-comparisons.md)
 
+### S5-P06. 應無所住而生其心——轉依與無住生心的同時性
+**Abiding Nowhere, Yet Giving Rise to the Mind: Āśraya-parāvṛtti and the Simultaneity of Non-Abiding**
+
+「應無所住而生其心」是金剛經最廣為人知的一句話，六祖惠能聞此句而開悟。本文論證「無住」與「生心」是同時發生的，不是先後——無住不是不生心（斷滅），生心不是有所住（凡夫）。以唯識學轉依（āśraya-parāvṛtti）為切入角：轉捨遍計所執（無住）與轉得圓成實性（生心）是同一運作的兩面，依他起作為所依不增不減。根本無分別智與後得智「其體是一，隨用分二」。進一步考察 §10 即非結構、心淨佛土淨、楞嚴經七處徵心、六祖壇經開悟敘事。
+
+📄 [中文](papers/S5-P06_應無所住而生其心.md) · [English](papers/S5-P06_abiding-nowhere-yet-giving-rise-to-the-mind.md)
+
 ---
 
 ## 方法論 Methodology
