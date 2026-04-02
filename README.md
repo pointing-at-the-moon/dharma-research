@@ -312,6 +312,13 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 
 📄 [中文](papers/S5-P04_法尚應捨何況非法.md) · [English](papers/S5-P04_dharma-should-still-be-let-go.md)
 
+### S5-P05. 功德較量的教學弧線——法供養與獎勵悖論
+**The Pedagogical Arc of Merit Comparisons: Dharma-Offering and the Reward Paradox**
+
+金剛經全經六處功德較量（§4→§8→§11→§15→§24→§28→§32）不是「法布施勝過財布施」的簡單排名。本文論證：功德較量是一個精密的教學遞歸結構——每一次較量升級布施尺度、降低法供養門檻，重複同一個結論，直到最後一次（§32）以六喻自毀整個獎勵結構。唯識切入角：功德較量操作的是欲心所（chanda）的正面轉化——善法欲。獎勵悖論：金剛經一邊說「功德很多」，一邊說「是福德即非福德性」。§28「菩薩不受福德」是獎勵悖論的高潮：功德最多的人恰恰是不受功德的人。§32 六喻是自毀裝置——連「功德很多」這個教學工具本身都被即非化。
+
+📄 [中文](papers/S5-P05_功德較量的教學弧線.md) · [English](papers/S5-P05_pedagogical-arc-of-merit-comparisons.md)
+
 ---
 
 ## 方法論 Methodology
