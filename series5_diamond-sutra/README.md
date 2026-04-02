@@ -18,6 +18,7 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 |---|---------|---------------|------|
 | 1 | 金剛般若——即非三段式映射唯識三性 | Diamond Prajñā: The Jífēi Tripartite Formula as Trisvabhāva Mapping | [中](../papers/S5-P01_金剛般若_即非三段式映射唯識三性.md) · [EN](../papers/S5-P01_diamond-prajna-jifei-tripartite-formula-trisvabhava-mapping.md) |
 | 2 | 公案鏡——金剛經的教學設計與指月解法 | The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra | [中](../papers/S5-P02_公案鏡.md) · [EN](../papers/S5-P02_koan-mirror.md) |
+| 7 | 金剛經的自我重演——§17 樞紐、雙層結構與唯識二障論 | The Diamond Sūtra's Self-Replay: §17 Pivot, Dual-Layer Structure, and the Two Obstructions | [中](../papers/S5-P07_金剛經的自我重演.md) · [EN](../papers/S5-P07_diamond-sutra-self-replay.md) |
 
 ---
 
