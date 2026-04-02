@@ -277,6 +277,13 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 
 📄 [中文](papers/S5-P02_公案鏡.md) · [English](papers/S5-P02_koan-mirror.md)
 
+### S5-P03. 凡所有相皆是虛妄——金剛經的第一刀
+**Whatever Has Marks Is Illusory: The Diamond Sūtra's First Cut**
+
+金剛經 §5 宣告「凡所有相，皆是虛妄」——這是全經第一次明確指出即非結構要切除的對象：「相」。本文論證：金剛經的「相」不是日常語義的「表象」，而是一個展開為完整語義光譜的義理概念。透過唯識「相分」（nimittabhāga）概念與遍計所執性理論，精確定位「虛妄」——識所變現的相分是依他起的（緣生而有），但眾生在相分上疊加「實有」的認知（遍計所執）才是「虛妄」的根源。窺基以「念—相」的所依/能依關係釋「虛妄」，精確對應成唯識論「情有理無」的教判。瑜伽師地論進一步指出「名言所縛」的機制。金剛經的「第一刀」切的不是相本身，而是你和相之間那根看不見的繩子——遍計所執的實有化。
+
+📄 [中文](papers/S5-P03_凡所有相皆是虛妄.md) · [English](papers/S5-P03_whatever-has-marks-is-illusory.md)
+
 ### S5-P07. 金剛經的自我重演——§17 樞紐、雙層結構與唯識二障論
 **The Diamond Sūtra's Self-Replay: The §17 Pivot, Dual-Layer Structure, and the Two Obstructions**
 
