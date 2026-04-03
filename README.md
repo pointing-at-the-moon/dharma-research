@@ -375,6 +375,13 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 
 📄 [中文](papers/S5-P09_一切有為法如夢幻泡影.md) · [English](papers/S5-P09_all-conditioned-phenomena-like-dreams.md)
 
+### S5-P10. 從百法到金剛——建構與升維
+**From the Hundred Dharmas to the Diamond: Construction and Dimensional Ascent**
+
+S3 系列花了十四篇論文搭建百法明門論的唯識工具箱，S5 系列花了九篇論文用般若之刃切穿一切法的實有性。本文是兩個系列的橋接論文，回答核心問題：切完之後，還剩什麼？百法從「實有工具」升維為「如幻施設」——工具箱未消失，但你與工具箱的關係根本性地改變了。以楞伽經「五法三自性」為橋接框架，定位百法觀照在「名、相、分別」中運行（依他起性），金剛般若在「正智」中運行，「如如」是兩者的共同歸趣。成唯識論轉依義——「轉捨依他起上遍計所執，及能轉得依他起中圓成實性」——為 S3→S5 的動態過程提供精確的唯識機制。P10 是 S5 系列的最後一篇，也是 S3 與 S5 的整合論文。
+
+📄 [中文](papers/S5-P10_從百法到金剛_建構與升維.md) · [English](papers/S5-P10_from-hundred-dharmas-to-diamond.md)
+
 ---
 
 ## 方法論 Methodology

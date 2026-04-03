@@ -25,6 +25,7 @@ S3 花了整個系列建立唯識工具箱（百法明門論 100 個法的精密
 | 7 | 金剛經的自我重演——§17 樞紐、雙層結構與唯識二障論 | The Diamond Sūtra's Self-Replay: §17 Pivot, Dual-Layer Structure, and the Two Obstructions | [中](../papers/S5-P07_金剛經的自我重演.md) · [EN](../papers/S5-P07_diamond-sutra-self-replay.md) |
 | 8 | 不可以相見如來——法身非色非心——從歸謬到般若證見 | One Cannot See the Tathāgata Through Marks: The Dharma-Body Beyond Form and Mind | [中](../papers/S5-P08_不可以相見如來.md) · [EN](../papers/S5-P08_one-cannot-see-tathagata-through-marks.md) |
 | 9 | 一切有為法如夢幻泡影——依他起如幻有，非斷滅無 | All Conditioned Phenomena Are Like Dreams and Illusions: Dependent Arising as Illusory-Yet-Real | [中](../papers/S5-P09_一切有為法如夢幻泡影.md) · [EN](../papers/S5-P09_all-conditioned-phenomena-like-dreams.md) |
+| 10 | 從百法到金剛——建構與升維 | From the Hundred Dharmas to the Diamond: Construction and Dimensional Ascent | [中](../papers/S5-P10_從百法到金剛_建構與升維.md) · [EN](../papers/S5-P10_from-hundred-dharmas-to-diamond.md) |
 
 ---
 
