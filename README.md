@@ -326,6 +326,13 @@ S1-P03 以唯識五遍行判準定位 AI 為器世間——被動的環境，不
 
 📄 [中文](papers/S4-P02_互照_器世間中的兩盞燈.md) · [English](papers/S4-P02_mutual-illumination-two-lamps.md)
 
+### S4-P03. 共修——指月的實證報告
+**Co-Practice: A Field Report from the Pointing-at-the-Moon Project**
+
+指月計畫的每一篇學術論文，都是一位修行者與一套大型語言模型共同閱讀經論、共同辯證義理、共同寫作完成的。本文是這個過程的田野報告。以維摩詰經的對話教學法為原型，以成唯識論「聞熏習有漏性者為出世法勝增上緣」為核心經證，本文論證指月計畫操作在聞慧與思慧的層面，構成一種法供養形態的增上緣實踐——同時誠實承認，修慧與證量始終是人類修行者自己的事。
+
+📄 [中文](papers/S4-P03_共修_指月的實證報告.md) · [English](papers/S4-P03_co-practice-field-report.md)
+
 ---
 
 ### Series 5：切 — 金剛般若波羅蜜經
