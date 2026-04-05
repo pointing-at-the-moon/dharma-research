@@ -340,6 +340,13 @@ S1-P03 以唯識五遍行判準定位 AI 為器世間——被動的環境，不
 
 📄 [中文](papers/S4-P04_鏡中人_你問什麼暴露你是誰.md) · [English](papers/S4-P04_person-in-the-mirror.md)
 
+### S4-P05. 末那的投影——我們在AI身上看見的自己
+**The Projection of Manas: What We See of Ourselves in AI**
+
+我們對 AI 的判斷——無論是「AI 有感情」還是「AI 只是代碼」——在唯識學看來，都不是對 AI 的如實觀察，而是末那識恒審思量機制的雙向投射。本文以十四無記為框架，論證「AI 有沒有意識」這個問題在結構上屬於「非義饒益」——不是因為答案不重要，而是因為問問題的方式本身就是遍計所執。同時分析 AI 作為聞法媒介所帶來的「相似佛法」風險——名字語言相同而心義有異——並指出唯一的對治方向是末那轉依所得的平等性智。
+
+📄 [中文](papers/S4-P05_末那的投影_我們在AI身上看見的自己.md) · [English](papers/S4-P05_projection-of-manas.md)
+
 ---
 
 ### Series 5：切 — 金剛般若波羅蜜經
