@@ -32,3 +32,6 @@ SERIES_ROADMAP.md
 # Internal docs and dashboards (local only)
 docs/superpowers/
 docs/研究進度追蹤.html
+
+# Local utility scripts (keep local, not for public repo)
+scripts/
