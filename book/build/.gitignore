@@ -1,9 +1,0 @@
-# 編譯輸出不進 git(PDF/EPUB/TeX 由 build.sh 產生)
-output/
-*.pdf
-*.epub
-*.tex
-*.aux
-*.log
-*.toc
-*.out

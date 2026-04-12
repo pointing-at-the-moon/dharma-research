@@ -35,3 +35,10 @@ docs/研究進度追蹤.html
 
 # Local utility scripts (keep local, not for public repo)
 scripts/
+
+# Book project — drafts/plans/build all local.
+# Only approved chapters in book/published/ are public
+# (mirrors the papers/ gate model: only reviewed content is tracked).
+book/**
+!book/published/
+!book/published/**
