@@ -21,16 +21,16 @@ Papers #01–10 · YouTube EP01–07
 
 | # | 中文標題 | English Title | 連結 |
 |---|---------|---------------|------|
-| 1 | 初發心的蝴蝶效應 | Butterfly Effect of Initial Aspiration | [中](../papers/初發心蝴蝶效應_學術論文.md) · [EN](../papers/butterfly-effect-of-initial-aspiration.md) |
-| 2 | 初發菩提心與法流 | Bodhicitta and Dharma-Flow | [中](../papers/初發菩提心與法流.md) · [EN](../papers/bodhicitta-and-dharma-flow.md) |
-| 3 | 大型語言模型的唯識定位 | Yogācāra Positioning of LLM | [中](../papers/大型語言模型的唯識定位.md) · [EN](../papers/yogacara-positioning-of-llm.md) |
-| 4 | AI 不生福報 | AI Does Not Generate Merit | [中](../papers/AI不生福報.md) · [EN](../papers/ai-does-not-generate-merit.md) |
-| 5 | 善用 AI 增上緣來累積福報 | Skillful Use of AI as Adhipati-pratyaya | [中](../papers/善用AI增上緣來累積福報.md) · [EN](../papers/skillful-use-of-ai-adhipati-pratyaya.md) |
-| 6 | 覺察即轉向 | Awareness as Turning Point | [中](../papers/覺察即轉向.md) · [EN](../papers/awareness-as-turning-point.md) |
-| 7 | 深入因果鏈 | Deep into the Causal Chain | [中](../papers/深入因果鏈.md) · [EN](../papers/deep-into-the-causal-chain.md) |
-| 8 | 心不向外求 | Do Not Seek Outside | [中](../papers/心不向外求.md) · [EN](../papers/do-not-seek-outside.md) |
-| 9 | 法器的準備 | Preparing the Vessel | [中](../papers/法器的準備.md) · [EN](../papers/preparing-the-vessel.md) |
-| 10 | 三十七道品 | The 37 Factors of Awakening | [中](../papers/三十七道品.md) · [EN](../papers/37-factors-of-awakening.md) |
+| 1 | 初發心的蝴蝶效應 | Butterfly Effect of Initial Aspiration | [中](../papers/S1-P01_初發心蝴蝶效應.md) · [EN](../papers/S1-P01_butterfly-effect-of-initial-aspiration.md) |
+| 2 | 初發菩提心與法流 | Bodhicitta and Dharma-Flow | [中](../papers/S1-P02_初發菩提心與法流.md) · [EN](../papers/S1-P02_bodhicitta-and-dharma-flow.md) |
+| 3 | 大型語言模型的唯識定位 | Yogācāra Positioning of LLM | [中](../papers/S1-P03_大型語言模型的唯識定位.md) · [EN](../papers/S1-P03_yogacara-positioning-of-llm.md) |
+| 4 | AI 不生福報 | AI Does Not Generate Merit | [中](../papers/S1-P04_AI不生福報.md) · [EN](../papers/S1-P04_ai-does-not-generate-merit.md) |
+| 5 | 善用 AI 增上緣來累積福報 | Skillful Use of AI as Adhipati-pratyaya | [中](../papers/S1-P05_善用AI增上緣來累積福報.md) · [EN](../papers/S1-P05_skillful-use-of-ai-adhipati-pratyaya.md) |
+| 6 | 覺察即轉向 | Awareness as Turning Point | [中](../papers/S1-P06_覺察即轉向.md) · [EN](../papers/S1-P06_awareness-as-turning-point.md) |
+| 7 | 深入因果鏈 | Deep into the Causal Chain | [中](../papers/S1-P07_深入因果鏈.md) · [EN](../papers/S1-P07_deep-into-the-causal-chain.md) |
+| 8 | 心不向外求 | Do Not Seek Outside | [中](../papers/S1-P08_心不向外求.md) · [EN](../papers/S1-P08_do-not-seek-outside.md) |
+| 9 | 法器的準備 | Preparing the Vessel | [中](../papers/S1-P09_法器的準備.md) · [EN](../papers/S1-P09_preparing-the-vessel.md) |
+| 10 | 三十七道品 | The 37 Factors of Awakening | [中](../papers/S1-P10_三十七道品.md) · [EN](../papers/S1-P10_37-factors-of-awakening.md) |
 
 ---
 
