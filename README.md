@@ -753,6 +753,10 @@ License: CC BY-NC-SA 4.0
 
 ---
 
+## 姊妹書系 Companion Series
+
+- **[四行門 The Four Practice Gates](https://github.com/pointing-at-the-moon/four-practice-gates)** — 八部曲講般若「是什麼」（見 / 慧學），四行門講般若「怎麼走出去」（行 / 戒定學）。四卷：念 NIAN · 施 DĀNA · 戒 SĪLA · 定 DHYĀNA。
+
 ## 相關資源 Related
 
 - **指月 Pointing at the Moon** — [YouTube 佛學教學頻道](https://www.youtube.com/@PointingattheMoon)
