@@ -2,7 +2,7 @@
 
 **Series**: S7 攝 (Lotus Sūtra)
 **Paper**: S7-P07
-**Author**: Shi Huijing (釋慧鏡)
+**Author:** Shi Huijing (釋慧鏡)
 **Project**: Pointing at the Moon (指月)
 **License**: CC BY-NC-SA 4.0
 **Date:** April 2026

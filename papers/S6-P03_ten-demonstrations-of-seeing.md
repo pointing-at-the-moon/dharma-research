@@ -6,7 +6,7 @@
 
 ---
 
-**Author:** Shi Huijing 釋慧鏡
+**Author:** Shi Huijing (釋慧鏡)
 **Series:** S6 Illumination (照) — The Śūraṅgama Sūtra · Paper Three
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0

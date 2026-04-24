@@ -1,18 +1,9 @@
----
-title: "The Parable of the Burning House: The Father's Skillful Means and the Fire of the Three Realms"
-series: "S7 — Embracing: The Lotus Sūtra"
-paper: P03
-author: "Shi Huijing (釋慧鏡)"
-date: 2026-04-08
-license: CC BY-NC-SA 4.0
----
-
 # The Parable of the Burning House: The Father's Skillful Means and the Fire of the Three Realms
 
 ---
 
 **Author:** Shi Huijing (釋慧鏡)
-**Date:** April 2026
+**Date:** April 8, 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
 

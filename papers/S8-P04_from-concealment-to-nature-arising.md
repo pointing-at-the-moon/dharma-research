@@ -4,7 +4,8 @@
 **Corresponding to the Fourth of the Ten Great Vows: Repentance of Karmic Obstructions**
 **Corresponding Gate of the Ten Mysteries: The Gate of Simultaneous Completion of Hidden and Manifest**
 
-Author: Shi Huijing (釋慧鏡)
+**Author:** Shi Huijing (釋慧鏡)
+**Date:** April 9, 2026
 License: CC BY-NC-SA 4.0
 
 ---

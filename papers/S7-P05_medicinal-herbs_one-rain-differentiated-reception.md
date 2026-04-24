@@ -2,8 +2,8 @@
 
 ## The Dialectical Equality of Lotus Sūtra "Embrace"
 
-**Shi Huijing (釋慧鏡)**
-**Pointing at the Moon · Lotus Sūtra Series · Paper Five**
+**Author:** Shi Huijing (釋慧鏡)
+**Date:** April 9, 2026
 
 ---
 

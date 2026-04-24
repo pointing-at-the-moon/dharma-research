@@ -2,7 +2,7 @@
 
 **Series:** S7 攝 (Saddharmapuṇḍarīka / Lotus Sūtra)
 **Number:** S7-P10
-**Author:** 釋慧鏡 (Shi Huijing)
+**Author:** Shi Huijing (釋慧鏡)
 **Project:** 指月 · Pointing at the Moon
 **License:** CC BY-NC-SA 4.0
 **Date:** April 2026

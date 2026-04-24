@@ -7,7 +7,7 @@
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
+**Author:** Shi Huijing (釋慧鏡)
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0

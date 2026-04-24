@@ -1,11 +1,11 @@
 # The Four Clear and Decisive Instructions on Purity: The First Perimeter Before Entering
 
-Author: 釋慧鏡 (Shi Huijing)
+**Author:** Shi Huijing (釋慧鏡)
 Project: 指月 Point-to-the-moon
 License: CC BY-NC-SA 4.0
 
 Series: S6 Illumination — *The Śūraṅgama Sūtra* · Paper 07
-Date: 2026-04-06
+**Date:** April 6, 2026
 
 ---
 

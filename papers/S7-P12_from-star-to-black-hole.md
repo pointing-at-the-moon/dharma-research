@@ -2,7 +2,7 @@
 
 **Series:** S7 Shè (*Lotus Sūtra* 法華經)
 **Number:** S7-P12
-**Author:** Shi Huijing 釋慧鏡
+**Author:** Shi Huijing (釋慧鏡)
 **Project:** Pointing at the Moon 指月
 **License:** CC BY-NC-SA 4.0
 **Date:** April 2026

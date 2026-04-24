@@ -3,6 +3,7 @@
 ## The Meghaśrī Episode and the Bidirectional Pedagogical Chain of the Fifty-Three Visits
 
 **Author:** Shi Huijing (釋慧鏡)
+**Date:** April 11, 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0 (English translation of v1.0)
 **Series:** S8 *Manifestation — Avataṃsaka* / Paper 9
