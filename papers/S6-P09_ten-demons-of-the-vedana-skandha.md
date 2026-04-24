@@ -6,7 +6,7 @@
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Project:** Pointing at the Moon 指月
 **Series:** S6 Illumination — *Śūraṅgama Sūtra* (S6-P09 of 12)
 **Date:** April 2026

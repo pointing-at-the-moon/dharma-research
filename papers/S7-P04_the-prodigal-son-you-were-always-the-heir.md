@@ -7,7 +7,7 @@
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Series:** S7 Lotus Sūtra Series, Paper 4
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0

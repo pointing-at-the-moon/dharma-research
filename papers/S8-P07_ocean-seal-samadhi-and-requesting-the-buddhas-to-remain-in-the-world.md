@@ -6,9 +6,9 @@
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Project:** 指月 Pointing at the Moon
-**Date:** April 10, 2026
+**Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
 **Series:** S8 xiǎn / *Avataṃsaka Sūtra* · Paper 7

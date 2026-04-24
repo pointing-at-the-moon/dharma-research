@@ -1,11 +1,13 @@
 # The Ten Snares of the Consciousness Aggregate
 ## The Last Grasping Between the Two Pillars: From "Exhausting the Emptiness of Formations" to "Entering the Vaiḍūrya Body"
 
-**Author:** Shi Huijing (釋慧鏡)
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
 **Series:** S6 — The *Śūraṅgama Sūtra* (*Dafoding Shoulengyan jing* 大佛頂首楞嚴經)
 **Paper:** 12 of 13
 **Version:** v1.0
-**Date:** April 7, 2026
+**Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Keywords:** *vijñāna-skandha*, ten heterodox graspings, "between the two pillars," apparent unity and apparent permanence, *ālaya-vijñāna*, *icchantika*, definite-nature *śrāvaka*, definite-nature *pratyekabuddha*, *ekayāna*, fifty *skandha-māras*
 

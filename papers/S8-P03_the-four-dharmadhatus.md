@@ -4,8 +4,10 @@
 
 **S8-P03**
 
-**Author:** Shi Huijing (釋慧鏡)
-**Date:** April 9, 2026
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
 
 **Pointing at the Moon · Avataṃsaka Sūtra Series**
 

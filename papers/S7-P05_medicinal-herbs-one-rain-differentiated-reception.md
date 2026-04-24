@@ -2,8 +2,10 @@
 
 ## The Dialectical Equality of Lotus Sūtra "Embrace"
 
-**Author:** Shi Huijing (釋慧鏡)
-**Date:** April 9, 2026
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
 
 ---
 

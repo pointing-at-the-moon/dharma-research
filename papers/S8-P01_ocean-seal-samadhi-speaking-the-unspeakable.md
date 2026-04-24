@@ -4,7 +4,7 @@
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Project:** Pointing at the Moon
 **Date:** April 2026
 **Series:** S8 — Manifestation: *Buddhāvataṃsaka-mahāvaipulya-sūtra* (Paper 1 of 12)

@@ -4,7 +4,7 @@
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Date:** April 2026
 **Series:** S6 Illumination (照) — The Śūraṅgama Sūtra (5)
 **License:** CC BY-NC-SA 4.0

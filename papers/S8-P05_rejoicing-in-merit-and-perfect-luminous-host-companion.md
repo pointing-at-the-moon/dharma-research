@@ -1,7 +1,9 @@
 # S8-P05　Rejoicing in Merit and the Gate of Perfect-Luminous Host-Companion Completion: The Dharmadhātu Structure of *Tongōng* through *Cetanā*
 
-**Author:** Shi Huijing (釋慧鏡)
-**Date:** April 10, 2026
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
 **Series:** Pointing at the Moon Academic Papers · Series Eight "Manifestation" (Avataṃsaka Sūtra) · Paper Five
 **Corresponding Vow of Samantabhadra:** The Fifth Great Vow — Rejoicing in Merit (*anumodanā-puṇya*, 隨喜功德)
 **Corresponding Profound Gate:** The Gate of Perfect-Luminous Host-Companion Completion (*zhǔbàn yuánmíng jùdé mén* 主伴圓明具德門)
