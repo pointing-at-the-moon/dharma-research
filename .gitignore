@@ -36,9 +36,15 @@ docs/研究進度追蹤.html
 # Local utility scripts (keep local, not for public repo)
 scripts/
 
+# Archived one-off tooling (reusable, keep local)
+archive/
+
 # Book project — drafts/plans/build all local.
 # Only approved chapters in book/published/ are public
 # (mirrors the papers/ gate model: only reviewed content is tracked).
 book/**
 !book/published/
 !book/published/**
+
+# bookv2/ — 減法 style experiments, fully local until/unless adopted
+bookv2/
