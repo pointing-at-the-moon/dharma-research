@@ -45,6 +45,7 @@ archive/
 book/**
 !book/published/
 !book/published/**
+book/published/**/.DS_Store
 
 # bookv2/ — 減法 style experiments, fully local until/unless adopted
 bookv2/
