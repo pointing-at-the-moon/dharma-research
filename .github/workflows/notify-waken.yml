@@ -1,0 +1,25 @@
+name: Notify Waken to rebuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Waken deploy hook
+        env:
+          HOOK_URL: ${{ secrets.WAKEN_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK_URL" ]; then
+            echo "WAKEN_DEPLOY_HOOK secret not set; skipping (assumed pre-Deliverable-A push)."
+            exit 0
+          fi
+          status=$(curl -sS -o /tmp/resp.txt -w "%{http_code}" -X POST "$HOOK_URL")
+          echo "Deploy hook returned HTTP $status"
+          cat /tmp/resp.txt || true
+          if [ "$status" -ge 400 ]; then
+            echo "Deploy hook failed."
+            exit 1
+          fi
