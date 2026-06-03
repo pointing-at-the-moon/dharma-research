@@ -787,7 +787,7 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 *Abhidharma-samuccaya-vyākhyā* (大乘阿毘達磨雜集論). Compiled by Sthiramati. Translated by Xuanzang. *Taishō* vol. 31, No. 1606.
 *Mahāyāna-saṃgraha* (攝大乘論). By Asaṅga. Translated by Paramārtha. *Taishō* vol. 31, No. 1593.
 *Mahāprajñāpāramitā-śāstra* (大智度論). By Nāgārjuna. Translated by Kumārajīva. *Taishō* vol. 25, No. 1509.
-*Mahāprajñāpāramitā-upadeśa* (大般若經論). Translated by Kumārajīva. *Taishō* vol. 25, No. 1512.
+*Mahāprajñāpāramitā-śāstra* (大智度論). By Nāgārjuna. Translated by Kumārajīva. *Taishō* vol. 25, No. 1509.
 *Bā Shí Guī Jǔ Bǔ Zhù* (八識規矩補註). Annotated by Putai. *Taishō* vol. 45, No. 1865.
 *Cheng Weishi Lun Shuji* (成唯識論述記). By Kuiji. *Taishō* vol. 43, No. 1830.
 *Commentary on the Huayan Dharma-Realm Contemplation Gate* (注華嚴法界觀門). By Zongmi. *Taishō* vol. 45, No. 1884.
@@ -826,7 +826,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 | 18 | Abhidharma-samuccaya-vyākhyā 雜集論 | T31 | No. 1606 | Fasc. 2 |
 | 19 | Mahāyāna-saṃgraha 攝大乘論 | T31 | No. 1593 | Fasc. 1 |
 | 20 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | No. 1509 | Fasc. 31, 89 |
-| 21 | Mahāprajñāpāramitā-upadeśa 大般若經論 | T25 | No. 1512 | Fasc. 10 |
+| 21 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | No. 1509 | Fasc. 10 |
 | 22 | Bā Shí Guī Jǔ Bǔ Zhù 八識規矩補註 | T45 | No. 1865 | Fasc. 1, 2 |
 | 23 | Cheng Weishi Lun Shuji 述記 | T43 | No. 1830 | Fasc. 1 |
 | 24 | Commentary on Huayan Dharma-Realm 注華嚴法界觀門 | T45 | No. 1884 | Fasc. 1 |
@@ -907,7 +907,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^27]: *Mahāprajñāpāramitā-śāstra*, fasc. 89. The thusness of form is non-arising and non-ceasing. *Taishō* vol. 25, No. 1509.
 
-[^28]: *Mahāprajñāpāramitā-upadeśa*, fasc. 10. Nirvāṇa is the world. *Taishō* vol. 25, No. 1512.
+[^28]: *Mahāprajñāpāramitā-śāstra*, fasc. 10. Nirvāṇa is the world. *Taishō* vol. 25, No. 1509.
 
 [^29]: *Laṅkāvatāra Sūtra* (T0671), fasc. 8. Tathāgatagarbha empty and not-empty. *Taishō* vol. 16, No. 0671.
 

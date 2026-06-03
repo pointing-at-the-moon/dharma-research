@@ -168,7 +168,7 @@ Parikalpita is like flowers seen in the sky — there is no nature (essence) and
 
 ### 2.6 Kuiji's Commentary: Mind Is the Support, Marks the Supported
 
-Kuiji (窺基), in his Commentary on the Diamond Prajñāpāramitā Sūtra (金剛般若波羅蜜經讚述 Jīngāng bōrě bōluómì jīng zànshù, T1702), offers a precise exegesis of "whatever has marks is illusory"[^9]:
+Kuiji (窺基), in his Commentary on the Diamond Prajñāpāramitā Sūtra (金剛般若波羅蜜經讚述 Jīngāng bōrě bōluómì jīng zànshù, T1700), offers a precise exegesis of "whatever has marks is illusory"[^9]:
 
 > "Ordinary refers to the six destinies of sentient beings; noble refers to sages of the three vehicles; dependent on their purity or defilement, they are precisely the ordinary and noble. Though dharmas are many, they do not exceed these four; though only four categories are raised, they encompass everything."
 >
@@ -430,7 +430,7 @@ In the merit-comparison passages, "upholding four lines of verse surpasses givin
 - *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, T19, No. 945.
 - *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
-- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1702.
+- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
 - *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, T25, No. 1511.
 - *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), by Asaṅga, trans. Yijing, T25, No. 1510b.
 
@@ -449,7 +449,7 @@ In the merit-comparison passages, "upholding four lines of verse surpasses givin
 | 3 | Śūraṅgama 楞嚴經 | 大佛頂首楞嚴經 | T19, No. 945 | Fasc. 2 (five aggregates as illusory) |
 | 4 | Cheng weishi lun 成唯識論 | 成唯識論 | T31, No. 1585 | Fasc. 2, 8, 9 |
 | 5 | Yogācārabhūmi 瑜伽師地論 | 瑜伽師地論 | T30, No. 1579 | Fasc. 36, 73 |
-| 6 | Kuiji's Commentary 金剛經讚述 | 金剛般若波羅蜜經讚述 | T33, No. 1702 | Fasc. 3, 4 |
+| 6 | Kuiji's Commentary 金剛經讚述 | 金剛般若波羅蜜經讚述 | T33, No. 1700 | Fasc. 3, 4 |
 
 ---
 
@@ -480,7 +480,7 @@ In the merit-comparison passages, "upholding four lines of verse surpasses givin
 [^6]: *Cheng weishi lun*, fasc. 2, "似所緣相說名相分，似能緣相說名見分" (What resembles the object of cognition is called the object-aspect; what resembles the act of cognition is called the seeing-aspect), T31, No. 1585.
 [^7]: *Cheng weishi lun*, fasc. 2, the four-aspect doctrine: object-aspect (所緣), seeing-aspect (行相), self-witnessing aspect (自體), re-witnessing aspect; "故心、心所四分合成，具所、能緣，無無窮過" (Therefore consciousness and mental factors are composed of four aspects), T31, No. 1585.
 [^8]: *Cheng weishi lun*, fasc. 8, "如是二分，情有理無，此相說為遍計所執。二所依體，實託緣生，此性非無，名依他起" (These two aspects are emotionally existent but rationally non-existent — this is called parikalpita; their underlying support, genuinely dependent on conditions, is not non-existent — this is called paratantra), T31, No. 1585. "如空花等，性、相都無" (Like sky-flowers, whose nature and marks are entirely non-existent) is also from this fascicle.
-[^9]: Kuiji, *Jingang bore boluomi jing zanshu*, fasc. 4, "凡聖染淨勝劣雖殊，皆從念生無不虛妄" (All arise from thought and none are not illusory) and "念是所依、相是能依，所依尚虛，能依何有" (Thought is the support, marks the supported; if the support is empty, how can the supported exist?), T33, No. 1702. Sēngzhào's warning "便希無相之佛昭然目前，若如是者，何殊彼相" is also from this fascicle.
+[^9]: Kuiji, *Jingang bore boluomi jing zanshu*, fasc. 4, "凡聖染淨勝劣雖殊，皆從念生無不虛妄" (All arise from thought and none are not illusory) and "念是所依、相是能依，所依尚虛，能依何有" (Thought is the support, marks the supported; if the support is empty, how can the supported exist?), T33, No. 1700. Sēngzhào's warning "便希無相之佛昭然目前，若如是者，何殊彼相" is also from this fascicle.
 [^10]: *Yogācārabhūmi*, fasc. 73, "一切愚夫於諸相中名言所縛" (All the unawakened are bound by language within marks) and the verse "愚昧思凡夫，於相為言縛；牟尼脫言縛，於相得自在" (The deluded are bound by speech within marks; the sage, freed from the bonds of speech, is at ease within marks), T30, No. 1579. The analysis of language not corresponding to self-nature (於一相所立名言有眾多故) is also from this fascicle.
 [^11]: This analysis of Subhūti's cognitive process is a doctrinal inference, not a direct scriptural record. It is based on the functional distinction between the sixth consciousness (manovijñāna, conceptual judgment) and the seventh consciousness (manas, self-centered cognitive habit) in Yogācāra theory. See the S3 series papers on manas.
 [^11a]: The Diamond Sūtra's linguistic upgrade from the four "marks" (lakṣaṇa 相) to the four "views" (dṛṣṭi 見) is analyzed in detail in Shi Huijing, "The Diamond Sūtra's Self-Replay," Pointing at the Moon S5-P07, §2.3. "Marks" refer to the object of cognition (the grasped); "views" refer to the mode of cognition itself (the grasping) — the progression from deconstructing the grasped to deconstructing the grasping maps the progression from kleśāvaraṇa to jñeyāvaraṇa.

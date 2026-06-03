@@ -16,11 +16,11 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Diamond Sūtra's pervasive formula — "The Buddha speaks of X; it is not X; it is called X" — has long been read as a rhetorical device expressing prajñā emptiness. This paper proposes that its tripartite structure can be illuminated through the Yogācāra framework of trisvabhāva (three natures). Kuiji (窺基, 632–682), in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1702), already offered an explicit mapping: "speaks of" reveals parikalpita (the imagined), "is not" reveals paratantra (the dependent), and "is called" reveals pariniṣpanna (the consummated). Building on this rediscovery, the present study proposes a complementary alternative mapping — "X" as paratantra (dependently arisen designation), "is not X" as negation of parikalpita (reified existence), and "is called X" as re-establishment within pariniṣpanna (the consummated). The two mappings illuminate the same structure from the listener's perspective and the object's perspective respectively, like two sides of a single mirror. Through textual analysis of Asaṅga's *Treatise on the Ability to Sever the Diamond Prajñā* (T1510b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511/T1512), this paper traces the interpretive lineage from the Buddha's structural design to its systematic Yogācāra elaboration. The cross-disciplinary section draws on Wittgenstein's ladder metaphor, Austin's speech act theory, and Derrida's *sous rature* as heuristic parallels. The Middle Way Correction section specifically notes: the trisvabhāva mapping is an interpretive tool, not — and must never become — a cage that domesticates the Diamond Sūtra.
+The Diamond Sūtra's pervasive formula — "The Buddha speaks of X; it is not X; it is called X" — has long been read as a rhetorical device expressing prajñā emptiness. This paper proposes that its tripartite structure can be illuminated through the Yogācāra framework of trisvabhāva (three natures). Kuiji (窺基, 632–682), in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), already offered an explicit mapping: "speaks of" reveals parikalpita (the imagined), "is not" reveals paratantra (the dependent), and "is called" reveals pariniṣpanna (the consummated). Building on this rediscovery, the present study proposes a complementary alternative mapping — "X" as paratantra (dependently arisen designation), "is not X" as negation of parikalpita (reified existence), and "is called X" as re-establishment within pariniṣpanna (the consummated). The two mappings illuminate the same structure from the listener's perspective and the object's perspective respectively, like two sides of a single mirror. Through textual analysis of Asaṅga's *Treatise on the Ability to Sever the Diamond Prajñā* (T1510b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511/T1512), this paper traces the interpretive lineage from the Buddha's structural design to its systematic Yogācāra elaboration. The cross-disciplinary section draws on Wittgenstein's ladder metaphor, Austin's speech act theory, and Derrida's *sous rature* as heuristic parallels. The Middle Way Correction section specifically notes: the trisvabhāva mapping is an interpretive tool, not — and must never become — a cage that domesticates the Diamond Sūtra.
 
 **摘要**
 
-金剛經貫穿全經的「佛說 X，即非 X，是名 X」公式，長期被視為般若空性的修辭表達。本文提出：此三段結構可以透過唯識三性（trisvabhāva）框架加以照見。窺基大師於《金剛般若波羅蜜經讚述》（T1702）中已做出明確映射：「說」顯遍計所執性，「即非」顯依他起性，「是名」顯圓成實性。本文在重新發現窺基映射的基礎上，提出一個替代性的互補映射——「X」指依他起性的緣起施設，「即非 X」否定遍計所執性的實有化，「是名 X」在圓成實性中重新安立名言——並論證兩種映射分別從聽者角度與對象角度照見同一結構，如鏡子的正反兩面。透過無著《能斷金剛般若論》（T1510b）與世親《金剛般若波羅蜜經論》（T1511/T1512）的文本分析，本文進一步追溯從佛陀的結構設計到唯識論師系統化詮釋的進程鏈。中道校正部分特別標記：三性映射是詮釋工具，不是也不應成為馴化金剛經的牢籠。
+金剛經貫穿全經的「佛說 X，即非 X，是名 X」公式，長期被視為般若空性的修辭表達。本文提出：此三段結構可以透過唯識三性（trisvabhāva）框架加以照見。窺基大師於《金剛般若波羅蜜經讚述》（T1700）中已做出明確映射：「說」顯遍計所執性，「即非」顯依他起性，「是名」顯圓成實性。本文在重新發現窺基映射的基礎上，提出一個替代性的互補映射——「X」指依他起性的緣起施設，「即非 X」否定遍計所執性的實有化，「是名 X」在圓成實性中重新安立名言——並論證兩種映射分別從聽者角度與對象角度照見同一結構，如鏡子的正反兩面。透過無著《能斷金剛般若論》（T1510b）與世親《金剛般若波羅蜜經論》（T1511/T1512）的文本分析，本文進一步追溯從佛陀的結構設計到唯識論師系統化詮釋的進程鏈。中道校正部分特別標記：三性映射是詮釋工具，不是也不應成為馴化金剛經的牢籠。
 
 **Keywords:** Diamond Sūtra, jífēi tripartite formula, trisvabhāva, parikalpita, paratantra, pariniṣpanna, Kuiji, Asaṅga, Vasubandhu, prajñā emptiness | 金剛經、即非三段式、唯識三性、遍計所執性、依他起性、圓成實性、窺基、無著、世親、般若空性
 
@@ -98,7 +98,7 @@ The title of the Diamond Sūtra has already foretold the entire teaching of the 
 
 The Diamond Sūtra is among the most widely circulated texts in East Asian Buddhism, yet it faces a fundamental interpretive impasse:
 
-The Mādhyamaka reading (the mainstream) treats the Diamond Sūtra as a direct expression of prajñā emptiness — the jífēi formula is understood as the linguistic articulation of dependent origination and emptiness of intrinsic nature. This reading has deep scriptural support and represents the dominant path in prajñāpāramitā studies throughout history. Yet another interpretive lineage has long been underestimated: Asaṅga's *Treatise on the Diamond Prajñā* (T1510a/b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511) already provided a Yogācāra interpretive framework. Kuiji went further in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1702), offering an explicit trisvabhāva mapping.
+The Mādhyamaka reading (the mainstream) treats the Diamond Sūtra as a direct expression of prajñā emptiness — the jífēi formula is understood as the linguistic articulation of dependent origination and emptiness of intrinsic nature. This reading has deep scriptural support and represents the dominant path in prajñāpāramitā studies throughout history. Yet another interpretive lineage has long been underestimated: Asaṅga's *Treatise on the Diamond Prajñā* (T1510a/b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511) already provided a Yogācāra interpretive framework. Kuiji went further in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), offering an explicit trisvabhāva mapping.
 
 This paper does not take sides. Instead, it asks a structural question: what does the internal structure of the recurring formula "is not X, is called X" map onto? If prajñā and Yogācāra are different facets of the same teaching — like the "emptiness" and "illumination" of vajra — can the trisvabhāva framework illuminate the operating mechanism of the jífēi formula?
 
@@ -108,7 +108,7 @@ This paper serves as the doctrinal foundation for the entire S5 series (The Cut:
 
 The companion paper S5-P02 addresses the Diamond Sūtra's kōan structure and pedagogical design; this paper focuses on the doctrinal argument. The relationship between the two mirrors the first and second layers of vajra: emptiness/structure and illumination/mirror.
 
-The scholarly lineage traced here is: the Buddha designed the jífēi formula (T235) → Asaṅga and Vasubandhu analyzed its doctrinal logic from a Yogācāra perspective (T1510b, T1511/T1512) without using trisvabhāva terminology → Kuiji explicitly proposed the trisvabhāva mapping (T1702) → this paper, having rediscovered Kuiji's mapping, proposes a complementary alternative and argues for the mutual illumination of both.
+The scholarly lineage traced here is: the Buddha designed the jífēi formula (T235) → Asaṅga and Vasubandhu analyzed its doctrinal logic from a Yogācāra perspective (T1510b, T1511/T1512) without using trisvabhāva terminology → Kuiji explicitly proposed the trisvabhāva mapping (T1700) → this paper, having rediscovered Kuiji's mapping, proposes a complementary alternative and argues for the mutual illumination of both.
 
 ---
 
@@ -190,9 +190,9 @@ The distinction between "original substance complete, not attained through culti
 
 ### 2.5 Kuiji's *Commentary on the Diamond Prajñāpāramitā Sūtra*
 
-Kuiji (632–682), the foremost systematizer of the Yogācāra school under Xuanzang, produced the most explicit trisvabhāva mapping to date in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1702):[^9]
+Kuiji (632–682), the foremost systematizer of the Yogācāra school under Xuanzang, produced the most explicit trisvabhāva mapping to date in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700):[^9]
 
-[^9]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1702.
+[^9]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
 
 > "The word 'speaks of' reveals parikalpita (the imagined); the phrase 'is not' reveals paratantra-svabhāva (the dependent nature); the phrase 'is called' reveals pariniṣpanna-svabhāva (the consummated nature)."
 
@@ -214,7 +214,7 @@ Kuiji's mapping represents a milestone in the history of Yogācāra thought. Asa
 
 Based on the scriptural foundations above, the core thesis of this paper is: the Diamond Sūtra's tripartite formula "X; is not X; is called X" can be illuminated in its doctrinal mechanics through the Yogācāra trisvabhāva framework.
 
-However, the specific manner of mapping is not singular. Kuiji's mapping in T1702 (§2.5) is one reading; this paper proposes another on that foundation. The two do not contradict each other; they illuminate the same structure from different angles.
+However, the specific manner of mapping is not singular. Kuiji's mapping in T1700 (§2.5) is one reading; this paper proposes another on that foundation. The two do not contradict each other; they illuminate the same structure from different angles.
 
 ### 3.2 Kuiji's Mapping: From the Listener's Perspective
 
@@ -341,7 +341,7 @@ In trisvabhāva terms: pariniṣpanna is not a synthesis of parikalpita and para
 
 The "jífēi = trisvabhāva" mapping proposed in this paper is a hermeneutical framework, not a claim that the Diamond Sūtra's author (or the Buddha) was employing Yogācāra terminology.
 
-The Diamond Sūtra's composition (ca. 2nd–3rd century) predates the systematization of trisvabhāva theory (4th–5th century). Historical sequence does not invalidate doctrinal analysis — but one must distinguish between "original meaning" (what the text originally meant) and "subsequent interpretation" (what the text can be read as meaning). Kuiji's mapping in T1702 and the mapping in this paper both belong to the latter.
+The Diamond Sūtra's composition (ca. 2nd–3rd century) predates the systematization of trisvabhāva theory (4th–5th century). Historical sequence does not invalidate doctrinal analysis — but one must distinguish between "original meaning" (what the text originally meant) and "subsequent interpretation" (what the text can be read as meaning). Kuiji's mapping in T1700 and the mapping in this paper both belong to the latter.
 
 This paper's position: the trisvabhāva framework is an effective tool for illuminating the jífēi formula. "Effective tool" means it can explain the operating mechanism of the formula, not merely label it. But "tool" also means it is not the only tool — the Mādhyamaka two-truth framework can also effectively read the jífēi formula; it simply illuminates from a different angle.
 
@@ -377,9 +377,9 @@ The Hegelian analogy is the most strictly limited: thesis–antithesis–synthes
 
 The central argument of this paper can be summarized in four points.
 
-First, the Diamond Sūtra's "is not X, is called X" is a tripartite formula with a precise doctrinal structure that can be illuminated through the Yogācāra trisvabhāva framework. Kuiji in T1702 already produced an explicit mapping ("speaks of" reveals parikalpita, "is not" reveals paratantra, "is called" reveals pariniṣpanna). This paper proposes a complementary alternative (X = paratantra, "is not" = negation of parikalpita, "is called" = pariniṣpanna). The two illuminate the same structure from the listener's perspective and the object's perspective respectively.
+First, the Diamond Sūtra's "is not X, is called X" is a tripartite formula with a precise doctrinal structure that can be illuminated through the Yogācāra trisvabhāva framework. Kuiji in T1700 already produced an explicit mapping ("speaks of" reveals parikalpita, "is not" reveals paratantra, "is called" reveals pariniṣpanna). This paper proposes a complementary alternative (X = paratantra, "is not" = negation of parikalpita, "is called" = pariniṣpanna). The two illuminate the same structure from the listener's perspective and the object's perspective respectively.
 
-Second, from the Buddha's structural design (T235), through Asaṅga's (T1510b) and Vasubandhu's (T1511/T1512) Yogācāra analyses (operating trisvabhāva logic without using trisvabhāva terminology), to Kuiji's explicit trisvabhāva mapping (T1702), a clear interpretive lineage emerges. This paper does not propose a novelty ex nihilo but adds a link to this existing chain.
+Second, from the Buddha's structural design (T235), through Asaṅga's (T1510b) and Vasubandhu's (T1511/T1512) Yogācāra analyses (operating trisvabhāva logic without using trisvabhāva terminology), to Kuiji's explicit trisvabhāva mapping (T1700), a clear interpretive lineage emerges. This paper does not propose a novelty ex nihilo but adds a link to this existing chain.
 
 Third, the distribution, variant forms, and functional differences of the jífēi formula across the Diamond Sūtra correspond to the Yogācāra two-obstruction theory — the first half (§1–16) dismantles self-grasping (kleśāvaraṇa), the second half (§17–32) dismantles dharma-grasping (jñeyāvaraṇa). The jífēi formula is not a static template but a dynamic pedagogical device whose complexity upgrades in lockstep with the depth of practice.
 
@@ -411,7 +411,7 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 - *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Vasubandhu, trans. Bodhiruci, T25, No. 1511.
 - *Jingang xian lun* (金剛仙論), Vasubandhu, trans. Bodhiruci, T25, No. 1512.
 - *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), Asaṅga (verses), T25, No. 1513.
-- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1702.
+- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
 
 ### II. Modern Scholarship
 
@@ -431,7 +431,7 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 | Vasubandhu's Treatise | Jingang bore boluomi jing lun | T25, No. 1511 |
 | Jingang xian lun | Jingang xian lun (Vasubandhu) | T25, No. 1512 |
 | Asaṅga's Commentary | Nengduan jingang bore boluomiduo jing lun shi | T25, No. 1513 |
-| Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1702 |
+| Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1700 |
 
 ---
 

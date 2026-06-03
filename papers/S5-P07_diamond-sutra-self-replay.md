@@ -18,7 +18,7 @@ license: "CC BY-NC-SA 4.0"
 
 In §17 of the Diamond Sūtra — the "Section on Ultimate Non-Self" — Subhūti re-asks virtually the same question he posed in §2, yet the Buddha responds at an entirely different level. This paper argues that this is not literary repetition but the sūtra's structural pivot: the text folds into a dual-layer architecture where the first half (§1–16) addresses person-emptiness (*pudgala-śūnyatā*), deconstructs the four "marks" (*xiāng* 相), and counters afflictive obstruction (*kleśāvaraṇa* 煩惱障), while the second half (§17–32) addresses dharma-emptiness (*dharma-śūnyatā*), deconstructs the four "views" (*jiàn* 見), and counters cognitive obstruction (*jñeyāvaraṇa* 所知障).
 
-Three text-internal evidences confirm this progression: the subtle word-order shift between the two questions, the upgrade from four "marks" to four "views," and the shift in *jífēi* objects from external referents to the teaching itself. The mapping is then grounded in the two-obstruction definitions from the *Cheng weishi lun* (成唯識論, T1585), the obstruction-sequence from the *Saṃdhinirmocana Sūtra* (解深密經, T0676), and Kuiji's dual-attachment framework in the *Zànshù* (讚述, T1702). Vasubandhu's pivotal verse in the *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論, T1511) — "harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding" (於內心修行，存我為菩薩，此即障於心，違於不住道) — provides the most critical textual evidence.
+Three text-internal evidences confirm this progression: the subtle word-order shift between the two questions, the upgrade from four "marks" to four "views," and the shift in *jífēi* objects from external referents to the teaching itself. The mapping is then grounded in the two-obstruction definitions from the *Cheng weishi lun* (成唯識論, T1585), the obstruction-sequence from the *Saṃdhinirmocana Sūtra* (解深密經, T0676), and Kuiji's dual-attachment framework in the *Zànshù* (讚述, T1700). Vasubandhu's pivotal verse in the *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論, T1511) — "harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding" (於內心修行，存我為菩薩，此即障於心，違於不住道) — provides the most critical textual evidence.
 
 This paper serves as the structural map for the entire S5 series: every subsequent paper analyzing individual passages must first locate that passage in the first or second half and identify whether it cuts self-attachment or dharma-attachment.
 
@@ -214,13 +214,13 @@ Asaṅga confirms Vasubandhu's analysis: the second half targets the practitione
 
 #### 2.9 Kuiji's Dual-Attachment Framework
 
-Kuiji (窺基, 632–682), in his *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述, T1702), provides the most systematic Yogācāra doctrinal assessment.
+Kuiji (窺基, 632–682), in his *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述, T1700), provides the most systematic Yogācāra doctrinal assessment.
 
 Fascicle 1 establishes the logical relationship between self-grasping and dharma-grasping:[^18]
 
 > "Ordinary beings who have self-grasping necessarily also have dharma-grasping; the two vehicles have dharma-grasping but do not necessarily have self-grasping. Moreover, the two vehicles without self-grasping do not necessarily lack dharma-grasping; bodhisattvas without dharma-grasping necessarily lack self-grasping." (凡夫有我執必兼有法執；二乘有法執不必具我執。又二乘無我執則未必無法執；菩薩無法執則必無我執。)
 
-[^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, T33, No. 1702.
+[^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, T33, No. 1700.
 
 These four propositions form a tight logical matrix: self-grasping entails dharma-grasping, but dharma-grasping does not entail self-grasping. Removing dharma-grasping is more fundamental — once dharma-grasping is eliminated, self-grasping necessarily vanishes.
 
@@ -230,7 +230,7 @@ Fascicle 2 further establishes the causal structure of the two obstructions:[^19
 
 > "No mark of self, person, sentient being, or life-span = eliminating self-grasping. No dharma-mark and no non-dharma-mark = eliminating dharma-grasping." (無我相人相眾生相壽者相 = 除我執；無法相亦無非法相 = 除法執。)
 
-[^19]: Kuiji, *Zànshù*, fasc. 2, T33, No. 1702.
+[^19]: Kuiji, *Zànshù*, fasc. 2, T33, No. 1700.
 
 This is the Yogācāra doctrinal assessment of the Diamond Sūtra: the four marks correspond to self-grasping (afflictive obstruction); the dharma-mark and non-dharma-mark correspond to dharma-grasping (cognitive obstruction). Kuiji in fascicle 2 also establishes a four-fold distinction:[^20]
 
@@ -239,7 +239,7 @@ This is the Yogācāra doctrinal assessment of the Diamond Sūtra: the four mark
 - Both liberated = buddhas
 - Neither liberated = ordinary beings
 
-[^20]: Kuiji, *Zànshù*, fasc. 2, T33, No. 1702. The four-fold classification of liberation.
+[^20]: Kuiji, *Zànshù*, fasc. 2, T33, No. 1700. The four-fold classification of liberation.
 
 The first half moves the practitioner from "neither liberated" toward "mind-liberated" — a level attainable even by the śrāvaka vehicle. The second half pushes toward "both liberated" — the depth unique to the bodhisattva path.
 
@@ -249,7 +249,7 @@ Fascicle 7 explicitly confirms the two-layer deconstruction structure:[^21]
 
 > "It is not without the two [emptinesses] that one attains the path — by distancing from self and dharma [grasping]." (非無二得道，遠離於我法。)
 
-[^21]: Kuiji, *Zànshù*, fasc. 7, T33, No. 1702.
+[^21]: Kuiji, *Zànshù*, fasc. 7, T33, No. 1700.
 
 The first half deconstructs "the objects of grasping" (*suǒyuán zhī jìng* 所緣之境); the second half deconstructs "the mind that grasps" (*néng yuán jiàn xīn* 能緣見心). This precisely matches this paper's analysis: first half deconstructs the grasped; second half deconstructs the grasping.
 
@@ -446,7 +446,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 - *Nengduan jingang bore boluomiduo jing lun* 能斷金剛般若波羅蜜多經論 (Asaṅga), trans. Yijing, T25, No. 1510b.
 - *Cheng weishi lun* 成唯識論 (Dharmapāla et al.), trans. Xuanzang, T31, No. 1585.
 - *Yogācārabhūmi-śāstra* 瑜伽師地論 (Maitreya), trans. Xuanzang, T30, No. 1579.
-- Kuiji 窺基, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1702.
+- Kuiji 窺基, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1700.
 
 ### II. Modern Scholarship
 
@@ -463,7 +463,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 | Asaṅga's Commentary 金剛般若論 | Nengduan jingang bore boluomiduo jing lun 能斷金剛般若波羅蜜多經論 | T25, No. 1510b | fasc. 2 |
 | Yogācārabhūmi 瑜伽師地論 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30, No. 1579 | fasc. 36, 48 |
 | Cheng weishi lun 成唯識論 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | fasc. 9, 10 |
-| Kuiji's Zànshù 金剛經讚述 | Jingang bore boluomi jing zanshu 金剛般若波羅蜜經讚述 | T33, No. 1702 | fasc. 1, 2, 7 |
+| Kuiji's Zànshù 金剛經讚述 | Jingang bore boluomi jing zanshu 金剛般若波羅蜜經讚述 | T33, No. 1700 | fasc. 1, 2, 7 |
 
 ---
 
@@ -519,13 +519,13 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 [^17]: *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), fasc. 2, Asaṅga's analysis of the §17 re-questioning: the bodhisattva's attachment to seeing themselves as having attained a superior position, T25, No. 1510b.
 
-[^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, "凡夫有我執必兼有法執……菩薩無法執則必無我執" (Ordinary beings with self-grasping necessarily also have dharma-grasping… bodhisattvas without dharma-grasping necessarily lack self-grasping), the four-proposition logical relationship between self-grasping and dharma-grasping, T33, No. 1702.
+[^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, "凡夫有我執必兼有法執……菩薩無法執則必無我執" (Ordinary beings with self-grasping necessarily also have dharma-grasping… bodhisattvas without dharma-grasping necessarily lack self-grasping), the four-proposition logical relationship between self-grasping and dharma-grasping, T33, No. 1700.
 
-[^19]: Kuiji, *Zànshù*, fasc. 2, "我法二執，二執若遣二障即除" (The two graspings of self and dharma — when eliminated, the two obstructions are removed), "無我相人相眾生相壽者相 = 除我執，無法相亦無非法相 = 除法執" (No marks of self through life-span = eliminating self-grasping; no dharma-mark and no non-dharma-mark = eliminating dharma-grasping), T33, No. 1702.
+[^19]: Kuiji, *Zànshù*, fasc. 2, "我法二執，二執若遣二障即除" (The two graspings of self and dharma — when eliminated, the two obstructions are removed), "無我相人相眾生相壽者相 = 除我執，無法相亦無非法相 = 除法執" (No marks of self through life-span = eliminating self-grasping; no dharma-mark and no non-dharma-mark = eliminating dharma-grasping), T33, No. 1700.
 
-[^20]: Kuiji, *Zànshù*, fasc. 2, four-fold classification: mind-liberated/wisdom-liberated/both-liberated/neither-liberated, T33, No. 1702.
+[^20]: Kuiji, *Zànshù*, fasc. 2, four-fold classification: mind-liberated/wisdom-liberated/both-liberated/neither-liberated, T33, No. 1700.
 
-[^21]: Kuiji, *Zànshù*, fasc. 7, "前破我法所緣之境令知不實，今破能緣我法見心" (Previously deconstructing the objects of self- and dharma-grasping to reveal their unreality; now deconstructing the mind that grasps self and dharma)… "非無二得道，遠離於我法" (It is not without both [emptinesses] that one attains the path — by distancing from self and dharma), T33, No. 1702.
+[^21]: Kuiji, *Zànshù*, fasc. 7, "前破我法所緣之境令知不實，今破能緣我法見心" (Previously deconstructing the objects of self- and dharma-grasping to reveal their unreality; now deconstructing the mind that grasps self and dharma)… "非無二得道，遠離於我法" (It is not without both [emptinesses] that one attains the path — by distancing from self and dharma), T33, No. 1700.
 
 [^22]: *Yogācārabhūmi-śāstra* (瑜伽師地論), fasc. 36, four kinds of reality: afflictive-obstruction-purified wisdom cognizes the Four Noble Truths and person-selflessness; cognitive-obstruction-purified wisdom cognizes dharma-selflessness, beyond verbal expression, cognizable only by bodhisattvas and buddhas, T30, No. 1579.
 

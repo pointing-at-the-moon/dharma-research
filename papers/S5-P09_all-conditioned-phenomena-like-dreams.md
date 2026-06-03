@@ -42,7 +42,7 @@ This is the Diamond Sūtra's final cut, and also its most easily misread.
 
 "All conditioned phenomena are like dreams, illusions, bubbles, and shadows" — for most readers, the first thought that arises upon reading this is: "So everything is fake, nothing matters." This thought is precisely one of the core attachments that the entire Diamond Sūtra aims to dismantle — annihilationism (ucchedavāda). The six similes negate not the existence of conditioned phenomena, but your reification of them. This distinction is the central argument of the present paper.
 
-Master Zongmi states directly in the *Jingang bore jing shu lun zuanyao* (T1703):
+Master Zongmi states directly in the *Jingang bore jing shu lun zuanyao* (T1701):
 
 > 「一切有為法者，一切世間生滅之法也……無常之法虛假不實，故以夢、幻、泡、影、露、電六種為喻。應作如是觀者，觀即般若妙智，以此妙智觀有為法如夢幻等。」
 >
@@ -84,7 +84,7 @@ However, the Sanskrit original and other Chinese translations all contain nine s
 >
 > "All conditioned phenomena are like stars, cataracts, lamps, illusions, dew, bubbles, dreams, lightning, and clouds — one should contemplate them thus."[^5]
 
-The discrepancy between six and nine is not a translation error. Zongmi, citing Huijing, explains why Kumārajīva translated only six: "Stars and lamps possess substance; clouds contain the seeds of rain-life. These risk obstructing the empty mind and surreptitiously nourishing attachment to marks — the meaning-based translation achieves its marvel precisely here."[^6] Stars (with a fixed luminous body), lamps (with a fuel-base), and clouds (harboring rain and life-potential) — these three "possess substance" and "contain life," easily prompting readers to imagine substantial existence and thus reinforce attachment. Kumārajīva deleted these three, retaining the six similes most effective at directly pointing to "insubstantiality" and "impermanence." This is not reduction — it is a prajñā-guided translation decision.
+The discrepancy between six and nine is not a translation error. Zongmi explains why Kumārajīva translated only six: "Stars and lamps possess substance; clouds contain the seeds of rain-life. These risk obstructing the empty mind and surreptitiously nourishing attachment to marks — the meaning-based translation achieves its marvel precisely here."[^6] Stars (with a fixed luminous body), lamps (with a fuel-base), and clouds (harboring rain and life-potential) — these three "possess substance" and "contain life," easily prompting readers to imagine substantial existence and thus reinforce attachment. Kumārajīva deleted these three, retaining the six similes most effective at directly pointing to "insubstantiality" and "impermanence." This is not reduction — it is a prajñā-guided translation decision.
 
 ### 2.2 The Complete Teaching Context of §32
 
@@ -276,7 +276,7 @@ Vasubandhu's verse summarizes the nine domains:
 
 The nine similes map one-to-one: star → seeing (existent yet imperceptible); cataract → characteristics (perceived through perversion); lamp → consciousness (sustained by craving); illusion → vessel-world (myriad differences without substance); dew → body (brief duration); bubble → experience (unstable); dream → past (existing only in memory); lightning → present (not abiding even a kṣaṇa); cloud → future (in the ālaya-vijñāna as seed-root of all dharmas).[^32]
 
-Guṇadeva's *Poqu zhu buhuai jiaming lun* (T1512) groups the nine into three categories: star, cataract, lamp → "seeing, characteristics, consciousness" (intrinsic marks); illusion, dew, bubble → "vessel-world, body, experience" (marks of attachment to dwelling-flavor); dream, lightning, cloud → "past, present, future" (marks following toward liberation).[^33]
+Guṇadeva's *Poqu zhu buhuai jiaming lun* (T1515) groups the nine into three categories: star, cataract, lamp → "seeing, characteristics, consciousness" (intrinsic marks); illusion, dew, bubble → "vessel-world, body, experience" (marks of attachment to dwelling-flavor); dream, lightning, cloud → "past, present, future" (marks following toward liberation).[^33]
 
 Vasubandhu explains the relationship between the Tathāgata's nirvāṇa and the six similes:
 
@@ -302,9 +302,9 @@ Kuiji further glosses the four characters "like suchness, unmoving" (*ruru budon
 
 This directly reconnects to P09's core thesis: the "like suchness, unmoving" after the six similes points to pariniṣpanna — after contemplating all conditioned phenomena as illusory, the state one abides in is the serene quiescence of suchness.
 
-**Huijing's** ***Jingang bore jing zhushu*** **(T1701) — The Progressive Doubt-Resolution Chain**
+**Zongmi's** ***Jingang bore jing shu lun zuanyao*** **(T1701) — The Progressive Doubt-Resolution Chain**
 
-Huijing preserves an extremely important doubt-resolution chain revealing the layered progression among the similes:
+Zongmi preserves an extremely important doubt-resolution chain revealing the layered progression among the similes:
 
 > "The Buddha teaches that all dharmas are empty. Doubt arises: 'How is it that I can clearly see all objects?' Hence the teaching 'like illusion'... Another doubt: 'If illusory dharmas are nothing, why do people become attached?' Hence 'like a mirage'... Another doubt: 'A thirsty deer never actually gets water — how do craving beings actually enjoy sense-pleasures?' Hence 'like a dream'... Another doubt: 'In dreams one does good and evil, yet upon waking there is no karmic retribution.' Hence 'like shadows and echoes'... Another doubt: 'If suffering is entirely unreal, why do bodhisattvas perform acts of benefit?' Hence 'like a transformation.'"[^36]
 
@@ -320,7 +320,7 @@ Zixuan captures the practice-significance of the six similes in eight characters
 
 "Active yet serene" — functioning within conditioned phenomena (active), yet not bound by them (serene). "Serene yet active" — abiding in quiescent emptiness (serene), yet not departing from altruistic action within the conditioned (active). This is the practical fruit of the illusory-contemplation, and the ultimate aim of the six similes.
 
-**Guṇadeva's** ***Poqu zhu buhuai jiaming lun*** **(T1512) — The Sūtra's Final Closure**
+**Guṇadeva's** ***Poqu zhu buhuai jiaming lun*** **(T1515) — The Sūtra's Final Closure**
 
 Guṇadeva closes his commentary on the nine similes with a passage that summarizes the entire sūtra's doctrinal import:
 
@@ -514,7 +514,7 @@ Nihilism negates **meaning** — "life has no meaning," "morality has no foundat
 
 More precisely: nihilism is negation at the ontological level — "nothing exists" or "existence has no foundation"; the illusory-contemplation is transformation at the epistemological level — "the way you cognize existence needs to change." The illusory-contemplation does not negate the existence of conditioned phenomena; it negates the cognitive mode that takes conditioned phenomena to be "substantially real."
 
-Guṇadeva's (T1512) closure most powerfully refutes the nihilistic misreading: "Therefore all buddhas and tathāgatas see the world as nirvāṇa — unlike the two vehicles who turn away from birth-and-death and delight in nirvāṇa without transforming beings. They see nirvāṇa as the world — unlike ordinary beings who never tire of birth-and-death."[^38] The Tathāgata "sees the world as nirvāṇa" — the world need not be negated, fled, or declared void — the world itself is nirvāṇa. This is the ultimate affirmation of the illusory-contemplation.
+Guṇadeva's (T1515) closure most powerfully refutes the nihilistic misreading: "Therefore all buddhas and tathāgatas see the world as nirvāṇa — unlike the two vehicles who turn away from birth-and-death and delight in nirvāṇa without transforming beings. They see nirvāṇa as the world — unlike ordinary beings who never tire of birth-and-death."[^38] The Tathāgata "sees the world as nirvāṇa" — the world need not be negated, fled, or declared void — the world itself is nirvāṇa. This is the ultimate affirmation of the illusory-contemplation.
 
 ### 5.4 ❌ The Six Similes Are Merely Literary Rhetoric
 
@@ -522,7 +522,7 @@ Guṇadeva's (T1512) closure most powerfully refutes the nihilistic misreading: 
 
 The six similes are not rhetoric. The character "contemplate" (觀) in "one should contemplate them thus" denotes meditative observation (pratyavekṣa), not literary appreciation. Zongmi states explicitly: "Contemplation is the wondrous wisdom of prajñā; with this wondrous wisdom one contemplates conditioned dharmas as being like dreams and illusions."[^2] Vasubandhu's "rightly contemplated by wondrous wisdom" likewise emphasizes: the six similes are objects to be rightly contemplated through wondrous wisdom (prajñā), not knowledge to be "understood" through conceptual thinking.[^31]
 
-Huijing's progressive doubt-resolution chain[^36] further reveals: each layer of the similes responds to a concrete practice-question — from "I clearly see all objects" to "where does karmic retribution come in?" to "why do bodhisattvas bother acting?" — this is not the structure of poetry but the structure of contemplation. Each simile is an entry-point for contemplation; each "another doubt" is an occasion for contemplation to deepen.
+Zongmi's progressive doubt-resolution chain[^36] further reveals: each layer of the similes responds to a concrete practice-question — from "I clearly see all objects" to "where does karmic retribution come in?" to "why do bodhisattvas bother acting?" — this is not the structure of poetry but the structure of contemplation. Each simile is an entry-point for contemplation; each "another doubt" is an occasion for contemplation to deepen.
 
 Treating the six similes as rhetoric is like treating a prescription as calligraphy: you admire the handwriting, but you never take the medicine.
 
@@ -571,15 +571,15 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 - *Jieshenmi jing* 解深密經, trans. Xuanzang (Tang), T16, No. 676.
 - *Da zhidu lun* 大智度論, by Nāgārjuna, trans. Kumārajīva (Yaoqin), T25, No. 1509.
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論, by Vasubandhu, trans. Bodhiruci (Yuan Wei), T25, No. 1511.
-- *Poqu zhu buhuai jiaming lun* 破取著不壞假名論, by Guṇadeva, trans. Yijing (Tang), T25, No. 1512.
+- *Poqu zhu buhuai jiaming lun* 破取著不壞假名論, by Guṇadeva, trans. Yijing (Tang), T25, No. 1515.
 - *Yuqie shidi lun* 瑜伽師地論, by Maitreya, trans. Xuanzang (Tang), T30, No. 1579.
 - *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang), T31, No. 1585.
 - *Bian zhongbian lun* 辯中邊論, by Vasubandhu, trans. Xuanzang (Tang), T31, No. 1594.
 - *Cheng weishi lun shuji* 成唯識論述記, by Kuiji, T43, No. 1830.
 - Kuiji, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1700.
-- Huijing, *Jingang bore jing zhushu* 金剛般若經註疏, T33, No. 1701.
+- Zongmi, *Jingang bore jing shu lun zuanyao* 金剛般若經疏論纂要, T33, No. 1701.
 - Zixuan, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, T33, No. 1702.
-- Zongmi, *Jingang bore jing shu lun zuanyao* 金剛般若經疏論纂要, T33, No. 1703.
+- Zongmi, *Jingang bore jing shu lun zuanyao* 金剛般若經疏論纂要, T33, No. 1701.
 
 ### II. Modern Scholarship
 
@@ -601,16 +601,16 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 | Saṃdhinirmocana Sūtra | Jieshenmi jing | T16, No. 676 | Fasc. 1, 2 |
 | Mahāprajñāpāramitā-śāstra | Da zhidu lun | T25, No. 1509 | Fasc. 6 |
 | Vajracchedikā-vyākhyā | Jingang bore boluomi jing lun | T25, No. 1511 | Fasc. 3 |
-| Poqu zhu buhuai jiaming lun | — | T25, No. 1512 | Fasc. 10 |
+| Poqu zhu buhuai jiaming lun | — | T25, No. 1515 | Fasc. 10 |
 | Yogācārabhūmi | Yuqie shidi lun | T30, No. 1579 | Fasc. 36 |
 | Cheng weishi lun | — | T31, No. 1585 | Fasc. 2, 8, 9 |
 | Madhyāntavibhāga | Bian zhongbian lun | T31, No. 1594 | Fasc. 2 |
 | Madhyāntavibhāga (Sthiramati) | — | T31, No. 1597 | Fasc. 5 |
 | Cheng weishi lun shuji | — | T43, No. 1830 | Fasc. 1 |
 | Kuiji's Zanshu | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fasc. 2 |
-| Huijing's Zhushu | Jingang bore jing zhushu | T33, No. 1701 | Fasc. 2 |
+| Zongmi's Zuanyao | Jingang bore jing shu lun zuanyao | T33, No. 1701 | Fasc. 2 |
 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fasc. 7 |
-| Zongmi's Zuanyao | Jingang bore jing shu lun zuanyao | T33, No. 1703 | Fasc. 1 |
+| Zongmi's Zuanyao | Jingang bore jing shu lun zuanyao | T33, No. 1701 | Fasc. 1 |
 
 ---
 
@@ -637,7 +637,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 [^1]: *Jingang bore boluomi jing* §32, 「一切有為法，如夢幻泡影，如露亦如電，應作如是觀」 "All conditioned phenomena are like dreams, illusions, bubbles, shadows, like dew and like lightning — one should contemplate them thus," the six similes verse, T08, No. 235.
 
-[^2]: Zongmi, *Jingang bore jing shu lun zuanyao*, fasc. 1, 「一切有為法者，一切世間生滅之法也……觀即般若妙智，以此妙智觀有為法如夢幻等」 "All conditioned phenomena refers to all worldly dharmas of arising and ceasing... Contemplation is the wondrous wisdom of prajñā; with this wondrous wisdom one contemplates conditioned dharmas as like dreams and illusions," T33, No. 1703.
+[^2]: Zongmi, *Jingang bore jing shu lun zuanyao*, fasc. 1, 「一切有為法者，一切世間生滅之法也……觀即般若妙智，以此妙智觀有為法如夢幻等」 "All conditioned phenomena refers to all worldly dharmas of arising and ceasing... Contemplation is the wondrous wisdom of prajñā; with this wondrous wisdom one contemplates conditioned dharmas as like dreams and illusions," T33, No. 1701.
 
 [^3]: *Jingang bore boluomi jing lun*, fasc. 3, 「復有疑，若諸佛如來常為眾生說法，云何言如來入涅槃？為斷此疑，是故如來說彼偈喻」 "A further doubt: if all buddhas constantly teach the dharma for sentient beings, how can it be said the Tathāgata enters nirvāṇa? To resolve this doubt, the Tathāgata spoke these simile-verses," §32 doubt positioning, T25, No. 1511.
 
@@ -645,7 +645,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 [^5]: *Jingang bore boluomi jing* (Bodhiruci trans.), 「一切有為法，如星翳燈幻，露泡夢電雲，應作如是觀」 T08, No. 236a; Yijing trans. identical, T08, No. 239.
 
-[^6]: Huijing, *Jingang bore jing zhushu*, fasc. 2, citing Zongmi on why the Qin translation has only six similes: 「星燈有體，雲種含生，恐難契空心，潛滋相想，取意之譯，妙在茲焉」 T33, No. 1701.
+[^6]: Zongmi, *Jingang bore jing shu lun zuanyao*, fasc. 2, on why the Qin translation has only six similes: 「星燈有體，雲種含生，恐難契空心，潛滋相想，取意之譯，妙在茲焉」 T33, No. 1701.
 
 [^7]: *Jingang bore boluomi jing* §32, 「佛說微塵眾，則非微塵眾，是名微塵眾……如來所說三千大千世界，則非世界，是名世界……一合相，則非一合相，是名一合相」 T08, No. 235.
 
@@ -699,17 +699,17 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 [^32]: *Jingang bore boluomi jing lun*, fasc. 3, 「見相及於識，器身受用事，過去現在法，亦觀未來世」 the nine similes mapped to nine domains, with verse and individual expositions, T25, No. 1511.
 
-[^33]: *Poqu zhu buhuai jiaming lun*, fasc. 10, 「星翳燈——見相識（自性相）；幻露泡——器身受用（著所住味相）；夢電雲——過去現在未來（隨順出離相）」 the nine similes grouped in three categories, T25, No. 1512.
+[^33]: *Poqu zhu buhuai jiaming lun*, fasc. 10, 「星翳燈——見相識（自性相）；幻露泡——器身受用（著所住味相）；夢電雲——過去現在未來（隨順出離相）」 the nine similes grouped in three categories, T25, No. 1515.
 
 [^34]: *Jingang bore boluomi jing lun*, fasc. 3, 「於有為法中，得無垢自在」 the fruit of contemplating conditioned phenomena as illusory, T25, No. 1511.
 
 [^35]: Kuiji, *Jingang bore boluomi jing zanshu*, fasc. 2, 「無著云……二者流轉不染，謂說九喻。世親云……為斷此疑，故立九喻」……「如如不動者，謂下一如字是真如，上一如字是比喻」 T33, No. 1700.
 
-[^36]: Huijing, *Jingang bore jing zhushu*, fasc. 2, 「佛說一切法空，疑云：云何現見一切境界？故說如幻……又疑……故說如陽焰……又疑……故說如夢……又疑……故說如影、如響……又疑……故說如化」 the progressive doubt-resolution chain, T33, No. 1701.
+[^36]: Zongmi, *Jingang bore jing shu lun zuanyao*, fasc. 2, 「佛說一切法空，疑云：云何現見一切境界？故說如幻……又疑……故說如陽焰……又疑……故說如夢……又疑……故說如影、如響……又疑……故說如化」 the progressive doubt-resolution chain, T33, No. 1701.
 
 [^37]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 7, 「用而常寂、寂而常用，故終日說法終日涅槃」 T33, No. 1702.
 
-[^38]: *Poqu zhu buhuai jiaming lun*, fasc. 10, 「九種有為如九種喻，作不實而觀……是故諸佛如來見世間即涅槃故，不同二乘厭背生死、樂住涅槃、不化眾生。見涅槃即世間故，不同凡夫眾生死而無厭」 the entire sūtra's doctrinal closure, T25, No. 1512.
+[^38]: *Poqu zhu buhuai jiaming lun*, fasc. 10, 「九種有為如九種喻，作不實而觀……是故諸佛如來見世間即涅槃故，不同二乘厭背生死、樂住涅槃、不化眾生。見涅槃即世間故，不同凡夫眾生死而無厭」 the entire sūtra's doctrinal closure, T25, No. 1515.
 
 [^39]: *Bian zhongbian lun* (Sthiramati), fasc. 5, 「幻喻為除六種內處……陽炎喻為除器世間……夢喻為除色等所受用境……影像喻為除身業果……谷響喻為除語業果……光影喻為除非等引地意業果……水月喻為除等引地意業果……變化喻為除聞種類意業」 the eight similes as individual antidotes, T31, No. 1597.
 

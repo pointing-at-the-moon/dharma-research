@@ -85,7 +85,7 @@ Kuiji, in his *Commentary on the Diamond Sūtra*, points directly to the transit
 
 > "Though in the three stages of wise practice one has 'unsystematically' cultivated the six perfections for one incalculable eon, to enter the holy path requires the Buddha's impetus. Therefore, after the Path of Accumulation, the name 'intensified practice' is established. It is like drilling for fire — when the fire is about to emerge, one redoubles one's effort."[^5]
 
-[^5]: *Commentary on the Diamond Prajñāpāramitā Sūtra* 《金剛般若經疏》卷三，T33, No. 1702. 「雖三賢位中亂修六度經一無數劫，欲入聖道要佛策發，故於資糧位後立加行名。其猶鑽火，火欲出時倍加功力。」
+[^5]: *Commentary on the Diamond Prajñāpāramitā Sūtra* 《金剛般若經贊述》卷三，T33, No. 1700. 「雖三賢位中亂修六度經一無數劫，欲入聖道要佛策發，故於資糧位後立加行名。其猶鑽火，火欲出時倍加功力。」
 
 "Unsystematically cultivated the six perfections for one incalculable eon" — the word "unsystematically" (亂) is not pejorative; it means that the practice at the Path of Accumulation has not yet adopted the systematic contemplation-of-emptiness sequence, but the accumulated merit and wisdom provisions are real. "Like drilling for fire — when the fire is about to emerge, one redoubles one's effort" — the fire-drilling metaphor pervades the entire teaching of the four stages. The Path of Accumulation is the long, sustained drilling motion; the Path of Preparation is the final intensification as fire approaches; the Path of Seeing is the moment the flame bursts forth.
 
@@ -506,7 +506,7 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 - *Sandhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, T16, No. 676.
 - *Abhidharmakośa* 《阿毘達磨俱舍論》, by Vasubandhu, trans. Xuanzang, T29, No. 1558.
 - *Prajñāpāramitā Hṛdaya Sūtra Youzhan* 《般若波羅蜜多心經幽贊》, by Kuiji, T33, No. 1710.
-- *Vajracchedikā Prajñāpāramitā Sūtra Commentary* 《金剛般若經疏》, by Kuiji, T33, No. 1702.
+- *Vajracchedikā Prajñāpāramitā Sūtra Commentary* 《金剛般若經贊述》, by Kuiji, T33, No. 1700.
 
 ### II. Modern Scholarship
 
@@ -532,7 +532,7 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 | Abhidharmasamuccaya | T31, No. 1606 | Fasc. 13: Supreme worldly dharma as a single instant |
 | Sandhinirmocana Sūtra | T16, No. 676 | Fasc. 2: Definition of three natures; contemplating three natures to sever defilement and realize purity |
 | Heart Sūtra Commentary | T33, No. 1710 | Fasc. 1: Overview of four absorptions, forty stages of accumulation; fasc. 2: hearing and reflection at accumulation stage |
-| Diamond Sūtra Commentary | T33, No. 1702 | Fasc. 3: "Intensified practice" established after accumulation (fire-drilling metaphor); three degrees of patience mapped to Diamond Sūtra |
+| Diamond Sūtra Commentary | T33, No. 1700 | Fasc. 3: "Intensified practice" established after accumulation (fire-drilling metaphor); three degrees of patience mapped to Diamond Sūtra |
 | Abhidharmakośa | T29, No. 1558 | Fasc. 23: Patience dharma and non-regression |
 
 ---

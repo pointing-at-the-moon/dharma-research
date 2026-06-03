@@ -170,7 +170,7 @@ The distance itself is not a bad thing. Seeing the distance is where practice be
 
 ### 3.4 Three Barriers and the Two Mappings
 
-S5-P01 discovered that Kuiji (T1702) and Pointing at the Moon offer two different trisvabhāva mappings of the jífēi formula. Kuiji maps "speaks of → parikalpita, is not → paratantra, is called → pariniṣpanna"; Pointing at the Moon maps "X → paratantra, is not → negation of parikalpita, is called → pariniṣpanna."[^4] Why the difference?
+S5-P01 discovered that Kuiji (T1700) and Pointing at the Moon offer two different trisvabhāva mappings of the jífēi formula. Kuiji maps "speaks of → parikalpita, is not → paratantra, is called → pariniṣpanna"; Pointing at the Moon maps "X → paratantra, is not → negation of parikalpita, is called → pariniṣpanna."[^4] Why the difference?
 
 [^4]: See Shi Huijing, "Diamond Prajñā: The Jífēi Tripartite Formula as Trisvabhāva Mapping," Pointing at the Moon S5-P01, §3.2–§3.4.
 
@@ -352,7 +352,7 @@ AI as the kōan mirror of the digital age — AI holds all knowledge but possess
 
 - *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
 - *The Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), T48, No. 2008.
-- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1702.
+- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
 
 ### II. Modern Scholarship
 
@@ -366,7 +366,7 @@ AI as the kōan mirror of the digital age — AI holds all knowledge but possess
 |------|------|--------|
 | Diamond Sūtra | Vajracchedikā Prajñāpāramitā Sūtra | T08, No. 235 |
 | Platform Sūtra | The Platform Sūtra of the Sixth Patriarch | T48, No. 2008 |
-| Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1702 |
+| Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1700 |
 
 ---
 
