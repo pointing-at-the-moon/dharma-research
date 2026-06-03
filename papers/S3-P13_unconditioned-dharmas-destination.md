@@ -316,7 +316,7 @@ The *Vyākhyā* provides definitions for the remaining unconditioned dharmas:
 > Immovability: "Having abandoned desire for the purity realm (*śubhakṛtsna*) but not yet abandoned desire for higher realms—the unconditioned cessation of suffering and pleasure."
 > Cessation of perception and feeling: "Having abandoned desire for the sphere of nothingness, preceded by the volition to cease mentation—the cessation of impermanent mind and mental factors together with one portion of the permanent ones—this is an unconditioned state."[^40]
 
-The *Cheng Weishi Lun Luè Zuǎn*'s classification further clarifies:
+The *Cheng Weishi Lun Shuji*'s classification further clarifies:
 
 > 「真如無為非滅諦攝，擇滅無為滅受相無為不動無為是滅諦攝。」[^41]
 >
@@ -789,7 +789,7 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 *Mahāprajñāpāramitā-śāstra* (大智度論). By Nāgārjuna. Translated by Kumārajīva. *Taishō* vol. 25, No. 1509.
 *Mahāprajñāpāramitā-upadeśa* (大般若經論). Translated by Kumārajīva. *Taishō* vol. 25, No. 1512.
 *Bā Shí Guī Jǔ Bǔ Zhù* (八識規矩補註). Annotated by Putai. *Taishō* vol. 45, No. 1865.
-*Cheng Weishi Lun Luè Zuǎn* (成唯識論略纂). By Kuiji. *Taishō* vol. 43, No. 1828.
+*Cheng Weishi Lun Shuji* (成唯識論述記). By Kuiji. *Taishō* vol. 43, No. 1830.
 *Commentary on the Huayan Dharma-Realm Contemplation Gate* (注華嚴法界觀門). By Zongmi. *Taishō* vol. 45, No. 1884.
 *Huayan Dharma-Realm Dark Mirror* (華嚴法界玄鏡). By Chengguan. *Taishō* vol. 45, No. 1883.
 *Huayan Essay on Generating the Bodhi-Mind* (華嚴發菩提心章). By Fazang. *Taishō* vol. 45, No. 1878.
@@ -828,7 +828,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 | 20 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | No. 1509 | Fasc. 31, 89 |
 | 21 | Mahāprajñāpāramitā-upadeśa 大般若經論 | T25 | No. 1512 | Fasc. 10 |
 | 22 | Bā Shí Guī Jǔ Bǔ Zhù 八識規矩補註 | T45 | No. 1865 | Fasc. 1, 2 |
-| 23 | Cheng Weishi Lun Luè Zuǎn 略纂 | T43 | No. 1828 | Fasc. 1 |
+| 23 | Cheng Weishi Lun Shuji 述記 | T43 | No. 1830 | Fasc. 1 |
 | 24 | Commentary on Huayan Dharma-Realm 注華嚴法界觀門 | T45 | No. 1884 | Fasc. 1 |
 | 25 | Huayan Dharma-Realm Dark Mirror 華嚴法界玄鏡 | T45 | No. 1883 | Fasc. 2 |
 | 26 | Huayan Bodhi-Mind Essay 華嚴發菩提心章 | T45 | No. 1878 | Fasc. 1 |
@@ -933,7 +933,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^40]: *Abhidharma-samuccaya-vyākhyā*, fasc. 2. Definitions of the five unconditioned dharmas from space-like to cessation of perception and feeling. *Taishō* vol. 31, No. 1606.
 
-[^41]: *Cheng Weishi Lun Luè Zuǎn*, fasc. 1. Four-truth classification of the six unconditioned dharmas. *Taishō* vol. 43, No. 1828.
+[^41]: *Cheng Weishi Lun Shuji*, fasc. 1. Four-truth classification of the six unconditioned dharmas. *Taishō* vol. 43, No. 1830.
 
 [^42]: *Cheng Weishi Lun*, fasc. 9. Exegesis of the name "true thusness." *Taishō* vol. 31, No. 1585.
 

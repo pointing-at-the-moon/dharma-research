@@ -543,7 +543,7 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 8. *Vajracchedikā-prajñāpāramitā-sūtra-śāstra* (金剛般若波羅蜜經論), by Vasubandhu, tr. Bodhiruci, T25, No. 1511.
 9. *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), by Kuiji, T33, No. 1702.
 10. *Jingang bore jing zanshu* (金剛般若經贊述), by Kuiji, T33, No. 1700.
-11. *Cheng weishi lun lüezuan* (成唯識論略纂), by Kuiji et al., T43, No. 1828.
+11. *Cheng weishi lun shuji* (成唯識論述記), by Kuiji et al., T43, No. 1830.
 12. *Triṃśikā-vijñaptimātratā* (唯識三十論頌), by Vasubandhu, tr. Xuanzang, T31, No. 1586.
 
 ### II. Modern Scholarship

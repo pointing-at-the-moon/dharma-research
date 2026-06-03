@@ -323,7 +323,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 2. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
 3. *Bajishi Guiju Buzhu* (八識規矩補註), by Putai (Ming), *Taishō* vol. 45, No. 1865.
 4. *Zongjing Lu* (宗鏡錄), by Yongming Yanshou, *Taishō* vol. 48, No. 2016.
-5. *Cheng Weishi Lun Lüezan* (成唯識論略纂), by Kuiji, *Taishō* vol. 43, No. 1828.
+5. *Cheng Weishi Lun Shuji* (成唯識論述記), by Kuiji, *Taishō* vol. 43, No. 1830.
 
 ### III. Modern Scholarship
 
@@ -342,7 +342,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 | 5 | 楞伽阿跋多羅寶經 | T16 | No. 0670 | Fasc. 1 |
 | 6 | 入楞伽經 | T16 | No. 0671 | Fasc. 2 |
 | 7 | 宗鏡錄 | T48 | No. 2016 | Fasc. 88 |
-| 8 | 成唯識論略纂 | T43 | No. 1828 | Fasc. 1 |
+| 8 | 成唯識論述記 | T43 | No. 1830 | Fasc. 1 |
 | 9 | 雜阿含經 | T02 | No. 0099 | Fasc. 8, 11, 13 |
 | 10 | 解深密經 | T16 | No. 0676 | Fasc. 1 |
 | 11 | 大方廣佛華嚴經（60 fasc.） | T09 | No. 0278 | Fasc. 10, 25 |
@@ -440,7 +440,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 
 [^39]: *Cheng Weishi Lun*, fasc. 2, *Taishō* vol. 31, No. 1585.
 
-[^40]: *Cheng Weishi Lun Lüezan*, fasc. 1: 「思量名意，末那中勝，恒審思量勝餘識故。」("Deliberation is called 'manas'; among the consciousnesses, manas excels — it surpasses the others in constant and continuous deliberation.") *Taishō* vol. 43, No. 1828.
+[^40]: *Cheng Weishi Lun Shuji*, fasc. 1: 「思量名意，末那中勝，恒審思量勝餘識故。」("Deliberation is called 'manas'; among the consciousnesses, manas excels — it surpasses the others in constant and continuous deliberation.") *Taishō* vol. 43, No. 1830.
 
 [^41]: *Saṃyuktāgama*, fasc. 13, Sūtra on the Six Sixes (Sūtra 304): 「何等為六內入處？謂眼入處、耳入處、鼻入處、舌入處、身入處、意入處。」("What are the six internal bases?...") *Taishō* vol. 2, No. 0099. Also fasc. 8, Sūtra 213: 「緣眼、色，眼識生，三事和合，緣觸觸生受。」("Conditioned by eye and form, eye-consciousness arises; the meeting of the three is contact.")
 

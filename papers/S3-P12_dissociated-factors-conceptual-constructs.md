@@ -697,7 +697,7 @@ The next step takes us into the fifth and final category — unconditioned dharm
 6. *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, compiled by Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
 7. *Xianyang shengjiao lun* 《顯揚聖教論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1602.
 8. *Bashi guiju buzhu* 《八識規矩補註》, by Mingchang, *Taishō* vol. 45, No. 1865.
-9. *Cheng weishi lun lüecuan* 《成唯識論略纂》, by Kuiji, *Taishō* vol. 43, No. 1828.
+9. *Cheng weishi lun shuji* 《成唯識論述記》, by Kuiji, *Taishō* vol. 43, No. 1830.
 10. *Saṃdhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, *Taishō* vol. 16, No. 676.
 11. *Saṃyukta Āgama* 《雜阿含經》, trans. Guṇabhadra, *Taishō* vol. 2, No. 99.
 12. *Madhyama Āgama* 《中阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 1, No. 26.
@@ -731,7 +731,7 @@ The next step takes us into the fifth and final category — unconditioned dharm
 | 6 | Abhidharmasamuccaya-vyākhyā 雜集論 | T31 | 1606 | Fasc. 2 |
 | 7 | Xianyang shengjiao lun 顯揚聖教論 | T31 | 1602 | Fasc. 1, 18 |
 | 8 | Bashi guiju buzhu 八識規矩補註 | T45 | 1865 | Fasc. 2 |
-| 9 | Cheng weishi lun lüecuan 略纂 | T43 | 1828 | Fasc. 1 |
+| 9 | Cheng weishi lun shuji 述記 | T43 | 1830 | Fasc. 1 |
 | 10 | Saṃdhinirmocana Sūtra 解深密經 | T16 | 676 | Fasc. 1, 2 |
 | 11 | Saṃyukta Āgama 雜阿含經 | T2 | 99 | Fasc. 2, 3, 5, 6, 10, 17, 34, 41 |
 | 12 | Madhyama Āgama 中阿含經 | T1 | 26 | Fasc. 58 |
@@ -836,7 +836,7 @@ The next step takes us into the fifth and final category — unconditioned dharm
 [^69]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "如是等心不相應行法唯依分位差別而建立故當知皆是假有" (These dissociated factors, being established solely based on positional differences, should all be known as merely provisionally existent), summary classification mapping all 24 dharmas to eight types of positional difference, *Taishō* vol. 31, No. 1606.
 [^70]: *Xianyang shengjiao lun* 《顯揚聖教論》 fasc. 18, "當知不相應皆假施設有假有性六種彼皆二過故" (Know that all dissociated factors are provisionally designated existences, of six types of provisional nature, because both carry two faults), *Taishō* vol. 31, No. 1602.
 [^71]: The *Bashi guiju song* contains no direct mention of "dissociated factors." Indirectly related: the eighth consciousness's "去後來先作主公" (departing last, arriving first, as master) relates to life-faculty; "受熏持種根身器" (receiving perfuming, maintaining seeds, body and world) relates to life-faculty's basis; "善業從下冷惡業從上冷" (wholesome karma cools from below, unwholesome from above) relates to the dispersal of the lifespan-warmth-consciousness triad. See *Bashi guiju buzhu* 《八識規矩補註》 fasc. 2, *Taishō* vol. 45, No. 1865.
-[^72]: *Cheng weishi lun lüecuan* 《略纂》 fasc. 1, "具足應言非色不相應行。言非色者即簡於色。不相應者復簡於心" (The complete designation is 'non-form dissociated formations.' 'Non-form' excludes form. 'Dissociated' excludes mind), etymology of dissociated factors, *Taishō* vol. 43, No. 1828.
+[^72]: *Cheng weishi lun shuji* 《述記》 fasc. 1, "具足應言非色不相應行。言非色者即簡於色。不相應者復簡於心" (The complete designation is 'non-form dissociated formations.' 'Non-form' excludes form. 'Dissociated' excludes mind), etymology of dissociated factors, *Taishō* vol. 43, No. 1830.
 [^73]: Lifespan of the non-perception heaven varies across texts: *Qishi jing* 《起世經》 fasc. 7 records "non-perception beings, lifespan sixteen kalpas" (T1 No. 24); *Dīrgha Āgama* 《長阿含經》 fasc. 20 records "non-perception heaven lifespan five hundred kalpas" (T1 No. 1); *Cheng weishi lun* fasc. 7 records "five hundred kalpas." These differences may involve different measurement standards.
 [^74]: *Śūraṅgama* commentary (T1799 fasc. 7), "不了妄想體空乃執生滅勞累厭此生滅求不生滅……非真涅槃也" (Not understanding that delusion's nature is empty, grasping at the weariness of arising-ceasing, seeking non-arising-non-ceasing … this is not true nirvāṇa), assessment of non-perception attainment, *Taishō* vol. 39, No. 1799.
 [^75]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 42, "各經不可說不可說億那由他劫而不想念時節長短" (Each passing through ineffable nayutas of kalpas without any awareness of time's length), temporal perception dissolving in samādhi, *Taishō* vol. 10, No. 279.

@@ -186,7 +186,7 @@ If "determinacy of nature" (svabhāva-niyata) were the whole story, then seed th
 
 **Seeds can grow.** A Sanlun (Mādhyamika) school source states:
 
-> 業所熏成種......運運增長名成就業。若限勢過及希望止，業種不增即名捨業。[^12]
+> 業所熏成種......運運增長名成就業。若限勢過及希望止，業種不增即名捨業。
 
 *"Seeds formed through karmic perfuming... progressively grow, which is called 'accomplishing karma.' When the force of momentum is exhausted or aspiration ceases, the karmic seeds stop growing, which is called 'abandoning karma.'"*
 
@@ -389,7 +389,6 @@ But the premise is—you must, like the farmer, plant first.
 [^9]: 《大乘阿毘達磨集論》卷七，《大正藏》第31冊，No. 1605。*Abhidharmasamuccaya*, Fascicle 7, Taishō vol. 31, No. 1605.
 [^10]: 《成唯識論》卷二，「然種子義略有六種」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 2, Taishō vol. 31, No. 1585.
 [^11]: 《大方廣佛華嚴經》卷二十六，《大正藏》第10冊，No. 0293。*Avataṃsaka Sūtra*, Fascicle 26, Taishō vol. 10, No. 0293.
-[^12]: 三論宗引述，《大正藏》第43冊，No. 1828。Sanlun school source, Taishō vol. 43, No. 1828.
 [^13]: 《淨土祖師著作》卷七，《大正藏》第47冊，No. 1960。Pure Land patriarchal writings, Fascicle 7, Taishō vol. 47, No. 1960.
 [^14]: 《辯中邊論》卷三，《大正藏》第31冊，No. 1595。*Madhyāntavibhāga*, Fascicle 3, Taishō vol. 31, No. 1595.
 [^15]: 《成唯識論》卷八，「異熟因去果相遠」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 8, Taishō vol. 31, No. 1585.

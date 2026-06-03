@@ -256,7 +256,7 @@ The *Cheng weishi lun* further positions illusory existence within the four-leve
 > "Ultimate truth has four levels: first, conventional ultimate — the aggregates, sense-bases, and elements; second, logical ultimate — the four noble truths of suffering, etc.; third, realized ultimate — the suchness of the two emptinesses; fourth, ultimate of ultimates — the single true dharma-realm."
 > "There are also two natures: first, conventional — the paratantra; second, ultimate — the pariniṣpanna."[^29]
 
-The paratantra belongs to conventional truth — at the conventional level it is existent (conventionally existent), at the ultimate level it is empty (ultimately empty). The six similes reveal precisely this two-truth structure: "like dreams, illusions, bubbles, and shadows" is viewing the paratantra from its ultimate aspect (empty), yet the paratantra itself is conventionally existent (conditioned dharmas do genuinely arise within conditions). Kuiji's *Cheng weishi lun lüecuan* (T1828) summarizes in a single sentence:
+The paratantra belongs to conventional truth — at the conventional level it is existent (conventionally existent), at the ultimate level it is empty (ultimately empty). The six similes reveal precisely this two-truth structure: "like dreams, illusions, bubbles, and shadows" is viewing the paratantra from its ultimate aspect (empty), yet the paratantra itself is conventionally existent (conditioned dharmas do genuinely arise within conditions). Kuiji's *Cheng weishi lun shuji* (T1830) summarizes in a single sentence:
 
 > 「遍計所執隨言說性不成實故非有，依他起離言說性實成立故非無。」
 >
@@ -492,7 +492,7 @@ The *Cheng weishi lun*'s "seemingly existent yet non-existent"[^27] is the corre
 
 The Laṅkāvatāra's defense line is the most direct: "Birth-and-death is like an illusory dream, yet karma therein is not destroyed."[^19] Karmic cause-and-effect is not annulled by illusoriness. If you strike someone in a dream, upon waking the other person is not actually hurt — but within saṃsāra's "dream," karmic cause-and-effect operates in full. Illusory does not equal without causality.
 
-Kuiji's summary in the *Lüecuan* (T1828) is the most precise: "Parikalpita, following the nature of linguistic convention, fails to be substantially real — hence non-existent. Paratantra, apart from linguistic convention, is genuinely established — hence not nothing."[^30] Neither existent nor non-existent — this is the Middle Way.
+Kuiji's summary in the *Shuji* (T1830) is the most precise: "Parikalpita, following the nature of linguistic convention, fails to be substantially real — hence non-existent. Paratantra, apart from linguistic convention, is genuinely established — hence not nothing."[^30] Neither existent nor non-existent — this is the Middle Way.
 
 ### 5.2 ❌ "Illusory" = No Need to Practice
 
@@ -575,7 +575,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 - *Yuqie shidi lun* 瑜伽師地論, by Maitreya, trans. Xuanzang (Tang), T30, No. 1579.
 - *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang), T31, No. 1585.
 - *Bian zhongbian lun* 辯中邊論, by Vasubandhu, trans. Xuanzang (Tang), T31, No. 1594.
-- *Cheng weishi lun lüecuan* 成唯識論略纂, by Kuiji, T43, No. 1828.
+- *Cheng weishi lun shuji* 成唯識論述記, by Kuiji, T43, No. 1830.
 - Kuiji, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1700.
 - Huijing, *Jingang bore jing zhushu* 金剛般若經註疏, T33, No. 1701.
 - Zixuan, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, T33, No. 1702.
@@ -606,7 +606,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 | Cheng weishi lun | — | T31, No. 1585 | Fasc. 2, 8, 9 |
 | Madhyāntavibhāga | Bian zhongbian lun | T31, No. 1594 | Fasc. 2 |
 | Madhyāntavibhāga (Sthiramati) | — | T31, No. 1597 | Fasc. 5 |
-| Cheng weishi lun lüecuan | — | T43, No. 1828 | Fasc. 1 |
+| Cheng weishi lun shuji | — | T43, No. 1830 | Fasc. 1 |
 | Kuiji's Zanshu | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fasc. 2 |
 | Huijing's Zhushu | Jingang bore jing zhushu | T33, No. 1701 | Fasc. 2 |
 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fasc. 7 |
@@ -693,7 +693,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 [^29]: *Cheng weishi lun*, fasc. 9, 「勝義諦略有四種：一世間勝義，謂蘊處界等；二道理勝義，謂苦等四諦；三證得勝義，謂二空真如；四勝義勝義，謂一真法界」……「復有二性：一者世俗，謂依他起；二者勝義，謂圓成實」 the four-level two truths, T31, No. 1585.
 
-[^30]: *Cheng weishi lun lüecuan*, fasc. 1, 「遍計所執隨言說性不成實故非有，依他起離言說性實成立故非無」 the "neither existent nor non-existent" formulation, T43, No. 1828.
+[^30]: *Cheng weishi lun shuji*, fasc. 1, 「遍計所執隨言說性不成實故非有，依他起離言說性實成立故非無」 the "neither existent nor non-existent" formulation, T43, No. 1830.
 
 [^31]: *Jingang bore boluomi jing lun*, fasc. 3, 「非有為非離，諸如來涅槃；九種有為法，妙智正觀故」……「諸佛涅槃，非有為法亦不離有為法」 the §32 doubt-resolution verse and nine-simile contemplation, T25, No. 1511.
 
