@@ -1,20 +1,20 @@
+---
+title: "四加行：從知道到看見"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 百法明門 · 補充篇 SUP01"
+series_short: "S3"
+paper_id: "S3-SUP01"
+paper_number: 1
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # 四加行：從知道到看見
 
 **煖頂忍世第一法——百法觀行的實踐路徑**
 
 *The Four Preparatory Stages:
 Warmth, Summit, Patience, and Supreme Worldly Dharma — The Practice Path of Hundred-Dharma Contemplation*
-
----
-
-**作者 Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 Point-to-the-moon
-**日期 Date:** 2026年4月
-**授權 License:** CC BY-NC-SA 4.0
-**版本 Version:** 1.0
-**系列 Series:** S3 百法明門 · 補充篇 SUP01
-
----
 
 ## 摘要
 

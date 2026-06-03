@@ -1,17 +1,18 @@
+---
+title: "The Four Dharmadhātus: From Phenomena to Unobstructed Phenomena-and-Phenomena"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S8"
+paper_id: "S8-P03"
+paper_number: 3
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Four Dharmadhātus: From Phenomena to Unobstructed Phenomena-and-Phenomena
 
 ## A Perfect-Teaching Reading of Abundant Offerings
 
 **S8-P03**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-
-**Pointing at the Moon · Avataṃsaka Sūtra Series**
-
----
 
 ## Abstract
 

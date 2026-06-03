@@ -1,18 +1,19 @@
+---
+title: "The Three Transformations: A Panorama of the Eight Consciousnesses"
+author: "Shi Huijing (釋慧鏡)"
+series: "Pointing at the Moon · S3 Practice: Yogācāra Toolkit — Paper 2"
+series_short: "S3"
+paper_id: "S3-P02"
+paper_number: 2
+date: "2026-03"
+version: "2.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Three Transformations: A Panorama of the Eight Consciousnesses
 
 **From One Mind to Eight Vijñānas: The Threefold Transformation and Its Organic Totality**
 
 *三能變：八識全景——從一心到八識——識的三重轉變與有機整體*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Series:** Pointing at the Moon · S3 Practice: Yogācāra Toolkit — Paper 2
-**Date:** March 2026 (April revision)
-**License:** CC BY-NC-SA 4.0
-**Version:** 2.0 (Sūtra-First Revision)
-
----
 
 ## Abstract
 

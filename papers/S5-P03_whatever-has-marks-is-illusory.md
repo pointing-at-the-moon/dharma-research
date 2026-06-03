@@ -1,18 +1,18 @@
+---
+title: "Whatever Has Marks Is Illusory: The Diamond Sūtra's First Cut"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S5"
+paper_id: "S5-P03"
+paper_number: 3
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Whatever Has Marks Is Illusory: The Diamond Sūtra's First Cut
 
 **The Yogācāra Spectrum of "Marks" and the Precise Object of Parikalpita**
 
 *凡所有相皆是虛妄——金剛經的第一刀：「相」的唯識光譜與遍計所執的精確對象*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

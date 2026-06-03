@@ -1,19 +1,20 @@
+---
+title: "The Parable of the Prodigal Son"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S7 Lotus Sūtra Series, Paper 4"
+series_short: "S7"
+paper_id: "S7-P04"
+paper_number: 4
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Parable of the Prodigal Son
 
 **You Were Always the Heir — Why Did You Call Yourself a Hired Hand?**
 **From the *Faith and Understanding* Chapter to the "Originally-Possessed-Yet-Unknown" Parable Family**
 
 *窮子喻——本是長者子，何以自謂客作賤人*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Series:** S7 Lotus Sūtra Series, Paper 4
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

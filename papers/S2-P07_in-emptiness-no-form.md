@@ -1,19 +1,19 @@
+---
+title: "In Emptiness There Is No Form: Awareness of Sense-Bases, Objects, and Consciousness"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P07)"
+series_short: "S2"
+paper_id: "S2-P07"
+paper_number: 7
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # In Emptiness There Is No Form: Awareness of Sense-Bases, Objects, and Consciousness
 
 **What You Take to Be "Seeing the World" Is Actually Living Inside a World Constructed by Consciousness**
 
 *空中無色——根境識的覺察*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P07)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

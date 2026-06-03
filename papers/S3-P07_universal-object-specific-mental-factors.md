@@ -1,20 +1,20 @@
+---
+title: "Universal and Object-Specific Mental Factors: The Psychological Engine"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P07)"
+series_short: "S3"
+paper_id: "S3-P07"
+paper_number: 7
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Universal and Object-Specific Mental Factors: The Psychological Engine
 
 **The Minimal Complete Structure of Every Moment of Mind — From Inevitable Ignition to On-Demand Activation**
 
 *遍行與別境：心理引擎——
 每一念的最小完整結構：從必然點火到按需啟動*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P07)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

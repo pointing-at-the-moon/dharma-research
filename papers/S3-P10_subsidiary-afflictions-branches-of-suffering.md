@@ -1,20 +1,20 @@
+---
+title: "Subsidiary Afflictions: The Branches of Suffering"
+author: "Shi Huijing (釋慧鏡)"
+series: "S3 Practice — Śatadharmaprakāśamukha & Yogācāra Praxis (S3-P10)"
+series_short: "S3"
+paper_id: "S3-P10"
+paper_number: 10
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Subsidiary Afflictions: The Branches of Suffering
 
 **A Systematic Unfolding of Three Classes — From Root to Branch**
 
 *隨煩惱：煩惱的枝末——
 小中大三類的系統展開*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon (指月)
-**Series:** S3 Practice — Śatadharmaprakāśamukha & Yogācāra Praxis (S3-P10)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

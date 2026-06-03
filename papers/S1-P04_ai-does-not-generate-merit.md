@@ -1,16 +1,16 @@
+---
+title: "AI Does Not Generate Merit"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P04"
+paper_number: 4
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # AI Does Not Generate Merit
 
 **Bhājana-loka, Adhipati-pratyaya, and the Contemporary Inversion of Causality**
-
----
-
-**Author:** Shi Huijing 釋慧鏡  
-**Project:** Point-to-the-moon 指月  
-**Date:** March 2026  
-**License:** CC BY-NC-SA 4.0  
-**Version:** 1.0  
-
----
 
 ## Abstract
 

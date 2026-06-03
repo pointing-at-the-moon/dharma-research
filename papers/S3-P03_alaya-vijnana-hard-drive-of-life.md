@@ -1,20 +1,20 @@
+---
+title: "Ālaya-vijñāna: The Hard Drive of Life"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P03)"
+series_short: "S3"
+paper_id: "S3-P03"
+paper_number: 3
+date: "2026-03"
+version: "2.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Ālaya-vijñāna: The Hard Drive of Life
 
 **Receiving Perfumation, Holding Seeds, Sustaining Body and World — A Doctrinal Unfolding of the All-Seed Consciousness**
 
 *阿賴耶識：生命的硬碟——
 受薰持種根身器：一切種子識的義理展開*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P03)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 2.0
-
----
 
 ## Abstract
 

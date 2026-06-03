@@ -1,18 +1,18 @@
+---
+title: "The Pedagogical Arc of Merit Comparisons"
+author: "Shi Huijing (釋慧鏡)"
+series_short: "S5"
+paper_id: "S5-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Pedagogical Arc of Merit Comparisons
 
 **Dharma-Offering and the Reward Paradox**
 
 *功德較量的教學弧線——法供養與獎勵悖論*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon (指月)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

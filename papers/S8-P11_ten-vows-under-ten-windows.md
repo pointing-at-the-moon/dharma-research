@@ -1,19 +1,20 @@
+---
+title: "Ten Vows under Ten Windows"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 xiǎn / Avataṃsaka Sūtra · Paper 11"
+series_short: "S8"
+paper_id: "S8-P11"
+paper_number: 11
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Ten Vows under Ten Windows
 
 **A Synoptic Reading of the Huayan Ten Profound Gates as the Esoteric Deepening of Samantabhadra's Daily Practice**
 
 *中文主標題:
 十扇窗下的十大願——華嚴十玄門綜論與普賢日課的圓教深化*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S8 xiǎn / Avataṃsaka Sūtra · Paper 11
-
----
 
 ## Abstract
 

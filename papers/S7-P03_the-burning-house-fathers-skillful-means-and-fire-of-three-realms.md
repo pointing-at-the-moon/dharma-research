@@ -1,13 +1,14 @@
+---
+title: "The Parable of the Burning House: The Father's Skillful Means and the Fire of the Three Realms"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P03"
+paper_number: 3
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Parable of the Burning House: The Father's Skillful Means and the Fire of the Three Realms
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract 摘要
 

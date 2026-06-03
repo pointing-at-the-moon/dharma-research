@@ -1,19 +1,20 @@
+---
+title: "The Six Characteristics in Perfect Fusion"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 *xiǎn* / *Avataṃsaka Sūtra* · Paper 8"
+series_short: "S8"
+paper_id: "S8-P08"
+paper_number: 8
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Six Characteristics in Perfect Fusion
 
 **The Dialectic of Totality, Distinction, Sameness, Difference, Formation, and Decay—A Perfect-Teaching Reading of *Constantly Following the Buddha's Learning***
 
 *中文主標題:
 六相圓融：總別同異成壞的辯證——常隨佛學的圓教讀法*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S8 *xiǎn* / *Avataṃsaka Sūtra* · Paper 8
-
----
 
 ## Abstract
 

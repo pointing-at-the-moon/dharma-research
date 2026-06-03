@@ -1,16 +1,17 @@
+---
+title: "Four Categories and Seven Elements: All Dharmas Are Originally Tathāgatagarbha"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination — The Śūraṅgama Sūtra · Paper Four"
+series_short: "S6"
+paper_id: "S6-P04"
+paper_number: 4
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Four Categories and Seven Elements: All Dharmas Are Originally Tathāgatagarbha
 
 **The Return-to-Nature Structure of the Four Categories and Seven Elements from the Perspectives of the Empty and Non-Empty Tathāgatagarbha**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Series:** S6 Illumination — The Śūraṅgama Sūtra · Paper Four
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

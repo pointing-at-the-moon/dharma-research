@@ -1,19 +1,19 @@
+---
+title: "Three Practitioners, One Sūtra: The Unity of Exoteric and Esoteric in the Heart Sūtra"
+author: "Shi Huijing 釋慧鏡"
+series: "S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P11)"
+series_short: "S2"
+paper_id: "S2-P11"
+paper_number: 11
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Three Practitioners, One Sūtra: The Unity of Exoteric and Esoteric in the Heart Sūtra
 
 **The Same 260 Characters, from Seed to Buddhahood**
 
 *三種行者·一部心經——顯密圓融*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Series:** S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P11)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

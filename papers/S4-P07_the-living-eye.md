@@ -1,18 +1,19 @@
+---
+title: "The Living Eye"
+author: "Shi Huijing 釋慧鏡"
+series: "S4 — Into the Unknown: AI × Buddhadharma · Paper Seven"
+series_short: "S4"
+paper_id: "S4-P07"
+paper_number: 7
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Living Eye
 
 **The One Thing AI Cannot Give You**
 
 *活眼——AI 給不了你的那一樣東西*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Series:** S4 — Into the Unknown: AI × Buddhadharma · Paper Seven
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

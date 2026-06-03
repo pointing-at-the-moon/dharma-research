@@ -1,18 +1,19 @@
+---
+title: "How Would the Buddha Use AI"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S4 — Into the Unknown: AI × Dharma · Paper Six"
+series_short: "S4"
+paper_id: "S4-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # How Would the Buddha Use AI
 
 **Upāya of Adhipati-pratyaya**
 
 *佛陀會怎麼用 AI——增上緣的方便善巧*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Series:** S4 — Into the Unknown: AI × Dharma · Paper Six
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

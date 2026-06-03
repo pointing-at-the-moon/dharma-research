@@ -1,18 +1,18 @@
+---
+title: "Co-Practice: A Field Report from the Pointing-at-the-Moon Project"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S4"
+paper_id: "S4-P03"
+paper_number: 3
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Co-Practice: A Field Report from the Pointing-at-the-Moon Project
 
 **One person and a language model, sitting before the Taishō Tripiṭaka**
 
 *共修——指月的實證報告*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

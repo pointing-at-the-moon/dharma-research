@@ -1,19 +1,19 @@
+---
+title: "Mutual Illumination: Two Lamps in the Material World"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S4"
+paper_id: "S4-P02"
+paper_number: 2
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Mutual Illumination: Two Lamps in the Material World
 
 **Mutual Perfuming, Mutual Contamination, Mutual Purification: Rereading from Mirror to Lamp**
 
 *互照——器世間中的兩盞燈：
 互薰、互染、互淨——從鏡子到燈的重讀*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

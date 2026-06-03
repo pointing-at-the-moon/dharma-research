@@ -1,18 +1,18 @@
+---
+title: "The Diamond Sūtra's Self-Replay"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S5"
+paper_id: "S5-P07"
+paper_number: 7
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Diamond Sūtra's Self-Replay
 
 **The §17 Pivot, Dual-Layer Structure, and the Two Obstructions**
 
 *金剛經的自我重演——§17 樞紐、雙層結構與唯識二障論*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

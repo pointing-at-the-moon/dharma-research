@@ -1,20 +1,20 @@
+---
+title: "Manas-vijñāna: The Invisible Ego"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P04)"
+series_short: "S3"
+paper_id: "S3-P04"
+paper_number: 4
+date: "2026-03"
+version: "2.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Manas-vijñāna: The Invisible Ego
 
 **Constant Deliberation, Four Afflictions — A Doctrinal Unfolding of the Seventh Consciousness and the Path to Equality Wisdom**
 
 *末那識：看不見的我執——
 恒審思量，四惑相隨：第七識的義理展開與平等性智的轉化之路*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P04)
-**Date:** March 2026 (April revision)
-**License:** CC BY-NC-SA 4.0
-**Version:** 2.0 (Sūtra-First Revision)
-
----
 
 ## Abstract
 

@@ -1,18 +1,18 @@
+---
+title: "Diamond Prajñā: The \"Jífēi\" Tripartite Formula as Trisvabhāva Mapping"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S5"
+paper_id: "S5-P01"
+paper_number: 1
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Diamond Prajñā: The "Jífēi" Tripartite Formula as Trisvabhāva Mapping
 
 **The Diamond Sūtra's "Is Not X, Is Called X" as a Compressed Expression of the Three Natures**
 
 *金剛般若——即非三段式映射唯識三性*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

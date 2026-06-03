@@ -1,19 +1,19 @@
+---
+title: "The True Mark of All Dharmas: This Mind Is Unborn and Unceasing"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P06)"
+series_short: "S2"
+paper_id: "S2-P06"
+paper_number: 6
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The True Mark of All Dharmas: This Mind Is Unborn and Unceasing
 
 **Heart Sūtra Third Meaning: The Six Negations as Direct Pointing to the Nature of Mind**
 
 *是諸法空相——此心不生不滅*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P06)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

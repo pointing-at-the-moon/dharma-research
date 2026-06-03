@@ -1,16 +1,16 @@
+---
+title: "The Butterfly Effect of Initial Aspiration"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P01"
+paper_number: 1
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Butterfly Effect of Initial Aspiration
 
 **Seed Transformation Mechanisms within the Tathāgatagarbha as a Shared Karmic Field**
-
----
-
-**Author:** Shi Huijing 釋慧鏡  
-**Project:** Point-to-the-moon 指月  
-**Date:** March 2026  
-**License:** CC BY-NC-SA 4.0  
-**Version:** 1.0
-
----
 
 ## Abstract
 
@@ -178,7 +178,7 @@ The practical significance of this thesis is: every single moment of bodhicitta 
 
 ### I. Primary Buddhist Sources
 
-[^1]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 17: "Merit of Initial Aspiration," fascicle 17. T10, No. 278. Translated by Śikṣānanda.
+[^1]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 17: "Merit of Initial Aspiration," fascicle 17. T10, No. 279. Translated by Śikṣānanda.
 [^2]: *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), fascicle 4. T16, No. 670. Translated by Guṇabhadra.
 [^3]: *Awakening of Mahāyāna Faith* (大乘起信論), fascicle 1. T32, No. 1666. Composed by Aśvaghoṣa, translated by Paramārtha.
 [^4]: *Śrīmālādevī Siṃhanāda Sūtra* (勝鬘師子吼一乘大方便方廣經). T12, No. 353. Translated by Guṇabhadra.
@@ -195,7 +195,7 @@ The practical significance of this thesis is: every single moment of bodhicitta 
 
 | Abbreviation | Full Title | Taishō No. | Author / Translator |
 |------|------|-----------|---------|
-| Avataṃsaka Sūtra | 大方廣佛華嚴經 | T10, No. 278 | Tr. Śikṣānanda |
+| Avataṃsaka Sūtra | 大方廣佛華嚴經 | T10, No. 279 | Tr. Śikṣānanda |
 | Laṅkāvatāra Sūtra | 楞伽阿跋多羅寶經 | T16, No. 670 | Tr. Guṇabhadra |
 | Awakening of Faith | 大乘起信論 | T32, No. 1666 | Aśvaghoṣa; tr. Paramārtha |
 | Śrīmālā Sūtra | 勝鬘師子吼一乘大方便方廣經 | T12, No. 353 | Tr. Guṇabhadra |

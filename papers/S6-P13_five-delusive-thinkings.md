@@ -1,18 +1,19 @@
+---
+title: "The Five Delusive Thinkings and the Path to Cessation"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Pointing at the Moon · S6 Illumination (*Śūraṅgama-sūtra*) — Paper 13 (Series Capstone)"
+series_short: "S6"
+paper_id: "S6-P13"
+paper_number: 13
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Five Delusive Thinkings and the Path to Cessation
 
 **The General Map of the Fifty Skandha-Māras and the Formal Closure of *Śūraṅgama* Fascicle Ten**
 
 *五妄想與寂滅之路:五十陰魔總綱與《楞嚴經》卷十的形式收束*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** Pointing at the Moon · S6 Illumination (*Śūraṅgama-sūtra*) — Paper 13 (Series Capstone)
-
----
 
 ## Abstract
 

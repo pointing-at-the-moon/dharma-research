@@ -1,20 +1,19 @@
+---
+title: "Ocean-Seal Samādhi and Requesting the Buddhas to Remain in the World"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 xiǎn / *Avataṃsaka Sūtra* · Paper 7"
+series_short: "S8"
+paper_id: "S8-P07"
+paper_number: 7
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Ocean-Seal Samādhi and Requesting the Buddhas to Remain in the World
 
 **The Seventh Vow as a Direct Acknowledgment of the Sealing-Function**
 
 *中文主標題: 海印三昧與請佛住世——願七作為對能印之用的當下承認*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 Pointing at the Moon
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S8 xiǎn / *Avataṃsaka Sūtra* · Paper 7
-**Gate Posture:** *Wēixì xiāngróng ānlì mén* 微細相容安立門 — Gate of Subtle Inclusion and Establishment
-
----
 
 ## Abstract
 

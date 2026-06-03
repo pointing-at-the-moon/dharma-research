@@ -1,19 +1,19 @@
+---
+title: "No Suffering, No Path, No Wisdom, No Attainment: Even the Practice Must Be Released"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P09)"
+series_short: "S2"
+paper_id: "S2-P09"
+paper_number: 9
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # No Suffering, No Path, No Wisdom, No Attainment: Even the Practice Must Be Released
 
 **The Four Noble Truths Are a Raft for Crossing the River; Prajñā Empties Even the Raft**
 
 *無苦集滅道·無智亦無得——連修行都要放下*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P09)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

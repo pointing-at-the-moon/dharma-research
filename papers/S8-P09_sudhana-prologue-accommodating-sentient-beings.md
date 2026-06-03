@@ -1,16 +1,17 @@
+---
+title: "Prologue to Sudhana's Southward Journey — Vow 9 *Accommodating All Sentient Beings* × The Gate of Revealing the Dharma through Reliance on Phenomena"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 *Manifestation — Avataṃsaka* / Paper 9"
+series_short: "S8"
+paper_id: "S8-P09"
+paper_number: 9
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Prologue to Sudhana's Southward Journey — Vow 9 *Accommodating All Sentient Beings* × The Gate of Revealing the Dharma through Reliance on Phenomena
 
 ## The Meghaśrī Episode and the Bidirectional Pedagogical Chain of the Fifty-Three Visits
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0 (English translation of v1.0)
-**Series:** S8 *Manifestation — Avataṃsaka* / Paper 9
-
----
 
 ## Abstract
 

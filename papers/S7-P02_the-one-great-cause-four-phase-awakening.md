@@ -1,18 +1,19 @@
+---
+title: "The One Great Cause, the Four-Phase Awakening, and the Convergence of the Three Vehicles"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P02"
+paper_number: 2
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The One Great Cause, the Four-Phase Awakening, and the Convergence of the Three Vehicles
 
 **The Formal Proclamation of the One Buddha-Vehicle: From the Āgama "Single-Vehicle Path" to the Lotus Sūtra's "One Great Matter"**
 
 *中文主標題:
 一大事因緣·開示悟入·會三歸一——一佛乘的正式宣說*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

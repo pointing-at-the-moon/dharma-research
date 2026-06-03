@@ -1,17 +1,17 @@
+---
+title: "The Robe-Jewel and the Topknot-Jewel: Two Modes of the Intrinsic Treasure"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P07"
+paper_number: 7
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Robe-Jewel and the Topknot-Jewel: Two Modes of the Intrinsic Treasure
 
 **Series**: S7 攝 (Lotus Sūtra)
 **Paper**: S7-P07
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project**: Pointing at the Moon (指月)
-**License**: CC BY-NC-SA 4.0
-**Date:** April 2026
-**Version:** 1.0
-
----
 
 ## Abstract
 

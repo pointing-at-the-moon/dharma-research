@@ -1,18 +1,19 @@
+---
+title: "All Dharmas Are Without Self: The Framework of the Hundred Dharmas"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S3"
+paper_id: "S3-P01"
+paper_number: 1
+date: "2026-03"
+version: "2.0"
+license: "CC BY-NC-SA 4.0"
+---
 # All Dharmas Are Without Self: The Framework of the Hundred Dharmas
 
 **From Five Aggregates to a Hundred Dharmas: How Yogācāra Deconstructs the Workings of "Self"**
 
 *一切法無我——百法明門論總綱
 從五蘊到百法：唯識如何解構「我」的運作*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 2.0
-
----
 
 ## Abstract 摘要
 

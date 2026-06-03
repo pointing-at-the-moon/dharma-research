@@ -1,18 +1,19 @@
+---
+title: "Fundamental Afflictions and Indeterminates: The Engine of Saṃsāra"
+author: "Shi Huijing (釋慧鏡)"
+series: "S3-P09 · Practice: Śatadharmaprakāśamukha-śāstra · Yogācāra Praxis"
+series_short: "S3"
+paper_id: "S3-P09"
+paper_number: 9
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Fundamental Afflictions and Indeterminates: The Engine of Saṃsāra
 
 **A Doctrinal Study of the Six Root Kleśas and Four Indeterminate Mental Factors in the Śatadharmaprakāśamukha-śāstra**
 
 *根本煩惱與不定：輪迴的引擎——百法明門論第四、六位的義理研究*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Series:** S3-P09 · Practice: Śatadharmaprakāśamukha-śāstra · Yogācāra Praxis
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

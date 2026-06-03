@@ -1,18 +1,19 @@
+---
+title: "The Projection of Manas"
+author: "Shi Huijing 釋慧鏡"
+series: "S4 · Into the Unknown — AI × Dharma (Paper Five)"
+series_short: "S4"
+paper_id: "S4-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Projection of Manas
 
 **What We See of Ourselves in AI**
 
 *末那的投影——我們在 AI 身上看見的自己*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Date:** April 2026
-**Series:** S4 · Into the Unknown — AI × Dharma (Paper Five)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

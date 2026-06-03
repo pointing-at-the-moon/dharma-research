@@ -1,19 +1,20 @@
+---
+title: "The Dharma-Realm as One Mark"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 xiǎn / *Avataṃsaka-sūtra* · Paper 12 — Closing Fascicle of the Octology Academic Treatise Stratum"
+series_short: "S8"
+paper_id: "S8-P12"
+paper_number: 12
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Dharma-Realm as One Mark
 
 **The Eight Signatures of the Octology and the Closing of the Pointing-at-the-Moon Academic Treatise Stratum**
 
 *中文主標題:
 信解行問切照攝顯：八部曲的法界一相——〈如來出現品〉與指月學術論文層的封筆*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S8 xiǎn / *Avataṃsaka-sūtra* · Paper 12 — Closing Fascicle of the Octology Academic Treatise Stratum
-
----
 
 ## Abstract
 

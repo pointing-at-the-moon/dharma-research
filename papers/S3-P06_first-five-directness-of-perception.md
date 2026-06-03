@@ -1,20 +1,20 @@
+---
+title: "The First Five Consciousnesses: Directness of Perception"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P06)"
+series_short: "S3"
+paper_id: "S3-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The First Five Consciousnesses: Directness of Perception
 
 **Real Objects, Direct Perception, Pervading Three Moral Natures — A Doctrinal Unfolding of the Five Sense-Consciousnesses**
 
 *前五識：感官的直接性——
 性境現量通三性：初能變所轉五識的義理展開*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P06)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

@@ -1,18 +1,19 @@
+---
+title: "The True Mark of All Dharmas and the Ten Suchnesses"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P01"
+paper_number: 1
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The True Mark of All Dharmas and the Ten Suchnesses
 
 **The Doctrinal Keystone of the Lotus Sūtra and Its Three-Register Interpretive Lineage**
 
 *諸法實相·十如是:
 法華經的義理基石與三語域詮釋譜系*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

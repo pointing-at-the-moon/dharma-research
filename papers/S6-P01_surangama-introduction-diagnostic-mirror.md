@@ -1,19 +1,19 @@
+---
+title: "Introduction to the Śūraṅgama Sūtra: The Practitioner's Diagnostic Mirror"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination (照) — Śūraṅgama Sūtra (Paper 1 of 11)"
+series_short: "S6"
+paper_id: "S6-P01"
+paper_number: 1
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Introduction to the Śūraṅgama Sūtra: The Practitioner's Diagnostic Mirror
 
 **From Ānanda's Failure to the Practitioner's Self-Verification Manual**
 
 *楞嚴經導論——修行者的照妖鏡：從阿難的挫敗到修行的診斷手冊*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S6 Illumination (照) — Śūraṅgama Sūtra (Paper 1 of 11)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

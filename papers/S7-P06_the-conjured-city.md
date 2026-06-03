@@ -1,17 +1,18 @@
+---
+title: "The Parable of the Conjured City"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Parable of the Conjured City
 
 **Provisional Nirvāṇa, Ultimate Nirvāṇa, and a Single Restriction Strategy Pushed to Its Limit**
 
 *中文主標題:化城喻——方便涅槃與究竟涅槃*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 
@@ -42,7 +43,6 @@ This paper builds on that traditional conversation to propose three theses.
 **Thesis III (§3.3)**: Kuiji's reading of the conjured city continues the same restriction strategy he applied to the prodigal son and the medicinal herbs — limiting the Lotus's one-vehicle teaching to "indeterminate-lineage hearers who fell back and rose again with great-bodhi mind" (*bùdìng zhǒngxìng tuì yǐ huánfā dà pútíxīn*, 不定種姓退已還發大菩提心). The cumulative pressure of this same strategy applied across three parables pushes Kuiji's system to its internal limit. This paper does not pretend to dissolve the tension; it presents it honestly, following the methodology established in P05.
 
 The order of exposition: §2 presents the textual evidence in two parts — Part A on the Lotus itself (Āgama precursors, the chapter's structure, and a Sanskrit-Chinese cross-comparison), and Part B on four commentarial voices (Vasubandhu, Zhiyi, Jizang, Kuiji). §3 is the analytical core, developing the three theses. §4 connects this paper to its predecessors in the series and reserves a hook for P11 on the *Lifespan Chapter*. §5 offers middle-way corrections, and §6 concludes with practice guidance and an open question.
-
 
 ---
 
@@ -170,7 +170,6 @@ Three hundred *yojanas* = the three elements of distinction birth-death (delusio
 
 The internal consistency of Kuiji's system is clear; but that consistency will meet its own limit in §3.3, when the conjured city's embrace — in the line "In other lands I shall become a Buddha" — extends even to beings who are not "indeterminate-lineage fallen-and-risen" practitioners, and the restriction strategy is pushed to its breaking point.
 
-
 ---
 
 ## 3. Analytical Argument
@@ -290,7 +289,6 @@ Kuiji of course sees the tension. His response is "**speech with hidden intent**
 This paper does not attempt to adjudicate the disagreement. Kuiji's internal consistency is real: between his metaphysical position on five lineages and his hermeneutic of the Lotus one-vehicle, he maintains systematic coherence through "speech with hidden intent." The position this paper takes is that **the price of this coherence** — reading the Lotus one-vehicle as "with hidden intent" rather than definitive — **stands in real tension with the Lotus's own tone**: "There is only one Buddha-vehicle; there are no two, nor are there three."
 
 Continuing P05's method: **present the divergence rather than pretend to dissolve it**. Kuiji's restriction strategy holds with high consistency across the prodigal son, the medicinal herbs, and the conjured city; the conjured city pushes that consistency to its limit, because its verse-prose explanation directly touches the question of "the final fate of determinate-lineage two-vehicle practitioners." The reader must decide: accept Kuiji's hidden-intent reading to preserve the lineage distinction, or let the Lotus's "no two, no three" rewrite the lineage doctrine. This paper's function is to place the conditions of that choice clearly on the table.
-
 
 ---
 

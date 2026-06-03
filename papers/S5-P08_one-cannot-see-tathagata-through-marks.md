@@ -1,18 +1,18 @@
+---
+title: "One Cannot See the Tathāgata Through Marks"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S5"
+paper_id: "S5-P08"
+paper_number: 8
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # One Cannot See the Tathāgata Through Marks
 
 **The Dharma-Body Beyond Form and Mind — From Reductio to Prajñā Realization**
 
 *不可以相見如來——法身非色非心——從歸謬到般若證見*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

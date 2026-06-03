@@ -1,15 +1,15 @@
+---
+title: "S8-P05　Rejoicing in Merit and the Gate of Perfect-Luminous Host-Companion Completion: The Dharmadhātu Structure of *Tongōng* through *Cetanā*"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Pointing at the Moon Academic Papers · Series Eight \"Manifestation\" (Avataṃsaka Sūtra) · Paper Five"
+series_short: "S8"
+paper_id: "S8-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # S8-P05　Rejoicing in Merit and the Gate of Perfect-Luminous Host-Companion Completion: The Dharmadhātu Structure of *Tongōng* through *Cetanā*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**Series:** Pointing at the Moon Academic Papers · Series Eight "Manifestation" (Avataṃsaka Sūtra) · Paper Five
-**Corresponding Vow of Samantabhadra:** The Fifth Great Vow — Rejoicing in Merit (*anumodanā-puṇya*, 隨喜功德)
-**Corresponding Profound Gate:** The Gate of Perfect-Luminous Host-Companion Completion (*zhǔbàn yuánmíng jùdé mén* 主伴圓明具德門)
-**License:** CC BY-NC-SA 4.0
-
----
 
 ## Abstract
 
@@ -115,7 +115,6 @@ Joined to the Āgama stratum, the canonical basis is now structurally complete: 
 
 ---
 
-
 ## II.B. Doctrinal Basis — The Treatise Stratum
 
 ### 2.3. Fazang's *Wǔjiào zhāng*: Conduct-Buddha Is Not Position-Buddha
@@ -165,7 +164,6 @@ The bearing of all of this upon the fifth vow is now in plain view, though its f
 §II.B continues in Part 3 with Chengguan's fourfold retinue, Fazang's Indra's-Net contemplation from the *Huányuán guān*, and the original proposal of a fifth "conduct-retinue" — after which §III through §IX bring the two-tier clamping argument, the Middle Way corrections, the failure-point coda, and the cross-series indices to their completion.
 
 ---
-
 
 ### 2.6. Chengguan's *Yǎnyì chāo*: The Fourfold Retinue
 
@@ -269,7 +267,6 @@ Bearing on rejoicing: the rejoicer, though stationed at the ordinary being's fai
 This is precisely the doctrine of "fullness of faith yields entry into abiding" (信滿入住). S8-P09 will note that Sudhana's first visit on his southward pilgrimage — to the bhikṣu Meghaśrī — is mapped by Chengguan as "borrowing the position of First Abiding": after the perfection of the Ten Faiths at Mañjuśrī's place, Meghaśrī's place is already the threshold of the Ten Abidings. Under the interfused gate, this transition from "fullness of faith" to "entry into abiding" is not a "promotion" but rather "the interfused manifestation of the position." The reader who wishes to pursue this further is referred to P09.
 
 ---
-
 
 ## V. Middle Way Corrections
 

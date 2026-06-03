@@ -1,19 +1,19 @@
+---
+title: "Avalokiteśvara: The Four Links of the Awakening Loop"
+author: "Shi Huijing 釋慧鏡"
+series: "Understanding — Prajñāpāramitā: Illuminating Reality (S2-P02)"
+series_short: "S2"
+paper_id: "S2-P02"
+paper_number: 2
+date: "2026-03"
+version: "1.1"
+license: "CC BY-NC-SA 4.0"
+---
 # Avalokiteśvara: The Four Links of the Awakening Loop
 
 **The First Sentence of the Heart Sūtra as Its Master Program**
 
 *觀自在——覺醒迴路的四個環節：心經第一句話，是整部經的母程式*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.1
-**Series:** Understanding — Prajñāpāramitā: Illuminating Reality (S2-P02)
-
----
 
 ## Abstract
 

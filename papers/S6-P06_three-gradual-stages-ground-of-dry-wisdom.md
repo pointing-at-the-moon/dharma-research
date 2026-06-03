@@ -1,16 +1,17 @@
+---
+title: "Three Gradual Stages and the Ground of Dry Wisdom: Purification Before Entering"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination (照) — The Śūraṅgama Sūtra · P06"
+series_short: "S6"
+paper_id: "S6-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Three Gradual Stages and the Ground of Dry Wisdom: Purification Before Entering
 
 *From "Where Is Your Door?" to "Are You Ready?": The Three-Tiered Purification and the Starting Line of Practice*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S6 Illumination (照) — The Śūraṅgama Sūtra · P06
-
----
 
 ## Abstract
 

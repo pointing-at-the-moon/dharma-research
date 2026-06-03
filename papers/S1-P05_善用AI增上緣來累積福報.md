@@ -1,18 +1,18 @@
+---
+title: "善用 AI 增上緣來累積福報"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S1"
+paper_id: "S1-P05"
+paper_number: 5
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # 善用 AI 增上緣來累積福報
 
 **阿含經在家修行次第與 AI 善用論**
 
 *Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit: Āgama Householder Practice Sequence and the Application of AI*
-
----
-
-**作者 Author:** 釋慧鏡 (Shi Huijing)  
-**Project:** 指月 Point-to-the-moon  
-**日期 Date:** 2026年3月  
-**授權 License:** CC BY-NC-SA 4.0  
-**版本 Version:** 1.0  
-
----
 
 ## 摘要 Abstract
 

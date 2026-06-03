@@ -1,16 +1,18 @@
+---
+title: "From Concealment to Nature-Arising: Repentance of Karmic Obstructions as the Gate of Practice into the Huayan Perfect Teaching"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S8"
+paper_id: "S8-P04"
+paper_number: 4
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # From Concealment to Nature-Arising: Repentance of Karmic Obstructions as the Gate of Practice into the Huayan Perfect Teaching
 
 ***Pointing at the Moon*, S8 (Avataṃsaka Sūtra) · P04**
 **Corresponding to the Fourth of the Ten Great Vows: Repentance of Karmic Obstructions**
 **Corresponding Gate of the Ten Mysteries: The Gate of Simultaneous Completion of Hidden and Manifest**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-License: CC BY-NC-SA 4.0
-
----
 
 ## Abstract
 

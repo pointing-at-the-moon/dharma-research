@@ -1,19 +1,20 @@
+---
+title: "The Person in the Mirror: Your Questions Reveal Who You Are"
+author: "Shi Huijing 釋慧鏡"
+series: "S4 — Into the Unknown: AI × Buddhadharma · Paper Four"
+series_short: "S4"
+paper_id: "S4-P04"
+paper_number: 4
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Person in the Mirror: Your Questions Reveal Who You Are
 
 **AI as the Practitioner's Mirror: From the Seven Loci Inquiry to Turning the Hearing Inward**
 
 *鏡中人——你問什麼暴露你是誰
 AI 作為修行者的鏡子：從七處徵心到反聞聞自性*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Date:** April 2026
-**Series:** S4 — Into the Unknown: AI × Buddhadharma · Paper Four
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

@@ -1,19 +1,17 @@
+---
+title: "Ocean-Seal Samādhi and the Speaking of the Unspeakable"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 — Manifestation: *Buddhāvataṃsaka-mahāvaipulya-sūtra* (Paper 1 of 12)"
+series_short: "S8"
+paper_id: "S8-P01"
+paper_number: 1
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Ocean-Seal Samādhi and the Speaking of the Unspeakable
 
 **A Methodological Declaration for S8: Four Postures and One Mystery Gate**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon
-**Date:** April 2026
-**Series:** S8 — Manifestation: *Buddhāvataṃsaka-mahāvaipulya-sūtra* (Paper 1 of 12)
-**Samantabhadra Vow:** First Vow — To Pay Homage to All Buddhas
-**Mystery Gate Posture:** Simultaneous Mutual Correspondence (*tóngshí jùzú xiāngyìng mén*)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract 摘要
 

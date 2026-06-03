@@ -1,19 +1,19 @@
+---
+title: "The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination — *Śūraṅgama Sūtra* (S6-P09 of 12)"
+series_short: "S6"
+paper_id: "S6-P09"
+paper_number: 9
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow
 
 **How the Buddha's Oldest Teaching on Suffering Returns at the Threshold of Awakening**
 
 *受陰十魔——第二支箭的精微化：從阿含受念處到楞嚴定境鑑別*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S6 Illumination — *Śūraṅgama Sūtra* (S6-P09 of 12)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

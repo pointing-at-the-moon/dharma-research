@@ -1,3 +1,14 @@
+---
+title: "Dissociated Factors: Conceptual Constructs"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Pointing at the Moon · S3 Practice: Hundred Dharmas · Paper Twelve"
+series_short: "S3"
+paper_id: "S3-P12"
+paper_number: 12
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Dissociated Factors: Conceptual Constructs
 
 **The Twenty-Four Dharmas of the Fourth Category in the Hundred Dharmas —
@@ -5,16 +16,6 @@ Positional Designation and Yogācāra Deconstruction**
 
 *不相應行法：概念的假立——
 百法明門論第四位・二十四法的分位假立與唯識解構*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Series:** Pointing at the Moon · S3 Practice: Hundred Dharmas · Paper Twelve
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

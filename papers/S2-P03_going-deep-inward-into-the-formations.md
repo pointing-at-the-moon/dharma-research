@@ -1,20 +1,20 @@
+---
+title: "Going Deep: Inward, Into the Formations"
+author: "Shi Huijing 釋慧鏡"
+series: "Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P03)"
+series_short: "S2"
+paper_id: "S2-P03"
+paper_number: 3
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Going Deep: Inward, Into the Formations
 
 **When Prajñā Becomes Your Firmware, Practice Truly Begins**
 
 *行深——朝內，深入行蘊：
 當般若成為你的韌體，修行才算真正開始*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P03)
-
----
 
 ## Abstract
 

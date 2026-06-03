@@ -1,16 +1,17 @@
+---
+title: "Illuminating the Emptiness of the Five Aggregates: An Insight Already Within"
+author: "Shi Huijing 釋慧鏡"
+series: "S2 Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P04)"
+series_short: "S2"
+paper_id: "S2-P04"
+paper_number: 4
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Illuminating the Emptiness of the Five Aggregates: An Insight Already Within
 
 **When Prajña Recognizes Its Innate Self, Suffering Is Naturally Transcended**
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Date:** March 2026
-**Series:** S2 Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P04)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

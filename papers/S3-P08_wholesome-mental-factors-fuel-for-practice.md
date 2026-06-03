@@ -1,17 +1,17 @@
+---
+title: "Wholesome Mental Factors: Fuel for Practice"
+author: "Shi Huijing (釋慧鏡)"
+series: "S3 Practice — Śatadharmaprakāśamukha-śāstra & Yogācāra Praxis (S3-P08)"
+series_short: "S3"
+paper_id: "S3-P08"
+paper_number: 8
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Wholesome Mental Factors: Fuel for Practice
 
 **The Organic Structure of Eleven Wholesome Dharmas — From Faith as the Gateway to Compassionate Benefit of Beings**
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon 指月
-**Series:** S3 Practice — Śatadharmaprakāśamukha-śāstra & Yogācāra Praxis (S3-P08)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## 摘要
 

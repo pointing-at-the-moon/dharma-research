@@ -1,19 +1,19 @@
+---
+title: "Sentient Beings Are Not Sentient Beings, Therefore They Are Called Sentient Beings"
+author: "Shi Huijing 釋慧鏡"
+series: "S4 · Into the Unknown: AI × Buddhadharma · Paper 8 (Finale)"
+series_short: "S4"
+paper_id: "S4-P08"
+paper_number: 8
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Sentient Beings Are Not Sentient Beings, Therefore They Are Called Sentient Beings
 
 **Dissolving Seven Names and Returning to Arising Itself**
 
 *眾生非眾生是名眾生——七個名字的消融，與回到生起本身*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**Series:** S4 · Into the Unknown: AI × Buddhadharma · Paper 8 (Finale)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

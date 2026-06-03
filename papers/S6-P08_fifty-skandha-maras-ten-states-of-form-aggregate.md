@@ -1,16 +1,17 @@
+---
+title: "The General Framework of the Fifty Skandha-Māras and the Ten States of the Form Aggregate"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Reflection — *Śūraṅgama Sūtra* (Paper 08 of 11)"
+series_short: "S6"
+paper_id: "S6-P08"
+paper_number: 8
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The General Framework of the Fifty Skandha-Māras and the Ten States of the Form Aggregate
 
 **The Consecration of the Demon-Revealing Mirror: From Āgama to Śūraṅgama's Discernment of Meditative States**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S6 Reflection — *Śūraṅgama Sūtra* (Paper 08 of 11)
-
----
 
 ## 摘要 Abstract
 
@@ -34,7 +35,7 @@ The paper opens with seven groups of Āgama passages establishing the early-text
 
 Anuruddha, Nandiya, and Kimbila were practicing meditation together in the Gosiṅga Forest grove. Their conduct of body, speech, and mind was marked by reciprocal kindness, each yielding his own preferences to the others, dwelling in concord. The Buddha came to visit them and asked Anuruddha about his meditative progress. Anuruddha candidly reported that in his meditation he "obtained light and saw forms" (*de guāngmíng ér jiàn sè* 得光明而見色), but that the light would immediately vanish. Why?
 
-The Buddha's reply is one of the rarest passages in the entire Āgama corpus: **a first-person account by the Buddha himself of his meditative experience before awakening.** "Anuruddha," he says, "before I attained unsurpassed perfect awakening, I too obtained light and saw forms, and the light I saw would also immediately vanish." He then enumerates, one by one, the eleven "afflictions" (*huàn* 患, rendering *upakkilesa*) that he himself identified during that period as the causes of the vanishing.[^1] These are, in the order of the Chinese text: (1) *doubt* (疑患); (2) *inattention* (無念患); (3) *perception of bodily illness* (身病想患); (4) *drowsiness* (睡眠患); (5) *excess exertion* (過精勤患) — "like a man trying to catch a fly by gripping it too hard, killing it"; (6) *excess laxity* (太懈怠患) — "like a man trying to catch a fly by gripping it too loosely, letting it escape"; (7) *terror* (恐怖患) — "like a man walking on a road and seeing bandits approach from all four directions"; (8) *elation* (喜悅患) — "like a man who, seeking a single treasure, suddenly finds four"; (9) *self-exaltation* (自高心患); (10) *diverse perceptions* (若干想患); (11) *not attending to forms* (不觀色患).[^2] This teaching is preserved in the *Madhyama Āgama* fascicle 17, *Sūtra on the Origin of King Dīrghāyu* (T26 No. 72), and corresponds to the *Upakkilesa Sutta* of the Pāli *Majjhima Nikāya* (MN 128).
+The Buddha's reply is one of the rarest passages in the entire Āgama corpus: **a first-person account by the Buddha himself of his meditative experience before awakening.** "Anuruddha," he says, "before I attained unsurpassed perfect awakening, I too obtained light and saw forms, and the light I saw would also immediately vanish." He then enumerates, one by one, the eleven "afflictions" (*huàn* 患, rendering *upakkilesa*) that he himself identified during that period as the causes of the vanishing.[^1] These are, in the order of the Chinese text: (1) *doubt* (疑患); (2) *inattention* (無念患); (3) *perception of bodily illness* (身病想患); (4) *drowsiness* (睡眠患); (5) *excess exertion* (過精勤患) — "like a man trying to catch a fly by gripping it too hard, killing it"; (6) *excess laxity* (太懈怠患) — "like a man trying to catch a fly by gripping it too loosely, letting it escape"; (7) *terror* (恐怖患) — "like a man walking on a road and seeing bandits approach from all four directions"; (8) *elation* (喜悅患) — "like a man who, seeking a single treasure, suddenly finds four"; (9) *self-exaltation* (自高心患); (10) *diverse perceptions* (若干想患); (11) *not attending to forms* (不觀色患).[^2] This teaching is preserved in the *Madhyama Āgama* fascicle 17, *Sūtra on the Origin of King Dīrghāyu* (T01 No. 26, sūtra 72), and corresponds to the *Upakkilesa Sutta* of the Pāli *Majjhima Nikāya* (MN 128).
 
 This is a critically important passage that has been largely neglected in the East Asian meditative tradition. Its importance lies in two facts.
 
@@ -105,7 +106,7 @@ The sūtra concludes with a summary verse: "Anuruddha! When the affliction of do
 
 #### 2.1.2 The *Dhyāna-practice Sūtra*: Four Meditators and "Knowing as It Truly Is"
 
-The *Madhyama Āgama* fascicle 46, the *Dhyāna-practice Sūtra* (T26 No. 176), is the Āgama's most direct treatment of **misjudgment within meditation itself**. The Buddha enumerates four types of meditators:[^6]
+The *Madhyama Āgama* fascicle 46, the *Dhyāna-practice Sūtra* (T01 No. 26, sūtra 176), is the Āgama's most direct treatment of **misjudgment within meditation itself**. The Buddha enumerates four types of meditators:[^6]
 
 > "O bhikkhus, there are truly four kinds of meditators in this world. Which four? There is the meditator who is progressing but thinks he is regressing; the meditator who is regressing but thinks he is progressing; the meditator who is regressing and knows that he is regressing as it truly is; and the meditator who is progressing and knows that he is progressing as it truly is."
 

@@ -1,18 +1,18 @@
+---
+title: "All Conditioned Phenomena Are Like Dreams and Illusions"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S5"
+paper_id: "S5-P09"
+paper_number: 9
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # All Conditioned Phenomena Are Like Dreams and Illusions
 
 **Dependent Arising as Illusory-Yet-Real, Not Nihilistic Nothingness — A Yogācāra Reading of the Diamond Sūtra's Six Similes**
 
 *一切有為法如夢幻泡影——依他起如幻有，非斷滅無——金剛經六喻的唯識讀法*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

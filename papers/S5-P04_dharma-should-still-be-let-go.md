@@ -1,18 +1,18 @@
+---
+title: "Dharma Should Still Be Let Go"
+author: "Shi Huijing (釋慧鏡)"
+series_short: "S5"
+paper_id: "S5-P04"
+paper_number: 4
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Dharma Should Still Be Let Go
 
 **The Raft Analogy and the Right Use of Paratantra**
 
 *法尚應捨，何況非法——筏喻與依他起的正用*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon (指月)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

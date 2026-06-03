@@ -1,17 +1,17 @@
+---
+title: "Sadāparibhūta Bodhisattva: The Universal Reverence Dharma-Gate and the Operationalization of Prediction"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P09"
+paper_number: 9
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Sadāparibhūta Bodhisattva: The Universal Reverence Dharma-Gate and the Operationalization of Prediction
 
 **Series:** S7 攝 (Saddharmapuṇḍarīka / Lotus Sūtra)
 **Number:** S7-P09
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 · Pointing at the Moon
-**License:** CC BY-NC-SA 4.0
-**Date:** April 2026
-**Version:** 1.0 (English adaptation)
-
----
 
 ## Abstract
 

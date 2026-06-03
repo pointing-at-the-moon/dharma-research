@@ -1,19 +1,20 @@
+---
+title: "Seven Locations of Mind: What You Think Is Your Mind Isn't"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination (照) — The Śūraṅgama Sūtra (Paper 2)"
+series_short: "S6"
+paper_id: "S6-P02"
+paper_number: 2
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Seven Locations of Mind: What You Think Is Your Mind Isn't
 
 **A Yogācāra Four-Aspect Analysis of the Buddha's Systematic Elimination**
 
 *七處徵心——你以為的心不是心：
 唯識四分說視角下的心之排除法*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**Series:** S6 Illumination (照) — The Śūraṅgama Sūtra (Paper 2)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

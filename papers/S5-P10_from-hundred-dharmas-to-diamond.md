@@ -1,18 +1,18 @@
+---
+title: "From the Hundred Dharmas to the Diamond: Construction and Dimensional Ascent"
+author: "Shi Huijing (釋慧鏡)"
+series_short: "S5"
+paper_id: "S5-P10"
+paper_number: 10
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # From the Hundred Dharmas to the Diamond: Construction and Dimensional Ascent
 
 **Integrating the Yogācāra Toolkit of Series 3 with the Prajñā Blade of Series 5**
 
 *從百法到金剛——建構與升維*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon (指月)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

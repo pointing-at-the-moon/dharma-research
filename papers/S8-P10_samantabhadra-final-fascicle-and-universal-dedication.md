@@ -1,19 +1,18 @@
+---
+title: "The Final Fascicle of the *Samantabhadra-caryā-praṇidhāna* and Universal Dedication: Eighty-Four Years Between Socket and Plug"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 Manifestation · *Avataṃsaka-sūtra* / Paper 10"
+series_short: "S8"
+paper_id: "S8-P10"
+paper_number: 10
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Final Fascicle of the *Samantabhadra-caryā-praṇidhāna* and Universal Dedication: Eighty-Four Years Between Socket and Plug
 
 *普賢行願品終卷與普皆迴向：插座與插頭的八十四年——
 The Bilateral Symmetry of the Huayan Ten-Times Profound Gate and Samantabhadra's Ten Great Vow-Kings*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S8 Manifestation · *Avataṃsaka-sūtra* / Paper 10
-**Profound Gate posture:** Gate of the Distinct Completion of Dharmas Across the Ten Times (十世隔法異成門)
-**Corresponding vow:** The Tenth Great Vow — Universal Dedication (普皆迴向)
-
----
 
 ## Abstract
 

@@ -1,18 +1,18 @@
+---
+title: "The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra and the Zhǐyuè Method"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S5"
+paper_id: "S5-P02"
+paper_number: 2
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra and the Zhǐyuè Method
 
 **You Either See It or You Don't**
 
 *公案鏡——金剛經的教學設計與指月解法*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

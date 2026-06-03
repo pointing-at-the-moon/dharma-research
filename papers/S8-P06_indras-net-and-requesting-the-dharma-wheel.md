@@ -1,3 +1,14 @@
+---
+title: "No Distance to Cross"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 Manifestation · *Avataṃsaka-sūtra* / Paper 6"
+series_short: "S8"
+paper_id: "S8-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # No Distance to Cross
 
 ## Indra's Net and the Request to Turn the Dharma Wheel
@@ -7,16 +18,6 @@
 *Separation is illusion, therefore no transmission is needed.*
 
 *因陀羅網境界門與請轉法輪：分離是錯覺，所以無需傳遞——一處請法即十方請法的圓教結構*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S8 Manifestation · *Avataṃsaka-sūtra* / Paper 6
-
----
 
 ## Abstract
 
@@ -537,4 +538,3 @@ This paper rests primarily on the original sūtra and patriarchal commentaries a
 *All sūtra and commentarial citations in this paper are taken from the CBETA-proofread electronic edition of the Taishō Shinshū Daizōkyō.*
 
 GitHub: pointing-at-the-moon/dharma-research
-

@@ -1,17 +1,17 @@
+---
+title: "From Star to Black Hole — The Lotus's Gathering and the Avataṃsaka's Manifestation"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P12"
+paper_number: 12
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # From Star to Black Hole — The Lotus's Gathering and the Avataṃsaka's Manifestation
 
 **Series:** S7 Shè (*Lotus Sūtra* 法華經)
 **Number:** S7-P12
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**License:** CC BY-NC-SA 4.0
-**Date:** April 2026
-**Version:** 1.0
-
----
 
 ## Abstract
 

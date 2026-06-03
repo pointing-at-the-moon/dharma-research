@@ -1,17 +1,18 @@
+---
+title: "Abiding Nowhere, Yet Giving Rise to the Mind"
+author: "Shi Huijing (釋慧鏡)"
+series_short: "S5"
+paper_id: "S5-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Abiding Nowhere, Yet Giving Rise to the Mind
 
 **Āśraya-parāvṛtti and the Simultaneity of Non-Abiding**
 
 *應無所住而生其心——轉依與無住生心的同時性*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

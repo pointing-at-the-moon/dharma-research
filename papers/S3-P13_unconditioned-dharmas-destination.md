@@ -1,16 +1,17 @@
+---
+title: "Unconditioned Dharmas: The Destination of the Hundred Dharmas"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 Practice — The Hundred Dharmas Treatise & Yogācāra Praxis (Paper 13 of 14)"
+series_short: "S3"
+paper_id: "S3-P13"
+paper_number: 13
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Unconditioned Dharmas: The Destination of the Hundred Dharmas
 
 **The Six Unconditioned Dharmas Centered on True Thusness: All Dharmas Are Consciousness-Only, and the Nature of Consciousness Is True Thusness**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**Series:** S3 Practice — The Hundred Dharmas Treatise & Yogācāra Praxis (Paper 13 of 14)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

@@ -1,20 +1,20 @@
+---
+title: "The Sixth Consciousness: The Only Mind That Can Look in the Mirror"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P05)"
+series_short: "S3"
+paper_id: "S3-P05"
+paper_number: 5
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Sixth Consciousness: The Only Mind That Can Look in the Mirror
 
 **Three Natures, Three Modes of Cognition, Pervading Three Objects — A Doctrinal Unfolding of the Discerning Transformation**
 
 *第六意識：唯一能照鏡子的識——
 三性三量通三境：了境能變的義理展開*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S3 Practice — Hundred Dharmas & Yogācāra Praxis (S3-P05)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

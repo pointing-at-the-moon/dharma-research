@@ -1,18 +1,18 @@
+---
+title: "Do Not Seek Outside — Take Refuge in Your Own Nature"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P08"
+paper_number: 8
+date: "2026-03"
+version: "0.1"
+license: "CC BY-NC-SA 4.0"
+---
 # Do Not Seek Outside — Take Refuge in Your Own Nature
 
 **The Complete Teaching from Āgama to Chan: External Conditions Were Never the Source of Satisfaction**
 
 *心不向外求——依止自性*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 0.1 (first draft)
-
----
 
 ## Abstract
 
@@ -277,7 +277,7 @@ The person who does not know this is still looking outside.
 - *Jingde Chuandeng Lu* 《景德傳燈錄》, compiled by Daoyuan 道原, *Taishō* vol. 51, No. 2076.
 - *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu 裴休, *Taishō* vol. 48, No. 2012A.
 - *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》, edited by Zongbao 宗寶, *Taishō* vol. 48, No. 2008.
-- *Dafangguang Fo Huayan Jing Suishu Yanyi Chao* 《大方廣佛華嚴經隨疏演義鈔》, *Taishō* vol. 36, No. 1521.
+- *Dafangguang Fo Huayan Jing Suishu Yanyi Chao* 《大方廣佛華嚴經隨疏演義鈔》, *Taishō* vol. 36, No. 1736.
 
 ### II. Modern Scholarship 現代學術著作
 
@@ -293,7 +293,7 @@ The person who does not know this is still looking outside.
 | 3 | Dīrghāgama 長阿含經 | T01 | 0001 | II |
 | 4 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | II |
 | 5 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | III |
-| 6 | Huayan Commentary 華嚴經論 | T36 | 1521 | III |
+| 6 | Huayan Commentary 華嚴經論 | T36 | 1736 | III |
 | 7 | Platform Sūtra 六祖壇經 | T48 | 2008 | III |
 | 8 | Huangbo Chuanxin Fayao 黃檗傳心法要 | T48 | 2012A | III |
 | 9 | Jingde Chuandeng Lu 景德傳燈錄 | T51 | 2076 | III, VI |
@@ -324,7 +324,7 @@ The person who does not know this is still looking outside.
 [^10]: *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu, *Taishō* vol. 48, No. 2012A.
 [^11]: *Saṃyuktāgama* 《雜阿含經》, fascicle 24, Sūtra 638, self as island and self as refuge, *Taishō* vol. 2, No. 0099.
 [^12]: *Mahāprajñāpāramitā-śāstra* 《大智度論》, fascicle 8, composed by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
-[^13]: *Dafangguang Fo Huayan Jing Suishu Yanyi Chao* 《大方廣佛華嚴經隨疏演義鈔》, *Taishō* vol. 36, No. 1521.
+[^13]: *Dafangguang Fo Huayan Jing Suishu Yanyi Chao* 《大方廣佛華嚴經隨疏演義鈔》, *Taishō* vol. 36, No. 1736.
 [^14]: *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》, *Taishō* vol. 48, No. 2008.
 [^15]: *Jingde Chuandeng Lu* 《景德傳燈錄》, fascicle 6, Mazu Daoyi to Dazhu Huihai, *Taishō* vol. 51, No. 2076.
 [^16]: *Jingde Chuandeng Lu* 《景德傳燈錄》, fascicle 28, Linji Yixuan, *Taishō* vol. 51, No. 2076.

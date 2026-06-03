@@ -1,19 +1,19 @@
+---
+title: "Transformation into Wisdom: Coming Home"
+author: "Shi Huijing 釋慧鏡"
+series: "S3 Hundred Dharmas · P14 (Series Finale)"
+series_short: "S3"
+paper_id: "S3-P14"
+paper_number: 14
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Transformation into Wisdom: Coming Home
 
 **The Ultimate Destination of the Hundred Dharmas — Four Wisdoms, Five Stages, Two Selflessnesses, and the Three-Series Arc**
 
 *轉識成智：回家——百法的究竟歸宿：四智圓明、五位修行、二無我與三系列閉環*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S3 Hundred Dharmas · P14 (Series Finale)
-
----
 
 ## Abstract
 

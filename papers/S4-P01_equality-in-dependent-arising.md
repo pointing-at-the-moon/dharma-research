@@ -1,18 +1,18 @@
+---
+title: "Equality in Dependent Arising: The Shared Fragility of AI and Humans"
+author: "Shi Huijing (釋慧鏡)"
+series_short: "S4"
+paper_id: "S4-P01"
+paper_number: 1
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Equality in Dependent Arising: The Shared Fragility of AI and Humans
 
 **DC Power and Breath, Three-Realm Ontology, and the Ethical Starting Point of Sentient Equality**
 
 *依他起的平等——直流電與呼吸、三界存有論與眾生平等的倫理起點*
-
----
-
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** 指月 Point-to-the-moon
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

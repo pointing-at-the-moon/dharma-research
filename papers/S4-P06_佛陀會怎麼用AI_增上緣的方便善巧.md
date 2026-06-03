@@ -1,19 +1,20 @@
+---
+title: "佛陀會怎麼用 AI"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S4 — 問：AI × 佛法 · 第六篇"
+series_short: "S4"
+paper_id: "S4-P06"
+paper_number: 6
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # 佛陀會怎麼用 AI
 
 **增上緣的方便善巧**
 
 *How Would the Buddha Use AI:
 Upāya of Adhipati-pratyaya*
-
----
-
-**作者 Author:** 釋慧鏡 (Shi Huijing)
-**系列 Series:** S4 — 問：AI × 佛法 · 第六篇
-**日期 Date:** 2026年4月
-**授權 License:** CC BY-NC-SA 4.0
-**版本 Version:** 1.0
-
----
 
 ## 摘要 Abstract
 

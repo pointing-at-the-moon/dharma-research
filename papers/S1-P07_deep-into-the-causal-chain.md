@@ -1,18 +1,18 @@
+---
+title: "Deep into the Causal Chain — Shaping Your Future"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P07"
+paper_number: 7
+date: "2026-03"
+version: "0.1"
+license: "CC BY-NC-SA 4.0"
+---
 # Deep into the Causal Chain — Shaping Your Future
 
 **Structural Correspondence Between Yogācāra Seed Theory and Modern Epigenetics**
 
 *深入因果鏈——決定你的未來*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 0.1 (first draft)
-
----
 
 ## Abstract
 
@@ -334,7 +334,7 @@ But the premise is—you must, like the farmer, plant first.
 - 《雜阿含經》*Saṃyuktāgama*, trans. Guṇabhadra, Taishō vol. 2, No. 0099.
 - 《成唯識論》*Cheng Weishi Lun* (*Vijñaptimātratāsiddhi*), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
 - 《攝大乘論釋》(無性釋) *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary), trans. Xuanzang, Taishō vol. 31, No. 1598.
-- 《大乘阿毘達磨集論》*Abhidharmasamuccaya*, composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, No. 1606.
+- 《大乘阿毘達磨集論》*Abhidharmasamuccaya*, composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, No. 1605.
 - 《大乘起信論疏》*Dasheng Qixin Lun Shu* (*Commentary on the Awakening of Mahāyāna Faith*), by Fazang, Taishō vol. 44, No. 1846.
 - 《辯中邊論》*Madhyāntavibhāga* (Paramārtha's translation), composed by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
 - 《大方廣佛華嚴經》(八十卷本) *Avataṃsaka Sūtra* (80-fascicle edition), trans. Śikṣānanda, Taishō vol. 10, No. 0293.
@@ -355,7 +355,7 @@ But the premise is—you must, like the farmer, plant first.
 | 1 | 雜阿含經 *Saṃyuktāgama* | T02 | 0099 | I, II |
 | 2 | 成唯識論 *Cheng Weishi Lun* | T31 | 1585 | II, III, V |
 | 3 | 攝大乘論釋（無性）*Mahāyānasaṃgrahabhāṣya* (Asvabhāva) | T31 | 1598 | II |
-| 4 | 大乘阿毘達磨集論 *Abhidharmasamuccaya* | T31 | 1606 | II |
+| 4 | 大乘阿毘達磨集論 *Abhidharmasamuccaya* | T31 | 1605 | II |
 | 5 | 大乘起信論疏 *Dasheng Qixin Lun Shu* | T44 | 1846 | II |
 | 6 | 辯中邊論 *Madhyāntavibhāga* | T31 | 1595 | III |
 | 7 | 大方廣佛華嚴經 *Avataṃsaka Sūtra* | T10 | 0293 | III |
@@ -386,7 +386,7 @@ But the premise is—you must, like the farmer, plant first.
 [^6]: 《攝大乘論釋》（無性釋）卷二，《大正藏》第31冊，No. 1598。*Mahāyānasaṃgrahabhāṣya* (Asvabhāva), Fascicle 2, Taishō vol. 31, No. 1598.
 [^7]: 《大乘起信論疏》卷一，法藏撰，《大正藏》第44冊，No. 1846。*Dasheng Qixin Lun Shu*, Fascicle 1, by Fazang, Taishō vol. 44, No. 1846.
 [^8]: 《阿毘達磨俱舍論》卷一，「異熟因不善及善唯有漏」，《大正藏》第29冊，No. 1558。另見祖師語錄 T2016 卷71：「因通善惡，果唯無記。」*Abhidharmakośabhāṣya*, Fascicle 1, Taishō vol. 29, No. 1558. Cf. patriarchal records T2016, Fascicle 71: "Causes span good and evil; fruit is exclusively indeterminate."
-[^9]: 《大乘阿毘達磨集論》卷七，《大正藏》第31冊，No. 1606。*Abhidharmasamuccaya*, Fascicle 7, Taishō vol. 31, No. 1606.
+[^9]: 《大乘阿毘達磨集論》卷七，《大正藏》第31冊，No. 1605。*Abhidharmasamuccaya*, Fascicle 7, Taishō vol. 31, No. 1605.
 [^10]: 《成唯識論》卷二，「然種子義略有六種」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 2, Taishō vol. 31, No. 1585.
 [^11]: 《大方廣佛華嚴經》卷二十六，《大正藏》第10冊，No. 0293。*Avataṃsaka Sūtra*, Fascicle 26, Taishō vol. 10, No. 0293.
 [^12]: 三論宗引述，《大正藏》第43冊，No. 1828。Sanlun school source, Taishō vol. 43, No. 1828.

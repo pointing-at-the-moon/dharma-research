@@ -1,18 +1,18 @@
+---
+title: "Awareness as Turning Point"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P06"
+paper_number: 6
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Awareness as Turning Point
 
 **Yogācāra Analysis of the Shift from Passive Karmic Reactivity to Active Life Direction**
 
 *覺察即轉向——作意心所與量子觀測者效應的修行義理*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

@@ -1,16 +1,17 @@
+---
+title: "Form Is Emptiness: The Assembly Line of Suffering"
+author: "Shi Huijing 釋慧鏡"
+series: "S2 Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P05)"
+series_short: "S2"
+paper_id: "S2-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Form Is Emptiness: The Assembly Line of Suffering
 
 **What you can feel and touch — why is it empty?**
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Date:** April 2026
-**Series:** S2 Understanding — Prajñāpāramitā: Seeing Reality As It Is (S2-P05)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

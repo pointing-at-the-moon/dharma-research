@@ -1,16 +1,17 @@
+---
+title: "The Ten Māras of the Formations Aggregate — The Mirror-Student and the Net of the *Brahmajāla*"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Reflection — *Śūraṅgama Sūtra* (Paper 11 of 12)"
+series_short: "S6"
+paper_id: "S6-P11"
+paper_number: 11
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Ten Māras of the Formations Aggregate — The Mirror-Student and the Net of the *Brahmajāla*
 
 **From the Sixty-Two Views of the *Brahmajāla Sūtra* to the Śūraṅgama's Dhyāna Mad-Interpretations**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S6 Reflection — *Śūraṅgama Sūtra* (Paper 11 of 12)
-
----
 
 ## 摘要 Abstract
 

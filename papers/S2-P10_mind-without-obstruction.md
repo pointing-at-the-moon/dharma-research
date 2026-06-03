@@ -1,19 +1,19 @@
+---
+title: "Mind Without Obstruction: Traversing Terror to Ultimate Nirvāṇa"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P10)"
+series_short: "S2"
+paper_id: "S2-P10"
+paper_number: 10
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Mind Without Obstruction: Traversing Terror to Ultimate Nirvāṇa
 
 **When the "Self" Discovers It Isn't Real, the Terror Has Only Just Begun**
 
 *心無罣礙——穿越恐怖到究竟涅槃*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**Series:** S2 Understanding — Prajñāpāramitā: Illuminating Reality (S2-P10)
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

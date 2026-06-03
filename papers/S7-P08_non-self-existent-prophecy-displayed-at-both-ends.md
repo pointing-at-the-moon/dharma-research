@@ -1,17 +1,17 @@
+---
+title: "Non-Self-Existent Prophecy Displayed at Both Ends: The Symmetrical Wings of the Devadatta Chapter and the Limits of a Seed-Reading"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P08"
+paper_number: 8
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Non-Self-Existent Prophecy Displayed at Both Ends: The Symmetrical Wings of the Devadatta Chapter and the Limits of a Seed-Reading
 
 **Series:** S7 攝 (Saddharmapuṇḍarīka / Lotus Sūtra)
 **Number:** S7-P08
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 · Pointing at the Moon
-**License:** CC BY-NC-SA 4.0
-**Date:** April 2026
-**Version:** 1.0 (English adaptation)
-
----
 
 ## Abstract
 
@@ -102,7 +102,6 @@ The four formal components surveyed in §II.1, together with the canonical stand
 The upshot: the two wings are not innovative in the same way. One is innovative *quantitatively* (within a grammar inherited intact), the other *qualitatively* (by reversing a verdict pronounced within that same grammar). This asymmetry is the hinge on which the dual-track reading turns.
 
 ---
-
 
 ## §III. Vasubandhu and Kuiji: A Yogācāra Confluence Already Systematized in the Seventh Century
 
@@ -211,7 +210,6 @@ Second, "two ends simultaneously displayed" is a purely structural description t
 The phrase "two ends simultaneously displayed" cannot be deconstructed by the Madhyamaka tetralemma — because it is, by construction, a purely structural claim. It presupposes no *svabhāva* for either end, and it presupposes no ontological hierarchy between "the ends" and "the middle."
 
 ---
-
 
 ## §VI. The Dual-Track Confluence: Cross-Scriptural Parallel in the *Mahāparinirvāṇa-sūtra* and the Formal Upgrade of Thesis I
 

@@ -1,17 +1,17 @@
+---
+title: "The Four Preparatory Stages: From Knowing to Seeing"
+author: "Shi Huijing 釋慧鏡"
+series: "S3 Hundred Dharmas · Supplement SUP01"
+series_short: "S3"
+paper_id: "S3-SUP01"
+paper_number: 1
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Four Preparatory Stages: From Knowing to Seeing
 
 **Warmth, Summit, Patience, and Supreme Worldly Dharma — The Practice Path of Hundred-Dharma Contemplation**
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Pointing at the Moon 指月
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S3 Hundred Dharmas · Supplement SUP01
-
----
 
 ## Abstract
 

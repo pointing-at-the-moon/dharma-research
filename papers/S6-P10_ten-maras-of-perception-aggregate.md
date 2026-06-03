@@ -1,16 +1,17 @@
+---
+title: "The Ten Māras of the Perception Aggregate — Craving's Mirror-Other"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Reflection — *Śūraṅgama Sūtra* (Paper 10 of 12)"
+series_short: "S6"
+paper_id: "S6-P10"
+paper_number: 10
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Ten Māras of the Perception Aggregate — Craving's Mirror-Other
 
 **From the Three Cravings of the Āgamas to the Śūraṅgama's "Dispatched Essence Possessing a Person"**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Series:** S6 Reflection — *Śūraṅgama Sūtra* (Paper 10 of 12)
-
----
 
 ## 摘要 Abstract
 

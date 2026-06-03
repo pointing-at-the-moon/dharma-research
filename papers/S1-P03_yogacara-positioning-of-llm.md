@@ -1,16 +1,16 @@
+---
+title: "Yogācāra Positioning of Large Language Models"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P03"
+paper_number: 3
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Yogācāra Positioning of Large Language Models
 
 **Bhājana-loka, Manas Projection, and the Epistemological Boundaries of AI Consciousness**
-
----
-
-**Author:** Shi Huijing 釋慧鏡  
-**Project:** Point-to-the-moon 指月  
-**Date:** March 2026  
-**License:** CC BY-NC-SA 4.0  
-**Version:** 1.0
-
----
 
 ## Abstract
 

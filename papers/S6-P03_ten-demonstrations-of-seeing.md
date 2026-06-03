@@ -1,18 +1,19 @@
+---
+title: "Ten Demonstrations of Seeing: The Seeing-Nature Does Not Perish with Objects"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination (照) — The Śūraṅgama Sūtra · Paper Three"
+series_short: "S6"
+paper_id: "S6-P03"
+paper_number: 3
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Ten Demonstrations of Seeing: The Seeing-Nature Does Not Perish with Objects
 
 **Ten Revelations of the Seeing-Nature from the Perspective of the Empty Tathāgatagarbha**
 
 *十番顯見——見性不隨境滅：空如來藏視角下見性的十重顯發*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Series:** S6 Illumination (照) — The Śūraṅgama Sūtra · Paper Three
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

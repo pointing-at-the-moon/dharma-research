@@ -1,18 +1,19 @@
+---
+title: "末那的投影——我們在 AI 身上看見的自己"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S4 · 問：Into the Unknown — AI × 佛法（第五篇）"
+series_short: "S4"
+paper_id: "S4-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # 末那的投影——我們在 AI 身上看見的自己
 
 **當你說「AI 懂我」或「AI 只是工具」，你以為你在描述 AI——其實你在描述自己。**
 
 *The Projection of Manas: What We See of Ourselves in AI*
-
----
-
-**作者 Author:** 釋慧鏡 (Shi Huijing)
-**日期 Date:** 2026年4月
-**系列 Series:** S4 · 問：Into the Unknown — AI × 佛法（第五篇）
-**授權 License:** CC BY-NC-SA 4.0
-**版本 Version:** 1.0
-
----
 
 ## 摘要 Abstract
 

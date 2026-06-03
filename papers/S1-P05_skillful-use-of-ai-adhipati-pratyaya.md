@@ -1,18 +1,18 @@
+---
+title: "Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P05"
+paper_number: 5
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit
 
 **The Āgama Householder Practice Sequence and the Application of AI**
 
 *善用 AI 增上緣來累積福報——阿含經在家修行次第與 AI 善用論*
-
----
-
-**Author:** Shi Huijing 釋慧鏡  
-**Project:** Point-to-the-moon 指月  
-**Date:** March 2026  
-**License:** CC BY-NC-SA 4.0  
-**Version:** 1.0  
-
----
 
 ## Abstract
 

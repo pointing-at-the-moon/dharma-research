@@ -1,18 +1,18 @@
+---
+title: "Prajnā · Heart · Sūtra — The Title IS the Teaching"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S2"
+paper_id: "S2-P01"
+paper_number: 1
+date: "2026-03"
+version: "1.1"
+license: "CC BY-NC-SA 4.0"
+---
 # Prajnā · Heart · Sūtra — The Title IS the Teaching
 
 **A Yogācāra Three-Nature Reinterpretation of the Heart Sutra's Title**
 
 *般若·心·經——標題即教法*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.1
-
----
 
 ## Abstract
 

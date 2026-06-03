@@ -1,16 +1,17 @@
+---
+title: "Twenty-Five Perfect Penetrations: The Door That Fits You"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S6 Illumination (照) — The Śūraṅgama Sūtra (5)"
+series_short: "S6"
+paper_id: "S6-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Twenty-Five Perfect Penetrations: The Door That Fits You
 
 **From "All Dharmas Are Tathāgatagarbha" to "Which Door Do You Enter?": Practice Reports of Twenty-Five Sages and Mañjuśrī's Selection**
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**Series:** S6 Illumination (照) — The Śūraṅgama Sūtra (5)
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

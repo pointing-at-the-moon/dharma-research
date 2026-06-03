@@ -1,15 +1,14 @@
+---
+title: "The Four Clear and Decisive Instructions on Purity: The First Perimeter Before Entering"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S6"
+paper_id: "S6-P07"
+paper_number: 7
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Four Clear and Decisive Instructions on Purity: The First Perimeter Before Entering
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-Project: 指月 Point-to-the-moon
-License: CC BY-NC-SA 4.0
-
-Series: S6 Illumination — *The Śūraṅgama Sūtra* · Paper 07
-**Date:** April 2026
-
----
 
 ## Abstract
 

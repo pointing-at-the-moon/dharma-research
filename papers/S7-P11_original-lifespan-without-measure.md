@@ -1,17 +1,17 @@
+---
+title: "Original Lifespan Without Measure — The Inaugural Disclosure of the Original-Gate in the *Lifespan Chapter* and the Temporal Structure of the Dharma-Body"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P11"
+paper_number: 11
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Original Lifespan Without Measure — The Inaugural Disclosure of the Original-Gate in the *Lifespan Chapter* and the Temporal Structure of the Dharma-Body
 
 **Series:** S7 Shè (*Lotus Sūtra* 法華經)
 **Number:** S7-P11
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Pointing at the Moon 指月
-**License:** CC BY-NC-SA 4.0
-**Date:** April 2026
-**Version:** 1.0
-
----
 
 ## Abstract
 

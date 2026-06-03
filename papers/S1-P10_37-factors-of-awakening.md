@@ -1,18 +1,18 @@
+---
+title: "The 37 Factors of Awakening: A Complete Methodology from 2500 Years Ago"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S1"
+paper_id: "S1-P10"
+paper_number: 10
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The 37 Factors of Awakening: A Complete Methodology from 2500 Years Ago
 
 **For Liberation and For Life — One System, Different Depths**
 
 *三十七道品：2500 年前的完整方法論*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 
@@ -464,7 +464,7 @@ Series 2 -- we will meet there.
 - *Buddhagotra-sastra* 《佛性論》, fascicle 4, *Taisho* vol. 31, No. 1610.
 - *Commentary on the Four-Part Vinaya* 《四分律疏》, fascicle 1, *Taisho* vol. 40, No. 1805.
 - *Mahaprajnaparamita-sastra* 《大智度論》, fascicle 19, by Nagarjuna, trans. Kumarajiva, *Taisho* vol. 25, No. 1509.
-- *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, *Taisho* vol. 43, No. 1828.
+- *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, *Taisho* vol. 43, No. 1829.
 
 ### II. Modern Scholarship 現代學術著作
 
@@ -489,7 +489,7 @@ Series 2 -- we will meet there.
 | 6 | Buddhagotra-sastra 佛性論 | T31 | 1610 | III |
 | 7 | Commentary on the Four-Part Vinaya 四分律疏 | T40 | 1805 | III |
 | 8 | Mahaprajnaparamita-sastra 大智度論 | T25 | 1509 | III |
-| 9 | Abbreviated Commentary on the Yogacarabhumi-sastra 瑜伽師地論略纂 | T43 | 1828 | II |
+| 9 | Abbreviated Commentary on the Yogacarabhumi-sastra 瑜伽師地論略纂 | T43 | 1829 | II |
 
 ---
 
@@ -510,7 +510,7 @@ Series 2 -- we will meet there.
 [^2]: *Ekottara Agama* 《增壹阿含經》, fascicle 1, Ananda tells Mahakasyapa: "Within a single verse, all 37 factors and all dharmas are born" -- the verse being "Refrain from all evil, cultivate all good, purify your own mind -- this is the teaching of all Buddhas" (諸惡莫作，諸善奉行，自淨其意，是諸佛教), *Taisho* vol. 2, No. 0125.
 [^3]: *Vimalakirtinirdesa Sutra* 《維摩詰所說經》, trans. Kumarajiva, "The 37 factors of the path are the bodhisattva's pure land -- when the bodhisattva attains Buddhahood, beings who have practiced the foundations of mindfulness, right efforts, bases of spiritual power, faculties, powers, awakening factors, and the path will be born in that land," *Taisho* vol. 14, No. 0475.
 [^4]: *Vimalakirti Sutra* 《維摩詰經》, trans. Zhi Qian, "born from the 37 factors of the path" (從三十七道品生), on the source of the Tathagata's merit-body, *Taisho* vol. 14, No. 0474.
-[^5]: *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, Master Tai's analysis of the 37 factors' four skillful aspects: the first three categories (foundations of mindfulness, right efforts, bases of spiritual power) as the supporting basis for the path of seeing; the latter four (faculties, powers, awakening factors, path) as the supported practices, *Taisho* vol. 43, No. 1828.
+[^5]: *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, Master Tai's analysis of the 37 factors' four skillful aspects: the first three categories (foundations of mindfulness, right efforts, bases of spiritual power) as the supporting basis for the path of seeing; the latter four (faculties, powers, awakening factors, path) as the supported practices, *Taisho* vol. 43, No. 1829.
 [^6]: *Ekottara Agama* 《增壹阿含經》, fascicle 7, "Walking in meditation throughout the day, never abandoning the mind's engagement with the 37 factors. When the eye sees form, no conceptual elaboration arises" (竟日經行，未曾捨離意遊三十七道品之法。若眼見色，不起色想), *Taisho* vol. 2, No. 0125.
 [^7]: *Ekottara Agama* 《增壹阿含經》, fascicle 18, "Of all meritorious qualities and the 37 factors of the path, non-negligence is foremost" (諸善功德三十七道品之法，無放逸行為第一), *Taisho* vol. 2, No. 0125.
 [^8]: *Madhyantavibhaga* 《辯中邊論》, fascicle 10, the bodhisattva on the fourth ground achieves "the fullest accomplishment of the 37 factors," yet "without the most excellent right effort, this attachment [to wholesome dharmas] cannot be extinguished" (若無最勝正勤，此愛不可滅), the perfection of effort (virya-paramita) is completed at this ground, *Taisho* vol. 31, No. 1595.

@@ -1,19 +1,19 @@
+---
+title: "Form Dharmas: The World Projected by Mind"
+author: "Shi Huijing 釋慧鏡"
+series: "S3 · Practice — Śatadharmaprakāśamukha-śāstra · Yogācāra Praxis"
+series_short: "S3"
+paper_id: "S3-P11"
+paper_number: 11
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Form Dharmas: The World Projected by Mind
 
 **The Yogācāra Deconstruction of the Five Sense Faculties, Five Sense Objects, and Form Subsumed under the Mental Realm**
 
 *色法：識所變現的世界——百法第三位·五根、五境、法處所攝色的唯識解構*
-
----
-
-**Series:** S3 · Practice — Śatadharmaprakāśamukha-śāstra · Yogācāra Praxis
-**Paper:** S3-P11
-**Author:** Shi Huijing 釋慧鏡
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 

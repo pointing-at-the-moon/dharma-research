@@ -1,13 +1,16 @@
+---
+title: "The Parable of the Medicinal Herbs: One Rain, Differentiated Reception"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S7"
+paper_id: "S7-P05"
+paper_number: 5
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Parable of the Medicinal Herbs: One Rain, Differentiated Reception
 
 ## The Dialectical Equality of Lotus Sūtra "Embrace"
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-
----
 
 ## Abstract
 

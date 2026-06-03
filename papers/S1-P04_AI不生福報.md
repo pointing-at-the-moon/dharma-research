@@ -1,16 +1,16 @@
+---
+title: "AI 不生福報——器世間、增上緣與當代因果倒置邪見"
+author: "釋慧鏡 (Shi Huijing)"
+series_short: "S1"
+paper_id: "S1-P04"
+paper_number: 4
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # AI 不生福報——器世間、增上緣與當代因果倒置邪見
 
 **AI Does Not Generate Merit: Bhājana-loka, Adhipati-pratyaya, and the Contemporary Inversion of Causality**
-
----
-
-**作者 Author:** 釋慧鏡 (Shi Huijing)  
-**Project:** 指月 Point-to-the-moon  
-**日期 Date:** 2026年3月  
-**授權 License:** CC BY-NC-SA 4.0  
-**版本 Version:** 1.0  
-
----
 
 ## 摘要 Abstract
 

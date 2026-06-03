@@ -1,18 +1,18 @@
+---
+title: "Preparing the Vessel — Are You Ready?"
+author: "Shi Huijing 釋慧鏡"
+series_short: "S1"
+paper_id: "S1-P09"
+paper_number: 9
+date: "2026-03"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # Preparing the Vessel — Are You Ready?
 
 **How to Receive the Treasure of Dharma in the Age of Fast-Food Culture**
 
 *法器的準備——你準備好了嗎？*
-
----
-
-**Author:** Shi Huijing 釋慧鏡
-**Project:** Point-to-the-moon 指月
-**Date:** March 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
----
 
 ## Abstract
 
@@ -346,7 +346,7 @@ See if you can do it.
 - *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna 龍樹菩薩, trans. Kumārajīva 鳩摩羅什, *Taishō* vol. 25, No. 1509.
 - *Yogācārabhūmi-śāstra* 《瑜伽師地論》, by Maitreya 彌勒菩薩, trans. Xuanzang 唐玄奘, *Taishō* vol. 30, No. 1579.
 - *Mohe Zhiguan* 《摩訶止觀》, by Zhiyi 智顗, recorded by Guanding 灌頂, *Taishō* vol. 46, No. 1911.
-- *Essentials of Śamatha-Vipaśyanā* 《天台止觀法要》, *Taishō* vol. 46, No. 1896.
+- *Essentials of Śamatha-Vipaśyanā* 《天台止觀法要》, *Taishō* vol. 46, No. 1911.
 
 ### II. Modern Scholarship 現代學術著作
 
@@ -367,7 +367,7 @@ See if you can do it.
 | 4 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | II, V |
 | 5 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30 | 1579 | II |
 | 6 | Mohe Zhiguan 摩訶止觀 | T46 | 1911 | II, III |
-| 7 | Essentials of Śamatha-Vipaśyanā 天台止觀法要 | T46 | 1896 | II, III |
+| 7 | Essentials of Śamatha-Vipaśyanā 天台止觀法要 | T46 | 1911 | II, III |
 
 ---
 
@@ -386,7 +386,7 @@ See if you can do it.
 
 [^1]: *Saṃyukta Āgama* 《雜阿含經》, fascicle 32, parable of three vessels, *Taishō* vol. 2, No. 0099. The Buddha uses three water vessels as a parable for the priority order of teaching recipients.
 [^2]: *Separate Translation Saṃyukta Āgama* 《別譯雜阿含經》, fascicle 4, the Buddha observes the young man's readiness as a dharma vessel then teaches the Four Noble Truths, parable of the white cloth, *Taishō* vol. 2, No. 0100.
-[^3]: *Essentials of Śamatha-Vipaśyanā* 《天台止觀法要》, "The mountain of pride rises high, looking down upon all others ... one who is proud has no real capacity to receive the Dharma" (慢山上聳俯視於人物……慢無納法之實), *Taishō* vol. 46, No. 1896.
+[^3]: *Essentials of Śamatha-Vipaśyanā* 《天台止觀法要》, "The mountain of pride rises high, looking down upon all others ... one who is proud has no real capacity to receive the Dharma" (慢山上聳俯視於人物……慢無納法之實), *Taishō* vol. 46, No. 1911.
 [^4]: *Mohe Zhiguan* 《摩訶止觀》, fascicle 1, "If the mind trusts the Dharma, the Dharma permeates the mind; if one is filled with hesitation and doubt, the effect is the same as an overturned vessel" (若心信法，法則染心；猶豫狐疑，事同覆器), *Taishō* vol. 46, No. 1911.
 [^5]: *Avataṃsaka Sūtra* 《大方廣佛華嚴經》, fascicle 56, "knows that all sentient beings can serve as dharma vessels for all Buddhas" (知一切眾生界悉堪為諸佛法器), trans. Śikṣānanda, *Taishō* vol. 10, No. 0279.
 [^6]: *Mahāprajñāpāramitā-śāstra* 《大智度論》, fascicle 1, by Nāgārjuna, trans. Kumārajīva, "cutting themselves off in this way, they would fail to become vessels for the Dharma of noble ones" (以此自絕，不得成賢聖法器), *Taishō* vol. 25, No. 1509.

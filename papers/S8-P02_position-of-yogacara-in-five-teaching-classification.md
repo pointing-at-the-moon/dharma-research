@@ -1,22 +1,20 @@
+---
+title: "The Position of Yogācāra in the Five-Teaching Classification"
+author: "釋慧鏡 (Shi Huijing)"
+series: "S8 顯 — Dharmadhātu-Pratītyasamutpāda in the *Avataṃsaka-sūtra*"
+series_short: "S8"
+paper_id: "S8-P02"
+paper_number: 2
+date: "2026-04"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
+---
 # The Position of Yogācāra in the Five-Teaching Classification
 
 **Between the Final Teaching and the Round Teaching — Hierarchy, or Container?**
 
 *中文主標題：五教判中的唯識位置*
 *中文副標題：終教與圓教之間，是階梯，還是容器？*
-
----
-
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-
-**Series:** S8 顯 — Dharmadhātu-Pratītyasamutpāda in the *Avataṃsaka-sūtra*
-**Corresponds to:** Samantabhadra's Second Vow (*praising the Tathāgatas*) + Second Mystery Gate (*the Gate of the Unobstructed Mutual Containment of the Broad and the Narrow*, 廣狹自在無礙門)
-**Position:** S8-P02
-
----
 
 ## Abstract
 
@@ -214,7 +212,6 @@ Chengguan's reinforcement is decisive for the present paper. Fazang's five-teach
 Applied to the five teachings: the Initial Teaching's (Yogācāra's) five *gotras*, eight consciousnesses, fifty-one mental factors, seeds and active manifestations — these are sequential distribution; the Final Teaching's (*tathāgatagarbha*'s) suchness following conditions and the unobstructed interpenetration of principle and phenomena — these too are sequential distribution at another level; the Round Teaching's (*Avataṃsaka*'s) phenomenon-to-phenomenon non-obstruction — even this remains, at one level, sequential distribution (the *Avataṃsaka* internally has its own progression of ten faiths, ten dwellings, ten practices, ten dedications, ten grounds). **And round interpenetration is the same single virtuous functioning that runs through every one of these sequential distributions.**
 
 In other words: **the five teachings are not five different things; they are the same virtuous functioning manifesting in five different sequential distributions**. This is, again, the patriarchal endorsement of the "container, not hierarchy" thesis — this time from Chengguan.
-
 
 ---
 
@@ -498,8 +495,6 @@ The argumentative form of this paper has three explicit points of failure:
 When the reader reaches these three failure points, please understand: **these three failure points are not places where the present paper is poorly written; they are places where the unobstructed mutuality of the broad and the narrow, as the object of discourse, intrinsically resists every discursive form**. Any paper that uses linear language to talk about the unobstructed mutuality of the broad and the narrow will fail at these three places, no matter how carefully its author works. The present paper's choice is to mark these three places of failure explicitly, so that the reader knows where the brush is set down, and what to rely on beyond that line.
 
 > *A three-dimensional brush cannot write a ten-dimensional object. All it can do is to mark the place where the brush is set down — so that the reader knows that, beyond this line, what remains is the reader's own dharma-eye.*[^26]
-
-
 
 ---
 
