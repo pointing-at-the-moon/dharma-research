@@ -47,5 +47,15 @@ book/**
 !book/published/**
 book/published/**/.DS_Store
 
+# English edition — consolidated back from the (retired) eight-movements-en
+# standalone repo. The full EN book is public, mirroring the Chinese 八部曲
+# part-for-part (waken.org syncs its English bodies from here).
+!book/en/
+!book/en/**
+book/en/**/.DS_Store
+
 # bookv2/ — 減法 style experiments, fully local until/unless adopted
 bookv2/
+
+# Session passdowns (local-only, per CLAUDE.md §8)
+sessions/
