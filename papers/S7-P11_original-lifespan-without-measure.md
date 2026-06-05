@@ -397,7 +397,7 @@ Original-lifespan-without-measure is not a factual statement about the Buddha; i
 
 **Commentaries**
 
-- Vasubandhu, tr. Bodhiruci et al., *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經論優波提舍), T1519
+- Vasubandhu, tr. Bodhiruci et al., *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍), T1519
 - Vasubandhu, tr. Ratnamati, *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經論優波提舍), T1520
 - Zhiyi, *Fahua xuanyi* (妙法蓮華經玄義), T1716 (ten marvels of the original-gate section)
 - Zhiyi, *Fahua wenju* (妙法蓮華經文句), T1718 (fasc. 5, line-by-line commentary on the Lifespan chapter)
