@@ -191,7 +191,7 @@ To help the reader hold the density of materials in this section, the documentar
 | Indian commentary | 5th century | Vasubandhu | *Daśabhūmika-vyākhyāna* T1522 fasc. 1 | First systematic definition; *chú shì* principle; verbal-explanation status |
 | *Dilun* school | 6th century | Jingying Huiyuan | Four-gate exegesis (preserved in T1736 fasc. 52) | Four gates: intention, basis, general application, textual gloss |
 | 2nd Huayan patriarch | 7th century | Zhiyan | *Huáyán jīng wèndá* T1873 | Application-layer use; six characteristics gloss the ten entries |
-| 3rd Huayan patriarch | 7th–8th century | Fazang | *Wujiao zhang* T1866 fasc. 4; *Tànxuán jì* T1733; *Jīn shīzi zhāng* T1880 / *Yìhǎi bǎi mén* T1875 | Perfect-teaching doctrinalization; house-and-rafter and golden-lion parables; eternalism/nihilism exclusion; *liù yì* / *liù xiàng* distinction |
+| 3rd Huayan patriarch | 7th–8th century | Fazang | *Wujiao zhang* T1866 fasc. 4; *Tànxuán jì* T1733; *Jīn shīzi zhāng* T1880 | Perfect-teaching doctrinalization; house-and-rafter and golden-lion parables; eternalism/nihilism exclusion; *liù yì* / *liù xiàng* distinction |
 | 4th Huayan patriarch | 8th–9th century | Chengguan | *Huáyán jīng shū* T1735; *Yǎnyì chāo* T1736 fasc. 52 | Systematic seven gates; explicit inheritance from Huiyuan's four gates |
 
 This lineage spans roughly four centuries (from Vasubandhu to Chengguan), two continents, two doctrinal schools (the *Dilun* school and the Huayan school), and four developmental stages (verbal-explanation instrument, application-layer use, doctrinal standardization, systematic seven-gate exposition). **The six characteristics are the mature instrument jointly cultivated by this entire lineage—not the isolated invention of any single patriarch**. This is the central methodological declaration of §II as a whole.
@@ -364,7 +364,7 @@ The golden-lion parable has two advantages over the house parable. First, it is 
 
 Fazang appends a sentence to the end of the golden-lion parable: **"This displays that within the *dharmadhātu* there is no isolated dharma. Whichever single characteristic one raises, the dependent origination of all six characteristics is contained within it."** This sentence discloses the actual purpose of the six-characteristics parables: it is not to make you remember six categories but to make you understand that "within the *dharmadhātu* there is no isolated dharma"—any single thing, the moment it is raised up for view, brings the other six characteristics with it. The six characteristics are not six concepts; they are the very fact that "any single thing has six observational facets simultaneously."
 
-The *Yìhǎi bǎi mén* T1875 places the golden-lion parable in side-by-side correspondence with the *Wujiao zhang*'s eight-line summary verse:
+The *Jīn shīzi zhāng* (T1880, "Encompassing the Six Characteristics" section; in Jingyuan's *Yúnjiān lèijiě* recension) places the golden-lion parable in side-by-side correspondence with the *Wujiao zhang*'s eight-line summary verse:
 
 > The lion is the *totality*: **"the one that contains the many is named *totality*."**
 > The differentiation of the five organs is the *distinction*: **"the many not collapsing into one is *distinction*."**
@@ -882,7 +882,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 [^27]: 《華嚴金師子章》, *Huáyán jīn shīzi zhāng* (*The Huayan Golden-Lion Chapter*), composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1880, fascicle 1, eighth section "Encompassing the Six Characteristics." Composed for the empress Wu Zetian; the most concise demonstration of the six-characteristics doctrine.
 
-[^28]: 《華嚴經義海百門》, *Huáyán jīng yìhǎi bǎi mén* (or as a textual variant of the *Jīn shīzi zhāng*), *Taishō* vol. 45, no. 1875, fascicle 1. The passage placing the golden-lion parable in correspondence with the *Wujiao zhang*'s eight-line verse. The verdict "Yunhua's Ten Gates are rooted in the gate of contemplation; Gangzang's Six Characteristics issue forth from the source of the great scripture" is also drawn from this same fascicle.
+[^28]: 《華嚴金師子章》 *Huáyán jīn shīzi zhāng*, composed by Fazang, *Taishō* vol. 45, no. 1880, fascicle 1, eighth section "Encompassing the Six Characteristics" (as in [^27]; Jingyuan's *Yúnjiān lèijiě* recension). The golden-lion six-characteristics gloss and its correspondence with the *Wujiao zhang*'s eight-line verse are in this section. N.B.: this gloss belongs to the *Jīn shīzi zhāng* (T1880), **not** the *Yìhǎi bǎi mén* (T1875), which is a ten-gate treatise on dharmadhātu dependent-arising with no "encompassing the six characteristics" section; the earlier attribution to T1875 was an error, now corrected.
 
 [^29]: 《華嚴經探玄記》T1733 fascicle 9. Fazang's threefold division of skillful means (*initiating*, *non-abiding*, *gathering-and-establishing*), with the six characteristics placed under the *gathering-and-establishing skillful means*.
 
