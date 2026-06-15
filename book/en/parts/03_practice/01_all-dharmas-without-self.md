@@ -72,6 +72,6 @@ Second, supposing that "all dharmas are consciousness-only" means that mind can 
 
 ---
 
-The map is spread open. But before we take apart these hundred parts, there is an earlier question to ask first—this hundred-dharma map is itself an enlargement of older maps the Buddha drew before it; one and the same body-mind, yet he drew it three times: the five aggregates, the twelve bases, the eighteen elements. Why? Chapter 3.2, "The Three Schemata," answers this first.
+The map is spread open. But before we take apart these hundred parts, there is an earlier question to ask first—this hundred-dharma map is itself an enlargement of an older map the Buddha drew before it; and for one and the same body-mind, he drew more than that one. Why? Chapter 3.2, "The Three Schemata," answers this first.
 
 Only then do we take apart the first region in earnest—the dynamic panorama of the eight consciousnesses. How do the three transformations work together? How does the ālaya-consciousness hold the seeds, how does the manas-consciousness grasp at "self," how do the first six consciousnesses produce karma? Chapter 3.3 unfolds this three-layered structure in full.
