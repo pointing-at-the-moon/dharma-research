@@ -1,6 +1,6 @@
-## 3.8 Wholesome Mental Factors: The Fuel for Practice
+## 3.9 Wholesome Mental Factors: The Fuel for Practice
 
-Chapter 3.7 closed by leaving one question open: **where does the fuel come from?**
+Chapter 3.8 closed by leaving one question open: **where does the fuel come from?**
 
 The engine—the five universals—fires by itself. The steering wheel—the five object-specifics—can turn on demand. But which way the car actually travels depends on what you pour into the tank. The eleven wholesome mental factors are the fuel that can make the car run toward liberation.
 
@@ -22,7 +22,7 @@ These eleven are an **organic structure**, and the order in which they are arran
 - **Non-negligence and equanimity** come later still—it takes the stability of meditative concentration to make such fine psychological adjustments.
 - **Non-harming** comes last—the ultimate orientation of the whole set of wholesome factors is to benefit others.
 
-Read through the car metaphor from 3.7: trust is the spark that ignites, conscience and moral fear are the seal that prevents leaks, the three wholesome roots are the core fuel, vigor is the injection pressure, pliancy is the efficiency of combustion, non-negligence and equanimity are the voltage regulators, and non-harming is the destination the car is meant to reach. Eleven parts, assembled into a single engine that can run all the way to liberation. Once you understand the structure, the eleven no longer scatter into a pile of fragments in your mind.
+Read through the car metaphor from 3.8: trust is the spark that ignites, conscience and moral fear are the seal that prevents leaks, the three wholesome roots are the core fuel, vigor is the injection pressure, pliancy is the efficiency of combustion, non-negligence and equanimity are the voltage regulators, and non-harming is the destination the car is meant to reach. Eleven parts, assembled into a single engine that can run all the way to liberation. Once you understand the structure, the eleven no longer scatter into a pile of fragments in your mind.
 
 ### Trust: The First Step onto the Path
 
@@ -126,8 +126,8 @@ Having walked through the eleven once, there are two misreadings that need corre
 
 ⚠️ **Wholesome dharmas are not a virtue checklist.** Many people understand the wholesome factors as "eleven good qualities"—picking a few to cultivate as if choosing courses. This breaks an organic structure into fragments. The eleven are one formula: trust is the spark, conscience and moral fear are the seal, the three wholesome roots are the core fuel, vigor is the pressure, pliancy is the efficiency, non-negligence and equanimity are the regulators, and non-harming is the destination. Take away one, and the whole engine cannot run. Practice is not cultivating a few of them; it is letting the whole set run together.
 
-⚠️ **Wholesome dharmas do not appear automatically; they must be actively cultivated.** Chapter 3.7 said the universals are "necessarily present"—those mental factors are there whether you cultivate them or not. But among the four kinds of universality, the wholesome factors possess only universality across grounds; they lack universality across times and universality across simultaneous arising—they do not automatically actualize in every moment, nor in every consciousness. This means: **every single arising of wholesome mind is the result of practice.** Without cultivation, no wholesome factor is present. This is why the Āgamas stress that "non-negligence is the root of all wholesome dharmas"—a wholesome dharma left unattended will regress, and practice is precisely not letting it regress.
+⚠️ **Wholesome dharmas do not appear automatically; they must be actively cultivated.** Chapter 3.8 said the universals are "necessarily present"—those mental factors are there whether you cultivate them or not. But among the four kinds of universality, the wholesome factors possess only universality across grounds; they lack universality across times and universality across simultaneous arising—they do not automatically actualize in every moment, nor in every consciousness. This means: **every single arising of wholesome mind is the result of practice.** Without cultivation, no wholesome factor is present. This is why the Āgamas stress that "non-negligence is the root of all wholesome dharmas"—a wholesome dharma left unattended will regress, and practice is precisely not letting it regress.
 
 With this, the fuel set that runs toward the light is fully introduced. But a car's tank, it turns out, has two supplies—one that, once added, lets it run toward liberation, and another that, once added, makes it slide toward the depths of saṃsāra.
 
-In the next chapter, 3.9, we open that other tank: the **six fundamental afflictions**—craving, aversion, delusion, conceit, doubt, and wrong views. Along with them we take up the four **indeterminate mental factors**—regret, sleep, applied thought, and sustained examination—whose wholesome or unwholesome character is not yet fixed, deciding their direction by the situation.
+In the next chapter, 3.10, we open that other tank: the **six fundamental afflictions**—craving, aversion, delusion, conceit, doubt, and wrong views. Along with them we take up the four **indeterminate mental factors**—regret, sleep, applied thought, and sustained examination—whose wholesome or unwholesome character is not yet fixed, deciding their direction by the situation.

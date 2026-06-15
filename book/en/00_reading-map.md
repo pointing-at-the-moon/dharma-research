@@ -20,7 +20,7 @@ Central question: once on the road, what lets you see clearly? Central scripture
 
 **Part Three · practice: walking by Yogācāra**
 
-Central question: once you have seen clearly, what lets you walk? Central scripture and treatise: the Treatise on the Hundred Dharmas, the Verses Delineating the Eight Consciousnesses, the Saṃdhinirmocana Sūtra. Central stance: precision. Fourteen chapters plus one supplementary chapter take mind-consciousness apart to its finest grain—the selflessness of all dharmas, the three transformations, the *ālaya-vijñāna*, *manas*, the sixth mind-consciousness, the first five consciousnesses, the fifty-one mental factors, form, the dissociated formations, the unconditioned, and the transformation of consciousness into wisdom. This is the part that most resembles a "toolbox," and it reads a little dense—but once you finish it, you will know that practice is no longer a matter of feeling your way; it has coordinates.
+Central question: once you have seen clearly, what lets you walk? Central scripture and treatise: the Treatise on the Hundred Dharmas, the Verses Delineating the Eight Consciousnesses, the Saṃdhinirmocana Sūtra. Central stance: precision. Fourteen chapters plus two supplementary chapters take mind-consciousness apart to its finest grain—the selflessness of all dharmas, the three schemata, the three transformations, the *ālaya-vijñāna*, *manas*, the sixth mind-consciousness, the first five consciousnesses, the fifty-one mental factors, form, the dissociated formations, the unconditioned, and the transformation of consciousness into wisdom. This is the part that most resembles a "toolbox," and it reads a little dense—but once you finish it, you will know that practice is no longer a matter of feeling your way; it has coordinates.
 
 **Part Four · inquiry: practising in the age of AI**
 
@@ -132,25 +132,26 @@ This table is the correspondence map between the book and the 91 underlying pape
 
 **Part Two subtotal**: 28,966 characters
 
-### Part Three · practice · the hundred dharmas and the eight consciousnesses (15 chapters)
+### Part Three · practice · the hundred dharmas and the eight consciousnesses (16 chapters)
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
 | 3.1 | S3-P01 | The Selflessness of All Dharmas—the Hundred Dharmas as a Map of Practice | 2,076 |
-| 3.2 | S3-P02 | The Three Transformations—a Panorama of the Eight Consciousnesses | 2,589 |
-| 3.3 | S3-P03 | The Ālaya-vijñāna—the Hard Drive of Life | 2,528 |
-| 3.4 | S3-P04 | Manas—the Unseen Grasping at Self | 2,667 |
-| 3.5 | S3-P05 | The Sixth Mind-consciousness—the One Consciousness That Can Look in the Mirror | 2,572 |
-| 3.6 | S3-P06 | The First Five Consciousnesses—the Immediacy of the Senses | 2,248 |
-| 3.7 | S3-P07 | The Omnipresent and the Object-Specific—the Smallest Engine of Mind | 2,698 |
-| 3.8 | S3-P08 | The Wholesome Mental Factors—the Fuel of Practice | 3,171 |
-| 3.9 | S3-P09 | The Root Afflictions and the Indeterminate—the Engine of Saṃsāra | 3,172 |
-| 3.10 | S3-P10 | The Secondary Afflictions—the Branches and Twigs of Affliction | 4,375 |
-| 3.11 | S3-P11 | Form—the World as Manifested by Consciousness | 4,293 |
-| 3.12 | S3-P12 | The Dissociated Formations—the Designation of Concepts | 5,955 |
-| 3.13 | S3-P13 | The Unconditioned—the End Point of the Hundred Dharmas | 4,942 |
-| 3.14 | S3-SUP01 | The Four Applications of Effort—from Knowing to Seeing | 4,278 |
-| 3.15 | S3-P14 | The Transformation of Consciousness into Wisdom—Coming Home | 4,631 |
+| 3.2 | S3-SUP02 | The Three Schemata—Three Blades of Different Resolution | 2,443 |
+| 3.3 | S3-P02 | The Three Transformations—a Panorama of the Eight Consciousnesses | 2,589 |
+| 3.4 | S3-P03 | The Ālaya-vijñāna—the Hard Drive of Life | 2,528 |
+| 3.5 | S3-P04 | Manas—the Unseen Grasping at Self | 2,667 |
+| 3.6 | S3-P05 | The Sixth Mind-consciousness—the One Consciousness That Can Look in the Mirror | 2,572 |
+| 3.7 | S3-P06 | The First Five Consciousnesses—the Immediacy of the Senses | 2,248 |
+| 3.8 | S3-P07 | The Omnipresent and the Object-Specific—the Smallest Engine of Mind | 2,698 |
+| 3.9 | S3-P08 | The Wholesome Mental Factors—the Fuel of Practice | 3,171 |
+| 3.10 | S3-P09 | The Root Afflictions and the Indeterminate—the Engine of Saṃsāra | 3,172 |
+| 3.11 | S3-P10 | The Secondary Afflictions—the Branches and Twigs of Affliction | 4,375 |
+| 3.12 | S3-P11 | Form—the World as Manifested by Consciousness | 4,293 |
+| 3.13 | S3-P12 | The Dissociated Formations—the Designation of Concepts | 5,955 |
+| 3.14 | S3-P13 | The Unconditioned—the End Point of the Hundred Dharmas | 4,942 |
+| 3.15 | S3-SUP01 | The Four Applications of Effort—from Knowing to Seeing | 4,278 |
+| 3.16 | S3-P14 | The Transformation of Consciousness into Wisdom—Coming Home | 4,631 |
 
 **Part Three subtotal**: 52,195 characters
 

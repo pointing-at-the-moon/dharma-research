@@ -1,4 +1,4 @@
-## 3.2 The Three Transformations: A Panorama of the Eight Consciousnesses
+## 3.3 The Three Transformations: A Panorama of the Eight Consciousnesses
 
 The eight consciousnesses are not eight rooms.
 
@@ -34,7 +34,7 @@ Each of the eight consciousnesses has its own "character." The Verses on the Eig
 
 The ālaya-vijñāna is **constant but not deliberating**. It never breaks off, but it does not examine and does not grasp a self; it silently holds seeds and manifests. Manas is **both constant and deliberating**. It neither breaks off nor stops grasping a self. While you sleep it is grasping a self; while you lie unconscious it is grasping a self; even when you enter meditative absorption it is still grasping a self. The sixth consciousness is **deliberating but not constant**. It can examine and reflect, but it breaks off—in deep sleep, in a faint. The first five consciousnesses are **neither constant nor deliberating**. They break off, and they do not grasp a self.
 
-This explains a practitioner's deepest puzzlement: why do I "know there is no self" and yet still "cannot let go of the self"? Because the sixth consciousness's contemplation of no-self is "deliberating but not constant"—it has gaps—while manas's self-grasping is "both constant and deliberating"—it has none. A contemplation full of gaps cannot directly cancel out a clinging that never breaks. Chapter 3.4 will open this question fully.
+This explains a practitioner's deepest puzzlement: why do I "know there is no self" and yet still "cannot let go of the self"? Because the sixth consciousness's contemplation of no-self is "deliberating but not constant"—it has gaps—while manas's self-grasping is "both constant and deliberating"—it has none. A contemplation full of gaps cannot directly cancel out a clinging that never breaks. Chapter 3.5 will open this question fully.
 
 ### The Genetic Map of the Eight Consciousnesses
 
@@ -86,4 +86,4 @@ What this chapter does is lay out the panorama at the level of "knowing." Knowin
 
 ---
 
-The panorama is now unfolded. The next step is to walk into the first region—the ālaya-vijñāna. Why is it called "the hard drive of life"? How does it store seeds, how does it manifest the body-faculties and the material world, and how does it keep the continuity of life going even when all the coarse, obvious activities of mind have stopped? Chapter 3.3 will open the door of this warehouse.
+The panorama is now unfolded. The next step is to walk into the first region—the ālaya-vijñāna. Why is it called "the hard drive of life"? How does it store seeds, how does it manifest the body-faculties and the material world, and how does it keep the continuity of life going even when all the coarse, obvious activities of mind have stopped? Chapter 3.4 will open the door of this warehouse.

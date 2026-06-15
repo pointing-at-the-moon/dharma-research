@@ -1,12 +1,12 @@
-## 3.15 Transformation into Wisdom — Coming Home
+## 3.16 Transformation into Wisdom — Coming Home
 
 You are still home.
 
-The sunset of 3.13 has faded. The sky has turned dark, you switched on the lamp, and the whole living room brightened. The sofa, the table and chairs, the photographs on the wall, the distant streetlight beyond the window—everything is no different from what you saw when you first walked in. But in this moment, the way you see them has changed.
+The sunset of 3.14 has faded. The sky has turned dark, you switched on the lamp, and the whole living room brightened. The sofa, the table and chairs, the photographs on the wall, the distant streetlight beyond the window—everything is no different from what you saw when you first walked in. But in this moment, the way you see them has changed.
 
 This is what this chapter is about.
 
-3.13 told you where home is—suchness is the true nature of consciousness. 3.14 told you how to get there—the path of accumulation, the four preparatory practices, the path of seeing. What 3.15 has to tell you is this: once you are home, what changes.
+3.14 told you where home is—suchness is the true nature of consciousness. 3.15 told you how to get there—the path of accumulation, the four preparatory practices, the path of seeing. What 3.16 has to tell you is this: once you are home, what changes.
 
 The part of the answer most likely to surprise you is this: **nothing has changed, and yet everything has changed.**
 
@@ -32,7 +32,7 @@ The eight consciousnesses transforming into the four wisdoms is not a matter of 
 
 **Eighth consciousness → great perfect mirror wisdom.**
 
-3.3 compared the ālaya-vijñāna to "the hard drive of life"—holding the seeds, receiving the perfuming, the root basis of all. This whole set of functions remains **entirely intact** after transformation. The difference is that the defiled seeds on the hard drive are forever severed, leaving only pure seeds; the manner of holding the seeds shifts from "the attachment-storehouse of self-love" to "purely pure and perfect virtue."
+3.4 compared the ālaya-vijñāna to "the hard drive of life"—holding the seeds, receiving the perfuming, the root basis of all. This whole set of functions remains **entirely intact** after transformation. The difference is that the defiled seeds on the hard drive are forever severed, leaving only pure seeds; the manner of holding the seeds shifts from "the attachment-storehouse of self-love" to "purely pure and perfect virtue."
 
 The *Cheng Weishi Lun*'s description wastes no words: "The mind associated with great perfect mirror wisdom—this mind departs from all discrimination; its object and its mode are subtle and difficult to know; it neither forgets nor is confused; toward all the characteristics of objects, its nature and characteristics are pure, departing from all defilement, purely pure and perfect virtue, holding seeds and serving as basis—**like a great round mirror reflecting all forms.**"
 
@@ -44,11 +44,11 @@ The *Verses on the Structure of the Eight Consciousnesses* gives this transforma
 
 Before the eighth **Immovable Ground**, the eighth consciousness relinquishes the name "ālaya" (because the meaning of "the attachment-storehouse of self-love" no longer applies); after the vajra path, even the function of the "maturation consciousness" ceases; finally the great perfect mirror wisdom and the stainless consciousness arise at the same moment, "universally illuminating ten directions of dust-mote lands."
 
-From 3.3's "hard drive of life" to this moment's "the great mirror, stainless, arises at the same moment," it completes the longest single arc of the entire S3 series.
+From 3.4's "hard drive of life" to this moment's "the great mirror, stainless, arises at the same moment," it completes the longest single arc of the entire S3 series.
 
 **Seventh consciousness → equality wisdom.**
 
-3.4 explained that the core function of *manas* is **perpetual deliberation**, its content being the grasping of the eighth consciousness's perceiving-aspect as a self. This function remains **unchanged** after transformation—*manas* still deliberates perpetually. What changes is the **content** of the deliberation: from "everything is mine" to "all sentient beings are entirely equal."
+3.5 explained that the core function of *manas* is **perpetual deliberation**, its content being the grasping of the eighth consciousness's perceiving-aspect as a self. This function remains **unchanged** after transformation—*manas* still deliberates perpetually. What changes is the **content** of the deliberation: from "everything is mine" to "all sentient beings are entirely equal."
 
 The *Cheng Weishi Lun* says: "The mind associated with equality wisdom—this mind observes all dharmas, self and other, all sentient beings, **as entirely equal.** Great compassion and the like constantly accompany it."
 
@@ -58,7 +58,7 @@ The word "perpetual" is still there—the perpetual of perpetual deliberation. B
 
 **Sixth consciousness → wondrous observing wisdom.**
 
-3.5 said the sixth consciousness is "the only consciousness that can look in the mirror"—reaching across all three kinds of object, taking in all three modes of cognition, operating across all three natures. This mirror's capacity remains **undiminished** after transformation. The difference is that the direction in which the mirror reflects shifts from "grasping outward, adding embellishment" to "observing as things truly are, neither adding nor subtracting."
+3.6 said the sixth consciousness is "the only consciousness that can look in the mirror"—reaching across all three kinds of object, taking in all three modes of cognition, operating across all three natures. This mirror's capacity remains **undiminished** after transformation. The difference is that the direction in which the mirror reflects shifts from "grasping outward, adding embellishment" to "observing as things truly are, neither adding nor subtracting."
 
 The *Cheng Weishi Lun*: "The mind associated with wondrous observing wisdom—this mind **skillfully observes the particular and universal characteristics of all dharmas, turning without obstruction.** It encompasses the gates of immeasurable retention and concentration … within the great assembly it can manifest boundless distinctions of function, all attained with mastery, **raining down the great Dharma rain, severing all doubt.**"
 
@@ -66,7 +66,7 @@ The *Cheng Weishi Lun*: "The mind associated with wondrous observing wisdom—th
 
 **First five consciousnesses → wisdom of accomplishing what must be done.**
 
-3.6 explained that the first five consciousnesses are actual objects, direct perception, neutral as to good or evil—the direct windows of the senses. After transformation, these windows **remain.** The eye still sees, the ear still hears, the nose and tongue and body go on working. The difference is that these senses shift from "receivers driven by karmic force" to "skillful instruments manifested for the benefit of beings."
+3.7 explained that the first five consciousnesses are actual objects, direct perception, neutral as to good or evil—the direct windows of the senses. After transformation, these windows **remain.** The eye still sees, the ear still hears, the nose and tongue and body go on working. The difference is that these senses shift from "receivers driven by karmic force" to "skillful instruments manifested for the benefit of beings."
 
 The *Cheng Weishi Lun*: "The mind associated with the wisdom of accomplishing what must be done—**for the sake of benefiting and gladdening sentient beings, this mind universally manifests in the ten directions various transformative activities of body, speech, and mind, accomplishing what was to be done according to the power of original vows.**"
 
@@ -92,7 +92,7 @@ The first five consciousnesses and the eighth, by contrast, are **passive**—th
 
 This carries a thoroughly practical implication: **what you can work on directly is the sixth and seventh consciousnesses.** Do not imagine "I must transform all eight consciousnesses at once"—that is impossible, and unnecessary. You work on the awareness of the sixth consciousness (hearing, reflecting, observing, meditating), and you work on observing the self-grasping of the seventh, *manas* (noticing, moment by moment, that automatic reaction that "everything is about me")—and the transformation of the remaining four consciousnesses will **come of itself, in its own time.**
 
-This is the very same thing spoken of at the close of 3.14: you do not need to wait until you are deep in meditative absorption to begin practicing—every time you become aware that "this is a verbal designation, not the thing itself," every time you become aware that "this reaction is *manas*'s self-grasping, not the fact itself," you are driving forward the transformation of the sixth and seventh. **The strength in the arm that drills wood for fire is built up exactly this way, a little at a time.**
+This is the very same thing spoken of at the close of 3.15: you do not need to wait until you are deep in meditative absorption to begin practicing—every time you become aware that "this is a verbal designation, not the thing itself," every time you become aware that "this reaction is *manas*'s self-grasping, not the fact itself," you are driving forward the transformation of the sixth and seventh. **The strength in the arm that drills wood for fire is built up exactly this way, a little at a time.**
 
 ### Two Fruits: Mahānirvāṇa and Mahābodhi
 
@@ -104,7 +104,7 @@ Nirvāṇa is not some new thing you "obtain"; it is the suchness that was there
 
 The *Cheng Weishi Lun* lists four kinds of nirvāṇa, of which two are the ones you most need to remember.
 
-**Nirvāṇa originally pure in its own nature**—"shared equally by all sentient beings, neither identical with nor different from all dharmas." This is an exceedingly profound piece of news: **you are in nirvāṇa right now.** You simply do not know it. That "state after liberation" you have been searching for—at the level of your true nature, you have never once left it. 3.13's "you have been home all along" finally lands here in doctrinal terms—not a metaphor, but a plain statement of the truth.
+**Nirvāṇa originally pure in its own nature**—"shared equally by all sentient beings, neither identical with nor different from all dharmas." This is an exceedingly profound piece of news: **you are in nirvāṇa right now.** You simply do not know it. That "state after liberation" you have been searching for—at the level of your true nature, you have never once left it. 3.14's "you have been home all along" finally lands here in doctrinal terms—not a metaphor, but a plain statement of the truth.
 
 **Non-abiding nirvāṇa**—this is the ultimate of the bodhisattva path: "not abiding in saṃsāra, not abiding in nirvāṇa, benefiting and gladdening sentient beings to the end of future time."
 
@@ -130,7 +130,7 @@ The *Vimalakīrti Sūtra* states this in the starkest terms:
 
 **Affliction itself is the site of awakening**—not finding a site of awakening somewhere outside affliction, but "knowing as it truly is" that affliction itself is the site of awakening. The eight consciousnesses are not annihilated but transformed; affliction is not annihilated, but once the causal activity of affliction is contemplated as it truly is, **it is, in that very moment, the operation of wisdom.**
 
-This is entirely the same thing as 3.13's line, "suchness is not outside consciousness." You do not need to reach "a place without affliction" before you can practice—contemplating in the very midst of affliction is the practice of basis-transformation.
+This is entirely the same thing as 3.14's line, "suchness is not outside consciousness." You do not need to reach "a place without affliction" before you can practice—contemplating in the very midst of affliction is the practice of basis-transformation.
 
 The *Avataṃsaka Sūtra* pushes this news to its furthest extent:
 
@@ -150,15 +150,15 @@ And the final line:
 
 > "Selflessness" is, in brief, of two kinds: first, the selflessness of the person; second, the selflessness of dharmas.
 
-The whole treatise opens with "non-self" and closes with "two kinds of selflessness." From 3.1 to 3.14, this book has walked fourteen chapters between these two sentences, unfolding the entire content of the hundred dharmas—eight consciousnesses, fifty-one mental factors, eleven form dharmas, twenty-four dissociated formations, six unconditioned dharmas, exactly one hundred.
+The whole treatise opens with "non-self" and closes with "two kinds of selflessness." From 3.1 to 3.15, this book has walked fourteen chapters between these two sentences, unfolding the entire content of the hundred dharmas—eight consciousnesses, fifty-one mental factors, eleven form dharmas, twenty-four dissociated formations, six unconditioned dharmas, exactly one hundred.
 
 **The selflessness of the person** (personal non-self)—among these hundred dharmas, you cannot find one permanent, unitary, autonomous "self." The eight consciousnesses are not "self"; the mental factors are not "self"; form is not "self"; the dissociated formations are not "self"; suchness is not "some person" either. Examine the hundred dharmas one by one, and not a single dharma is **you.**
 
-**The selflessness of dharmas**—not only can "self" not be found; "dharmas" themselves are not self-existing entities. Every dharma is a dependently arisen coming-together of conditions, with no independently self-existing fixed essence—3.11 has already argued that form is the object-aspect projected by consciousness, 3.12 that the dissociated formations are conceptual designations upon states, 3.13 that the unconditioned dharmas are not separate from mind. The operation of dharmas is real (the dependent nature exists); the substance of dharmas is illusory (the imagined nature is empty).
+**The selflessness of dharmas**—not only can "self" not be found; "dharmas" themselves are not self-existing entities. Every dharma is a dependently arisen coming-together of conditions, with no independently self-existing fixed essence—3.12 has already argued that form is the object-aspect projected by consciousness, 3.13 that the dissociated formations are conceptual designations upon states, 3.14 that the unconditioned dharmas are not separate from mind. The operation of dharmas is real (the dependent nature exists); the substance of dharmas is illusory (the imagined nature is empty).
 
 The realization of the two selflessnesses is not of the same level. The śrāvakas and pratyekabuddhas first realize personal non-self (breaking self-grasping, severing the afflictive obstruction, realizing nirvāṇa); the bodhisattva, on the basis of realizing personal non-self, goes one step further, realizing the selflessness of dharmas (breaking dharma-grasping, severing the cognitive obstruction, realizing bodhi). **The Treatise on the Hundred Dharmas is a Mahāyāna treatise, and what it ultimately points toward is the dual realization of the two selflessnesses.**
 
-This is the beauty of the treatise's opening-and-closing circle: P01 opens its brush with "all dharmas are without self," which is the **proposition**—a claim that needs to be directly verified. 3.15 closes with "the two selflessnesses," which is **realization**—the proposition, after being examined through a hundred dharmas, observed through the four preparatory practices, and passed through the non-discriminating wisdom of the path of seeing, turned into wisdom personally verified. From proposition to realization, what lies between is exactly this entire road of practice.
+This is the beauty of the treatise's opening-and-closing circle: P01 opens its brush with "all dharmas are without self," which is the **proposition**—a claim that needs to be directly verified. 3.16 closes with "the two selflessnesses," which is **realization**—the proposition, after being examined through a hundred dharmas, observed through the four preparatory practices, and passed through the non-discriminating wisdom of the path of seeing, turned into wisdom personally verified. From proposition to realization, what lies between is exactly this entire road of practice.
 
 Here a second correction must be made: ⚠️ **finishing the S3 series does not amount to realizing the two selflessnesses.**
 

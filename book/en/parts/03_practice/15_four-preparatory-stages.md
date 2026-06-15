@@ -1,10 +1,10 @@
-## 3.14 The Four Preparatory Stages — From Knowing to Seeing
+## 3.15 The Four Preparatory Stages — From Knowing to Seeing
 
-You have finished reading 3.13.
+You have finished reading 3.14.
 
 Close the book. You have now walked the whole map of the hundred dharmas that this book lays out—the eight mind dharmas, the fifty-one mental factors, the eleven form dharmas, the twenty-four dharmas not associated with mind, the six unconditioned dharmas. Every one of them you have understood. You can state the proposition "all dharmas are without self," you can derive "the perfected nature is suchness," and you have passed through the twofold distinction of "the true nature of consciousness-only."
 
-Then you remember the last line of 3.13—
+Then you remember the last line of 3.14—
 
 **Reading and understanding ≠ realizing.**
 
@@ -38,7 +38,7 @@ Kuiji, in his *Commentary on the Diamond Sūtra*, uses a vivid image:
 
 The path of accumulation has at least three layers to lay down.
 
-**First, completeness of study and reflection.** The classification of the hundred dharmas, the structure of the three transformations of consciousness, the doctrine of the three natures and the three absences of nature—these must be so well integrated that you can draw on them and deploy them flexibly at any moment in meditation. Not "more or less remembered," but **an instinct of thought**. What 3.1 through 3.13 unfolds is one part of this study content, but **finishing the reading is far from enough**—you must reflect on it again and again, integrate it thoroughly, until the knowledge turns from "information stored in memory" into "a structure present in your reactions."
+**First, completeness of study and reflection.** The classification of the hundred dharmas, the structure of the three transformations of consciousness, the doctrine of the three natures and the three absences of nature—these must be so well integrated that you can draw on them and deploy them flexibly at any moment in meditation. Not "more or less remembered," but **an instinct of thought**. What 3.1 through 3.14 unfolds is one part of this study content, but **finishing the reading is far from enough**—you must reflect on it again and again, integrate it thoroughly, until the knowledge turns from "information stored in memory" into "a structure present in your reactions."
 
 **Second, the actual ground of discipline and concentration.** The observations of the four preparatory stages are carried out within meditative absorption. Without a stable capacity for calm-abiding and insight, you cannot, on the cushion, even keep tracking "name, referent, intrinsic nature, distinctions"—within five minutes the mind wanders off. This is not a matter of technique; it is that you simply **cannot enter that environment** at all. Asking someone who cannot swim to do precision underwater work in deep water—no amount of fine technical instruction will help.
 
@@ -65,7 +65,7 @@ The four investigations are four aspects of the hundred dharmas:
 - **Investigation of the conventional designation of intrinsic nature**—observing that the "intrinsic nature" defined for each dharma is a conventional designation. "The intrinsic nature of contact is the bringing together of faculty, object, and consciousness"—this definition is a teaching convenience, not the "true face" of contact.
 - **Investigation of the conventional designation of distinctions**—observing that the "distinctions" between one dharma and another are also conventional designations. Wholesome and unwholesome, conditioned and unconditioned—these classifications are coordinates on the map, not the terrain itself.
 
-These four, taken together, are the complete structure of the "imagined nature" discussed in 3.12—**the imagined-nature character of all dharmas just is the conventional designation of name, referent, intrinsic nature, and distinctions.** The *Sandhinirmocana Sūtra* defines it directly: "The imagined character of all dharmas is the conventional establishment of all dharmas through **name, intrinsic nature, and distinctions**, to the extent that it enables verbal expression." What the four investigations look at is exactly this.
+These four, taken together, are the complete structure of the "imagined nature" discussed in 3.13—**the imagined-nature character of all dharmas just is the conventional designation of name, referent, intrinsic nature, and distinctions.** The *Sandhinirmocana Sūtra* defines it directly: "The imagined character of all dharmas is the conventional establishment of all dharmas through **name, intrinsic nature, and distinctions**, to the extent that it enables verbal expression." What the four investigations look at is exactly this.
 
 The four investigations "see" the conventional designation; the four kinds of knowing-as-it-is "confirm" the conventional designation—not only seeing, but **affirming without regression**. This is the key difference between the two.
 
@@ -155,6 +155,6 @@ After that one instant, the map slips from your hands. You have lost nothing—t
 
 Here we make the final correction: ⚠️ **the four preparatory stages are not four meditation techniques that can be picked up separately**, the way you might choose "mindfulness of breathing" or "loving-kindness meditation" as standalone modules to train. They are four progressively deepening phases of one path of contemplative insight. If heat is unstable, you cannot enter summit; if the four investigations are not matured, the four kinds of knowing-as-it-is cannot arise; without the patience stage's affirmation of the emptiness of the apprehended, the supreme worldly dharma's emptiness of the apprehender cannot follow. **This is not a combination of techniques; it is the organic growth of wisdom.**
 
-The next chapter—**3.15 Transforming Consciousness into Wisdom: Coming Home**—takes up the question: once the fire bursts forth, what then? The path of seeing is only the beginning, not the end. After the path of seeing there is still the path of cultivation across the ten grounds, and still the path of completion in the fruit of Buddhahood. **The four wisdoms in full clarity**, the transformation of the basis across the eight consciousnesses, the move from effortlessness to the universal deliverance of all—that is the full landscape of the entire road.
+The next chapter—**3.16 Transforming Consciousness into Wisdom: Coming Home**—takes up the question: once the fire bursts forth, what then? The path of seeing is only the beginning, not the end. After the path of seeing there is still the path of cultivation across the ten grounds, and still the path of completion in the fruit of Buddhahood. **The four wisdoms in full clarity**, the transformation of the basis across the eight consciousnesses, the move from effortlessness to the universal deliverance of all—that is the full landscape of the entire road.
 
-If 3.13 told you where home is, and 3.14 told you how to walk there, what 3.15 has to tell you is: once you are home, what you will have become. The last chapter of S3 gathers the whole journey back to the most ancient of Buddhist promises—**afflictions are themselves awakening, birth-and-death is itself nirvāṇa; not going to a new place, but becoming who you originally are.**
+If 3.14 told you where home is, and 3.15 told you how to walk there, what 3.16 has to tell you is: once you are home, what you will have become. The last chapter of S3 gathers the whole journey back to the most ancient of Buddhist promises—**afflictions are themselves awakening, birth-and-death is itself nirvāṇa; not going to a new place, but becoming who you originally are.**

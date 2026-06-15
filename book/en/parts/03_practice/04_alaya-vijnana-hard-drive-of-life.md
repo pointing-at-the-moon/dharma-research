@@ -1,4 +1,4 @@
-## 3.3 The Ālaya-vijñāna — The Hard Drive of Life
+## 3.4 The Ālaya-vijñāna — The Hard Drive of Life
 
 If there is no permanent, unchanging "self," how does karma travel from this life to the next?
 

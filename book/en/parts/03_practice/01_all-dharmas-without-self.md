@@ -44,7 +44,7 @@ The *Cheng Weishi Lun* cites the *Triṃśikā* (Thirty Verses): "They depend on
 
 The first transformation is the ālaya-consciousness (the deep storehouse of mind), the fundamental storehouse of all seeds, which "turns ceaselessly like a torrent"—uninterrupted, yet changing in every instant. The second transformation is the manas-consciousness, the automatic mechanism that ceaselessly grasps the ālaya-consciousness as "self," the engine of self-grasping running twenty-four hours a day. The third transformation is the first six consciousnesses, the six cognitive functions you can directly observe.
 
-The interaction of the three transformations forms a cycle: the ālaya-consciousness holds the seeds; the seeds meet conditions and manifest as the activity of the first seven consciousnesses; the activity of the first seven consciousnesses then perfumes the ālaya-consciousness back into new seeds. This cycle of "seed → manifestation → perfuming → seed" is the basic operating mechanism of life. Chapter 3.2 will unfold this structure in full.
+The interaction of the three transformations forms a cycle: the ālaya-consciousness holds the seeds; the seeds meet conditions and manifest as the activity of the first seven consciousnesses; the activity of the first seven consciousnesses then perfumes the ālaya-consciousness back into new seeds. This cycle of "seed → manifestation → perfuming → seed" is the basic operating mechanism of life. Chapter 3.3 will unfold this structure in full.
 
 ### The Method of Contemplation: The Three Natures
 
@@ -72,4 +72,4 @@ Second, supposing that "all dharmas are consciousness-only" means that mind can 
 
 ---
 
-The map is spread open. The next step is to take apart the first region—the dynamic panorama of the eight consciousnesses. How do the three transformations work together? How does the ālaya-consciousness hold the seeds, how does the manas-consciousness grasp at "self," how do the first six consciousnesses produce karma? Chapter 3.2 unfolds this three-layered structure in full.
+The map is spread open. The next step is to take apart the first region—the dynamic panorama of the eight consciousnesses. How do the three transformations work together? How does the ālaya-consciousness hold the seeds, how does the manas-consciousness grasp at "self," how do the first six consciousnesses produce karma? Chapter 3.3 unfolds this three-layered structure in full.

@@ -1,4 +1,4 @@
-## 3.4 Manas — The Self-Grasping You Cannot See
+## 3.5 Manas — The Self-Grasping You Cannot See
 
 The last chapter dealt with the ālaya-vijñāna—the hard drive of life. That is the consciousness that is **seen**: it is like a vast warehouse, quietly storing away every seed, passing no judgments of its own, offering no interpretations, and not even knowing that anyone is watching it.
 
@@ -90,7 +90,7 @@ The starting point of this transformation lies in the stage of the ordinary bein
 
 ---
 
-3.3 introduced the ālaya-vijñāna—the hard drive that is seen. 3.4 introduced manas—the guard who never goes off duty, who is both constant and deliberate, who mistakes the hard drive's perceiving aspect for "I."
+3.4 introduced the ālaya-vijñāna—the hard drive that is seen. 3.5 introduced manas—the guard who never goes off duty, who is both constant and deliberate, who mistakes the hard drive's perceiving aspect for "I."
 
 But there is still one crucial character who has not yet appeared: **who is able to notice that manas is doing all this?**
 

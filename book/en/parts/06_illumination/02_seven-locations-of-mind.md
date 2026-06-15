@@ -68,7 +68,7 @@ Inside the body, outside the body, behind the faculty, in the darkness, the poin
 
 But what is "location" itself?
 
-The precision with which Yogācāra handles this question is astonishing. Among the dharmas dissociated from mind in the *Treatise on the Hundred Dharmas* (treated in detail back in 3.12), there is one item called "direction"—orientation, the points of the compass. The treatises say it plainly: direction is a borrowed designation, set up in dependence on the cause-and-effect distinctions among material things. East, south, west, and north have meaning only within the material world. Mind is not a material thing; it simply has no capacity to "occupy a direction" at all.
+The precision with which Yogācāra handles this question is astonishing. Among the dharmas dissociated from mind in the *Treatise on the Hundred Dharmas* (treated in detail back in 3.13), there is one item called "direction"—orientation, the points of the compass. The treatises say it plainly: direction is a borrowed designation, set up in dependence on the cause-and-effect distinctions among material things. East, south, west, and north have meaning only within the material world. Mind is not a material thing; it simply has no capacity to "occupy a direction" at all.
 
 Which is to say—the very question "where is mind" was the wrong question from the start.
 

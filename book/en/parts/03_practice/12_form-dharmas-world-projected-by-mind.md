@@ -1,4 +1,4 @@
-## 3.11 Form-Dharmas — The World Projected by Consciousness
+## 3.12 Form-Dharmas — The World Projected by Consciousness
 
 You step out your front door.
 
@@ -20,9 +20,9 @@ The five categories follow a logic running from agent to product, from cause to 
 
 This is one long narrowing of perspective running through the whole of Part III:
 
-- 3.1–3.6 unfolded the eight consciousnesses — "who is driving" is now clear;
-- 3.7–3.10 unfolded the fifty-one mental factors — "what mindset the driver brings" is clear too;
-- 3.11 unfolds form — "the road the car runs on, and the scenery along it" is now opening up.
+- 3.1–3.7 unfolded the eight consciousnesses — "who is driving" is now clear;
+- 3.8–3.11 unfolded the fifty-one mental factors — "what mindset the driver brings" is clear too;
+- 3.12 unfolds form — "the road the car runs on, and the scenery along it" is now opening up.
 
 But here Yogācāra throws down its greatest lever: **the road and the scenery are also projected by consciousness.** The practitioner is not driving through an objective external world but moving within a "world-aspect" projected by their own consciousness. This thesis dismantles not only the misreading of form but a deeper assumption underneath it — the dualistic split between "I" and "the world."
 

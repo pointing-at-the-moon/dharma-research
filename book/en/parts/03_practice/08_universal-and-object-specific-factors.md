@@ -1,6 +1,6 @@
-## 3.7 The Universals and the Object-Specifics—The Smallest Engine of Mind
+## 3.8 The Universals and the Object-Specifics—The Smallest Engine of Mind
 
-The end of 3.6 left a promise: to open the second drawer of the Yogācāra toolbox, the mental factors.
+The end of 3.7 left a promise: to open the second drawer of the Yogācāra toolbox, the mental factors.
 
 What are mental factors? They are **the psychological functions that necessarily, or conditionally, arise alongside consciousness whenever it operates**. The eight consciousnesses are the driver; the mental factors are what the driver is doing—alerting, contacting, feeling, identifying, constructing, hoping, judging, remembering, focusing, analyzing… These actions are not optional add-ons. As long as consciousness is moving, they are moving with it.
 
@@ -12,10 +12,10 @@ First, a map of the whole, so you know where this chapter sits:
 
 - **The five universals**: contact, attention, feeling, perception, volition—**present in every moment**. This chapter.
 - **The five object-specifics**: aspiration, resolve, mindfulness, concentration, discerning wisdom—**arising only under conditions**. This chapter.
-- **The eleven wholesome factors**: trust, vigor, conscience, shame… the fuel that turns the mind in a wholesome direction. 3.8.
-- **The six root afflictions**: craving, aversion, delusion, pride, doubt, wrong views—the engine of saṃsāra. 3.9.
-- **The twenty subsidiary afflictions**: the various secondary defilements that branch off from the root afflictions. 3.10.
-- **The four indeterminates**: regret, sleep, applied thought, sustained examination—undecided as to wholesome or unwholesome, depending on the situation. Handled together with 3.9.
+- **The eleven wholesome factors**: trust, vigor, conscience, shame… the fuel that turns the mind in a wholesome direction. 3.9.
+- **The six root afflictions**: craving, aversion, delusion, pride, doubt, wrong views—the engine of saṃsāra. 3.10.
+- **The twenty subsidiary afflictions**: the various secondary defilements that branch off from the root afflictions. 3.11.
+- **The four indeterminates**: regret, sleep, applied thought, sustained examination—undecided as to wholesome or unwholesome, depending on the situation. Handled together with 3.10.
 
 There is a logic to how the six groups are arranged: from "present in every moment" (the universals), to "activated by conditions" (the object-specifics), to "directional control" (the wholesome and the afflictions), to "secondary distortion" (the subsidiaries), to "decided by circumstance" (the indeterminates). This chapter begins with the two most fundamental groups.
 
@@ -45,7 +45,7 @@ This is the five universals. They need no "starting up" from you. As long as con
 
 Each of the five has its own definition:
 
-**Contact**—arising from the meeting of faculty, object, and consciousness, it causes mind and mental factors to contact the object together. The "the meeting of three gives rise to contact," which we met in 3.6 when discussing the first five consciousnesses, is exactly this contact. It is the shared basis of feeling, perception, and volition.
+**Contact**—arising from the meeting of faculty, object, and consciousness, it causes mind and mental factors to contact the object together. The "the meeting of three gives rise to contact," which we met in 3.7 when discussing the first five consciousnesses, is exactly this contact. It is the shared basis of feeling, perception, and volition.
 
 **Attention**—alerting the mind to arise, it draws the mind toward the present object. The mind does not turn toward anything on its own; it is attention that pulls the direction.
 
@@ -53,7 +53,7 @@ Each of the five has its own definition:
 
 **Perception**—taking the image of an object, designating the name. From "I see a shape" (taking the image) to "this is a flower" (designating the name), the perception factor is at work. It is neutral in itself, but it is also the earliest seedbed of imagined grasping—every conceptual fixation grows out of here.
 
-**Volition**—causing the mind to construct, it is the launcher of wholesome and unwholesome karma. The formation aggregate is the six bodies of volition; the "formations" among the five aggregates do not refer broadly to all mental activity, but specifically to "volition." The full argument for volition and the three types of karma (bodily, verbal, mental) was already unfolded in 3.5 under "in activating body and speech, it alone is supreme," when we discussed the sixth consciousness; we will not repeat it here.
+**Volition**—causing the mind to construct, it is the launcher of wholesome and unwholesome karma. The formation aggregate is the six bodies of volition; the "formations" among the five aggregates do not refer broadly to all mental activity, but specifically to "volition." The full argument for volition and the three types of karma (bodily, verbal, mental) was already unfolded in 3.6 under "in activating body and speech, it alone is supreme," when we discussed the sixth consciousness; we will not repeat it here.
 
 The five co-arising together form "the minimal complete structure of every moment of thought."
 
@@ -89,7 +89,7 @@ Pull out mindfulness, concentration, and discerning wisdom, and you will find th
 
 Place the universals and the object-specifics side by side, and a paradox surfaces that is crucial for practice.
 
-**The five universals are themselves neutral**—no wholesome, no unwholesome. The same "volition" can create the wholesome karma of saving someone or the unwholesome karma of harming someone; the same "attention" can run in the appropriate direction or in the distorted direction. The tool is faultless; whether wholesome or unwholesome is decided by how the universals pair up with other mental factors (the wholesome factors or the afflictive factors). This is the "wholesome or unwholesome assigned on the spot" we quoted in 3.5 when discussing consciousness—and only here does that line truly become operable.
+**The five universals are themselves neutral**—no wholesome, no unwholesome. The same "volition" can create the wholesome karma of saving someone or the unwholesome karma of harming someone; the same "attention" can run in the appropriate direction or in the distorted direction. The tool is faultless; whether wholesome or unwholesome is decided by how the universals pair up with other mental factors (the wholesome factors or the afflictive factors). This is the "wholesome or unwholesome assigned on the spot" we quoted in 3.6 when discussing consciousness—and only here does that line truly become operable.
 
 ⚠️ Another common misunderstanding to correct here: **the five universals are not "mental activity that only consciousness has."** They are necessarily present in all eight consciousnesses. Even the deepest, stillest ālaya-vijñāna associates only with the five universals—it is just that the ālaya-vijñāna's contact is so subtle it has no painful or pleasant quality, its feeling is solely neutral feeling, its perception takes no names, and its volition creates no wholesome or unwholesome karma. The five universals are "the minimal configuration for consciousness to operate," from the deepest ālaya to the most active first five consciousnesses, without exception. This means: you **cannot make the universals stop**. However deep the meditative absorption, however fine the calm-and-insight, as long as consciousness is present, the universals are present.
 

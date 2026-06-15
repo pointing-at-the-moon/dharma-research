@@ -1,4 +1,4 @@
-## 3.13 The Unconditioned Dharmas — Where the Hundred Dharmas End
+## 3.14 The Unconditioned Dharmas — Where the Hundred Dharmas End
 
 You come home.
 
@@ -6,7 +6,7 @@ The key turns in the lock. The lights are still off, but the late sun slants in 
 
 By this chapter, the journey through the hundred dharmas feels exactly like that.
 
-From 3.1 to 3.12, this book has taken apart, one layer at a time, the four classes of conditioned dharmas—the transforming power of the mind dharmas, the workings of the mental factors, the projection of the form dharmas, the designation of the factors dissociated from mind. With every layer peeled away, your grip on "self" and "world" loosened a little. By the end of 3.12, the dissociated factors had no resistance left to them at all; conditioned dharmas had thinned out to their thinnest point.
+From 3.1 to 3.13, this book has taken apart, one layer at a time, the four classes of conditioned dharmas—the transforming power of the mind dharmas, the workings of the mental factors, the projection of the form dharmas, the designation of the factors dissociated from mind. With every layer peeled away, your grip on "self" and "world" loosened a little. By the end of 3.13, the dissociated factors had no resistance left to them at all; conditioned dharmas had thinned out to their thinnest point.
 
 And then? Take one more step—where does it lead?
 
@@ -35,7 +35,7 @@ Here the first correction must be made. ⚠️ **The road to the unconditioned d
 
 **"Unconditioned" is the goal of practice, not its method.** The method is intensely conditioned; only the goal is unconditioned. The two must not be confused.
 
-The Āgamas also fixed early on the relationship between the unconditioned and the four marks: "The conditioned arises, abides, changes, and ceases; the unconditioned neither arises, nor abides, nor changes, nor ceases." Conditioned dharmas bear the four marks (and 3.12 has shown that these four marks are themselves only designated); unconditioned dharmas transcend the four marks. From the Āgamas down to Yogācāra, this skeleton holds without a break: the conditioned arises and perishes and cycles; the unconditioned neither arises nor perishes.
+The Āgamas also fixed early on the relationship between the unconditioned and the four marks: "The conditioned arises, abides, changes, and ceases; the unconditioned neither arises, nor abides, nor changes, nor ceases." Conditioned dharmas bear the four marks (and 3.13 has shown that these four marks are themselves only designated); unconditioned dharmas transcend the four marks. From the Āgamas down to Yogācāra, this skeleton holds without a break: the conditioned arises and perishes and cycles; the unconditioned neither arises nor perishes.
 
 ### The Shape of the Six Unconditioned Dharmas: Five Are Side-Profiles of Suchness, One Is Suchness Itself
 
@@ -61,13 +61,13 @@ These four can be sketched briefly, because each is "suchness as it shows in som
 
 **Non-analytical cessation**—when conditions are not complete, a dharma simply does not arise. This is not the permanent severance of afflictions (it "does not permanently destroy the latent afflictions") but the absence of the conditions for present activity. The seeds are still there; they merely have, for now, no chance to sprout.
 
-Non-analytical cessation points to an important strategy in practice. Beyond directly countering the afflictions with wisdom (the analytical-cessation route), you can also **actively manage the conditions**, so that the circumstances for unwholesome dharmas to manifest are kept absent—ordering your practice environment, choosing good spiritual friends and a community of practice, building a steady rhythm of daily life. This is the practical counterpart to the "non-combination" discussed in 3.12.
+Non-analytical cessation points to an important strategy in practice. Beyond directly countering the afflictions with wisdom (the analytical-cessation route), you can also **actively manage the conditions**, so that the circumstances for unwholesome dharmas to manifest are kept absent—ordering your practice environment, choosing good spiritual friends and a community of practice, building a steady rhythm of daily life. This is the practical counterpart to the "non-combination" discussed in 3.13.
 
 But know this: non-analytical cessation is a stopgap, not the final word. Once the conditions reassemble, the dharma can still arise. True liberation requires analytical cessation—permanent severance at the level of the seeds.
 
 **Immovable cessation**—from the fourth dhyāna upward, where neither pain nor pleasure arises, the quiet state in which the mind is not stirred. The Āgama's "attaining the fourth dhyāna... attaining an immovable mind" is this very state. "Immovable" carries two senses: unmoved by pain and pleasure (beyond the two extremes), and unmoved by worldly dharmas (settled in supramundane concentration). The *Laṅkāvatāra* calls the eighth-ground bodhisattva the "Immovable Ground," and the two resonate doctrinally—the bodhisattva who has attained the acceptance of the non-arising of dharmas is "immovable" not merely in the sense of meditative stillness, but in the sense of irreversibility with respect to suchness.
 
-**Cessation-of-perception-and-feeling unconditioned**—the unconditioned within the attainment of cessation. The first six consciousnesses cease, the defiled portion of the seventh consciousness ceases, and even "perception" and "feeling" come to rest. As 3.12 has already shown, this is a saintly attainment, "beyond ordinary beings."
+**Cessation-of-perception-and-feeling unconditioned**—the unconditioned within the attainment of cessation. The first six consciousnesses cease, the defiled portion of the seventh consciousness ceases, and even "perception" and "feeling" come to rest. As 3.13 has already shown, this is a saintly attainment, "beyond ordinary beings."
 
 The most crucial scriptural witness for the attainment of cessation comes from the *Cheng Weishi Lun*, fascicle four: "For one who abides in the attainment of cessation, the activities of body, speech, and mind have all ceased, yet the lifespan is not extinguished, warmth has not departed, the faculties are not impaired—**consciousness does not leave the body**... Moreover, if in this state there were no consciousness at all, the person would be like rubble or tile, no longer counted among the living." In the attainment of cessation, the first six consciousnesses and the defiled portion of the seventh stop completely, but **the eighth consciousness still sustains the body**. This is why one in the attainment of cessation is still a living being, not a corpse.
 
@@ -81,7 +81,7 @@ Of the six unconditioned dharmas, the one closest to practice is analytical cess
 
 "Analytical" is the **discerning** function of prajñā-wisdom; "cessation" is the **final non-arising** of contaminated dharmas; together they mean "freedom from bondage"—liberation from the binding of the afflictions. The *Vyākhyā*'s definition wastes no words: "Analytical cessation is the cessation that is liberation, because it **permanently destroys the latent afflictions**."
 
-The key is those four words, "permanently destroys the latent afflictions." As 3.9 and 3.10 have shown, the afflictions have both present activity and seeds; press down the present activity without cutting the seeds, and the afflictions return again and again. Analytical cessation severs them thoroughly at the **level of the seeds**—severed forever, never to arise again.
+The key is those four words, "permanently destroys the latent afflictions." As 3.10 and 3.11 have shown, the afflictions have both present activity and seeds; press down the present activity without cutting the seeds, and the afflictions return again and again. Analytical cessation severs them thoroughly at the **level of the seeds**—severed forever, never to arise again.
 
 There is a very deep point here, easily read past: **analytical cessation is not a new purity that practice "creates"; it is the original purity, showing itself once the obscuration is removed.** The *Cheng Weishi Lun*, fascicle nine, puts it precisely: "Though suchness is pure in nature, its appearance is defiled; therefore, when defilement is removed, we provisionally speak of a 'new purity,' and this new purity is called the transformation of the basis."
 
@@ -149,7 +149,7 @@ So the small equation reads:
 
 Three terms, one and the same thing. From the angle of "setting it apart from the false" it is called the real nature of consciousness-only; from the angle of "the third of the three natures" it is called the perfectly accomplished; from the angle of "the real nature of all dharmas, pervading everywhere" it is called suchness.
 
-This equation locks down one thing: **suchness is nowhere else.** It is the real nature of every one of the hundred dharmas. When you were reading 3.1 on the mind dharmas, the suchness of the mind dharmas was already there; when you were reading 3.11 on the form dharmas, the suchness of the form dharmas was already there; when you were reading 3.12 on the factors dissociated from mind, even those thinnest designated concepts had their suchness. It was only obscured by the thoroughly imagined, so you did not see it.
+This equation locks down one thing: **suchness is nowhere else.** It is the real nature of every one of the hundred dharmas. When you were reading 3.1 on the mind dharmas, the suchness of the mind dharmas was already there; when you were reading 3.12 on the form dharmas, the suchness of the form dharmas was already there; when you were reading 3.13 on the factors dissociated from mind, even those thinnest designated concepts had their suchness. It was only obscured by the thoroughly imagined, so you did not see it.
 
 The *Saṃdhinirmocana Sūtra* gives the path to seeing suchness with great clarity: "**Upon the other-dependent characteristic, through the condition of not grasping at the thoroughly imagined characteristic, the perfectly accomplished characteristic can be known.**" Do not leave the other-dependent to look elsewhere for the perfectly accomplished. **Upon** the other-dependent, remove the thoroughly imagined, and the perfectly accomplished shows of itself. The three natures are not three worlds; they are three facets of one and the same dharma.
 
@@ -164,7 +164,7 @@ Now we can look back over the whole arc.
 > mind dharmas → mental factors → form dharmas → dissociated factors → unconditioned dharmas
 > the transformer / the mental content / the projected material aspect / the conceptual designated aspect / the real nature of consciousness
 
-From the mind dharmas to the dissociated factors, the ontological density falls steadily all the way: the power to discern → functional correspondence → resistance → positional designation → not even designation left. With every layer peeled away, the grasping at "real existence" is loosened by one degree. By the end of 3.12, conditioned dharmas had thinned out to mere concept.
+From the mind dharmas to the dissociated factors, the ontological density falls steadily all the way: the power to discern → functional correspondence → resistance → positional designation → not even designation left. With every layer peeled away, the grasping at "real existence" is loosened by one degree. By the end of 3.13, conditioned dharmas had thinned out to mere concept.
 
 Take one more step, and you are at the unconditioned dharmas—not arriving at a new place, but discovering that the real nature of **this whole journey itself** is suchness.
 
@@ -189,6 +189,6 @@ This whole book, including this chapter, operates at the level of the **wisdom o
 
 The *Cheng Weishi Lun* describes the path of seeing as the "**direct realization** of the truth revealed by the two emptinesses." Direct realization, not understanding. Reading a hundred books on swimming is not the same as being able to swim; reading the discourse on suchness a hundred times is not the same as seeing suchness. What this book can do is draw the map clearly—which junction to turn at, what you will see along the way, which direction home lies in. Jumping into the water—that part you must do yourself.
 
-The next chapter—**3.14 Turning Consciousness into Wisdom: Coming Home**—deals with exactly this step. If 3.13 tells you where "home" is, 3.14 tells you how actually to come home. **The four wisdoms shining complete, the five stages of practice, the direct realization of the two emptinesses**—from reading the map to no longer needing the map, from knowing "all dharmas are without self" to living "all dharmas are without self."
+The next chapter—**3.15 Turning Consciousness into Wisdom: Coming Home**—deals with exactly this step. If 3.14 tells you where "home" is, 3.15 tells you how actually to come home. **The four wisdoms shining complete, the five stages of practice, the direct realization of the two emptinesses**—from reading the map to no longer needing the map, from knowing "all dharmas are without self" to living "all dharmas are without self."
 
 The whole of S3 is this single journey: it opens its brush with "all dharmas are without self," and comes home with "turning consciousness into wisdom."

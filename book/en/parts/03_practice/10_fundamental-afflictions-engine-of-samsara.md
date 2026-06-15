@@ -1,6 +1,6 @@
-## 3.9 The Fundamental Afflictions and the Indeterminates: The Engine of Saṃsāra
+## 3.10 The Fundamental Afflictions and the Indeterminates: The Engine of Saṃsāra
 
-In 3.8 we finished with the group of fuels that drives the vehicle toward liberation. But the fuel tank actually holds two sets, and this is the other one—the cluster of impurities that makes the vehicle slide deeper into saṃsāra.
+In 3.9 we finished with the group of fuels that drives the vehicle toward liberation. But the fuel tank actually holds two sets, and this is the other one—the cluster of impurities that makes the vehicle slide deeper into saṃsāra.
 
 ### The Six Fundamental Afflictions Are Not a List, but a Structure
 
@@ -11,7 +11,7 @@ The Treatise on the Hundred Dharmas lists six fundamental afflictions: **craving
 - **Conceit and doubt** are the subtle obstacles—harder to notice than craving and aversion, and harder to sever as well.
 - **Wrong views** are the systematic error at the level of cognition—they unfold into five kinds: view of self, extreme view, wrong view, view-grasping, and grasping at rules-and-observances.
 
-Continuing the vehicle metaphor from 3.7 and 3.8: if the wholesome mental factors are the clean fuel that drives the vehicle toward the light, the fundamental afflictions are the impurities mixed into that fuel—each kind throws the engine off in a different way, but added together they push it all in one direction: **saṃsāra**.
+Continuing the vehicle metaphor from 3.8 and 3.9: if the wholesome mental factors are the clean fuel that drives the vehicle toward the light, the fundamental afflictions are the impurities mixed into that fuel—each kind throws the engine off in a different way, but added together they push it all in one direction: **saṃsāra**.
 
 ### Delusion: The Root of Saṃsāra
 
@@ -79,7 +79,7 @@ This distinction explains why practice has the two stages of "path of seeing" an
 
 ### The "Four Non-Universalities" of Affliction: The Doctrinal Ground for the Possibility of Practice
 
-In 3.7 we analyzed the "four universalities" of the universal factors (universal in moral quality, in realm, in time, and in concomitance), and in 3.8 we analyzed how the wholesome factors possess only "universality in realm" and lack the other three. The fundamental afflictions of this chapter are **non-universal in all four**—lacking all four:
+In 3.8 we analyzed the "four universalities" of the universal factors (universal in moral quality, in realm, in time, and in concomitance), and in 3.9 we analyzed how the wholesome factors possess only "universality in realm" and lack the other three. The fundamental afflictions of this chapter are **non-universal in all four**—lacking all four:
 
 - **Not universal in moral quality**: afflictions are exclusively defiled—aversion is exclusively unwholesome, the remaining nine run across both the unwholesome and the morally neutral, but never the wholesome.
 - **Not universal across realms**: aversion exists only in the desire realm (in the form realm and above it is subdued by the power of concentration, and aversion does not arise); the rest, though running across all three realms, appear in the higher realms only in a faint, morally-neutral form.

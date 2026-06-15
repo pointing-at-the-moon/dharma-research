@@ -1,4 +1,4 @@
-## 3.5 The Sixth Consciousness — The Only Mind That Can Hold Up a Mirror
+## 3.6 The Sixth Consciousness — The Only Mind That Can Hold Up a Mirror
 
 The last chapter left us with a question. The ālaya-vijñāna cannot see itself (it does not discriminate at all). Manas cannot see itself (its whole job is to manufacture an illusion). The first five consciousnesses cannot see themselves (they have no such depth). **So then—who can see all of this?**
 
@@ -76,7 +76,7 @@ Consciousness is not running at every moment. The *Cheng Weishi Lun* lists five 
 
 This pattern of interruption carries an important implication for practice: **the power of awareness is not automatic and constant**. The eighth consciousness is constant but does not deliberate; the seventh is both constant and deliberating but only grasps at self—neither of them cuts out, but neither of them is awareness. The sixth consciousness is the true bearer of awareness, but it interrupts, it gets clouded over, it tires.
 
-So a good habit cannot be kept up by "staying clear and judging rightly at every single moment"—that can never last. What truly sustains practice is **the power of the seeds that repeated perfuming forms in the ālaya-vijñāna**. The seed theory of 1.7 and the perfuming-by-hearing of 3.3 come together here in one concrete practice: every act of awareness, every reflection in accord with reality, every recitation of the Buddha's name or watching of the breath, perfumes an uncontaminated seed into the storehouse; perfume enough of them, and even in the moments when the sixth consciousness is tired and slack, the seeds will sprout on their own and pull you back onto the path.
+So a good habit cannot be kept up by "staying clear and judging rightly at every single moment"—that can never last. What truly sustains practice is **the power of the seeds that repeated perfuming forms in the ālaya-vijñāna**. The seed theory of 1.7 and the perfuming-by-hearing of 3.4 come together here in one concrete practice: every act of awareness, every reflection in accord with reality, every recitation of the Buddha's name or watching of the breath, perfumes an uncontaminated seed into the storehouse; perfume enough of them, and even in the moments when the sixth consciousness is tired and slack, the seeds will sprout on their own and pull you back onto the path.
 
 ### Transforming the Basis—Wondrous Observing Wisdom
 
@@ -92,4 +92,4 @@ The *Avataṃsaka Sūtra* has a famous line: "**Mind is like a master painter, t
 
 ---
 
-3.5 has now laid out the full picture of the sixth consciousness—vast, able to watch, a maker of karma, and able to transform its basis. But every step of practice depends on contact at the level of the senses. In the next chapter, 3.6, we move to the very front line of the eight consciousnesses—**the first five consciousnesses**, the directness of the senses.
+3.6 has now laid out the full picture of the sixth consciousness—vast, able to watch, a maker of karma, and able to transform its basis. But every step of practice depends on contact at the level of the senses. In the next chapter, 3.7, we move to the very front line of the eight consciousnesses—**the first five consciousnesses**, the directness of the senses.
