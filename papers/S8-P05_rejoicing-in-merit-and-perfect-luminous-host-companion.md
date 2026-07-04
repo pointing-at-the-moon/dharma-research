@@ -391,9 +391,9 @@ The present paper closes here.
 - **S7-P03/P07** (*Lotus*: opening-revealing-awakening-entering and the Dragon Girl's buddhahood): the Dragon Girl's "buddhahood at age eight" can be read precisely under the *xíngfó fēi wèifó* framework — what the Dragon Girl attains is conduct-buddhahood, not stage-jumping presumption.
 - **S8-P01** (Ocean-Seal Samādhi and the saying of the unsayable): the "bodhi universally imprints all mental activity" line in §II.A 2.2.2 is the definitional formulation of the Ocean-Seal Samādhi, fully unfolded in S8-P01 and S8-P07.
 - **S8-P03/P04** (Vows Three and Four): P05 shares with P03 the host-companion ground and with P04 the *xíngfó fēi wèifó* exit, differing only in which gate each enters from.
-- **S8-P06** (Petitioning the Dharma Wheel and Indra's-Net Realm — forthcoming): host-companion is the prior structure of Indra's net — two-position symmetry vs. infinite layered repetition.
-- **S8-P09** (Sudhana prologue — forthcoming): Sudhana's tower-vision in §II.B 2.7 will receive its full unfolding there.
-- **S8-P10** (the systematic ten-vows × ten-gates correspondence — forthcoming): P05 is the fully-developed advance deployment of one node; the original-thesis defense will hard-launch in P10 §VI.
+- **S8-P06** (Petitioning the Dharma Wheel and Indra's-Net Realm): host-companion is the prior structure of Indra's net — two-position symmetry vs. infinite layered repetition.
+- **S8-P09** (Sudhana prologue): Sudhana's tower-vision in §II.B 2.7 will receive its full unfolding there.
+- **S8-P10** (the systematic ten-vows × ten-gates correspondence): P05 is the fully-developed advance deployment of one node; the original-thesis defense will hard-launch in P10 §VI.
 - **S8-P11** (the ten vows under ten windows): the affective sketch of jealousy / indifference / rejoicing in S8-P11 receives its academic substrate in §VI of the present paper.
 
 ---

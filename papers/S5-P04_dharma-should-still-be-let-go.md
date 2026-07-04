@@ -509,10 +509,10 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 | S5-P02 The Kōan Mirror | The knowing/realization distinction provides criteria for judging whether "letting go" is genuine: "knowing" about letting go ≠ "accomplishing" letting go. "I have already let go" = a new self-portrait submitted to the mirror |
 | S5-P03 All Marks Are Illusory | P03 = first cut (cutting marks), P04 = preview of the second cut (cutting dharma). §5→§6 is direct sūtra sequencing |
 | S5-P07 The Diamond Sūtra's Self-Replay | P07 reveals §6's special position in the dual-layer structure: the first half's prophecy, the second half's entrance. Vasubandhu's "harboring 'I am a bodhisattva'" = the precise diagnosis of carrying the raft while walking |
-| S5-P05 Merit Comparisons (forthcoming) | Giving is a specific instance of the raft — in merit comparisons, giving is wholesome activity (right use of paratantra); clinging to the merit of giving is carrying the raft (parikalpita) |
-| S5-P06 Abide Nowhere Yet Give Rise to Mind (forthcoming) | "Abide nowhere yet give rise to mind" = the inner-heart version of the raft analogy — non-abiding = not carrying the raft; giving rise to mind = continuing to walk and ferry beings |
-| S5-P09 All Conditioned Dharmas Are Like a Dream (forthcoming) | §32's six similes = the final act of letting go — even similes themselves are rafts |
-| S5-P10 From the Hundred Dharmas to the Diamond (forthcoming) | S3's hundred dharmas are a precision-crafted raft; S5 teaches you to use it and set it down. P07's framework: S3 = construction (building the raft), S5 = elevation (using then releasing the raft) |
+| S5-P05 Merit Comparisons | Giving is a specific instance of the raft — in merit comparisons, giving is wholesome activity (right use of paratantra); clinging to the merit of giving is carrying the raft (parikalpita) |
+| S5-P06 Abide Nowhere Yet Give Rise to Mind | "Abide nowhere yet give rise to mind" = the inner-heart version of the raft analogy — non-abiding = not carrying the raft; giving rise to mind = continuing to walk and ferry beings |
+| S5-P09 All Conditioned Dharmas Are Like a Dream | §32's six similes = the final act of letting go — even similes themselves are rafts |
+| S5-P10 From the Hundred Dharmas to the Diamond | S3's hundred dharmas are a precision-crafted raft; S5 teaches you to use it and set it down. P07's framework: S3 = construction (building the raft), S5 = elevation (using then releasing the raft) |
 | S3 Hundred Dharmas Series | The hundred dharmas are a paratantra classification system — all one hundred dharmas are rafts |
 | S2-P09 No Suffering, No Path | The Four Noble Truths are themselves a raft — "no suffering, no origination, no cessation, no path" = the jífēi treatment of the Four Truths, corresponding to the raft analogy's dharma-emptiness teaching |
 

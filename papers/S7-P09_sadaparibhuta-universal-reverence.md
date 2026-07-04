@@ -334,14 +334,14 @@ This paper does not rely on modern scholarship; all arguments are grounded direc
 | §II.A.2 Five-layer Lotus narrative | S7-P08 §I (documentary triangle) | Same "three-recension collation" method (T0262/T0263/T0264) used in P08 to establish narrative stability |
 | §II.A.3 Tathāgatagarbha substrate | S6 (Śūraṅgama), S8 (Avataṃsaka) | *Śrīmālā* / *Laṅkāvatāra* / *Foxing lun* already drawn on in S6 and S8; here deployed as the ontological warrant for universal reverence |
 | §II.B.2 Kuiji confluence passage | S7-P08 §III, §VI | P08 = first witness of dual-track confluence (Kuiji on Nāga princess + Nirvāṇa-sūtra parallel); the present paper = second witness (Kuiji on Sadāparibhūta simultaneously deploying saṃbhogakāya/dharmakāya Tathāgatagarbha *and gotra*/*vāsanā*) |
-| §III.1 Thesis I | S7-P01, P02, P08, P11 (forthcoming) | Three-fold witness chain of "Tathāgatagarbha + Yogācāra dual-track confluence" in S7: P08 first (limit case) → P09 second (ordinary case) → P11 third (the root-teaching, fundamental lifespan) |
+| §III.1 Thesis I | S7-P01, P02, P08, P11 | Three-fold witness chain of "Tathāgatagarbha + Yogācāra dual-track confluence" in S7: P08 first (limit case) → P09 second (ordinary case) → P11 third (the root-teaching, fundamental lifespan) |
 | §III.2 Thesis III | S1 Āgama series, S4 AI series | The structural-identity method ("Āgamic seed → Lotus dramatization") established in S1 and S4; applied here to *mettā* → universal reverence |
 | §III.3 Operationalization of prediction | S7-P07, P08 prediction chapters | P07 and P08 treat prediction as "statement/seed-statement"; the present paper completes the final inversion—prediction elevated into a three-karma practice |
 | §IV.1 Danger #7 | S3 Hundred Dharmas series, S7-P08 §V | Yogācāra pragmatics of seed doctrine; P08 §V already invoked the Madhyamaka warning, here supplemented by the Āgamic "swiftly attaining nirvāṇa" as a Middle-Way balance |
 | §IV.2 Danger #8 | S1 Āgama series, S6 Śūraṅgama | Āgamic "inward forbearance, outward withdrawal" two-track + Zhiyi's three-rules reading (the Tathāgata's robe as the robe of gentle forbearance) together break the "stand still and be beaten" misreading |
 | §IV.3 Danger #2 | entire S5 Diamond Sūtra series | The Diamond Sūtra's four-marks-erased structure as the structural constraint on universal reverence; S5's "cut" and S7's "gather" converge here |
 | §V Cross-series callbacks | S5, S7-P08, S7-P10 | Sadāparibhūta (inner-stance universal gate) → Avalokiteśvara (outward-manifestation universal gate) → Tathāgata's lifespan (dharmakāya ever-abiding): the three-chapter progression |
-| §VI Conclusion | S7-P10 Avalokiteśvara (forthcoming) | Once the inner stance of universal reverence is established, it lays the groundwork for the outward-manifestation universal gate of Avalokiteśvara |
+| §VI Conclusion | S7-P10 Avalokiteśvara | Once the inner stance of universal reverence is established, it lays the groundwork for the outward-manifestation universal gate of Avalokiteśvara |
 
 ---
 

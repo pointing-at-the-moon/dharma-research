@@ -294,8 +294,8 @@ All argumentation draws directly on Taishō Tripiṭaka primary sources. No mode
 | §II.B.1 | S7-P05 Medicinal Herbs | Vasubandhu's seven-conceit system: Herbs (third), Robe-Jewel (fifth), Topknot-Jewel (sixth) — parallel toolbox |
 | §3.1 | S5-P01 Diamond Sūtra | Four-condition structure of intrinsic seeds and the *jífēi* formula |
 | §4.1 | S2-P02 Avalokiteśvara Loop | Avalokiteśvara-loop (self-power reflection) vs. Robe-Jewel loop (other-power encounter): interior and exterior awakening |
-| §4.2 | S7-P08 Devadatta (forthcoming) | Universality of intrinsic seed as the foundation for the logic of prediction in P08 |
-| §4.2 | S7-P09 Sadāparibhūta (forthcoming) | Converting intrinsic universality into practice: bowing to all beings |
+| §4.2 | S7-P08 Devadatta | Universality of intrinsic seed as the foundation for the logic of prediction in P08 |
+| §4.2 | S7-P09 Sadāparibhūta | Converting intrinsic universality into practice: bowing to all beings |
 | §4.3 | S8 Huayan series (forthcoming) | "Intrinsic–encounter" structure as necessary precondition for Huayan's *dharmadhātu-pratītyasamutpāda* |
 
 ---

@@ -459,7 +459,7 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 | S2-P06 The True Mark of All Dharmas: This Mind Is Unborn and Unceasing | Six negations establish mind-nature → this paper uses mind-nature as the instrument, illuminating all eighteen dhātus as empty |
 | S1-P03 Yogācāra Positioning of LLM | The eight-consciousness system → this paper applies the eight-consciousness division of labor within the eighteen dhātus |
 | S5-P01 Diamond Prajñā: Jífēi Tripartite Formula | Kuiji's trisvabhāva mapping → methodological precedent for this paper's Superior Emptiness / As-Appropriate dialectic |
-| S2-P08 (forthcoming) Ignorance as Perceptual Inversion | Eighteen dhātus deconstruct the structure of cognition → P08 asks why this structure traps you: ignorance |
+| S2-P08 Ignorance as Perceptual Inversion | Eighteen dhātus deconstruct the structure of cognition → P08 asks why this structure traps you: ignorance |
 
 ---
 

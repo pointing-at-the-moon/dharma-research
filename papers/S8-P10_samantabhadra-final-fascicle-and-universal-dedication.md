@@ -324,7 +324,7 @@ S8-P11 has already treated the unfolded correspondence of "Ten Great Vows × Ten
 - S8-P02 〈The Position of Yogācāra in the Five-Teaching Classification〉 — multi-tier audience structure in §6.6
 - S8-P08 〈The Six Characteristics in Perfect Fusion〉 — shared perfect-teaching background
 - S8-P11 〈The Ten Great Vows Beneath the Ten Windows〉 §3.11.乙 — synchronous anchor for the correspondence table in §6.3
-- S8-P12 (forthcoming) — framing-final-volume closure preview
+- S8-P12 — framing-final-volume closure preview
 
 ## Footnotes
 

@@ -460,11 +460,11 @@ In the merit-comparison passages, "upholding four lines of verse surpasses givin
 | S5-P01 Diamond Prajñā: Jífēi Tripartite Formula as Trisvabhāva Mapping | Doctrinal foundation: P01 establishes the trisvabhāva mapping; P03 applies it to the concrete object of "marks" |
 | S5-P02 The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra | Methodological foundation: P02 establishes the kōan-mirror framework; P03 §3.5 reads Subhūti's §26 wrong answer through the kōan mirror |
 | S5-P07 The Diamond Sūtra's Self-Replay | Macro-structural foundation: P07 reveals the dual-layer structure (first half = kleśāvaraṇa / person-emptiness, second half = jñeyāvaraṇa / dharma-emptiness); P03's §5 belongs to the first half's first cut, but "whatever has" already anticipates the second half; P07's marks-to-views upgrade corresponds to the progression from P03's first three layers to the last two |
-| S5-P04 Dharma Should Still Be Let Go (forthcoming) | If even the Buddha's teaching is a "mark" to be cut, where does practice motivation come from? The full raft analogy |
-| S5-P06 Give Rise to a Mind That Abides Nowhere (forthcoming) | After all marks are illusory, where does the mind "abide"? The simultaneity of non-abiding and arising |
-| S5-P08 The Tathāgata Cannot Be Seen by Means of Marks (forthcoming) | Full development of the §5/§13/§20/§26 "seeing by means of marks" theme |
-| S5-P09 All Conditioned Dharmas Are Like Dreams (forthcoming) | From "whatever has marks" to "all conditioned dharmas" — from the illusoriness of marks to the illusion-like nature of the conditioned |
-| S5-P10 From the Hundred Dharmas to Diamond (forthcoming) | S3's hundred dharmas as a precise classification of "marks"; S5 reveals they are all paratantra |
+| S5-P04 Dharma Should Still Be Let Go | If even the Buddha's teaching is a "mark" to be cut, where does practice motivation come from? The full raft analogy |
+| S5-P06 Give Rise to a Mind That Abides Nowhere | After all marks are illusory, where does the mind "abide"? The simultaneity of non-abiding and arising |
+| S5-P08 The Tathāgata Cannot Be Seen by Means of Marks | Full development of the §5/§13/§20/§26 "seeing by means of marks" theme |
+| S5-P09 All Conditioned Dharmas Are Like Dreams | From "whatever has marks" to "all conditioned dharmas" — from the illusoriness of marks to the illusion-like nature of the conditioned |
+| S5-P10 From the Hundred Dharmas to Diamond | S3's hundred dharmas as a precise classification of "marks"; S5 reveals they are all paratantra |
 | S3 Hundred Dharmas Series | S3 constructs the dharma-classification system; S5-P03 identifies these classifications as falling within the scope of "whatever has marks" |
 | S2-P04 Illuminating the Emptiness of the Five Aggregates | The Heart Sūtra's "illuminating the emptiness of the five aggregates" and the Diamond Sūtra's "whatever has marks is illusory" as parallel articulations of the same prajñā insight |
 

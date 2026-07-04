@@ -380,7 +380,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 | Related Paper | Connection |
 |--------------|------------|
 | S2-P01: The Title of the Heart Sūtra as Teaching Itself | Continues from title deconstruction into the sūtra's first sentence |
-| S2-P03 (forthcoming: Deepening the Five Aggregates) | The four form-emptiness statements and the Yogācāra reading of the aggregates |
+| S2-P03 (Deepening the Five Aggregates) | The four form-emptiness statements and the Yogācāra reading of the aggregates |
 | S1-P02: Bodhicitta and Dharma-Flow | The causal-level aspiration mechanism and dharma-flow empowerment |
 | S1-P03: Yogācāra Positioning of Large Language Models | Pratyavekṣaṇā-jñāna vs the five universal mental factors as criterion |
 | S1-P09: Prerequisites of the Dharma-Vessel | Transition from Series 1 aspiration to Series 2 prajñā practice |

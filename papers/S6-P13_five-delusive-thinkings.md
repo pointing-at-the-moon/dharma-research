@@ -690,7 +690,7 @@ P13 is the formal construction of this bridge. From the close of this section on
 | S6-P10 *Perception Aggregate Ten Phenomena: Seeking the Great Teacher* | §3.4, §6.1 | Perception-aggregate "seek-the-great-teacher" remedial principle. |
 | S6-P11 *Formations Aggregate Ten Māras: The Mirror-Student* | §3.4, §6.1 | Formations-aggregate "do-not-form-a-holy-interpretation" remedial principle. |
 | S6-P12 *Consciousness Aggregate Ten Māras: The Last Grasping Between the Two Pillars* | §3.4, §3.7, §6.1, §6.2 | Consciousness-aggregate "do-not-establish-supreme-understanding-and-turn-the-mind" remedial principle; the verdict on "fixed-nature two vehicles"; citation of "all clear and bright dharma-body remains short of the ultimate." |
-| S7-P01 *The True Mark of All Dharmas: The Ten Suchnesses* (forthcoming) | §3.7, §6.4 | The *Lotus*'s "opening the provisional, revealing the real" and the "conjured city / treasure-place" parable as the formal correspondent of the S6→S7 bridge. |
+| S7-P01 *The True Mark of All Dharmas: The Ten Suchnesses* | §3.7, §6.4 | The *Lotus*'s "opening the provisional, revealing the real" and the "conjured city / treasure-place" parable as the formal correspondent of the S6→S7 bridge. |
 
 ---
 

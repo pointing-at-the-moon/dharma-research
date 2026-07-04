@@ -465,7 +465,7 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 | S2-P05 *Form is Emptiness: The Production Line of Suffering* | Methodological precedent for the three-natures mapping. P05 reads the five aggregates as the contaminated portion of the *paratantra*; the present paper applies the same three-natures structure to the convergence of the one vehicle. |
 | S3-SUP01 *The Four Preparatory Stages* | Methodological precedent for *homonymous distinction*. S3-SUP01 handles the *Śūraṅgama*'s "four preparatory stages" vs. the Yogācāra's "four wholesome roots" using the same principle that §3.4.1 of the present paper applies to "single-vehicle path" vs. "one buddha-vehicle." |
 | S5-P01 *The Diamond Sūtra's "It is X / It is Not X / Therefore It is X": Mapping the Three Natures* | Companion three-natures argument. S5-P01 maps the *Diamond Sūtra*'s "is/is-not" structure onto the three natures; the present paper maps the *Lotus*'s "convergence of the three vehicles into one" onto the same structure. They share a single Yogācāra methodology. |
-| S7-P03 *The Parable of the Burning House* (forthcoming) | Direct sequel. The open question this paper leaves at §VI is precisely what S7-P03 is designed to answer through the dramatic mechanism of the burning house parable. |
+| S7-P03 *The Parable of the Burning House* | Direct sequel. The open question this paper leaves at §VI is precisely what S7-P03 is designed to answer through the dramatic mechanism of the burning house parable. |
 
 ---
 

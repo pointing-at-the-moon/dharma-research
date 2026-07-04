@@ -412,7 +412,7 @@ This paper does not rely on modern scholarship as citational support; all argume
 | §3.3 | S7-P05 Medicinal Herbs §3.x | Continuation of the same restriction strategy |
 | §4.1 | S2-P02 Avalokiteśvara Loop | Conjured-city specialization of the four-step loop |
 | §4.4 | S5-P01 Jífēi and the Three Natures | Structural correspondence between the "conjure / dissolve" movement and the *jífēi* formula |
-| §4.3, §6 Open question | S7-P11 Lifespan Chapter (forthcoming) | Precursor to the trace/origin double-mote structure |
+| §4.3, §6 Open question | S7-P11 Lifespan Chapter | Precursor to the trace/origin double-mote structure |
 | §6 Open question | S8 Avataṃsaka series (forthcoming) | The "from where does the expedient come?" question reopened under *dharmadhātu pratītyasamutpāda* |
 
 ---

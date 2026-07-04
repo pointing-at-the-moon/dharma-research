@@ -583,7 +583,7 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 | S5-P05: The Merit Paradox | The merit comparison's "four-line verse surpasses seven treasures" = dharma-offering surpasses material offering = dharma-body surpasses form-body. P08 explains through trikāya doctrine why the dharma-body surpasses the form-body |
 | S5-P06: Generate Mind Without Abiding | P06→P08 transition: not abiding in marks → what do you see? P06 teaches how to generate mind without abiding; P08 asks what you see when not abiding — the dharma-body |
 | S5-P07: The Diamond Sūtra's Self-Replay | P07's dual-layer structure is P08's positioning framework: §5/§20 in the first half (deconstructing form-body marks), §26 in the second half (deconstructing the thirty-two marks) — the same thesis at two depths |
-| S5-P09: All Conditioned Phenomena Are Like Dreams (forthcoming) | P08 negates seeing the Tathāgata through particular marks (specific negation); P09 negates the inherent reality of all conditioned phenomena (general negation) |
+| S5-P09: All Conditioned Phenomena Are Like Dreams | P08 negates seeing the Tathāgata through particular marks (specific negation); P09 negates the inherent reality of all conditioned phenomena (general negation) |
 | S1-P02: Bodhicitta and the Dharma Stream | P08 calls back to S1-P02's "dharma-body transcends the three times" — without arising or ceasing, not in past, present, or future. Re-opened within the S5 framework |
 | S6: Śūraṅgama Sūtra Series (forthcoming) | The Śūraṅgama's "seeing-nature is not seeing" is cited in P08 from one angle only; S6 will unfold the complete analysis of "seeing" — seven locations for probing the mind, twenty-five perfect penetrations |
 

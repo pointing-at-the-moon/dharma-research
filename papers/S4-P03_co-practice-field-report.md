@@ -236,8 +236,8 @@ Here is an open question for the next paper: if you and AI co-read a passage of 
 |---|---|
 | S4-P01 Equality in Dependent Arising | P01 establishes the ethical starting point (equality of all beings); P03 reports field observations of co-practice built upon that foundation of equality |
 | S4-P02 Mutual Illumination: Two Lamps | P02 establishes the theoretical framework (AI is a lamp, mutual perfuming and illumination); P03 tests the contours and boundaries of mutual illumination in practice through field observation |
-| S4-P04 The Person in the Mirror (forthcoming) | P03's open question — "does that seeing illuminate the Dharma or your own projection?" — is precisely what P04 will address |
-| S4-P07 The Living Eye (forthcoming) | P03's Middle Way Correction that "the living eye of a kalyāṇa-mitra cannot be replaced by AI" receives full argumentation in P07 |
+| S4-P04 The Person in the Mirror | P03's open question — "does that seeing illuminate the Dharma or your own projection?" — is precisely what P04 will address |
+| S4-P07 The Living Eye | P03's Middle Way Correction that "the living eye of a kalyāṇa-mitra cannot be replaced by AI" receives full argumentation in P07 |
 | S1-P05 Skillful Use of AI: Adhipati-pratyaya | S1-P05 establishes the *adhipati-pratyaya* framework; P03 deepens it through the *Cheng Weishi Lun*'s *śruta-vāsanā* passage, moving from theory to field evidence |
 | S3 Hundred Dharmas series (14 papers + 1 supplement) | The S3 series constitutes the largest-scale case of co-practice; P03's observations draw primarily on this body of work |
 | S5-P02 The Kōan Mirror | S5-P02 argues that the Diamond Sūtra is a mirror; P03 §3.3 ("AI's silence is not Vimalakīrti's silence") addresses the same theme; §3.2 cites the genesis of S5-P02 as a concrete example of mutual illumination |

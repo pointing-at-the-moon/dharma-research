@@ -376,7 +376,7 @@ The argument has unfolded in three layers: **textual fact** (the four-step closi
 
 - **P05 〈Practicing-Buddha, Not Stage-Buddha — A Perfect-Teaching Reading of "Faith-Consummation Is Buddhahood"〉**: §1.3, §3.2, §VI (Meghaśrī as First Abode as the concrete instance of "faith-consummation entering abodehood").
 - **P11 〈Ten Great Vows under Ten Windows〉**: §1.2 (the overall architecture of the Vow 9 × tenth-profound-gate pairing).
-- **P10 〈*Pǔ jiē huí xiàng* × The Gate of the Distinct Formation of the Ten Time-Periods Mutually Permeating〉 (forthcoming)**: §1.4, §VI (Vow 9 and Vow 10 as two phases of one act).
+- **P10 〈*Pǔ jiē huí xiàng* × The Gate of the Distinct Formation of the Ten Time-Periods Mutually Permeating〉**: §1.4, §VI (Vow 9 and Vow 10 as two phases of one act).
 - **S8.5 Sudhana's Southward Journey sub-series (forthcoming)**: §VI (this paper as the sub-series prologue).
 
 ---
@@ -397,7 +397,7 @@ The argument has unfolded in three layers: **textual fact** (the four-step closi
 
 [^7]: Ibid., fascicle 62.
 
-[^8]: T0293 *Dafangguang fo huayan jing*, fascicle 4 (40-fascicle *Huayan*, *Practices and Vows of Samantabhadra*, first visit, Jixiangyun episode), T10, no. 293. For the detailed comparison of the three translations, see RAG files s8p09_q03 / q04 / q05.
+[^8]: T0293 *Dafangguang fo huayan jing*, fascicle 4 (40-fascicle *Huayan*, *Practices and Vows of Samantabhadra*, first visit, Jixiangyun episode), T10, no. 293.
 
 [^9]: For the detailed enumeration, see T0279, fascicle 62, Meghaśrī episode. §3.1 of this paper develops the distinction between "Huayan-style buddha-recollection" and "recitation-of-the-name *nianfo*."
 
@@ -423,7 +423,7 @@ The argument has unfolded in three layers: **textual fact** (the four-step closi
 
 [^20]: *Jin shizi zhang yunjian leijie*, fascicle 1, T1880, T45. Citing the *Greater Commentary*.
 
-[^21]: Detailed sūtra sources: T0279, fascicle 62 (Meghaśrī, Sāgaramegha, Supratiṣṭhita episodes); fascicle 63 (Megha episode). For the full *verbatim* citations, see RAG file s8p09_q13_shanzhishi_qiantui.md. The table here is a comparative summary of the four-step structure; the citations have been compressed in order to foreground the structure.
+[^21]: Detailed sūtra sources: T0279, fascicle 62 (Meghaśrī, Sāgaramegha, Supratiṣṭhita episodes); fascicle 63 (Megha episode). The table here is a comparative summary of the four-step structure; the citations have been compressed in order to foreground the structure.
 
 [^22]: The three cross-disciplinary references (Freire / Maturana–Varela / Collins) are all original-source foundational works and do not depend on secondary literature. All three are marked with ⚠️ as heuristic analogies and do not constitute theoretical equivalence.
 

@@ -356,11 +356,11 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 | Paper | Relationship to This Paper |
 |-------|---------------------------|
 | S3-P01 All Dharmas Are Without Self | P01 establishes the five-category Hundred Dharmas framework and Three Transformations overview; this paper expands the eight-consciousness panorama on that foundation |
-| S3-P03 Ālaya-vijñāna (forthcoming) | This paper surveys the first transformation; P03 will explore ālaya's three meanings, six characteristics of seeds, and the process of perfuming and maintaining |
-| S3-P04 Manas (forthcoming) | This paper surveys the second transformation; P04 will examine the four afflictions, constant deliberation, and the Equality Wisdom |
-| S3-P05 The Sixth Consciousness (forthcoming) | This paper surveys the sixth in the context of the third transformation; P05 will explore its three natures, three modes, three object-types, and five operational modes |
-| S3-P06 The First Five (forthcoming) | This paper surveys the five sense-consciousnesses; P06 will explore the nine conditions, and the practice space between direct perception and deliberation |
-| S3-P14 Transformation into Wisdom (forthcoming) | This paper previews the four wisdoms; P14 will fully develop the five-stage cultivation path and the consummation of four wisdoms |
+| S3-P03 Ālaya-vijñāna | This paper surveys the first transformation; P03 will explore ālaya's three meanings, six characteristics of seeds, and the process of perfuming and maintaining |
+| S3-P04 Manas | This paper surveys the second transformation; P04 will examine the four afflictions, constant deliberation, and the Equality Wisdom |
+| S3-P05 The Sixth Consciousness | This paper surveys the sixth in the context of the third transformation; P05 will explore its three natures, three modes, three object-types, and five operational modes |
+| S3-P06 The First Five | This paper surveys the five sense-consciousnesses; P06 will explore the nine conditions, and the practice space between direct perception and deliberation |
+| S3-P14 Transformation into Wisdom | This paper previews the four wisdoms; P14 will fully develop the five-stage cultivation path and the consummation of four wisdoms |
 | S1-P01 The Butterfly Effect of Initial Aspiration | S1-P01 asked "Who is driving?" — this paper formally answers: within the Three Transformations hierarchy, each of the eight consciousnesses has its assigned role |
 | S2-P03 Going Deep Inward into the Formations | S2's prajñā-emptiness observation and this paper's Yogācāra-existence analysis are complementary — S2 illuminates that the five aggregates are empty; S3 disassembles those aggregates into a hundred dharmas |
 

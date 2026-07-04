@@ -352,7 +352,7 @@ S8-P04 ends here.
 | S2-P04 *Heart Sūtra: Illuminating the Emptiness of the Five Aggregates* | Establishes the prajñāpāramitā emptiness foundation that must precede Huayan nature-arising; §V of this paper explicitly cross-reads "all of the same nature, namely: no nature" against the Heart Sūtra's "all five aggregates are empty." Without this emptiness preparation, nature-arising (性起) is easily misread as substance-ontology. |
 | S5-P01 *Diamond Sūtra: The Tripartite Formula A → Not-A → Therefore Named A* | Establishes the non-reificatory grammar (即非結構) that prevents substantializing any positive claim; §V shows that Huayan's "simultaneously complete affirmation and emptiness-cancellation" inherits this grammatical discipline from the Diamond Sūtra. |
 | S6 *Śūraṅgama Sūtra* (thirteen papers) | S6 concludes with the tathāgatagarbha doctrine; S8-P04 §VI formally repositions that conclusion as the starting point of Huayan Perfect Teaching, using Tongrun's *Baojing Commentary* as the bridge document mapping S6's three tathāgatagarbha forms onto Huayan's fourfold dharmadhātu. This section constitutes the official S6 → S8 handoff. |
-| S8-P05 *Completion of Buddhahood at the Fullness of Faith* (forthcoming) | The nature-arising doctrine of "when one attains, all attain" (一成一切成) established in this paper is the doctrinal foundation for S8-P05's central claim that enlightenment is already accomplished at the moment of initial aspiration. |
+| S8-P05 *Completion of Buddhahood at the Fullness of Faith* | The nature-arising doctrine of "when one attains, all attain" (一成一切成) established in this paper is the doctrinal foundation for S8-P05's central claim that enlightenment is already accomplished at the moment of initial aspiration. |
 
 ---
 

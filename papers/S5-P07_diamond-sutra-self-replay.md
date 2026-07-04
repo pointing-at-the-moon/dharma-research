@@ -473,11 +473,11 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 |-------|---------------------------|
 | S5-P01 The Jífēi Formula and Trisvabhāva | P01 reveals micro-structure (jífēi = trisvabhāva); P07 reveals macro-structure (dual-layer = two obstructions). Together they constitute the complete Yogācāra hermeneutic framework for the Diamond Sūtra |
 | S5-P02 The Kōan Mirror | §17 itself is a mirror: when readers encounter Subhūti's re-questioning, can they recognize they are asking the same question? If so, they have already entered the second half |
-| S5-P03 All Marks Are Illusory (forthcoming) | P03 analyzes "marks" — belonging to the first half (deconstructing four marks); P07 reveals the second half must also deconstruct "views" |
-| S5-P05 Merit Comparison (forthcoming) | Merit comparisons span both halves — P07 explains why the second half's merit comparisons are more radical |
-| S5-P06 Abide Without Abiding (forthcoming) | §10 belongs to the first half, addressing self-grasping; P07 implies the second half may contain a deeper "non-abiding" — even attachment to non-abiding must be released |
-| S5-P09 Six Similes (forthcoming) | §32's six similes stand at the second half's close — they cut dharma-grasping, not merely self-grasping |
-| S5-P10 From Hundred Dharmas to the Diamond (forthcoming) | P07's dual-layer provides the bridge framework for P10: S3's construction = first half; S5's cutting = second half |
+| S5-P03 All Marks Are Illusory | P03 analyzes "marks" — belonging to the first half (deconstructing four marks); P07 reveals the second half must also deconstruct "views" |
+| S5-P05 Merit Comparison | Merit comparisons span both halves — P07 explains why the second half's merit comparisons are more radical |
+| S5-P06 Abide Without Abiding | §10 belongs to the first half, addressing self-grasping; P07 implies the second half may contain a deeper "non-abiding" — even attachment to non-abiding must be released |
+| S5-P09 Six Similes | §32's six similes stand at the second half's close — they cut dharma-grasping, not merely self-grasping |
+| S5-P10 From Hundred Dharmas to the Diamond | P07's dual-layer provides the bridge framework for P10: S3's construction = first half; S5's cutting = second half |
 | S3 Hundred Dharmas Series | The two obstructions are core Yogācāra concepts; P07 finds their mapping in the Diamond Sūtra's textual structure — S3 provides definitions, S5 provides scriptural evidence |
 | S2-P09 No Suffering, No Path | "No suffering, no origination, no cessation, no path" = the jífēi treatment of the Four Truths, belonging to the dharma-emptiness level — consistent with P07's second-half theme |
 

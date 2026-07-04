@@ -424,11 +424,11 @@ This is the entry point for S6-P02.
 | **S3 Hundred-Dharma Series** | S3 established the Yogācāra toolkit → S6 turns the mirror on the toolkit's user: who is the one using the tools? |
 | **S5-P01** The Jífēi Structure and Trisvabhāva | The three layers of vajra (emptiness/illumination/indestructibility)—"illumination" = crystal ball, foreshadowing S6's scriptural basis |
 | **S5-P02** The Kōan Mirror | Knowing vs. realization distinction → methodological basis for S6's Ānanda episode: broad learning ≠ meditative power |
-| **S5-P10** From Hundred Dharmas to Vajra (forthcoming) | S5-P10's closing question "Who is the one wielding the vajra blade?" = entry point for S6 |
-| **S6-P02** Seven Locations of Mind (forthcoming) | This paper establishes the full-sūtra framework → P02 enters the detailed analysis of each location |
-| **S6-P05** Twenty-Five Penetrations (forthcoming) | This paper previews the middle circle → P05 unfolds the twenty-five paths of entry |
-| **S6-P08–P10** Fifty Skandha-Māra (forthcoming) | This paper previews the outer circle → P08–P10 analyze each skandha across three papers |
-| **S6-P11** The Dharma-Ending Mirror (forthcoming) | This paper establishes the dharma-ending context → P11 concludes the series |
+| **S5-P10** From Hundred Dharmas to Vajra | S5-P10's closing question "Who is the one wielding the vajra blade?" = entry point for S6 |
+| **S6-P02** Seven Locations of Mind | This paper establishes the full-sūtra framework → P02 enters the detailed analysis of each location |
+| **S6-P05** Twenty-Five Penetrations | This paper previews the middle circle → P05 unfolds the twenty-five paths of entry |
+| **S6-P08–P10** Fifty Skandha-Māra | This paper previews the outer circle → P08–P10 analyze each skandha across three papers |
+| **S6-P11** The Dharma-Ending Mirror | This paper establishes the dharma-ending context → P11 concludes the series |
 
 ---
 

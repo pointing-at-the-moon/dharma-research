@@ -396,9 +396,9 @@ May this small contemplation become the one step from the *Heart Sūtra* to the 
 | **S8-P01 *Introductory Treatise on the King of Sūtras*** | The reception-bandwidth thesis of the Avataṃsaka, inherited by the irreducibility statement in §IV |
 | **S8-P02 *The Taxonomy of Five Teachings: The Container of the Avataṃsaka*** | The succession from consummate to perfect teaching, the container thesis behind §IV and §V.4 (*acintya*) |
 | **S8-P11 *The Ten Vows Beneath the Ten Windows*** | The system of ten-gate terminology and the initial treatment of the gate of mutual identity, used as the foundation for §III.4 and §VI |
-| **S8-P04 *Nature-Arising and Dependent Origination*** (forthcoming) | The vertical structure within the dharmadhātu, complementary to the horizontal structure of this paper |
-| **S8-P05 *Faith Fulfilled Becomes Buddha and the Mutual Containment of Levels*** (forthcoming) | The unfolding of unobstructed phenomena-and-phenomena along the dimension of stages of practice |
-| **S8-P10 *Samantabhadra's Vows*** (forthcoming) | The historical-textual analysis of the gate-vow correspondence |
+| **S8-P04 *Nature-Arising and Dependent Origination*** | The vertical structure within the dharmadhātu, complementary to the horizontal structure of this paper |
+| **S8-P05 *Faith Fulfilled Becomes Buddha and the Mutual Containment of Levels*** | The unfolding of unobstructed phenomena-and-phenomena along the dimension of stages of practice |
+| **S8-P10 *Samantabhadra's Vows*** | The historical-textual analysis of the gate-vow correspondence |
 | **S1-P01 *The Butterfly Effect of First Arousing the Mind*** | The seed-level account of "the round-fusion operation of 'one,'" implicitly correlated in §VI |
 
 ---

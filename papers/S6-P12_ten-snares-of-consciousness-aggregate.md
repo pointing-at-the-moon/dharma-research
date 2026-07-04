@@ -537,8 +537,8 @@ From form aggregate to consciousness aggregate, the entire map of the fifty *ska
 - **S6-P09** *The Ten Demons of the Feeling Aggregate: The Refinement of the Second Arrow* — the second station, the inner-feeling structure of "do not cling."
 - **S6-P10** *The Ten Demons of the Perception Aggregate: The Mirroring Other of Craving* — the third station, the outward-facing structure of "seek the great teacher."
 - **S6-P11** *The Ten Wrong Views of the Formation Aggregate: The Mirror-Student and the Net of Brahmajāla* — the fourth station, the reflexive structure of "do not take as holy." Direct prior paper to the present.
-- **S6-P13** (forthcoming) *The Grand Synthesis of the Fifty Skandha-Māras: The Five-fold Deluded Thinking and the Path of Cessation* — capstone of S6 series.
-- **S7-P01** (forthcoming, opening of *Lotus Sūtra* series) *The Entrance to the One Buddha Vehicle: Between the Conjured City and the Treasure-Place* — the positive unfolding of the bridge established in §6.2 of the present paper.
+- **S6-P13** *The Grand Synthesis of the Fifty Skandha-Māras: The Five-fold Deluded Thinking and the Path of Cessation* — capstone of S6 series.
+- **S7-P01** (opening of *Lotus Sūtra* series) *The Entrance to the One Buddha Vehicle: Between the Conjured City and the Treasure-Place* — the positive unfolding of the bridge established in §6.2 of the present paper.
 - **S2-P03** *Going Deep Inward into the Formation Aggregate* — the *prajñā*-phenomenological positioning of the five aggregates, providing foundational preparation for the doctrinal critique of the *vijñāna-skandha* stage.
 
 ---

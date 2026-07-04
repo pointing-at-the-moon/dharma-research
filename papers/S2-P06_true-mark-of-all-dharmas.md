@@ -420,7 +420,7 @@ This is why "deeply practicing prajñāpāramitā" is so critical. What you are 
 | S2-P05 Form Is Emptiness: Assembly Line of Suffering | Completes five-aggregate deconstruction → this paper pivots from deconstruction to direct pointing |
 | S5-P01 Diamond Prajñā: Jífēi Tripartite Formula | Kuiji mapping vs. Pointing mapping → methodological precedent for the dual-path approach |
 | S1-P02 Bodhicitta and Dharma-Flow | Dharma body transcends the three times → doctrinal root of "no increase, no decrease" |
-| S2-P07 (forthcoming) No Form in Emptiness | After establishing mind-nature → unfolds twelve sense-fields analysis |
+| S2-P07 No Form in Emptiness | After establishing mind-nature → unfolds twelve sense-fields analysis |
 
 ---
 

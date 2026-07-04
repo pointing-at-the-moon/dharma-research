@@ -540,7 +540,7 @@ The entire cultivation of the formations-aggregate stage is contained in the fou
 - **S2-P03**, *Going Deep Inward into the Formations Aggregate (行深朝內深入行蘊)* — the prajñāpāramitā phenomenology of the *saṃskāra-skandha*; an early preparatory work for P11's formations-aggregate argument.
 - **S6-P09**, *The Ten Māras of the Receptive Aggregate — The Refinement of the Second Arrow* — the receptive-aggregate stage's "māra darkly enters the heart, causing the practitioner unawares to turn upon himself" (Jiāoguāng), the inward misjudgment of sensation, set in contrast to the reflexive misjudgment of P11.
 - **S6-P10**, *The Ten Māras of the Perception Aggregate — Craving's Mirror-Other* — the "dispatched essence to possess a person" structure of the mirror-other; the contrast and continuity for P11's "mirror-student" structure.
-- **S6-P12** (forthcoming), *The Ten Māras of the Consciousness Aggregate — The Final Demon-Revealing Mirror of Subtle Grasping* — the tenth māra "five present-nirvāṇa" of P11 is the entry point for P12.
+- **S6-P12**, *The Ten Māras of the Consciousness Aggregate — The Final Demon-Revealing Mirror of Subtle Grasping* — the tenth māra "five present-nirvāṇa" of P11 is the entry point for P12.
 - **S5-P02**, *The Kōan-Mirror — The Reflexive Structure of "Watching the Performers"* — "watching the performers" is the reflexive structure of the sixth consciousness, and reappears at the formations-aggregate stage in a deeper form.
 
 ---

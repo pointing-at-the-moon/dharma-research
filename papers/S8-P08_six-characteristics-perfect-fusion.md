@@ -561,7 +561,7 @@ The division of labor between the two faces is clear:
 | Face | Principal paper | Mode of exposition |
 |---|---|---|
 | Structural face | S8-P08 (the present paper, §3.6) | The perfect fusion of the six characteristics guarantees that first-aspiration and full enlightenment are jointly fully-present within a single thought-moment |
-| Positional face | S8-P05 (forthcoming) | The faith-completion bodhisattva is already a "buddha-in-practice" within the Huayan position-system |
+| Positional face | S8-P05 | The faith-completion bodhisattva is already a "buddha-in-practice" within the Huayan position-system |
 
 The two faces **mutually corroborate but do not replace each other**. The structural face answers "why is it possible" (because of the perfect fusion of the six characteristics); the positional face answers "at what position does it occur" (the faith-completion stage). After reading both papers, the reader will see "first-aspiration-equals-enlightenment" sustained from two directions at once—the structural necessity and the concrete positional location.
 
@@ -623,7 +623,7 @@ But this entry is not a "leaving Yogācāra." Once the S3 reader has entered Hua
 | Paper | Same citation | Face committed | Core exposition |
 |---|---|---|---|
 | S8-P08 (the present paper, §3.6) | the same Fazang citation | Structural face | The perfect fusion of the six characteristics guarantees that first-aspiration and full enlightenment are jointly fully-present within a single thought-moment, in structural identity |
-| S8-P05 (forthcoming) | the same Fazang citation | Positional face | The faith-completion bodhisattva is, within the Huayan position-system, already a "buddha-in-practice" (not a "buddha-in-position") |
+| S8-P05 | the same Fazang citation | Positional face | The faith-completion bodhisattva is, within the Huayan position-system, already a "buddha-in-practice" (not a "buddha-in-position") |
 
 The two papers share the same Fazang citation but commit to it from two different directions. After finishing the present paper, the reader may await S8-P05's continuation from the positional face; after finishing S8-P05, the reader may return to the present paper to deepen the structural-face understanding. **This is the first case of within-series two-paper articulation in S8**—a demonstration of how the S8 series allows the same citation to bear different doctrinal tasks across different papers without descending into repetition.
 

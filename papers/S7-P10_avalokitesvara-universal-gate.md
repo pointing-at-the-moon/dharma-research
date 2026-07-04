@@ -277,7 +277,7 @@ This paper does not rely on modern scholarship; all arguments are grounded direc
 | §IV.1 First Mirror (*Heart Sūtra* Guanzizai) | S2-P02 Four Links of Guanzizai | Structural identity between the inward-illumination circuit and the outward-responsive circuit |
 | §IV.2 Second Mirror (*Śūraṅgama* ear-faculty) | S6-P08 Ear-Faculty Perfect Penetration | Reverse flow (inward) and outward response (outward) as two directions of the same hearing-nature |
 | §IV.3 Three scriptures of one structure | S2, S6, S7 | The three trainings (śīla / samādhi / prajñā) severally brought to fulfillment in a single bodhisattva across three scriptures |
-| §V Conclusion (One Vehicle on the being's side) | S7-P01 – P09; S7-P11 (forthcoming) | Trace-gate outward response completed; the next paper opens the origin-gate (本門) with the *Lifespan* chapter |
+| §V Conclusion (One Vehicle on the being's side) | S7-P01 – P09; S7-P11 | Trace-gate outward response completed; the next paper opens the origin-gate (本門) with the *Lifespan* chapter |
 
 ---
 
