@@ -2,7 +2,7 @@
 
 **The Hundred Dharmas — Deconstructing the Toolkit of Mind**
 
-S3-P01 至 P14 已發表 — ✅ 系列完結
+S3-P01 至 P14 及補充篇 SUP01、SUP02 已發表 — ✅ 系列完結
 
 ---
 
@@ -32,6 +32,8 @@ S1 準備法器，S2 以般若照見空性，S3 以唯識展開有的精密結�
 | 12 | 不相應行法：概念的假立 | Dissociated Factors: Conceptual Constructs | [中](../papers/S3-P12_不相應行法_概念的假立.md) · [EN](../papers/S3-P12_dissociated-factors-conceptual-constructs.md) |
 | 13 | 無為法：百法的終點 | Unconditioned Dharmas: The Destination of the Hundred Dharmas | [中](../papers/S3-P13_無為法_百法的終點.md) · [EN](../papers/S3-P13_unconditioned-dharmas-destination.md) |
 | 14 | 轉識成智：回家 | Transformation into Wisdom: Coming Home | [中](../papers/S3-P14_轉識成智_回家.md) · [EN](../papers/S3-P14_transformation-into-wisdom-coming-home.md) |
+| 15 | 四加行：從知道到看見（補充篇 SUP01） | The Four Preparatory Stages: From Knowing to Seeing | [中](../papers/S3-SUP01_四加行_從知道到看見.md) · [EN](../papers/S3-SUP01_four-preparatory-stages-from-knowing-to-seeing.md) |
+| 16 | 三科對機：為何佛說蘊處界三種（補充篇 SUP02） | The Three Schemata and the Pedagogy of Disposition | [中](../papers/S3-SUP02_三科對機論.md) · [EN](../papers/S3-SUP02_three-schemata-pedagogy-of-disposition.md) |
 
 ---
 

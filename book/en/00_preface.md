@@ -9,7 +9,7 @@
 
 The starting point of this book was not a book. It was a question.
 
-In the winter of 2025 I began writing the first paper of the *Pointing at the Moon* series, "The Butterfly Effect of the First Aspiration." At that time there was no conception of eight movements, no premonition of ninety-one papers, no book. There was only one question I could not get around: **from the first aspiration to its fulfilment, the road that runs between—what does it actually look like, within the framework of Yogācāra?**
+In the winter of 2025 I began writing the first paper of the *Pointing at the Moon* series, "The Butterfly Effect of the First Aspiration." At that time there was no conception of eight movements, no premonition of ninety-two papers, no book. There was only one question I could not get around: **from the first aspiration to its fulfilment, the road that runs between—what does it actually look like, within the framework of Yogācāra?**
 
 This was not an academic question. It was a question of practice—I myself was on the road, and I needed to know where I stood, where to step next, and how I would know if I had stepped wrong. The papers were a by-product. By the time the by-products had accumulated to the tenth, "The Thirty-Seven Factors of Awakening," I found that the first series had already finished saying what it meant to "set out on this road"—from the first aspiration, to one's position in the age of AI, to the chain of cause and effect, to becoming a vessel for the Dharma, to the thirty-seven factors of awakening as a complete methodology already prepared twenty-five hundred years ago. The series had closed itself. I called it S1, *Trust*.
 
@@ -25,11 +25,11 @@ These eight words were not an outline I planned in advance. They are a shape I d
 
 **This is a book that was being written all along, and I simply did not know it.**
 
-The ninety-one papers are ninety-one stones along the road, picked up one by one, until at the end I found that they had always been a single road. That road now needs to be joined together. The footnotes and the academic apparatus were written for researchers; those stay in `papers/`. But the people who are truly walking the road—who want to generate the aspiration, who want to see clearly, who want to walk out of the fog of the AI age, who want to take up the blade of diamond prajñā, who want to see through the modern mutations of the fifty skandha-māras in the depths of their own ālaya-vijñāna, who want to understand why the Lotus and the Avataṃsaka are two sides of one and the same thing—these people do not need papers. They need a book. A book that is continuous, readable, and that, turned from the first page to the last, truly arrives somewhere.
+The ninety-two papers are ninety-two stones along the road, picked up one by one, until at the end I found that they had always been a single road. That road now needs to be joined together. The footnotes and the academic apparatus were written for researchers; those stay in `papers/`. But the people who are truly walking the road—who want to generate the aspiration, who want to see clearly, who want to walk out of the fog of the AI age, who want to take up the blade of diamond prajñā, who want to see through the modern mutations of the fifty skandha-māras in the depths of their own ālaya-vijñāna, who want to understand why the Lotus and the Avataṃsaka are two sides of one and the same thing—these people do not need papers. They need a book. A book that is continuous, readable, and that, turned from the first page to the last, truly arrives somewhere.
 
 This book exists for exactly that.
 
-Not new doctrine, but an ordering. Not a rewriting, but a stepping-down. Not a compendium of academic results, but the joining of ninety-one stones into a road—**a road that runs from the first aspiration to the Ocean Seal Samādhi.**
+Not new doctrine, but an ordering. Not a rewriting, but a stepping-down. Not a compendium of academic results, but the joining of ninety-two stones into a road—**a road that runs from the first aspiration to the Ocean Seal Samādhi.**
 
 ---
 
@@ -67,7 +67,7 @@ This book is not written for everyone. Let me first say clearly what it **is not
 
 **This book is not:**
 - Not an introduction to Buddhism. If you have had no contact with the Dharma at all, this book will be too dense; I would suggest first reading a modern selected translation of the Āgamas, or any basic introduction to Buddhist teaching.
-- Not an academic monograph. The academic version lives at github.com/pointing-at-the-moon/dharma-research, where all ninety-one papers are open-sourced, with complete CBETA indexing and full footnotes—researchers are welcome to help themselves.
+- Not an academic monograph. The academic version lives at github.com/pointing-at-the-moon/dharma-research, where all ninety-two papers are open-sourced, with complete CBETA indexing and full footnotes—researchers are welcome to help themselves.
 - Not a work of sectarian apologetics. *Pointing at the Moon* belongs to no modern school, and defends no school. Yogācāra, prajñā, tathāgatagarbha, Huayan, Lotus, Chan, Pure Land, esoteric—in the view of *Pointing at the Moon* these are all one and the same Dharma unfolding along different facets.
 - Not spiritual comfort food. This book will not tell you that "everything will be fine," nor will it hand you "daily positive vibes." The core of the Dharma is **knowing and seeing things as they are**, not the soothing of emotion.
 

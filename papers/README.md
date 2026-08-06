@@ -1,6 +1,6 @@
 # 指月八部曲 — 論文總覽
 
-> 《指月八部曲》88 篇雙語學術論文索引。每篇含中文版與英文版。
+> 《指月八部曲》92 篇雙語學術論文索引。每篇含中文版與英文版。
 > 
 > **Author**: 釋慧鏡 (Shi Huijing) · **License**: CC BY-NC-SA 4.0
 > 
@@ -46,7 +46,7 @@
 ---
 
 ## S3 · 行 — 百法明門
-**The Hundred Dharmas** · 15 papers · [series README](../series3_hundred-dharmas/README.md)
+**The Hundred Dharmas** · 16 papers · [series README](../series3_hundred-dharmas/README.md)
 
 | # | Code | 中文 | English |
 |---|------|------|---------|
@@ -65,6 +65,7 @@
 | 13 | S3-P13 | [無為法_百法的終點](S3-P13_無為法_百法的終點.md) | [EN](S3-P13_unconditioned-dharmas-destination.md) |
 | 14 | S3-P14 | [轉識成智_回家](S3-P14_轉識成智_回家.md) | [EN](S3-P14_transformation-into-wisdom-coming-home.md) |
 | 15 | S3-SUP01 | [四加行_從知道到看見](S3-SUP01_四加行_從知道到看見.md) | [EN](S3-SUP01_four-preparatory-stages-from-knowing-to-seeing.md) |
+| 16 | S3-SUP02 | [三科對機論](S3-SUP02_三科對機論.md) | [EN](S3-SUP02_three-schemata-pedagogy-of-disposition.md) |
 
 ---
 
@@ -163,7 +164,7 @@
 
 ---
 
-**Total: 91 papers (182 files)**
+**Total: 92 papers (184 files)**
 
 ---
 

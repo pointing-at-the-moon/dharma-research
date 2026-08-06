@@ -42,7 +42,7 @@ The most accessible layer is the *book*, not the papers — the Octalogy's schol
 |---|----|----------|------------------|--------|
 | S1 | 信 | Trust | 初發心 · Initiate Thy Heart | [10](series1_initiate-thy-heart/README.md) |
 | S2 | 解 | Understand | 般若波羅蜜多 · the Heart Sūtra | [11](series2_prajnaparamita/README.md) |
-| S3 | 行 | Practice | 百法明門 · the Hundred Dharmas | [15](series3_hundred-dharmas/README.md) |
+| S3 | 行 | Practice | 百法明門 · the Hundred Dharmas | [16](series3_hundred-dharmas/README.md) |
 | S4 | 問 | Inquiry | AI × 佛法 · Into the Unknown | [8](series4_into-the-unknown/README.md) |
 | S5 | 切 | Cutting | 金剛般若 · the Diamond Sūtra | [10](series5_diamond-sutra/README.md) |
 | S6 | 照 | Illumination | 楞嚴經 · the Śūraṅgama | [13](series6_surangama-sutra/README.md) |
