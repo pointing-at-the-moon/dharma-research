@@ -8,7 +8,7 @@ This index maps each chapter to its underlying paper and lists the principal Tai
 2. Find the number in the "Source Paper" column (e.g. S6-P13), and download it from the GitHub repo [`pointing-at-the-moon/dharma-research/papers/`](https://github.com/pointing-at-the-moon/dharma-research/tree/main/papers);
 3. Within the paper, look up the footnote and the "Scripture & Treatise Index" appendix for the corresponding passage to find the precise fascicle / page number.
 
-> **Why a two-layer index?** Each of the 88 papers already contains complete CBETA collation footnotes and fascicle-level sources. For readability, this book compresses those footnotes down to the T-number level; when you need deeper fascicle-and-page verification, please defer directly to the paper version (this also applies to academic citation).
+> **Why a two-layer index?** Each of the 92 papers already contains complete CBETA collation footnotes and fascicle-level sources. For readability, this book compresses those footnotes down to the T-number level; when you need deeper fascicle-and-page verification, please defer directly to the paper version (this also applies to academic citation).
 
 > **Note on CBETA collation:** All T-number citations are collated against the CBETA Electronic Tripiṭaka Collection (cbetaonline.cn). The T-number format is "T + volume number"; for example, T10 = Taishō volume 10; "No." = the text's catalog number. Full volume-and-page numbers are marked in the footnotes of the paper version.
 
