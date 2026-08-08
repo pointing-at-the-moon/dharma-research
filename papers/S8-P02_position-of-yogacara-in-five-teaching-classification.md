@@ -689,7 +689,7 @@ S8-P03 (*Broadly Cultivating Offerings · The Gate of the Mutually Self-Determin
 
 ---
 
-*All sūtra and treatise citations in the present paper use the CBETA digital edition of the Taishō Tripiṭaka. RAG queries were executed by Code Opus on the local AnythingLLM workspace `tripitaka-v2` with the dedicated vaults `vault-華嚴` and `vault-唯識`.*
+*The Buddhist primary sources cited in this study are based on the CBETA Chinese Electronic Tripiṭaka Collection.*
 
 *Released under CC BY-NC-SA 4.0 · Shi Huijing · Pointing at the Moon Research*
 *GitHub: pointing-at-the-moon/dharma-research · YouTube: @PointingattheMoon*

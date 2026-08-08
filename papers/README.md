@@ -168,4 +168,4 @@
 
 ---
 
-*Generated 2026-04-11 by Code Opus. Paper layer sealed 2026-04-11.*
+*Paper layer sealed 2026-04-11.*
