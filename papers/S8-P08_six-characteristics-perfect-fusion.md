@@ -140,7 +140,7 @@ The Chinese patriarchal treatment of the six characteristics, from Vasubandhu do
 
 #### 2.3.1 The *Dilun* School: Jingying Huiyuan's Four Gates
 
-The *Dilun* school (the school devoted to the *Daśabhūmika-vyākhyāna*) represents the middle stretch of this lineage during the sixth century. The most important *Dilun* treatment of the six characteristics is the "four-gate exegesis" of Jingying Huiyuan (淨影慧遠, 523–592—not to be confused with the earlier Huiyuan of Mount Lu, 334–416). Huiyuan's own writing on this could not be located directly in the present project's RAG vaults, but its structure is preserved within Chengguan's *Yǎnyì chāo* fascicle 52:
+The *Dilun* school (the school devoted to the *Daśabhūmika-vyākhyāna*) represents the middle stretch of this lineage during the sixth century. The most important *Dilun* treatment of the six characteristics is the "four-gate exegesis" of Jingying Huiyuan (淨影慧遠, 523–592—not to be confused with the earlier Huiyuan of Mount Lu, 334–416). Huiyuan's own writing on this could not be located directly in the present project's source corpora, but its structure is preserved within Chengguan's *Yǎnyì chāo* fascicle 52:
 
 > Master Yuan's four-gate exegesis: first, *establishing the intention*—to break fixed grasping; second, *establishing the basis*—glossing by way of the practice of the first ground; third, *general application to all dharmas*; fourth, *exegesis of the textual passages*.[^8]
 
@@ -269,7 +269,7 @@ This verdict provides documentary support for the positioning of §3.2: in the H
 
 The present paper's treatment of Zhiyan on the six characteristics carries two limits that must be honestly marked.
 
-*First*, **T1870, the *Huáyán jīng nèizhāng mén děng zá kǒngmù zhāng* 華嚴經內章門等雜孔目章, was not verified within this project's RAG vaults**. This is another major work of Zhiyan, included in CBETA. If it should turn out that Zhiyan offers a more systematic treatment of the six characteristics in this work, the present description ("application layer rather than construction layer") would need revision. The limit is honestly marked here, to be revisited when verification becomes possible.
+*First*, **T1870, the *Huáyán jīng nèizhāng mén děng zá kǒngmù zhāng* 華嚴經內章門等雜孔目章, was not verified within this project's source corpora**. This is another major work of Zhiyan, included in CBETA. If it should turn out that Zhiyan offers a more systematic treatment of the six characteristics in this work, the present description ("application layer rather than construction layer") would need revision. The limit is honestly marked here, to be revisited when verification becomes possible.
 
 *Second*, **the claim that "Zhiyan elevated the six characteristics into an observational gate" cannot be sustained on the available documentary evidence**. An earlier draft hypothesis had it that "Zhiyan elevated the six characteristics from a verbal-explanation instrument into an observational gate," but the documentary evidence presented in §3.2.1 and §3.2.2 shows that Zhiyan's use of the six characteristics is purely instrumental—he inherits Vasubandhu's definition and applies it without substantive doctrinal upgrading. The present paper therefore adopts the conservative "application-layer" description and no longer claims any "contemplative-gate-elevation" work for Zhiyan. Should contrary evidence be discovered in T1870 or other Zhiyan works, the present treatment will be correspondingly revised.
 

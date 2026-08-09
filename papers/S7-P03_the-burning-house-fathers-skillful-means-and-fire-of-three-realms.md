@@ -116,7 +116,7 @@ The Burning House is not a repetition of the Fire Sermon. It is an *extension* o
 
 ⚠️ A clarification belongs here. This is not a graded judgment in which the Mahāyāna is "higher" than the early teachings. It is the same dharma at two scales, addressed to two different epistemic conditions. *Saṃyukta-āgama* 197 and the Burning House are structurally homologous and substantively continuous, but their pedagogical situations differ. Treating them as equivalent erases the inner driver of the *upāya* problematic in the Lotus. Treating them as disconnected severs the Lotus from its canonical roots and risks the misconstrual that the Mahāyāna is "non-Buddhist." The correct reading is: same insight, two scales — from individual meditative observation to cosmic-scale teaching narrative.
 
-This completes the textual support for what the *S7_PLAN* has called the "Āgama Seed thesis" in the case of the Burning House.
+This completes the textual support for what the *系列規劃* has called the "Āgama Seed thesis" in the case of the Burning House.
 
 ### 3.3 The Doctrinal Structure of the Three-Realm Fire
 

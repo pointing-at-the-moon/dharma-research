@@ -79,7 +79,7 @@ The opening passage of fascicle 40 of the Forty *Avataṃsaka*, *Bhadracarī-pra
 
 This is Samantabhadra's "act of vow-making" within the *Avataṃsaka*. P12 invokes this passage without unfolding the content of the ten vows (that is the work of S8-P01 through P10), only marking three things:
 
-First, what Samantabhadra does first in the final fascicle of the *Avataṃsaka* is to proclaim the Ten Great Practice-Vows.[^6] This sequence of ten vows is the structural framework for the editorial sequence of S8 papers P01–P10 (S8_PLAN v2.1, Methodological Declaration Four). In other words, Samantabhadra's first action on the Avataṃsaka side is precisely the entire structure of the S8 series.
+First, what Samantabhadra does first in the final fascicle of the *Avataṃsaka* is to proclaim the Ten Great Practice-Vows.[^6] This sequence of ten vows is the structural framework for the editorial sequence of S8 papers P01–P10 (系列規劃 v2.1, Methodological Declaration Four). In other words, Samantabhadra's first action on the Avataṃsaka side is precisely the entire structure of the S8 series.
 
 Second, this Samantabhadra who proclaims the ten vows is the same bodhisattva as the Samantabhadra who, in the Lotus's *Encouragements of Samantabhadra* chapter, comes from the east riding the six-tusked white elephant.
 
@@ -268,7 +268,7 @@ The true mark of all dharmas is just so, originally so.[^12]
 
 [^5]: *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Eighty *Avataṃsaka*), T0279, tr. Śikṣānanda 實叉難陀 (Tang), fascicle 1, 〈世主妙嚴品〉. For the complete doctrinal exposition of the Ocean Seal Samādhi opening passage, see S8-P01 §2 and §3. P12 here invokes only the opening posture as indication that the Avataṃsaka's venue is in place.
 
-[^6]: *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Forty *Avataṃsaka*, also known as *Bhadracarī-praṇidhāna* section), T0293, fascicle 40, tr. Prajña 般若 (Tang, 796–798). This translation postdates Fazang's death (712) by approximately eighty years. When Fazang established the ten-gate scheme, the Ten Great Practice-Vows had not yet been translated; this historical fact underlies Methodological Declaration Four of S8_PLAN v2.1 (canonical text precedes commentary at the structural layer). See S8_PLAN for details.
+[^6]: *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Forty *Avataṃsaka*, also known as *Bhadracarī-praṇidhāna* section), T0293, fascicle 40, tr. Prajña 般若 (Tang, 796–798). This translation postdates Fazang's death (712) by approximately eighty years. When Fazang established the ten-gate scheme, the Ten Great Practice-Vows had not yet been translated; this historical fact underlies Methodological Declaration Four of 系列規劃 v2.1 (canonical text precedes commentary at the structural layer). See 系列規劃 for details.
 
 [^7]: Zhiyi 智顗, *Fahua xuanyi* 妙法蓮華經玄義, T1716, fascicle 10 (lower), on the five-flavor classification: "彼佛一化，初說華嚴，後說法華……皆以法華為後教後味。" The full context is located in the five-flavor classification chapter of that fascicle.
 

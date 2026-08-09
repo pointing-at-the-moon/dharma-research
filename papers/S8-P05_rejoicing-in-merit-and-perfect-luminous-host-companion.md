@@ -284,7 +284,7 @@ Fazang's *xíngfó fēi wèifó* is the most precise doctrinal instrument for th
 
 **❌ The correspondence "Rejoicing in Merit ↔ Gate of Perfect-Luminous Host-Companion Completion" is an original thesis of the present author.**
 
-A statement of academic honesty: in the extant commentaries of Fazang and Chengguan there is no explicit text directly mapping "rejoicing in merit" onto the "Gate of Perfect-Luminous Host-Companion Completion." The present author conducted a systematic multiline grep of vault-Huayan for the proximity of "rejoicing" with "host-companion / merit," and the result was "proximate but never juxtaposed" — within the same fascicle different passages discuss the Ten Profound Gates and the Ten Dedications respectively, but no single passage joins the two directly.
+A statement of academic honesty: in the extant commentaries of Fazang and Chengguan there is no explicit text directly mapping "rejoicing in merit" onto the "Gate of Perfect-Luminous Host-Companion Completion." The present author conducted a systematic proximity search of the Huayan corpus for the proximity of "rejoicing" with "host-companion / merit," and the result was "proximate but never juxtaposed" — within the same fascicle different passages discuss the Ten Profound Gates and the Ten Dedications respectively, but no single passage joins the two directly.
 
 The correspondence proposed here is therefore **a conclusion compelled by Huayan's own doctrine**, not a citation of explicit Fazang text. The argument has been given in full in §III: host-companion perfect luminosity + the *cetanā* ontology + the dharmadhātu-scale cognitive object of the rejoicing passage in the *Samantabhadra-caryā-praṇidhāna* = the necessary clamping of rejoicing in merit with host-companion perfect luminosity. The present author advances this correspondence as an original thesis and assumes the academic responsibility it carries. The full systematic argument for the ten-vows-to-ten-gates correspondence will be developed in S8-P10 §VI, where this original thesis will receive a more systematic defense.
 
@@ -426,7 +426,7 @@ The present paper closes here.
 
 [^3]: *Saṃyukta-āgama* sūtra 1288. The contrast between "pure-hearted giving from little wealth" and "impure-hearted giving from great wealth" is among the most direct Āgama statements that "the quality of mind determines merit."
 
-[^4]: *Ekottarika-āgama* T0125 fasc. 38, the lay-girl Muni narrative. Full passage: see RAG file s8p05_rag_A1_anumodana_agama.md.
+[^4]: *Ekottarika-āgama* T0125 fasc. 38, the lay-girl Muni narrative. Full passage: see the retrieval log.
 
 [^5]: *Saṃyukta-āgama* T0099 fasc. 26, sūtra 659. "The pure faith arising from giving rise to bodhicitta toward the Tathāgata — this is called the faculty of faith" is among the very few Āgama passages that explicitly invoke the *bodhicitta*-arousing structure.
 

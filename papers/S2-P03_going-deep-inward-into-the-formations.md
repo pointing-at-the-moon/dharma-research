@@ -453,7 +453,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 
 ---
 
-*This is S2-P03 of the Point-to-the-moon research project. Scriptural citations verified against the CBETA Taishō Tripiṭaka RAG system.*
+*This is S2-P03 of the Point-to-the-moon research project. Scriptural citations verified against the CBETA Taishō Tripiṭaka full-text search.*
 
 *Shi Huijing 釋慧鏡 | Point-to-the-moon 指月*
 *CC BY-NC-SA 4.0 | CBETA-verified | github.com/pointing-at-the-moon/dharma-research*

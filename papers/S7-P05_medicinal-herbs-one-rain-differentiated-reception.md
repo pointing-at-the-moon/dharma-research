@@ -389,7 +389,7 @@ The next paper takes up the conjured city. The conjured city is an expedient nir
 
 [^8]: *Saddharmapuṇḍarīka-sūtra*, juan 3, "Medicinal Herbs" chapter, trans. Kumārajīva, T262, vol. 9, p. 19b.
 
-[^9]: See S7_PLAN, Thesis Three methodology: Āgamic seeds reach their dramatic completion in the Lotus.
+[^9]: See 系列規劃, Thesis Three methodology: Āgamic seeds reach their dramatic completion in the Lotus.
 
 [^10]: T262, vol. 9, p. 19a.
 
@@ -403,11 +403,11 @@ The next paper takes up the conjured city. The conjured city is an expedient nir
 
 [^15]: T262, vol. 9, p. 20b.
 
-[^16]: *Zheng fahua jing* (*Saddharmapuṇḍarīka-sūtra* in Dharmarakṣa's recension), juan 3, "Medicinal Herbs" chapter, trans. Dharmarakṣa, T263, vol. 9, pp. 84–87. For the full comparison, see the S7-P05 RAG record Q02.
+[^16]: *Zheng fahua jing* (*Saddharmapuṇḍarīka-sūtra* in Dharmarakṣa's recension), juan 3, "Medicinal Herbs" chapter, trans. Dharmarakṣa, T263, vol. 9, pp. 84–87. For the full comparison, see retrieval log Q02.
 
 [^17]: T263, vol. 9, pp. 86–87 (the born-blind narrative). The four medicinal names "Brilliant, Excellent, Bright, Peaceful" correspond to "śūnyatā, animitta, apraṇihita, the gate to nirvāṇa."
 
-[^18]: A full search across T1718 (Zhiyi), T1721 (Jizang), and T1723 (Kuiji) (S7-P05 RAG Q12) found no commentarial reference to the expanded section in Dharmarakṣa's recension.
+[^18]: A full search across T1718 (Zhiyi), T1721 (Jizang), and T1723 (Kuiji) (retrieval log Q12) found no commentarial reference to the expanded section in Dharmarakṣa's recension.
 
 [^19]: Vasubandhu, *Saddharmapuṇḍarīka-upadeśa*, juan 2, trans. Bodhiruci, T1519, vol. 26, p. 9a.
 

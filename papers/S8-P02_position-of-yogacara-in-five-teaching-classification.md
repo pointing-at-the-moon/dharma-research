@@ -453,7 +453,7 @@ This is the principal corrective concern of the present paper, and the entire ar
 
 In contemporary Buddhist discourse there is a frequent unconscious historical imagination: that the Huayan school (Fazang) "defeated" the Yogācāra school (Kuiji) in classificatory pedagogy, that this was a real polemical contest, and that the position of the Round Teaching was established in the course of this contest.
 
-**This historical imagination is not supported by the historical record.** The present section uses the chronological evidence assembled in Q09 of the supporting RAG search as a hard argument.
+**This historical imagination is not supported by the historical record.** The present section uses the chronological evidence assembled in Q09 of the supporting corpus search as a hard argument.
 
 **The historical record:**
 - **Kuiji** (632–682): died in the first year of the Yongchun era of Tang Gaozong
@@ -671,7 +671,7 @@ S8-P03 (*Broadly Cultivating Offerings · The Gate of the Mutually Self-Determin
 
 [^18]: *Treatise*, fascicle 1, "Determining the Meaning," eighth class of beings: "即知彼三乘等法。本來不異別教一乘。何以故。為彼所目故。更無異事故。" *Taishō* vol. 45, no. 1866. **This is the patriarchal locus classicus of the central argument of the present paper.**
 
-[^19]: Chengguan's reinforcement of Fazang's five-teaching classification is found in fascicles 1 and 2 of the *Commentary on the Avataṃsaka-sūtra* and in fascicles 3 and 7 of the *Sub-commentary Elaborating the Meaning*. The Q08 search results of the supporting RAG queries systematically catalogue Chengguan's three layers of stance toward Fazang's classification: inheritance, defense (criticizing Huiyuan's *Kanding ji* for "destroying the five teachings and establishing four"), and reinforcement (the dual-track of sequential distribution and round interpenetration).
+[^19]: Chengguan's reinforcement of Fazang's five-teaching classification is found in fascicles 1 and 2 of the *Commentary on the Avataṃsaka-sūtra* and in fascicles 3 and 7 of the *Sub-commentary Elaborating the Meaning*. The supporting Q08 corpus-search results systematically catalogue Chengguan's three layers of stance toward Fazang's classification: inheritance, defense (criticizing Huiyuan's *Kanding ji* for "destroying the five teachings and establishing four"), and reinforcement (the dual-track of sequential distribution and round interpenetration).
 
 [^20]: *Commentary on the Avataṃsaka-sūtra*, fascicle 1: "此亦二種。一行布門...二圓融門...然此二無礙..." *Taishō* vol. 35, no. 1735.
 

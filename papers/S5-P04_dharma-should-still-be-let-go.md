@@ -536,7 +536,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^8]: *Jingang bore boluomi jing*, §21: 「說法者，無法可說，是名說法」 — "One who speaks dharma has no dharma to speak; this is called speaking dharma," T08, No. 235.
 
-[^9]: *Jingang bore boluomi jing*, entire text: over ten semantic uses of 法 ("dharma/dharmas") catalogued, T08, No. 235. See §2.5 of this paper and RAG results Q2.
+[^9]: *Jingang bore boluomi jing*, entire text: over ten semantic uses of 法 ("dharma/dharmas") catalogued, T08, No. 235. See §2.5 of this paper and retrieval log Q2.
 
 [^10]: *Jingang bore boluomi jing lun*, fascicle 1: 「如來常說筏喻法門，是法應捨，非捨法故」 — "The Tathāgata always teaches the raft-analogy dharma-gate: this dharma should be let go — not that dharma itself is discarded," Vasubandhu's version, T25, No. 1511. Note: 「非捨法故」 = not discarding dharma itself.
 

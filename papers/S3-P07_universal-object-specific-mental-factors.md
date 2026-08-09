@@ -150,7 +150,7 @@ This verse, consistent with the opening verse of the *Dhammapada*, establishes t
 
 #### 2.5 Āgama: Attention — Right Thinking and Wrong Thinking
 
-Among the five universals, "attention" (manaskāra) presents an important terminological discovery from this paper's RAG research: the term "appropriate attention" (yoniso manasikāra) does not appear in the Chinese Āgama translations — it is a later Abhidharma coinage. The corresponding Āgama term is "right thinking" (sammā-saṅkappa) and its opposite, "wrong thinking."[^18]
+Among the five universals, "attention" (manaskāra) presents an important terminological discovery from this paper's corpus research: the term "appropriate attention" (yoniso manasikāra) does not appear in the Chinese Āgama translations — it is a later Abhidharma coinage. The corresponding Āgama term is "right thinking" (sammā-saṅkappa) and its opposite, "wrong thinking."[^18]
 
 This terminological difference does not affect doctrinal consistency. *Saṃyukta Āgama* sūtra 346 unfolds an extremely important causal chain revealing how "wrong thinking" leads to cyclic existence:
 
@@ -667,7 +667,7 @@ Conversely, object-specifics are not necessarily "wholesome" — wisdom pervades
 
 ### ❌ 5.2 "Right Thinking" Does Not Equal "Appropriate Attention" — A Terminological Distinction
 
-This paper's RAG research reveals an important terminological fact: "appropriate attention" (yoniso manasikāra) does not appear in the Chinese Āgama translations — it is a later Abhidharma term. The corresponding Āgama term is "right thinking" (sammā-saṅkappa).[^105]
+This paper's corpus research reveals an important terminological fact: "appropriate attention" (yoniso manasikāra) does not appear in the Chinese Āgama translations — it is a later Abhidharma term. The corresponding Āgama term is "right thinking" (sammā-saṅkappa).[^105]
 
 The psychological referents overlap but are not identical: "right thinking" in the Āgamas is closer to "correct direction of thinking" (such as right thinking about the Four Noble Truths or dependent origination), covering a broader range. "Appropriate attention" in Yogācāra specifically refers to the attention mental factor's "appropriate" mode of operation — directing the mind toward reality. Directly equating the Āgama "right thinking" with Yogācāra "appropriate attention" is academically imprecise.
 
@@ -826,7 +826,7 @@ Lazarus, R. S., and S. Folkman. *Stress, Appraisal, and Coping*. New York: Sprin
 
 [^17]: Ibid. 「心為法本，心尊心使」 "Mind is the forerunner of all dharmas; mind is chief, mind is maker." Consistent with the opening verse of the *Dhammapada*.
 
-[^18]: RAG research finding: yoniso manasikāra (如理作意) does not appear in Chinese Āgama translations; it is a later Abhidharma term. The Āgama equivalent is "right thinking" (正思惟) / "wrong thinking" (不正思惟).
+[^18]: Corpus-search finding: yoniso manasikāra (如理作意) does not appear in Chinese Āgama translations; it is a later Abhidharma term. The Āgama equivalent is "right thinking" (正思惟) / "wrong thinking" (不正思惟).
 
 [^19]: 雜阿含經 *Saṃyukta Āgama* fasc. 14, sūtra 346: The wrong-thinking causal chain. T2, No. 0099.
 

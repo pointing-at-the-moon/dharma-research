@@ -754,7 +754,7 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 [^42]: *Cheng Weishi Lun* vol. 2: "'Unknowable' means that this cognitive activity is extremely subtle … the external vessel-world immeasurable in extent." The unknowability of the eighth consciousness's apprehension of body-faculties-vessel. *Taishō* vol. 31, No. 1585.
 
-[^43]: *Abhidharmasamuccaya-vyākhyā* vol. 1: "Form subsumed under the mental realm is, in brief, of five types." The five-type definition of form subsumed under the mental realm. *Taishō* vol. 31, No. 1606. Note: the direct definition of these five types was not found in the *Cheng Weishi Lun* via RAG search; the definition primarily comes from the Abhidharmasamuccaya system (T1605, T1606).
+[^43]: *Abhidharmasamuccaya-vyākhyā* vol. 1: "Form subsumed under the mental realm is, in brief, of five types." The five-type definition of form subsumed under the mental realm. *Taishō* vol. 31, No. 1606. Note: the direct definition of these five types was not found in the *Cheng Weishi Lun* via full-text search; the definition primarily comes from the Abhidharmasamuccaya system (T1605, T1606).
 
 [^44]: The classification of minimal form: the mental consciousness analyzes form down to the atom; this "atom" is a conceptual construct of the mental consciousness (form subsumed under the mental realm), not a fundamental material unit existing independently of consciousness. This closes a loop with the *Cheng Weishi Lun* vol. 1's "not constituted by atoms."
 

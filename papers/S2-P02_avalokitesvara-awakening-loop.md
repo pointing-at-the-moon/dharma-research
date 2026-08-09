@@ -447,7 +447,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 ---
 
-*This paper is S2-P02 of the Point-to-the-moon research project. All scriptural citations verified through the CBETA Tripiṭaka RAG system.*
+*This paper is S2-P02 of the Point-to-the-moon research project. All scriptural citations verified through the CBETA Tripiṭaka full-text search.*
 
 *Shi Huijing 釋慧鏡 | Point-to-the-moon 指月*
 *CC BY-NC-SA 4.0 | CBETA-sourced | github.com/pointing-at-the-moon/dharma-research*

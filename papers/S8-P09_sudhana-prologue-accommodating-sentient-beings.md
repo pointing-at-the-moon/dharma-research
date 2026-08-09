@@ -296,7 +296,7 @@ The greatest value of cross-disciplinary correlation is precisely this: by means
 
 ❌ **Calibration 2: Do not read the fifty-three visits as spiritual tourism**.
 
-S8_PLAN v2.2 lists this as the eighth pedagogical hazard. §3.4's bidirectional-structure argument is the strongest counter to this misreading: if the fifty-three visits are a bidirectional structure, then they are not Sudhana's stamp-collecting dharma-quest adventure at all, but the *dharmadhātu*'s successive self-disclosure to itself. Every visit is a *dharmadhātu* event, not a tourist attraction.
+系列規劃 v2.2 lists this as the eighth pedagogical hazard. §3.4's bidirectional-structure argument is the strongest counter to this misreading: if the fifty-three visits are a bidirectional structure, then they are not Sudhana's stamp-collecting dharma-quest adventure at all, but the *dharmadhātu*'s successive self-disclosure to itself. Every visit is a *dharmadhātu* event, not a tourist attraction.
 
 ❌ **Calibration 3: Do not read "phenomenon *is* Dharma" as mysticism**.
 
@@ -385,7 +385,7 @@ The argument has unfolded in three layers: **textual fact** (the four-step closi
 
 [^1]: *Dafangguang fo huayan jing*, fascicle 40 (40-fascicle *Huayan*, *Practices and Vows of Samantabhadra*), T0293, T10, no. 293, p. 845c. Unless otherwise noted, all citations in this paper from the Ten Great Vows of Samantabhadra are drawn from the 40-fascicle *Huayan*.
 
-[^2]: See item 8 of the Pedagogical Hazards Table in S8_PLAN v2.2: "the touristification of the fifty-three visits."
+[^2]: See item 8 of the Pedagogical Hazards Table in 系列規劃 v2.2: "the touristification of the fifty-three visits."
 
 [^3]: Fazang, *Huayan jing tanxuan ji*, fascicle 1, T1733, T35. See §2.10 of this paper.
 

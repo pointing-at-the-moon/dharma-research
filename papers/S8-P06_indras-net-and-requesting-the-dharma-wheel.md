@@ -246,7 +246,7 @@ Thus the extended statement of S4's judgment in this subsection is: even if some
 
 ⚠️ This subsection is a structural observation at the cognitive-science level, not an evaluation of physicists as individuals.
 
-The carry-forward passdown of S8-P06 once left in reserve a strong-formulation sentence yet to be unfolded. It is now formally laid down: **The surprise of physics is the result of physicists' consciousness, operating within the desire-realm reception band, being driven by its own premise structure. The *dharmadhātu* is never surprised, because the *dharmadhātu* just is Indra's net from the beginning.**
+The carry-forward notes of S8-P06 once left in reserve a strong-formulation sentence yet to be unfolded. It is now formally laid down: **The surprise of physics is the result of physicists' consciousness, operating within the desire-realm reception band, being driven by its own premise structure. The *dharmadhātu* is never surprised, because the *dharmadhātu* just is Indra's net from the beginning.**
 
 For this sentence to be understood, it must be unpacked into two structural layers. The first is the *attribution* layer: "surprise" is not a property of the fact itself, but the reaction of a cognitive subject, operating under a given premise structure, when it encounters a counterexample. The violation of Bell's inequality, the holding of the AdS/CFT duality, the unfolding of the black-hole information paradox — as physical facts these three are simply "the world as it is"; what makes them provoke surprise is that the consciousness receiving them operates within a premise-frame that presupposes locality, presupposes information conservation, presupposes an independent spacetime background. The responsibility for the surprise lies not in the personhood of the physicist but in the artificiality of the premise structure itself. Point-to-the-Moon here strictly closes along the three-layered container thesis of S8-P02: surprise is a product of the desire-realm reception band, not a defect of physics as a discipline [^32b].
 
@@ -439,7 +439,7 @@ This paper rests primarily on the original sūtra and patriarchal commentaries a
 
 [^4]: Ibid.
 
-[^5]: *Qishi jing* (《起世經》), fascicle 1, "Yanfuzhou-pin" 〈閻浮洲品〉, *Taishō* vol. 1, no. 24. Precise Taishō page/line to be supplemented from RAG.
+[^5]: *Qishi jing* (《起世經》), fascicle 1, "Yanfuzhou-pin" 〈閻浮洲品〉, *Taishō* vol. 1, no. 24. Precise Taishō page/line to be supplemented on collation.
 
 [^6]: *Mahāvaipulya-buddha-avataṃsaka-sūtra*, fascicle 14, "Xianshou-pin" 〈賢首品第十二之一〉, *Taishō* vol. 10, no. 279, lines 431–432.
 
