@@ -16,7 +16,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Diamond Sūtra §6 raft analogy — "dharma should still be let go, how much more so non-dharma" (法尚應捨，何況非法) — is the most commonly misread passage in the entire sūtra. Popular readings interpret "dharma should be let go" as meaning "Buddhist teachings are unimportant" or even "practice is unnecessary," sliding directly into nihilism. This paper argues that the doctrinal core of the raft analogy is not "abandoning dharma" but the "right use" of paratantra (dependent nature): the raft is paratantra (dependently arisen, genuinely useful); clinging to the raft as a destination becomes parikalpita (the imagined turns the tool into a prison); setting it down after crossing reveals pariniṣpanna (the raft remains in the water, but you have reached the shore). Through the raft analogy's prototype in the Madhyama Āgama's Alagaddūpama Sutta (T0026) — the paired snake-and-raft teaching — this paper traces the analogy's pedagogical design: not "dharma is unimportant" but "how you learn dharma determines its efficacy." Using the Saṃdhinirmocana Sūtra's (T0676) "neither superimposing nor diminishing," the Cheng weishi lun's (T1585) āśraya-parāvṛtti mechanism and post-attainment cognition, and the Yogācārabhūmi's (T1579) upāya-kauśalya pāramitā as Yogācāra evidence, the paper establishes the raft analogy's trisvabhāva mapping and practice sequence. Vasubandhu's verse — "not abiding, in accordance, attaining wisdom within dharma, like a person releasing a raft" — confirms the analogy's precise operation: not abandoning dharma itself ("not discarding dharma"), but "non-abiding." Kuiji's gloss — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way" — positions the raft analogy as the core teaching of Middle Way praxis.
+The Diamond Sūtra §6 raft analogy — "dharma should still be let go, how much more so non-dharma" (法尚應捨，何況非法) — is the most commonly misread passage in the entire sūtra. Popular readings interpret "dharma should be let go" as meaning "Buddhist teachings are unimportant" or even "practice is unnecessary," sliding directly into nihilism. This paper argues that the doctrinal core of the raft analogy is not "abandoning dharma" but the "right use" of paratantra (dependent nature): the raft is paratantra (dependently arisen, genuinely useful); clinging to the raft as a destination becomes parikalpita (the imagined turns the tool into a prison); setting it down after crossing reveals pariniṣpanna (the raft remains in the water, but you have reached the shore). Through the raft analogy's prototype in the Madhyama Āgama's Alagaddūpama Sutta (T0026) — the paired snake-and-raft teaching — this paper traces the analogy's pedagogical design: not "dharma is unimportant" but "how you learn dharma determines its efficacy." Using the Saṃdhinirmocana Sūtra's (T0676) "neither superimposing nor diminishing," the Cheng weishi lun's (T1585) āśraya-parāvṛtti mechanism and post-attainment cognition, and the Yogācārabhūmi's (T1579) upāya-kauśalya pāramitā as Yogācāra evidence, the paper establishes the raft analogy's trisvabhāva mapping and practice sequence. Vasubandhu's verse — "not abiding, in accordance, attaining wisdom within dharma, like a person releasing a raft" — confirms the analogy's precise operation: not abandoning dharma itself ("not discarding dharma"), but "non-abiding." Zixuan's gloss — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way" — positions the raft analogy as the core teaching of Middle Way praxis.
 
 **Keywords:** Diamond Sūtra, raft analogy, dharma should be let go, paratantra, right use, trisvabhāva mapping, āśraya-parāvṛtti, pṛṣṭha-labdha-jñāna, upāya-kauśalya, Middle Way
 
@@ -168,9 +168,9 @@ Asaṅga in the *Jingang bore lun* (T1510a/T1510b) approaches the raft analogy f
 
 Asaṅga further proposes the "five types of wrong grasping" framework:[^14] non-Buddhists' self-notions, Buddhist worldlings' and śrāvakas' dharma-mark turning, overconfident bodhisattvas' non-pure-notion turning (which still constitutes dharma-grasping), mundane shared-notion samādhi, and no-notion samādhi. The raft analogy counters all five — not merely one particular error, but every form of "grasping."
 
-#### 2.8 Kuiji: "Departing Both Existence and Non-Existence, One Returns to the Middle Way"
+#### 2.8 Kuiji and Zixuan: "Departing Both Existence and Non-Existence, One Returns to the Middle Way"
 
-Kuiji in the *Jingang bore boluomi jing zanshu* (T1700) reads the raft analogy through multiple layers.
+Kuiji's *Jingang bore boluomi jing zanshu* (T1700) and Zixuan's *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記, T1702) read the raft analogy through multiple layers.
 
 On the positioning of dharma-grasping, Kuiji states explicitly in fascicle 2:[^15]
 
@@ -178,19 +178,19 @@ On the positioning of dharma-grasping, Kuiji states explicitly in fascicle 2:[^1
 
 Prajñā's core function is "primarily removing dharma-grasping" — not merely self-grasping. The raft analogy is the central passage in this dharma-grasping curriculum.
 
-On the Middle Way operation, Kuiji directly summarizes the raft analogy in fascicle 4:[^16]
+On the Middle Way operation, Zixuan directly summarizes the raft analogy in fascicle 4:[^16]
 
 > "Should not grasp dharma" departs from existence. "Should not grasp non-dharma" departs from non-existence. Having departed both existence and non-existence, one returns to the Middle Way.
 
 Not grasping dharma = departing from existence (not clinging to dharma as substantially real). Not grasping non-dharma = departing from non-existence (not falling into nihilistic denial). Departing both sides — this is the Middle Way. The raft analogy does not teach you to "let go." It teaches you the Middle Way.
 
-Kuiji further offers a subtle analysis of "provisional words revealing meaning":[^17]
+Zixuan further offers a subtle analysis of "provisional words revealing meaning":[^17]
 
 > What is called "non-dharma" reveals that the dharma's substance is free from fixed conceptual attribution. Without the words "non-dharma," one could not know this meaning. The same applies throughout. Know that meaning does not reveal itself; it necessarily relies on words. Hence the Vimalakīrti says: "There is no liberation apart from written words."
 
 "Meaning does not reveal itself; it necessarily relies on words" — doctrinal truth does not emerge on its own; it must borrow language. But language is not the truth itself. The raft (language) is necessary — without it you cannot cross the river; but the raft is not the far shore — upon arrival you need not carry it on your back.
 
-Kuiji also addresses innate dharma-grasping:[^18]
+Zixuan also addresses innate dharma-grasping:[^18]
 
 > "Those who have not yet removed the subtle grasping" refers to the innate, spontaneously arising forms of the two graspings... the subtle grasping has not been removed and ultimately obstructs the holy path, hence this teaching is presented to eliminate it.
 
@@ -316,7 +316,7 @@ First-level reading: "non-dharma" = incorrect teachings, wrong views. Even corre
 
 Second-level reading: "non-dharma" = the negation of dharma. §6's logic runs "if they grasp the dharma-mark... if they grasp the non-dharma-mark" — grasping "dharma" and grasping "non-dharma" are listed as equally erroneous. "Non-dharma" is not some specific bad thing; it is "dharma's" negative face — the position "dharma does not exist" or "dharma is meaningless." Holding this position is as much parikalpita as clinging to dharma.
 
-Kuiji's reading is more precise:[^31]
+Zixuan's reading is more precise:[^31]
 
 > The dharma of true reality is itself unobtainable — how much less all dharmas outside of true reality? "Apart from the true reality of all dharmas, everything else is the work of Māra."
 
@@ -420,7 +420,7 @@ This is the raft analogy's greatest pedagogical danger. If you "let go of dharma
 
 ### ❌ The Raft Analogy Is Not Relativism
 
-"Dharma should be let go, how much more so non-dharma" does not mean "dharma and non-dharma are equally valid" or "anything goes." The raft is necessary while crossing the river — you cannot cross with a "non-raft" (a stone, a pile of mud). Kuiji's Middle Way analysis — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence" — makes clear: not grasping dharma and not grasping non-dharma are simultaneous, not an assertion that dharma and non-dharma are interchangeable. The Saṃdhinirmocana Sūtra's warning is more direct: "If a dharma truly exists, know it as truly existing; if a dharma truly does not exist, know it as truly not existing" — faithful knowing is the key, not "it's all the same anyway."
+"Dharma should be let go, how much more so non-dharma" does not mean "dharma and non-dharma are equally valid" or "anything goes." The raft is necessary while crossing the river — you cannot cross with a "non-raft" (a stone, a pile of mud). Zixuan's Middle Way analysis — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence" — makes clear: not grasping dharma and not grasping non-dharma are simultaneous, not an assertion that dharma and non-dharma are interchangeable. The Saṃdhinirmocana Sūtra's warning is more direct: "If a dharma truly exists, know it as truly existing; if a dharma truly does not exist, know it as truly not existing" — faithful knowing is the key, not "it's all the same anyway."
 
 ### ❌ "Letting Go" Presupposes "Having Taken Up"
 
@@ -446,7 +446,7 @@ First, the doctrinal core of the raft analogy is not "abandoning dharma" but the
 
 Second, the Madhyama Āgama's prototype teaching (paired snake-and-raft analogies) reveals the raft analogy's complete structure: the correctness of one's learning method matters more than whether one learns (snake analogy); after learning correctly, one must still release the tool at the appropriate time (raft analogy). The Diamond Sūtra compresses this into eight characters — "dharma should be let go, how much more so non-dharma" — yet the pedagogical logic is fully preserved.
 
-Third, Vasubandhu's "not discarding dharma itself" and "non-abiding in accordance," Asaṅga's "because right cognition has arisen," and Kuiji's "departing both existence and non-existence, one returns to the Middle Way" — three Yogācāra masters confirm from different angles: the raft analogy teaches "non-abiding," not "negation"; the Middle Way, not nihilism.
+Third, Vasubandhu's "not discarding dharma itself" and "non-abiding in accordance," Asaṅga's "because right cognition has arisen," and Zixuan's "departing both existence and non-existence, one returns to the Middle Way" — the treatise masters and the commentator confirm from different angles: the raft analogy teaches "non-abiding," not "negation"; the Middle Way, not nihilism.
 
 Fourth, the Cheng weishi lun's āśraya-parāvṛtti mechanism provides precise Yogācāra translation for the raft analogy: the basis (paratantra) is not destroyed; what is abandoned is the parikalpita superimposed upon paratantra; what is attained is the pariniṣpanna within paratantra. The raft remains in the water, but you have reached shore — your relationship with the raft has changed; the raft itself has not.
 

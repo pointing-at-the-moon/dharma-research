@@ -81,7 +81,7 @@ The *Cheng Weishi Lun* further describes three forms of discouragement that prac
 
 These three forms of discouragement are strikingly realistic: shrinking upon hearing how vast awakening is; shrinking upon hearing how difficult the perfections are to practice; shrinking upon hearing how nearly impossible the full transformation of the basis is to achieve. This is not ancient exaggeration but the psychological process that every person who seriously confronts the path will experience. The three forms of tempering are equally practical — not "don't be afraid," but: look to those who have already accomplished it as mirrors; examine your own aspiration; use others' modest goodness to encourage your own finer causes.
 
-Kuiji, in his *Commentary on the Diamond Sūtra*, points directly to the transitional condition between the Path of Accumulation and the Path of Preparation:
+Zixuan, in his *Jingang jing zuanyao kanding ji*, points directly to the transitional condition between the Path of Accumulation and the Path of Preparation:
 
 > "Though in the three stages of wise practice one has 'unsystematically' cultivated the six perfections for one incalculable eon, to enter the holy path requires the Buddha's impetus. Therefore, after the Path of Accumulation, the name 'intensified practice' is established. It is like drilling for fire — when the fire is about to emerge, one redoubles one's effort."[^5]
 

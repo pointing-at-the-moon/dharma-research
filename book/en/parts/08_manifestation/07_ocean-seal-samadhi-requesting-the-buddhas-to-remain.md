@@ -1,4 +1,4 @@
-## 8.7 The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Acknowledgment, Not Petition
+## 8.7 The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Not Only Petition but Acknowledgment
 
 The end of the previous chapter fixed the separation of space as an illusion. This chapter takes up the separation of time.
 
@@ -10,9 +10,9 @@ But its starting point is not a comfortable doctrinal deduction. It is a questio
 
 And yet the seventh of Samantabhadra's ten great vows is called **requesting the Buddhas to remain in the world**. In the face of the historical fact that one Buddha has already entered *nirvāṇa* and that other Buddhas will enter it too, whom exactly does this vow ask to remain? What is it requesting?
 
-This chapter answers that question. The answer, in a single sentence first: **requesting the Buddhas to remain in the world is not a request that some external Buddha extend the lifespan of his physical body; it is a direct, present acknowledgment of one structural fact—that the sealing-function of the Ocean Seal Samādhi "manifests moment by moment without cease."**
+This chapter answers that question. The answer, in a single sentence first: **requesting the Buddhas to remain in the world is not only a request that some external Buddha extend the lifespan of his physical body; it is also a direct, present acknowledgment of one structural fact—that the sealing-function of the Ocean Seal Samādhi "manifests moment by moment without cease."**
 
-Petition is powerless before historical fact. Acknowledgment does not need historical fact to change.
+As regards Śākyamuni's physical body, petition is powerless before historical fact. Acknowledgment does not need historical fact to change.
 
 ### The Āgama Negative: The Rain-Drenched Night at the Cāpāla Shrine
 
@@ -116,13 +116,13 @@ This reversal is not Huayan negating the āgama. The rain-drenched night at the 
 
 This is also why you still can, and still should, go on reciting the Buddha's name, bowing to the Buddha, and chanting the scriptures—these acts are, at the historical layer, a remembrance of the Śākyamuni Buddha who has passed away, and at the structural layer an acknowledgment of the sealing-function present moment by moment. **Both layers hold at once**, and neither needs to be cancelled.
 
-### Vow Seven Is Acknowledgment, Not Petition
+### Vow Seven Is Not Only Petition but Acknowledgment
 
-The conclusions of the preceding sections can be gathered into one sentence: **Vow Seven is not petition; it is acknowledgment.**
+The conclusions of the preceding sections can be gathered into one sentence: **Vow Seven is not only petition; it is also acknowledgment.**
 
-What you request is not that some external Buddha extend the lifespan of his physical body—with the historical fact standing before you, such a petition is both powerless and a misreading. What you acknowledge is the structural fact that within your own mind, moment by moment, a Buddha is always attaining perfect awakening. What remains is not Śākyamuni Buddha's physical form; what remains is this sealing-function itself. And this sealing-function **remains moment by moment and has never departed**.
+What you request is not only that some external Buddha extend the lifespan of his physical body—of the Buddhas and Tathāgatas of the ten directions and three times who are about to manifest *parinirvāṇa*, the sūtra plainly bids you make earnest entreaty, and that layer stands word for word. Deeper still, what you acknowledge is the structural fact that within your own mind, moment by moment, a Buddha is always attaining perfect awakening. What remains is not only Śākyamuni Buddha's physical form; it is also this sealing-function itself. And this sealing-function **remains moment by moment and has never departed**.
 
-The true action of the four words "requesting the Buddhas to remain in the world" is **turning the mind toward the sealing-function that has been at work all along, rather than asking some external thing to change its state**.
+The true action of the four words "requesting the Buddhas to remain in the world" is not only asking some external thing to change its state; it is also **turning the mind toward the sealing-function that has been at work all along**.
 
 This "acknowledgment" is not the affirmation of a philosophical proposition; it is a present, actual act—just as, in the instant the king of the Brahmā heaven knew from afar, there was no calculation, no effort, no preparation; the distant knowing was already, in itself, complete. Acknowledgment is the same: it is not first thinking and then doing; it is an act in itself.
 

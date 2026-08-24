@@ -127,7 +127,7 @@ The common reading of entreating the turning of the Dharma-wheel in Chinese Budd
 
 But if left at this level, entreating the turning of the Dharma-wheel becomes merely a social request-gesture—you are the requester, the master is the requested, between you lies a physical, one-directional petition-relation, disconnected from the ten-direction dharma-realm. Read this way, entreating the turning of the Dharma-wheel is demoted from one of Samantabhadra's ten great vows into a daily ceremony, losing the full doctrinal weight it carries as a practice-gate of the perfect teaching.
 
-⚠️ We must distinguish this plainly from that surface reading: **entreating the turning of the Dharma-wheel is not requesting a particular master to lecture on a particular sūtra; it is, in each present moment of thought, the acknowledgment that "separation is an illusion, so nothing needs to be transmitted."**
+⚠️ We must press one layer beneath that surface reading: **entreating the turning of the Dharma-wheel is not only requesting a particular master to lecture on a particular sūtra; it is also, in each present moment of thought, the acknowledgment that "separation is an illusion, so nothing needs to be transmitted."**
 
 When the first thought arises in you at dawn, that thought is itself already an entreaty for the Dharma—because that thought is already in Indra's net, and all the jewels upon the net mirror one another simultaneously in that one thought; one jewel moves, all jewels move; one place entreats the Dharma, the ten directions entreat the Dharma. You need not wait for some external master, some specific sūtra, some particular Dharma-seat—**the Dharma is already turning; it needs only to be acknowledged.**
 
@@ -159,7 +159,7 @@ These three scenes are not an exhaustive list; they are demonstrations. You may 
 
 This chapter ends here.
 
-Indra's net is not a dharma-realm structure external to you; it is the structure within which you already stand in every present action. Entreating the turning of the Dharma-wheel is not an outward-petitioning action; it is the natural unfolding of the Indra's-net structure upon this jewel that is you—when you acknowledge it in the present, each thought-moment of entreaty is itself the present self-manifestation of "one jewel contains all jewels."
+Indra's net is not a dharma-realm structure external to you; it is the structure within which you already stand in every present action. Entreating the turning of the Dharma-wheel is not only an outward-petitioning action; it is also the natural unfolding of the Indra's-net structure upon this jewel that is you—when you acknowledge it in the present, each thought-moment of entreaty is itself the present self-manifestation of "one jewel contains all jewels."
 
 The original awakening of suchness—the face of it that has always pervaded the ten directions and the three times, that has always been clear and luminous within all the jewels at once—never needed you to "attain" it. It only waits for you to put down the premise of "separation." What did Brahmā's knowing-from-afar accomplish? Nothing. The knowing-from-afar was always already complete—Brahmā only acknowledged it.
 

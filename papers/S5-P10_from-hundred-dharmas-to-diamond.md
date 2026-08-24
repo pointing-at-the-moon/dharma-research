@@ -237,7 +237,7 @@ Kuiji glosses this in the *Zànshù*:[^22] "'Wisdom-practice' means cultivating 
 
 These five characters — "wisdom-practice, consciousness-only, penetration" — are precisely the bridging formula for S3→S5: "wisdom" is prajñā (S5), "practice" is cultivation (S3's hundred-dharma study), "consciousness-only" is the contemplative framework (S3's toolkit), and "penetration" is reaching true reality (S5's prajñā arriving at *pariniṣpanna*). Not "first consciousness-only, then wisdom," but "wisdom-practice-consciousness-only-penetration" — the cultivation of prajñā uses consciousness-only as its medium to penetrate reality.
 
-#### 2.10 Kuiji's *Zànshù*: Reading the Diamond Sūtra Through Yogācāra
+#### 2.10 Kuiji's *Zànshù* and Zixuan's *Kanding ji*: Reading the Diamond Sūtra Through Yogācāra
 
 Kuiji systematically interprets the Diamond Sūtra through the Yogācāra framework. The most essential passage:[^23]
 
@@ -247,7 +247,7 @@ Kuiji systematically interprets the Diamond Sūtra through the Yogācāra framew
 
 The rope analogy precisely expresses the relationship between the hundred dharmas and the Diamond Sūtra: hemp (reality / *pariniṣpanna*) is twisted into rope (paratantra / hundred-dharma classification), and you see the rope and think it is a snake (*parikalpita* / reified attachment). The Diamond Sūtra's prajñā does not sever the rope — it lets you see that "the rope is not a snake." The rope remains (the hundred-dharma toolkit does not vanish), but the snake disappears (reified attachment is demolished). Then you discover: the rope too is not ultimately rope — it is hemp. The hundred dharmas too are not ultimately hundred dharmas — they are the provisional designations of suchness.
 
-Kuiji's two-truth interpretation of the "is not… is called" structure:[^24]
+Zixuan's two-truth interpretation of the "is not… is called" structure:[^24]
 
 > 即非佛法，是勝義諦遮增益邊，是名佛法，是世俗諦遮損減邊。
 >
@@ -255,7 +255,7 @@ Kuiji's two-truth interpretation of the "is not… is called" structure:[^24]
 
 "Is not" prevents superimposition — prevents you from reifying the Dharma. "Is called" prevents denial — prevents you from nihilating the Dharma. All instances of "is not… is called" follow this pattern. This is precisely the description of the hundred dharmas' dimensional ascent: "is not hundred dharmas" prevents superimposition (the hundred dharmas are not the real structure of mind), while "is called hundred dharmas" prevents denial (the hundred dharmas remain useful as contemplative designations).
 
-Kuiji further positions the Diamond Sūtra within the "dharma-mark-deconstructing school" (*pòxiāng zōng*):[^25]
+Zixuan further positions the Diamond Sūtra within the "dharma-mark-deconstructing school" (*pòxiāng zōng*):[^25]
 
 > 般若宗於破相。
 >
@@ -489,7 +489,7 @@ However, "not a strict sequence" also does not mean "skip the foundations." The 
 
 The *Śatadharmaprakāśamukha* is a Mahāyāna treatise — composed by Vasubandhu Bodhisattva, governed by "all dharmas are without self," including dharma-selflessness (not merely person-selflessness). The Diamond Sūtra is a Mahāyāna sūtra — centered on prajñā, oriented toward the bodhisattva path. Both are different facets of the same practice system — analysis and contemplation, construction and deconstruction, consciousness and wisdom.
 
-Kuiji's doctrinal classification already indicated:[^35] the dharma-mark school (*Saṃdhinirmocana*, *Yogācāra*, *Vijñaptimātra*) and the mark-deconstructing school (*Prajñā*, *Madhyamaka*, *Śata*) differ in approach, yet "the overarching intent is simply to deconstruct sentient beings' *parikalpita*-based emotional grasping." S3 deconstructs *parikalpita* through analytical method; S5 deconstructs *parikalpita* through prajñā method — different methods, same objective.
+The doctrinal classification in Zixuan's *Kanding ji* already indicated:[^35] the dharma-mark school (*Saṃdhinirmocana*, *Yogācāra*, *Vijñaptimātra*) and the mark-deconstructing school (*Prajñā*, *Madhyamaka*, *Śata*) differ in approach, yet "the overarching intent is simply to deconstruct sentient beings' *parikalpita*-based emotional grasping." S3 deconstructs *parikalpita* through analytical method; S5 deconstructs *parikalpita* through prajñā method — different methods, same objective.
 
 ### ❌ Misreading Four: "I no longer need the hundred dharmas"
 

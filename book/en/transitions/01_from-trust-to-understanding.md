@@ -52,6 +52,8 @@ The Heart Sūtra does not ask the reader to forget the previous ten chapters. It
 
 And what is recognized in the moment of that loosening is neither loosening nor tightening—neither holding nor letting go. It is that which has been watching this hand from beginning to end. It never held anything, so it has nothing to release; it never grasped at anything, so it has nothing to be freed from. This "that which has been watching all along"—belonging to no part, no chapter, no stage of the whole business of practice—is the **original awareness** that the part on understanding is here to let you recognize.
 
+One distinction must be made here: this is not the setting up of a permanent knowing self outside the eighteen elements—the moment you say "there is an it, over there," you have already turned it into an object. It is not "you are aware"; it is "awareness is happening."
+
 It is not at the end of the road. It is the very pair of eyes by which that road is walked.
 
 Part II begins with the title of the Heart Sūtra.

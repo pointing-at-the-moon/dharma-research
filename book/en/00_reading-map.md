@@ -236,8 +236,8 @@ This table is the correspondence map between the book and the 92 underlying pape
 | 8.4 | S8-P04 | From "Covering" to Nature-Origination—Repenting Karmic Obstructions as the Entrance to the Practice-Gate of the Avataṃsaka Perfect Teaching | 6,192 |
 | 8.5 | S8-P05 | Rejoicing in Merit—Why a Single Thought of Rejoicing Is the Perfect Clarity of Host and Companion | 5,115 |
 | 8.6 | S8-P06 | The Gate of Indra's Net—Requesting the Turning of the Dharma-Wheel, Separation Is an Illusion and So Nothing Need Be Transmitted | 4,404 |
-| 8.7 | S8-P07 | The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Acknowledgment, Not Petition | 4,087 |
-| 8.8 | S8-P08 | The Perfect Fusion of the Six Characteristics—Constantly Following the Buddha to Learn, "Constantly" Is Simultaneity, Not Length of Time | 4,689 |
+| 8.7 | S8-P07 | The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Not Only Petition but Acknowledgment | 4,087 |
+| 8.8 | S8-P08 | The Perfect Fusion of the Six Characteristics—Constantly Following the Buddha to Learn, "Constantly" Is Simultaneity, Not Only Length of Time | 4,689 |
 | 8.9 | S8-P09 | The Prologue to Sudhana's Southward Journey—Complying with All Beings, the Practice-Gate of Revealing the Dharma Through Concrete Matters | 4,428 |
 | 8.10 | S8-P10 | Universal Dedication—the Eighty-Four Years of Socket and Plug | 4,958 |
 | 8.11 | S8-P11 | The Ten Great Vows Beneath the Ten Windows—One Is Ten, Ten Is One | 4,169 |

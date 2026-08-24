@@ -18,6 +18,8 @@ If that reading were correct, then the toolbox of Part III could be thrown away 
 
 What this chapter argues is this: **the staircase reading was never Fazang's intention to begin with.**
 
+⚠️ One line must be drawn first. To say that the staircase reading was not Fazang's intention is not to say that no gradation stands among the five teachings at all. In fascicle one of the *Treatise* Fazang plainly establishes a root teaching and a branch teaching, and says outright that these are "also named the ultimate and the expedient" — measured against the one vehicle, the three vehicles and the Lesser Vehicle are all expedient. This layer of the provisional and the real, the chapter does not cancel. What the chapter blocks is only the reading of that gradation as a ladder of rank along a single axis — for in the very passage where Fazang speaks of root and branch, he also says "root and branch fused into one, a single great skillful means." Root and branch stand together, the provisional and the real stand together: that is Fazang as he actually is.
+
 ### The five teachings are not a staircase
 
 Fazang does, in fascicle one of the *Treatise*, arrange the five teachings as: Lesser Vehicle, initial teaching of the Great Vehicle, final teaching, sudden teaching, perfect teaching. None of this is in dispute. Within it, Yogācāra (together with Prajñāpāramitā) is classified as the initial teaching; the tathāgatagarbha corpus (the *Awakening of Faith*, the *Laṅkāvatāra*, the *Śrīmālā*, the *Ratnagotravibhāga*) as the final teaching; Avataṃsaka itself as the perfect teaching.
@@ -120,7 +122,7 @@ At the beginning, when you recited this line, your mind was performing the act o
 
 You who have walked to Part VIII — when you recite this line, what happens in your mind has changed. The butterfly effect of the initial aspiration in Part I, the form-is-emptiness of Part II, the hundred-dharmas-gate of Part III, the tathāgatagarbha of Part VI — this whole sequence of teaching has quietly reorganized your inner reference frame. When you now recite "Homage to the Original Teacher Śākyamuni Buddha," what your mind is actually doing is something else:
 
-**If the Buddha's nature and my own nature are one and the same, and if the Buddha can attain these self-determined freedoms, then the possibility of these freedoms is also in me. My present praise is not the gazing-up at a distant other; it is the confirming of something already within me, intrinsically there from the start.**
+**If the Buddha's nature and my own nature are one and the same, and if the Buddha can attain these self-determined freedoms, then the possibility of these freedoms is also in me. My present praise is not only the gazing-up at a distant other; it is also the confirming of something already within me, intrinsically there from the start.**
 
 Note this reversal. Your praise has shifted from **outward pointing** (pointing at the distant Buddha) to **inner confirmation** (confirming the Buddha-nature intrinsic to yourself). The six syllables "Homage to the Original Teacher Śākyamuni Buddha" have not changed at all in sound or form, but their function in your inner life has changed — from "an outward act of veneration" to **the reverse movement of establishing faith in yourself.**
 

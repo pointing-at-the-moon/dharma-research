@@ -144,7 +144,7 @@ The awakened nature, the buddha-nature, inherently complete in every sentient be
 **Distinguish**: the Śrīmālā Sūtra posits two gates, the "empty tathāgatagarbha" and the "non-empty tathāgatagarbha"; the Awakening of Faith instead subsumes them under "one mind, two gates" (the gate of mind as suchness and the gate of mind as arising-and-ceasing); the two stances differ, and this book unfolds them in separate entries in the corresponding chapters.
 
 ### 行深 · coursing deeply
-A phrase from the Heart Sūtra, meaning to contemplate deeply into the aggregate of formations (the constructive flow of mental activity).
+A phrase from the Heart Sūtra. Its primary sense is coursing deeply in prajñāpāramitā — "coursing" is the practice, "deep" qualifies the prajñā; alongside that primary sense, this book takes a further, extended sense: to contemplate deeply into the aggregate of formations (the constructive flow of mental activity).
 **First appears**: Prajñāpāramitā-hṛdaya Sūtra (T8 No. 251).
 **In this book**: 2.3.
 
@@ -333,7 +333,7 @@ A term of this book: borrowing the Yogācāra structure of "perceived-aspect / p
 **In this book**: 4.4 The Person in the Mirror; 4.5 The Projection of Manas; 6.10 The Ten Demons of the Perception Aggregate (the mirror-image other).
 
 ### 隨喜功德 · rejoicing in merit
-The fifth of Samantabhadra's ten great vows; to give rise to a mind of gladness at another's good deeds is itself to accomplish equal merit.
+The fifth of Samantabhadra's ten great vows; the single thought in which one genuinely resonates with another's good deed, sealed by vow-and-dedication. Because the substance of merit is mind and not external form, the blessing of that one thought is deep and far-reaching; but joy that remains merely verbal or affective does not count, nor is the merit a mechanical equal of the one rejoiced in.
 **First appears**: Avataṃsaka Sūtra, "Practices and Vows of Samantabhadra" chapter; many places in the Prajñāpāramitā sūtras.
 **In this book**: 8.5 Why a Single Thought of Rejoicing Is the Perfect Clarity of Host and Guest.
 

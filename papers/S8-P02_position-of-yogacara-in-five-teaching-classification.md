@@ -221,7 +221,7 @@ In other words: **the five teachings are not five different things; they are the
 
 The central thesis of the paper can be stated in a single sentence:
 
-> **Fazang's five-teaching classification is not a value hierarchy but a description of the dharmadhātu's broadcasting structure. A single dharma, when received by receivers of different bandwidths, manifests in different resolutions — and these different resolutions exist simultaneously, none replacing any other.**
+> **Fazang's five-teaching classification is not a one-way staircase to be discarded once climbed, but a description of the dharmadhātu's broadcasting structure. A single dharma, when received by receivers of different bandwidths, manifests in different resolutions — and these different resolutions exist simultaneously, none replacing any other. Fazang does not abolish the distinction of root and branch, of provisional and real: one and the same passage of the *Treatise* says both that "root and branch are fused together as a single great skillful means" and that the root teaching and the branch teaching "are also named the ultimate and the expedient." Both senses stand together — to speak of root and branch is not to say the branch may be dropped; to judge provisional and real is not to judge the provisional disposable.**
 
 Concretizing this thesis to the three layers (Initial, Final, Round) directly relevant to the position of Yogācāra:
 

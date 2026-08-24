@@ -1,4 +1,4 @@
-## 8.8 The Six Characteristics in Perfect Fusion—"Constant" Means Simultaneous, Not a Length of Time
+## 8.8 The Six Characteristics in Perfect Fusion—"Constant" Means Simultaneous, Not Only a Length of Time
 
 At the close of the previous chapter, the seventh vow came to rest on one word: *acknowledgment*. Within your own mind, thought after thought, a buddha is always attaining full awakening. You do not need to petition some external buddha; you only need to acknowledge that the structure is already this way. The next natural movement is to **follow**.
 
@@ -137,13 +137,13 @@ Choose one of the simplest possible actions: **before a buddha-hall, joining you
 
 When the above six characteristics operate simultaneously at the instant of this action of reverence, the vow of "constantly following the Buddhas in study" is already fully realized.
 
-Not as the temporal commitment "from now on I will often follow Śākyamuni in study," but as—
+Not only as the temporal commitment "from now on I will often follow Śākyamuni in study," but also as—
 
 at this instant of reverence, learning from Śākyamuni *is* learning from the buddhas of the ten directions (totality-as-sameness + sameness-as-formation), yet Śākyamuni remains Śākyamuni (distinction-as-difference + difference-as-formation); this dharma-learning event is genuinely established (formation-establishes) and simultaneously dispels grasping at the dharma-learning (decay-abides).
 
-**The true meaning of the word "constant" is not "forever" (a length of time); it is "simultaneous" (the six-characteristics structure).** At every instant of revering Śākyamuni, these six characteristics operate simultaneously—and so every instant is already constantly following the Buddhas in study.
+**The true meaning of the word "constant" is not only "forever" (a length of time); it is also "simultaneous" (the six-characteristics structure).** At every instant of revering Śākyamuni, these six characteristics operate simultaneously—and so every instant is already constantly following the Buddhas in study.
 
-Constantly following the Buddhas in study is not a future goal you must work toward; it is the present-moment event already underway each time you revere a buddha.
+Constantly following the Buddhas in study is not only a future goal you must work toward; it is also the present-moment event already underway each time you revere a buddha.
 
 The corresponding profound gate, the *Mutual Containment Without Confusion*, and the six-characteristics version of this chapter are two facets of the same doctrine. Mutual containment—learning from one buddha is learning from all buddhas; yet the one does not become the many, and the many do not become the one—Śākyamuni remains Śākyamuni, and His concrete teaching skillful means remain His alone. The profound-gate angle is a structural statement; the six-characteristics angle is an observational unfolding. The two converge upon the same fact: **the instant of learning from one buddha is not a personal psychological event; it is the simultaneous presentation of the dependent origination of the dharma-realm.**
 
@@ -173,7 +173,7 @@ This chapter ends here.
 
 Dharma-realm dependent origination is, from the start, the structure of the perfect fusion of the six characteristics. You do not need to achieve the simultaneity of the six characteristics—the six characteristics are simultaneous from the start. All you need to do is, at the instant of revering a buddha, reciting the buddha's name, chanting a sūtra, or sitting in meditation, open those six windows and let the six characteristics present themselves simultaneously.
 
-The "constant" of constantly following the Buddhas in study is simultaneity, not a length of time. Every act of reverence is one simultaneous opening of the six characteristics; every simultaneous opening of the six characteristics is one present-moment realization of constantly following the Buddhas in study.
+The "constant" of constantly following the Buddhas in study is not only a length of time; it is also simultaneity. Every act of reverence is one simultaneous opening of the six characteristics; every simultaneous opening of the six characteristics is one present-moment realization of constantly following the Buddhas in study.
 
 The original awakening of suchness naturally discloses itself within this simultaneous fusion of the six characteristics. It is never covered by any single observational facet—It is beheld directly in the **integral present moment** in which the six characteristics open simultaneously.
 
