@@ -49,8 +49,9 @@ But the *Worthy Leader Chapter* says:
 
 > Trust is the primordial source of the Way, the mother of virtues; it grows all good dharmas, cuts off the net of doubt, brings one out of the stream of craving, and opens the supreme path of nirvāṇa.
 > …
-> In a single thought one knows completely the dharmas of the three times, fully understands the faculties of all beings, and preaches for them all the dharmas of all the buddhas.
-> All these sovereign and unthinkable powers come from the might of the Huayan samādhi.
+> The forms of beings are each different, their actions and voices likewise measureless; all of these can be made to appear — through the awesome power of the ocean-seal samādhi.
+> …
+> All of these are sovereign, through the Buddha's Huayan-samādhi power.
 
 Fazang, in his classification of this passage in the *Treatise on the Five Teachings of the One Vehicle of Huayan*, advances the thesis of "**becoming a buddha at the completion of trust**"—at the moment the bodhisattva's stage of trust is complete, her mind-practice has already become identical to the buddha-fruit, without needing to wait for the sequential ascent through the Ten Abodes, Ten Practices, Ten Dedications, and Ten Grounds. Fazang's own words are: "Because it is by trust that the accomplishment is had, therefore this is the **practice-buddha, not the position-buddha**." From the standpoint of the structure of action, the moment trust is complete is already buddhahood—not in the sense that one has arrived at the buddha-position on the ladder of bodhisattva stages, but in the sense that, in the inner grammar of the action, the structure of a buddha is already present.
 

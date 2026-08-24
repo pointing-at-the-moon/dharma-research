@@ -73,7 +73,7 @@ Most striking is the verse section, which gives an explicit five-fold mapping of
 | Plant category | Corresponding capacity |
 |---|---|
 | Small herb | Human and divine vehicles; cakravartin kings; Brahmā and Indra |
-| Middle herb | Those who know the unconditioned dharma; pratyekabuddhas |
+| Middle herb | Those who know the uncontaminated dharma; pratyekabuddhas |
 | Superior herb | Those seeking the buddha-state, practising vigorous samādhi |
 | Small tree | Those single-mindedly on the buddha-path, certain of buddhahood (bodhisattvas) |
 | Large tree | Those abiding in superknowledges, turning the irreversible wheel, liberating countless beings (advanced bodhisattvas) |

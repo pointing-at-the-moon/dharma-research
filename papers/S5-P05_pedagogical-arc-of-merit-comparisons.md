@@ -491,10 +491,10 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 - *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
 - *Avataṃsaka Sūtra* (大方廣佛華嚴經), trans. Śikṣānanda, T10, No. 279.
 - *Vajracchedikā-prajñāpāramitopadeśa* (金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, T25, No. 1511.
-- *Vajracchedikā-prajñāpāramitā-śāstra* (能斷金剛般若波羅蜜多經論), by Asaṅga, trans. Yijing, T25, No. 1510b.
+- *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), by Asaṅga, trans. Dharmagupta, T25, No. 1510b.
 - *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
 - *Vijñaptimātratāsiddhi-śāstra* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- Kuiji, *Vajracchedikā-prajñāpāramitā-sūtra-praśastā* (金剛般若波羅蜜經讚述), T33, No. 1700.
+- Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
 - Kuiji, *Vajracchedikā-prajñāpāramitā-sūtra-praśastā* (金剛般若經贊述), T33, No. 1700.
 
 ### II. Sūtra & Śāstra Index
@@ -509,7 +509,7 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 | 6 | Asaṅga's Commentary | Vajracchedikā-śāstra | T25, No. 1510b | Fasc. 1, 2, 3 |
 | 7 | Yogācārabhūmi | Yogācārabhūmi-śāstra | T30, No. 1579 | Fasc. 21, 44, 68, 70, 88 |
 | 8 | Cheng weishi lun | Vijñaptimātratāsiddhi | T31, No. 1585 | Fasc. 2, 5, 7, 8, 9 |
-| 9 | Kuiji's Praśastā | Vajracchedikā Praśastā | T33, No. 1700 | Fasc. 4, 5, 7 |
+| 9 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fasc. 4, 5, 7 |
 | 10 | Kuiji's Praśastā | Vajracchedikā Praśastā | T33, No. 1700 | Fasc. 1 |
 
 ---
@@ -573,15 +573,15 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 
 [^21]: *Vajracchedikā-śāstra* (Asaṅga), fasc. 3, "The bodhisattva receives merit, does not grasp merit; therefore the bodhisattva obtains merit" (菩薩受福德，不取福德，是故菩薩取福德); "receiving through expedience without grasping" (以方便應受，而不應取), T25, No. 1510b.
 
-[^22]: Kuiji, *Vajracchedikā Praśastā*, fasc. 5, "Five-tier calibration: external wealth twice, internal wealth twice, buddha-cause once" (始自第三乃至第十，邐迤次第五度校量，謂外財兩度、內財兩度、佛因一度), T33, No. 1700.
+[^22]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, "Five-tier calibration: external wealth twice, internal wealth twice, buddha-cause once" (始自第三乃至第十，邐迤次第五度校量，謂外財兩度、內財兩度、佛因一度), T33, No. 1702.
 
-[^23]: Kuiji, *Vajracchedikā Praśastā*, fasc. 5, "The remaining comparisons are special-purpose doubt-resolutions, not the formal five-tier sequence" (餘所校量，但是別意，以之斷疑，實非前說五重次第也), T33, No. 1700.
+[^23]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, "The remaining comparisons are special-purpose doubt-resolutions, not the formal five-tier sequence" (餘所校量，但是別意，以之斷疑，實非前說五重次第也), T33, No. 1702.
 
-[^24]: Kuiji, *Vajracchedikā Praśastā*, fasc. 5, "Because the cause of upholding is superior, the fruit attains the dharma-body; because the cause of jewel-giving is inferior, the fruit attains the form-body" (持說因勝故，果中獲法身。寶施因劣故，果中獲色身); "The dharma-body is unconditioned and truly real; the form-body is conditioned and shadow-like" (法身無為真實性故，色身有為影像相故), T33, No. 1700.
+[^24]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, "Because the cause of upholding is superior, the fruit attains the dharma-body; because the cause of jewel-giving is inferior, the fruit attains the form-body" (持說因勝故，果中獲法身。寶施因劣故，果中獲色身); "The dharma-body is unconditioned and truly real; the form-body is conditioned and shadow-like" (法身無為真實性故，色身有為影像相故), T33, No. 1702.
 
-[^25]: Kuiji, *Vajracchedikā Praśastā*, fasc. 5, "The root of superiority lies in nothing other than this gate — the ability to accomplish the pure dharma-body" (勝之根本不過此門，能成清淨法身), T33, No. 1700.
+[^25]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, "The root of superiority lies in nothing other than this gate — the ability to accomplish the pure dharma-body" (勝之根本不過此門，能成清淨法身), T33, No. 1702.
 
-[^26]: Kuiji, *Vajracchedikā Praśastā*, fasc. 7, "Wisdom is the true body; merit is the response-body" (智慧即真身，福德即應身); "Merit cultivated with a non-self mind surpasses merit cultivated with a self-referential mind" (於無我心中所修福德，勝彼有我心中所修福德), T33, No. 1700.
+[^26]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 7, "Wisdom is the true body; merit is the response-body" (智慧即真身，福德即應身); "Merit cultivated with a non-self mind surpasses merit cultivated with a self-referential mind" (於無我心中所修福德，勝彼有我心中所修福德), T33, No. 1702.
 
 [^27]: *Cheng weishi lun*, fasc. 5, "What is aspiration? Hoping with regard to a pleasing object is its nature; serving as the basis for vigor is its function" (云何為欲？於所樂境，希望為性，勤依為業), T31, No. 1585.
 

@@ -62,11 +62,11 @@ This reveals the dual function of manaskāra:
 
 **Second, "directing the mind toward its object"—guiding direction.** Once the mind is awakened, manaskāra guides it toward a specific object. When you are walking and hear a dog bark, your mind "turns toward" that sound—this is manaskāra in operation.
 
-The *Dasheng Baifalun* (*Mahāyāna-śatadharmā-prakāśamukha-śāstra*) defines the function of the five universals even more concisely:
+The *Dasheng Baifalun* (*Mahāyāna-śatadharmā-prakāśamukha-śāstra*) only lists the names of the five universals—manaskāra, sparśa, vedanā, saṃjñā, cetanā—without defining them; their functional definitions must be sought in the *Cheng Weishi Lun*, and may be summarized thus[^5]:
 
-> 「五遍行心所，謂作意、觸、受、想、思。作意，謂令心發趣所緣。觸，謂三和。受，謂領納。想，謂取像。思，謂造作。此五心所，於一切時，一切地，一切心品，皆必俱起。」[^5]
+作意，謂令心發趣所緣；觸，謂三和；受，謂領納；想，謂取像；思，謂造作。此五心所，於一切時，一切地，一切心品，皆必俱起。
 
-*"The five universal mental factors are manaskāra, sparśa, vedanā, saṃjñā, and cetanā. Manaskāra causes the mind to initiate and move toward its object. Sparśa is the conjunction of three [sense faculty, object, and consciousness]. Vedanā is experiencing. Saṃjñā is apprehending characteristics. Cetanā is volitional activity. These five mental factors necessarily co-arise in all moments, all realms, and all types of mental activity."*
+Manaskāra causes the mind to initiate and move toward its object. Sparśa is the conjunction of three [sense faculty, object, and consciousness]. Vedanā is experiencing. Saṃjñā is apprehending characteristics. Cetanā is volitional activity. These five mental factors necessarily co-arise in all moments, all realms, and all types of mental activity.
 
 "Causing the mind to initiate and move toward its object"—these five characters encapsulate all of manaskāra.
 
@@ -214,9 +214,9 @@ The entire process requires no "decision" on your part; it runs automatically. T
 
 The role of the five universal mental factors in this process warrants careful analysis:
 
-> 「此五心所，於一切時，一切地，一切心品，皆必俱起。」[^5]
+此五心所，於一切時，一切地，一切心品，皆必俱起[^5]。
 
-*"These five mental factors necessarily co-arise in all moments, all realms, and all types of mental activity."*
+These five mental factors necessarily co-arise in all moments, all realms, and all types of mental activity.
 
 Manaskāra, sparśa, vedanā, saṃjñā, cetanā—these five mental factors necessarily co-arise in every moment of consciousness. But "co-arising" does not equal "effective awareness." Under the mode of ayoniśo manaskāra, manaskāra is indeed operating—your mind is indeed being awakened, indeed moving toward objects—but this awakening and directing is entirely hijacked by the self-grasping of manas.
 
@@ -479,7 +479,7 @@ But the first step is simply this: **This morning, did you see yourself?**
 ### I. Primary Buddhist Sources
 
 [^4]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicle 3. *Taishō Tripiṭaka* Vol. 31, No. 1585.
-[^5]: Vasubandhu, trans. Xuanzang, *Dasheng Baifalun* 大乘百法明門論 (*Mahāyāna-śatadharmā-prakāśamukha-śāstra*). *Taishō Tripiṭaka* Vol. 31, No. 1614.
+[^5]: The names of the five universals are given in Vasubandhu, trans. Xuanzang, *Dasheng Baifalun* 大乘百法明門論 (*Mahāyāna-śatadharmā-prakāśamukha-śāstra*), *Taishō Tripiṭaka* Vol. 31, No. 1614; since that treatise lists names only and gives no definitions, the functional definitions above and the criterion that the five "co-arise in all moments, all realms, and all types of mental activity" are summarized from Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicles 3 and 5, *Taishō Tripiṭaka* Vol. 31, No. 1585—they are not the wording of the *Baifalun*.
 [^6]: Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, Fascicle 11. *Taishō Tripiṭaka* Vol. 30, No. 1579.
 [^7]: Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, Fascicle 5. *Taishō Tripiṭaka* Vol. 30, No. 1579.
 [^8]: Translator unknown, *Bieyi Za Ahan Jing* 別譯雜阿含經, Fascicle 8. *Taishō Tripiṭaka* Vol. 2, No. 100.
@@ -516,7 +516,7 @@ But the first step is simply this: **This morning, did you see yourself?**
 
 | No. | Title | Taishō Vol. | Taishō No. | Fascicles Cited |
 |:---:|:---|:---:|:---:|:---|
-| 1 | *Cheng Weishi Lun* 成唯識論 | T31 | No. 1585 | Fascicles 2, 3, 4 |
+| 1 | *Cheng Weishi Lun* 成唯識論 | T31 | No. 1585 | Fascicles 2, 3, 4, 5 |
 | 2 | *Dasheng Baifalun* 大乘百法明門論 | T31 | No. 1614 | Complete |
 | 3 | *Yogācārabhūmi-śāstra* 瑜伽師地論 | T30 | No. 1579 | Fascicles 5, 11 |
 | 4 | *Saṃyuktāgama* 雜阿含經 | T02 | No. 99 | Fascicles 2, 10, 12, 48 |

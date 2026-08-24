@@ -101,7 +101,7 @@ Before walking into Part Eight, four preparations of posture need to be made cle
 
 Chapter eleven looks back at how the ten windows together point at one object. Chapter twelve closes the whole eight-part work.
 
-The pairing of "paying homage to all Buddhas" with "Simultaneous Mutual Correspondence" is not a forced match. Fazang, in the fourth fascicle of his *Treatise on the Doctrines of the One Vehicle of Huayan*, writes plainly: "Now, on releasing the meaning of the first gate, the Simultaneous Mutual Correspondence gate... it is because of the power and function of the Ocean Seal Samādhi of the dharma-nature of true virtue in dependent arising that it can be so." Of the ten mystery gates, only the first is explicitly grounded by Fazang in the Ocean Seal Samādhi—this chain, "Ocean Seal Samādhi → Simultaneous Mutual Correspondence → chapter one," was built by Fazang himself. This project merely reads it out.
+The pairing of "paying homage to all Buddhas" with "Simultaneous Mutual Correspondence" is not a forced match. Fazang, in the fourth fascicle of his *Treatise on the Doctrines of the One Vehicle of Huayan*, writes plainly: "First, the Simultaneous Mutual Correspondence gate... This rests upon the Ocean Seal Samādhi, whereby they are brilliantly and simultaneously made manifest." Of the ten mystery gates, only the first is explicitly grounded by Fazang in the Ocean Seal Samādhi—this chain, "Ocean Seal Samādhi → Simultaneous Mutual Correspondence → chapter one," was built by Fazang himself. This project merely reads it out.
 
 ### The Event Horizon of a Black Hole—a Heuristic Foreshadowing
 

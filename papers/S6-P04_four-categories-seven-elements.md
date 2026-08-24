@@ -365,7 +365,7 @@ The way home is not a single road. Twenty-five great ones each found their own d
 
 1. *Dà Fódǐng Shǒuléngyán Jīng* 大佛頂首楞嚴經 (Śūraṅgama Sūtra), trans. Pāramiti (般剌蜜帝), T19, No. 945.
 2. *Shǒuléngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (Commentary on the Śūraṅgama), Zǐxuán 子璿, T39, No. 1799.
-3. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (Orthodox Lineage Commentary on the Śūraṅgama), Jiāoguāng Zhēnjiàn 交光真鑑, X11, No. 275.
+3. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (Orthodox Lineage Commentary on the Śūraṅgama), Jiāoguāng Zhēnjiàn 交光真鑑, X12, No. 275.
 4. *Bōrě Bōluómìduō Xīnjīng* 般若波羅蜜多心經 (Heart Sūtra), trans. Xuánzàng 玄奘, T8, No. 251.
 5. *Rù Lèngqié Jīng* 入楞伽經 (Laṅkāvatāra Sūtra), trans. Bodhiruci (菩提流支), T16, No. 671.
 6. *Lèngqié Ābáduōluó Bǎo Jīng* 楞伽阿跋多羅寶經 (Laṅkāvatāra Sūtra), trans. Guṇabhadra (求那跋陀羅), T16, No. 670.
@@ -381,7 +381,7 @@ The way home is not a single road. Twenty-five great ones each found their own d
 |---|------|-----------|-----|----------------|
 | 1 | Śūraṅgama Sūtra 大佛頂首楞嚴經 | T19 | No. 945 | Fasc. 2, 3 |
 | 2 | Shǒuléngyán Yìshū Zhùjīng 首楞嚴義疏注經 | T39 | No. 1799 | Fasc. 3, 4 |
-| 3 | Zhèngmài Shū 大佛頂首楞嚴經正脈疏 | X11 | No. 275 | Fasc. 1, 3, 4 |
+| 3 | Zhèngmài Shū 大佛頂首楞嚴經正脈疏 | X12 | No. 275 | Fasc. 1, 3, 4 |
 | 4 | Heart Sūtra 般若波羅蜜多心經 | T8 | No. 251 | Fasc. 1 |
 | 5 | Laṅkāvatāra (Bodhiruci) 入楞伽經 | T16 | No. 671 | Fasc. 7 |
 | 6 | Laṅkāvatāra (Guṇabhadra) 楞伽阿跋多羅寶經 | T16 | No. 670 | Fasc. 1, 2, 4 |
@@ -422,9 +422,9 @@ The way home is not a single road. Twenty-five great ones each found their own d
 [^15]: Same passage, Ānanda's verse-praise: 「如一眾生未成佛，終不於此取泥洹。」
 [^16]: 《首楞嚴義疏注經》卷四 (T39, No. 1799): 「三科七大即相即性，本自不生今則無滅……清淨本然。」
 [^17]: 《首楞嚴義疏注經》卷三 (T39, No. 1799): 「七義之中攝一切法……會相即性，性遍相遍，方稱勝義至極之大。」
-[^18]: 《大佛頂首楞嚴經正脈疏》卷三 (X11, No. 275): 「正惟攝事歸理，融相入性而已……正惟屬於空如來藏。」
+[^18]: 《大佛頂首楞嚴經正脈疏》卷三 (X12, No. 275): 「正惟攝事歸理，融相入性而已……正惟屬於空如來藏。」
 [^19]: Same, 「四科方談其一一皆是性真……前顯法法當體真常，後乃顯法法圓融周徧。」
-[^20]: 《大佛頂首楞嚴經正脈疏》卷一 (X11, No. 275): 「七大全顯其真。蓋惟破識是畢竟破，餘皆不畢竟破也。」
+[^20]: 《大佛頂首楞嚴經正脈疏》卷一 (X12, No. 275): 「七大全顯其真。蓋惟破識是畢竟破，餘皆不畢竟破也。」
 [^21]: Jiāoguāng's four-level progression: P02 seven locations = 「全破其妄」; P03 ten demonstrations = 「多顯其真少破其妄」; P04 four categories = 「一一破妄顯真」; P04 seven elements = 「全顯其真」. The four papers correspond to a complete spectrum from destruction to revelation.
 [^22]: 《般若波羅蜜多心經》(T8, No. 251): 「觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。」
 [^23]: 《入楞伽經》卷七 (T16, No. 671): 「阿梨耶識者名如來藏，而與無明七識共俱，如大海波常不斷絕身俱生故。」

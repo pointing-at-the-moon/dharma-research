@@ -545,6 +545,7 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 10. *Jingang bore jing zanshu* (金剛般若經贊述), by Kuiji, T33, No. 1700.
 11. *Cheng weishi lun shuji* (成唯識論述記), by Kuiji et al., T43, No. 1830.
 12. *Triṃśikā-vijñaptimātratā* (唯識三十論頌), by Vasubandhu, tr. Xuanzang, T31, No. 1586.
+13. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
 
 ### II. Modern Scholarship
 
@@ -564,9 +565,10 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 | 6 | Cheng weishi lun | T31 | No. 1585 | Fasc. 1, 2, 8, 9, 10 |
 | 7 | Yogācārabhūmi | T30 | No. 1579 | Fasc. 1, 3, 29 |
 | 8 | Vajracchedikā-śāstra (Vasubandhu) | T25 | No. 1511 | Doubt-severing structure |
-| 9 | Zànshù (Kuiji) | T33 | No. 1700 | Fasc. 1, 3, 7 |
+| 9 | Zànshù (Kuiji) | T33 | No. 1700 | Fasc. 1 |
 | 10 | Zànshù (Kuiji) | T33 | No. 1700 | Fasc. 1, 2 |
 | 11 | Triṃśikā-vijñaptimātratā | T31 | No. 1586 | Preparatory-stage & penetration-stage verses |
+| 12 | Kanding ji (Zixuan) | T33 | No. 1702 | Fasc. 3, 7 |
 
 ---
 
@@ -638,11 +640,11 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 
 [^23]: 《金剛般若波羅蜜經讚述》fasc. 1, 「心之所現名曰依他，執之為實乃名遍計，依計既泯即是圓成」, the rope-snake analogy, T33, No. 1700.
 
-[^24]: 《金剛般若波羅蜜經讚述》fasc. 3, 「即非佛法是勝義諦遮增益邊，是名佛法是世俗諦遮損減邊」, two-truth interpretation of *jífēi* / *shìmíng*, T33, No. 1700.
+[^24]: 《金剛經纂要刊定記》fasc. 3, 「即非佛法是勝義諦遮增益邊，是名佛法是世俗諦遮損減邊」, two-truth interpretation of *jífēi* / *shìmíng*, T33, No. 1702.
 
-[^25]: 《金剛般若波羅蜜經讚述》fasc. 7, 「般若宗於破相」, positioning of the Diamond Sūtra within the three Mahāyāna schools, T33, No. 1700.
+[^25]: 《金剛經纂要刊定記》fasc. 7, 「般若宗於破相」, positioning of the Diamond Sūtra within the three Mahāyāna schools, T33, No. 1702.
 
-[^26]: 《金剛般若波羅蜜經讚述》fasc. 7, 「大意皆破眾生遍計情執」, the true target of mark-deconstruction, T33, No. 1700.
+[^26]: 《金剛經纂要刊定記》fasc. 7, 「大意皆破眾生遍計情執」, the true target of mark-deconstruction, T33, No. 1702.
 
 [^27]: 《瑜伽師地論》fasc. 3, 「差別分別有六百六十」, original source of the hundred dharmas, T30, No. 1579.
 
@@ -660,13 +662,13 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 
 [^34]: 《成唯識論》fasc. 8, 「二空所顯圓滿成就，諸法實性，名圓成實」, definition of pariniṣpanna, T31, No. 1585.
 
-[^35]: 《金剛般若波羅蜜經讚述》fasc. 7, three Mahāyāna schools doctrinal classification, T33, No. 1700.
+[^35]: 《金剛經纂要刊定記》fasc. 7, three Mahāyāna schools doctrinal classification, T33, No. 1702.
 
 [^36]: 《金剛般若波羅蜜經論》(Vasubandhu), 「存我為菩薩，此即障於心，違於不住道」, the re-questioning verse, T25, No. 1511.
 
 [^37]: 《唯識三十論頌》, preparatory-stage verse and penetration-stage verse, T31, No. 1586. 《成唯識論》fasc. 9, commentary on 「現前立少物」and 「若時於所緣智都無所得」, T31, No. 1585. See S3-SUP01, "The Four Preparatory Stages: From Knowing to Seeing."
 
-[^38]: The fire-by-friction analogy: 《瑜伽師地論》fasc. 29, 「譬如有人欲以其火作火所作，為求火故下安乾木上施鑽燧，精勤策勵勇猛鑽求」, T30, No. 1579. Also cited in Kuiji's 《金剛般若經贊述》fasc. 3: 「其猶鑽火，火欲出時倍加功力」, T33, No. 1700.
+[^38]: The fire-by-friction analogy: 《瑜伽師地論》fasc. 29, 「譬如有人欲以其火作火所作，為求火故下安乾木上施鑽燧，精勤策勵勇猛鑽求」, T30, No. 1579. Also cited in Zixuan's 《金剛經纂要刊定記》fasc. 3: 「其猶鑽火，火欲出時倍加功力」, T33, No. 1702.
 
 ---
 

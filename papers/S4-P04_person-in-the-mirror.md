@@ -277,7 +277,7 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 5. *Chéng Wéishì Lùn* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 6. *Chéng Wéishì Lùn Shùjì* (成唯識論述記), by Kuiji, T43, No. 1830.
 7. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), by Putai, T45, No. 1865.
-8. *Bōrě Bōluómì Jīng Lùn* (般若波羅蜜經論), by Vasubandhu, trans. Kumārajīva, T25, No. 1511.
+8. *Jīngāng Bōrě Bōluómì Jīng Pò Qǔzhuó Bùhuài Jiǎmíng Lùn* (金剛般若波羅蜜經破取著不壞假名論), by Guṇada 功德施, trans. Divākara 地婆訶羅, T25, No. 1515.
 
 ### II. Modern Scholarship
 
@@ -293,7 +293,7 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 | 4 | Platform Sūtra | T48 | No. 2008 | 1 |
 | 5 | Cheng Weishi Lun | T31 | No. 1585 | 4, 5, 10 |
 | 6 | Bāshí Guījǔ Bǔzhù | T45 | No. 1865 | 2 |
-| 7 | Jingang Bore Jing Lun | T25 | No. 1511 | — |
+| 7 | Jingang bore boluomi jing po quzhuo buhuai jiaming lun | T25 | No. 1515 | 1 |
 
 ---
 
@@ -333,7 +333,7 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 [^10]: *Néng Duàn Jīngāng Bōrě Bōluómìduō Jīng* (能斷金剛般若波羅蜜多經), Yijing translation: "One should contemplate the nature of Buddha-dharma — this is the Dharma-body of the Teacher. Dharma-nature is not an object of cognition; therefore it cannot be grasped" (「應觀佛法性，即導師法身，法性非所識，故彼不能了」), T08, No. 239.
 
-[^11]: *Jingang Bore Jing Lun* (般若波羅蜜經論), by Vasubandhu: "Characteristics that are non-characteristics are therefore not illusory; what is not illusory is what is called real; because it is real, it is called Tathāgata" (「諸相非相即非虛妄，非虛妄者所謂真實，以真實故名曰如來」), three-stage logic of characteristics / non-characteristics / Tathāgata, T25, No. 1511.
+[^11]: *Jingang bore boluomi jing po quzhuo buhuai jiaming lun* (金剛般若波羅蜜經破取著不壞假名論), fasc. 1, by Guṇada 功德施: "Characteristics that are non-characteristics are therefore not illusory; what is not illusory is what is called real; because it is real, it is called Tathāgata" (「諸相非相即非虛妄，非虛妄者所謂真實，以真實故名曰如來」), three-stage logic of characteristics / non-characteristics / Tathāgata, T25, No. 1511.
 
 [^12]: *Platform Sūtra* (六祖大師法寶壇經), Xíngyóu chapter: "Think neither good nor evil. At precisely this moment — what is Venerable Ming's original face?" (「不思善，不思惡，正與麼時，那箇是明上座本來面目？」), T48, No. 2008.
 

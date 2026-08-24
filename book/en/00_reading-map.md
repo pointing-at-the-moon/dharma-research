@@ -298,7 +298,7 @@ Every term in the main text is explained on the spot, in brackets or with a dash
 | the middle path | neither grasping at existence nor grasping at emptiness—the precise position that leans on neither side |
 | tathāgatagarbha | the awakened nature originally complete in all sentient beings—sometimes equated with the ālaya-vijñāna, sometimes the pure aspect of the ālaya-vijñāna |
 | the ten profound gates | the ten windows the Huayan school uses to describe the dharma-realm, each looking at the same object from a different angle |
-| Samantabhadra's ten great vows | the ten great vows of practice the Buddha himself speaks in the "Practices and Vows of Samantabhadra" chapter of the Avataṃsaka Sūtra, from "paying homage to all Buddhas" to "universal dedication" |
+| Samantabhadra's ten great vows | the ten great vows of practice Samantabhadra sets forth on the Buddha's behalf in the "Practices and Vows of Samantabhadra" chapter of the Avataṃsaka Sūtra, from "paying homage to all Buddhas" to "universal dedication" |
 
 If, having read this far, all twelve of these words feel unfamiliar, please do not panic—the work of this book is to make them clear. Unfamiliarity is the starting point, not the obstacle. If you already have an impression of more than half of them, then you already have a foundation, and can go straight into Part One.
 

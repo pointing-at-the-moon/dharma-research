@@ -63,11 +63,11 @@ Of the three karmas — bodily, verbal, mental — the Buddha alone judges the m
 
 Taken together, these three passages yield the Āgama ontology of karma in its sharpest form: **the substance of karma is *cetanā*, never the external form; the quality of mind determines the quality of karma, and material magnitude is irrelevant.**
 
-#### 2.1.4. The Lay-Girl Muni: A Crucial Counter-Case
+#### 2.1.4. The Lay-Girl Muni: Neither Joy nor Giving Can Substitute for the Vow
 
-If, however, one were to draw from this the simpler conclusion that "merely feeling joyful in one's heart is enough to produce merit," the Buddha himself would object. The *Ekottarika-āgama* (fasc. 38) preserves a critical counter-narrative. The lay-girl Muni witnesses bhikṣus offering lamps and is filled with joyful exultation — precisely the inner movement that "rejoicing" (*anumodanā*) later names. The Buddha then states: *if the elder bhikṣus do not make the vow, they will in the end not accomplish the buddha-path; the merit of vow-making cannot be calculated.*
+If, however, one were to draw from this the simpler conclusion that "merely feeling joyful in one's heart is enough to produce merit," the Buddha himself would object. The *Ekottarika-āgama* (fasc. 38) preserves a critical counter-narrative. The princess Muni, hearing the Buddha's name, is filled with joyful exultation — precisely the inner movement that "rejoicing" (*anumodanā*) later names — and gives the whole of the sesame oil and lamp-wicks herself; the elder bhikṣu who receives her gift and makes the vow receives the prediction of buddhahood, while she, having made no vow, does not. The Buddha then states: *if the elder bhikṣu does not make the vow, he will in the end not accomplish the buddha-path; the merit of vow-making cannot be calculated.*
 
-In plain terms: joyful exultation (*anumodanā*) absent vow-and-dedication does *not* accomplish the buddha-path.[^4] The Buddha himself, in his own words, denies the reading "rejoicing alone is meritorious."
+In plain terms: **even when the gift is actually made**, joyful exultation (*anumodanā*) absent vow-and-dedication does *not* accomplish the buddha-path.[^4] The Buddha himself, in his own words, denies the reading "rejoicing alone is meritorious."
 
 This counter-case is doctrinally decisive: it shows that the distinction between *true rejoicing* and *mere rejoicing* is already drawn at the Āgama level. Rejoicing in which *cetanā* genuinely arises and which is sealed by vow-and-dedication is true; rejoicing that remains at the verbal or merely affective surface is not. The Āgamas do not teach the simple proposition "rejoicing produces merit." What the Āgamas teach is the deeper ontology — "karma's substance is volition" — and true rejoicing carries merit *precisely because it falls within that ontology, not because it bypasses it*.
 

@@ -443,7 +443,7 @@ If your answer has changed from before you read this paper — the paper has ser
 
 1. *Dà Fódǐng Shǒuléngyán Jīng* 大佛頂首楞嚴經 (*Śūraṅgama Sūtra*). Trans. Pāramiti (般剌蜜帝). T19, No. 0945.
 2. *Shǒuléngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (*Śūraṅgama Commentary*). Zixuan 子璿. T39, No. 1799.
-3. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (*True Pulse Commentary*). Jiaokuang Zhenjian 交光真鑑. X11, No. 0275.
+3. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (*True Pulse Commentary*). Jiaokuang Zhenjian 交光真鑑. X12, No. 0275.
 4. *Chéng Wéishí Lùn* 成唯識論 (*Vijñaptimātratāsiddhi*). Dharmapāla et al., trans. Xuanzang 玄奘. T31, No. 1585.
 5. *Liùzǔ Dàshī Fǎbǎo Tán Jīng* 六祖大師法寶壇經 (*Platform Sūtra*). Ed. Zongbao 宗寶. T48, No. 2008.
 
@@ -458,7 +458,7 @@ If your answer has changed from before you read this paper — the paper has ser
 |---|------|-----------|--------|-----------------|
 | 1 | Śūraṅgama Sūtra 大佛頂首楞嚴經 | T19 | No. 0945 | Fasc. 1, 2 |
 | 2 | Zixuan's Commentary 首楞嚴義疏注經 | T39 | No. 1799 | Fasc. 2 (002a, 002b) |
-| 3 | True Pulse Commentary 楞嚴經正脈疏 | X11 | No. 0275 | Fasc. 1, 2, 3 |
+| 3 | True Pulse Commentary 楞嚴經正脈疏 | X12 | No. 0275 | Fasc. 1, 2, 3 |
 | 4 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | Fasc. 2 |
 | 5 | Platform Sūtra 六祖壇經 | T48 | No. 2008 | Fasc. 1 |
 
@@ -483,7 +483,7 @@ If your answer has changed from before you read this paper — the paper has ser
 
 [^2]: See Shi Huijing, "Seven Locations of Mind: What You Think Is Your Mind Isn't," S6-P02.
 
-[^3]: *Zhèngmài Shū* 正脈疏, Fasc. 1. "於識全破其妄，於根多顯其真少破其妄." X11, No. 0275.
+[^3]: *Zhèngmài Shū* 正脈疏, Fasc. 1. "於識全破其妄，於根多顯其真少破其妄." X12, No. 0275.
 
 [^4]: *Śūraṅgama Sūtra*, Fasc. 1. Kauṇḍinya's analogy: "不住名客，住名主人……澄寂名空，搖動名塵." T19, No. 0945.
 
@@ -525,13 +525,13 @@ If your answer has changed from before you read this paper — the paper has ser
 
 [^23]: See note [3].
 
-[^24]: *Zhèngmài Shū*, Fasc. 2. "初科則顯其脫根脫塵，逈然而靈光獨耀……十科則顯其自相亦離，轉入於純真無妄." X11, No. 0275.
+[^24]: *Zhèngmài Shū*, Fasc. 2. "初科則顯其脫根脫塵，逈然而靈光獨耀……十科則顯其自相亦離，轉入於純真無妄." X12, No. 0275.
 
-[^25]: *Zhèngmài Shū*, Fasc. 2. "特惟就眾生迷位而尚有二種見妄未除，故曰帶妄顯真耳." X11, No. 0275.
+[^25]: *Zhèngmài Shū*, Fasc. 2. "特惟就眾生迷位而尚有二種見妄未除，故曰帶妄顯真耳." X12, No. 0275.
 
-[^26]: *Zhèngmài Shū*, Fasc. 3. "三藏之中，正惟屬於空如來藏." X11, No. 0275.
+[^26]: *Zhèngmài Shū*, Fasc. 3. "三藏之中，正惟屬於空如來藏." X12, No. 0275.
 
-[^27]: *Zhèngmài Shū*, Fasc. 2. "今總改之云：七處破心，十番顯見。則非惟法數相稱，而心妄見真之旨，亦攸分矣." X11, No. 0275.
+[^27]: *Zhèngmài Shū*, Fasc. 2. "今總改之云：七處破心，十番顯見。則非惟法數相稱，而心妄見真之旨，亦攸分矣." X12, No. 0275.
 
 [^28]: *Chéng Wéishí Lùn*, Fasc. 2. The full four-aspect passage. T31, No. 1585.
 
@@ -551,7 +551,7 @@ If your answer has changed from before you read this paper — the paper has ser
 
 [^36]: *Śūraṅgama Sūtra*, Fasc. 2. "汝雖強記，但益多聞，於奢摩他微密觀照，心猶未了." T19, No. 0945.
 
-[^37]: *Zhèngmài Shū*, Fasc. 3. "向後轉名如來藏性，不復呼為見性之偏名矣." X11, No. 0275.
+[^37]: *Zhèngmài Shū*, Fasc. 3. "向後轉名如來藏性，不復呼為見性之偏名矣." X12, No. 0275.
 
 ---
 

@@ -53,7 +53,7 @@ In the verse section, the Buddha goes further, mapping the grades of plants expl
 | Plant category | Corresponding capacity |
 |---|---|
 | Small herb | The wholesome paths of humans and gods; cakravartin kings; Brahmā and Indra |
-| Middle herb | Those who know the unconditioned dharma; pratyekabuddhas |
+| Middle herb | Those who know the uncontaminated dharma; pratyekabuddhas |
 | Superior herb | Those seeking the buddha-state, practising vigorous samādhi |
 | Small tree | Those single-mindedly on the buddha-path, certain beyond doubt of buddhahood (bodhisattvas) |
 | Large tree | Those abiding in superknowledges, turning the irreversible wheel, liberating countless beings (advanced bodhisattvas) |

@@ -58,7 +58,7 @@ When Fazang taught Empress Wu Zetian, he took the golden lion in the palace as a
 - **Formation**—the organs assembling together (the six organs assembling into the lion's form)
 - **Decay**—each organ abiding in its own position (each keeping its original place)
 
-The golden lion and the house convey the same structure, presented simultaneously upon different objects of experience. At the end of the golden-lion image Fazang added one crucial sentence:
+The golden lion and the house convey the same structure, presented simultaneously upon different objects of experience. At the end of this section of the golden-lion image Chengqian annotated one crucial sentence:
 
 > This displays that within the dharma-realm there is no isolated dharma. Whichever single characteristic one raises, the dependent origination of all six characteristics is contained within it.
 

@@ -327,7 +327,7 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 6. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Paramiti, T19, No. 0945.
 7. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 0676.
 8. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-9. *Jingang bore jing zanshu* (金剛般若經讚述), by Kuiji, T33, No. 1700.
+9. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
 10. *Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), comp. Zongbao, T48, No. 2008.
 
 ### II. Modern Scholarship
@@ -347,7 +347,7 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 | 6 | Śūraṅgama Sūtra | Śūraṅgama Sūtra | T19 | 0945 | Paramiti | Fasc. 1 |
 | 7 | Saṃdhinirmocana | Saṃdhinirmocana Sūtra | T16 | 0676 | Xuanzang | Fasc. 2, 3, 5 |
 | 8 | Cheng weishi lun | Cheng weishi lun | T31 | 1585 | Dharmapāla / Xuanzang | Fasc. 9, 10 |
-| 9 | Kuiji's Commentary | Jingang bore jing zanshu | T33 | 1700 | Kuiji | Fasc. 2, 4, 5 |
+| 9 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33 | 1702 | Zixuan | Fasc. 2, 4, 5 |
 | 10 | Platform Sūtra | Platform Sūtra of the Sixth Patriarch | T48 | 2008 | Zongbao | Fasc. 1 |
 
 ---
@@ -410,11 +410,11 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 
 [^20]: *Saṃdhinirmocana*, fasc. 5, 「轉依成滿，是名如來法身之相」 "When transformation of the basis is complete, this is called the characteristic of the Tathāgata's Dharma-body." T16, No. 0676.
 
-[^21]: Kuiji, *Jingang bore jing zanshu*, fasc. 5, 「前令不住色等是遮有，後令生心是遮無，既離有無即名中道」 "The earlier instruction negates existence; the later instruction negates nothingness; free of both is the Middle Way." T33, No. 1700.
+[^21]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, 「前令不住色等是遮有，後令生心是遮無，既離有無即名中道」 "The earlier instruction negates existence; the later instruction negates nothingness; free of both is the Middle Way." T33, No. 1702.
 
-[^22]: Kuiji, *Jingang bore jing zanshu*, fasc. 4, 「不住而住即住真空，如鳥不住空却能住空，若住於空即不住空也」 "Not abiding yet abiding is abiding in true emptiness—like a bird that does not abide in the sky yet can abide there." T33, No. 1700.
+[^22]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 4, 「不住而住即住真空，如鳥不住空却能住空，若住於空即不住空也」 "Not abiding yet abiding is abiding in true emptiness—like a bird that does not abide in the sky yet can abide there." T33, No. 1702.
 
-[^23]: Kuiji, *Jingang bore jing zanshu*, fasc. 5, 「無住之心既是正智，當知有住所生之心同為妄識」 "The non-abiding mind is right wisdom; a mind arising from abiding is deluded consciousness." T33, No. 1700.
+[^23]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, 「無住之心既是正智，當知有住所生之心同為妄識」 "The non-abiding mind is right wisdom; a mind arising from abiding is deluded consciousness." T33, No. 1702.
 
 [^24]: *Platform Sūtra*, "Origins" section, 「惠能言下大悟……何期自性，本自清淨……能生萬法」 "Huineng instantly awakened... Who would have thought that self-nature is originally pure!... can give rise to the myriad dharmas!" T48, No. 2008.
 
@@ -426,7 +426,7 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 
 [^28]: See S5-P01, "Jífēi Structure and Trisvabhāva," §III core argument.
 
-[^29]: Kuiji, *Jingang bore jing zanshu*, fasc. 5, 「如金作器，器非外來，即以此器反嚴於金」 "As gold is made into a vessel, the vessel does not come from outside." T33, No. 1700.
+[^29]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, 「如金作器，器非外來，即以此器反嚴於金」 "As gold is made into a vessel, the vessel does not come from outside." T33, No. 1702.
 
 [^30]: *Vajracchedikā*, §10, enumeration of the six sense-fields. T8, No. 0235.
 
@@ -452,9 +452,9 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 
 [^41]: *Cheng weishi lun*, fasc. 10, 「此雖本來自性清淨，而由客障覆令不顯」 nirvāṇa as "that which is revealed." T31, No. 1585.
 
-[^42]: Kuiji, *Jingang bore jing zanshu*, fasc. 5, 「身土之相唯心之影，心淨方能現之」 "Body and land are reflections of mind; only a pure mind can manifest them." T33, No. 1700.
+[^42]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, 「身土之相唯心之影，心淨方能現之」 "Body and land are reflections of mind; only a pure mind can manifest them." T33, No. 1702.
 
-[^43]: Kuiji, *Jingang bore jing zanshu*, fasc. 5, 「淨其心者，即離有無也」 "To purify the mind is to be free of both existence and nothingness." T33, No. 1700.
+[^43]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, 「淨其心者，即離有無也」 "To purify the mind is to be free of both existence and nothingness." T33, No. 1702.
 
 [^44]: *Vimalakīrtinirdeśa*, Upāli section, 「心亦不在內、不在外、不在中間」 "The mind is not inside, not outside, not in between." T14, No. 0475.
 

@@ -421,9 +421,9 @@ Cross. Ferry others across. To the other shore. Everyone together to the other s
 
 *Vijñaptimātratāsiddhi* (成唯識論). By Dharmapāla et al. Trans. Xuanzang. *Taishō* vol. 31, no. 1585.
 
-*Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論). By Vasubandhu. Trans. Bodhiruci. *Taishō* vol. 25, no. 1510a.
+*Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論). By Vasubandhu. Trans. Bodhiruci. *Taishō* vol. 25, no. 1511.
 
-*Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論). By Vasubandhu. Trans. Dharmagupta. *Taishō* vol. 25, no. 1511.
+*Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論). By Asaṅga. Trans. Dharmagupta. *Taishō* vol. 25, no. 1510b.
 
 *Vajracchedikā-ṭīkā* (金剛仙論). By Vasubandhu, with commentary by Vajra-ṛṣi. Trans. Bodhiruci. *Taishō* vol. 25, no. 1512.
 
@@ -450,8 +450,8 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 | 1 | Heart Sūtra (Xuanzang) | T08 | 0251 | Entire text |
 | 2 | Diamond Sūtra (Kumārajīva) | T08 | 0235 | Fasc. 1 |
 | 3 | *Mahāprajñāpāramitāśāstra* | T25 | 1509 | 4, 18, 20, 34, 40, 58, 69, 70, 100 |
-| 4 | *Vajracchedikā-śāstra* (Bodhiruci) | T25 | 1510a | 1, 2 |
-| 5 | *Vajracchedikā-śāstra* (Dharmagupta) | T25 | 1511 | 1, 2 |
+| 4 | *Vajracchedikā-śāstra* (Bodhiruci) | T25 | 1511 | 1, 2 |
+| 5 | *Vajracchedikā-śāstra* (Dharmagupta) | T25 | 1510b | 1, 2 |
 | 6 | *Vajracchedikā-ṭīkā* | T25 | 1512 | 4, 5, 7, 8 |
 | 7 | Guṇamati's *Vajracchedikā-śāstra* | T25 | 1515 | 1, 2 |
 | 8 | *Mahāyānasaṃgraha* (Paramārtha) | T31 | 1593 | 1, 2, 3 |
@@ -487,7 +487,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^1]: *Prajñāpāramitāhṛdaya-sūtra*: "All Buddhas of the three times, relying on prajñāpāramitā, attain anuttara-samyak-saṃbodhi." *Taishō* vol. 8, no. 0251.
 [^2]: *Prajñāpāramitāhṛdaya-sūtra*: "Therefore know that prajñāpāramitā is the great spirit mantra, the great illumination mantra, the unsurpassed mantra, the unequalled mantra, which removes all suffering — true, not false. Therefore the prajñāpāramitā mantra is spoken. The mantra is: gate gate pāragate pārasaṃgate bodhi svāhā." *Taishō* vol. 8, no. 0251.
 [^3]: *Vajracchedikā-sūtra*, fasc. 1. First comparison: seven treasures filling the trichiliocosm do not match receiving and retaining four lines and expounding them. *Taishō* vol. 8, no. 0235.
-[^4]: *Vajracchedikā-śāstra* (Dharmagupta trans.), fasc. 1: "Merit does not progress toward bodhi; the two [receiving and expounding] can progress toward bodhi." *Taishō* vol. 25, no. 1511.
+[^4]: *Vajracchedikā-śāstra* (Bodhiruci trans.), fasc. 1: "Merit does not progress toward bodhi; the two [receiving and expounding] can progress toward bodhi." *Taishō* vol. 25, no. 1511.
 [^5]: *Mahāprajñāpāramitāśāstra*, fasc. 34: "Prajñāpāramitā is the mother of all Buddhas. Among parents, the mother's merit is greatest ... Prajñāpāramitā can comprehensively contemplate all dharmas and discern their true marks — there is nothing it cannot reach. Because its merit is the greatest, it is called the mother." *Taishō* vol. 25, no. 1509.
 [^6]: *Mahāprajñāpāramitāśāstra*, fasc. 18: "Prajñā is their mother, giving birth and nourishing. The Buddha is the father of sentient beings; prajñā gives birth to the Buddha — thus it is the grandmother of all sentient beings." *Taishō* vol. 25, no. 1509.
 [^7]: *Mahāprajñāpāramitāśāstra*, fasc. 58: "Prajñāpāramitā is the mother of all Buddhas in the ten directions, and it is also the teacher of all Buddhas." *Taishō* vol. 25, no. 1509.
@@ -516,7 +516,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^30]: *Mahāyānasaṃgrahabhāṣya* (Asvabhāva trans.), fasc. 6: "Although the listener may have distorted views, because hearing-perfuming perfumes their mental continuum, they gradually become free of distortion." *Taishō* vol. 31, no. 1598.
 [^31]: *Vajracchedikā-sūtra*, fasc. 1. Eight progressively escalating merit comparisons, from seven treasures filling the trichiliocosm to immeasurable asaṃkhyeya worlds. *Taishō* vol. 8, no. 0235.
 [^32]: *Vajracchedikā-sūtra*, fasc. 1. Fifth comparison: "If merit had substantial reality, the Tathāgata would not say merit is great; it is because merit is without [substantial reality] that the Tathāgata says merit is great." *Taishō* vol. 8, no. 0235.
-[^33]: *Vajracchedikā-śāstra* (Dharmagupta trans.), fasc. 1: "Accumulation has two kinds of meaning: first, accumulative meaning; second, progressive meaning." Seven-treasure merit has only accumulative meaning; sūtra-retention merit has both. *Taishō* vol. 25, no. 1511.
+[^33]: *Vajracchedikā-śāstra* (Bodhiruci trans.), fasc. 1: "Accumulation has two kinds of meaning: first, accumulative meaning; second, progressive meaning." Seven-treasure merit has only accumulative meaning; sūtra-retention merit has both. *Taishō* vol. 25, no. 1511.
 [^34]: *Vajracchedikā-ṭīkā*, fasc. 4: "Whether verse or prose, anything that adequately expresses the principle of the dharmakāya constitutes a 'four-line verse.'" *Taishō* vol. 25, no. 1512.
 [^35]: *Vajracchedikā-nirgrantha-śāstra*, fasc. 2: "If one upholds the correct Dharma and generates the mind of awakening, it does not equal understanding emptiness — not even one-sixteenth." Guṇamati's verse. *Taishō* vol. 25, no. 1515.
 [^36]: *Mahāyānasaṃgraha* (Xuanzang trans.), fasc. 1: "These right hearing-perfuming seeds of lower, middle, and upper grades should be known as dharmakāya seeds ... though worldly, they are the seed-nature of the supramundane mind." *Taishō* vol. 31, no. 1594.

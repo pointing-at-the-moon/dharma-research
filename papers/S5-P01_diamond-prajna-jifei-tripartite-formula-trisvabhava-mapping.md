@@ -16,11 +16,11 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Diamond Sūtra's pervasive formula — "The Buddha speaks of X; it is not X; it is called X" — has long been read as a rhetorical device expressing prajñā emptiness. This paper proposes that its tripartite structure can be illuminated through the Yogācāra framework of trisvabhāva (three natures). Kuiji (窺基, 632–682), in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), already offered an explicit mapping: "speaks of" reveals parikalpita (the imagined), "is not" reveals paratantra (the dependent), and "is called" reveals pariniṣpanna (the consummated). Building on this rediscovery, the present study proposes a complementary alternative mapping — "X" as paratantra (dependently arisen designation), "is not X" as negation of parikalpita (reified existence), and "is called X" as re-establishment within pariniṣpanna (the consummated). The two mappings illuminate the same structure from the listener's perspective and the object's perspective respectively, like two sides of a single mirror. Through textual analysis of Asaṅga's *Treatise on the Ability to Sever the Diamond Prajñā* (T1510b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511/T1512), this paper traces the interpretive lineage from the Buddha's structural design to its systematic Yogācāra elaboration. The cross-disciplinary section draws on Wittgenstein's ladder metaphor, Austin's speech act theory, and Derrida's *sous rature* as heuristic parallels. The Middle Way Correction section specifically notes: the trisvabhāva mapping is an interpretive tool, not — and must never become — a cage that domesticates the Diamond Sūtra.
+The Diamond Sūtra's pervasive formula — "The Buddha speaks of X; it is not X; it is called X" — has long been read as a rhetorical device expressing prajñā emptiness. This paper proposes that its tripartite structure can be illuminated through the Yogācāra framework of trisvabhāva (three natures). Kuiji (窺基, 632–682), in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), already offered an explicit mapping: "speaks of" reveals parikalpita (the imagined), "is not" reveals paratantra (the dependent), and "is called" reveals pariniṣpanna (the consummated). Building on this rediscovery, the present study proposes a complementary alternative mapping — "X" as paratantra (dependently arisen designation), "is not X" as negation of parikalpita (reified existence), and "is called X" as re-establishment within pariniṣpanna (the consummated). The two mappings illuminate the same structure from the listener's perspective and the object's perspective respectively, like two sides of a single mirror. Through textual analysis of Asaṅga's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1510b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511/T1512), this paper traces the interpretive lineage from the Buddha's structural design to its systematic Yogācāra elaboration. The cross-disciplinary section draws on Wittgenstein's ladder metaphor, Austin's speech act theory, and Derrida's *sous rature* as heuristic parallels. The Middle Way Correction section specifically notes: the trisvabhāva mapping is an interpretive tool, not — and must never become — a cage that domesticates the Diamond Sūtra.
 
 **摘要**
 
-金剛經貫穿全經的「佛說 X，即非 X，是名 X」公式，長期被視為般若空性的修辭表達。本文提出：此三段結構可以透過唯識三性（trisvabhāva）框架加以照見。窺基大師於《金剛般若波羅蜜經讚述》（T1700）中已做出明確映射：「說」顯遍計所執性，「即非」顯依他起性，「是名」顯圓成實性。本文在重新發現窺基映射的基礎上，提出一個替代性的互補映射——「X」指依他起性的緣起施設，「即非 X」否定遍計所執性的實有化，「是名 X」在圓成實性中重新安立名言——並論證兩種映射分別從聽者角度與對象角度照見同一結構，如鏡子的正反兩面。透過無著《能斷金剛般若論》（T1510b）與世親《金剛般若波羅蜜經論》（T1511/T1512）的文本分析，本文進一步追溯從佛陀的結構設計到唯識論師系統化詮釋的進程鏈。中道校正部分特別標記：三性映射是詮釋工具，不是也不應成為馴化金剛經的牢籠。
+金剛經貫穿全經的「佛說 X，即非 X，是名 X」公式，長期被視為般若空性的修辭表達。本文提出：此三段結構可以透過唯識三性（trisvabhāva）框架加以照見。窺基大師於《金剛般若波羅蜜經讚述》（T1700）中已做出明確映射：「說」顯遍計所執性，「即非」顯依他起性，「是名」顯圓成實性。本文在重新發現窺基映射的基礎上，提出一個替代性的互補映射——「X」指依他起性的緣起施設，「即非 X」否定遍計所執性的實有化，「是名 X」在圓成實性中重新安立名言——並論證兩種映射分別從聽者角度與對象角度照見同一結構，如鏡子的正反兩面。透過無著《金剛般若波羅蜜經論》（T1510b）與世親《金剛般若波羅蜜經論》（T1511/T1512）的文本分析，本文進一步追溯從佛陀的結構設計到唯識論師系統化詮釋的進程鏈。中道校正部分特別標記：三性映射是詮釋工具，不是也不應成為馴化金剛經的牢籠。
 
 **Keywords:** Diamond Sūtra, jífēi tripartite formula, trisvabhāva, parikalpita, paratantra, pariniṣpanna, Kuiji, Asaṅga, Vasubandhu, prajñā emptiness | 金剛經、即非三段式、唯識三性、遍計所執性、依他起性、圓成實性、窺基、無著、世親、般若空性
 
@@ -140,15 +140,27 @@ In terms of distribution, the formula clusters heavily after §10, reaching peak
 
 ### 2.2 The Trisvabhāva Definition in the Saṃdhinirmocana Sūtra
 
-The canonical basis for the Yogācāra theory of trisvabhāva (three natures) finds its most direct formulation in the Fourth Chapter ("All Dharma Characteristics") of the *Saṃdhinirmocana Sūtra*:[^6]
+The canonical basis for the Yogācāra theory of trisvabhāva (three natures) finds its most direct formulation in the Fourth Chapter ("All Dharma Characteristics") of the *Saṃdhinirmocana Sūtra*, where the World-Honored One answers the question of Bodhisattva Debén (德本):[^6]
 
-[^6]: All citations below follow the *Saṃdhinirmocana Sūtra* (解深密經), fascicle 2, trans. Xuanzang, T16, No. 676.
+[^6]: The first three citations below follow the *Saṃdhinirmocana Sūtra* (解深密經), fascicle 2, "All Dharma Characteristics" chapter, trans. Xuanzang, T16, No. 676, 0693a17–a23. The final citation is the expanded definition of the pariniṣpanna nature in the *Yogācārabhūmi-śāstra* (瑜伽師地論), fascicle 73, "Bodhisattva Ground" section of the Viniścaya-saṃgrahaṇī, trans. Xuanzang, T30, No. 1579, 0703b02–b05.
 
-> "What is the parikalpita (imagined) nature? The Buddha said: 'Maitreya, it refers to the nominal designations and imputed differentiations of the intrinsic natures of all dharmas — that is called the parikalpita nature.'"
+> 云何諸法遍計所執相？謂一切法名假安立自性差別，乃至為令隨起言說。
+>
+> "What are the parikalpita (imagined) characteristics of dharmas? They are the nominal designations and imputed differentiations of the intrinsic natures of all dharmas, established so as to give rise to speech."
 
-> "What is the paratantra (dependent) nature? The Buddha said: 'Maitreya, it refers to the dependently arisen intrinsic nature of all dharmas — because this exists, that exists; because this arises, that arises.'"
+> 云何諸法依他起相？謂一切法緣生自性，則此有故彼有，此生故彼生，謂無明緣行，乃至招集純大苦蘊。
+>
+> "What are the paratantra (dependent) characteristics of dharmas? They are the dependently arisen intrinsic nature of all dharmas — because this exists, that exists; because this arises, that arises; that is, conditioned by ignorance there are formations, and so on up to the amassing of this whole great mass of suffering."
 
-> "What is the pariniṣpanna (consummated) nature? The Buddha said: 'Maitreya, it refers to the equal suchness of all dharmas, of unchanging nature — the domain of noble wisdom, the sphere of noble wisdom, the object of noble wisdom — which ultimately enables the attainment of purity, enables liberation from all bondage to characteristics and from all afflictive heaviness, and also enables the generation of all meritorious qualities.'"
+> 云何諸法圓成實相？謂一切法平等真如。於此真如，諸菩薩眾勇猛精進為因緣故，如理作意，無倒思惟為因緣故，乃能通達。
+>
+> "What are the pariniṣpanna (consummated) characteristics of dharmas? They are the equal suchness of all dharmas. It is through the bodhisattvas' vigorous exertion, and through appropriate attention and undistorted contemplation, that this suchness can be penetrated."
+
+The Viniścaya-saṃgrahaṇī of the *Yogācārabhūmi-śāstra* gives a further expanded definition of the pariniṣpanna nature, showing why it liberates from bondage to characteristics:
+
+> 云何圓成實自性？謂諸法真如，聖智所行、聖智境界、聖智所緣，乃至能令證得清淨，能令解脫一切相縛及麁重縛，亦令引發一切功德。
+>
+> "What is the pariniṣpanna nature? It is the suchness of dharmas — the domain of noble wisdom, the sphere of noble wisdom, the object of noble wisdom — which ultimately enables the attainment of purity, enables liberation from all bondage to characteristics and from all afflictive heaviness, and also enables the generation of all meritorious qualities."
 
 Each definition points in a distinct direction: parikalpita is the reification that follows upon "nominal designation" — taking names as real; paratantra is "dependently arisen nature" — the principle of conditionality (this existing, that exists); pariniṣpanna is "equal suchness" — the purified domain accessible to noble wisdom, liberating from all bondage to characteristics.
 
@@ -156,7 +168,7 @@ These three definitions provide the doctrinal foundation for the mapping analysi
 
 ### 2.3 Asaṅga's *Treatise on the Ability to Sever the Diamond Prajñā*
 
-Asaṅga's commentary on the Diamond Sūtra is preserved in the *Nengduan jingang bore boluomiduo jing lun* (T1510b, translated by Yijing) and the related commentary (T1513). When analyzing the "is not…is called…" formula, Asaṅga does engage with its dialectical logic, but without directly employing the terminology of parikalpita, paratantra, and pariniṣpanna.
+Asaṅga's commentary on the Diamond Sūtra is preserved in the *Jingang bore boluomi jing lun* (T1510b, translated by Dharmagupta) and the related commentary (T1513). When analyzing the "is not…is called…" formula, Asaṅga does engage with its dialectical logic, but without directly employing the terminology of parikalpita, paratantra, and pariniṣpanna.
 
 Taking "endowed with marks" (具相) as an example, Asaṅga cites the sūtra — "The Tathāgata speaks of being endowed with marks; it is not being endowed with marks; therefore it is called being endowed with marks" — and provides the verse:
 
@@ -407,7 +419,7 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 - *Avataṃsaka Sūtra* (大方廣佛華嚴經), trans. Śikṣānanda, T10, No. 279.
 - *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
 - *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti (般剌蜜帝), T19, No. 945.
-- *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), Asaṅga, trans. Yìjìng, T25, No. 1510b.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Asaṅga, trans. Dharmagupta, T25, No. 1510b.
 - *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Vasubandhu, trans. Bodhiruci, T25, No. 1511.
 - *Jingang xian lun* (金剛仙論), Vasubandhu, trans. Bodhiruci, T25, No. 1512.
 - *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), Asaṅga (verses), T25, No. 1513.
@@ -427,10 +439,11 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 | Avataṃsaka Sūtra | Buddhāvataṃsaka Mahāvaipulya Sūtra | T10, No. 279 |
 | Saṃdhinirmocana Sūtra | Saṃdhinirmocana Sūtra | T16, No. 676 |
 | Śūraṅgama Sūtra | Śūraṅgama Sūtra | T19, No. 945 |
-| Asaṅga's Treatise | Nengduan jingang bore boluomiduo jing lun | T25, No. 1510b |
+| Asaṅga's Treatise | Jingang bore boluomi jing lun | T25, No. 1510b |
 | Vasubandhu's Treatise | Jingang bore boluomi jing lun | T25, No. 1511 |
 | Jingang xian lun | Jingang xian lun (Vasubandhu) | T25, No. 1512 |
 | Asaṅga's Commentary | Nengduan jingang bore boluomiduo jing lun shi | T25, No. 1513 |
+| Yogācārabhūmi-śāstra | Yujia shidi lun 瑜伽師地論 | T30, No. 1579 |
 | Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1700 |
 
 ---

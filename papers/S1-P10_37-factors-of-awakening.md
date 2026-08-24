@@ -188,7 +188,7 @@ The **seven factors of awakening** are the seven dimensions of moving toward enl
 
 The **noble eightfold path** is the complete way of life the Buddha taught at the very first turning of the wheel -- right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
 
-This is a path from ordinary being to noble one. The *Madhyantavibhaga* (Distinguishing the Middle from the Extremes) states that when a bodhisattva reaches the fourth ground (Arcismati, the Radiant Ground), the 37 factors reach their fullest accomplishment. [^8] Yet even at this height, a trap remains: one can become attached to wholesome dharmas themselves -- a "love of virtuous practice." You enjoy cultivation so much that the enjoyment itself becomes an obstacle. The remedy? The text says: "Without the most excellent right effort, this attachment cannot be extinguished." [^8] One must apply a deeper layer of effort to break free from attachment to effort itself.
+This is a path from ordinary being to noble one. The *Mahāyānasaṃgraha-bhāṣya* (Commentary on the Compendium of the Great Vehicle, Paramārtha's translation) states that when a bodhisattva reaches the fourth ground (Arcismati, the Radiant Ground), the 37 factors reach their fullest accomplishment. [^8] Yet even at this height, a trap remains: one can become attached to wholesome dharmas themselves -- a "love of virtuous practice." You enjoy cultivation so much that the enjoyment itself becomes an obstacle. The remedy? The text says: "Without the most excellent right effort, this attachment cannot be extinguished." [^8] One must apply a deeper layer of effort to break free from attachment to effort itself.
 
 The transcendent depth of the 37 factors encompasses even its own side effects. That is the completeness of the system.
 
@@ -460,7 +460,7 @@ Series 2 -- we will meet there.
 - *Ekottara Agama* 《增壹阿含經》, fascicles 1, 7, 18, 26, *Taisho* vol. 2, No. 0125.
 - *Vimalakirti Sutra* 《維摩詰經》, trans. Zhi Qian, *Taisho* vol. 14, No. 0474.
 - *Vimalakirtinirdesa Sutra* 《維摩詰所說經》, trans. Kumarajiva, *Taisho* vol. 14, No. 0475.
-- *Madhyantavibhaga* 《辯中邊論》, fascicle 10, *Taisho* vol. 31, No. 1595.
+- *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, *Taisho* vol. 31, No. 1595.
 - *Buddhagotra-sastra* 《佛性論》, fascicle 4, *Taisho* vol. 31, No. 1610.
 - *Commentary on the Four-Part Vinaya* 《四分律疏》, fascicle 1, *Taisho* vol. 40, No. 1805.
 - *Mahaprajnaparamita-sastra* 《大智度論》, fascicle 19, by Nagarjuna, trans. Kumarajiva, *Taisho* vol. 25, No. 1509.
@@ -485,7 +485,7 @@ Series 2 -- we will meet there.
 | 2 | Ekottara Agama 增壹阿含經 | T02 | 0125 | II, III, V |
 | 3 | Vimalakirti Sutra 維摩詰經 (Zhi Qian) | T14 | 0474 | II |
 | 4 | Vimalakirtinirdesa Sutra 維摩詰所說經 (Kumarajiva) | T14 | 0475 | II |
-| 5 | Madhyantavibhaga 辯中邊論 | T31 | 1595 | III |
+| 5 | Mahāyānasaṃgraha-bhāṣya 攝大乘論釋 | T31 | 1595 | III |
 | 6 | Buddhagotra-sastra 佛性論 | T31 | 1610 | III |
 | 7 | Commentary on the Four-Part Vinaya 四分律疏 | T40 | 1805 | III |
 | 8 | Mahaprajnaparamita-sastra 大智度論 | T25 | 1509 | III |
@@ -513,7 +513,7 @@ Series 2 -- we will meet there.
 [^5]: *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, Master Tai's analysis of the 37 factors' four skillful aspects: the first three categories (foundations of mindfulness, right efforts, bases of spiritual power) as the supporting basis for the path of seeing; the latter four (faculties, powers, awakening factors, path) as the supported practices, *Taisho* vol. 43, No. 1829.
 [^6]: *Ekottara Agama* 《增壹阿含經》, fascicle 7, "Walking in meditation throughout the day, never abandoning the mind's engagement with the 37 factors. When the eye sees form, no conceptual elaboration arises" (竟日經行，未曾捨離意遊三十七道品之法。若眼見色，不起色想), *Taisho* vol. 2, No. 0125.
 [^7]: *Ekottara Agama* 《增壹阿含經》, fascicle 18, "Of all meritorious qualities and the 37 factors of the path, non-negligence is foremost" (諸善功德三十七道品之法，無放逸行為第一), *Taisho* vol. 2, No. 0125.
-[^8]: *Madhyantavibhaga* 《辯中邊論》, fascicle 10, the bodhisattva on the fourth ground achieves "the fullest accomplishment of the 37 factors," yet "without the most excellent right effort, this attachment [to wholesome dharmas] cannot be extinguished" (若無最勝正勤，此愛不可滅), the perfection of effort (virya-paramita) is completed at this ground, *Taisho* vol. 31, No. 1595.
+[^8]: *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, the bodhisattva on the fourth ground achieves "the fullest accomplishment of the 37 factors," yet "without the most excellent right effort, this attachment [to wholesome dharmas] cannot be extinguished" (若無最勝正勤，此愛不可滅), the perfection of effort (virya-paramita) is completed at this ground, *Taisho* vol. 31, No. 1595.
 [^9]: *Buddhagotra-sastra* 《佛性論》, fascicle 4, "The foundation (依止) is the 37 factors of the path" (依止者，三十七道品是所依止), the 37 factors as the basis for the four qualities of the nirmanakaya Buddha, *Taisho* vol. 31, No. 1610.
 [^10]: *Commentary on the Four-Part Vinaya* 《四分律疏》, fascicle 1, "The ten unwholesome actions are the cause of the three lower realms; the ten wholesome actions and the five precepts are the cause of the three favorable realms -- this is worldly causation. The 37 factors and the six paramitas are the cause of the three vehicles -- this is transcendent causation. Though the scale of Mahayana and Hinayana differs, the logic of practice is the same" (大小雖殊，行業無異), *Taisho* vol. 40, No. 1805.
 [^11]: Kabat-Zinn, J. *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delacorte Press, 1990. The foundational text for Mindfulness-Based Stress Reduction (MBSR).

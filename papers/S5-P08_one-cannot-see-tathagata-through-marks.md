@@ -549,6 +549,7 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 7. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, *Taishō* vol. 16, No. 676.
 8. Kuiji, *Jīngāng bōrě bōluómì jīng zànshù* (金剛般若波羅蜜經讚述), *Taishō* vol. 33, No. 1700.
 9. Vasubandhu, *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), trans. Bodhiruci, *Taishō* vol. 25, No. 1511.
+10. Zixuan, *Jīngāng jīng zuǎnyào kāndìng jì* (金剛經纂要刊定記), *Taishō* vol. 33, No. 1702.
 
 ### II. Modern Scholarship
 
@@ -567,8 +568,9 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 | 5 | Laṅkāvatāra Sūtra | T16 | No. 670 | Fasc. 2, 4 |
 | 6 | Cheng weishi lun | T31 | No. 1585 | Fasc. 10 |
 | 7 | Saṃdhinirmocana Sūtra | T16 | No. 676 | Fasc. 5 |
-| 8 | Jīngāng bōrě zànshù (Kuiji) | T33 | No. 1700 | Fasc. 2, 3, 4, 5, 6 |
+| 8 | Jīngāng bōrě zànshù (Kuiji) | T33 | No. 1700 | Fasc. 2 |
 | 9 | Vajracchedikā-śāstra (Vasubandhu) | T25 | No. 1511 | Fasc. 3 |
+| 10 | Jīngāng jīng zuǎnyào kāndìng jì (Zixuan) | T33 | No. 1702 | Fasc. 3, 4, 5, 6 |
 
 ---
 
@@ -591,7 +593,7 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 ## Footnotes
 
-[^1]: Kuiji, *Jīngāng bōrě bōluómì jīng zànshù* (金剛般若波羅蜜經讚述), fasc. 6, summary of four occurrences of "one cannot see the Tathāgata through marks" with their distinct meanings, T33, No. 1700.
+[^1]: Zixuan, *Jīngāng jīng zuǎnyào kāndìng jì* (金剛經纂要刊定記), fasc. 6, summary of four occurrences of "one cannot see the Tathāgata through marks" with their distinct meanings, T33, No. 1702.
 
 [^2]: *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), §26, full exchange on "can one observe the Tathāgata through the thirty-two marks," T8, No. 235.
 
@@ -637,15 +639,15 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 [^23]: *Saṃdhinirmocana Sūtra*, fasc. 5, "Is the turning of the basis attained by śrāvakas and pratyekabuddhas called the dharma-body?" "It is not called the dharma-body" "It is called the liberation-body" "Through the dharma-body there is said to be difference," T16, No. 676.
 
-[^24]: Kuiji, *Zànshù*, fasc. 4, "The thirty-two marks are nothing but reflections manifested upon mirror-wisdom. Since they fall within the category of the conditioned, they are subject to the four marks of impermanence… how could one take these as the dharma-body," mirror-wisdom reflection theory, T33, No. 1700.
+[^24]: Zixuan, *Kāndìng jì*, fasc. 4, "The thirty-two marks are nothing but reflections manifested upon mirror-wisdom. Since they fall within the category of the conditioned, they are subject to the four marks of impermanence… how could one take these as the dharma-body," mirror-wisdom reflection theory, T33, No. 1702.
 
-[^25]: Kuiji, *Zànshù*, fasc. 4, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image," T33, No. 1700.
+[^25]: Zixuan, *Kāndìng jì*, fasc. 4, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image," T33, No. 1702.
 
 [^26]: Kuiji, *Zànshù*, fasc. 2, quoting Maitreya's verse: "The response-body and transformation-body are not the true Buddha, nor are they the Dharma-speaker" and commenting "these marks are merely reflected images manifested within the true body… since they are called reflections, they are known to be not real," T33, No. 1700.
 
-[^27]: Kuiji, *Zànshù*, fasc. 4, "All marks arise from deluded thought; therefore even the Buddha's marks are illusory. If discrimination does not arise, marks naturally do not arise — one then sees non-marks. When all marks have subsided, what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata,'" T33, No. 1700.
+[^27]: Zixuan, *Kāndìng jì*, fasc. 4, "All marks arise from deluded thought; therefore even the Buddha's marks are illusory. If discrimination does not arise, marks naturally do not arise — one then sees non-marks. When all marks have subsided, what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata,'" T33, No. 1702.
 
-[^28]: Kuiji, *Zànshù*, fasc. 4, "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is absent is it the mirror; where the other objects appear, too, it is all the mirror. Apply this to the dharma and the meaning is clear," mirror analogy, T33, No. 1700.
+[^28]: Zixuan, *Kāndìng jì*, fasc. 4, "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is absent is it the mirror; where the other objects appear, too, it is all the mirror. Apply this to the dharma and the meaning is clear," mirror analogy, T33, No. 1702.
 
 [^29]: Vasubandhu, *Vajracchedikā-śāstra* (金剛般若波羅蜜經論), fasc. 3, "A further doubt arises… yet one might inferentially know the dharma-body through seeing the accomplished marks," §26 doubt-severing passage, T25, No. 1511.
 
@@ -653,9 +655,9 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 [^31]: Vasubandhu, *Vajracchedikā-śāstra*, fasc. 3, "One who merely sees form and hears sound does not know the Buddha — because the suchness dharma-body is not a domain of consciousness," verse commentary, T25, No. 1511.
 
-[^32]: Kuiji, *Zànshù*, fasc. 5, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image" and "Even possessing the thirty-two marks, one is merely a wheel-turning king… If one can uphold and expound this sūtra, wisdom arises in fullness… Only then can these thirty-two marks be called those of a Buddha," T33, No. 1700.
+[^32]: Zixuan, *Kāndìng jì*, fasc. 5, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image" and "Even possessing the thirty-two marks, one is merely a wheel-turning king… If one can uphold and expound this sūtra, wisdom arises in fullness… Only then can these thirty-two marks be called those of a Buddha," T33, No. 1702.
 
-[^33]: Kuiji, *Zànshù*, fasc. 3, the story of Bhikṣuṇī Utpalavarṇā transforming into a wheel-turning king to see the Buddha and the Buddha's rebuke, alongside Subhūti's decision not to go see the form-body, T33, No. 1700.
+[^33]: Zixuan, *Kāndìng jì*, fasc. 3, the story of Bhikṣuṇī Utpalavarṇā transforming into a wheel-turning king to see the Buddha and the Buddha's rebuke, alongside Subhūti's decision not to go see the form-body, T33, No. 1702.
 
 ---
 

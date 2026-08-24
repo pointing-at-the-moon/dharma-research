@@ -208,7 +208,7 @@ Asaṅga's commentary (T1510a/b) uses "seven meaning-gates" and "eighteen abidin
 
 > If the bodhisattva still harbors notions of sentient beings, this reveals either active self-grasping or latent tendencies.
 
-[^17]: *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), fasc. 2, T25, No. 1510b.
+[^17]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, T25, No. 1510b.
 
 Asaṅga confirms Vasubandhu's analysis: the second half targets the practitioner's attachment to their own practice — "I am practicing" is itself the obstruction. Notably, Asaṅga does not use the paired terminology "two obstructions" (*èr zhàng* 二障), instead employing "discrimination" (*fēnbié* 分別, Skt. *vikalpa*) as the core obstruction-concept. But the substance fully corresponds: the first half deconstructs the *objects* of discrimination; the second half deconstructs the *mind* that discriminates.
 
@@ -249,7 +249,7 @@ Fascicle 7 explicitly confirms the two-layer deconstruction structure:[^21]
 
 > "It is not without the two [emptinesses] that one attains the path — by distancing from self and dharma [grasping]." (非無二得道，遠離於我法。)
 
-[^21]: Kuiji, *Zànshù*, fasc. 7, T33, No. 1700.
+[^21]: Zixuan, *Kanding ji*, fasc. 7, T33, No. 1702.
 
 The first half deconstructs "the objects of grasping" (*suǒyuán zhī jìng* 所緣之境); the second half deconstructs "the mind that grasps" (*néng yuán jiàn xīn* 能緣見心). This precisely matches this paper's analysis: first half deconstructs the grasped; second half deconstructs the grasping.
 
@@ -443,10 +443,11 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 - *Vajracchedikā Prajñāpāramitā Sūtra* 金剛般若波羅蜜經, trans. Kumārajīva, T08, No. 235.
 - *Saṃdhinirmocana Sūtra* 解深密經, trans. Xuanzang, T16, No. 676.
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Vasubandhu), trans. Bodhiruci, T25, No. 1511.
-- *Nengduan jingang bore boluomiduo jing lun* 能斷金剛般若波羅蜜多經論 (Asaṅga), trans. Yijing, T25, No. 1510b.
+- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Asaṅga), trans. Dharmagupta, T25, No. 1510b.
 - *Cheng weishi lun* 成唯識論 (Dharmapāla et al.), trans. Xuanzang, T31, No. 1585.
 - *Yogācārabhūmi-śāstra* 瑜伽師地論 (Maitreya), trans. Xuanzang, T30, No. 1579.
 - Kuiji 窺基, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1700.
+- Zixuan 子璿, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, T33, No. 1702.
 
 ### II. Modern Scholarship
 
@@ -460,10 +461,11 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 | Diamond Sūtra 金剛經 | Vajracchedikā Prajñāpāramitā Sūtra 金剛般若波羅蜜經 | T08, No. 235 | entire text |
 | Saṃdhinirmocana Sūtra 解深密經 | Saṃdhinirmocana Sūtra 解深密經 | T16, No. 676 | fasc. 2, 4 |
 | Vasubandhu's Commentary 金剛般若經論 | Jingang bore boluomi jing lun 金剛般若波羅蜜經論 | T25, No. 1511 | fasc. 2 |
-| Asaṅga's Commentary 金剛般若論 | Nengduan jingang bore boluomiduo jing lun 能斷金剛般若波羅蜜多經論 | T25, No. 1510b | fasc. 2 |
+| Asaṅga's Commentary 金剛般若論 | Jingang bore boluomi jing lun 金剛般若波羅蜜經論 | T25, No. 1510b | fasc. 2 |
 | Yogācārabhūmi 瑜伽師地論 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30, No. 1579 | fasc. 36, 48 |
 | Cheng weishi lun 成唯識論 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | fasc. 9, 10 |
-| Kuiji's Zànshù 金剛經讚述 | Jingang bore boluomi jing zanshu 金剛般若波羅蜜經讚述 | T33, No. 1700 | fasc. 1, 2, 7 |
+| Kuiji's Zànshù 金剛經讚述 | Jingang bore boluomi jing zanshu 金剛般若波羅蜜經讚述 | T33, No. 1700 | fasc. 1, 2 |
+| Zixuan's Kanding ji 金剛經刊定記 | Jingang jing zuanyao kanding ji 金剛經纂要刊定記 | T33, No. 1702 | fasc. 7 |
 
 ---
 
@@ -517,7 +519,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 [^16]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, "於內心修行，存我為菩薩，此即障於心，違於不住道" (Cultivating within the mind, harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding), Vasubandhu's verse analyzing the §17 re-questioning, T25, No. 1511.
 
-[^17]: *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), fasc. 2, Asaṅga's analysis of the §17 re-questioning: the bodhisattva's attachment to seeing themselves as having attained a superior position, T25, No. 1510b.
+[^17]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, Asaṅga's analysis of the §17 re-questioning: the bodhisattva's attachment to seeing themselves as having attained a superior position, T25, No. 1510b.
 
 [^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, "凡夫有我執必兼有法執……菩薩無法執則必無我執" (Ordinary beings with self-grasping necessarily also have dharma-grasping… bodhisattvas without dharma-grasping necessarily lack self-grasping), the four-proposition logical relationship between self-grasping and dharma-grasping, T33, No. 1700.
 
@@ -525,7 +527,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 [^20]: Kuiji, *Zànshù*, fasc. 2, four-fold classification: mind-liberated/wisdom-liberated/both-liberated/neither-liberated, T33, No. 1700.
 
-[^21]: Kuiji, *Zànshù*, fasc. 7, "前破我法所緣之境令知不實，今破能緣我法見心" (Previously deconstructing the objects of self- and dharma-grasping to reveal their unreality; now deconstructing the mind that grasps self and dharma)… "非無二得道，遠離於我法" (It is not without both [emptinesses] that one attains the path — by distancing from self and dharma), T33, No. 1700.
+[^21]: Zixuan, *Kanding ji*, fasc. 7, "前破我法所緣之境令知不實，今破能緣我法見心" (Previously deconstructing the objects of self- and dharma-grasping to reveal their unreality; now deconstructing the mind that grasps self and dharma)… "非無二得道，遠離於我法" (It is not without both [emptinesses] that one attains the path — by distancing from self and dharma), T33, No. 1702.
 
 [^22]: *Yogācārabhūmi-śāstra* (瑜伽師地論), fasc. 36, four kinds of reality: afflictive-obstruction-purified wisdom cognizes the Four Noble Truths and person-selflessness; cognitive-obstruction-purified wisdom cognizes dharma-selflessness, beyond verbal expression, cognizable only by bodhisattvas and buddhas, T30, No. 1579.
 

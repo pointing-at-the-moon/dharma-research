@@ -362,7 +362,7 @@ The correspondences in the golden-lion parable:
 
 The golden-lion parable has two advantages over the house parable. First, it is more directly intuitive—the reader needs no specialized knowledge of timber-frame architecture to grasp it. Second, the simultaneity of *formation* and *decay* is more visible: the lion's eye must remain "the eye of the golden lion" (decay = abiding in its own position) for the entire golden lion to be established (formation = the organs assembling). If the lion's eye were to begin "becoming" the lion itself, neither the eye nor the lion would remain.
 
-Fazang appends a sentence to the end of the golden-lion parable: **"This displays that within the *dharmadhātu* there is no isolated dharma. Whichever single characteristic one raises, the dependent origination of all six characteristics is contained within it."** This sentence discloses the actual purpose of the six-characteristics parables: it is not to make you remember six categories but to make you understand that "within the *dharmadhātu* there is no isolated dharma"—any single thing, the moment it is raised up for view, brings the other six characteristics with it. The six characteristics are not six concepts; they are the very fact that "any single thing has six observational facets simultaneously."
+Chengqian annotates the end of this section of the golden-lion parable: **"This displays that within the *dharmadhātu* there is no isolated dharma. Whichever single characteristic one raises, the dependent origination of all six characteristics is contained within it."** This sentence discloses the actual purpose of the six-characteristics parables: it is not to make you remember six categories but to make you understand that "within the *dharmadhātu* there is no isolated dharma"—any single thing, the moment it is raised up for view, brings the other six characteristics with it. The six characteristics are not six concepts; they are the very fact that "any single thing has six observational facets simultaneously."
 
 The *Jīn shīzi zhāng* (T1880, "Encompassing the Six Characteristics" section; in Jingyuan's *Yúnjiān lèijiě* recension) places the golden-lion parable in side-by-side correspondence with the *Wujiao zhang*'s eight-line summary verse:
 
@@ -880,7 +880,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 [^26]: Ibid., T1866 fascicle 4, the eight-line summary verse of the "Six Characteristics in Perfect Fusion" chapter.
 
-[^27]: 《華嚴金師子章》, *Huáyán jīn shīzi zhāng* (*The Huayan Golden-Lion Chapter*), composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1880, fascicle 1, eighth section "Encompassing the Six Characteristics." Composed for the empress Wu Zetian; the most concise demonstration of the six-characteristics doctrine.
+[^27]: 《華嚴經金師子章註》, *Huáyán jīng jīn shīzi zhāng zhù*, composed by Fazang of the Tang dynasty with annotations by Chengqian 承遷 of the Song, *Taishō* vol. 45, no. 1881, 0670b07–b12, eighth section "Encompassing the Six Characteristics." The *Jīn shīzi zhāng* itself was composed for the empress Wu Zetian and is the most concise demonstration of the six-characteristics doctrine; in this recension the text after the second full-width space ("This displays that within the *dharmadhātu*..." onward) belongs, by the recension's "chapter text　annotation" convention, to Chengqian's annotation rather than to Fazang's chapter text.
 
 [^28]: 《華嚴金師子章》 *Huáyán jīn shīzi zhāng*, composed by Fazang, *Taishō* vol. 45, no. 1880, fascicle 1, eighth section "Encompassing the Six Characteristics" (as in [^27]; Jingyuan's *Yúnjiān lèijiě* recension). The golden-lion six-characteristics gloss and its correspondence with the *Wujiao zhang*'s eight-line verse are in this section. N.B.: this gloss belongs to the *Jīn shīzi zhāng* (T1880), **not** the *Yìhǎi bǎi mén* (T1875), which is a ten-gate treatise on dharmadhātu dependent-arising with no "encompassing the six characteristics" section; the earlier attribution to T1875 was an error, now corrected.
 
@@ -914,6 +914,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 - 《華嚴一乘教義分齊章》(*Huáyán wǔjiào zhāng*), composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1866.
 - 《華嚴經探玄記》, composed by Fazang of the Tang dynasty, *Taishō* vol. 35, no. 1733.
 - 《華嚴金師子章》, composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1880.
+- 《華嚴經金師子章註》, composed by Fazang of the Tang dynasty, annotated by Chengqian of the Song dynasty, *Taishō* vol. 45, no. 1881.
 - 《華嚴經義海百門》, *Taishō* vol. 45, no. 1875.
 - 《華嚴經金師子章雲間類解》, composed by Jingyuan of the Song dynasty, *Taishō* vol. 45, no. 1880.
 - 《華嚴經疏》, composed by Chengguan of the Tang dynasty, *Taishō* vol. 35, no. 1735.
@@ -939,6 +940,7 @@ The present paper is grounded primarily in the primary sources and does not draw
 | *Yī chéng shíxuán mén* | 華嚴一乘十玄門 | T1868 | attributed to Du Shun and Zhiyan |
 | *Huáyán jīng wèndá* | 華嚴經問答 | T1873 | attributed to Zhiyan |
 | *Jīn shīzi zhāng* | 華嚴金師子章 | T1880 | composed by Fazang |
+| *Jīn shīzi zhāng zhù* | 華嚴經金師子章註 | T1881 | Fazang, annotated by Chengqian |
 | *Yúnjiān lèijiě* | 華嚴經金師子章雲間類解 | T1880 | composed by Jingyuan |
 | *Yìhǎi bǎi mén* | 華嚴經義海百門 | T1875 | — |
 

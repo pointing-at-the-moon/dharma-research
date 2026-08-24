@@ -160,7 +160,7 @@ Vasubandhu's framework is clear: before reaching shore — dharma should be take
 
 #### 2.7 Asaṅga: Five Types of Wrong Grasping and "Because Right Cognition Has Arisen"
 
-Asaṅga in the *Nengduan jingang bore lun* (T1510a/T1510b) approaches the raft analogy from another angle:[^13]
+Asaṅga in the *Jingang bore lun* (T1510a/T1510b) approaches the raft analogy from another angle:[^13]
 
 > "Dharma should still be let go" — because right cognition (實想) has arisen. "How much more so non-dharma" — because it does not accord with principle. In brief, the bodhisattva who seeks the verbal dharma-body should not form false cognitions.
 
@@ -472,12 +472,13 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 - *Zhong ahan jing* (中阿含經), trans. Gautama Saṃghadeva (東晉瞿曇僧伽提婆), T01, No. 26.
 - *Jie shenmi jing* (解深密經), trans. Xuanzang (唐玄奘), T16, No. 676.
 - *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Vasubandhu (天親菩薩), trans. Bodhiruci (元魏菩提流支), T25, No. 1511.
-- *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), by Asaṅga (無著菩薩), trans. Yijing (唐義淨), T25, No. 1510b.
-- *Nengduan jingang bore boluomiduo jing lun* (能斷金剛般若波羅蜜多經論), by Asaṅga (無著菩薩), trans. Dharmagupta (元魏達摩笈多), T25, No. 1510a.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), T25, No. 1510b.
+- *Jingang bore lun* (金剛般若論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), T25, No. 1510a.
 - *Yuqie shidi lun* (瑜伽師地論), by Maitreya (彌勒菩薩), trans. Xuanzang (唐玄奘), T30, No. 1579.
 - *Cheng weishi lun* (成唯識論), by Dharmapāla et al. (護法等菩薩), trans. Xuanzang (唐玄奘), T31, No. 1585.
 - Kuiji (窺基), *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
 - Kuiji (窺基), *Jingang bore jing shu* (金剛般若經疏), T33, No. 1700.
+- Zixuan (子璿), *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
 
 ### II. Modern Scholarship
 
@@ -492,11 +493,12 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 | Madhyama Āgama | Zhong ahan jing | T01, No. 26 | Fascicle 54 |
 | Saṃdhinirmocana | Jie shenmi jing | T16, No. 676 | Fascicles 2, 3 |
 | Vasubandhu's Diamond Commentary | Jingang bore boluomi jing lun | T25, No. 1511 | Fascicle 1 |
-| Asaṅga's Diamond Commentary (Yijing) | Nengduan jingang bore lun | T25, No. 1510b | Fascicle 1 |
-| Asaṅga's Diamond Commentary (Dharmagupta) | Nengduan jingang bore lun | T25, No. 1510a | Fascicle 1 |
+| Asaṅga's Diamond Commentary (Dharmagupta) | Jingang bore boluomi jing lun | T25, No. 1510b | Fascicle 1 |
+| Asaṅga's Diamond Treatise (Dharmagupta) | Jingang bore lun | T25, No. 1510a | Fascicle 1 |
 | Yogācārabhūmi | Yuqie shidi lun | T30, No. 1579 | Fascicles 45, 48, 49 |
 | Cheng weishi lun | Cheng weishi lun | T31, No. 1585 | Fascicles 8, 9, 10 |
-| Kuiji's Zànshù | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fascicles 2, 3, 4 |
+| Kuiji's Zànshù | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fascicle 2 |
+| Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fascicles 3, 4 |
 | Kuiji's Commentary | Jingang bore jing shu | T33, No. 1700 | Fascicle 1 |
 
 ---
@@ -544,17 +546,17 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^12]: *Jingang bore boluomi jing lun*, fascicle 1: 「彼不住隨順，於法中證智，如人捨船栰，法中義亦然」 — "Not abiding, in accordance, / attaining wisdom within dharma, / like a person releasing a raft — / so too with the meaning within dharma," Vasubandhu's raft-analogy verse, T25, No. 1511.
 
-[^13]: *Nengduan jingang bore boluomiduo jing lun*, fascicle 1: 「法尚應捨，實想生故；何況非法者，理不應故」 — "Dharma should still be let go — because right cognition has arisen; how much more so non-dharma — because it does not accord with principle," Asaṅga's raft-analogy gloss, T25, No. 1510b.
+[^13]: *Jingang bore boluomi jing lun*, fascicle 1: 「法尚應捨，實想生故；何況非法者，理不應故」 — "Dharma should still be let go — because right cognition has arisen; how much more so non-dharma — because it does not accord with principle," Asaṅga's raft-analogy gloss, T25, No. 1510b.
 
-[^14]: *Nengduan jingang bore boluomiduo jing lun*, fascicle 1: five types of wrong grasping (五種邪取) — non-Buddhists, Buddhist worldlings and śrāvakas, overconfident bodhisattvas, mundane shared-notion samādhi, no-notion samādhi, T25, No. 1510b.
+[^14]: *Jingang bore boluomi jing lun*, fascicle 1: five types of wrong grasping (五種邪取) — non-Buddhists, Buddhist worldlings and śrāvakas, overconfident bodhisattvas, mundane shared-notion samādhi, no-notion samādhi, T25, No. 1510b.
 
 [^15]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 2: 「計一切法實有體性，名為法執。然佛說小乘以除我執，今說般若重為此者……正除法執，兼明我空」 — "Conceiving that all dharmas have real self-nature is called dharma-grasping... Prajñā's primary function is removing dharma-grasping while also illuminating person-emptiness," T33, No. 1700.
 
-[^16]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 4: 「不應取法，離有也；不應取非法，離無也。既離有無，即歸中道」 — "Not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way," T33, No. 1700.
+[^16]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「不應取法，離有也；不應取非法，離無也。既離有無，即歸中道」 — "Not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way," T33, No. 1702.
 
-[^17]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 4: 「義不自顯，必假於言」, citing the *Vimalakīrti*: 「無離文字說解脫也」 — "Meaning does not reveal itself; it necessarily relies on words" and "There is no liberation apart from written words," T33, No. 1700.
+[^17]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「義不自顯，必假於言」, citing the *Vimalakīrti*: 「無離文字說解脫也」 — "Meaning does not reveal itself; it necessarily relies on words" and "There is no liberation apart from written words," T33, No. 1702.
 
-[^18]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 4: 「未除細執者，謂二執俱生任運起者」 — "Those who have not yet removed the subtle grasping — the innate, spontaneously arising forms of the two graspings," T33, No. 1700.
+[^18]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「未除細執者，謂二執俱生任運起者」 — "Those who have not yet removed the subtle grasping — the innate, spontaneously arising forms of the two graspings," T33, No. 1702.
 
 [^19]: Kuiji, *Jingang bore jing shu*, fascicle 1: 「將欲證真，必因言說；及其正證，即不假言，如筏至岸，即無所用也」 — "When one is about to realize truth, one necessarily relies on verbal teaching; at the moment of true realization, words are no longer needed — like a raft that, upon reaching shore, has no further use," T33, No. 1700.
 
@@ -580,7 +582,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^30]: *Yuqie shidi lun*, fascicle 48: 「於一切世間行無染而行……住而不住」 — "Conducting oneself in all worldly activities without defilement... abiding yet not abiding," T30, No. 1579.
 
-[^31]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 4: 「實相法尚不可得，況離實相外一切法耶。除諸法實相，餘皆魔事」 — "The dharma of true reality is itself unobtainable — how much less all dharmas outside true reality? Apart from the true reality of all dharmas, everything else is the work of Māra," T33, No. 1700.
+[^31]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「實相法尚不可得，況離實相外一切法耶。除諸法實相，餘皆魔事」 — "The dharma of true reality is itself unobtainable — how much less all dharmas outside true reality? Apart from the true reality of all dharmas, everything else is the work of Māra," T33, No. 1702.
 
 [^32]: *Jie shenmi jing*, fascicle 2: 「言說熏習心故、言說隨覺故、言說隨眠故，於依他起自性及圓成實自性中，執著遍計所執自性」 — "Through verbal habituation of the mind, verbal awakening, and verbal dormancy, upon paratantra and pariniṣpanna one grasps the parikalpita," T16, No. 676.
 

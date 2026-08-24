@@ -225,7 +225,7 @@ The *Cheng Weishi Lun* analyzes the naming of the sixth consciousness with preci
 
 The sixth consciousness can "extensively cognize all dharmas" because of its unique objects — dharma-objects (dharma-viṣaya). In the Buddha's twelve sense-bases teaching, dharma-objects were already established as the exclusive objects of the sixth consciousness — the *Saṃyukta Āgama*'s pairing of "mental sense-base" with "dharma sense-base."[^7]
 
-Dharma-objects constitute the broadest category among the twelve sense-bases. The *Pañcaskandhaka* (大乘五蘊論) classifies dharma-realm form into five types:
+Dharma-objects constitute the broadest category among the twelve sense-bases. The *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論) classifies dharma-realm form into five types:
 
 > "Forms included in the dharma-realm are briefly of five kinds: atomic-limit form, spatial-limit form, form derived from reception, conceptually constructed form, and form arising from mastery."[^40]
 
@@ -435,8 +435,9 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 12. *Bāshí guījǔ bǔzhù* (八識規矩補註), annotated by Putai, *Taishō* vol. 45, No. 1865.
 13. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
 14. *Madhyāntavibhāga* (辯中邊論), by Maitreya/Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1600.
-15. *Pañcaskandhaka* (大乘五蘊論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
+15. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), comp. Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
 16. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
+17. *Mahāyānasaṃgraha* (攝大乘論本), by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1594.
 
 ### II. Modern Scholarship
 
@@ -463,9 +464,10 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 | 11 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 1, 2, 5, 7, 9, 10 |
 | 12 | Bāshí guījǔ bǔzhù 八識規矩補註 | T45 | 1865 | 1, 2 |
 | 13 | Yogācārabhūmi 瑜伽師地論 | T30 | 1579 | 1 |
-| 14 | Madhyāntavibhāga 辯中邊論 | T31 | 1600/1594 | 3 |
-| 15 | Pañcaskandhaka 大乘五蘊論 | T31 | 1606 | 1 |
+| 14 | Madhyāntavibhāga 辯中邊論 | T31 | 1600 | 3 |
+| 15 | Abhidharmasamuccaya-vyākhyā 大乘阿毘達磨雜集論 | T31 | 1606 | 1 |
 | 16 | Śatadharmaprakāśamukha 百法明門論 | T31 | 1614 | 1 |
+| 17 | Mahāyānasaṃgraha 攝大乘論本 | T31 | 1594 | 3 |
 
 ---
 
@@ -528,9 +530,9 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 [^35]: *Yogācārabhūmi*, fasc. 1: "It can also discern self-characteristics and shared characteristics, past, future, and present; it can engage in momentary discernment or continuous discernment." *Taishō* vol. 30, No. 1579.
 [^36]: *Yogācārabhūmi*, fasc. 1, fourteen superior functions of mental consciousness. *Taishō* vol. 30, No. 1579.
 [^37]: *Madhyāntavibhāga*, fasc. 3: "Prajñā-pāramitā and non-discriminating wisdom are without difference." *Taishō* vol. 31, No. 1600.
-[^38]: *Madhyāntavibhāga*, fasc. 3: "Like a person closing their eyes — this is non-discriminating wisdom; the same person opening their eyes again — post-attainment wisdom is likewise." *Taishō* vol. 31, No. 1594/1600.
+[^38]: *Mahāyānasaṃgraha* (攝大乘論本), fasc. 3: "Like a person closing their eyes — this is non-discriminating wisdom; the same person opening their eyes again — post-attainment wisdom is likewise." *Taishō* vol. 31, No. 1594/1600.
 [^39]: *Cheng Weishi Lun*, fasc. 5: "Though all six consciousness-bodies turn in dependence on mentation, following its unique [faculty], it is named mental consciousness." *Taishō* vol. 31, No. 1585.
-[^40]: *Pañcaskandhaka*, fasc. 1: "Forms included in the dharma-realm are briefly of five kinds." *Taishō* vol. 31, No. 1606.
+[^40]: *Abhidharmasamuccaya-vyākhyā*, fasc. 1: "Forms included in the dharma-realm are briefly of five kinds." *Taishō* vol. 31, No. 1606.
 [^41]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The sixth consciousness has five kinds," section on the five modes. *Taishō* vol. 45, No. 1865.
 [^42]: *Bāshí guījǔ bǔzhù*, fasc. 2: "Without verbal designations and without deliberative mentation, it is called a real object." *Taishō* vol. 45, No. 1865.
 [^43]: *Bāshí guījǔ bǔzhù*, fasc. 2: "The first five consciousnesses possess recollective discrimination but lack conceptual discrimination." *Taishō* vol. 45, No. 1865.

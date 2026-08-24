@@ -22,9 +22,9 @@ This paper proposes a cross-sectarian Buddhist thesis: **the initial generation 
 
 ## I. The Problem: The Weight of Initial Aspiration
 
-The degree of importance that Buddhist traditions across sectarian lines assign to "initial aspiration" (prathamaṃ cittam utpādayati) far exceeds ordinary understanding. The *Avataṃsaka Sūtra* (華嚴經), in its chapter on the merit of initial aspiration, states:
+The degree of importance that Buddhist traditions across sectarian lines assign to "initial aspiration" (prathamaṃ cittam utpādayati) far exceeds ordinary understanding. The *Avataṃsaka Sūtra* (華嚴經), in its chapter on pure conduct (梵行品), states:
 
-> "At the moment of initial aspiration, one immediately attains perfect awakening and knows the true nature of all dharmas."[^1]
+> "At the moment of initial aspiration, one immediately attains perfect awakening, knows the true nature of all dharmas, is fully endowed with the body of wisdom, and does not rely on another for awakening."[^1]
 
 This appears to be rhetorical, yet it contains a profound causal assertion. However, the language of faith alone cannot explain *why* a single moment of aspiration should equal perfect awakening. This paper attempts to employ the Yogācāra mechanism of seed-habituation (*vāsanā*) as a mediating link between *tathāgatagarbha* ontology and Huayan fruition-ground theory, providing a precise doctrinal argument for this proposition.
 
@@ -36,19 +36,21 @@ At the same time, this paper introduces the concept of the "butterfly effect" fr
 
 ### 2.1 The Unity of Tathāgatagarbha and Store-Consciousness
 
-The reconciliation of *tathāgatagarbha* thought and Yogācāra is the theoretical premise of this paper's thesis. The *Laṅkāvatāra Sūtra* (楞伽經), fascicle 4, explicitly identifies the unity of *tathāgatagarbha* and store-consciousness:
+The reconciliation of *tathāgatagarbha* thought and Yogācāra is the theoretical premise of this paper's thesis. The *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), fascicle 4, together with the *Laṅkāvatāra Sūtra* in Śikṣānanda's rendering (大乘入楞伽經), fascicle 5, explicitly identifies the unity of *tathāgatagarbha* and store-consciousness:
 
-> "Mahāmati, the tathāgatagarbha is called tathāgatagarbha and also store-consciousness (ālaya-vijñāna). It is the cause of both wholesome and unwholesome [dharmas]... This consciousness holds all seeds... This consciousness depends upon the tathāgatagarbha."[^2]
+> "The garbha of the Tathāgata is the cause of both the wholesome and the unwholesome, and universally gives rise to all the destinies of birth... Habituated by beginningless falsity and evil habit-energy, it is named the store-consciousness."[^2]
+
+> "The eight are: the tathāgatagarbha that is called store-consciousness (ālaya-vijñāna), manas together with mano-vijñāna, and the five sense consciousnesses."[^2b]
 
 The equation "tathāgatagarbha = store-consciousness" established here means that *tathāgatagarbha* is not merely the pure aspect of original awakening, but simultaneously a dynamic field containing all defiled and pure seeds. The *Awakening of Mahāyāna Faith* (大乘起信論) further articulates this architecture:
 
-> "Depending on the tathāgatagarbha, there is the arising-and-ceasing mind... The non-arising, non-ceasing united with arising-and-ceasing... neither one nor different... Depending on the ālaya-vijñāna, three aspects are posited... Depending on this consciousness, external objects appear... the vessel world."[^3]
+> "As for the arising-and-ceasing mind: depending on the tathāgatagarbha there is the arising-and-ceasing mind, that is, the non-arising and non-ceasing united with arising-and-ceasing, neither one nor different, and this is named the ālaya-vijñāna."[^3]
 
-The crucial point here is "depending on this consciousness, external objects appear... the vessel world"—the vessel world is not an objective reality independent of consciousness, but arises in dependence upon the *ālaya-vijñāna*.
+What this passage establishes is the structure "tathāgatagarbha—arising-and-ceasing mind—ālaya-vijñāna"; that the vessel world arises in dependence upon consciousness is stated explicitly in the *Cheng Weishi Lun*, fascicle 2 (see 2.2).
 
 The *Śrīmālādevī Siṃhanāda Sūtra* (勝鬘經) supplements this from the perspective of universality:
 
-> "The tathāgatagarbha is the storehouse of the dharma-realm... It is the tathāgatagarbha of all sentient beings."[^4]
+> "The tathāgatagarbha is the storehouse of the dharma-realm, the storehouse of the dharma-body, the supreme supramundane storehouse, the storehouse pure by nature... Were there no tathāgatagarbha, there could be no weariness of suffering, nor joy in seeking nirvāṇa."[^4]
 
 Synthesizing these three texts: tathāgatagarbha = store-consciousness = the basis of all seeds = that from which the vessel world arises. This is the theoretical foundation of what this paper calls the "tathāgatagarbha shared karmic field."
 
@@ -70,21 +72,21 @@ This corresponds precisely to the celebrated passage from the *Vimalakīrti Nird
 
 ### 3.1 Bodhicitta as Seed
 
-The *Mahāprajñāpāramitā Śāstra* (大智度論), fascicle 1, offers the most direct definition of the seed-nature of bodhicitta:
+The *Avataṃsaka Sūtra* (華嚴經), in its chapter on entering the dharma-realm, offers the most direct definition of the seed-nature of bodhicitta:
 
-> "Bodhicitta is the seed of all buddha-dharmas. Without this seed, buddha-dharmas cannot be produced."[^7]
+> "Bodhicitta is like a seed, for it can produce all the buddha-dharmas."[^7]
 
-The determination here that bodhicitta is "the seed of all buddha-dharmas" is of critical importance: bodhicitta is not an ordinary wholesome thought, but the fundamental cause capable of "producing all buddha-dharmas." Within the Yogācāra framework of seed theory, the nature of the seed determines the nature of the fruit. The fruit corresponding to the bodhicitta seed is none other than *anuttarā samyaksaṃbodhi*—complete, perfect awakening.
+The determination here that bodhicitta "is like a seed, for it can produce all the buddha-dharmas" is of critical importance: bodhicitta is not an ordinary wholesome thought, but the fundamental cause capable of "producing all buddha-dharmas." Within the Yogācāra framework of seed theory, the nature of the seed determines the nature of the fruit. The fruit corresponding to the bodhicitta seed is none other than *anuttarā samyaksaṃbodhi*—complete, perfect awakening.
 
 ### 3.2 Śruta-vāsanā and the Supramundane Mind-Seed
 
-The mechanism of generating bodhicitta corresponds, in Yogācāra, to the theory of "learning-habituation" (*śruta-vāsanā*). The *Awakening of Mahāyāna Faith* states:
+The mechanism of generating bodhicitta corresponds, in Yogācāra, to the theory of "learning-habituation" (*śruta-vāsanā*). The *Mahāyānasaṃgraha* (攝大乘論本) states:
 
-> "Furthermore, regarding the aspect of generating the aspiration... depending on the dharma of suchness, one generates bodhicitta, habituating suchness, attaining pure dharmas... Learning-habituation... though not within the ālaya-vijñāna, belongs to the tathāgatagarbha, and can counteract the ālaya-vijñāna."[^8]
+> "Up to the attainment of the buddhas' bodhi, this learning-habituation, wherever it abides in whatever basis of transformation, lodges within the maturation-consciousness and turns together with it in union, like water and milk; yet it is not the ālaya-vijñāna, for it is of the nature of the seed that counteracts it."[^8]
 
-The *Cheng Weishi Lun*, fascicle 2, further specifies:
+The *Mahāyānasaṃgraha*, fascicle 1, further specifies:
 
-> "Learning-habituation... is not subsumed under the ālaya-vijñāna... It is the supramundane mind-seed... Though not the ālaya-vijñāna, it can nonetheless counteract the ālaya-vijñāna."[^9]
+> "Moreover, the seeds of this right learning-habituation, of lesser, middling, and superior grades, should be known to be seeds of the dharma-body as well. They stand contrary to the ālaya-vijñāna and are not subsumed under the ālaya-vijñāna, for they are of the outflow-nature of the supremely pure supramundane dharma-realm; though worldly, they are of the nature of the supramundane mind-seed."[^9]
 
 Three theoretical points emerge:
 
@@ -92,7 +94,7 @@ Three theoretical points emerge:
 2. **The lodging mechanism**—Although these pure seeds differ in nature from the defiled consciousness, they can still "attach to" and operate within the ālaya-vijñāna. This is analogous to a drop of clear water falling into muddy water: though temporarily surrounded by turbidity, its pure nature remains unchanged.
 3. **The counteractive function**—The supramundane mind-seed "can counteract the ālaya-vijñāna," meaning it can gradually transform the dominance of defiled seeds within the ālaya-vijñāna.
 
-The *Yogācārabhūmi-śāstra*, fascicle 51, supplements this from an ontological perspective:
+The *Mahāyānasaṃgraha-bhāṣya* (攝大乘論釋), fascicle 3, supplements this from an ontological perspective:
 
 > "Without the ālaya-vijñāna as the repository of all seeds and the consciousness of karmic maturation, neither defilement nor purification could come to be. Therefore, the ālaya-vijñāna as described above definitely exists."[^10]
 
@@ -124,9 +126,9 @@ It is important to note that this conductivity is not linear causality but field
 
 ## IV. Huayan's Fruition-Ground Confirmation
 
-The core determination of the Avataṃsaka Sūtra's chapter on the merit of initial aspiration—"at the moment of initial aspiration, one immediately attains perfect awakening"—receives precise doctrinal support within the analytical framework developed above:
+The core determination of the Avataṃsaka Sūtra's chapter on pure conduct—"at the moment of initial aspiration, one immediately attains perfect awakening"—receives precise doctrinal support within the analytical framework developed above:
 
-> "The bodhisattva of initial aspiration knows all dharmas as the self-nature of mind, accomplishes the body of wisdom, and does not rely on another for awakening... At the moment of initial aspiration, one immediately attains perfect awakening and knows the true nature of all dharmas."[^1]
+> "At the moment of initial aspiration, one immediately attains perfect awakening, knows the true nature of all dharmas, is fully endowed with the body of wisdom, and does not rely on another for awakening."[^1]
 
 Here, "attains perfect awakening" should not be understood as having already realized buddhahood (which would contradict fact—the aspirant is manifestly still an ordinary being), but in the sense of the causal ground:
 
@@ -178,16 +180,17 @@ The practical significance of this thesis is: every single moment of bodhicitta 
 
 ### I. Primary Buddhist Sources
 
-[^1]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 17: "Merit of Initial Aspiration," fascicle 17. T10, No. 279. Translated by Śikṣānanda.
-[^2]: *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), fascicle 4. T16, No. 670. Translated by Guṇabhadra.
-[^3]: *Awakening of Mahāyāna Faith* (大乘起信論), fascicle 1. T32, No. 1666. Composed by Aśvaghoṣa, translated by Paramārtha.
-[^4]: *Śrīmālādevī Siṃhanāda Sūtra* (勝鬘師子吼一乘大方便方廣經). T12, No. 353. Translated by Guṇabhadra.
+[^1]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 12: "Pure Conduct" (梵行品第十二), fascicle 8. T09, No. 278. Translated by Buddhabhadra.
+[^2]: *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), Chapter "All Buddhas' Mind-Words" (一切佛語心品), fascicle 4. T16, No. 670. Translated by Guṇabhadra.
+[^2b]: *Laṅkāvatāra Sūtra* (大乘入楞伽經), Chapter "Momentariness" (剎那品), fascicle 5. T16, No. 672. Translated by Śikṣānanda.
+[^3]: *Awakening of Mahāyāna Faith* (大乘起信論). T32, No. 1666. Composed by Aśvaghoṣa, translated by Paramārtha.
+[^4]: *Śrīmālādevī Siṃhanāda Sūtra* (勝鬘師子吼一乘大方便方廣經), Chapter 13: "Intrinsic Purity" (自性清淨章第十三). T12, No. 353. Translated by Guṇabhadra.
 [^5]: *Cheng Weishi Lun* (成唯識論, *Vijñaptimātratāsiddhi*), fascicle 2. T31, No. 1585. Composed by Dharmapāla et al., translated by Xuanzang. See also *Yogācārabhūmi-śāstra* (瑜伽師地論), fascicle 51. T30, No. 1579. Spoken by Maitreya, translated by Xuanzang.
 [^6]: *Vimalakīrti Nirdeśa Sūtra* (維摩詰所說經), Chapter 1: "Buddha-lands," fascicle 1. T14, No. 475. Translated by Kumārajīva.
-[^7]: *Mahāprajñāpāramitā Śāstra* (大智度論), fascicle 1. T25, No. 1509. Composed by Nāgārjuna, translated by Kumārajīva.
-[^8]: *Awakening of Mahāyāna Faith* (大乘起信論), fascicle 1. T32, No. 1666. Composed by Aśvaghoṣa, translated by Paramārtha.
-[^9]: *Cheng Weishi Lun* (成唯識論), fascicle 2. T31, No. 1585. Composed by Dharmapāla et al., translated by Xuanzang.
-[^10]: *Yogācārabhūmi-śāstra* (瑜伽師地論), fascicle 51. T30, No. 1579. Spoken by Maitreya, translated by Xuanzang.
+[^7]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 39: "Entering the Dharma-Realm" (入法界品第三十九), fascicle 78. T10, No. 279. Translated by Śikṣānanda.
+[^8]: *Mahāyānasaṃgraha* (攝大乘論本), "Section on the Basis of the Knowable" (所知依分), fascicle 1. T31, No. 1594. Composed by Asaṅga, translated by Xuanzang.
+[^9]: *Mahāyānasaṃgraha* (攝大乘論本), "Section on the Basis of the Knowable" (所知依分), fascicle 1. T31, No. 1594. Composed by Asaṅga, translated by Xuanzang.
+[^10]: *Mahāyānasaṃgraha-bhāṣya* (攝大乘論釋), fascicle 3. T31, No. 1598. Composed by Asvabhāva, translated by Xuanzang.
 
 ---
 
@@ -195,14 +198,17 @@ The practical significance of this thesis is: every single moment of bodhicitta 
 
 | Abbreviation | Full Title | Taishō No. | Author / Translator |
 |------|------|-----------|---------|
-| Avataṃsaka Sūtra | 大方廣佛華嚴經 | T10, No. 279 | Tr. Śikṣānanda |
+| Avataṃsaka Sūtra (60-fascicle) | 大方廣佛華嚴經 | T09, No. 278 | Tr. Buddhabhadra |
+| Avataṃsaka Sūtra (80-fascicle) | 大方廣佛華嚴經 | T10, No. 279 | Tr. Śikṣānanda |
 | Laṅkāvatāra Sūtra | 楞伽阿跋多羅寶經 | T16, No. 670 | Tr. Guṇabhadra |
+| Laṅkāvatāra Sūtra (Śikṣānanda) | 大乘入楞伽經 | T16, No. 672 | Tr. Śikṣānanda |
 | Awakening of Faith | 大乘起信論 | T32, No. 1666 | Aśvaghoṣa; tr. Paramārtha |
 | Śrīmālā Sūtra | 勝鬘師子吼一乘大方便方廣經 | T12, No. 353 | Tr. Guṇabhadra |
 | Cheng Weishi Lun | 成唯識論 | T31, No. 1585 | Dharmapāla et al.; tr. Xuanzang |
 | Yogācārabhūmi | 瑜伽師地論 | T30, No. 1579 | Maitreya; tr. Xuanzang |
 | Vimalakīrti Sūtra | 維摩詰所說經 | T14, No. 475 | Tr. Kumārajīva |
-| Mahāprajñāpāramitā Śāstra | 大智度論 | T25, No. 1509 | Nāgārjuna; tr. Kumārajīva |
+| Mahāyānasaṃgraha | 攝大乘論本 | T31, No. 1594 | Asaṅga; tr. Xuanzang |
+| Mahāyānasaṃgraha-bhāṣya | 攝大乘論釋 | T31, No. 1598 | Asvabhāva; tr. Xuanzang |
 
 ---
 

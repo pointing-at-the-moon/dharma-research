@@ -370,7 +370,7 @@ What this requires is not conceptual understanding but the accumulation of pract
 - *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
 - *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, T29, No. 1558.
-- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Paramārtha, T31, No. 1597.
+- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Xuanzang, T31, No. 1597.
 - *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
 - *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), by Woncheuk, T33, No. 1711.
 

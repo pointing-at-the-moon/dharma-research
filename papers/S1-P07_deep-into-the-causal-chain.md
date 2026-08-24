@@ -200,7 +200,7 @@ Seeds are not static deposits. They **grow** in response to your sustained inten
 
 Even if unwholesome karmic seeds exist, if they have been weakened to the point of being "extremely feeble" through antidotal practices, they no longer have the force to attract suffering-fruit.
 
-**Seeds can be transformed.** The *Madhyāntavibhāga* describes the mechanism of āśraya-parāvṛtti (transformation of the basis):
+**Seeds can be transformed.** The *Mahāyānasaṃgraha-bhāṣya* describes the mechanism of āśraya-parāvṛtti (transformation of the basis):
 
 > 不靜地煩惱及業種子滅，靜地功德善根熏習圓滿。[^14]
 
@@ -336,7 +336,7 @@ But the premise is—you must, like the farmer, plant first.
 - 《攝大乘論釋》(無性釋) *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary), trans. Xuanzang, Taishō vol. 31, No. 1598.
 - 《大乘阿毘達磨集論》*Abhidharmasamuccaya*, composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, No. 1605.
 - 《大乘起信論疏》*Dasheng Qixin Lun Shu* (*Commentary on the Awakening of Mahāyāna Faith*), by Fazang, Taishō vol. 44, No. 1846.
-- 《辯中邊論》*Madhyāntavibhāga* (Paramārtha's translation), composed by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
+- 《攝大乘論釋》*Mahāyānasaṃgraha-bhāṣya* (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
 - 《大方廣佛華嚴經》(八十卷本) *Avataṃsaka Sūtra* (80-fascicle edition), trans. Śikṣānanda, Taishō vol. 10, No. 0293.
 - 《八識規矩頌》*Bāshí Guījǔ Sòng* (*Verses on the Eight Consciousnesses*) and commentaries, Taishō vol. 45, No. 1865.
 - 《阿毘達磨俱舍論》*Abhidharmakośabhāṣya*, composed by Vasubandhu, trans. Xuanzang, Taishō vol. 29, No. 1558.
@@ -357,7 +357,7 @@ But the premise is—you must, like the farmer, plant first.
 | 3 | 攝大乘論釋（無性）*Mahāyānasaṃgrahabhāṣya* (Asvabhāva) | T31 | 1598 | II |
 | 4 | 大乘阿毘達磨集論 *Abhidharmasamuccaya* | T31 | 1605 | II |
 | 5 | 大乘起信論疏 *Dasheng Qixin Lun Shu* | T44 | 1846 | II |
-| 6 | 辯中邊論 *Madhyāntavibhāga* | T31 | 1595 | III |
+| 6 | 攝大乘論釋 *Mahāyānasaṃgraha-bhāṣya* | T31 | 1595 | III |
 | 7 | 大方廣佛華嚴經 *Avataṃsaka Sūtra* | T10 | 0293 | III |
 | 8 | 八識規矩頌 *Bāshí Guījǔ Sòng* | T45 | 1865 | II |
 | 9 | 俱舍論 *Abhidharmakośabhāṣya* | T29 | 1558 | II |
@@ -390,7 +390,7 @@ But the premise is—you must, like the farmer, plant first.
 [^10]: 《成唯識論》卷二，「然種子義略有六種」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 2, Taishō vol. 31, No. 1585.
 [^11]: 《大方廣佛華嚴經》卷二十六，《大正藏》第10冊，No. 0293。*Avataṃsaka Sūtra*, Fascicle 26, Taishō vol. 10, No. 0293.
 [^13]: 《淨土祖師著作》卷七，《大正藏》第47冊，No. 1960。Pure Land patriarchal writings, Fascicle 7, Taishō vol. 47, No. 1960.
-[^14]: 《辯中邊論》卷三，《大正藏》第31冊，No. 1595。*Madhyāntavibhāga*, Fascicle 3, Taishō vol. 31, No. 1595.
+[^14]: 《攝大乘論釋》（真諦譯）卷三，《大正藏》第31冊，No. 1595。*Mahāyānasaṃgraha-bhāṣya*, Fascicle 3, Taishō vol. 31, No. 1595.
 [^15]: 《成唯識論》卷八，「異熟因去果相遠」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 8, Taishō vol. 31, No. 1585.
 [^16]: Carey, N. *The Epigenetics Revolution.* Columbia University Press, 2012, Ch. 1.
 [^17]: Jablonka, E. and Lamb, M. J. *Evolution in Four Dimensions.* MIT Press, 2014, Ch. 4.

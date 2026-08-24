@@ -405,7 +405,7 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 - *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, T2, No. 99.
 - *Mahāprajñāpāramitopadeśa* (大智度論), by Nāgārjuna, trans. Kumārajīva, T25, No. 1509.
 - *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti, T19, No. 945.
-- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Paramārtha, T31, No. 1597.
+- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Xuanzang, T31, No. 1597.
 - *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, T29, No. 1558.
 - *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - *Abhidharmasamuccaya* (大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, T31, No. 1605.

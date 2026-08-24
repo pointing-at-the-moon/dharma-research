@@ -2,7 +2,7 @@
 
 There is a line in the Avataṃsaka Sūtra that many people have heard but few have truly thought through:
 
-> At the moment of initial aspiration, one immediately attains perfect awakening, and knows the true nature of all dharmas.
+> At the moment of initial aspiration, one immediately attains perfect awakening, knows the true nature of all dharmas, is fully endowed with the body of wisdom, and does not rely on another for awakening.
 
 You generate the aspiration—and you have already become a Buddha? Surely this is just consoling talk?
 
@@ -22,7 +22,7 @@ This means that the quality of the world depends on the proportional composition
 
 Once we understand the storehouse of mind and where the world comes from, we can turn to what it means to "generate the aspiration."
 
-To generate bodhicitta—to rouse the mind that "seeks awakening for the sake of all sentient beings"—is, in Yogācāra, not a vague feeling but a precise event: **you plant a brand-new seed in the ālaya-vijñāna**. The Mahāprajñāpāramitā Śāstra says, "Bodhicitta is the seed of all buddha-dharmas." It is no ordinary good thought; it is the fundamental cause from which all the buddha-dharmas can grow.
+To generate bodhicitta—to rouse the mind that "seeks awakening for the sake of all sentient beings"—is, in Yogācāra, not a vague feeling but a precise event: **you plant a brand-new seed in the ālaya-vijñāna**. The Avataṃsaka Sūtra says, "Bodhicitta is like a seed, for it can produce all the buddha-dharmas." It is no ordinary good thought; it is the fundamental cause from which all the buddha-dharmas can grow.
 
 More striking still, the Cheng Weishi Lun points out that this seed differs in nature from the seeds already in the storehouse—it is a **supramundane mind-seed**. Though it lodges within the ālaya-vijñāna, in essence it does not belong to the ālaya-vijñāna's system. Picture it this way: a drop of clear water falls into muddy water. For the moment it is surrounded by murk, but its clarity is unchanged—and it can, in turn, purify the muddy water little by little. This is what it means to "counteract the ālaya-vijñāna": a pure seed can gradually transform the dominance of the defiled seeds in the storehouse.
 

@@ -202,7 +202,7 @@ This relation of succession has a clearly defined position within the doctrinal 
 
 It is worth noting that, within the lineage of Chengguan, Zhenguo (the Qingliang school) attempted in his *Brief Commentary on the Heart Sūtra* to draw *prajñā* up to the level of the perfect teaching. Zhenguo wrote: "The *Mahāprajñāpāramitā* says, 'all dharmas tend toward form,' which means all is form, and the one fully contains all — this is precisely unobstructed phenomena-and-phenomena. The doctrine of *prajñā* covers the five teachings; it precisely possesses the perfect teaching."[^55] What this says is that the doctrine of *prajñā* can horizontally extend through the five teachings, from the elementary teaching of the school of emptiness all the way up to the perfect teaching's unobstructed phenomena-and-phenomena. But Zhenguo himself acknowledges that this is an *exalting* classification — it is not the mainstream view. Fazang originally classified the *proper doctrinal scope* of *prajñā* as the elementary teaching; Zhenguo elevates it to the consummate or even sudden teaching; and the claim of "unobstructed phenomena-and-phenomena" is "by extension of meaning" rather than "in proper doctrinal scope." The central contemplative arena of the *Heart Sūtra* still lies in the bidirectional interfusion of "form is emptiness," and that arena is precisely the position of unobstructed principle-and-phenomena.
 
-Zhongxi in the *Subcommentary Stringing Pearls on the Brief Commentary on the Heart Sūtra* gives an extraordinarily precise judgment of the *Heart Sūtra*'s doctrinal position: "If we follow this interpretation, the doctrinal scope of this sūtra falls precisely within the perfect teaching's *common* sub-position. Within that, if one takes only the dual standing, its meaning corresponds to the consummate teaching; if one takes only the joint dissolution, it corresponds to the sudden teaching."[^56] That is, the proper doctrinal scope of the *Heart Sūtra* is the *common one-vehicle* sub-position (sitting between the consummate and sudden teachings), not the *separate one-vehicle* of the Huayan perfect teaching. Zhongxi also states with even greater concision: "Concerning the meaning of the aggregates: for the *śrāvaka*s they are real; in the elementary teaching they are empty; in the consummate teaching they are thusness; in the sudden teaching they are inexpressible; in the one vehicle they are the dharmadhātu."[^57] One and the same concept of "aggregate" unfolds across the five teachings with extreme clarity — the elementary teaching sees the aggregates as empty (the *Heart Sūtra*'s "the five aggregates are all empty"), the consummate teaching sees the aggregates as thusness (the *tathāgatagarbha* structure), the sudden teaching sees the aggregates as inexpressible, and the perfect teaching sees the aggregates as the dharmadhātu (unobstructed phenomena-and-phenomena). The position of the *Heart Sūtra* is at the meeting place between the elementary teaching's "as empty" and the consummate teaching's "as thusness" — precisely the position of unobstructed principle-and-phenomena.
+Shihui in the *Subcommentary Stringing Pearls on the Brief Commentary on the Heart Sūtra* gives an extraordinarily precise judgment of the *Heart Sūtra*'s doctrinal position: "If we follow this interpretation, the doctrinal scope of this sūtra falls precisely within the perfect teaching's *common* sub-position. Within that, if one takes only the dual standing, its meaning corresponds to the consummate teaching; if one takes only the joint dissolution, it corresponds to the sudden teaching."[^56] That is, the proper doctrinal scope of the *Heart Sūtra* is the *common one-vehicle* sub-position (sitting between the consummate and sudden teachings), not the *separate one-vehicle* of the Huayan perfect teaching. Shihui also states with even greater concision: "Concerning the meaning of the aggregates: for the *śrāvaka*s they are real; in the elementary teaching they are empty; in the consummate teaching they are thusness; in the sudden teaching they are inexpressible; in the one vehicle they are the dharmadhātu."[^57] One and the same concept of "aggregate" unfolds across the five teachings with extreme clarity — the elementary teaching sees the aggregates as empty (the *Heart Sūtra*'s "the five aggregates are all empty"), the consummate teaching sees the aggregates as thusness (the *tathāgatagarbha* structure), the sudden teaching sees the aggregates as inexpressible, and the perfect teaching sees the aggregates as the dharmadhātu (unobstructed phenomena-and-phenomena). The position of the *Heart Sūtra* is at the meeting place between the elementary teaching's "as empty" and the consummate teaching's "as thusness" — precisely the position of unobstructed principle-and-phenomena.
 
 These textual sources together confirm one structural thesis: the step that S8-P03 takes from the *Heart Sūtra* and forward is not a philosophical leap but a natural extension of doctrinal position. The S2 series has found its precise position of succession within the S8 series — *S2 is not replaced; it is extended*.
 
@@ -483,9 +483,9 @@ May this small contemplation become the one step from the *Heart Sūtra* to the 
 
 [^39]: Dushun, *Huayan fajie guanmen*, the conclusion of the second contemplation: 「約理望事則有成有壞有即有離。事望於理有顯有隱有一有異。逆順自在無障無礙同時頓起。」 See Zongmi, *Zhu huayan fajie guanmen*, T vol. 45, no. 1884.
 
-[^40]: Zhongxi 仲希, *Bore boluomiduo xinjing lüe shu lianzhu ji* 般若波羅蜜多心經略疏連珠記, fascicle 2: 「清涼曰：『性空通於初頓終教，妙有即是實教。若通於空有、二互交徹，具德即是圓教。』」 T vol. 33, no. 1713.
+[^40]: Shihui 師會, *Bore boluomiduo xinjing lüe shu lianzhu ji* 般若波羅蜜多心經略疏連珠記, fascicle 2: 「清涼曰：『性空通於初頓終教，妙有即是實教。若通於空有、二互交徹，具德即是圓教。』」 T vol. 33, no. 1713.
 
-[^41]: Zhongxi, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 1: 「般若竪貫二時、橫通五教，有帶有雙、談空談有，彰權實以明之，可稱絕唱。」 T vol. 33, no. 1713.
+[^41]: Shihui, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 1: 「般若竪貫二時、橫通五教，有帶有雙、談空談有，彰權實以明之，可稱絕唱。」 T vol. 33, no. 1713.
 
 [^42]: Zongmi, *Zhu huayan fajie guanmen*, citing Chengguan's definition of the dharmadhātu of unobstructed phenomena and phenomena: 「一切分齊事法。一一如性融通。重重無盡故。」 T vol. 45, no. 1884.
 
@@ -513,11 +513,11 @@ May this small contemplation become the one step from the *Heart Sūtra* to the 
 
 [^54]: Fazang, *Huayan yisheng jiaoyi fenqi zhang*, fascicle 1, the five-teaching taxonomy, T vol. 45, no. 1866. Fazang classifies *prajñā* as "the seventh school, the school of the emptiness of all dharmas = elementary Mahāyāna," and the Avataṃsaka as "the tenth school, the school of perfect illumination possessing all virtues = the perfect teaching of the separate one vehicle."
 
-[^55]: Zhongxi, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 1, citing Zhenguo: 「《大品》云『一切法趣色』即一切皆色，一中具一切，即事事無礙。般若義該五教，即具圓矣。」 T vol. 33, no. 1713.
+[^55]: Shihui, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 1, citing Zhenguo: 「《大品》云『一切法趣色』即一切皆色，一中具一切，即事事無礙。般若義該五教，即具圓矣。」 T vol. 33, no. 1713.
 
-[^56]: Zhongxi, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 2: 「若依此釋，斯經分齊正當圓中同教。於中若唯取雙存，義當終教；唯取俱泯，則當顯教。」 T vol. 33, no. 1713.
+[^56]: Shihui, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 2: 「若依此釋，斯經分齊正當圓中同教。於中若唯取雙存，義當終教；唯取俱泯，則當顯教。」 T vol. 33, no. 1713.
 
-[^57]: Zhongxi, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 2: 「此蘊義，聲聞即實，初教即空，終教即如，頓教不可說，一乘即法界。」 T vol. 33, no. 1713.
+[^57]: Shihui, *Bore boluomiduo xinjing lüe shu lianzhu ji*, fascicle 2: 「此蘊義，聲聞即實，初教即空，終教即如，頓教不可說，一乘即法界。」 T vol. 33, no. 1713.
 
 [^58]: Fazang, *Huayan yisheng jiaoyi fenqi zhang*, fascicle 4, same as footnote 51.
 
@@ -583,7 +583,7 @@ May this small contemplation become the one step from the *Heart Sūtra* to the 
 - Chengguan 澄觀, *Da fangguang fo huayan jing shu* 大方廣佛華嚴經疏, sixty fascicles, T vol. 35, no. 1735.
 - Chengguan, *Da fangguang fo huayan jing sui shu yanyi chao* 大方廣佛華嚴經隨疏演義鈔, ninety fascicles, T vol. 36, no. 1736.
 - Zongmi 宗密, *Zhu huayan fajie guanmen* 註華嚴法界觀門 (containing Dushun's *Huayan fajie guanmen* 華嚴法界觀門 and Zongmi's annotation), one fascicle, T vol. 45, no. 1884.
-- Zhongxi 仲希, *Bore boluomiduo xinjing lüe shu lianzhu ji* 般若波羅蜜多心經略疏連珠記, two fascicles, T vol. 33, no. 1713.
+- Shihui 師會, *Bore boluomiduo xinjing lüe shu lianzhu ji* 般若波羅蜜多心經略疏連珠記, two fascicles, T vol. 33, no. 1713.
 
 ---
 

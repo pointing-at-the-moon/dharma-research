@@ -59,7 +59,7 @@ The system of teachings grounded in the bodhisattva path, taking the benefit of 
 
 ### 中道 · middle way (madhyamā-pratipad)
 Neither grasping at existence nor grasping at emptiness — the precise position that leans on neither of the two sides.
-**First appears**: the Āgamas (T1 No. 26, Madhyama Āgama, "Simile of the Arrow," and elsewhere); systematized in Nāgārjuna's Mūlamadhyamakakārikā.
+**First appears**: the Āgamas (T2 No. 99, Saṃyukta Āgama 301, the Kātyāyana sutta — "apart from the two extremes, he teaches the middle way"; T1 No. 26, Madhyama Āgama, Discourse on Non-Contention); systematized in Nāgārjuna's Mūlamadhyamakakārikā.
 **In this book**: running through all eight parts, especially in each part's "middle-way correction" passages, and 4.7 The Living Eye.
 **Distinguish**: near in sense to "non-duality" and "freedom from extremes," but not wholly identical — the middle way is a stance of practice, non-duality is a description of the nature of dharmas, and freedom from extremes is a method of debate.
 
@@ -170,7 +170,7 @@ The deepest storehouse of mind-consciousness, holding all seeds; it stores (as t
 
 ### 八識規矩頌 · Verses on the Structure of the Eight Consciousnesses
 The collection of verses composed by Xuanzang setting out the nature and characteristics of the eight consciousnesses; an outline primer of Yogācāra.
-**First appears**: Verses on the Structure of the Eight Consciousnesses (T45 No. 1865).
+**First appears**: the verses carry no independent canonical number; they are transmitted embedded in commentaries — earliest in Putai's Supplementary Notes on the Verses (T45 No. 1865, Ming) and in the Xuzangjing commentaries (X55 Nos. 890–900).
 **In this book**: 3.3 The Threefold Transformation: A Panorama of the Eight Consciousnesses.
 
 ---
@@ -279,7 +279,7 @@ The only consciousness among the eight able to reflect back upon itself; it crea
 **In this book**: 3.6 The Only Consciousness That Can Look in a Mirror.
 
 ### 普賢十大願 · the ten great vows of Samantabhadra
-The ten great vows of practice taught by the Buddha himself in the Avataṃsaka Sūtra, "Practices and Vows of Samantabhadra" chapter: to pay homage to all Buddhas, to praise the Tathāgatas, to make abundant offerings, to repent of karmic obstructions, to rejoice in others' merit, to request the turning of the Dharma-wheel, to request the Buddhas to remain in the world, to follow the Buddhas in study always, to accord with sentient beings constantly, and to dedicate all merit universally.
+The ten great vows of practice that Samantabhadra sets forth on the Buddha's behalf in the Avataṃsaka Sūtra, "Practices and Vows of Samantabhadra" chapter: to pay homage to all Buddhas, to praise the Tathāgatas, to make abundant offerings, to repent of karmic obstructions, to rejoice in others' merit, to request the turning of the Dharma-wheel, to request the Buddhas to remain in the world, to follow the Buddhas in study always, to accord with sentient beings constantly, and to dedicate all merit universally.
 **First appears**: the fortieth fascicle of the Forty-Fascicle Avataṃsaka, "Practices and Vows of Samantabhadra" chapter (T10 No. 293).
 **In this book**: all of Part VIII takes these as its spine; 8.11 The Ten Great Vows Beneath the Ten Windows.
 
@@ -294,7 +294,7 @@ The fundamental error of not knowing the true character of reality and grasping 
 **In this book**: 2.8 Ignorance Is the Inversion of Perception.
 
 ### 無為法 · the unconditioned (dharmas)
-Dharmas that exist inherently, not fashioned in dependence on causes and conditions; Yogācāra posits six kinds: space, analytical cessation, non-analytical cessation, immovable cessation, the cessation of perception and feeling, and suchness.
+Dharmas that are not fashioned by causes and conditions; Yogācāra treats them as nominally posited (prajñapti), not as definitely real existents. Six are posited: space, analytical cessation, non-analytical cessation, immovable cessation, the cessation of perception and feeling, and suchness.
 **First appears**: the Abhidharma; the Treatise on the Hundred Dharmas.
 **In this book**: 3.14 The Unconditioned Dharmas — the End Point of the Hundred Dharmas.
 
@@ -312,7 +312,7 @@ The four stages of the one great causal matter for which the Buddha appears in t
 
 ## VI. 13 or more strokes
 
-### 圓通 · perfect penetration (pariniṣpanna)
+### 圓通 · perfect penetration
 In the Śūraṅgama Sūtra, twenty-five bodhisattvas each describe the gate of practice through which they perfected their realization and penetration; Avalokiteśvara's perfect penetration through the hearing faculty is the one the Buddha specially praises as the most accessible.
 **First appears**: Śūraṅgama Sūtra, fascicles 5–6 (T19 No. 945).
 **In this book**: 6.5 The Twenty-Five Perfect Penetrations.

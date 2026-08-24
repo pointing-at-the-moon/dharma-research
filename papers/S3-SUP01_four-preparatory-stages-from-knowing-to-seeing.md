@@ -85,7 +85,7 @@ Kuiji, in his *Commentary on the Diamond Sūtra*, points directly to the transit
 
 > "Though in the three stages of wise practice one has 'unsystematically' cultivated the six perfections for one incalculable eon, to enter the holy path requires the Buddha's impetus. Therefore, after the Path of Accumulation, the name 'intensified practice' is established. It is like drilling for fire — when the fire is about to emerge, one redoubles one's effort."[^5]
 
-[^5]: *Commentary on the Diamond Prajñāpāramitā Sūtra* 《金剛般若經贊述》卷三，T33, No. 1700. 「雖三賢位中亂修六度經一無數劫，欲入聖道要佛策發，故於資糧位後立加行名。其猶鑽火，火欲出時倍加功力。」
+[^5]: *Jingang jing zuanyao kanding ji* 《金剛經纂要刊定記》卷三，T33, No. 1702. 「雖三賢位中亂修六度經一無數劫，欲入聖道要佛策發，故於資糧位後立加行名。其猶鑽火，火欲出時倍加功力。」
 
 "Unsystematically cultivated the six perfections for one incalculable eon" — the word "unsystematically" (亂) is not pejorative; it means that the practice at the Path of Accumulation has not yet adopted the systematic contemplation-of-emptiness sequence, but the accumulated merit and wisdom provisions are real. "Like drilling for fire — when the fire is about to emerge, one redoubles one's effort" — the fire-drilling metaphor pervades the entire teaching of the four stages. The Path of Accumulation is the long, sustained drilling motion; the Path of Preparation is the final intensification as fire approaches; the Path of Seeing is the moment the flame bursts forth.
 
@@ -141,11 +141,11 @@ Summit, like reaching the peak of a mountain, is where the four investigative co
 
 The paradox of the summit stage is that it is the tipping point between advance and retreat. Contemplative insight has grown powerful, but the decisive, irreversible breakthrough has not yet occurred. Like standing on a mountain peak, one can proceed forward into patience — or slip back due to afflictive interference.
 
-Vasubandhu, in his commentary on the *Madhyāntavibhāga*, explains "summit" through three meanings:
+Vasubandhu, in the *Mahāyānasaṃgraha-bhāṣya* (Paramārtha), explains "summit" through three meanings:
 
 > "Summit has three meanings. First: as the crown of a person's head supports life, so too for the practitioner — upon reaching this stage, the wholesome roots can no longer be severed. Second: as a mountain summit is the boundary of retreat — some, having reached the summit, turn back. So too for the practitioner — some, having reached this stage, remain in the preparatory phase without advancing, and so it is called retreat. Third: as a mountain summit is the boundary of advance — some, having reached the summit, ascend further. So too for the practitioner — some advance from this stage into the superior stage, and so it receives the name 'summit.'"[^10]
 
-[^10]: *Madhyāntavibhāga-bhāṣya* 《中邊分別論》卷八，T31, No. 1595. 「頂有三義：一如人頭頂能持身命，修道者亦爾，若至此位善根則不可斷。二如山頂是退際……三如山頂是進際……」
+[^10]: *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》卷八，T31, No. 1595. 「頂有三義：一如人頭頂能持身命，修道者亦爾，若至此位善根則不可斷。二如山頂是退際……三如山頂是進際……」
 
 ### 2.4 Patience (kṣānti) — Confirming the Emptiness of the Apprehended
 
@@ -201,7 +201,7 @@ The *Abhidharmasamuccaya* emphasizes the unique character of the supreme worldly
 
 > "The supreme worldly dharma is by nature a single instant that necessarily does not continue; at the very moment of its arising, one definitively enters the direct realization."[^16]
 
-[^16]: *Abhidharmasamuccaya* 《大乘阿毘達磨雜集論》卷十三，T31, No. 1606. 「由世第一法性唯一剎那必不相續，即此生時定入現觀。」
+[^16]: *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》卷十三，T31, No. 1606. 「由世第一法性唯一剎那必不相續，即此生時定入現觀。」
 
 The emptiness of the apprehender means: not only is "the apprehended object" empty, but "the apprehending subject" — the very mental activity that is examining the hundred dharmas and determining consciousness-only — is also not an independently existing reality.
 
@@ -325,11 +325,11 @@ The preceding seven sections have detailed the doctrinal architecture, meditativ
 
 [^28]: *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》卷七，T31, No. 1604. 「所執亂雖斷，尚餘能執故，斷此復速證，無間三摩提。」
 
-The supreme worldly dharma lasts only a single instant — yet this instant is the most dramatic moment along the entire path of practice. Vasubandhu in the *Madhyāntavibhāga-bhāṣya* explains why it deserves the name "supreme":
+The supreme worldly dharma lasts only a single instant — yet this instant is the most dramatic moment along the entire path of practice. Vasubandhu in the *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) explains why it deserves the name "supreme":
 
 > "Though this concentration is still a worldly dharma, it can serve as the dominant condition for the bodhisattva's supramundane path — no other worldly dharma has this capacity, hence the name 'supreme.' Moreover, it is only a single instant, hence 'supreme.'"[^29]
 
-[^29]: *Madhyāntavibhāga-bhāṣya* 《中邊分別論》卷八，T31, No. 1595. 「此定雖是世法，能為菩薩出世道增上緣，餘世法則無此義，故名第一。又唯一剎那，故名第一。」
+[^29]: *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》卷八，T31, No. 1595. 「此定雖是世法，能為菩薩出世道增上緣，餘世法則無此義，故名第一。又唯一剎那，故名第一。」
 
 **The ultimate fruit: the Path of Seeing.** After the supreme worldly dharma passes without interruption, the practitioner enters the Path of Penetration. What happens at that moment, in the words of the *Cheng Weishi Lun*:
 
@@ -399,7 +399,7 @@ The *Treatise on the Hundred Dharmas* opens with the declaration "As the World-H
 
 > "To penetrate the selflessness of dharmas as the self-nature and distinction imagined by ordinary beings — this is what is meant by entering the selflessness of dharmas. It is not because the dharma-nature beyond speech that is the domain of all Buddhas is altogether non-existent that it is called 'selflessness of dharmas'... For this reason, the teaching of consciousness-only is established, universally enabling entry into the selflessness of all dharmas — not because one repudiates all nature whatsoever."[^35]
 
-[^35]: *Mahāyānasaṃgraha* 《攝大乘論本》卷一，T31, No. 1590. 「然達愚夫遍計所執自性差別諸法無我，如是乃名入法無我……由此道理，說立唯識教，普令悟入一切法無我，非一切種撥有性故。」
+[^35]: *Mahāyānasaṃgraha* 《攝大乘論本》卷一，T31, No. 1594. 「然達愚夫遍計所執自性差別諸法無我，如是乃名入法無我……由此道理，說立唯識教，普令悟入一切法無我，非一切種撥有性故。」
 
 ### 3.3 The Precise Meaning of "Consciousness-Only with Apprehension"
 
@@ -496,17 +496,17 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 - *Triṃśikā-vijñaptimātratā* 《唯識三十論頌》, by Vasubandhu, trans. Xuanzang, T31, No. 1586.
 - *Yogācārabhūmi* 《瑜伽師地論》, by Maitreya, trans. Xuanzang, T30, No. 1579.
 - *Mahāyānasaṃgraha* 《攝大乘論》, by Asaṅga, trans. Buddhaśānta, T31, No. 1593.
-- *Mahāyānasaṃgraha* 《攝大乘論本》, by Asaṅga, trans. Xuanzang, T31, No. 1590.
+- *Mahāyānasaṃgraha* 《攝大乘論本》, by Asaṅga, trans. Xuanzang, T31, No. 1594.
 - *Mahāyānasaṃgraha-bhāṣya* 《攝大乘論釋》, by Asvabhāva, trans. Xuanzang, T31, No. 1598.
 - *Śatadharmaprakāśamukha-śāstra* 《大乘百法明門論》, by Vasubandhu, trans. Xuanzang, T31, No. 1614.
 - *Madhyāntavibhāga* 《辯中邊論》, by Maitreya, trans. Xuanzang, T31, No. 1600.
-- *Madhyāntavibhāga-bhāṣya* 《中邊分別論》, by Vasubandhu, trans. Paramārtha, T31, No. 1595.
+- *Mahāyānasaṃgraha-bhāṣya* 《攝大乘論釋》, by Vasubandhu, trans. Paramārtha, T31, No. 1595.
 - *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》, by Maitreya, trans. Prabhākaramitra, T31, No. 1604.
-- *Abhidharmasamuccaya* 《大乘阿毘達磨雜集論》, by Sthiramati, trans. Xuanzang, T31, No. 1606.
+- *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, by Sthiramati, trans. Xuanzang, T31, No. 1606.
 - *Sandhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, T16, No. 676.
 - *Abhidharmakośa* 《阿毘達磨俱舍論》, by Vasubandhu, trans. Xuanzang, T29, No. 1558.
 - *Prajñāpāramitā Hṛdaya Sūtra Youzhan* 《般若波羅蜜多心經幽贊》, by Kuiji, T33, No. 1710.
-- *Vajracchedikā Prajñāpāramitā Sūtra Commentary* 《金剛般若經贊述》, by Kuiji, T33, No. 1700.
+- *Jingang jing zuanyao kanding ji* 《金剛經纂要刊定記》, by Zixuan, T33, No. 1702.
 
 ### II. Modern Scholarship
 
@@ -523,16 +523,16 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 | Triṃśikā | T31, No. 1586 | Path of Preparation verse vs. Path of Seeing verse |
 | Yogācārabhūmi | T30, No. 1579 | Fasc. 29 fire-drilling metaphor; fasc. 34 supreme worldly dharma; fasc. 36 four contemplations and four realizations; fasc. 45 provisions of awakening |
 | Mahāyānasaṃgraha | T31, No. 1593 | Fasc. 2: Four contemplations entering consciousness-only; four samādhis; entering the three natures |
-| Mahāyānasaṃgraha (Xuanzang) | T31, No. 1590 | Fasc. 1: Imagined nature and selflessness of all dharmas |
+| Mahāyānasaṃgraha (Xuanzang) | T31, No. 1594 | Fasc. 1: Imagined nature and selflessness of all dharmas |
 | Mahāyānasaṃgraha-bhāṣya (Asvabhāva) | T31, No. 1598 | Fasc. 6: Four contemplations examining the imagined nature |
 | Śatadharmaprakāśamukha | T31, No. 1614 | Five categories of hundred dharmas; all dharmas are without self |
 | Madhyāntavibhāga | T31, No. 1600 | Fasc. 1: Method of entering signlessness (emptying apprehended then apprehender) |
-| Madhyāntavibhāga-bhāṣya | T31, No. 1595 | Fasc. 8: Commentary on warmth, summit, patience, supreme worldly dharma; three meanings of summit |
+| Mahāyānasaṃgraha-bhāṣya (Paramārtha) | T31, No. 1595 | Fasc. 8: Commentary on warmth, summit, patience, supreme worldly dharma; three meanings of summit |
 | Mahāyānasūtrālaṃkāra | T31, No. 1604 | Fasc. 7: Achievements of each of the four stages |
-| Abhidharmasamuccaya | T31, No. 1606 | Fasc. 13: Supreme worldly dharma as a single instant |
+| Abhidharmasamuccaya-vyākhyā | T31, No. 1606 | Fasc. 13: Supreme worldly dharma as a single instant |
 | Sandhinirmocana Sūtra | T16, No. 676 | Fasc. 2: Definition of three natures; contemplating three natures to sever defilement and realize purity |
 | Heart Sūtra Commentary | T33, No. 1710 | Fasc. 1: Overview of four absorptions, forty stages of accumulation; fasc. 2: hearing and reflection at accumulation stage |
-| Diamond Sūtra Commentary | T33, No. 1700 | Fasc. 3: "Intensified practice" established after accumulation (fire-drilling metaphor); three degrees of patience mapped to Diamond Sūtra |
+| Kanding ji (Zixuan) | T33, No. 1702 | Fasc. 3: "Intensified practice" established after accumulation (fire-drilling metaphor); three degrees of patience mapped to Diamond Sūtra |
 | Abhidharmakośa | T29, No. 1558 | Fasc. 23: Patience dharma and non-regression |
 
 ---

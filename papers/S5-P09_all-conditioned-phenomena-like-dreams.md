@@ -372,7 +372,7 @@ The Diamond Sūtra's six share only four items with the prajñā ten (illusion, 
 
 This is not compression but selection. The Diamond Sūtra's selection logic can be inferred from Nāgārjuna's principle: "use things the mind does not attach to in order to illuminate things the mind does attach to."[^12] All six similes are utterly transient, utterly fragile, utterly substanceless things — dreams, illusions, bubbles, shadows, dewdrops, lightning flashes — their shared characteristic being "you do not need to be convinced they are empty." You already do not cling to a dream, a bubble, or a bolt of lightning. The Diamond Sūtra uses the "non-attachment" you already possess to illuminate the "non-attachment" you have not yet realized — this is the contemplative logic of the six similes.
 
-The Yogācāra eight similes follow a different selection logic. The *Madhyāntavibhāga* (T1597), fascicle five, maps the eight similes to specific objects of remedy: illusion → six internal sense-bases; mirage → vessel-world; dream → objects of enjoyment; reflection → fruits of bodily karma; echo → fruits of verbal karma; light-shadow → fruits of mental karma in non-meditative states; water-moon → fruits of mental karma in meditative states; transformation → mental karma of the hearing-type.[^39] The Yogācāra eight similes are systematized antidote-tools; the Diamond Sūtra's six similes are direct pointers to the mind's nature. The two serve different functions and should not be ranked against each other.
+The Yogācāra eight similes follow a different selection logic. The *Mahāyānasaṃgraha-bhāṣya* (T1597), fascicle five, maps the eight similes to specific objects of remedy: illusion → six internal sense-bases; mirage → vessel-world; dream → objects of enjoyment; reflection → fruits of bodily karma; echo → fruits of verbal karma; light-shadow → fruits of mental karma in non-meditative states; water-moon → fruits of mental karma in meditative states; transformation → mental karma of the hearing-type.[^39] The Yogācāra eight similes are systematized antidote-tools; the Diamond Sūtra's six similes are direct pointers to the mind's nature. The two serve different functions and should not be ranked against each other.
 
 ### 3.4 Vasubandhu's "Nine Aspects of Conditioned Phenomena": Teaching Orientation
 
@@ -394,7 +394,7 @@ The core doctrinal content of the six similes can be summarized in four characte
 
 "Not nothing" — conditioned phenomena are not the "total nothingness" that annihilationism claims. There genuinely is a table in front of you — you can place a book on it, write at it; it genuinely exists within conditions and genuinely performs its function.
 
-The *Madhyāntavibhāga* (T1594) expresses this position precisely in verse:
+The *Mahāyānasaṃgraha* (T1594) expresses this position precisely in verse:
 
 > 「依一分開顯，或有或非有；依二分說言，非有非非有。如顯現非有，是故說為無。由如是顯現，是故說為有。」
 >
@@ -571,10 +571,10 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 - *Jieshenmi jing* 解深密經, trans. Xuanzang (Tang), T16, No. 676.
 - *Da zhidu lun* 大智度論, by Nāgārjuna, trans. Kumārajīva (Yaoqin), T25, No. 1509.
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論, by Vasubandhu, trans. Bodhiruci (Yuan Wei), T25, No. 1511.
-- *Poqu zhu buhuai jiaming lun* 破取著不壞假名論, by Guṇadeva, trans. Yijing (Tang), T25, No. 1515.
+- *Poqu zhu buhuai jiaming lun* 破取著不壞假名論, by Guṇadeva, trans. Divākara (Tang), T25, No. 1515.
 - *Yuqie shidi lun* 瑜伽師地論, by Maitreya, trans. Xuanzang (Tang), T30, No. 1579.
 - *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang), T31, No. 1585.
-- *Bian zhongbian lun* 辯中邊論, by Vasubandhu, trans. Xuanzang (Tang), T31, No. 1594.
+- *She dasheng lun ben* 攝大乘論本, by Asaṅga, trans. Xuanzang (Tang), T31, No. 1594.
 - *Cheng weishi lun shuji* 成唯識論述記, by Kuiji, T43, No. 1830.
 - Kuiji, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1700.
 - Zongmi, *Jingang bore jing shu lun zuanyao* 金剛般若經疏論纂要, T33, No. 1701.
@@ -601,11 +601,11 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 | Saṃdhinirmocana Sūtra | Jieshenmi jing | T16, No. 676 | Fasc. 1, 2 |
 | Mahāprajñāpāramitā-śāstra | Da zhidu lun | T25, No. 1509 | Fasc. 6 |
 | Vajracchedikā-vyākhyā | Jingang bore boluomi jing lun | T25, No. 1511 | Fasc. 3 |
-| Poqu zhu buhuai jiaming lun | — | T25, No. 1515 | Fasc. 10 |
+| Poqu zhu buhuai jiaming lun | — | T25, No. 1515 | Fasc. 2 |
 | Yogācārabhūmi | Yuqie shidi lun | T30, No. 1579 | Fasc. 36 |
 | Cheng weishi lun | — | T31, No. 1585 | Fasc. 2, 8, 9 |
-| Madhyāntavibhāga | Bian zhongbian lun | T31, No. 1594 | Fasc. 2 |
-| Madhyāntavibhāga (Sthiramati) | — | T31, No. 1597 | Fasc. 5 |
+| Mahāyānasaṃgraha | She dasheng lun ben | T31, No. 1594 | Fasc. 2 |
+| Mahāyānasaṃgraha-bhāṣya (Vasubandhu · Xuanzang) | She dasheng lun shi | T31, No. 1597 | Fasc. 5 |
 | Cheng weishi lun shuji | — | T43, No. 1830 | Fasc. 1 |
 | Kuiji's Zanshu | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fasc. 2 |
 | Zongmi's Zuanyao | Jingang bore jing shu lun zuanyao | T33, No. 1701 | Fasc. 2 |
@@ -699,7 +699,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 [^32]: *Jingang bore boluomi jing lun*, fasc. 3, 「見相及於識，器身受用事，過去現在法，亦觀未來世」 the nine similes mapped to nine domains, with verse and individual expositions, T25, No. 1511.
 
-[^33]: *Poqu zhu buhuai jiaming lun*, fasc. 10, 「星翳燈——見相識（自性相）；幻露泡——器身受用（著所住味相）；夢電雲——過去現在未來（隨順出離相）」 the nine similes grouped in three categories, T25, No. 1515.
+[^33]: *Poqu zhu buhuai jiaming lun*, fasc. 2, 「星翳燈——見相識（自性相）；幻露泡——器身受用（著所住味相）；夢電雲——過去現在未來（隨順出離相）」 the nine similes grouped in three categories, T25, No. 1515.
 
 [^34]: *Jingang bore boluomi jing lun*, fasc. 3, 「於有為法中，得無垢自在」 the fruit of contemplating conditioned phenomena as illusory, T25, No. 1511.
 
@@ -709,11 +709,11 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 [^37]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 7, 「用而常寂、寂而常用，故終日說法終日涅槃」 T33, No. 1702.
 
-[^38]: *Poqu zhu buhuai jiaming lun*, fasc. 10, 「九種有為如九種喻，作不實而觀……是故諸佛如來見世間即涅槃故，不同二乘厭背生死、樂住涅槃、不化眾生。見涅槃即世間故，不同凡夫眾生死而無厭」 the entire sūtra's doctrinal closure, T25, No. 1515.
+[^38]: *Poqu zhu buhuai jiaming lun*, fasc. 2, 「九種有為如九種喻，作不實而觀……是故諸佛如來見世間即涅槃故，不同二乘厭背生死、樂住涅槃、不化眾生。見涅槃即世間故，不同凡夫眾生死而無厭」 the entire sūtra's doctrinal closure, T25, No. 1515.
 
-[^39]: *Bian zhongbian lun* (Sthiramati), fasc. 5, 「幻喻為除六種內處……陽炎喻為除器世間……夢喻為除色等所受用境……影像喻為除身業果……谷響喻為除語業果……光影喻為除非等引地意業果……水月喻為除等引地意業果……變化喻為除聞種類意業」 the eight similes as individual antidotes, T31, No. 1597.
+[^39]: *She dasheng lun shi* (Vasubandhu · Xuanzang), fasc. 5, 「幻喻為除六種內處……陽炎喻為除器世間……夢喻為除色等所受用境……影像喻為除身業果……谷響喻為除語業果……光影喻為除非等引地意業果……水月喻為除等引地意業果……變化喻為除聞種類意業」 the eight similes as individual antidotes, T31, No. 1597.
 
-[^40]: *Bian zhongbian lun*, fasc. 2, 「依一分開顯，或有或非有；依二分說言，非有非非有。如顯現非有，是故說為無。由如是顯現，是故說為有」 the "neither existent nor non-non-existent" verse, T31, No. 1594.
+[^40]: *She dasheng lun ben*, fasc. 2, 「依一分開顯，或有或非有；依二分說言，非有非非有。如顯現非有，是故說為無。由如是顯現，是故說為有」 the "neither existent nor non-non-existent" verse, T31, No. 1594.
 
 [^41]: *Yuqie shidi lun*, fasc. 36, 「可言說性不成實故，非有性；離言說性實成立故，非無性。如是由勝義諦故，非有色，於中無有諸色法故；由世俗諦故，非無色，於中說有諸色法故」 the four kinds of true knowledge passage, T30, No. 1579.
 

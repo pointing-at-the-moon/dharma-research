@@ -104,7 +104,7 @@ This difference of verb is not a choice of translation; it is the base of the en
 
 Will Huayan's "disclosing," then, immediately turn into a creationism of "*tathatā* producing the myriad dharmas"? Fazang addresses this directly in his *Questions and Answers on the Avataṃsaka Sūtra*:
 
-> Nature-arising refers to what is itself so, not arising from conditions; in nature-arising, the very Dharma-nature takes non-arising as arising — and so it is called nature-arising.
+> Nature-arising refers to what is itself so, not arising from conditions... As for nature-arising, the very Dharma-nature takes non-arising as its nature, and thus takes non-arising as arising.
 
 The key is that one phrase: **"takes non-arising as arising."** The "arising" of nature-arising is not arising in the sense of birth-and-cessation (that is dependent arising, which has arising, abiding, changing, perishing), but the manifestation of "so by its own nature." Taking "non-arising" as "arising" — Huayan's definition of the word "arising," from the very start, refuses any generative reading.
 
@@ -128,9 +128,9 @@ This is why this chapter, before its doctrine advanced into Huayan, first set ou
 
 Part Six of this book went as far as the tathāgatagarbha. When the fifty skandha-*māras* are exhausted and the five delusive thinkings dissolved, what is disclosed is exactly "the wondrous true nature of the original Tathāgata-store." The *Śūraṅgama* closes its brush on the three tathāgatagarbhas — Empty, Non-Empty, Empty-and-Non-Empty.
 
-But the *Śūraṅgama* sub-commentator Tongrun (of the Ming dynasty) long ago pointed out a critical incompleteness. In his *Baojing Sub-Commentary on the Śūraṅgama Sūtra* he wrote: "Again, this speaks purely of suchness, showing only the Empty tathāgatagarbha; **it has not yet clarified the arising of its function** — this is why it is classified under the true limit." The *Śūraṅgama* discloses only the substance of suchness; "how it arises," "why it arises at all," "what relation the arisen myriad dharmas bear to the substance" — what the *Śūraṅgama* gives is a skeleton, not a complete doctrine of nature-arising.
+But the *Śūraṅgama* sub-commentator Jiaoguang Zhenjian (of the Ming dynasty) long ago pointed out a critical incompleteness. In his *Zhengmai shu on the Śūraṅgama Sūtra* he wrote: "Again, this speaks purely of suchness, showing only the Empty tathāgatagarbha; **it has not yet clarified the arising of its function** — this is why it is classified under the true limit." The *Śūraṅgama* discloses only the substance of suchness; "how it arises," "why it arises at all," "what relation the arisen myriad dharmas bear to the substance" — what the *Śūraṅgama* gives is a skeleton, not a complete doctrine of nature-arising.
 
-Tongrun then built a bridge, joining the *Śūraṅgama*'s three tathāgatagarbhas directly to Huayan's contemplation of the dharma-realm:
+Zhenjian then built a bridge, joining the *Śūraṅgama*'s three tathāgatagarbhas directly to Huayan's contemplation of the dharma-realm:
 
 | Śūraṅgama Three Garbhas | Huayan Dharma-Realm |
 |:---:|:---:|
@@ -140,7 +140,7 @@ Tongrun then built a bridge, joining the *Śūraṅgama*'s three tathāgatagarbh
 
 The Empty tathāgatagarbha discloses the substance of suchness, corresponding to the *li*-dharma-realm; the Non-Empty tathāgatagarbha speaks of suchness following conditions to manifest the myriad dharmas, corresponding to the *shi*-dharma-realm — and this is precisely nature-arising expressed in the *Śūraṅgama*'s voice: "the one mind originally contains in principle, and follows conditions in its functioning." The Empty-and-Non-Empty tathāgatagarbha speaks of "nature wholly form, form wholly nature," corresponding to principle-phenomena unobstructed moving toward phenomena-phenomena unobstructed.
 
-Tongrun has one sentence that closes all dispute: "**To reach that dependent arising is itself nature-arising — all manner of transformations arise from the wondrous, perfect, true mind.**" The *Śūraṅgama*'s "all manner of transformations" are not mere dependent arising; in their essence they are nature-arising — born of the wondrous, perfect, true mind. And again: "Cultivation arises from nature, and cultivation in turn merges back into nature. Outside the true nature, not a single dharma can be obtained." Every one of the *Śūraṅgama*'s twenty-five perfect penetrations is "cultivation arising from nature"; at the utmost of cultivation, each is "cultivation merging back into nature." This closed loop is the *Śūraṅgama* version of Huayan's "the cause embraces the sea of fruit, the fruit penetrates the source of the cause."
+Zhenjian has one sentence that closes all dispute: "**To reach that dependent arising is itself nature-arising — all manner of transformations arise from the wondrous, perfect, true mind.**" The *Śūraṅgama*'s "all manner of transformations" are not mere dependent arising; in their essence they are nature-arising — born of the wondrous, perfect, true mind. And again: "Cultivation arises from nature, and cultivation in turn merges back into nature. Outside the true nature, not a single dharma can be obtained." Every one of the *Śūraṅgama*'s twenty-five perfect penetrations is "cultivation arising from nature"; at the utmost of cultivation, each is "cultivation merging back into nature." This closed loop is the *Śūraṅgama* version of Huayan's "the cause embraces the sea of fruit, the fruit penetrates the source of the cause."
 
 Part Six of this book stopped at the tathāgatagarbha, because that is where the *Śūraṅgama* itself ends. This chapter of Part Eight re-positions that endpoint as the starting point of the Huayan perfect teaching.
 

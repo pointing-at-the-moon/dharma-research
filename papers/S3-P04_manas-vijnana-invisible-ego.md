@@ -453,7 +453,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 1. *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1585.
 2. *Yogācārabhūmi-śāstra* (瑜伽師地論), spoken by Maitreya, trans. Xuanzang (Tang), *Taishō* vol. 30, No. 1579.
 3. *Mahāyānasaṃgraha* (攝大乘論), composed by Asaṅga, trans. Paramārtha (Chen), *Taishō* vol. 31, No. 1593.
-4. *Mahāyānasaṃgrahopanibandhana* (攝大乘論釋), commentary by Vasubandhu, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1598.
+4. *Mahāyānasaṃgrahopanibandhana* (攝大乘論釋), commentary by Asvabhāva, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1598.
 5. *Śatadharmaprakāśamukha-śāstra* (百法明門論), composed by Vasubandhu, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1614.
 6. *Bajishi Guiju Buzhu* (八識規矩補註), sub-commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
 7. *Zongjing Lu* (宗鏡錄), compiled by Yongming Yanshou (Song), *Taishō* vol. 48, No. 2016.
@@ -479,7 +479,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 | 7 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | Fasc. 1, 2, 3, 4, 5, 7, 9, 10 |
 | 8 | Yogācārabhūmi 瑜伽師地論 | T30 | No. 1579 | Fasc. 51, 63 |
 | 9 | Mahāyānasaṃgraha 攝大乘論 (Paramārtha) | T31 | No. 1593 | Fasc. 1 |
-| 10 | Mahāyānasaṃgrahopanibandhana 攝大乘論釋 (Vasubandhu) | T31 | No. 1598 | Fasc. 9 |
+| 10 | Mahāyānasaṃgrahopanibandhana 攝大乘論釋 (Asvabhāva) | T31 | No. 1598 | Fasc. 9 |
 | 11 | Śatadharmaprakāśamukha 百法明門論 | T31 | No. 1614 | Complete |
 | 12 | Bajishi Guiju Buzhu 八識規矩補註 | T45 | No. 1865 | Fasc. 1, 2 |
 | 13 | Platform Sūtra 六祖大師法寶壇經 | T48 | No. 2008 | Fasc. 1 |
@@ -612,7 +612,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 [^52]: Ibid.: 「平等性智相應心品：謂此心品，觀一切法，自他有情，悉皆平等。大慈悲等恒共相應，隨諸有情所樂，示現受用身土影像差別。」("The mind-and-mental-factor group associated with equality wisdom contemplates all dharmas, self and other sentient beings, as entirely equal. Great compassion perpetually accompanies it. According to sentient beings' inclinations, it manifests enjoyment bodies, lands, and image-differentiations.")
 
-[^53]: *Mahāyānasaṃgrahopanibandhana* (Vasubandhu), fasc. 9: 「轉染污末那故得平等性智，初現觀時先已證得……能隨所樂現佛影像。」("By transforming the defiled manas, one attains equality wisdom. It is first realized at the initial direct perception... one can manifest Buddha-images according to [beings'] inclinations.") *Taishō* vol. 31, No. 1598.
+[^53]: *Mahāyānasaṃgrahopanibandhana* (Asvabhāva), fasc. 9: 「轉染污末那故得平等性智，初現觀時先已證得……能隨所樂現佛影像。」("By transforming the defiled manas, one attains equality wisdom. It is first realized at the initial direct perception... one can manifest Buddha-images according to [beings'] inclinations.") *Taishō* vol. 31, No. 1598.
 
 [^54]: *Cheng Weishi Lun*, fasc. 7: 「無想定者……令不恒行心心所滅……滅盡定者……令不恒行、恒行染污心心所滅。」("The attainment of non-perception... causes the non-constantly-active minds and mental factors to cease... The cessation attainment... causes both the non-constantly-active and the constantly-active defiled minds and mental factors to cease.") *Taishō* vol. 31, No. 1585.
 
