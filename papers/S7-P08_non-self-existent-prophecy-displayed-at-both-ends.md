@@ -333,8 +333,8 @@ This paper does not rely on modern secondary scholarship for its citations. All 
 | *Sarvāstivāda-vinaya* | *Shí-sòng-lǜ* 十誦律 | T1435 | Puṇyatrāta, Kumārajīva |
 | *Dharmaguptaka-vinaya* | *Sì-fēn-lǜ* 四分律 | T1428 | Buddhayaśas, Zhu Fonian |
 | *Mahīśāsaka-vinaya* | *Wǔ-fēn-lǜ* 五分律 | T1421 | Buddhajīva, Zhu Daosheng |
-| *Lotus-upadeśa* (Bodhiruci tr.) | *Miào-fǎ-lián-huá-jīng yōu-bō-tí-shè* 妙法蓮華經優波提舍 | T1519 | Vasubandhu (tr. Bodhiruci) |
-| *Lotus-upadeśa* (Ratnamati tr.) | *Miào-fǎ-lián-huá-jīng yōu-bō-tí-shè* | T1520 | Vasubandhu (tr. Ratnamati) |
+| *Lotus-upadeśa* (Bodhiruci tr.) | *Miào-fǎ-lián-huá-jīng yōu-bō-tí-shè* 妙法蓮華經憂波提舍 | T1519 | Vasubandhu (tr. Bodhiruci) |
+| *Lotus-upadeśa* (Ratnamati tr.) | *Miào-fǎ-lián-huá-jīng lùn yōu-bō-tí-shè* 妙法蓮華經論優波提舍 | T1520 | Vasubandhu (tr. Ratnamati) |
 | *Fǎ-huá-xuán-zàn* | *Miào-fǎ-lián-huá-jīng xuán-zàn* 妙法蓮華經玄贊 | T1723 | Kuiji |
 | *Fǎ-huá-yì-shū* | *Fǎ-huá yì-shū* 法華義疏 | T1721 | Jizang |
 | *Fǎ-huá-xuán-yì* | *Miào-fǎ-lián-huá-jīng xuán-yì* 妙法蓮華經玄義 | T1716 | Zhiyi (rec. Guanding) |

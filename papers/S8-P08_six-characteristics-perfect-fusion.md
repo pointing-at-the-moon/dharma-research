@@ -844,7 +844,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 [^8]: 《華嚴經隨疏演義鈔》, *Huáyán jīng suí shū yǎnyì chāo* (*Elaborated Exegesis Following the Commentary on the Avataṃsaka*), composed by Chengguan (澄觀) of the Tang dynasty, *Taishō* vol. 36, no. 1736, fascicle 52. Chengguan here cites Jingying Huiyuan's (Master Yuan's) four-gate exegesis. Jingying Huiyuan (淨影慧遠, 523–592) was a major *Dilun*-school figure devoted to the study of Vasubandhu's *Daśabhūmika-vyākhyāna* and so belongs to the Yogācāra lineage; he is not to be confused with the earlier Mount-Lu Huiyuan (廬山慧遠, 334–416). This passage is the key documentary evidence for the cross-school transmission of the six-characteristics hermeneutic between the *Yogācāra* and Huayan traditions.
 
-[^9]: 《華嚴經問答》, *Huáyán jīng wèndá*, attributed to Zhiyan (智儼) of the Tang dynasty, *Taishō* vol. 45, no. 1873, fascicle 1.
+[^9]: 《華嚴經問答》, *Huáyán jīng wèndá*, Taishō byline Fazang (法藏); attributed by this paper, on internal evidence, to Zhiyan (智儼), *Taishō* vol. 45, no. 1873, fascicle 1.
 
 [^10]: Ibid., T1873 fascicle 1.
 
@@ -938,8 +938,8 @@ The present paper is grounded primarily in the primary sources and does not draw
 | *Yǎnyì chāo* | 華嚴經隨疏演義鈔 | T1736 | composed by Chengguan |
 | *Wǔjiào zhāng* | 華嚴一乘教義分齊章 | T1866 | composed by Fazang |
 | *Yī chéng shíxuán mén* | 華嚴一乘十玄門 | T1868 | attributed to Du Shun and Zhiyan |
-| *Huáyán jīng wèndá* | 華嚴經問答 | T1873 | attributed to Zhiyan |
-| *Jīn shīzi zhāng* | 華嚴金師子章 | T1880 | composed by Fazang |
+| *Huáyán jīng wèndá* | 華嚴經問答 | T1873 | Taishō byline: Fazang; attributed by this paper to Zhiyan |
+| *Jīn shīzi zhāng* | 華嚴金師子章 (no independent Taishō number; carried in T1880/T1881) | T1880 | composed by Fazang |
 | *Jīn shīzi zhāng zhù* | 華嚴經金師子章註 | T1881 | Fazang, annotated by Chengqian |
 | *Yúnjiān lèijiě* | 華嚴經金師子章雲間類解 | T1880 | composed by Jingyuan |
 | *Yìhǎi bǎi mén* | 華嚴經義海百門 | T1875 | — |

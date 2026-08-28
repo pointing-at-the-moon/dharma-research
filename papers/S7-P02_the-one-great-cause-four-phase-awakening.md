@@ -423,8 +423,8 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 - *Saṃyukta-āgama* (《雜阿含經》). Translated by Guṇabhadra (Liu Song). *Taishō* vol. 2, no. 0099.
 - *Madhyama-āgama* (《中阿含經》). Translated by Gautama Saṅghadeva (Eastern Jin). *Taishō* vol. 1, no. 0026.
 - *Dīrgha-āgama* (《長阿含經》). Translated by Buddhayaśas and Zhu Fonian (Later Qin). *Taishō* vol. 1, no. 0001.
-- *Saddharmapuṇḍarīka-upadeśa* (《妙法蓮華經論優波提舍》). By Vasubandhu. Translated by Bodhiruci (Northern Wei). *Taishō* vol. 26, no. 1519.
-- *Saddharmapuṇḍarīka-upadeśa* (parallel translation). By Vasubandhu. Translated by Ratnamati and Sengl­ang (Northern Wei). *Taishō* vol. 26, no. 1520.
+- *Saddharmapuṇḍarīka-upadeśa* (《妙法蓮華經憂波提舍》). By Vasubandhu. Translated by Bodhiruci (Northern Wei). *Taishō* vol. 26, no. 1519.
+- *Saddharmapuṇḍarīka-upadeśa* (parallel translation). By Vasubandhu. Translated by Ratnamati and Senglang (Northern Wei). *Taishō* vol. 26, no. 1520.
 - *Fahua xuanyi* (《法華玄義》). By Zhiyi (Sui). *Taishō* vol. 33, no. 1716.
 - *Fahua wenju* (《法華文句》). By Zhiyi (Sui). *Taishō* vol. 34, no. 1718.
 - *Fahua yishu* (《法華義疏》). By Jizang (Sui). *Taishō* vol. 34, no. 1721.
@@ -489,7 +489,7 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 
 [^9]: 《雜阿含經》卷三十,第854經 (*Dharma-mirror sūtra*): "如來出世及不出世,法性常住。彼如來自知成等正覺,顯現演說,分別開示。" *Saṃyukta-āgama* fasc. 30, sūtra 854, *Taishō* vol. 2, no. 0099.
 
-[^10]: 《妙法蓮華經論優波提舍》卷二: "『一大事』者,依四種義應當善知……一者無上義……二者同義……三者不知義……四者令證不退轉地。" Vasubandhu's *Saddharmapuṇḍarīka-upadeśa*, fasc. 2, *Taishō* vol. 26, no. 1519.
+[^10]: 《妙法蓮華經憂波提舍》卷二: "『一大事』者,依四種義應當善知……一者無上義……二者同義……三者不知義……四者令證不退轉地。" Vasubandhu's *Saddharmapuṇḍarīka-upadeśa*, fasc. 2, *Taishō* vol. 26, no. 1519.
 
 [^11]: 《法華玄義》卷一(下): "此經始從〈序品〉訖〈安樂行品〉,破廢方便,開顯真實佛之知見。" Zhiyi, *Fahua xuanyi*, fasc. 1b, *Taishō* vol. 33, no. 1716.
 
@@ -505,17 +505,17 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 
 [^17]: 《妙法蓮華經玄贊》卷三(下): "諸佛出世欲令眾生斷所知障及所發業并所得果……開知見相使得清淨。" Kuiji on the verb *open*. *Taishō* vol. 34, no. 1723.
 
-[^18]: 《妙法蓮華經論優波提舍》卷二: "示者明同義,謂諸聲聞、辟支佛、佛法身平等。法身平等者,佛性、法身無差別故。" Vasubandhu's gloss of *reveal*. *Taishō* vol. 26, no. 1519.
+[^18]: 《妙法蓮華經憂波提舍》卷二: "示者明同義,謂諸聲聞、辟支佛、佛法身平等。法身平等者,佛性、法身無差別故。" Vasubandhu's gloss of *reveal*. *Taishō* vol. 26, no. 1519.
 
-[^19]: 《妙法蓮華經論優波提舍》卷二: "悟者明不知義,謂諸聲聞、辟支佛等不能知彼真實處故。此言不知真實處者,不知究竟唯一佛乘故。" Vasubandhu's gloss of *awaken to*. *Taishō* vol. 26, no. 1519.
+[^19]: 《妙法蓮華經憂波提舍》卷二: "悟者明不知義,謂諸聲聞、辟支佛等不能知彼真實處故。此言不知真實處者,不知究竟唯一佛乘故。" Vasubandhu's gloss of *awaken to*. *Taishō* vol. 26, no. 1519.
 
-[^20]: 《妙法蓮華經論優波提舍》卷二: "入者令證不退轉地,示現欲與無量智業故。" Vasubandhu's gloss of *enter*. *Taishō* vol. 26, no. 1519.
+[^20]: 《妙法蓮華經憂波提舍》卷二: "入者令證不退轉地,示現欲與無量智業故。" Vasubandhu's gloss of *enter*. *Taishō* vol. 26, no. 1519.
 
 [^21]: 《法華文句》卷一(下): "初阿字門,具四十一字功德,後茶亦具諸字功德,中間亦爾,字等、語等、功德亦等。" Zhiyi citing the *Mahāprajñāpāramitāśāstra*'s simile of the alphabetic letters. *Taishō* vol. 34, no. 1718.
 
 [^22]: 《法華文句》卷二: "見理由位,位立由智,智發由門,門通由觀。" Zhiyi's conclusion to the fourfold gloss. *Taishō* vol. 34, no. 1718.
 
-[^23]: 《妙法蓮華經論優波提舍》卷二, full passage of the four-meaning gloss. *Taishō* vol. 26, no. 1519. Primary citation for §3.5.1.
+[^23]: 《妙法蓮華經憂波提舍》卷二, full passage of the four-meaning gloss. *Taishō* vol. 26, no. 1519. Primary citation for §3.5.1.
 
 [^24]: 《法華文句》卷二, full passage of Zhiyi's fourfold gloss (by stage, by wisdom, by gate, by contemplation). *Taishō* vol. 34, no. 1718. Primary citation for §3.5.2.
 
@@ -529,7 +529,7 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 
 [^29]: 《妙法蓮華經》卷一,方便品第二偈頌: "諸佛兩足尊,知法常無性,佛種從緣起,是故說一乘。" *Saddharmapuṇḍarīka-sūtra* fasc. 1, *Upāyakauśalya* chapter (verse section), *Taishō* vol. 9, no. 0262.
 
-[^30]: 《妙法蓮華經論優波提舍》卷二, on the seven topsy-turvy graspings (七種倒取): the conceited overestimation of having actual merit (*shí yǒu gōngdé zēngshàng màn xīn* 實有功德增上慢心) is one of the seven, "聞大乘法取非大乘,如是倒取" — hearing the Mahāyāna teaching and grasping it as non-Mahāyāna. *Taishō* vol. 26, no. 1519. Vasubandhu lists clinging to "the actual merit" of the Mahāyāna as one of the seven topsy-turvy graspings the Lotus parables are designed to dissolve.
+[^30]: 《妙法蓮華經憂波提舍》卷二, on the seven topsy-turvy graspings (七種倒取): the conceited overestimation of having actual merit (*shí yǒu gōngdé zēngshàng màn xīn* 實有功德增上慢心) is one of the seven, "聞大乘法取非大乘,如是倒取" — hearing the Mahāyāna teaching and grasping it as non-Mahāyāna. *Taishō* vol. 26, no. 1519. Vasubandhu lists clinging to "the actual merit" of the Mahāyāna as one of the seven topsy-turvy graspings the Lotus parables are designed to dissolve.
 
 ---
 

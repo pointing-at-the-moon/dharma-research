@@ -48,7 +48,7 @@ S5-P07 revealed the Diamond Sūtra's dual-layer architecture, pivoting at §17: 
 
 §6's structural position is remarkable: it sits in the first half, but its content directly anticipates the second half.
 
-The character "dharma" (法) in "dharma should still be let go" marks the first time in the entire sūtra that the dharma itself becomes an object to be "let go." Other passages in the first half cut external marks — self-mark, other-mark, being-mark, life-mark, buddha-lands, physical bodies. §6 suddenly leaps to "dharma" — a word that belongs to the core theme of the second half (§17–32). Kuiji already noted this explicitly in T1700:[^1]
+The character "dharma" (法) in "dharma should still be let go" marks the first time in the entire sūtra that the dharma itself becomes an object to be "let go." Other passages in the first half cut external marks — self-mark, other-mark, being-mark, life-mark, buddha-lands, physical bodies. §6 suddenly leaps to "dharma" — a word that belongs to the core theme of the second half (§17–32). Zixuan already noted this explicitly in the *Jingang jing zuanyao kanding ji* (T1702), fascicle 2:[^1]
 
 > "No mark of self, others, beings, or life-span" removes self-grasping. "No dharma-mark and no non-dharma-mark" removes dharma-grasping.
 
@@ -172,7 +172,7 @@ Asaṅga further proposes the "five types of wrong grasping" framework:[^14] non
 
 Kuiji's *Jingang bore boluomi jing zanshu* (T1700) and Zixuan's *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記, T1702) read the raft analogy through multiple layers.
 
-On the positioning of dharma-grasping, Kuiji states explicitly in fascicle 2:[^15]
+On the positioning of dharma-grasping, Zixuan states explicitly in fascicle 2:[^15]
 
 > Conceiving that all dharmas have real self-nature is called dharma-grasping. The Buddha taught the Lesser Vehicle to remove self-grasping. That Prajñā now addresses this again means the deeper necessarily encompasses the shallower — thus its primary function is removing dharma-grasping, while also illuminating person-emptiness.
 
@@ -477,7 +477,6 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 - *Yuqie shidi lun* (瑜伽師地論), by Maitreya (彌勒菩薩), trans. Xuanzang (唐玄奘), T30, No. 1579.
 - *Cheng weishi lun* (成唯識論), by Dharmapāla et al. (護法等菩薩), trans. Xuanzang (唐玄奘), T31, No. 1585.
 - Kuiji (窺基), *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
-- Kuiji (窺基), *Jingang bore jing shu* (金剛般若經疏), T33, No. 1700.
 - Zixuan (子璿), *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
 
 ### II. Modern Scholarship
@@ -497,9 +496,8 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 | Asaṅga's Diamond Treatise (Dharmagupta) | Jingang bore lun | T25, No. 1510a | Fascicle 1 |
 | Yogācārabhūmi | Yuqie shidi lun | T30, No. 1579 | Fascicles 45, 48, 49 |
 | Cheng weishi lun | Cheng weishi lun | T31, No. 1585 | Fascicles 8, 9, 10 |
-| Kuiji's Zànshù | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fascicle 2 |
-| Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fascicles 3, 4 |
-| Kuiji's Commentary | Jingang bore jing shu | T33, No. 1700 | Fascicle 1 |
+| Kuiji's Zànshù | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fascicle 1 |
+| Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fascicles 2, 3, 4 |
 
 ---
 
@@ -522,7 +520,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 ## Footnotes
 
-[^1]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 2: 「無我相人相眾生相壽者相，是除我執也。無法相亦無非法相，是除法執也」 — "'No mark of self, others, beings, or life-span' removes self-grasping; 'no dharma-mark and no non-dharma-mark' removes dharma-grasping," T33, No. 1700.
+[^1]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 2: 「無我相、人相、眾生相、壽者相，是除我執也。無法相亦無非法相，是除法執也」 — "'No mark of self, others, beings, or life-span' removes self-grasping; 'no dharma-mark and no non-dharma-mark' removes dharma-grasping," T33, No. 1702.
 
 [^2]: *Jingang bore boluomi jing*, §6: 「無法相，亦無非法相。何以故？……法尚應捨，何況非法」 — "No dharma-mark, and no non-dharma-mark... dharma should still be let go, how much more so non-dharma," T08, No. 235.
 
@@ -550,7 +548,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^14]: *Jingang bore boluomi jing lun*, fascicle 1: five types of wrong grasping (五種邪取) — non-Buddhists, Buddhist worldlings and śrāvakas, overconfident bodhisattvas, mundane shared-notion samādhi, no-notion samādhi, T25, No. 1510b.
 
-[^15]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 2: 「計一切法實有體性，名為法執。然佛說小乘以除我執，今說般若重為此者……正除法執，兼明我空」 — "Conceiving that all dharmas have real self-nature is called dharma-grasping... Prajñā's primary function is removing dharma-grasping while also illuminating person-emptiness," T33, No. 1700.
+[^15]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 2: 「計一切法實有體性，名為法執。然佛說小乘以除我執。今說般若重為此者……正除法執，兼明我空也」 — "Conceiving that all dharmas have real self-nature is called dharma-grasping... Prajñā's primary function is removing dharma-grasping while also illuminating person-emptiness," T33, No. 1702.
 
 [^16]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「不應取法，離有也；不應取非法，離無也。既離有無，即歸中道」 — "Not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way," T33, No. 1702.
 
@@ -558,7 +556,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^18]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「未除細執者，謂二執俱生任運起者」 — "Those who have not yet removed the subtle grasping — the innate, spontaneously arising forms of the two graspings," T33, No. 1702.
 
-[^19]: Kuiji, *Jingang bore jing shu*, fascicle 1: 「將欲證真，必因言說；及其正證，即不假言，如筏至岸，即無所用也」 — "When one is about to realize truth, one necessarily relies on verbal teaching; at the moment of true realization, words are no longer needed — like a raft that, upon reaching shore, has no further use," T33, No. 1700.
+[^19]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 1: 「將欲證真，必因言說；及其正證，即不假言，如筏至岸，即無所用也」 — "When one is about to realize truth, one necessarily relies on verbal teaching; at the moment of true realization, words are no longer needed — like a raft that, upon reaching shore, has no further use," T33, No. 1700.
 
 [^20]: *Jie shenmi jing*, fascicle 2: sphaṭika (crystal) analogy — 「如彼清淨頗胝迦上所有染色相應，依他起相上遍計所執相言說習氣，當知亦爾」 — "Just as the colors appearing on the pure crystal correspond to verbal habituation of the parikalpita upon the paratantra," T16, No. 676.
 

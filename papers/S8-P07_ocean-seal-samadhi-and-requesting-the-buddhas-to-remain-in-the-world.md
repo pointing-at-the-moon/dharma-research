@@ -463,7 +463,7 @@ The next paper, S8-P08 (*Six Characteristics in Perfect Fusion*), will unfold th
 - Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), T1866, Taishō vol. 45.
 - Fazang, *Huáyán jīng tànxuán jì* 華嚴經探玄記, T1733, Taishō vol. 35.
 - Fazang, *Xiū Huáyán àozhǐ wàng jìn huányuán guān* 修華嚴奧旨妄盡還源觀, T1876, Taishō vol. 45.
-- Fazang, *Huáyán jīn shīzǐ zhāng* 華嚴金師子章, T1880 / T1881, Taishō vol. 45.
+- Fazang, *Huáyán jīn shīzǐ zhāng* 華嚴金師子章 (no independent Taishō number; carried in Jingyuan's *Yúnjiān lèijiě* T1880 and Chengqian's annotated recension T1881), Taishō vol. 45.
 - Chengguan, *Dàfāngguǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, T1735, Taishō vol. 35.
 - Chengguan, *Dàfāngguǎng fó huáyán jīng suí shū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔, T1736, Taishō vol. 36.
 
@@ -486,7 +486,7 @@ The next paper, S8-P08 (*Six Characteristics in Perfect Fusion*), will unfold th
 | *Wujiao zhang* | *Huáyán yīchéng jiàoyì fēnqí zhāng* | T1866 | composed by Fazang |
 | *Tanxuan ji* | *Huáyán jīng tànxuán jì* | T1733 | composed by Fazang |
 | *Wàng jìn huányuán guān* | *Xiū Huáyán àozhǐ wàng jìn huányuán guān* | T1876 | composed by Fazang |
-| *Jin shizi zhang* | *Huáyán jīn shīzǐ zhāng* | T1880 / T1881 | composed by Fazang |
+| *Jin shizi zhang* | *Huáyán jīn shīzǐ zhāng* (carried in T1880/T1881) | T1880 / T1881 | composed by Fazang |
 | *Huayan jing shu* | *Dàfāngguǎng fó huáyán jīng shū* | T1735 | composed by Chengguan |
 | *Yanyi chao* | *Dàfāngguǎng fó huáyán jīng suí shū yǎnyì chāo* | T1736 | composed by Chengguan |
 

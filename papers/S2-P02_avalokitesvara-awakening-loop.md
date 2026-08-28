@@ -73,7 +73,7 @@ The Sanskrit Avalokiteśvara (*avalokita* + *īśvara*, "sovereign lord of obser
 
 > "Avalokiteśvara Bodhisattva" — the old translation says "Avalokitasvara" (Observer of the World's Sounds), which is a translator's error. ... Now, according to the Sanskrit, the correct translation is "Avalokiteśvara" (Sovereign Observer).[^5]
 
-The *Heart Sūtra Commentary* (T1713) explains Xuanzang's choice from a pedagogical angle:
+Shihui's *Lüeshu lianzhuji* 《般若心經略疏連珠記》 (T1713) explains Xuanzang's choice from a pedagogical angle:
 
 > The popular name "Observer of the World's Sounds" is because the function of verbal karma is prominent and response comes easily. The sūtra takes the meaning that is complete, hence "Avalokiteśvara."[^6]
 
@@ -337,7 +337,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 1. Kuiji, *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), *Taishō* vol. 33, No. 1710.
 2. Woncheuk, *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), *Taishō* vol. 33, No. 1711.
 3. Fazang, *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), *Taishō* vol. 33, No. 1712.
-4. *Bore boluomiduo xinjing shu* (般若波羅蜜多心經疏), *Taishō* vol. 33, No. 1713.
+4. Shihui 師會, *Bore xinjing lüeshu lianzhuji* (般若心經略疏連珠記), *Taishō* vol. 33, No. 1713.
 5. *Bore boluomiduo xinjing zhu* (般若波羅蜜多心經注), *Taishō* vol. 33, No. 1714.
 6. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* (成唯識論), *Taishō* vol. 31, No. 1585.
 7. Vasubandhu, trans. Xuanzang, *Weishi sanshi lun song* (唯識三十論頌), *Taishō* vol. 31, No. 1586.
@@ -358,7 +358,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 | Avalokiteśvara — principle-phenomena unobstructed | Brief Commentary, fasc. 1 | T1712 |
 | Avalokiteśvara — pratyavekṣaṇā-jñāna | Heart Sūtra Commentary, fasc. 1 | T1711 |
 | Avalokiteśvara vs Avalokitasvara (translation) | Yujia lunji, fasc. 21 | T1828 |
-| Avalokiteśvara — complete meaning | Heart Sūtra Commentary (T1713), fasc. 2 | T1713 |
+| Avalokiteśvara — complete meaning | Lüeshu lianzhuji (T1713), fasc. 2 | T1713 |
 | Deep practice — two dimensions of depth | Youzhan, fasc. 1 | T1710 |
 | Prajñā as eye of six pāramitā (blind analogy) | Dazhidu lun, fasc. 62 | T1509 |
 | Pratyavekṣaṇā-jñāna definition | Heart Sūtra Comm. (citing Buddhabhūmi-śāstra) | T1711 |
@@ -399,7 +399,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 [^5]: Dunlun, *Yujia lunji*, fasc. 21, T42, No. 1828. This passage directly identifies the older translation "Avalokitasvara" as a translation error.
 
-[^6]: *Heart Sūtra Commentary* (T1713), fasc. 2, T33, No. 1713. "The sūtra takes the complete meaning" — since the Heart Sūtra's theme is prajñā (wisdom), Xuanzang selected the term emphasizing wisdom-sovereignty rather than compassionate rescue.
+[^6]: Shihui, *Lüeshu lianzhuji* 《般若心經略疏連珠記》, fasc. 2, T33, No. 1713. "The sūtra takes the complete meaning" — since the Heart Sūtra's theme is prajñā (wisdom), Xuanzang selected the term emphasizing wisdom-sovereignty rather than compassionate rescue.
 
 [^7]: Kuiji, *Youzhan*, fasc. 1, T33, No. 1710. The determination of "two kinds of depth" — practice-depth refers to the depth of the contemplating wisdom (non-discriminating wisdom free from all action-characteristics), object-depth to the depth of the contemplated object (twofold emptiness beyond all conceptual elaboration).
 

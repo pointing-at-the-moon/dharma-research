@@ -253,8 +253,8 @@ This paper does not rely on modern scholarship; all arguments are grounded direc
 | *Dīrghāgama* | 長阿含經 | T0001 | Buddhayaśas & Zhu Fonian |
 | *Madhyamāgama* | 中阿含經 | T0026 | Saṃghadeva |
 | *Ekottarāgama* | 增壹阿含經 | T0125 | Gautama Saṃghadeva |
-| *Saddharmapuṇḍarīkopadeśa* | 妙法蓮華經優波提舍 | T1519 | Vasubandhu; tr. Bodhiruci |
-| *Saddharmapuṇḍarīkopadeśa* (alt.) | 妙法蓮華經優波提舍 | T1520 | Vasubandhu; tr. Ratnamati |
+| *Saddharmapuṇḍarīkopadeśa* | 妙法蓮華經憂波提舍 | T1519 | Vasubandhu; tr. Bodhiruci |
+| *Saddharmapuṇḍarīkopadeśa* (alt.) | 妙法蓮華經論優波提舍 | T1520 | Vasubandhu; tr. Ratnamati |
 | *Hṛdaya-sūtra Brief Commentary* | 般若波羅蜜多心經略疏 | T1712 | Fazang |
 | *Fahua wenju* | 妙法蓮華經文句 | T1718 | Zhiyi, recorded by Guanding |
 | *Fahua yishu* | 法華義疏 | T1721 | Jizang |

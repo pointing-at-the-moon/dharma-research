@@ -184,7 +184,7 @@ Kuiji concludes the passage with the trisvabhāva:
 
 "According to all three natures it is declared 'no'" — from all three perspectives this is "no": the imagined wisdom and attainment simply do not exist; the dependent wisdom and attainment are not fixed; in the perfected, "the essence is quiescent and entirely without dual marks" — thusness is still, without the duality of obtainer and obtained.
 
-In this passage Kuiji invokes the phrase "wisdom and the domain of wisdom are both called prajñā" (說智及智處俱名般若). This phrase circulates widely in the Chinese Buddhist commentarial tradition, uniformly attributed to the *Mahāprajñāpāramitopadeśa*. However, a full-text XML search of the Taishō edition of T1509 (all 100 fascicles) using the key terms 智及智處, 智處俱名, and 俱名般若 yields zero results. The phrase is in fact a paraphrase by later commentators — particularly Kuiji, who uses it in his *Jingang bore jingshu* (T1700), *Dasheng fayuan yilin zhang* (T1861), and the *Xinjing youzhan* itself; Chengguan's *Huayan jingshu* (T1735) also cites it.[^10] This finding does not diminish the phrase's doctrinal validity — it accurately encapsulates the core of Nāgārjuna's prajñā thought: prajñā is both wisdom itself and the reality that wisdom illuminates — but for scholarly citation, it should be marked as "commentarial paraphrase" rather than "original text of the treatise."
+In this passage Kuiji invokes the phrase "wisdom and the domain of wisdom are both called prajñā" (說智及智處俱名般若). This phrase circulates widely in the Chinese Buddhist commentarial tradition, uniformly attributed to the *Mahāprajñāpāramitopadeśa*. However, a full-text XML search of the Taishō edition of T1509 (all 100 fascicles) using the key terms 智及智處, 智處俱名, and 俱名般若 yields zero results. The phrase is in fact a paraphrase by later commentators — particularly Kuiji, who uses it in his *Jingang bore jing zanshu* (T1700), *Dasheng fayuan yilin zhang* (T1861), and the *Xinjing youzhan* itself; Chengguan's *Huayan jingshu* (T1735) also cites it.[^10] This finding does not diminish the phrase's doctrinal validity — it accurately encapsulates the core of Nāgārjuna's prajñā thought: prajñā is both wisdom itself and the reality that wisdom illuminates — but for scholarly citation, it should be marked as "commentarial paraphrase" rather than "original text of the treatise."
 
 "Truly no grasping at marks, for it does not take marks" (真無相取，不取相故) — these eight characters are the final resting point of the Heart Sūtra's contemplation of emptiness. True prajñā is not "grasping marks" — not "I have seized emptiness" or "I have obtained wisdom" — but "not taking marks." You do not need to obtain prajñā; you need only cease grasping.
 
@@ -442,7 +442,7 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 | Mahāprajñāpāramitopadeśa | T25, No. 1509 | fasc. 18, 19, 23, 83, 94 |
 | Vijñaptimātratāsiddhi | T31, No. 1585 | fasc. 9, 10 |
 | Bore boluomiduo xinjing youzhan | T33, No. 1710 | fasc. 1, 2 |
-| Jingang bore jingshu | T33, No. 1700 | fasc. 2 (source note) |
+| Jingang bore jing zanshu | T33, No. 1700 | fasc. 2 (source note) |
 | Dasheng fayuan yilin zhang | T45, No. 1861 | — (source note) |
 | Huayan jingshu | T35, No. 1735 | — (source note) |
 | Lüeshu lianzhuji | T33, No. 1713 | — (source note) |
@@ -482,7 +482,7 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 
 [^9]: *Bore boluomiduo xinjing youzhan*, fasc. 2: 能證道名智，所證境名得; 無分別智證真如位，心境冥合，平等平等，能取所取一切皆無; 依三性皆說為無……真無相取，不取相故. On "no wisdom and no attainment." *Taishō Tripiṭaka* vol. 33, No. 1710.
 
-[^10]: The phrase 說智及智處，俱名般若 is invoked by Kuiji in the *Xinjing youzhan* (T33 p.541c9), *Jingang bore jingshu* (T1700, fasc. 2), and *Dasheng fayuan yilin zhang* (T1861), each time attributed to the *Mahāprajñāpāramitopadeśa*. Chengguan's *Huayan jingshu* (T1735) and Shihui's *Lüeshu lianzhuji* (T1713) similarly cite it. However, a full-text XML search of the Taishō edition T25n1509.xml (智及智處, 智處俱名, 俱名般若) returns zero hits. The phrase is a commentarial paraphrase of Nāgārjuna's prajñā thought, not a direct quotation from the treatise.
+[^10]: The phrase 說智及智處，俱名般若 is invoked by Kuiji in the *Xinjing youzhan* (T33 p.541c9), *Jingang bore jing zanshu* (T1700, fasc. 2), and *Dasheng fayuan yilin zhang* (T1861), each time attributed to the *Mahāprajñāpāramitopadeśa*. Chengguan's *Huayan jingshu* (T1735) and Shihui's *Lüeshu lianzhuji* (T1713) similarly cite it. However, a full-text XML search of the Taishō edition T25n1509.xml (智及智處, 智處俱名, 俱名般若) returns zero hits. The phrase is a commentarial paraphrase of Nāgārjuna's prajñā thought, not a direct quotation from the treatise.
 
 [^11]: *Bore boluomiduo xinjing youzhan*, fasc. 2: 以無得通釋上無 and 所執六相都無所有，依他圓成非定六相. On "with nothing to be attained." *Taishō Tripiṭaka* vol. 33, No. 1710.
 

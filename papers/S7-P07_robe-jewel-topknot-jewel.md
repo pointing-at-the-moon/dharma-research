@@ -271,8 +271,8 @@ All argumentation draws directly on Taishō Tripiṭaka primary sources. No mode
 |---|---|---|---|
 | Lotus Sūtra | *Saddharmapuṇḍarīka-sūtra* 妙法蓮華經 | T0262 | Trans. Kumārajīva |
 | Early Lotus (Dharmarakṣa) | *Zhengfahua jing* 正法華經 | T0263 | Trans. Dharmarakṣa |
-| *Upadeśa* (Bodhiruci) | *Saddharmapuṇḍarīka-upadeśa* 妙法蓮華經論優波提舍 | T1519 | By Vasubandhu; trans. Bodhiruci |
-| *Upadeśa* (Ratnamati) | *Saddharmapuṇḍarīka-upadeśa* 妙法蓮華經憂波提舍 | T1520 | By Vasubandhu; trans. Ratnamati |
+| *Upadeśa* (Bodhiruci) | *Saddharmapuṇḍarīka-upadeśa* 妙法蓮華經憂波提舍 | T1519 | By Vasubandhu; trans. Bodhiruci |
+| *Upadeśa* (Ratnamati) | *Saddharmapuṇḍarīka-upadeśa* 妙法蓮華經論優波提舍 | T1520 | By Vasubandhu; trans. Ratnamati |
 | *Fahua xuanzan* | *Fahua xuanzan* 妙法蓮華經玄贊 | T1723 | Kuiji |
 | *Laṅkāvatāra* (Guṇabhadra) | *Laṅkāvatāra-sūtra* 楞伽阿跋多羅寶經 | T0670 | Trans. Guṇabhadra |
 | *Laṅkāvatāra* (Bodhiruci) | *Laṅkāvatāra-sūtra* 入楞伽經 | T0671 | Trans. Bodhiruci |
@@ -316,7 +316,7 @@ All argumentation draws directly on Taishō Tripiṭaka primary sources. No mode
 
 [^07]: Same chapter, verse restatement: *"Only at the last do I expound this Lotus"* (末後乃為,說是法華); *"Now is the very time to expound it to you"* (今正是時,為汝等說).
 
-[^08]: Vasubandhu (Shiqin), *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍), T1519 trans. Bodhiruci; T1520 trans. Ratnamati. The pairings of seven conceits with seven parables, and ten supreme meanings with corresponding parables, are substantially consistent between the two translations.
+[^08]: Vasubandhu (Shiqin), *Saddharmapuṇḍarīka-upadeśa*: 妙法蓮華經憂波提舍 (T1519, trans. Bodhiruci) / 妙法蓮華經論優波提舍 (T1520, trans. Ratnamati). The pairings of seven conceits with seven parables, and ten supreme meanings with corresponding parables, are substantially consistent between the two translations.
 
 [^09]: T1519, fasc. 2. *"The overweening of scattered mind: a scattered mind, in truth without concentration, though possessed of Mahāyāna roots of goodness from the past does not know them, does not seek the Mahāyāna, but within a narrow and inferior mind generates false understanding, taking it for the first vehicle … to counter this, the parable of the fastened jewel is taught."*
 

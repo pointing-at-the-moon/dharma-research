@@ -102,7 +102,7 @@ The reason a white cloth can absorb dye is not because the dye is good, but beca
 
 ### 2.3 The Root of the Overturned Vessel: Pride
 
-Tiantai master Zhiyi, in the *Essentials of Śamatha-Vipaśyanā*, identified the root cause of the overturned vessel with surgical precision:
+The Tang vinaya master Daoxuan, in the *Shimen Guijing Yi* (Rituals of Reverence for the Buddhist Order), identified the root cause of the overturned vessel with surgical precision:
 
 > 慢山上聳俯視於人物。我室四蒙包藏於見愛。慢無納法之實。[^3]
 >
@@ -112,7 +112,7 @@ Tiantai master Zhiyi, in the *Essentials of Śamatha-Vipaśyanā*, identified th
 
 This is not a moral judgment. It is a structural analysis: when you believe you already understand, you stop listening. Your vessel is not broken — it is upside down.
 
-Zhiyi also wrote in the *Mohe Zhiguan*:
+Tiantai master Zhiyi wrote in the *Mohe Zhiguan*:
 
 > 若心信法，法則染心；猶豫狐疑，事同覆器。[^4]
 >
@@ -174,7 +174,7 @@ The entire business model of the digital age is built on capturing your attentio
 
 This is the modern version of the leaking vessel. Dharma poured in drains out immediately.
 
-Zhiyi's description from two thousand years ago remains perfectly accurate today:
+Zhiyi's description from more than fourteen hundred years ago remains perfectly accurate today:
 
 > 凡夫雖修有漏禪，其心行穿如漏器。[^9]
 >
@@ -196,7 +196,7 @@ This means: even if you are sitting right in front of a Dharma teacher, your min
 
 This is the overturned vessel. The vessel is upside down. No matter what is poured in, nothing gets through.
 
-The Tiantai analysis hits this structure exactly: "One who is proud has no real capacity to receive the Dharma." [^3] It is not that the Dharma is lacking — it is that your vessel cannot receive it. Pride is not only thinking you are better than others — it can also be thinking that your ideas are more important than theirs, so you are always speaking and never listening.
+Daoxuan's analysis hits this structure exactly: "One who is proud has no real capacity to receive the Dharma." [^3] It is not that the Dharma is lacking — it is that your vessel cannot receive it. Pride is not only thinking you are better than others — it can also be thinking that your ideas are more important than theirs, so you are always speaking and never listening.
 
 ### 3.3 You Heard It, But What You Understood Is Not What Was Said — The Modern Contaminated Vessel
 
@@ -346,7 +346,7 @@ See if you can do it.
 - *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna 龍樹菩薩, trans. Kumārajīva 鳩摩羅什, *Taishō* vol. 25, No. 1509.
 - *Yogācārabhūmi-śāstra* 《瑜伽師地論》, by Maitreya 彌勒菩薩, trans. Xuanzang 唐玄奘, *Taishō* vol. 30, No. 1579.
 - *Mohe Zhiguan* 《摩訶止觀》, by Zhiyi 智顗, recorded by Guanding 灌頂, *Taishō* vol. 46, No. 1911.
-- *Essentials of Śamatha-Vipaśyanā* 《天台止觀法要》, *Taishō* vol. 46, No. 1911.
+- *Shimen Guijing Yi* 《釋門歸敬儀》, by Daoxuan 道宣, *Taishō* vol. 45, No. 1896.
 
 ### II. Modern Scholarship 現代學術著作
 
@@ -367,7 +367,7 @@ See if you can do it.
 | 4 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | II, V |
 | 5 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30 | 1579 | II |
 | 6 | Mohe Zhiguan 摩訶止觀 | T46 | 1911 | II, III |
-| 7 | Essentials of Śamatha-Vipaśyanā 天台止觀法要 | T46 | 1911 | II, III |
+| 7 | Shimen Guijing Yi 釋門歸敬儀 | T45 | 1896 | II |
 
 ---
 
@@ -386,13 +386,13 @@ See if you can do it.
 
 [^1]: *Saṃyukta Āgama* 《雜阿含經》, fascicle 32, parable of three vessels, *Taishō* vol. 2, No. 0099. The Buddha uses three water vessels as a parable for the priority order of teaching recipients.
 [^2]: *Separate Translation Saṃyukta Āgama* 《別譯雜阿含經》, fascicle 4, the Buddha observes the young man's readiness as a dharma vessel then teaches the Four Noble Truths, parable of the white cloth, *Taishō* vol. 2, No. 0100.
-[^3]: *Essentials of Śamatha-Vipaśyanā* 《天台止觀法要》, "The mountain of pride rises high, looking down upon all others ... one who is proud has no real capacity to receive the Dharma" (慢山上聳俯視於人物……慢無納法之實), *Taishō* vol. 46, No. 1911.
-[^4]: *Mohe Zhiguan* 《摩訶止觀》, fascicle 1, "If the mind trusts the Dharma, the Dharma permeates the mind; if one is filled with hesitation and doubt, the effect is the same as an overturned vessel" (若心信法，法則染心；猶豫狐疑，事同覆器), *Taishō* vol. 46, No. 1911.
+[^3]: *Shimen Guijing Yi* 《釋門歸敬儀》, fascicle 1, "The mountain of pride rises high, looking down upon all others ... one who is proud has no real capacity to receive the Dharma" (慢山上聳俯視於人物……慢無納法之實), *Taishō* vol. 45, No. 1896.
+[^4]: *Mohe Zhiguan* 《摩訶止觀》, fascicle 4 (part 2), "If the mind trusts the Dharma, the Dharma permeates the mind; if one is filled with hesitation and doubt, the effect is the same as an overturned vessel" (若心信法，法則染心；猶豫狐疑，事同覆器), *Taishō* vol. 46, No. 1911.
 [^5]: *Avataṃsaka Sūtra* 《大方廣佛華嚴經》, fascicle 56, "knows that all sentient beings can serve as dharma vessels for all Buddhas" (知一切眾生界悉堪為諸佛法器), trans. Śikṣānanda, *Taishō* vol. 10, No. 0279.
 [^6]: *Mahāprajñāpāramitā-śāstra* 《大智度論》, fascicle 1, by Nāgārjuna, trans. Kumārajīva, "cutting themselves off in this way, they would fail to become vessels for the Dharma of noble ones" (以此自絕，不得成賢聖法器), *Taishō* vol. 25, No. 1509.
 [^7]: *Yogācārabhūmi-śāstra* 《瑜伽師地論》, fascicle 31, "when one's śīla is pure, one is fit to serve as a dharma vessel" (尸羅清淨，堪為法器), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
 [^8]: Stone, L. "Continuous Partial Attention." 2009. Linda Stone coined the term "continuous partial attention" to describe the modern condition where attention is always on but never fully engaged.
-[^9]: *Mohe Zhiguan* 《摩訶止觀》, fascicle 1, "Though ordinary beings practice conditioned meditation, their mental processes are full of holes, like a leaking vessel" (凡夫雖修有漏禪，其心行穿如漏器), *Taishō* vol. 46, No. 1911.
+[^9]: *Mohe Zhiguan* 《摩訶止觀》, fascicle 6 (part 1), "Though ordinary beings practice conditioned meditation, their mental processes are full of holes, like a leaking vessel" (凡夫雖修有漏禪，其心行穿如漏器), *Taishō* vol. 46, No. 1911.
 [^10]: Killingsworth, M. A. and Gilbert, D. T. "A Wandering Mind Is an Unhappy Mind." *Science* 330.6006 (2010): 932. Research showing that the mind wanders during approximately 46.9% of waking hours.
 [^11]: Jiang, J. and Ma, L. "Short-form Video Consumption and Its Effects on Analytical Thinking." *Computers in Human Behavior*, 2024.
 [^12]: Multiple neuroimaging studies have found associations between heavy short-video use and reduced prefrontal function alongside increased gray matter in reward regions. For a review, see He, Q. et al. "Short Video Addiction: A Review." *Current Opinion in Behavioral Sciences*, 2023.

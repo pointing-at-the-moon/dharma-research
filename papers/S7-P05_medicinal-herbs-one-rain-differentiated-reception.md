@@ -348,8 +348,8 @@ The next paper takes up the conjured city. The conjured city is an expedient nir
 | 4 | *Madhyama-āgama* (中阿含經) | T1 | 0026 | juan 8, "Unprecedented Qualities" |
 | 5 | *Saṃyukta-āgama* (雜阿含經) | T2 | 0099 | juan 20, sūtra 548 (Madhura) |
 | 6 | *Bieyi Saṃyukta-āgama* (別譯雜阿含經) | T2 | 0100 | juan 4, sūtra 68 |
-| 7 | *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經論優波提舍) | T26 | 1519 | juan 2 |
-| 8 | *Saddharmapuṇḍarīka-śāstra* (妙法蓮華經論) | T26 | 1520 | juan 1 |
+| 7 | *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍) | T26 | 1519 | juan 2 |
+| 8 | *Saddharmapuṇḍarīka-upadeśa* (Ratnamati) (妙法蓮華經論優波提舍) | T26 | 1520 | juan 1 |
 | 9 | *Miaofa lianhua jing wenju* (妙法蓮華經文句) | T34 | 1718 | juan 7b |
 | 10 | *Fahua yishu* (法華義疏) | T34 | 1721 | juan 8 |
 | 11 | *Miaofa lianhua jing xuanzan* (妙法蓮華經玄贊) | T34 | 1723 | juan 7a, 8a |

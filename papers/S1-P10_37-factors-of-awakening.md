@@ -310,7 +310,7 @@ Any "intentional change" -- regardless of whether the object of change is mental
 
 This logic does not belong to Buddhism. It does not belong to psychology. It is **the structure of change itself.** The Buddha discovered it. Modern scientists have independently rediscovered its fragments in different corners.
 
-The *Commentary on the Four-Part Vinaya* recognized this long ago. It distinguishes worldly causation (ten wholesome deeds -> three favorable realms) from transcendent causation (37 factors -> the fruit of the three vehicles), then states: "Though the scale of Mahayana and Hinayana differs, the logic of practice is the same." [^10] -- the scope differs between the greater and lesser vehicles, but the operational logic is identical.
+The *Zichi Ji* commentary on the Four-Part Vinaya practice manual recognized this long ago. It distinguishes worldly causation (ten wholesome deeds -> three favorable realms) from transcendent causation (37 factors -> the fruit of the three vehicles), then states: "Though the scale of Mahayana and Hinayana differs, the logic of practice is the same." [^10] -- the scope differs between the greater and lesser vehicles, but the operational logic is identical.
 
 Worldly and transcendent -- "though the scale differs, the logic of practice is the same." This is the classical basis for the dual-layer thesis.
 
@@ -456,13 +456,13 @@ Series 2 -- we will meet there.
 
 ### I. Primary Buddhist Sources 佛教原典
 
-- *Bannihuanjing* 《般泥洹經》, fascicle 1, *Taisho* vol. 1, No. 0007.
+- *Da Banniepan Jing* 《大般涅槃經》 (three-fascicle version, tr. Faxian), fascicle 1, *Taisho* vol. 1, No. 0007.
 - *Ekottara Agama* 《增壹阿含經》, fascicles 1, 7, 18, 26, *Taisho* vol. 2, No. 0125.
 - *Vimalakirti Sutra* 《維摩詰經》, trans. Zhi Qian, *Taisho* vol. 14, No. 0474.
 - *Vimalakirtinirdesa Sutra* 《維摩詰所說經》, trans. Kumarajiva, *Taisho* vol. 14, No. 0475.
 - *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, *Taisho* vol. 31, No. 1595.
 - *Buddhagotra-sastra* 《佛性論》, fascicle 4, *Taisho* vol. 31, No. 1610.
-- *Commentary on the Four-Part Vinaya* 《四分律疏》, fascicle 1, *Taisho* vol. 40, No. 1805.
+- *Sifen Lü Xingshi Chao Zichi Ji* 《四分律行事鈔資持記》, by Yuanzhao 元照, *Taisho* vol. 40, No. 1805.
 - *Mahaprajnaparamita-sastra* 《大智度論》, fascicle 19, by Nagarjuna, trans. Kumarajiva, *Taisho* vol. 25, No. 1509.
 - *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, *Taisho* vol. 43, No. 1829.
 
@@ -481,13 +481,13 @@ Series 2 -- we will meet there.
 
 | # | Sutra / Sastra 經論名 | Vol. 冊 | No. | Sections Cited 引用章節 |
 |---|----------------------|---------|------|------------------------|
-| 1 | Bannihuanjing 般泥洹經 | T01 | 0007 | II |
+| 1 | Da Banniepan Jing 大般涅槃經 (tr. Faxian) | T01 | 0007 | II |
 | 2 | Ekottara Agama 增壹阿含經 | T02 | 0125 | II, III, V |
 | 3 | Vimalakirti Sutra 維摩詰經 (Zhi Qian) | T14 | 0474 | II |
 | 4 | Vimalakirtinirdesa Sutra 維摩詰所說經 (Kumarajiva) | T14 | 0475 | II |
 | 5 | Mahāyānasaṃgraha-bhāṣya 攝大乘論釋 | T31 | 1595 | III |
 | 6 | Buddhagotra-sastra 佛性論 | T31 | 1610 | III |
-| 7 | Commentary on the Four-Part Vinaya 四分律疏 | T40 | 1805 | III |
+| 7 | Sifen Lü Xingshi Chao Zichi Ji 四分律行事鈔資持記 | T40 | 1805 | III |
 | 8 | Mahaprajnaparamita-sastra 大智度論 | T25 | 1509 | III |
 | 9 | Abbreviated Commentary on the Yogacarabhumi-sastra 瑜伽師地論略纂 | T43 | 1829 | II |
 
@@ -506,7 +506,7 @@ Series 2 -- we will meet there.
 
 ## Footnotes
 
-[^1]: *Bannihuanjing* 《般泥洹經》, fascicle 1, the Buddha's teaching three months before parinirvana, enumerating all seven categories of the 37 factors, *Taisho* vol. 1, No. 0007.
+[^1]: *Da Banniepan Jing* 《大般涅槃經》 (tr. Faxian), fascicle 1, the Buddha's teaching three months before parinirvana, enumerating all seven categories of the 37 factors, *Taisho* vol. 1, No. 0007.
 [^2]: *Ekottara Agama* 《增壹阿含經》, fascicle 1, Ananda tells Mahakasyapa: "Within a single verse, all 37 factors and all dharmas are born" -- the verse being "Refrain from all evil, cultivate all good, purify your own mind -- this is the teaching of all Buddhas" (諸惡莫作，諸善奉行，自淨其意，是諸佛教), *Taisho* vol. 2, No. 0125.
 [^3]: *Vimalakirtinirdesa Sutra* 《維摩詰所說經》, trans. Kumarajiva, "The 37 factors of the path are the bodhisattva's pure land -- when the bodhisattva attains Buddhahood, beings who have practiced the foundations of mindfulness, right efforts, bases of spiritual power, faculties, powers, awakening factors, and the path will be born in that land," *Taisho* vol. 14, No. 0475.
 [^4]: *Vimalakirti Sutra* 《維摩詰經》, trans. Zhi Qian, "born from the 37 factors of the path" (從三十七道品生), on the source of the Tathagata's merit-body, *Taisho* vol. 14, No. 0474.
@@ -515,7 +515,7 @@ Series 2 -- we will meet there.
 [^7]: *Ekottara Agama* 《增壹阿含經》, fascicle 18, "Of all meritorious qualities and the 37 factors of the path, non-negligence is foremost" (諸善功德三十七道品之法，無放逸行為第一), *Taisho* vol. 2, No. 0125.
 [^8]: *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, the bodhisattva on the fourth ground achieves "the fullest accomplishment of the 37 factors," yet "without the most excellent right effort, this attachment [to wholesome dharmas] cannot be extinguished" (若無最勝正勤，此愛不可滅), the perfection of effort (virya-paramita) is completed at this ground, *Taisho* vol. 31, No. 1595.
 [^9]: *Buddhagotra-sastra* 《佛性論》, fascicle 4, "The foundation (依止) is the 37 factors of the path" (依止者，三十七道品是所依止), the 37 factors as the basis for the four qualities of the nirmanakaya Buddha, *Taisho* vol. 31, No. 1610.
-[^10]: *Commentary on the Four-Part Vinaya* 《四分律疏》, fascicle 1, "The ten unwholesome actions are the cause of the three lower realms; the ten wholesome actions and the five precepts are the cause of the three favorable realms -- this is worldly causation. The 37 factors and the six paramitas are the cause of the three vehicles -- this is transcendent causation. Though the scale of Mahayana and Hinayana differs, the logic of practice is the same" (大小雖殊，行業無異), *Taisho* vol. 40, No. 1805.
+[^10]: *Sifen Lü Xingshi Chao Zichi Ji* 《四分律行事鈔資持記》, fascicle 1, "The ten unwholesome actions are the cause of the three lower realms; the ten wholesome actions and the five precepts are the cause of the three favorable realms -- this is worldly causation. The 37 factors and the six paramitas are the cause of the three vehicles -- this is transcendent causation. Though the scale of Mahayana and Hinayana differs, the logic of practice is the same" (大小雖殊，行業無異), *Taisho* vol. 40, No. 1805.
 [^11]: Kabat-Zinn, J. *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delacorte Press, 1990. The foundational text for Mindfulness-Based Stress Reduction (MBSR).
 [^12]: Clear, J. *Atomic Habits*. Avery, 2018; Duhigg, C. *The Power of Habit*. Random House, 2012. The Four Laws of Behavior Change and the habit loop theory.
 [^13]: Duckworth, A. *Grit: The Power of Passion and Perseverance*. Scribner, 2016.

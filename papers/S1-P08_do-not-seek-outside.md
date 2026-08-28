@@ -293,7 +293,7 @@ The person who does not know this is still looking outside.
 | 3 | Dīrghāgama 長阿含經 | T01 | 0001 | II |
 | 4 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | II |
 | 5 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | III |
-| 6 | Huayan Commentary 華嚴經論 | T36 | 1736 | III |
+| 6 | Huayan Jing Suishu Yanyi Chao 華嚴經隨疏演義鈔 | T36 | 1736 | III |
 | 7 | Platform Sūtra 六祖壇經 | T48 | 2008 | III |
 | 8 | Huangbo Chuanxin Fayao 黃檗傳心法要 | T48 | 2012A | III |
 | 9 | Jingde Chuandeng Lu 景德傳燈錄 | T51 | 2076 | III, VI |
