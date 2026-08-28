@@ -18,7 +18,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The twenty subsidiary afflictions (upakleśa) are not a checklist of twenty isolated bad habits but a three-tiered ecological system of mental contamination: the ten minor afflictions arise individually (each time only one, such as fury, resentment, or vexation), the two medium afflictions pervade every unwholesome mind (shamelessness and lack of propriety form the backdrop of all unwholesome states), and the eight major afflictions pervade every defiled mind (restlessness, torpor, and others pervade all defiled states including both unwholesome and morally indeterminate-yet-obscured mental states). This paper takes the twenty subsidiary affliction definitions in fascicle six of the *Cheng weishi lun* as its primary analytical engine, draws upon the *Saṃyuktāgama*, *Ekottarāgama*, *Saṃdhinirmocana Sūtra*, *Śūraṅgama Sūtra*, *Avataṃsaka Sūtra*, *Mahāprajñāpāramitā-śāstra*, *Yogācārabhūmi-śāstra*, *Pañcaskandhaka*, and *Bajishi guiju buzhu* as supporting sources, and systematically unfolds the complete doctrinal architecture of subsidiary afflictions. §2 establishes scriptural foundations in two tiers: sūtras (Āgama prototypes, the ignorance–shamelessness–wrong-view causal chain, five hindrances and the fire simile of the seven awakening factors, heedlessness, the *Saṃdhinirmocana*'s cross-elimination model for śamatha-vipaśyanā, the *Śūraṅgama*'s fifty skandha-demons, the *Avataṃsaka*'s ten-stage obstacles, and the *Mahāprajñāpāramitā-śāstra*'s four-layer analysis of anger) and treatises (*Cheng weishi lun* definitions and classifications, *Yogācārabhūmi* eight entanglements and twenty-three natures, *Bajishi guiju buzhu* verse commentaries, and *Pañcaskandhaka* definitions). §3 unfolds the core argument in ten layers: three-tier structure, developmental sequences of the minor ten, shamelessness and lack of propriety as the "entry pass" for unwholesome states, the dynamic balance of restlessness and torpor, the causal chain of faithlessness–laziness–heedlessness, deluded mindfulness–distraction–wrong knowing as corrupted forms of the object-specific factors, the real-versus-nominal ontological status, consciousness-specific configurations, the principle of "cut the root not the branches," and the three-paper closed loop (P08–P09–P10). §4 offers seven cross-disciplinary analogies (all marked ⚠️ heuristic): Yerkes-Dodson law, mind wandering, default mode network, Dunning-Kruger effect, moral disengagement, self-deception, and social comparison theory. §5 provides five Middle Way corrections.
+The twenty subsidiary afflictions (upakleśa) are not a checklist of twenty isolated bad habits but a three-tiered ecological system of mental contamination: the ten minor afflictions arise individually (each time only one, such as fury, resentment, or vexation), the two medium afflictions pervade every unwholesome mind (shamelessness and lack of propriety form the backdrop of all unwholesome states), and the eight major afflictions pervade every defiled mind (restlessness, torpor, and others pervade all defiled states including both unwholesome and morally indeterminate-yet-obscured mental states). This paper takes the twenty subsidiary affliction definitions in fascicle six of the *Cheng weishi lun* as its primary analytical engine, draws upon the *Saṃyuktāgama*, *Ekottarāgama*, *Saṃdhinirmocana Sūtra*, *Śūraṅgama Sūtra*, *Avataṃsaka Sūtra*, *Mahāprajñāpāramitā-śāstra*, *Yogācārabhūmi-śāstra*, *Pañcaskandhaka*, and *Bashi guiju buzhu* as supporting sources, and systematically unfolds the complete doctrinal architecture of subsidiary afflictions. §2 establishes scriptural foundations in two tiers: sūtras (Āgama prototypes, the ignorance–shamelessness–wrong-view causal chain, five hindrances and the fire simile of the seven awakening factors, heedlessness, the *Saṃdhinirmocana*'s cross-elimination model for śamatha-vipaśyanā, the *Śūraṅgama*'s fifty skandha-demons, the *Avataṃsaka*'s ten-stage obstacles, and the *Mahāprajñāpāramitā-śāstra*'s four-layer analysis of anger) and treatises (*Cheng weishi lun* definitions and classifications, *Yogācārabhūmi* eight entanglements and twenty-three natures, *Bashi guiju buzhu* verse commentaries, and *Pañcaskandhaka* definitions). §3 unfolds the core argument in ten layers: three-tier structure, developmental sequences of the minor ten, shamelessness and lack of propriety as the "entry pass" for unwholesome states, the dynamic balance of restlessness and torpor, the causal chain of faithlessness–laziness–heedlessness, deluded mindfulness–distraction–wrong knowing as corrupted forms of the object-specific factors, the real-versus-nominal ontological status, consciousness-specific configurations, the principle of "cut the root not the branches," and the three-paper closed loop (P08–P09–P10). §4 offers seven cross-disciplinary analogies (all marked ⚠️ heuristic): Yerkes-Dodson law, mind wandering, default mode network, Dunning-Kruger effect, moral disengagement, self-deception, and social comparison theory. §5 provides five Middle Way corrections.
 
 **Keywords:** subsidiary afflictions (upakleśa), minor afflictions, medium afflictions, major afflictions, restlessness (auddhatya), torpor (styāna), shamelessness (āhrīkya), lack of propriety (anapatrāpya), seven factors of awakening, śamatha-vipaśyanā balance, Śatadharmaprakāśamukha
 
@@ -66,7 +66,7 @@ Yet this does not mean subsidiary afflictions are unimportant. Quite the opposit
 
 This paper covers the fifth category of mental factors in the Hundred Dharmas — the twenty subsidiary afflictions (ten minor, two medium, eight major) — and analyzes their three-tier structure, consciousness-specific configurations, real-versus-nominal ontological status, and śamatha-vipaśyanā remedial relationships.
 
-§2 establishes scriptural foundations in two tiers: sūtras (Āgama, *Saṃdhinirmocana*, *Śūraṅgama*, *Avataṃsaka*, *Mahāprajñāpāramitā-śāstra*) and treatises (*Cheng weishi lun*, *Yogācārabhūmi*, *Bajishi guiju buzhu*, *Pañcaskandhaka*). §3 unfolds the core argument in ten layers. §4 offers cross-disciplinary analogies. §5 provides Middle Way corrections. §6 concludes and previews S3-P11 (form dharmas).
+§2 establishes scriptural foundations in two tiers: sūtras (Āgama, *Saṃdhinirmocana*, *Śūraṅgama*, *Avataṃsaka*, *Mahāprajñāpāramitā-śāstra*) and treatises (*Cheng weishi lun*, *Yogācārabhūmi*, *Bashi guiju buzhu*, *Pañcaskandhaka*). §3 unfolds the core argument in ten layers. §4 offers cross-disciplinary analogies. §5 provides Middle Way corrections. §6 concludes and previews S3-P11 (form dharmas).
 
 ---
 
@@ -335,7 +335,7 @@ The first five consciousnesses: the ten minor cannot arise (fury, resentment, je
 
 The *Yogācārabhūmi* (fascicle 8) lists the "eight entanglements" — shamelessness, lack of propriety, torpor, sleepiness, restlessness, regret, jealousy, and miserliness — selected by the criterion of "frequently arising in practice," cutting across the minor/medium/major classification.[^81] Fascicle 55 provides the full list of twenty-three subsidiary-affliction natures (three more than the *Cheng weishi lun*'s twenty), nine dependency-bases, correspondence rules, and the nominal-versus-substantial status of each.[^82]–[^84]
 
-The *Bajishi guiju buzhu* clarifies the three-characteristic (三義) framework: "Possessing all three characteristics — occurring together within class, pervading both moral polarities, pervading all defiled minds — is called 'major'; possessing one is 'medium'; possessing none is 'minor.'"[^85]
+The *Bashi guiju buzhu* clarifies the three-characteristic (三義) framework: "Possessing all three characteristics — occurring together within class, pervading both moral polarities, pervading all defiled minds — is called 'major'; possessing one is 'medium'; possessing none is 'minor.'"[^85]
 
 The *Pañcaskandhaka* provides streamlined definitions of all twenty, with its characterization of wrong knowing being particularly notable: "not dwelling correctly within the present activity of body, speech, and mind" — emphasizing that wrong knowing is not merely theoretical misjudgment but incorrect operation in the very moment of bodily, verbal, and mental action.[^86]
 
@@ -550,7 +550,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 7. *Cheng weishi lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, Tang dynasty. T31, No. 1585.
 8. *Yogācārabhūmi-śāstra* (瑜伽師地論), Maitreya, trans. Xuanzang, Tang dynasty. T30, No. 1579.
 9. *Pañcaskandhaka* (大乘五蘊論), Vasubandhu, trans. Xuanzang, Tang dynasty. T31, No. 1612.
-10. *Bajishi guiju buzhu* (八識規矩補註), Putai, Ming dynasty. T45, No. 1865.
+10. *Bashi guiju buzhu* (八識規矩補註), Putai, Ming dynasty. T45, No. 1865.
 
 ### II. Modern Scholarship
 
@@ -575,7 +575,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 | 7 | Cheng weishi lun 成唯識論 | T31 | 1585 | 6, 9 |
 | 8 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30 | 1579 | 8, 55 |
 | 9 | Pañcaskandhaka 大乘五蘊論 | T31 | 1612 | Full |
-| 10 | Bajishi guiju buzhu 八識規矩補註 | T45 | 1865 | Fascicle 1 |
+| 10 | Bashi guiju buzhu 八識規矩補註 | T45 | 1865 | Fascicle 1 |
 
 ---
 
@@ -601,7 +601,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 [^2]: *Śatadharmaprakāśamukha* (大乘百法明門論), Vasubandhu, trans. Xuanzang. T31, No. 1614.
 [^3]: *Cheng weishi lun*, fascicle 6, subsidiary affliction verse. T31, No. 1585.
 [^4]: Ibid., commentary passage.
-[^5]: *Bajishi guiju buzhu*, fascicle 1, second verse on the first five consciousnesses. T45, No. 1865.
+[^5]: *Bashi guiju buzhu*, fascicle 1, second verse on the first five consciousnesses. T45, No. 1865.
 [^6]: Ibid., first verse on the seventh consciousness.
 [^7]: Ibid., second verse on the sixth consciousness.
 [^8]: *Saṃyuktāgama*, fascicle 38, sūtra 1079 (Mound Simile). T02, No. 0099.
@@ -658,7 +658,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 [^80]: Ibid., consciousness-specific configuration passage. T31, No. 1585.
 [^81]: *Yogācārabhūmi-śāstra*, fascicle 8, affliction-differentiation section, eight entanglements. T30, No. 1579.
 [^82]–[^84]: *Yogācārabhūmi-śāstra*, fascicle 55, subsidiary affliction natures, dependency-bases, and ontological status. T30, No. 1579.
-[^85]: *Bajishi guiju buzhu*, fascicle 1, commentary on "the two medium, eight major, craving-aversion-delusion." T45, No. 1865.
+[^85]: *Bashi guiju buzhu*, fascicle 1, commentary on "the two medium, eight major, craving-aversion-delusion." T45, No. 1865.
 [^86]: *Pañcaskandhaka*, subsidiary affliction definitions. T31, No. 1612.
 [^87]: *Cheng weishi lun*, fascicle 6. T31, No. 1585.
 [^88]: See [^46].

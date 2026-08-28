@@ -696,7 +696,7 @@ The next step takes us into the fifth and final category — unconditioned dharm
 5. *Abhidharmasamuccaya* 《大乘阿毘達磨集論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1605.
 6. *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, compiled by Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
 7. *Xianyang shengjiao lun* 《顯揚聖教論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1602.
-8. *Bashi guiju buzhu* 《八識規矩補註》, by Mingchang, *Taishō* vol. 45, No. 1865.
+8. *Bashi guiju buzhu* 《八識規矩補註》, supplementary commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
 9. *Cheng weishi lun shuji* 《成唯識論述記》, by Kuiji, *Taishō* vol. 43, No. 1830.
 10. *Saṃdhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, *Taishō* vol. 16, No. 676.
 11. *Saṃyukta Āgama* 《雜阿含經》, trans. Guṇabhadra, *Taishō* vol. 2, No. 99.

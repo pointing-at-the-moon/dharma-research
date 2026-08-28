@@ -20,7 +20,7 @@ license: "CC BY-NC-SA 4.0"
 
 The sixth consciousness (mano-vijñāna) is the only consciousness among the eight capable of reflexively observing its own mental activity. Manas ceaselessly grasps at selfhood yet does not know it is grasping. The ālaya-vijñāna stores all seeds yet has no self-awareness. The first five consciousnesses receive sensory input yet do not know "it is I who am perceiving." Only the sixth consciousness can become aware that "I am thinking," "I am angry," "I am clinging." This capacity to "look in the mirror" is both the gateway to all spiritual practice and the source of all weighty karma.
 
-This paper takes the three verses on the sixth consciousness from Xuanzang's *Verses on the Characteristics of the Eight Consciousnesses* (八識規矩頌) as its structural framework. Drawing sūtra-level authority from the *Saṃyukta Āgama*, *Ekottara Āgama*, *Saṃdhinirmocana Sūtra*, *Laṅkāvatāra Sūtra*, *Avataṃsaka Sūtra*, and *Śūraṅgama Sūtra*, and treatise-level argument from the *Cheng Weishi Lun*, *Yogācārabhūmi-śāstra*, and *Madhyāntavibhāga*, it systematically unfolds the complete doctrine of the sixth consciousness.
+This paper takes the three verses on the sixth consciousness from Xuanzang's *Verses on the Characteristics of the Eight Consciousnesses* (八識規矩頌) as its structural framework. Drawing sūtra-level authority from the *Saṃyukta Āgama*, *Ekottara Āgama*, *Saṃdhinirmocana Sūtra*, *Laṅkāvatāra Sūtra*, *Avataṃsaka Sūtra*, and *Śūraṅgama Sūtra*, and treatise-level argument from the *Cheng Weishi Lun*, *Yogācārabhūmi-śāstra*, and *Mahāyānasaṃgraha*, it systematically unfolds the complete doctrine of the sixth consciousness.
 
 §II establishes the scriptural foundations in two tiers: sūtras first (Āgama twelve sense-bases, *Saṃdhinirmocana* mind-consciousness-vijñāna chapter and yoga-of-discernment chapter, *Laṅkāvatāra* five dharmas and three self-natures, *Avataṃsaka* "mind-as-painter" verse, *Śūraṅgama* analysis of the mental sense-base), then treatises (*Cheng Weishi Lun* fascicle 5 on the third transformation, *Verses on Eight Consciousnesses*, *Yogācārabhūmi* section on the mental ground). §III unfolds the core argument in eight layers: essential nature; dharma-objects; three kinds of discrimination; five modes of consciousness; all fifty-one mental factors; unique role in karma-creation; five states of interruption; and the three stages of transformation. §IV offers metacognition, working memory, and the default mode network as heuristic cross-disciplinary analogies. §V provides five middle-way corrections.
 
@@ -62,7 +62,7 @@ This is the paradox of consciousness: it is the only one that can see the cage, 
 
 This paper centers on the sixth consciousness (mano-vijñāna) from the mind-dharmas, with an overview of its associative relationship with all fifty-one mental factors. Detailed analysis of individual mental factors will unfold in S3-P07 (universals and object-specific factors) through S3-P10 (subsidiary afflictions); this paper provides the general survey.
 
-The paper follows a three-tier architecture: sūtra → treatise → commentary. §II establishes the scriptural foundations in two tiers: sūtras (Āgama, *Saṃdhinirmocana*, *Laṅkāvatāra*, *Avataṃsaka*, *Śūraṅgama*) and treatises (*Cheng Weishi Lun*, *Verses on Eight Consciousnesses*, *Yogācārabhūmi*, *Madhyāntavibhāga*). §III unfolds the core argument in eight layers following the three-verse structure. §IV offers cross-disciplinary parallels. §V provides middle-way corrections. §VI concludes.
+The paper follows a three-tier architecture: sūtra → treatise → commentary. §II establishes the scriptural foundations in two tiers: sūtras (Āgama, *Saṃdhinirmocana*, *Laṅkāvatāra*, *Avataṃsaka*, *Śūraṅgama*) and treatises (*Cheng Weishi Lun*, *Verses on Eight Consciousnesses*, *Yogācārabhūmi*, *Mahāyānasaṃgraha*). §III unfolds the core argument in eight layers following the three-verse structure. §IV offers cross-disciplinary parallels. §V provides middle-way corrections. §VI concludes.
 
 ---
 
@@ -192,11 +192,11 @@ The second verse's "in activating body and speech, it alone is supreme" is gloss
 
 The third verse, from "arising at the initial moment of the Joyful Ground" to "contemplation wisdom perfectly illuminates the great chiliocosm," unfolds the complete transformation sequence of consciousness, detailed in §III.8.
 
-#### 2.7 The Yogācārabhūmi and Madhyāntavibhāga
+#### 2.7 The Yogācārabhūmi and Mahāyānasaṃgraha
 
 The *Yogācārabhūmi-śāstra* (瑜伽師地論), in its section on the mental ground (意地), provides a definitive characterization of consciousness's objects: "Its objects are all dharmas, according to the circumstances."[^34] The sixth consciousness can discern "self-characteristics and shared characteristics," "past, future, and present," and can engage in "momentary discernment or continuous discernment."[^35] The same treatise lists fourteen superior functions unique to consciousness, from discriminating and deliberating objects to initiating bodily and verbal karma.[^36]
 
-The *Madhyāntavibhāga* (辯中邊論) equates non-discriminating wisdom with prajñā-pāramitā: "Prajñā-pāramitā and non-discriminating wisdom are without difference."[^37] The *Mahāyānasaṃgraha* employs a striking verse: "Like a person closing their eyes — this is non-discriminating wisdom; / The same person opening their eyes again — post-attainment wisdom is likewise."[^38] Closing one's eyes is not seeing nothing; it is the cessation of deluded discrimination. Opening one's eyes is not returning to deluded discrimination; it is observing all dharmas on the basis of non-discrimination. The practice journey of consciousness moves from "everything seen with open eyes is deluded discrimination," through "closing the eyes to cease delusion," to "upon reopening the eyes, seeing as it truly is" — resonating across the series with S2's core thesis, "illuminating that the five aggregates are all empty."
+The *Mahāyānasaṃgraha* (攝大乘論本) equates non-discriminating wisdom with prajñā-pāramitā: "Prajñā-pāramitā and non-discriminating wisdom are without difference."[^37] The same treatise employs a striking verse: "Like a person closing their eyes — this is non-discriminating wisdom; / The same person opening their eyes again — post-attainment wisdom is likewise."[^38] Closing one's eyes is not seeing nothing; it is the cessation of deluded discrimination. Opening one's eyes is not returning to deluded discrimination; it is observing all dharmas on the basis of non-discrimination. The practice journey of consciousness moves from "everything seen with open eyes is deluded discrimination," through "closing the eyes to cease delusion," to "upon reopening the eyes, seeing as it truly is" — resonating across the series with S2's core thesis, "illuminating that the five aggregates are all empty."
 
 ---
 
@@ -434,10 +434,9 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 11. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
 12. *Bāshí guījǔ bǔzhù* (八識規矩補註), annotated by Putai, *Taishō* vol. 45, No. 1865.
 13. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
-14. *Madhyāntavibhāga* (辯中邊論), by Maitreya/Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1600.
-15. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), comp. Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
-16. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
-17. *Mahāyānasaṃgraha* (攝大乘論本), by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1594.
+14. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), comp. Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
+15. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
+16. *Mahāyānasaṃgraha* (攝大乘論本), by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1594.
 
 ### II. Modern Scholarship
 
@@ -464,10 +463,9 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 | 11 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 1, 2, 5, 7, 9, 10 |
 | 12 | Bāshí guījǔ bǔzhù 八識規矩補註 | T45 | 1865 | 1, 2 |
 | 13 | Yogācārabhūmi 瑜伽師地論 | T30 | 1579 | 1 |
-| 14 | Madhyāntavibhāga 辯中邊論 | T31 | 1600 | 3 |
-| 15 | Abhidharmasamuccaya-vyākhyā 大乘阿毘達磨雜集論 | T31 | 1606 | 1 |
-| 16 | Śatadharmaprakāśamukha 百法明門論 | T31 | 1614 | 1 |
-| 17 | Mahāyānasaṃgraha 攝大乘論本 | T31 | 1594 | 3 |
+| 14 | Abhidharmasamuccaya-vyākhyā 大乘阿毘達磨雜集論 | T31 | 1606 | 1 |
+| 15 | Śatadharmaprakāśamukha 百法明門論 | T31 | 1614 | 1 |
+| 16 | Mahāyānasaṃgraha 攝大乘論本 | T31 | 1594 | 3 |
 
 ---
 
@@ -529,8 +527,8 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 [^34]: *Yogācārabhūmi*, fasc. 1, section on the mental ground: "Its objects are all dharmas" and unique objects. *Taishō* vol. 30, No. 1579.
 [^35]: *Yogācārabhūmi*, fasc. 1: "It can also discern self-characteristics and shared characteristics, past, future, and present; it can engage in momentary discernment or continuous discernment." *Taishō* vol. 30, No. 1579.
 [^36]: *Yogācārabhūmi*, fasc. 1, fourteen superior functions of mental consciousness. *Taishō* vol. 30, No. 1579.
-[^37]: *Madhyāntavibhāga*, fasc. 3: "Prajñā-pāramitā and non-discriminating wisdom are without difference." *Taishō* vol. 31, No. 1600.
-[^38]: *Mahāyānasaṃgraha* (攝大乘論本), fasc. 3: "Like a person closing their eyes — this is non-discriminating wisdom; the same person opening their eyes again — post-attainment wisdom is likewise." *Taishō* vol. 31, No. 1594/1600.
+[^37]: *Mahāyānasaṃgraha* (攝大乘論本), fasc. 3: "Prajñā-pāramitā and non-discriminating wisdom are without difference." *Taishō* vol. 31, No. 1594.
+[^38]: *Mahāyānasaṃgraha* (攝大乘論本), fasc. 3: "Like a person closing their eyes — this is non-discriminating wisdom; the same person opening their eyes again — post-attainment wisdom is likewise." *Taishō* vol. 31, No. 1594.
 [^39]: *Cheng Weishi Lun*, fasc. 5: "Though all six consciousness-bodies turn in dependence on mentation, following its unique [faculty], it is named mental consciousness." *Taishō* vol. 31, No. 1585.
 [^40]: *Abhidharmasamuccaya-vyākhyā*, fasc. 1: "Forms included in the dharma-realm are briefly of five kinds." *Taishō* vol. 31, No. 1606.
 [^41]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The sixth consciousness has five kinds," section on the five modes. *Taishō* vol. 45, No. 1865.

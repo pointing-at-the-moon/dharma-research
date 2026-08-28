@@ -21,7 +21,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The eleven wholesome mental factors (*kuśala-caitta*) — faith (*śraddhā*), conscience (*hrī*), shame (*apatrāpya*), non-attachment (*alobha*), non-aversion (*adveṣa*), non-delusion (*amoha*), vigor (*vīrya*), pliancy (*praśrabdhi*), non-negligence (*apramāda*), equanimity (*upekṣā*), and non-harming (*ahiṃsā*) — are not an isolated catalogue of virtues but an organic structure. If the universal mental factors are the engine (firing inevitably) and the object-specific factors are the steering wheel (activated on demand), the wholesome factors are the fuel that drives the vehicle toward liberation. This paper establishes the sūtra foundation through the Āgamas (five faculties, four right efforts, conscience and shame, three wholesome roots, non-negligence), the *Avataṃsaka Sūtra* (faith as the origin of the path and vigor pāramitā), the *Saṃdhinirmocana Sūtra* (pliancy and śamatha), the *Śūraṅgama Sūtra* (the domain of the formation-aggregate), and the *Mahāprajñāpāramitā-śāstra* (great compassion and non-harming). The treatise section draws on the *Cheng Weishi Lun* (complete definitions of all eleven), the *Yogācārabhūmi-śāstra* (six bases for wholesome dharmas), the *Bajishi Guiju Buzhu* (verse positioning), and the *Pañcaskandhaka-prakaraṇa* (variant readings). §3 Core Analysis unfolds nine layers: the organic structure, faith's three aspects, the three wholesome roots as core drive, vigor as sustaining force, conscience and shame as moat, pliancy as meditation foundation, the nature-debate on non-negligence and equanimity, non-harming as the caitta basis for compassion, and the distribution of the eleven across consciousnesses. §4 Cross-Disciplinary Dialogue engages self-efficacy, grit, moral emotions, self-regulation, and the relaxation response as heuristic analogies. §5 Middle Way Corrections: five entries.
+The eleven wholesome mental factors (*kuśala-caitta*) — faith (*śraddhā*), conscience (*hrī*), shame (*apatrāpya*), non-attachment (*alobha*), non-aversion (*adveṣa*), non-delusion (*amoha*), vigor (*vīrya*), pliancy (*praśrabdhi*), non-negligence (*apramāda*), equanimity (*upekṣā*), and non-harming (*ahiṃsā*) — are not an isolated catalogue of virtues but an organic structure. If the universal mental factors are the engine (firing inevitably) and the object-specific factors are the steering wheel (activated on demand), the wholesome factors are the fuel that drives the vehicle toward liberation. This paper establishes the sūtra foundation through the Āgamas (five faculties, four right efforts, conscience and shame, three wholesome roots, non-negligence), the *Avataṃsaka Sūtra* (faith as the origin of the path and vigor pāramitā), the *Saṃdhinirmocana Sūtra* (pliancy and śamatha), the *Śūraṅgama Sūtra* (the domain of the formation-aggregate), and the *Mahāprajñāpāramitā-śāstra* (great compassion and non-harming). The treatise section draws on the *Cheng Weishi Lun* (complete definitions of all eleven), the *Yogācārabhūmi-śāstra* (six bases for wholesome dharmas), the *Bashi Guiju Buzhu* (verse positioning), and the *Pañcaskandhaka-prakaraṇa* (variant readings). §3 Core Analysis unfolds nine layers: the organic structure, faith's three aspects, the three wholesome roots as core drive, vigor as sustaining force, conscience and shame as moat, pliancy as meditation foundation, the nature-debate on non-negligence and equanimity, non-harming as the caitta basis for compassion, and the distribution of the eleven across consciousnesses. §4 Cross-Disciplinary Dialogue engages self-efficacy, grit, moral emotions, self-regulation, and the relaxation response as heuristic analogies. §5 Middle Way Corrections: five entries.
 
 **Keywords:** wholesome mental factors (kuśala-caitta), faith (śraddhā), three wholesome roots (tri-kuśala-mūla), conscience and shame (hrī-apatrāpya), vigor (vīrya), pliancy (praśrabdhi), non-negligence (apramāda), equanimity (upekṣā), non-harming (ahiṃsā), Śatadharmaprakāśamukha-śāstra
 
@@ -66,7 +66,7 @@ This is the practice-positioning of the wholesome mental factors: not automatic,
 
 This paper covers the eleven wholesome mental factors in the Hundred Dharmas framework. Of these, eight are substantially real (possessing independent natures), and three are nominally existent (*prajñapti*): non-negligence, equanimity, and non-harming, which take other mental factors as their substance and lack independent characteristics.[^6]
 
-The paper proceeds through a two-tier sūtra-then-treatise architecture. §2 Scriptural Foundations builds two layers: the sūtra tier draws on the Āgamas, the *Avataṃsaka*, the *Saṃdhinirmocana*, the *Śūraṅgama*, and the *Mahāprajñāpāramitā-śāstra*; the treatise tier draws on the *Cheng Weishi Lun*, the *Yogācārabhūmi*, the *Bajishi Guiju Buzhu*, and the *Pañcaskandhaka*. §3 Core Analysis in nine layers. §4 Cross-Disciplinary Dialogue. §5 Middle Way Corrections. §6 Conclusion.
+The paper proceeds through a two-tier sūtra-then-treatise architecture. §2 Scriptural Foundations builds two layers: the sūtra tier draws on the Āgamas, the *Avataṃsaka*, the *Saṃdhinirmocana*, the *Śūraṅgama*, and the *Mahāprajñāpāramitā-śāstra*; the treatise tier draws on the *Cheng Weishi Lun*, the *Yogācārabhūmi*, the *Bashi Guiju Buzhu*, and the *Pañcaskandhaka*. §3 Core Analysis in nine layers. §4 Cross-Disciplinary Dialogue. §5 Middle Way Corrections. §6 Conclusion.
 
 ---
 
@@ -267,9 +267,9 @@ At the time of determination — faith. At the time of cessation — conscience 
 
 The *Yogācārabhūmi* concurs on the nominal status of three factors: "三世俗有。謂不放逸、捨及不害" — "Three are conventionally existent: non-negligence, equanimity, and non-harming."[^55]
 
-#### 2.9 Bajishi Guiju Buzhu: Verse Positioning
+#### 2.9 Bashi Guiju Buzhu: Verse Positioning
 
-The *Bajishi Guiju Buzhu*'s commentary on the second verse of the first five consciousnesses — "遍行別境善十一" — provides annotations on each of the eleven wholesome factors one by one.[^56] It summarizes the real-nominal distinction: "前八法是實，後三是假" — "The first eight are real; the latter three are nominal."[^57]
+The *Bashi Guiju Buzhu*'s commentary on the second verse of the first five consciousnesses — "遍行別境善十一" — provides annotations on each of the eleven wholesome factors one by one.[^56] It summarizes the real-nominal distinction: "前八法是實，後三是假" — "The first eight are real; the latter three are nominal."[^57]
 
 The commentary on "根隨信等總相連" notes: "等者，等餘遍行別境及不定也" — "'And its kin' extends to the universals, object-specifics, and indeterminates" — meaning the sixth consciousness connects with all categories of mental factors, a mark of its vast functional scope.[^58]
 
@@ -448,7 +448,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 7. *Mahāprajñāpāramitā-śāstra* (大智度論), by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
 8. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
 9. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
-10. *Bajishi Guiju Buzhu* (八識規矩補註), by Putai, *Taishō* vol. 45, No. 1865.
+10. *Bashi Guiju Buzhu* (八識規矩補註), by Putai, *Taishō* vol. 45, No. 1865.
 11. *Pañcaskandhaka-prakaraṇa* (大乘五蘊論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1612.
 12. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
 
@@ -474,7 +474,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 | 7 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 13, 20, 27, 33 |
 | 8 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 6 |
 | 9 | Yogācārabhūmi 瑜伽師地論 | T30 | 1579 | 55 |
-| 10 | Bajishi Guiju Buzhu 八識規矩補註 | T45 | 1865 | 1 |
+| 10 | Bashi Guiju Buzhu 八識規矩補註 | T45 | 1865 | 1 |
 | 11 | Pañcaskandhaka 大乘五蘊論 | T31 | 1612 | 1 |
 | 12 | Śatadharmaprakāśamukha 百法明門論 | T31 | 1614 | 1 |
 
@@ -503,7 +503,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 
 [^1]: 《百法明門論》(Śatadharmaprakāśamukha-śāstra), "第二心所有法，略有五十一種，分為六位：一遍行有五，二別境有五，三善有十一……" (The second [category], mental factors, comprises fifty-one kinds in six subcategories: five universals, five object-specifics, eleven wholesome...), *Taishō* vol. 31, No. 1614.
 [^2]: 《百法明門論》, "三善，謂信、慚、愧、無貪、無瞋、無癡、精進、輕安、不放逸、行捨、不害" (The third, wholesome, comprises: faith, conscience, shame, non-attachment, non-aversion, non-delusion, vigor, pliancy, non-negligence, equanimity, non-harming), *Taishō* vol. 31, No. 1614.
-[^3]: 《八識規矩補註》(Bajishi Guiju Buzhu), first five consciousnesses, second verse, *Taishō* vol. 45, No. 1865.
+[^3]: 《八識規矩補註》(Bashi Guiju Buzhu), first five consciousnesses, second verse, *Taishō* vol. 45, No. 1865.
 [^4]: 《八識規矩補註》, sixth consciousness, second verse, *Taishō* vol. 45, No. 1865.
 [^5]: 《成唯識論》(Cheng Weishi Lun) fasc. 6, fourfold universality determination for wholesome factors, *Taishō* vol. 31, No. 1585.
 [^6]: 《成唯識論》fasc. 6, "此十一法，三是假有，謂不放逸、捨及不害……餘八實有，相用別故" (Of these eleven, three are nominally existent... the remaining eight are substantially real), *Taishō* vol. 31, No. 1585.

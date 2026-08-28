@@ -386,7 +386,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 1. *Cheng Weishi Lun* 成唯識論. Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1585.
 2. *Mahāyānasaṃgraha* 攝大乘論. Composed by Asaṅga, translated by Paramārtha. *Taishō Tripiṭaka* vol. 31, No. 1593.
 3. *Śatadharmaprakāśamukha-śāstra* 百法明門論. Composed by Vasubandhu, translated by Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1614.
-4. *Bajishi Guiju Buzhu* 八識規矩補註. Commentary by Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
+4. *Bashi Guiju Buzhu* 八識規矩補註. Commentary by Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
 
 ### III. Modern Scholarship
 
@@ -407,7 +407,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 | 9 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | fasc. 2, 3 |
 | 10 | Mahāyānasaṃgraha 攝大乘論 (Paramārtha) | T31 | No. 1593 | fasc. 1 |
 | 11 | Śatadharmaprakāśamukha-śāstra 百法明門論 | T31 | No. 1614 | full text |
-| 12 | Bajishi Guiju Buzhu 八識規矩補註 | T45 | No. 1865 | fasc. lower |
+| 12 | Bashi Guiju Buzhu 八識規矩補註 | T45 | No. 1865 | fasc. lower |
 
 ---
 
@@ -431,7 +431,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^1]: *Śatadharmaprakāśamukha-śāstra* 百法明門論: 「第一心法，略有八種：一眼識……八阿賴耶識。」"The first category, mind-dharmas, comprises eight kinds: (1) eye-consciousness... (8) ālaya-vijñāna." *Taishō* vol. 31, No. 1614.
 
-[^2]: *Bajishi Guiju Buzhu* 八識規矩補註, fascicle lower, eighth consciousness first verse (nature verse). *Taishō* vol. 45, No. 1865.
+[^2]: *Bashi Guiju Buzhu* 八識規矩補註, fascicle lower, eighth consciousness first verse (nature verse). *Taishō* vol. 45, No. 1865.
 
 [^3]: Ibid., eighth consciousness second verse (function verse).
 
@@ -503,7 +503,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^37]: *Cheng Weishi Lun*, fasc. 2 (Dharmapāla's orthodox position citing verse): 「諸法於識藏，識於法亦爾，更互為果性，亦常為因性。」"Dharmas are stored in consciousness, and consciousness is stored in dharmas; each serves as the other's fruit, and constantly as the other's cause." Original verse from the *Mahāyānābhidharma Sūtra*. *Taishō* vol. 31, No. 1585.
 
-[^38]: *Bajishi Guiju Buzhu*, fasc. lower: 「此言第八現識如水，八識現種如波，境等四緣如風。」"The eighth consciousness in its manifest state is like water; the eight consciousnesses in their seed and manifest modes are like waves; objects and the four conditions are like wind." *Taishō* vol. 45, No. 1865.
+[^38]: *Bashi Guiju Buzhu*, fasc. lower: 「此言第八現識如水，八識現種如波，境等四緣如風。」"The eighth consciousness in its manifest state is like water; the eight consciousnesses in their seed and manifest modes are like waves; objects and the four conditions are like wind." *Taishō* vol. 45, No. 1865.
 
 [^39]: *Cheng Weishi Lun*, fasc. 2: 「謂本識中親生自果，功能差別。」"Within the root consciousness, the differential capacities that directly produce their own results." *Taishō* vol. 31, No. 1585.
 
@@ -521,7 +521,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^46]: *Ghanavyūha Sūtra* (Amoghavajra trans.), fasc. 2: 「藏識與諸界，共力無不成，內外識世間，彌給悉周遍。」"The storehouse consciousness together with all realms accomplishes everything without exception — inner, outer, consciousness, and world, all pervaded completely." *Taishō* vol. 16, No. 682.
 
-[^47]: *Bajishi Guiju Buzhu*, fasc. lower: 「善業從下冷，惡業從上冷，二皆至於心，一處同時捨。頂聖眼生天，人心餓鬼腹，旁生膝蓋離，地獄腳板出。」"For wholesome karma, cold rises from below; for unwholesome karma, cold descends from above; both reach the heart, where all is simultaneously relinquished. From the crown — noble paths; from the eyes — heavenly realms; from the heart — human realm; from the belly — hungry ghost; from the knees — animal; from the soles — hell." *Taishō* vol. 45, No. 1865.
+[^47]: *Bashi Guiju Buzhu*, fasc. lower: 「善業從下冷，惡業從上冷，二皆至於心，一處同時捨。頂聖眼生天，人心餓鬼腹，旁生膝蓋離，地獄腳板出。」"For wholesome karma, cold rises from below; for unwholesome karma, cold descends from above; both reach the heart, where all is simultaneously relinquished. From the crown — noble paths; from the eyes — heavenly realms; from the heart — human realm; from the belly — hungry ghost; from the knees — animal; from the soles — hell." *Taishō* vol. 45, No. 1865.
 
 [^48]: *Cheng Weishi Lun*, fasc. 3: 「生死時，身心惽昧，如睡無夢、極悶絕時，明了轉識必不現起。」"At the time of birth and death, body and mind are dim and confused, as in dreamless sleep or deep unconsciousness; the clear turning consciousnesses definitely do not arise." *Taishō* vol. 31, No. 1585.
 

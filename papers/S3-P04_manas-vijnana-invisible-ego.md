@@ -20,7 +20,7 @@ license: "CC BY-NC-SA 4.0"
 
 The manas-vijñāna (seventh consciousness) represents one of Yogācāra philosophy's most revolutionary theoretical innovations. It addresses a problem that has perplexed practitioners for millennia: why does "knowing there is no self" fail to free us from self-grasping? This paper takes Xuanzang's three verses on the seventh consciousness from the *Verses on the Characteristics of the Eight Consciousnesses* (八識規矩頌) as its structural framework, and adopts a sūtra-first citation architecture.
 
-§2 establishes the scriptural and treatise basis in two parts: Part A (Sūtra Foundations) draws on the *Saṃyuktāgama* for early Buddhist observations of the sense-base of mind (意根) and self-view (身見), the *Saṃdhinirmocana Sūtra* for the canonical positioning of "mind" (意/manas) between ālaya and the six consciousnesses, the *Laṅkāvatāra Sūtra* for the "mind as stage-manager" verse, the *Śūraṅgama Sūtra* for the analysis of the mind sense-base as illusory, and the *Ghanavyūha Sūtra* for the simile of manas grasping the storehouse consciousness like a magnet attracting iron. Part B (Treatise Foundations) draws on the *Cheng Weishi Lun*, *Yogācārabhūmi-śāstra*, *Mahāyānasaṃgraha*, and *Bajishi Guiju Buzhu* for systematic doctrinal analysis.
+§2 establishes the scriptural and treatise basis in two parts: Part A (Sūtra Foundations) draws on the *Saṃyuktāgama* for early Buddhist observations of the sense-base of mind (意根) and self-view (身見), the *Saṃdhinirmocana Sūtra* for the canonical positioning of "mind" (意/manas) between ālaya and the six consciousnesses, the *Laṅkāvatāra Sūtra* for the "mind as stage-manager" verse, the *Śūraṅgama Sūtra* for the analysis of the mind sense-base as illusory, and the *Ghanavyūha Sūtra* for the simile of manas grasping the storehouse consciousness like a magnet attracting iron. Part B (Treatise Foundations) draws on the *Cheng Weishi Lun*, *Yogācārabhūmi-śāstra*, *Mahāyānasaṃgraha*, and *Bashi Guiju Buzhu* for systematic doctrinal analysis.
 
 §3 unfolds the core argument in seven layers: (1) the unique positioning of manas through the "constant and deliberative" four-fold analysis; (2) the three-fold nature via "objective appearance with substance, obscured-neutral, bridging cognition and root"; (3) the epistemological implications of "non-valid cognition"; (4) the four afflictions and their internally generative logic; (5) the eighteen associated mental factors; (6) the role of manas as "basis for defilement and purity" and the three-tier architecture; (7) the five stages of transformation and the complete fruition of equality wisdom. §4 offers the Default Mode Network as a heuristic analogy, the Chama Sūtra as an Āgama bridge, and Chinul's "wind stops but waves still surge" as a Chan dialogue. §5 provides five middle-way corrections.
 
@@ -64,7 +64,7 @@ This paper covers eighteen dharmas from the hundred: the manas-vijñāna (sevent
 
 The configuration of these eighteen mental factors itself reveals manas's character: it has the most basic mental activities (universals), unceasing afflictions (four root plus eight major subsidiaries), and one special form of "wisdom" — but this wisdom is not prajñā; it is the "clever mistake" that cognizes the non-self as self.
 
-§2 adopts a sūtra-first citation architecture: Part A establishes sūtra foundations through the *Saṃyuktāgama*, *Saṃdhinirmocana Sūtra*, *Laṅkāvatāra Sūtra*, *Śūraṅgama Sūtra*, and *Ghanavyūha Sūtra*; Part B presents the treatise foundations through the *Cheng Weishi Lun*, *Yogācārabhūmi-śāstra*, *Mahāyānasaṃgraha*, and *Bajishi Guiju Buzhu*. §3 unfolds the core argument following the three-verse structure. §4 provides cross-disciplinary dialogue. §5 offers five middle-way corrections. §6 concludes.
+§2 adopts a sūtra-first citation architecture: Part A establishes sūtra foundations through the *Saṃyuktāgama*, *Saṃdhinirmocana Sūtra*, *Laṅkāvatāra Sūtra*, *Śūraṅgama Sūtra*, and *Ghanavyūha Sūtra*; Part B presents the treatise foundations through the *Cheng Weishi Lun*, *Yogācārabhūmi-śāstra*, *Mahāyānasaṃgraha*, and *Bashi Guiju Buzhu*. §3 unfolds the core argument following the three-verse structure. §4 provides cross-disciplinary dialogue. §5 offers five middle-way corrections. §6 concludes.
 
 ---
 
@@ -164,9 +164,9 @@ The *Mahāyānasaṃgraha* uses two similes — the lamp-wick and the bundle of 
 
 This simile reveals that the relationship between manas and the ālaya is not one-directional "passive apprehension." Rather, they are mutually causal in a dynamic loop — manas grasps the ālaya as self, and this very grasping perfumes back into the ālaya, generating deeper seeds of self-grasping.
 
-#### 2.9 The Bajishi Guiju Buzhu — Complete Commentary on the Three Verses
+#### 2.9 The Bashi Guiju Buzhu — Complete Commentary on the Three Verses
 
-The *Bajishi Guiju Buzhu* by the Ming-dynasty master Putai provides sentence-by-sentence commentary on all twelve verses, and is the most systematic sub-commentary for understanding Xuanzang's verse text. This paper draws extensively on it as a bridge between verse and treatise.[^25]
+The *Bashi Guiju Buzhu* by the Ming-dynasty master Putai provides sentence-by-sentence commentary on all twelve verses, and is the most systematic sub-commentary for understanding Xuanzang's verse text. This paper draws extensively on it as a bridge between verse and treatise.[^25]
 
 ---
 
@@ -180,7 +180,7 @@ The *Bajishi Guiju Buzhu* by the Ming-dynasty master Putai provides sentence-by-
 
 > "The first is called vipāka — the eighth consciousness, because its nature is predominantly karmic maturation. The second is called deliberation — the seventh consciousness, because it constantly and deliberatively cogitates. The third is called object-apprehension — the first six consciousnesses, because their object-apprehension is comparatively coarse."[^26]
 
-"Constant" means uninterrupted. "Deliberative" means examining and assessing, grasping at self. The *Bajishi Guiju Buzhu* arranges the eight consciousnesses in a four-fold analysis of constancy and deliberativeness:
+"Constant" means uninterrupted. "Deliberative" means examining and assessing, grasping at self. The *Bashi Guiju Buzhu* arranges the eight consciousnesses in a four-fold analysis of constancy and deliberativeness:
 
 > "First, constant but not deliberative: the eighth consciousness — it does not grasp at self, yet is never interrupted. Second, deliberative but not constant: the sixth consciousness — it grasps at self, yet is interrupted. Third, both constant and deliberative: the seventh consciousness — it grasps at self and is never interrupted. Fourth, neither constant nor deliberative: the first five consciousnesses — they do not grasp at self."[^27]
 
@@ -422,7 +422,7 @@ The Korean master Chinul, in *Admonitions for the Cultivation of the Mind*, capt
 
 The manas-vijñāna is the most hidden yet most critical structural component of Yogācāra theory. It reveals the practitioner's deepest predicament: self-grasping does not require your participation to run automatically — it was operating before you knew, it continues after you become aware, it persists even after you understand no-self.
 
-This paper has taken the three verses on the seventh consciousness as its framework and adopted a sūtra-first citation architecture to unfold the complete doctrine of manas layer by layer. The sūtra foundations — the Āgamas' mind-root and self-identity view, the *Saṃdhinirmocana Sūtra*'s mind—thought—consciousness tripartition, the *Laṅkāvatāra Sūtra*'s "thought as stage-manager," the *Śūraṅgama Sūtra*'s analysis of the mind sense-base as illusory, the *Ghanavyūha Sūtra*'s "like a magnet attracting iron" — establish canonical authority. The treatise foundations — the *Cheng Weishi Lun*'s systematic analysis, the *Yogācārabhūmi*'s four afflictions perpetually active, the *Mahāyānasaṃgraha*'s mutual causation, the *Bajishi Guiju Buzhu*'s verse commentary — complete the precise doctrinal architecture.
+This paper has taken the three verses on the seventh consciousness as its framework and adopted a sūtra-first citation architecture to unfold the complete doctrine of manas layer by layer. The sūtra foundations — the Āgamas' mind-root and self-identity view, the *Saṃdhinirmocana Sūtra*'s mind—thought—consciousness tripartition, the *Laṅkāvatāra Sūtra*'s "thought as stage-manager," the *Śūraṅgama Sūtra*'s analysis of the mind sense-base as illusory, the *Ghanavyūha Sūtra*'s "like a magnet attracting iron" — establish canonical authority. The treatise foundations — the *Cheng Weishi Lun*'s systematic analysis, the *Yogācārabhūmi*'s four afflictions perpetually active, the *Mahāyānasaṃgraha*'s mutual causation, the *Bashi Guiju Buzhu*'s verse commentary — complete the precise doctrinal architecture.
 
 The first verse addresses nature: the cognitive mode of objective appearance with substance, the subtle quality of obscured-neutral, the mediating position of bridging cognition and root, the perpetual error of non-valid cognition. The second verse addresses function: the unique positioning of constant deliberation, the internally generative logic of the four afflictions, the precise configuration of eighteen mental factors, the pivotal role as basis for defilement and purity, the three-tier architecture of sixth-eighth non-correspondence. The third verse addresses transformation: from the full defilement of the Accumulation stage, to the initial turning at the Path of Seeing, to the gradual cultivation of the Path of Cultivation, to effortless action at the eighth ground, to the complete fruition of equality wisdom at Buddhahood.
 
@@ -455,7 +455,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 3. *Mahāyānasaṃgraha* (攝大乘論), composed by Asaṅga, trans. Paramārtha (Chen), *Taishō* vol. 31, No. 1593.
 4. *Mahāyānasaṃgrahopanibandhana* (攝大乘論釋), commentary by Asvabhāva, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1598.
 5. *Śatadharmaprakāśamukha-śāstra* (百法明門論), composed by Vasubandhu, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1614.
-6. *Bajishi Guiju Buzhu* (八識規矩補註), sub-commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
+6. *Bashi Guiju Buzhu* (八識規矩補註), sub-commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
 7. *Zongjing Lu* (宗鏡錄), compiled by Yongming Yanshou (Song), *Taishō* vol. 48, No. 2016.
 8. *Susim Kyol* / *Xiuxin Jue* (修心訣), by Chinul (Goryeo), *Taishō* vol. 48, No. 2020.
 
@@ -481,7 +481,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 | 9 | Mahāyānasaṃgraha 攝大乘論 (Paramārtha) | T31 | No. 1593 | Fasc. 1 |
 | 10 | Mahāyānasaṃgrahopanibandhana 攝大乘論釋 (Asvabhāva) | T31 | No. 1598 | Fasc. 9 |
 | 11 | Śatadharmaprakāśamukha 百法明門論 | T31 | No. 1614 | Complete |
-| 12 | Bajishi Guiju Buzhu 八識規矩補註 | T45 | No. 1865 | Fasc. 1, 2 |
+| 12 | Bashi Guiju Buzhu 八識規矩補註 | T45 | No. 1865 | Fasc. 1, 2 |
 | 13 | Platform Sūtra 六祖大師法寶壇經 | T48 | No. 2008 | Fasc. 1 |
 | 14 | Zongjing Lu 宗鏡錄 | T48 | No. 2016 | Fasc. 52 |
 | 15 | Susim Kyol 修心訣 | T48 | No. 2020 | Fasc. 1 |
@@ -510,7 +510,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 [^1]: *Śatadharmaprakāśamukha-śāstra*: 「第一心法，略有八種：一眼識、二耳識、三鼻識、四舌識、五身識、六意識、七末那識、八阿賴耶識。」("Among the mind-dharmas, there are broadly eight types...") *Taishō* vol. 31, No. 1614.
 
-[^2]: *Bajishi Guiju Buzhu*, fasc. 2, seventh consciousness first verse (nature verse). *Taishō* vol. 45, No. 1865.
+[^2]: *Bashi Guiju Buzhu*, fasc. 2, seventh consciousness first verse (nature verse). *Taishō* vol. 45, No. 1865.
 
 [^3]: Ibid., seventh consciousness second verse (function verse).
 
@@ -556,15 +556,15 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 [^24]: *Mahāyānasaṃgraha* (Paramārtha trans.), fasc. 1: 「譬如燈光與燈炷，生及燒燃一時更互為因。又如蘆束，一時相依持故得住立。」("Just as the light of a lamp and the wick mutually serve as cause... and just as a bundle of reeds can stand upright by leaning on each other.") *Taishō* vol. 31, No. 1593.
 
-[^25]: *Bajishi Guiju Buzhu*, sub-commentary by Putai (Ming). *Taishō* vol. 45, No. 1865. Two fascicles providing sentence-by-sentence explanation of all twelve verses.
+[^25]: *Bashi Guiju Buzhu*, sub-commentary by Putai (Ming). *Taishō* vol. 45, No. 1865. Two fascicles providing sentence-by-sentence explanation of all twelve verses.
 
 [^26]: *Cheng Weishi Lun*, fasc. 2: 「一謂異熟，即第八識……三謂了境，即前六識。」("The first is called vipāka — the eighth consciousness... The third is called object-apprehension — the first six consciousnesses.") *Taishō* vol. 31, No. 1585.
 
-[^27]: *Bajishi Guiju Buzhu*, fasc. 2: 「恒之與審，於八識中四句分別：一恒而非審謂第八識……四非恒非審謂前五識。」("Regarding constancy and deliberativeness, the eight consciousnesses are analyzed in a four-fold scheme...") *Taishō* vol. 45, No. 1865.
+[^27]: *Bashi Guiju Buzhu*, fasc. 2: 「恒之與審，於八識中四句分別：一恒而非審謂第八識……四非恒非審謂前五識。」("Regarding constancy and deliberativeness, the eight consciousnesses are analyzed in a four-fold scheme...") *Taishō* vol. 45, No. 1865.
 
 [^28]: *Laṅkāvatāra Sūtra*: 「意如和伎者」(note 14) — "The stage-manager (和伎者) is present from curtain-rise to curtain-fall, perpetually coordinating without stepping on stage" — this corresponds precisely to manas's "both constant and deliberative" quality.
 
-[^29]: *Bajishi Guiju Buzhu*, fasc. 1: 「真帶質者：以心緣心，中間相分從兩頭生。」("True 'appearance with substance': mind apprehending mind, the intermediate representational image arising from both ends.") Ibid.
+[^29]: *Bashi Guiju Buzhu*, fasc. 1: 「真帶質者：以心緣心，中間相分從兩頭生。」("True 'appearance with substance': mind apprehending mind, the intermediate representational image arising from both ends.") Ibid.
 
 [^30]: *Ghanavyūha Sūtra*: 「如磁石吸鐵」(note 18) — magnetic attraction is automatic, perpetual, and requires no external force, just as manas's objective-with-substance apprehension of the eighth consciousness's perceiving aspect.
 
@@ -576,7 +576,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 [^34]: *Saṃdhinirmocana Sūtra*: 「阿陀那識為依止，六識身轉」(note 12) — the three-tier dependence structure (citta → manas → vijñāna) established in this sūtra is the canonical source for "bridging cognition and root."
 
-[^35]: *Bajishi Guiju Buzhu*, fasc. 2: 「此第七識，隨所緣第八見分，執之為我……於三量中唯是非量，不稱境知，恒謬度故。」("This seventh consciousness follows the eighth consciousness's perceiving aspect... among the three types of valid cognition, it is exclusively non-valid — not cognizing in accord with its object, constantly miscognizing.") *Taishō* vol. 45, No. 1865.
+[^35]: *Bashi Guiju Buzhu*, fasc. 2: 「此第七識，隨所緣第八見分，執之為我……於三量中唯是非量，不稱境知，恒謬度故。」("This seventh consciousness follows the eighth consciousness's perceiving aspect... among the three types of valid cognition, it is exclusively non-valid — not cognizing in accord with its object, constantly miscognizing.") *Taishō* vol. 45, No. 1865.
 
 [^36]: *Cheng Weishi Lun*, fasc. 4: 「我癡者謂無明，愚於我相，迷無我理……此四常起，擾濁內心，令外轉識恒成雜染。」("Self-delusion means ignorance... These four constantly arise, disturbing the inner mind, causing the outer active consciousnesses to be perpetually contaminated.") *Taishō* vol. 31, No. 1585.
 
@@ -590,7 +590,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 [^41]: Ibid. (fasc. 4): 「欲，希望未遂合事，此識任運緣遂合境，無所希望，故無有欲……慧即我見，故不別說。」("Desire is the wish for something not yet attained... Wisdom is self-view; hence it is not separately listed.")
 
-[^42]: *Bajishi Guiju Buzhu*, fasc. 2: 「蓋由此識有漏內常執我故，令第六識念念而成於染……是以第六成染成淨，皆由第七也。」("Because in its afflicted state this consciousness constantly grasps at self internally, it causes the sixth consciousness to become defiled moment by moment... Therefore whether the sixth becomes defiled or purified depends entirely on the seventh.") *Taishō* vol. 45, No. 1865.
+[^42]: *Bashi Guiju Buzhu*, fasc. 2: 「蓋由此識有漏內常執我故，令第六識念念而成於染……是以第六成染成淨，皆由第七也。」("Because in its afflicted state this consciousness constantly grasps at self internally, it causes the sixth consciousness to become defiled moment by moment... Therefore whether the sixth becomes defiled or purified depends entirely on the seventh.") *Taishō* vol. 45, No. 1865.
 
 [^43]: *Yogācārabhūmi-śāstra*, fasc. 51: 「又由有阿賴耶識故得有末那，由此末那為依止故，意識得轉。」("Furthermore, because the ālaya-vijñāna exists, manas comes into being; because manas serves as basis, mind-consciousness can turn.") *Taishō* vol. 30, No. 1579.
 
@@ -602,7 +602,7 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 [^47]: *Cheng Weishi Lun*, fasc. 1: 「然諸我執略有二種：一者俱生、二者分別……俱生我執……常相續在第七識……分別我執……唯在第六意識中有。」("Self-grasping is broadly of two types: innate and discriminatively acquired... Innate self-grasping perpetually continues in the seventh consciousness... Discriminatively acquired self-grasping exists only in the sixth.") Ibid.
 
-[^48]: *Bajishi Guiju Buzhu*, fasc. 2: 「單執末那居種位，平等性智不現前……謂第七識無力斷惑，與執全仗第六識也。」("When manas's single grasping resides in seed-position, equality wisdom does not manifest... The seventh consciousness itself has no power to sever afflictions; the power to counter its grasping depends entirely on the sixth consciousness.") *Taishō* vol. 45, No. 1865.
+[^48]: *Bashi Guiju Buzhu*, fasc. 2: 「單執末那居種位，平等性智不現前……謂第七識無力斷惑，與執全仗第六識也。」("When manas's single grasping resides in seed-position, equality wisdom does not manifest... The seventh consciousness itself has no power to sever afflictions; the power to counter its grasping depends entirely on the sixth consciousness.") *Taishō* vol. 45, No. 1865.
 
 [^49]: *Cheng Weishi Lun*, fasc. 9: 「第七識俱執我見等，與無漏道性相違故，八地以去方永不行，七地已來猶得現起。」("The self-view accompanying the seventh consciousness, being incompatible with the unafflicted path, definitively ceases to operate from the eighth ground onward, though through the seventh ground it can still intermittently arise.") *Taishō* vol. 31, No. 1585.
 

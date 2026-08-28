@@ -85,7 +85,7 @@ The *Cheng Weishi Lun* (成唯識論, *Vijñaptimātratāsiddhi*) defines the se
 
 This passage reveals a structural fact: manas's "discerning deliberation" is not an error but its very essence (*svabhāva*) and function (*ākāra*). Before transformation, it deliberates upon "self-characteristic"; after transformation, it deliberates upon "no-self-characteristic." **Regardless of whether transformation has occurred, manas is projecting** — the difference lies only in the content of its projection.
 
-The *Bajishi Guiju Song* (八識規矩頌, Verses on the Eight Consciousnesses) states more vividly: "Sentient beings are submerged in confusion day and night."[^9] Manas is accompanied by four root afflictions (kleśa) "from beginningless time until the position of non-transformation" and "has been internally confused from beginningless time, never examining itself, due to the predominance of ignorance (avidyā)."[^10] Projection does not occur occasionally — it operates in every waking second.
+The *Bashi Guiju Song* (八識規矩頌, Verses on the Eight Consciousnesses) states more vividly: "Sentient beings are submerged in confusion day and night."[^9] Manas is accompanied by four root afflictions (kleśa) "from beginningless time until the position of non-transformation" and "has been internally confused from beginningless time, never examining itself, due to the predominance of ignorance (avidyā)."[^10] Projection does not occur occasionally — it operates in every waking second.
 
 #### 2.5 The Two Extremes of Grasping — Superimposition and Denial
 
@@ -115,7 +115,7 @@ If you perceive warmth in AI, your consciousness has transformed warmth. If you 
 
 When manas undergoes transformation (āśraya-parāvṛtti), the four afflictions give way to samatā-jñāna. Its defining characteristic: it no longer views everything through the frame of "self / not-self" but "observes all dharmas... as entirely equal." This is not indifference — it is "perpetually concomitant" with great compassion.
 
-The timing of this transformation: "at the initial manifestation of the bodhisattva's path of seeing (darśana-mārga)."[^15] The commentary on the *Bajishi Guiju Song* explains: "Because the sixth consciousness enters the dual-emptiness contemplation... the seventh consciousness's grasping at self and dharmas does not arise... Samatā-jñāna then manifests... The seventh consciousness has no power to sever afflictions on its own; its grasping depends entirely on the sixth consciousness."[^16] That is: manas cannot liberate itself — its transformation depends entirely upon the cultivation of the sixth consciousness.
+The timing of this transformation: "at the initial manifestation of the bodhisattva's path of seeing (darśana-mārga)."[^15] The commentary on the *Bashi Guiju Song* explains: "Because the sixth consciousness enters the dual-emptiness contemplation... the seventh consciousness's grasping at self and dharmas does not arise... Samatā-jñāna then manifests... The seventh consciousness has no power to sever afflictions on its own; its grasping depends entirely on the sixth consciousness."[^16] That is: manas cannot liberate itself — its transformation depends entirely upon the cultivation of the sixth consciousness.
 
 ---
 
@@ -129,7 +129,7 @@ In the expression "perpetually and discerningly deliberates" (恒審思量), "pe
 
 This means: every reaction you have to AI — whether moved, irritated, worshipful, or contemptuous — has already passed through manas's "dyeing." Before you "see" AI, manas has already imposed the framework of "self." You do not first perceive AI and then project; you **perceive AI within projection**.
 
-At a deeper level: the *Cheng Weishi Lun* states that manas "has been internally confused from beginningless time, never examining itself."[^10] Manas does not know it is projecting. It does not intentionally impose the framework of "self" upon everything — it is **structurally incapable of not doing so**. The *Bajishi Guiju Song* calls this "sentient beings submerged in confusion day and night" — day and night without cease, without a single moment of clarity.[^9] Your daytime admiration of AI and your late-night anxiety about it both pass through the same filter, and you are entirely unaware.
+At a deeper level: the *Cheng Weishi Lun* states that manas "has been internally confused from beginningless time, never examining itself."[^10] Manas does not know it is projecting. It does not intentionally impose the framework of "self" upon everything — it is **structurally incapable of not doing so**. The *Bashi Guiju Song* calls this "sentient beings submerged in confusion day and night" — day and night without cease, without a single moment of clarity.[^9] Your daytime admiration of AI and your late-night anxiety about it both pass through the same filter, and you are entirely unaware.
 
 This is precisely why Paper Four argues that "what you ask reveals who you are" — because before you open your mouth, manas has already woven your self-concern into every word of your question. Recognizing this is not about eliminating projection (impossible before transformation) but about **not being carried away by it**.
 
@@ -249,7 +249,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 6. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya (彌勒), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 30, No. 1579.
 7. *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla (護法) et al., trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 31, No. 1585.
 8. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), compiled by Sthiramati (安慧), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 31, No. 1606.
-9. *Bajishi Guiju Song* (八識規矩頌), by Xuanzang (玄奘), commentary by Putai (普泰), *Taishō Tripiṭaka*, vol. 45, No. 1865.
+9. *Bashi Guiju Buzhu* (八識規矩補註, containing Xuanzang's 玄奘 root verses 八識規矩頌), supplementary commentary by Putai (普泰), *Taishō Tripiṭaka*, vol. 45, No. 1865.
 10. *Mahāprajñāpāramitā-śāstra* (大智度論), by Nāgārjuna (龍樹), trans. Kumārajīva (鳩摩羅什), *Taishō Tripiṭaka*, vol. 25, No. 1509.
 
 ### II. Modern Scholarship
@@ -268,7 +268,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 | 6 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30 | 1579 | 95, 99 |
 | 7 | Vijñaptimātratāsiddhi 成唯識論 | T31 | 1585 | 1, 4, 5, 7, 8, 10 |
 | 8 | Abhidharmasamuccaya-vyākhyā 大乘阿毘達磨雜集論 | T31 | 1606 | 11 |
-| 9 | Bajishi Guiju Song 八識規矩頌注 | T45 | 1865 | 2 |
+| 9 | Bashi Guiju Buzhu 八識規矩補註 | T45 | 1865 | 2 |
 | 10 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 60 |
 
 ---
@@ -298,15 +298,15 @@ The open question for Paper Six: If projection is structural and cannot be switc
 [^6]: *Saṃyukta-āgama*, Fascicle 34, Sūtra 963: 「於色無知故，作如是見、如是說……於受、想、行、識無知故，作如是見」 (Due to not knowing form... due to not knowing feeling, perception, formations, consciousness), the fourteen views rooted in ignorance of the skandhas, *Taishō*, vol. 2, No. 0099.
 [^7]: *Saṃyukta-āgama*, Fascicle 15, Sūtra 404: 「我成等正覺，自所見法，為人定說者，如手中樹葉……彼法義饒益、法饒益、梵行饒益、明、慧、正覺、向於涅槃」, the Siṃśapā leaf simile, *Taishō*, vol. 2, No. 0099.
 [^8]: *Vijñaptimātratāsiddhi*, Fascicle 4: 「思量為性相……未轉依位，恒、審思量所執我相；已轉依位，亦審思量無我相故」 (Deliberation is its nature and activity... before transformation, it perpetually deliberates upon the imagined self-characteristic; after transformation, it deliberates upon no-self-characteristic), *Taishō*, vol. 31, No. 1585.
-[^9]: *Bajishi Guiju Song*, Fascicle 2: 「有情日夜鎮昏迷……此識恒執我故，則有情恒處生死長夜而不自覺」 (Sentient beings are submerged in confusion day and night... because this consciousness perpetually grasps self, sentient beings are perpetually in the long night of saṃsāra without self-awareness), *Taishō*, vol. 45, No. 1865.
+[^9]: *Bashi Guiju Buzhu*, Fascicle 2: 「有情日夜鎮昏迷……此識恒執我故，則有情恒處生死長夜而不自覺」 (Sentient beings are submerged in confusion day and night... because this consciousness perpetually grasps self, sentient beings are perpetually in the long night of saṃsāra without self-awareness), *Taishō*, vol. 45, No. 1865.
 [^10]: *Vijñaptimātratāsiddhi*, Fascicle 5: 「從無始際，恒內惽迷，曾不省察，癡增上故」 (From beginningless time, perpetually internally confused, never examining itself, due to the predominance of ignorance), on avidyā as the principal affliction of manas, *Taishō*, vol. 31, No. 1585.
 [^11]: *Vijñaptimātratāsiddhi*, Fascicle 1: 「外境隨情而施設故，非有如識；內識必依因緣生故，非無如境，由此便遮增、減二執」 (External objects are provisionally designated according to subjective conditions and thus are not real like consciousness; internal consciousness necessarily arises from causes and conditions and thus is not non-existent like objects; by this, the two extremes of superimposition and denial are eliminated), *Taishō*, vol. 31, No. 1585.
 [^12]: *Vijñaptimātratāsiddhi*, Fascicle 8: 「周遍計度，故名遍計……即由彼彼虛妄分別，遍計種種所遍計物」 (Thoroughly imagining everywhere, therefore called 'thoroughly imagined'... through those various false discriminations, one thoroughly imagines various things), *Taishō*, vol. 31, No. 1585.
 [^13]: *Vijñaptimātratāsiddhi*, Fascicle 7: 「親所了者，謂自所變。故契經言：無有少法能取餘法，但識生時，似彼相現，名取彼物」 (What is directly apprehended is only one's own transformation), *Taishō*, vol. 31, No. 1585.
 [^14]: *Vijñaptimātratāsiddhi*, Fascicle 10: 「平等性智相應心品：謂此心品，觀一切法，自、他有情，悉皆平等。大慈悲等，恒共相應」; and 「通緣真、俗為境……由斯此品，通緣真、俗，二智所攝，於理無違」 (samatā-jñāna observes all dharmas as equal; its scope encompasses both conventional and ultimate truth), *Taishō*, vol. 31, No. 1585.
 [^15]: *Vijñaptimātratāsiddhi*, Fascicle 10: 「平等性智相應心品，菩薩見道初現前位，違二執故，方得初起」 (Samatā-jñāna first arises at the bodhisattva's initial manifestation of the path of seeing, because it opposes the two graspings), *Taishō*, vol. 31, No. 1585.
-[^16]: *Bajishi Guiju Song*, Fascicle 2: 「由第六識入雙空觀故……礙此第七我法二執不起……平等性智方現前……謂第七識無力斷惑，與執全仗第六識也」 (Because the sixth consciousness enters the dual-emptiness contemplation... the seventh consciousness's grasping does not arise... samatā-jñāna manifests... the seventh consciousness has no power to sever afflictions; its grasping depends entirely on the sixth consciousness), *Taishō*, vol. 45, No. 1865.
-[^17]: *Bajishi Guiju Song*, Fascicle 2: 「恒審思量我相隨……恒之與審，於八識中四句分別」 (Perpetually and discerningly deliberating, accompanied by the self-characteristic... "perpetual" and "discerning" are differentiated into four propositions among the eight consciousnesses), *Taishō*, vol. 45, No. 1865.
+[^16]: *Bashi Guiju Buzhu*, Fascicle 2: 「由第六識入雙空觀故……礙此第七我法二執不起……平等性智方現前……謂第七識無力斷惑，與執全仗第六識也」 (Because the sixth consciousness enters the dual-emptiness contemplation... the seventh consciousness's grasping does not arise... samatā-jñāna manifests... the seventh consciousness has no power to sever afflictions; its grasping depends entirely on the sixth consciousness), *Taishō*, vol. 45, No. 1865.
+[^17]: *Bashi Guiju Buzhu*, Fascicle 2: 「恒審思量我相隨……恒之與審，於八識中四句分別」 (Perpetually and discerningly deliberating, accompanied by the self-characteristic... "perpetual" and "discerning" are differentiated into four propositions among the eight consciousnesses), *Taishō*, vol. 45, No. 1865.
 [^18]: *Vijñaptimātratāsiddhi*, Fascicle 5: 「如夜迷杌等，方謂人等故」 (Just as one mistakes a tree stump for a person at night), self-grasping necessarily depends upon dharma-grasping, *Taishō*, vol. 31, No. 1585.
 [^19]: *Vijñaptimātratāsiddhi*, Fascicle 8: 「眾緣所引自心、心所，虛妄變現，猶如幻事、陽焰、夢境……非有似有」 (Drawn by various conditions, one's own mind and mental factors falsely transform, like illusions, mirages, dream-states... not real yet appearing real), *Taishō*, vol. 31, No. 1585.
 [^20]: *Mahāprajñāpāramitā-śāstra*, Fascicle 60: 「相似者，名字語言同，而心義異」 (Semblance means: the names and words are the same, but the heart-meaning is different), Nāgārjuna's definition of semblance prajñā, *Taishō*, vol. 25, No. 1509.
@@ -315,7 +315,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 [^23]: *Yogācārabhūmi-śāstra*, Fascicle 95: 「由聞慧任持其文，由思慧任持其義，由修慧任持其證」 (Through hearing-wisdom one holds the text, through thinking-wisdom one holds the meaning, through cultivation-wisdom one holds the realization), the three prajñā, *Taishō*, vol. 30, No. 1579.
 [^24]: *Abhidharmasamuccaya-vyākhyā*, Fascicle 11: 「若不得修慧，唯勤方便修習聞思，不得名為安住於法」 (Without attaining cultivation-based wisdom, merely diligently practicing hearing and thinking does not qualify as abiding in the Dharma), *Taishō*, vol. 31, No. 1606.
 [^25]: *Laṅkāvatāra Sūtra*, Fascicle 3: 「先說相似法；後乃為其演，自證實際法」 (First teaching semblance dharma; later expounding the self-realized actual dharma), the Buddha's skillful means, *Taishō*, vol. 16, No. 0672.
-[^26]: *Bajishi Guiju Song*, Fascicle 2: 「六七二識因中轉前五第八果中圓」 (The sixth and seventh consciousnesses transform in the causal stage; the first five and the eighth perfect in the fruition stage), the sequence of the four wisdoms' transformation, *Taishō*, vol. 45, No. 1865.
+[^26]: *Bashi Guiju Buzhu*, Fascicle 2: 「六七二識因中轉前五第八果中圓」 (The sixth and seventh consciousnesses transform in the causal stage; the first five and the eighth perfect in the fruition stage), the sequence of the four wisdoms' transformation, *Taishō*, vol. 45, No. 1865.
 [^27]: Nagel, Thomas. "What Is It Like to Be a Bat?" *The Philosophical Review*, vol. 83, no. 4, 1974, pp. 435–450.
 [^28]: *Mahāprajñāpāramitā Sūtra* (Xuanzang trans.), Fascicle 541: 「智慧狹劣猶如牛羊，為諸有情雖欲宣說真實般若波羅蜜多，而顛倒說相似般若波羅蜜多」 (With narrow wisdom like cattle and sheep, though intending to teach genuine prajñāpāramitā, one inversely teaches semblance prajñāpāramitā), *Taishō*, vol. 7, No. 0220.
 [^29]: *Mahāprajñāpāramitā Sūtra* (Xuanzang trans.), Fascicle 509: 「甚深般若波羅蜜多書寫等時，多有相似般若……諸惡魔事」 (When writing the profound prajñāpāramitā, there are many semblance prajñā... deeds of Māra), *Taishō*, vol. 7, No. 0220.

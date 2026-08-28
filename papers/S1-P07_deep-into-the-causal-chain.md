@@ -338,7 +338,7 @@ But the premise is—you must, like the farmer, plant first.
 - 《大乘起信論疏》*Dasheng Qixin Lun Shu* (*Commentary on the Awakening of Mahāyāna Faith*), by Fazang, Taishō vol. 44, No. 1846.
 - 《攝大乘論釋》*Mahāyānasaṃgraha-bhāṣya* (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
 - 《大方廣佛華嚴經》(八十卷本) *Avataṃsaka Sūtra* (80-fascicle edition), trans. Śikṣānanda, Taishō vol. 10, No. 0293.
-- 《八識規矩頌》*Bāshí Guījǔ Sòng* (*Verses on the Eight Consciousnesses*) and commentaries, Taishō vol. 45, No. 1865.
+- 《八識規矩補註》*Bāshí Guījǔ Bǔzhù* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, No. 1865.
 - 《阿毘達磨俱舍論》*Abhidharmakośabhāṣya*, composed by Vasubandhu, trans. Xuanzang, Taishō vol. 29, No. 1558.
 - 《大般涅槃經》*Mahāparinirvāṇa Sūtra*, trans. Dharmakṣema, Taishō vol. 12, No. 0374.
 
@@ -359,7 +359,7 @@ But the premise is—you must, like the farmer, plant first.
 | 5 | 大乘起信論疏 *Dasheng Qixin Lun Shu* | T44 | 1846 | II |
 | 6 | 攝大乘論釋 *Mahāyānasaṃgraha-bhāṣya* | T31 | 1595 | III |
 | 7 | 大方廣佛華嚴經 *Avataṃsaka Sūtra* | T10 | 0293 | III |
-| 8 | 八識規矩頌 *Bāshí Guījǔ Sòng* | T45 | 1865 | II |
+| 8 | 八識規矩補註 *Bāshí Guījǔ Bǔzhù* | T45 | 1865 | II |
 | 9 | 俱舍論 *Abhidharmakośabhāṣya* | T29 | 1558 | II |
 | 10 | 大般涅槃經 *Mahāparinirvāṇa Sūtra* | T12 | 0374 | III |
 
@@ -381,7 +381,7 @@ But the premise is—you must, like the farmer, plant first.
 [^1]: 《雜阿含經》卷二，求那跋陀羅譯，《大正藏》第2冊，No. 0099。*Saṃyuktāgama*, Fascicle 2, trans. Guṇabhadra, Taishō vol. 2, No. 0099.
 [^2]: 《雜阿含經》卷十三，第一義空經，《大正藏》第2冊，No. 0099。*Saṃyuktāgama*, Fascicle 13, "Sūtra on Ultimate Emptiness," Taishō vol. 2, No. 0099.
 [^3]: 《成唯識論》卷八，護法等菩薩造，唐玄奘譯，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 8, Taishō vol. 31, No. 1585.
-[^4]: 《八識規矩頌》及註疏，《大正藏》第45冊，No. 1865。*Bāshí Guījǔ Sòng* and commentaries, Taishō vol. 45, No. 1865.
+[^4]: 《八識規矩補註》卷上，第六識頌注，《大正藏》第45冊，No. 1865。*Bāshí Guījǔ Bǔzhù*, upper fascicle, annotation on the sixth-consciousness verses, Taishō vol. 45, No. 1865.
 [^5]: 《成唯識論》卷八，三種習氣段，《大正藏》第31冊，No. 1585。參見祖師語錄 T2016 卷76 同文。*Cheng Weishi Lun*, Fascicle 8, section on three types of vāsanā, Taishō vol. 31, No. 1585. Cf. patriarchal records T2016, Fascicle 76.
 [^6]: 《攝大乘論釋》（無性釋）卷二，《大正藏》第31冊，No. 1598。*Mahāyānasaṃgrahabhāṣya* (Asvabhāva), Fascicle 2, Taishō vol. 31, No. 1598.
 [^7]: 《大乘起信論疏》卷一，法藏撰，《大正藏》第44冊，No. 1846。*Dasheng Qixin Lun Shu*, Fascicle 1, by Fazang, Taishō vol. 44, No. 1846.

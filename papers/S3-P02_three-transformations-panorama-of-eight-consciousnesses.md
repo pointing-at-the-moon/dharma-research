@@ -321,7 +321,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 
 1. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
 2. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
-3. *Bajishi Guiju Buzhu* (八識規矩補註), by Putai (Ming), *Taishō* vol. 45, No. 1865.
+3. *Bashi Guiju Buzhu* (八識規矩補註), by Putai (Ming), *Taishō* vol. 45, No. 1865.
 4. *Zongjing Lu* (宗鏡錄), by Yongming Yanshou, *Taishō* vol. 48, No. 2016.
 5. *Cheng Weishi Lun Shuji* (成唯識論述記), by Kuiji, *Taishō* vol. 43, No. 1830.
 

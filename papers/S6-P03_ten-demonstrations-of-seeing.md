@@ -539,7 +539,7 @@ If your answer has changed from before you read this paper — the paper has ser
 
 [^30]: *Platform Sūtra*, Fasc. 1. "何期自性，本自清淨；何期自性，本不生滅……何期自性，能生萬法." T48, No. 2008.
 
-[^31]: See Shi Huijing, "The Sixth Consciousness: The Only Consciousness That Can Look in the Mirror," S3-P05/P06. "性境現量通三性" derives from the *Bāshí Guījǔ Sòng* 八識規矩頌 (T1865), verse on the first five consciousnesses.
+[^31]: See Shi Huijing, "The Sixth Consciousness: The Only Consciousness That Can Look in the Mirror," S3-P05/P06. "性境現量通三性" derives from the *Bāshí Guījǔ Sòng* 八識規矩頌 verse on the first five consciousnesses (preserved in Putai's *Bāshí Guījǔ Bǔzhù* 八識規矩補註, T45 No. 1865).
 
 [^32]: This argument is the author's interpretive extension based on the Śūraṅgama's first demonstration. The sūtra's progression from lamp → eye → seeing-nature ("見性是心非眼") supports the inference that when the eye-root is impaired, the seeing-nature persists (with darkness as the content of seeing). This inference requires the reader's own meditative verification — knowing the logic does not equal realizing the fact.
 

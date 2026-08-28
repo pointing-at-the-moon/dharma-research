@@ -868,13 +868,13 @@ Then start walking.
 
 [^54]: *Bāshí Guījǔ Sòng* 八識規矩補註, fasc. 1, "Perfect luminosity first arising, becoming outflow-free," first-five transformation verse, T45, No. 1865.
 
-[^55]: *Bāshí Guījǔ Sòng*, fasc. 1, "Arising at the Joyful Ground … observation perfectly luminous," sixth-consciousness transformation verse, T45, No. 1865.
+[^55]: *Bāshí Guījǔ Bǔzhù*, fasc. 1, "Arising at the Joyful Ground … observation perfectly luminous," sixth-consciousness transformation verse, T45, No. 1865.
 
-[^56]: *Bāshí Guījǔ Sòng*, fasc. 2, "Supreme Joy's first mind, equality-nature," seventh-consciousness transformation verse, T45, No. 1865.
+[^56]: *Bāshí Guījǔ Bǔzhù*, fasc. 2, "Supreme Joy's first mind, equality-nature," seventh-consciousness transformation verse, T45, No. 1865.
 
-[^57]: *Bāshí Guījǔ Sòng*, fasc. 2, "Before the Immovable, the storehouse relinquished … great mirror stainless," eighth-consciousness transformation verse, T45, No. 1865.
+[^57]: *Bāshí Guījǔ Bǔzhù*, fasc. 2, "Before the Immovable, the storehouse relinquished … great mirror stainless," eighth-consciousness transformation verse, T45, No. 1865.
 
-[^58]: *Bāshí Guījǔ Sòng*, fasc. 2, "Sixth and seventh transform in the cause; first five and eighth complete in the fruit," temporal summary, T45, No. 1865.
+[^58]: *Bāshí Guījǔ Bǔzhù*, fasc. 2, "Sixth and seventh transform in the cause; first five and eighth complete in the fruit," temporal summary, T45, No. 1865.
 
 [^59]: *Mahāyānasaṃgraha* 攝大乘論, fasc. 1, "Like the haṃsa drinking milk from water," water-and-milk analogy, T31, No. 1593.
 

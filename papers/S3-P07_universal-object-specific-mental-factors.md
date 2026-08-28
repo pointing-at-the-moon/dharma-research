@@ -20,9 +20,9 @@ license: "CC BY-NC-SA 4.0"
 
 The five universal mental factors (sarvatraga: attention, contact, feeling, perception, volition) and the five object-specific mental factors (viniyata: desire, conviction, mindfulness, concentration, wisdom) together constitute the minimal complete engine of every moment of mental activity. The universals are the five phases that inevitably activate in every moment of consciousness — whenever mind operates, these five are necessarily present. The object-specifics are the five directional controls that activate only under particular conditions — each arises only when its specific type of object is encountered. The difference between them is not one of relative importance but a structural distinction between "necessarily present" and "conditionally present."
 
-This paper takes the *Cheng Weishi Lun*'s "four universalities" (四一切) framework as its core analytical tool, the *Saṃyukta Āgama*'s contact→feeling→perception→volition causal chain as its Āgama doctrinal root, the *Saṃdhinirmocana Sūtra*'s śamatha-vipaśyanā teachings as sūtra-level authority for the object-specifics (concentration and wisdom), and the *Śūraṅgama Sūtra*'s accounts of the feeling-aggregate and perception-aggregate domains as practice-level verification. Drawing on the *Yogācārabhūmi-śāstra*, *Bajishi Guiju Buzhu*, *Śatadharmaprakāśamukha-śāstra*, and *Pañcaskandha-prakaraṇa* as treatise foundations, it systematically unfolds the complete doctrine of all ten factors.
+This paper takes the *Cheng Weishi Lun*'s "four universalities" (四一切) framework as its core analytical tool, the *Saṃyukta Āgama*'s contact→feeling→perception→volition causal chain as its Āgama doctrinal root, the *Saṃdhinirmocana Sūtra*'s śamatha-vipaśyanā teachings as sūtra-level authority for the object-specifics (concentration and wisdom), and the *Śūraṅgama Sūtra*'s accounts of the feeling-aggregate and perception-aggregate domains as practice-level verification. Drawing on the *Yogācārabhūmi-śāstra*, *Bashi Guiju Buzhu*, *Śatadharmaprakāśamukha-śāstra*, and *Pañcaskandha-prakaraṇa* as treatise foundations, it systematically unfolds the complete doctrine of all ten factors.
 
-§II establishes the scriptural foundations in two tiers: sūtras (five groups of Āgama texts on contact-feeling-perception-volition, *Saṃdhinirmocana* śamatha-vipaśyanā teachings, *Śūraṅgama* feeling and perception domains, *Avataṃsaka* mindfulness-concentration-wisdom in the ten grounds, *Laṅkāvatāra* five dharmas and three self-natures), then treatises (*Cheng Weishi Lun* universal and object-specific definitions, four universalities framework, volition and the three types of karma, *Yogācārabhūmi* parallel definitions, *Bajishi Guiju Buzhu* mental-factor configurations for each consciousness group). §III unfolds the core argument in three layers: the universals as inevitable ignition (four universalities, causal chain, four consciousness-group differences, contact-feeling-perception-volition individually), the object-specifics as on-demand activation (object-specific conditions, desire-conviction-mindfulness-concentration-wisdom individually), and the structural relationship between the two groups. §IV offers cognitive appraisal theory, mindfulness research, and flow theory as heuristic cross-disciplinary analogies. §V provides five middle-way corrections.
+§II establishes the scriptural foundations in two tiers: sūtras (five groups of Āgama texts on contact-feeling-perception-volition, *Saṃdhinirmocana* śamatha-vipaśyanā teachings, *Śūraṅgama* feeling and perception domains, *Avataṃsaka* mindfulness-concentration-wisdom in the ten grounds, *Laṅkāvatāra* five dharmas and three self-natures), then treatises (*Cheng Weishi Lun* universal and object-specific definitions, four universalities framework, volition and the three types of karma, *Yogācārabhūmi* parallel definitions, *Bashi Guiju Buzhu* mental-factor configurations for each consciousness group). §III unfolds the core argument in three layers: the universals as inevitable ignition (four universalities, causal chain, four consciousness-group differences, contact-feeling-perception-volition individually), the object-specifics as on-demand activation (object-specific conditions, desire-conviction-mindfulness-concentration-wisdom individually), and the structural relationship between the two groups. §IV offers cognitive appraisal theory, mindfulness research, and flow theory as heuristic cross-disciplinary analogies. §V provides five middle-way corrections.
 
 **Keywords:** universal mental factors (sarvatraga), object-specific mental factors (viniyata), four universalities, contact (sparśa), feeling (vedanā), perception (saṃjñā), volition (cetanā), attention (manaskāra), desire (chanda), conviction (adhimokṣa), mindfulness (smṛti), concentration (samādhi), wisdom (prajñā)
 
@@ -52,7 +52,7 @@ This is not an abstract classification exercise. Understanding this difference d
 
 This paper covers the first two groups of mental factors in the hundred dharmas: the five universals (attention, contact, feeling, perception, volition) and the five object-specifics (desire, conviction, mindfulness, concentration, wisdom) — ten factors in total. These ten already appeared in S3-P03 through P06 in their roles as factors associated with specific consciousnesses. This paper reverses the perspective: instead of consciousness as protagonist, the mental factors themselves take center stage.
 
-The paper follows a two-tier sūtra→treatise architecture. §II establishes scriptural foundations in two layers: sūtras (Āgama, *Saṃdhinirmocana*, *Śūraṅgama*, *Avataṃsaka*, *Laṅkāvatāra*) and treatises (*Cheng Weishi Lun*, *Yogācārabhūmi*, *Bajishi Guiju Buzhu*, *Śatadharmaprakāśamukha-śāstra*, *Pañcaskandha-prakaraṇa*). §III unfolds the core argument in three layers: universals, object-specifics, and their structural relationship. §IV offers cross-disciplinary parallels. §V provides middle-way corrections. §VI concludes.
+The paper follows a two-tier sūtra→treatise architecture. §II establishes scriptural foundations in two layers: sūtras (Āgama, *Saṃdhinirmocana*, *Śūraṅgama*, *Avataṃsaka*, *Laṅkāvatāra*) and treatises (*Cheng Weishi Lun*, *Yogācārabhūmi*, *Bashi Guiju Buzhu*, *Śatadharmaprakāśamukha-śāstra*, *Pañcaskandha-prakaraṇa*). §III unfolds the core argument in three layers: universals, object-specifics, and their structural relationship. §IV offers cross-disciplinary parallels. §V provides middle-way corrections. §VI concludes.
 
 ---
 
@@ -348,9 +348,9 @@ The *Pañcaskandha-prakaraṇa* lists an identical classification and confirms:
 
 Both treatises agree, establishing the standard version of Yogācāra mental-factor theory.
 
-#### 2.15 Bajishi Guiju Buzhu: Mental-Factor Configurations for Each Consciousness
+#### 2.15 Bashi Guiju Buzhu: Mental-Factor Configurations for Each Consciousness
 
-The *Bajishi Guiju Buzhu* provides the clearest panorama of how universals and object-specifics are configured across the four consciousness groups:
+The *Bashi Guiju Buzhu* provides the clearest panorama of how universals and object-specifics are configured across the four consciousness groups:
 
 Eighth consciousness: "Its nature is solely unobscured [neutrality] with the five universals" — only the five universals, "because the rest are mutually incompatible."[^60]
 
@@ -507,7 +507,7 @@ Desire (chanda) — "hoping for what is desired as its nature; serving as the ba
 
 Desire is the neutral function of "hoping": you hope to obtain a certain object. That object can be the five sense-pleasures (which makes it afflictive when combined with the craving mental factor) or the Dharma (which makes it wholesome when combined with wholesome factors). The *Cheng Weishi Lun* specifically notes that desire's function is "serving as the basis for diligence" — without desire (the aspiration for right Dharma), there is no diligence (sustained practice effort).
 
-The *Bajishi Guiju Buzhu* further analyzes three types of desired objects: the delightful, the sought, and the wished-to-observe. The third — "wished-to-observe" — is most central: a meditator's wish to observe the breath, thoughts, or the nature of mind — this wish is the most fundamental motive force of practice.[^91]
+The *Bashi Guiju Buzhu* further analyzes three types of desired objects: the delightful, the sought, and the wished-to-observe. The third — "wished-to-observe" — is most central: a meditator's wish to observe the breath, thoughts, or the nature of mind — this wish is the most fundamental motive force of practice.[^91]
 
 One of the most common confusions among practitioners: "Doesn't Buddhism teach 'freedom from desire'? Why does practice need 'desire'?" The answer: what is to be freed from is afflictive desire (desire combined with root afflictions), not Dharma-desire (desire combined with wholesome factors). "Freedom from desire" does not mean eliminating the hoping function but transforming the direction of hope — from the five sense-pleasures to right Dharma.
 
@@ -555,7 +555,7 @@ The *Yogācārabhūmi* supplements the definition with a crucial detail:
 
 Wisdom pervades all three natures — appropriately drawn is wholesome wisdom, inappropriately drawn is unwholesome wisdom, and neither is neutral wisdom. This means "cleverness" does not equal "wisdom": a person can be highly skilled at analysis and reasoning (strong wisdom mental factor), but if the object is a wrong view (inappropriately drawn), that wisdom becomes a sharp instrument for creating unwholesome karma. The "sharpness" of the five sharp fetters (personality view, extreme view, wrong view, attachment to views, attachment to precepts-and-vows) is precisely the manifestation of unwholesome wisdom — discernment that is swift and sharp but misdirected.[^103]
 
-Wisdom's further uniqueness: it is the only object-specific factor that associates with the seventh consciousness (manas). The *Bajishi Guiju Buzhu* explicitly states: manas associates with "wisdom from the object-specifics"; the other four "do not associate because they are mutually incompatible."[^104] Manas's wisdom is its "discrimination" function when grasping the ālaya-vijñāna's subjective aspect as "self" — though this is erroneous discrimination (inappropriately drawn wisdom), psychologically it is still wisdom at work. This is why manas's self-grasping is so stubborn: it is not blind grasping but grasping accompanied by "discrimination" (albeit erroneous).
+Wisdom's further uniqueness: it is the only object-specific factor that associates with the seventh consciousness (manas). The *Bashi Guiju Buzhu* explicitly states: manas associates with "wisdom from the object-specifics"; the other four "do not associate because they are mutually incompatible."[^104] Manas's wisdom is its "discrimination" function when grasping the ālaya-vijñāna's subjective aspect as "self" — though this is erroneous discrimination (inappropriately drawn wisdom), psychologically it is still wisdom at work. This is why manas's self-grasping is so stubborn: it is not blind grasping but grasping accompanied by "discrimination" (albeit erroneous).
 
 ### 3.3 The Structural Relationship Between Universals and Object-Specifics
 
@@ -737,7 +737,7 @@ Next, we will enter the third group of mental factors — the eleven wholesome f
 
 *Yogācārabhūmi-śāstra* (瑜伽師地論). Maitreya. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 30, No. 1579.
 
-*Bajishi Guiju Buzhu* (八識規矩補註). Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
+*Bashi Guiju Buzhu* (八識規矩補註). Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
 
 *Śatadharmaprakāśamukha-śāstra* (大乘百法明門論). Vasubandhu. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1614.
 
@@ -766,7 +766,7 @@ Lazarus, R. S., and S. Folkman. *Stress, Appraisal, and Coping*. New York: Sprin
 | 7 | Laṅkāvatāra Sūtra 大乘入楞伽經 | T16 | 0672 | 5 |
 | 8 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 1, 3, 5, 6 |
 | 9 | Yogācārabhūmi 瑜伽師地論 | T30 | 1579 | 1, 3 |
-| 10 | Bajishi Guiju Buzhu 八識規矩補註 | T45 | 1865 | Upper, Lower |
+| 10 | Bashi Guiju Buzhu 八識規矩補註 | T45 | 1865 | Upper, Lower |
 | 11 | Śatadharmaprakāśamukha-śāstra 百法明門論 | T31 | 1614 | 1 |
 | 12 | Pañcaskandha-prakaraṇa 大乘五蘊論 | T31 | 1612 | 1 |
 
@@ -910,15 +910,15 @@ Lazarus, R. S., and S. Folkman. *Stress, Appraisal, and Coping*. New York: Sprin
 
 [^59]: 大乘五蘊論 *Pañcaskandha-prakaraṇa* fasc. 1: 「五是遍行，五是別境」 Classification confirmation. T31, No. 1612.
 
-[^60]: 八識規矩補註 *Bajishi Guiju Buzhu* lower fasc.: 「性唯無覆五遍行……相應心所唯遍行五，餘互違故」 Eighth consciousness configuration. T45, No. 1865.
+[^60]: 八識規矩補註 *Bashi Guiju Buzhu* lower fasc.: 「性唯無覆五遍行……相應心所唯遍行五，餘互違故」 Eighth consciousness configuration. T45, No. 1865.
 
-[^61]: 八識規矩補註 *Bajishi Guiju Buzhu* lower fasc.: 「八大遍行別境慧貪癡我見慢相隨……何非餘俱，互相違故」 Seventh consciousness configuration. T45, No. 1865.
+[^61]: 八識規矩補註 *Bashi Guiju Buzhu* lower fasc.: 「八大遍行別境慧貪癡我見慢相隨……何非餘俱，互相違故」 Seventh consciousness configuration. T45, No. 1865.
 
-[^62]: 八識規矩補註 *Bajishi Guiju Buzhu* upper fasc.: 「遍行別境善十一中二大八貪瞋癡」 First five consciousnesses configuration. T45, No. 1865.
+[^62]: 八識規矩補註 *Bashi Guiju Buzhu* upper fasc.: 「遍行別境善十一中二大八貪瞋癡」 First five consciousnesses configuration. T45, No. 1865.
 
-[^63]: 八識規矩補註 *Bajishi Guiju Buzhu* upper fasc.: 「相應心所五十一……唯此第六，心所俱全互不違故」 Sixth consciousness configuration. T45, No. 1865.
+[^63]: 八識規矩補註 *Bashi Guiju Buzhu* upper fasc.: 「相應心所五十一……唯此第六，心所俱全互不違故」 Sixth consciousness configuration. T45, No. 1865.
 
-[^64]: 八識規矩補註 *Bajishi Guiju Buzhu* upper fasc.: 「遍四一切心得行故，謂遍三性八識九地一切時也」 Why universals are called "universal." T45, No. 1865.
+[^64]: 八識規矩補註 *Bashi Guiju Buzhu* upper fasc.: 「遍四一切心得行故，謂遍三性八識九地一切時也」 Why universals are called "universal." T45, No. 1865.
 
 [^65]: See note [52] for the four universalities comparison.
 
@@ -972,7 +972,7 @@ Lazarus, R. S., and S. Folkman. *Stress, Appraisal, and Coping*. New York: Sprin
 
 [^90]: See note [47].
 
-[^91]: 八識規矩補註 *Bajishi Guiju Buzhu* upper fasc.: 「所樂境有三：可忻境、所求境、所欲觀境。第三解正」 Three types of desired objects. T45, No. 1865.
+[^91]: 八識規矩補註 *Bashi Guiju Buzhu* upper fasc.: 「所樂境有三：可忻境、所求境、所欲觀境。第三解正」 Three types of desired objects. T45, No. 1865.
 
 [^92]: See note [48].
 
