@@ -451,6 +451,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 10. *Bashi Guiju Buzhu* (八識規矩補註), by Putai, *Taishō* vol. 45, No. 1865.
 11. *Pañcaskandhaka-prakaraṇa* (大乘五蘊論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1612.
 12. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
+13. *Shou Lengyan Yishu Zhujing* (首楞嚴義疏注經), by Zixuan 子璿, *Taishō* vol. 39, No. 1799.
 
 ### II. Modern Scholarship
 
@@ -477,6 +478,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 | 10 | Bashi Guiju Buzhu 八識規矩補註 | T45 | 1865 | 1 |
 | 11 | Pañcaskandhaka 大乘五蘊論 | T31 | 1612 | 1 |
 | 12 | Śatadharmaprakāśamukha 百法明門論 | T31 | 1614 | 1 |
+| 13 | Shou Lengyan Yishu Zhujing 首楞嚴義疏注經 | T39 | 1799 | 10a |
 
 ---
 
@@ -528,7 +530,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 [^25]: 《解深密經》fasc. 3, obstacles to śamatha: attachment to body and possessions (craving-obstacle) and agitation with remorse (distraction-obstacle), *Taishō* vol. 16, No. 676.
 [^26]: 《楞嚴經》fasc. 10, domain of the formation-aggregate, *Taishō* vol. 19, No. 945.
 [^27]: 《楞嚴經》fasc. 10, "如是十種禪那狂解，皆是行陰用心交互，故現斯悟" (All ten kinds of dhyāna derangement arise from the formation-aggregate's interactive mental activity), *Taishō* vol. 19, No. 945.
-[^28]: Commentary notes: "行陰十魔為心魔非外魔" (The ten demons of the formation-aggregate are mind-demons, not external demons). See 《楞嚴經正脈疏》fasc. 7.
+[^28]: Zixuan, 《首楞嚴義疏注經》, fasc. 10a: 「想陰未盡猶引外魔，今想陰盡行陰明露，但於所覺境界別生異見，執此為是，故云心魔」 (While the perception-aggregate is not yet exhausted it still draws external demons; once it is exhausted and the formation-aggregate lies exposed, aberrant views arise toward what is realized and are grasped as right — hence "mind-demons"). *Taishō* vol. 39, No. 1799.
 [^29]: 《大智度論》fasc. 20, "大悲是一切諸佛菩薩功德之根本，是般若波羅蜜之母，諸佛之祖母" (Great compassion is the root of all buddhas' and bodhisattvas' merit, the mother of prajñā-pāramitā, the grandmother of all buddhas), *Taishō* vol. 25, No. 1509.
 [^30]: 《大智度論》fasc. 27, three kinds of compassion, *Taishō* vol. 25, No. 1509.
 [^31]: 《大智度論》fasc. 27, distinction between great and lesser compassion, *Taishō* vol. 25, No. 1509.
