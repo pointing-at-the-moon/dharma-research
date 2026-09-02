@@ -317,7 +317,7 @@ In the Śūraṅgama Sūtra, twenty-five bodhisattvas each describe the gate of 
 **First appears**: Śūraṅgama Sūtra, fascicles 5–6 (T19 No. 945).
 **In this book**: 6.5 The Twenty-Five Perfect Penetrations.
 
-### 種子 · seed(s) (bīja) / 現行 · actualization (abhisamācāra)
+### 種子 · seed(s) (bīja) / 現行 · actualization (samudācāra)
 The Yogācāra doctrine of perfuming: the latent force that an action leaves behind is called a seed; the activation of a seed is called actualization; the actualization in turn perfumes new seeds; and so the cycle runs.
 **First appears**: Saṃdhinirmocana Sūtra; Mahāyānasaṃgraha, fascicle 2; Cheng Weishi Lun, fascicle 2.
 **In this book**: 1.1 (the seeds of shared karma); 3.4 (the seeds of the ālaya).
