@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P11"
 paper_number: 11
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Three Practitioners, One Sūtra: The Unity of Exoteric and Esoteric in the Heart Sūtra
@@ -526,7 +526,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^40]: See note [^9].
 [^41]: See note [^10].
 [^42]: *Yōuzàn*, fasc. 2: "Ordinary beings have deviant wisdom — hence 'right' awakening; śrāvakas have partial wisdom — hence 'equal'; bodhisattvas have incomplete wisdom — hence again 'right'; only the Buddha has perfect realization and alone bears the complete name." *Taishō* vol. 33, no. 1710.
-[^43]: Fazang's *Brief Commentary*, fasc. 1. Fazang's interpretation of "all Buddhas of the three times relying on prajñā": "no other path, only this single gate." *Taishō* vol. 33, no. 1712.
+[^43]: Fazang's *Brief Commentary*, fasc. 1, *Taishō* vol. 33, no. 1712, p.554c03. Fazang's gloss on "all Buddhas of the three times relying on prajñāpāramitā": 「第二、得菩提智果。於中有二，初、舉人依法，二、明得果。今初也。謂三世諸佛更無異路，唯此一門，故云『依般若波羅蜜多故』也。」 The quoted phrase is verbatim (verified against CBETA, 2026-09-10); its context is Fazang's explanation of the four characters "relying on prajñā."
 [^44]: *Mahāprajñāpāramitāśāstra*, fasc. 34. Prajñā governs the five pāramitās; the five pāramitās without prajñā are merely conditioned merit that cannot progress toward bodhi. *Taishō* vol. 25, no. 1509.
 [^45]: *Mahāprajñāpāramitāśāstra*, fasc. 40: "Buddhas are called 'the unequalled'; prajñāpāramitā gives birth to the Buddhas; therefore it is called 'the unequalled-equalling pāramitā.'" *Taishō* vol. 25, no. 1509.
 [^46]: Fazang's *Brief Commentary*, fasc. 1. Twofold division: "Explicit speech generates wisdom-understanding and extinguishes the affliction-obstruction; secret speech, through recitation, generates merit and extinguishes the karmic-offense-obstruction. To extinguish the two obstructions and accomplish the two adornments, these two sections are taught." *Taishō* vol. 33, no. 1712.
@@ -534,7 +534,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^48]: *Vajracchedikā-ṭīkā*, fasc. 5: "Seven-treasure merit is the cause of affliction-stained [karma], because it can bring about affliction-laden results." Mark-grasping merit is conditioned. *Taishō* vol. 25, no. 1512.
 [^49]: Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Processes*. Ed. Michael Cole et al. Cambridge, MA: Harvard University Press, 1978. Chapter 6, "Interaction between Learning and Development." ZPD theory and the scaffolding concept.
 [^50]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha trans.), fasc. 3: "Right hearing means hearing with focused reverence and without distortion." *Taishō* vol. 31, no. 1595.
-[^51]: *Yōuzàn*, fasc. 2. Citing Maitreya's verse on the ten dharma practices: "Copying, making offerings, giving to others, listening, reading, retaining, correctly expounding, chanting, reflecting, cultivating." *Taishō* vol. 33, no. 1710.
+[^51]: *Yōuzàn*, fasc. 2, *Taishō* vol. 33, no. 1710, p.542b05–b08: 「勸諸學者皆於此經修十法行，慈氏頌言：謂書寫供養，施他聽披讀，受持正開演，諷誦及思修。」 Citing Maitreya's verse on the ten dharma practices: copying, making offerings, giving to others, listening, reading, retaining, correctly expounding, chanting, reflecting, cultivating (verse verified against CBETA, 2026-09-10).
 
 ---
 

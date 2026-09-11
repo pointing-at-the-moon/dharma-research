@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Form Is Emptiness: The Assembly Line of Suffering
@@ -243,7 +243,7 @@ Why say it twice? It is not repetition but two distinct pedagogical methods.
 "Not different" is *dismantling* (pò 破) — dismantling the mistaken cognition that form and emptiness are separate.
 "Is" is *establishing* (lì 立) — establishing the right view that form and emptiness are originally one.
 
-First dismantle, then establish. Kuījī calls this "double negation, double affirmation" (shuāngpò shuānglì 雙破雙立)[^16].
+First dismantle, then establish. Woncheuk's *Prajñāpāramitā-hṛdaya-sūtra Zàn* reads the four lines this way: "the first two lines state the thesis directly; the last two dispel outsiders' doubts." This paper summarises that thesis-then-dispelling structure as "double negation, double affirmation" (shuāngpò shuānglì 雙破雙立)[^16].
 
 "Form is emptiness": The table before you — its conditioned assembly of wood, nails, and a craftsman's skill — its very functioning is the manifestation of emptiness-nature. It is not that behind the table there is an "emptiness"; the table's very conditioned nature is emptiness.
 
@@ -364,7 +364,7 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 ### Commentarial Literature
 
 5. Kuījī 窺基, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710.
-6. Kuījī 窺基, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711.
+6. Woncheuk 圓測, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711.
 7. Fazang 法藏, *Prajñāpāramitā-hṛdaya-sūtra Lüèshū* 《般若波羅蜜多心經略疏》, Taishō vol. 33, No. 1712.
 
 ### Modern Scholarship
@@ -430,7 +430,7 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 [^15]: *Madhyama Āgama* 《中阿含經》, translated by Gautama Saṅghadeva, Taishō vol. 1, No. 0026, fascicle 21. The analogy of a chicken feather and sinew placed in fire.
 
-[^16]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711, fascicle 1. Following Dharmapāla's interpretation of the four lines, mapping the three natures onto the four lines on form and emptiness. "Not different" functions as apophasis (negating separation); "is" functions as cataphasis (affirming identity) — together constituting "double negation, double affirmation."
+[^16]: Woncheuk 圓測, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711, fascicle 1, p.545a14–b04: 「今依三性以釋四句，於四句中，初之二句標宗正說，後之二句遣外疑情。『色不異空』者，標俗不異真；『空不異色』者，標真不異俗。」 Woncheuk then sets out the readings of Bhāviveka and Dharmapāla on "form is emptiness." "Not different" functions as apophasis (negating separation); "is" functions as cataphasis (affirming identity). "Double negation, double affirmation" is this paper's summary label for that thesis/dispelling structure, not Woncheuk's own term. (Authorship of T1711 follows the CBETA responsibility field 「唐 圓測撰」; version 1.0 of this paper wrongly attributed it to Kuījī, corrected in 1.1.)
 
 [^17]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 3, sūtra 63. Imputing a self → not separating from "mine" → entering the sense faculties → contact → suffering and pleasure.
 
