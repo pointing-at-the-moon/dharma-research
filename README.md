@@ -18,7 +18,7 @@ The Buddha shared everything he realized without restriction — no intellectual
 
 All citations are transparent, all arguments are laid open. Scrutiny and questioning are welcome — because true reality withstands examination from every angle.
 
-📖 完整宣言 / Full manifesto: [中文](諸法實相.md) · [English](true-nature-of-all-dharmas.md)
+📖 完整宣言 / Full manifesto: [中文](research/foundations/諸法實相.md) · [English](research/foundations/true-nature-of-all-dharmas.md)
 
 ---
 
