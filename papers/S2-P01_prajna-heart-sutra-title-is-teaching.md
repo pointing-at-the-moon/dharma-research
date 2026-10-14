@@ -1,14 +1,14 @@
 ---
-title: "Prajnā · Heart · Sūtra — The Title IS the Teaching"
+title: "Prajñā · Heart · Sūtra — The Title IS the Teaching"
 author: "Shi Huijing 釋慧鏡"
 series_short: "S2"
 paper_id: "S2-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
-# Prajnā · Heart · Sūtra — The Title IS the Teaching
+# Prajñā · Heart · Sūtra — The Title IS the Teaching
 
 **A Yogācāra Three-Nature Reinterpretation of the Heart Sutra's Title**
 
