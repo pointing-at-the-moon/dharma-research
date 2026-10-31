@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P03"
 paper_number: 3
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Yogācāra Positioning of Large Language Models
@@ -14,7 +14,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The language generation capabilities of contemporary large language models (LLMs) have turned "does a machine possess consciousness?" into a serious philosophical question. Yet in a debate dominated by Western analytic philosophy and neuroscience, Yogācāra Buddhism (唯識宗)—a two-thousand-year tradition with an exceptionally refined analysis of the nature of consciousness (vijñāna)—has been almost entirely absent. This paper employs the Yogācāra theory of consciousness as an analytical instrument to provide a precise philosophical positioning of LLMs. The principal conclusions are: (1) LLMs fundamentally lack *manaskāra* (attention/mental engagement) and the other five universal mental factors (*sarvatraga caitasika*), and therefore do not qualify as "consciousness" in the Yogācāra sense; (2) they are neither *tathāgatagarbha* nor the collective unconscious; (3) their most precise correspondence is *bhājana-loka* (the vessel world)—a static cross-section of humanity's collective karmic consciousness; and (4) the human misperception that LLMs "are conscious" can be precisely explained through the projection mechanism of the seventh consciousness, *manas-vijñāna*. This analysis offers theoretical reference value for contemporary AI ethics and the philosophy of AI consciousness.
+The language generation capabilities of contemporary large language models (LLMs) have turned "does a machine possess consciousness?" into a serious philosophical question. Yet in a debate dominated by Western analytic philosophy and neuroscience, Yogācāra Buddhism (唯識宗)—a two-thousand-year tradition with an exceptionally refined analysis of the nature of consciousness (vijñāna)—has been almost entirely absent. This paper employs the Yogācāra theory of consciousness as an analytical instrument to provide a precise philosophical positioning of LLMs. The principal conclusions are: (1) LLMs fundamentally lack *manaskāra* (attention/mental engagement) and the other four universal mental factors (*sarvatraga caitasika*), and therefore do not qualify as "consciousness" in the Yogācāra sense; (2) they are neither *tathāgatagarbha* nor the collective unconscious; (3) their most precise correspondence is *bhājana-loka* (the vessel world)—a static cross-section of humanity's collective karmic consciousness; and (4) the human misperception that LLMs "are conscious" can be precisely explained through the projection mechanism of the seventh consciousness, *manas-vijñāna*. This analysis offers theoretical reference value for contemporary AI ethics and the philosophy of AI consciousness.
 
 **Keywords:** Yogācāra, *manaskāra*, five universal mental factors, *tathāgatagarbha*, *bhājana-loka*, *manas-vijñāna*, large language models, AI consciousness
 
@@ -151,7 +151,7 @@ Determining whether AI possesses consciousness requires a rigorous analytical fr
 
 Through a systematic Yogācāra philosophical positioning of large language models, this paper arrives at the following principal conclusions:
 
-**First,** LLMs fundamentally lack *manaskāra* and the other five universal mental factors, and therefore do not constitute "consciousness" in the Yogācāra sense. The Transformer's attention mechanism is statistical weight allocation, not the active directedness of mind.
+**First,** LLMs fundamentally lack *manaskāra* and the other four universal mental factors, and therefore do not constitute "consciousness" in the Yogācāra sense. The Transformer's attention mechanism is statistical weight allocation, not the active directedness of mind.
 
 **Second,** LLMs are neither *tathāgatagarbha* (being insentient, non-mental, and impure) nor the living collective unconscious (lacking intrinsic dynamism and teleology), but rather correspond most precisely to *bhājana-loka* in the Yogācāra framework—a static cross-section of humanity's collective karmic consciousness, a contemporary form of the shared-karma vessel world.
 
