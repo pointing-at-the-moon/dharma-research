@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P05"
 paper_number: 5
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit
@@ -50,7 +50,7 @@ The merit of giving depends not only on what is given and to whom (the merit-fie
 
 The *Saṃyuktāgama* (Fascicle 46) records a striking case:
 
-> "In a past life, Mahānāma encountered the pratyekabuddha Tikāraśikhin and offered him a meal. But he gave without pure faith, without respect, not with his own hands, and afterward regretted it, saying: 'This food could have been given to my servants—why did I waste it on a renunciant!' Through the merit of this offering, he was reborn seven times in the Heaven of the Thirty-Three and seven times in the most noble families of Śrāvastī, with the greatest wealth. Yet because at the time of offering to the pratyekabuddha he lacked pure faith, did not give with his own hands, did not give respectfully, and regretted it afterward—wherever he was reborn, despite possessing wealth, he could only enjoy coarse clothing, coarse food, shabby bedding, dwellings, and vehicles, and never once experienced refined sights, sounds, fragrances, tastes, or tactile pleasures."[^3]
+> "In a past life, Mahānāma encountered the pratyekabuddha Tagaraśikhin and offered him a meal. But he gave without pure faith, without respect, not with his own hands, and afterward regretted it, saying: 'This food could have been given to my servants—why did I waste it on a renunciant!' Through the merit of this offering, he was reborn seven times in the Heaven of the Thirty-Three and seven times in the most noble families of Śrāvastī, with the greatest wealth. Yet because at the time of offering to the pratyekabuddha he lacked pure faith, did not give with his own hands, did not give respectfully, and regretted it afterward—wherever he was reborn, despite possessing wealth, he could only enjoy coarse clothing, coarse food, shabby bedding, dwellings, and vehicles, and never once experienced refined sights, sounds, fragrances, tastes, or tactile pleasures."[^3]
 
 The doctrinal point is surgically precise: Mahānāma's recipient was a pratyekabuddha—one of the highest possible merit-fields. Yet because he gave "without pure faith, without respect, not with his own hands, and with subsequent regret," the karmic fruit was large in *quantity* (fourteen lifetimes of wealth) but abysmal in *quality* (only coarse enjoyment). **The difference lay entirely in the giver's mind.**
 
@@ -324,7 +324,7 @@ The core arguments of this paper may be summarized as follows:
 
 [^5]: *Dīrghāgama*, Fascicle 11, *Siṅgālaka-sūtra*. T01, No. 1. Translated by Buddhayaśas and Zhu Fonian.
 
-[^6]: *Vajracchedikā Prajñāpāramitā Sūtra*. T08, No. 235. Translated by Kumārajīva.
+[^6]: *Vajracchedikā Prajñāpāramitā Sūtra* (佛說能斷金剛般若波羅蜜多經). T08, No. 239. Translated by Yijing.
 
 [^7]: *Cheng Weishi Lun*, Fascicle 5. T31, No. 1585. Composed by Dharmapāla et al., translated by Xuanzang.
 
@@ -340,7 +340,7 @@ The core arguments of this paper may be summarized as follows:
 
 [^13]: *Ekottarāgama*, Fascicle 40. T02, No. 125. Translated by Gautama Saṅghadeva.
 
-[^14]: The RAG-retrieved quotation derives from Xuanzang's translation, *Nengduan Jingang Bore Boluomiduo Jing* (T08, No. 239). The body text follows that version. The reference section also lists Kumārajīva's translation (T08, No. 235) for reader comparison.
+[^14]: The RAG-retrieved quotation derives from Yijing's translation, *Nengduan Jingang Bore Boluomiduo Jing* (T08, No. 239). The body text follows that version. The reference section also lists Kumārajīva's translation (T08, No. 235) for reader comparison.
 
 ---
 
