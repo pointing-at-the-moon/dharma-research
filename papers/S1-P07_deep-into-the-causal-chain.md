@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P07"
 paper_number: 7
 date: "2026-03"
-version: "0.1"
+version: "0.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Deep into the Causal Chain — Shaping Your Future
@@ -107,7 +107,7 @@ Seeds perfumed by conditioned wholesome karma attract favorable rebirths; seeds 
 
 Once seeds enter the ālaya-vijñāna, they do not simply sit waiting for a trigger to explode. They **transmit continuously in succession**—passing along within the stream of consciousness, like an undercurrent in a river.
 
-The *Mahāyānasaṃgrahabhāṣya* (Asaṅga's commentary) poses a critical question:
+The *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary) poses a critical question:
 
 > 若離阿賴耶識，何處安立彼業種子，而復得言生果現前轉名為有？[^6]
 
@@ -117,7 +117,7 @@ Without the ālaya-vijñāna, where would karmic seeds be stored? How could one 
 
 **Step Four: Affliction-Moistening (潤生)**
 
-Seeds exist within the ālaya-vijñāna, but they do not automatically bear fruit. They require **affliction-moistening**—the nourishment of kleśa (afflictions). The *Dasheng Qixin Lun Shu* states explicitly:
+Seeds exist within the ālaya-vijñāna, but they do not automatically bear fruit. They require **affliction-moistening**—the nourishment of kleśa (afflictions). The *Dasheng Qixin Lun Yiji* states explicitly:
 
 > 引持過去無明所發諸行善惡業種，令成堪任成果之有。若無惑潤，業種焦亡。[^7]
 
@@ -184,7 +184,7 @@ This is not superstition. It is a precise causal system: whatever quality of see
 
 If "determinacy of nature" (svabhāva-niyata) were the whole story, then seed theory would collapse into fatalism—your past lives determined everything, and you can change nothing. But "determinacy of nature" is only one-sixth of the six characteristics. Five other characteristics counterbalance it:
 
-**Seeds can grow.** A Sanlun (Mādhyamika) school source states:
+**Seeds can grow.** The *Yuqie Lun Ji* 瑜伽論記 (Dunlun's record of commentary on the *Yogācārabhūmi*, fascicle 14; Taishō vol. 42, No. 1828) states:
 
 > 業所熏成種......運運增長名成就業。若限勢過及希望止，業種不增即名捨業。
 
@@ -335,9 +335,9 @@ But the premise is—you must, like the farmer, plant first.
 - 《成唯識論》*Cheng Weishi Lun* (*Vijñaptimātratāsiddhi*), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
 - 《攝大乘論釋》(無性釋) *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary), trans. Xuanzang, Taishō vol. 31, No. 1598.
 - 《大乘阿毘達磨集論》*Abhidharmasamuccaya*, composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, No. 1605.
-- 《大乘起信論疏》*Dasheng Qixin Lun Shu* (*Commentary on the Awakening of Mahāyāna Faith*), by Fazang, Taishō vol. 44, No. 1846.
+- 《大乘起信論義記》*Dasheng Qixin Lun Yiji* (*Commentary on the Awakening of Mahāyāna Faith*), by Fazang, Taishō vol. 44, No. 1846.
 - 《攝大乘論釋》*Mahāyānasaṃgraha-bhāṣya* (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
-- 《大方廣佛華嚴經》(八十卷本) *Avataṃsaka Sūtra* (80-fascicle edition), trans. Śikṣānanda, Taishō vol. 10, No. 0293.
+- 《大方廣佛華嚴經》(四十卷本) *Avataṃsaka Sūtra* (40-fascicle edition), trans. Prajñā, Taishō vol. 10, No. 0293.
 - 《八識規矩補註》*Bāshí Guījǔ Bǔzhù* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, No. 1865.
 - 《阿毘達磨俱舍論》*Abhidharmakośabhāṣya*, composed by Vasubandhu, trans. Xuanzang, Taishō vol. 29, No. 1558.
 - 《大般涅槃經》*Mahāparinirvāṇa Sūtra*, trans. Dharmakṣema, Taishō vol. 12, No. 0374.
@@ -356,7 +356,7 @@ But the premise is—you must, like the farmer, plant first.
 | 2 | 成唯識論 *Cheng Weishi Lun* | T31 | 1585 | II, III, V |
 | 3 | 攝大乘論釋（無性）*Mahāyānasaṃgrahabhāṣya* (Asvabhāva) | T31 | 1598 | II |
 | 4 | 大乘阿毘達磨集論 *Abhidharmasamuccaya* | T31 | 1605 | II |
-| 5 | 大乘起信論疏 *Dasheng Qixin Lun Shu* | T44 | 1846 | II |
+| 5 | 大乘起信論義記 *Dasheng Qixin Lun Yiji* | T44 | 1846 | II |
 | 6 | 攝大乘論釋 *Mahāyānasaṃgraha-bhāṣya* | T31 | 1595 | III |
 | 7 | 大方廣佛華嚴經 *Avataṃsaka Sūtra* | T10 | 0293 | III |
 | 8 | 八識規矩補註 *Bāshí Guījǔ Bǔzhù* | T45 | 1865 | II |
@@ -384,19 +384,19 @@ But the premise is—you must, like the farmer, plant first.
 [^4]: 《八識規矩補註》卷上，第六識頌注，《大正藏》第45冊，No. 1865。*Bāshí Guījǔ Bǔzhù*, upper fascicle, annotation on the sixth-consciousness verses, Taishō vol. 45, No. 1865.
 [^5]: 《成唯識論》卷八，三種習氣段，《大正藏》第31冊，No. 1585。參見祖師語錄 T2016 卷76 同文。*Cheng Weishi Lun*, Fascicle 8, section on three types of vāsanā, Taishō vol. 31, No. 1585. Cf. patriarchal records T2016, Fascicle 76.
 [^6]: 《攝大乘論釋》（無性釋）卷二，《大正藏》第31冊，No. 1598。*Mahāyānasaṃgrahabhāṣya* (Asvabhāva), Fascicle 2, Taishō vol. 31, No. 1598.
-[^7]: 《大乘起信論疏》卷一，法藏撰，《大正藏》第44冊，No. 1846。*Dasheng Qixin Lun Shu*, Fascicle 1, by Fazang, Taishō vol. 44, No. 1846.
-[^8]: 《阿毘達磨俱舍論》卷一，「異熟因不善及善唯有漏」，《大正藏》第29冊，No. 1558。另見祖師語錄 T2016 卷71：「因通善惡，果唯無記。」*Abhidharmakośabhāṣya*, Fascicle 1, Taishō vol. 29, No. 1558. Cf. patriarchal records T2016, Fascicle 71: "Causes span good and evil; fruit is exclusively indeterminate."
+[^7]: 《大乘起信論義記》卷中末，法藏撰，《大正藏》第44冊，No. 1846。*Dasheng Qixin Lun Yiji*, Fascicle 2 (卷中末), by Fazang, Taishō vol. 44, No. 1846.
+[^8]: 《阿毘達磨俱舍論》卷六，「異熟因不善及善唯有漏」，《大正藏》第29冊，No. 1558。另見祖師語錄 T2016 卷71：「因通善惡，果唯無記。」*Abhidharmakośabhāṣya*, Fascicle 6, Taishō vol. 29, No. 1558. Cf. patriarchal records T2016, Fascicle 71: "Causes span good and evil; fruit is exclusively indeterminate."
 [^9]: 《大乘阿毘達磨集論》卷七，《大正藏》第31冊，No. 1605。*Abhidharmasamuccaya*, Fascicle 7, Taishō vol. 31, No. 1605.
 [^10]: 《成唯識論》卷二，「然種子義略有六種」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 2, Taishō vol. 31, No. 1585.
 [^11]: 《大方廣佛華嚴經》卷二十六，《大正藏》第10冊，No. 0293。*Avataṃsaka Sūtra*, Fascicle 26, Taishō vol. 10, No. 0293.
-[^13]: 《淨土祖師著作》卷七，《大正藏》第47冊，No. 1960。Pure Land patriarchal writings, Fascicle 7, Taishō vol. 47, No. 1960.
+[^13]: 《釋淨土群疑論》卷七，懷感撰，《大正藏》第47冊，No. 1960。*Shi Jingtu Qunyi Lun*, by Huaigan, Fascicle 7, Taishō vol. 47, No. 1960.
 [^14]: 《攝大乘論釋》（真諦譯）卷三，《大正藏》第31冊，No. 1595。*Mahāyānasaṃgraha-bhāṣya*, Fascicle 3, Taishō vol. 31, No. 1595.
 [^15]: 《成唯識論》卷八，「異熟因去果相遠」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 8, Taishō vol. 31, No. 1585.
 [^16]: Carey, N. *The Epigenetics Revolution.* Columbia University Press, 2012, Ch. 1.
 [^17]: Jablonka, E. and Lamb, M. J. *Evolution in Four Dimensions.* MIT Press, 2014, Ch. 4.
 [^18]: Yehuda, R. et al. "Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation." *Biological Psychiatry* 80.5 (2016): 372–380.
 [^19]: 釋慧鏡，「覺察即轉向——作意心所與量子觀測者效應的修行義理」，指月 dharma-research，2026。Shi Huijing, "Awareness as Turning Point—Manaskāra and the Quantum Observer Effect in Buddhist Practice," Point-to-the-moon dharma-research, 2026.
-[^20]: 「眾生畏果，菩薩畏因」見《大般涅槃經》及諸祖師語錄。此為佛教因果觀的經典概括。"Sentient beings fear fruit; bodhisattvas fear cause"—found in the *Mahāparinirvāṇa Sūtra* and various patriarchal records. A classic summation of the Buddhist view of causality.
+[^20]: 「眾生畏果，菩薩畏因」見諸祖師語錄。此為佛教因果觀的經典概括。"Sentient beings fear fruit; bodhisattvas fear cause"—found in various patriarchal records. A classic summation of the Buddhist view of causality.
 
 ---
 
