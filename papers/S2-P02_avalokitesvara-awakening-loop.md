@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P02"
 paper_number: 2
 date: "2026-03"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Avalokiteśvara: The Four Links of the Awakening Loop
@@ -356,7 +356,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 |-------|------|------------|
 | Avalokiteśvara — compassion-wisdom, ten freedoms | Youzan, fasc. 1 | T1710 |
 | Avalokiteśvara — principle-phenomena unobstructed | Brief Commentary, fasc. 1 | T1712 |
-| Avalokiteśvara — pratyavekṣaṇā-jñāna | Heart Sūtra Commentary, fasc. 1 | T1711 |
+| Bodhi — four-wisdom scheme (pratyavekṣaṇā-jñāna) | Heart Sūtra Commentary, fasc. 1 | T1711 |
 | Avalokiteśvara vs Avalokitasvara (translation) | Yujia lunji, fasc. 21 | T1828 |
 | Avalokiteśvara — complete meaning | Lüeshu lianzhuji (T1713), fasc. 2 | T1713 |
 | Deep practice — two dimensions of depth | Heart Sūtra Commentary, fasc. 1 | T1711 |
