@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P04"
 paper_number: 4
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Illuminating the Emptiness of the Five Aggregates: An Insight Already Within
@@ -461,7 +461,7 @@ Hohwy, J. *The Predictive Mind*. Oxford University Press, 2013.
 
 [^23]: *Saṃyukta Āgama* fascicle 10 (sūtra 265), the foam sūtra and the five-aggregate similes. 《大正藏》第2冊，No. 0099。
 
-[^24]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, in the voice of the proponent of superior emptiness (勝空者言, T33n1710 0536a07): "Like a moth emerging from its cocoon, forever leaving its wrapping behind, one thereby transcends suffering." 《大正藏》第33冊，No. 1710。
+[^24]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, in the voice of the proponent of superior emptiness (勝空者言, T33n1710 0536a05–a07): "Like a moth emerging from its cocoon, forever leaving its wrapping behind, one thereby transcends suffering." 《大正藏》第33冊，No. 1710。
 
 [^25]: *Chéng Wéishí Lùn* fascicle 9, definition of āśraya-parāvṛtti: "To relinquish the thoroughly imagined nature superimposed upon the other-dependent, and to obtain the perfectly accomplished nature within the other-dependent." 《大正藏》第31冊，No. 1585。
 
