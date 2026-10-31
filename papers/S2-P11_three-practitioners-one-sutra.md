@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P11"
 paper_number: 11
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Three Practitioners, One Sūtra: The Unity of Exoteric and Esoteric in the Heart Sūtra
@@ -109,7 +109,7 @@ When prajñā is present, the Buddha is present — because prajñā is the root
 
 ### 2.2 Bodhisattva-Fruit and Buddha-Fruit: Kuiji's Causal and Fruition Reliance
 
-Kuiji, in the *Yōuzàn* (Profound Praise of the Heart Sūtra), divides "Bodhisattvas relying on prajñā ... ultimate nirvāṇa" and "All Buddhas of the three times relying on prajñā ... anuttara-samyak-saṃbodhi" into two distinct levels of reliance:
+Kuiji, in the *Youzan* (Profound Praise of the Heart Sūtra), divides "Bodhisattvas relying on prajñā ... ultimate nirvāṇa" and "All Buddhas of the three times relying on prajñā ... anuttara-samyak-saṃbodhi" into two distinct levels of reliance:
 
 > "The above praises the causal reliance — the benefit of severing obstructive defilements. Below it praises the fruition reliance — the benefit of attaining bodhi."[^9]
 
@@ -127,7 +127,7 @@ Kuiji cites the Diamond Sūtra as proof: "All Buddhas emerge from this sūtra; a
 
 ### 2.3 The Four Mantra Epithets
 
-The Heart Sūtra calls prajñā "the great spirit mantra, the great illumination mantra, the unsurpassed mantra, the unequalled mantra." Kuiji's *Yōuzàn* provides two layers of interpretation.
+The Heart Sūtra calls prajñā "the great spirit mantra, the great illumination mantra, the unsurpassed mantra, the unequalled mantra." Kuiji's *Youzan* provides two layers of interpretation.
 
 The first layer (Dharmapāla lineage) offers functional descriptions:
 
@@ -181,7 +181,7 @@ The *Mahāyānasaṃgraha* (Paramārtha's translation) establishes the core thes
 
 "Outflow of the supremely pure dharma-realm" — the dharma-realm realized by the awakened. "Right hearing" — hearing without distortion. "Perfuming" — repeated impressioning. The supramundane mind — the mind that transcends saṃsāra. Dharma-realm → scripture → hearing → perfuming → supramundane mind: a complete causal chain.
 
-Paramārtha's *Mahāyānasaṃgrahabhāṣya* provides the clearest definition:
+Vasubandhu's *Mahāyānasaṃgrahabhāṣya* (in Paramārtha's translation) provides the clearest definition:
 
 > "The ear-consciousness hears sounds, triggering the mental consciousness to arise; relying on words and sentences, it discriminates their meaning; through repeated practice, a capacity is generated; holding and not forgetting — this is called hearing-perfuming."[^24]
 
@@ -193,7 +193,7 @@ Hearing-perfuming has three grades: lower (hearing-wisdom), middle (thinking-wis
 
 > "The hearing-perfuming of lower, middle, and upper grades should be known as dharmakāya seeds."[^26]
 
-A beginner's hearing — even at the lower grade — is already a dharmakāya seed. Paramārtha goes further: the hearing-perfuming attained by "a bodhisattva who is just beginning practice," though it is a "worldly dharma," belongs to the dharmakāya "because it serves as the cause for attaining the dharmakāya."[^27] A supramundane seed growing within a mundane context — because its cause (dharma-realm outflow) and its fruit (dharmakāya) are both supramundane.
+A beginner's hearing — even at the lower grade — is already a dharmakāya seed. Vasubandhu goes further: the hearing-perfuming attained by "a bodhisattva who is just beginning practice," though it is a "worldly dharma," belongs to the dharmakāya "because it serves as the cause for attaining the dharmakāya."[^27] A supramundane seed growing within a mundane context — because its cause (dharma-realm outflow) and its fruit (dharmakāya) are both supramundane.
 
 The *Cheng Weishi Lun* offers Dharmapāla's synthetic position: innate uncontaminated seeds exist from beginningless time, but hearing-perfuming is needed to strengthen them:
 
@@ -255,7 +255,7 @@ The intermediate practitioner's hearing-perfuming has progressed from the lower 
 
 The advanced practitioner no longer "uses" the Heart Sūtra but "lives" it. When they recite "Avalokiteśvara Bodhisattva," contemplation is already happening. When they recite "practicing deep prajñāpāramitā," prajñā is already operating within the formations-aggregate. When they recite "illuminated the emptiness of the five aggregates," illumination is occurring in that very moment. Each recitation is a clearing of dust from the mirror's surface — not removing something foreign, but allowing what has always been pure to appear.
 
-The advanced practitioner's hearing-perfuming is of the upper grade (cultivation-wisdom). Paramārtha's commentary describes the progression: "As hearing-perfuming of the lower, middle, and upper grades progressively increases, so the resultant-maturation consciousness progressively decreases — this is the turning of the basis."[^37] Hearing-perfuming increases, the contaminated consciousness decreases — pure forces grow, defiled forces recede. This is āśraya-parāvṛtti, the turning of the basis. The advanced practitioner is in the process of turning.
+The advanced practitioner's hearing-perfuming is of the upper grade (cultivation-wisdom). Vasubandhu's commentary describes the progression: "As hearing-perfuming of the lower, middle, and upper grades progressively increases, so the resultant-maturation consciousness progressively decreases — this is the turning of the basis."[^37] Hearing-perfuming increases, the contaminated consciousness decreases — pure forces grow, defiled forces recede. This is āśraya-parāvṛtti, the turning of the basis. The advanced practitioner is in the process of turning.
 
 What is the common starting point for all three practitioners? Generating the mind of awakening (bodhicitta). S1-P01 demonstrated the butterfly effect of initial aspiration — when the first thought at the causal ground is correctly directed, the Dharma-stream will find you.[^38] S1-P02 demonstrated the dharmakāya's trans-temporal blessing — the one who generates the aspiration is received by the Dharma-stream, not through one's own power but through prajñā itself extending its welcome.[^39] From beginner to advanced practitioner, the seed of prajñā and the fruit of prajñā are the same thing — only the degree of purity differs.
 
@@ -431,7 +431,7 @@ Cross. Ferry others across. To the other shore. Everyone together to the other s
 
 ### II. Classical Commentaries
 
-*Prajñāpāramitāhṛdaya-sūtra Yōuzàn* (般若波羅蜜多心經幽贊). By Kuiji. *Taishō* vol. 33, no. 1710.
+*Prajñāpāramitāhṛdaya-sūtra Youzan* (般若波羅蜜多心經幽贊). By Kuiji. *Taishō* vol. 33, no. 1710.
 
 *Prajñāhṛdaya-sūtra-zàn* (般若心經贊). By Woncheuk. *Taishō* vol. 33, no. 1711.
 
@@ -456,11 +456,11 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 | 7 | Guṇamati's *Vajracchedikā-śāstra* | T25 | 1515 | 1, 2 |
 | 8 | *Mahāyānasaṃgraha* (Paramārtha) | T31 | 1593 | 1, 2, 3 |
 | 9 | *Mahāyānasaṃgraha* (Xuanzang) | T31 | 1594 | 1 |
-| 10 | *Mahāyānasaṃgrahabhāṣya* (Paramārtha) | T31 | 1595 | 3, 13 |
+| 10 | *Mahāyānasaṃgrahabhāṣya* (Vasubandhu, tr. Paramārtha) | T31 | 1595 | 3, 13 |
 | 11 | *Mahāyānasaṃgrahabhāṣya* (Vasubandhu/Xuanzang) | T31 | 1597 | 3 |
 | 12 | *Mahāyānasaṃgrahabhāṣya* (Asvabhāva/Xuanzang) | T31 | 1598 | 3, 6 |
 | 13 | *Vijñaptimātratāsiddhi* | T31 | 1585 | 2, 10 |
-| 14 | *Yōuzàn* (Kuiji) | T33 | 1710 | Fasc. 2 |
+| 14 | *Youzan* (Kuiji) | T33 | 1710 | Fasc. 2 |
 | 15 | Heart Sūtra Commentary (Woncheuk) | T33 | 1711 | 1 |
 | 16 | Heart Sūtra Brief Commentary (Fazang) | T33 | 1712 | 1 |
 | 17 | Heart Sūtra Commentary (T1714) | T33 | 1714 | 1 |
@@ -492,19 +492,19 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^6]: *Mahāprajñāpāramitāśāstra*, fasc. 18: "Prajñā is their mother, giving birth and nourishing. The Buddha is the father of sentient beings; prajñā gives birth to the Buddha — thus it is the grandmother of all sentient beings." *Taishō* vol. 25, no. 1509.
 [^7]: *Mahāprajñāpāramitāśāstra*, fasc. 58: "Prajñāpāramitā is the mother of all Buddhas in the ten directions, and it is also the teacher of all Buddhas." *Taishō* vol. 25, no. 1509.
 [^8]: *Mahāprajñāpāramitāśāstra*, fasc. 100: "When prajñā exists in the world, it is as if the Buddha exists ... When the teacher is present and the mother is present, one cannot say that benefit is lost. Why? Because the root of benefit is present." Exhortation chapter. *Taishō* vol. 25, no. 1509.
-[^9]: *Yōuzàn*, fasc. 2: "The above praises the causal reliance — the benefit of severing obstructive defilements. Below it praises the fruition reliance — the benefit of attaining bodhi." Kuiji's distinction between causal and fruition reliance. *Taishō* vol. 33, no. 1710.
-[^10]: *Yōuzàn*, fasc. 2: "This manifests the five dharmas: first, the pure dharma-realm ... the remaining four wisdoms are conditioned merits." *Taishō* vol. 33, no. 1710.
-[^11]: *Yōuzàn*, fasc. 2, citing the *Vajracchedikā*: "All Buddhas emerge from this sūtra," and the *Prajñā Liqu-fen*. *Taishō* vol. 33, no. 1710.
-[^12]: *Yōuzàn*, fasc. 2. Dharmapāla-lineage reading: "Marvelous functioning without limit is 'spirit'; illuminating even the most hidden is 'bright'; supreme and first is 'unsurpassed'; nothing comparable to compare with is 'unequalled.'" *Taishō* vol. 33, no. 1710.
-[^13]: *Yōuzàn*, fasc. 2. Four kinds of dhāraṇī: dharma (condensing extensive teaching), meaning (condensing extensive meaning), capacity (attaining non-arising patience), mantra (secret speech). *Taishō* vol. 33, no. 1710.
-[^14]: *Yōuzàn*, fasc. 2. Alternative reading: "This prajñā is the mantra spoken by the great spirit ... the unequalled ones." *Taishō* vol. 33, no. 1710.
+[^9]: *Youzan*, fasc. 2: "The above praises the causal reliance — the benefit of severing obstructive defilements. Below it praises the fruition reliance — the benefit of attaining bodhi." Kuiji's distinction between causal and fruition reliance. *Taishō* vol. 33, no. 1710.
+[^10]: *Youzan*, fasc. 2: "This manifests the five dharmas: first, the pure dharma-realm ... the remaining four wisdoms are conditioned merits." *Taishō* vol. 33, no. 1710.
+[^11]: *Youzan*, fasc. 2, citing the *Vajracchedikā*: "All Buddhas emerge from this sūtra," and the *Prajñā Liqu-fen*. *Taishō* vol. 33, no. 1710.
+[^12]: *Youzan*, fasc. 2. Dharmapāla-lineage reading: "Marvelous functioning without limit is 'spirit'; illuminating even the most hidden is 'bright'; supreme and first is 'unsurpassed'; nothing comparable to compare with is 'unequalled.'" *Taishō* vol. 33, no. 1710.
+[^13]: *Youzan*, fasc. 2. Four kinds of dhāraṇī: dharma (condensing extensive teaching), meaning (condensing extensive meaning), capacity (attaining non-arising patience), mantra (secret speech). *Taishō* vol. 33, no. 1710.
+[^14]: *Youzan*, fasc. 2. Alternative reading: "This prajñā is the mantra spoken by the great spirit ... the unequalled ones." *Taishō* vol. 33, no. 1710.
 [^15]: Woncheuk's *Heart Sūtra Commentary*, fasc. 1: "Unfathomable spiritual function is the great spirit mantra; dispelling darkness and removing delusion is the great illumination mantra; surpassing the two vehicles is 'unsurpassed'; transcending bodhisattvas, equal to the Buddha's wisdom — hence 'unequalled.'" *Taishō* vol. 33, no. 1711.
 [^16]: *Heart Sūtra Commentary* (T1714), fasc. 1. Four mantra epithets: great spirit mantra overcomes māra-obstacles; great illumination mantra extinguishes the darkness of ignorance; unsurpassed mantra reveals ultimate principle; unequalled mantra is the supremely wondrous fruit. Also: "The former is the explicit teaching; the latter is the secret teaching ... because beings differ in faculties." *Taishō* vol. 33, no. 1714.
 [^17]: Fazang's *Brief Commentary*, fasc. 1: "It cannot be interpreted, for this is the secret speech of all Buddhas, beyond the understanding of those at the causal stage." *Taishō* vol. 33, no. 1712.
 [^18]: Fazang's *Brief Commentary*, fasc. 1. Word-by-word "forced interpretation": gate = go/cross; pāra = other shore; saṃ = together/universally; bodhi = great bodhi; svāhā = swiftly. *Taishō* vol. 33, no. 1712.
 [^19]: Woncheuk's *Heart Sūtra Commentary*, fasc. 1. Three interpretive systems: crossing meaning, excellence meaning, Three Jewels meaning. *Taishō* vol. 33, no. 1711.
 [^20]: Woncheuk's *Heart Sūtra Commentary*, fasc. 1. Non-translatable position: "This mantra is the authentic sound of the Western regions, a secret formula — translating it would destroy its efficacy." *Taishō* vol. 33, no. 1711.
-[^21]: *Yōuzàn*, fasc. 2: "The Buddha, through kalpas of wisdom-and-compassion practice, compressed into abbreviated words — the meaning is profound, the teaching vast, not easy to elaborate." *Taishō* vol. 33, no. 1710.
+[^21]: *Youzan*, fasc. 2: "The Buddha, through kalpas of wisdom-and-compassion practice, compressed into abbreviated words — the meaning is profound, the teaching vast, not easy to elaborate." *Taishō* vol. 33, no. 1710.
 [^22]: Transliteration comparison across five versions: 竭帝 (T0250, Kumārajīva), 揭帝 (T0251, Xuanzang), 揭諦 (T0252, Dharmacandra), 峩帝 (T0253, Prajñā & Riguang), 誐帝 (T0254, Prajñācakra — closest to Sanskrit *gate*, adds oṃ, uses "mantra" not "spell").
 [^23]: *Mahāyānasaṃgraha* (Paramārtha trans.), fasc. 1: "From the outflow of the supremely pure dharma-realm, the seeds of right hearing-perfuming give rise to the supramundane mind." *Taishō* vol. 31, no. 1593.
 [^24]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha trans.), fasc. 3: "The ear-consciousness hears sounds, triggering the mental consciousness; relying on words and sentences, it discriminates meaning; through repeated practice, a capacity is generated; holding and not forgetting — this is hearing-perfuming." *Taishō* vol. 31, no. 1595.
@@ -525,7 +525,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^39]: Cross-reference: S1-P02, *Bodhicitta and the Dharma-Stream* — the dharmakāya transcends the three times; the Dharma-stream receives those who generate aspiration without limitation by time or space.
 [^40]: See note [^9].
 [^41]: See note [^10].
-[^42]: *Yōuzàn*, fasc. 2: "Ordinary beings have deviant wisdom — hence 'right' awakening; śrāvakas have partial wisdom — hence 'equal'; bodhisattvas have incomplete wisdom — hence again 'right'; only the Buddha has perfect realization and alone bears the complete name." *Taishō* vol. 33, no. 1710.
+[^42]: *Youzan*, fasc. 2: "Ordinary beings have deviant wisdom — hence 'right' awakening; śrāvakas have partial wisdom — hence 'equal'; bodhisattvas have incomplete wisdom — hence again 'right'; only the Buddha has perfect realization and alone bears the complete name." *Taishō* vol. 33, no. 1710.
 [^43]: Fazang's *Brief Commentary*, fasc. 1. Fazang's interpretation of "all Buddhas of the three times relying on prajñā": "no other path, only this single gate." *Taishō* vol. 33, no. 1712.
 [^44]: *Mahāprajñāpāramitāśāstra*, fasc. 34. Prajñā governs the five pāramitās; the five pāramitās without prajñā are merely conditioned merit that cannot progress toward bodhi. *Taishō* vol. 25, no. 1509.
 [^45]: *Mahāprajñāpāramitāśāstra*, fasc. 40: "Buddhas are called 'the unequalled'; prajñāpāramitā gives birth to the Buddhas; therefore it is called 'the unequalled-equalling pāramitā.'" *Taishō* vol. 25, no. 1509.
@@ -534,7 +534,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^48]: *Vajracchedikā-ṭīkā*, fasc. 5: "Seven-treasure merit is the cause of affliction-stained [karma], because it can bring about affliction-laden results." Mark-grasping merit is conditioned. *Taishō* vol. 25, no. 1512.
 [^49]: Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Processes*. Ed. Michael Cole et al. Cambridge, MA: Harvard University Press, 1978. Chapter 6, "Interaction between Learning and Development." ZPD theory and the scaffolding concept.
 [^50]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha trans.), fasc. 3: "Right hearing means hearing with focused reverence and without distortion." *Taishō* vol. 31, no. 1595.
-[^51]: *Yōuzàn*, fasc. 2. Citing Maitreya's verse on the ten dharma practices: "Copying, making offerings, giving to others, listening, reading, retaining, correctly expounding, chanting, reflecting, cultivating." *Taishō* vol. 33, no. 1710.
+[^51]: *Youzan*, fasc. 2. Citing Maitreya's verse on the ten dharma practices: "Copying, making offerings, giving to others, listening, reading, retaining, correctly expounding, chanting, reflecting, cultivating." *Taishō* vol. 33, no. 1710.
 
 ---
 
