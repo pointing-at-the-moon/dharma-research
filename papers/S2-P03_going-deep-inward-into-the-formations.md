@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P03"
 paper_number: 3
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Going Deep: Inward, Into the Formations
@@ -334,7 +334,7 @@ Using the mother analogy: a mother's love for her child is "automatic," but she 
 
 ## VI. Conclusion
 
-"Practicing the profound prajñāpāramitā at that time" — these seven characters carry not an abstract philosophical proposition but a complete practice path from ordinary being to awakening.
+"Practicing the profound prajñāpāramitā at that time" — these nine characters carry not an abstract philosophical proposition but a complete practice path from ordinary being to awakening.
 
 **One: depth has three dimensions.** Woncheuk identifies "two kinds of depth" — practice-depth (*nirvikalpaka-jñāna* internally realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper adds a third: transformation-depth — the degree to which prajñā has permeated the practitioner's own five-skandha structure. All three dimensions united constitute the complete meaning of "practicing the profound prajñāpāramitā."
 
@@ -377,7 +377,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 
 | Abbreviation | Full Title | Taishō | Cited In |
 |------|------|--------|---------|
-| *Youzan* | 般若波羅蜜多心經幽贊 | T33, No. 1710 | §2.1, §2.4, §3.7, §5 |
+| *Youzan* | 般若波羅蜜多心經幽贊 | T33, No. 1710 | §1, §2.1, §2.4, §3.7, §5 |
 | *Xinjing zan* | 般若波羅蜜多心經贊 | T33, No. 1711 | §2.2, §3.1, §6 |
 | *Cheng weishi lun* | 成唯識論 | T31, No. 1585 | §2.5, §3.3–3.4, §3.6, §5 |
 | *Yogācārabhūmi* | 瑜伽師地論 | T30, No. 1579 | §2.5, §3.4–3.5 |
