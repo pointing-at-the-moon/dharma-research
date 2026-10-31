@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P04"
 paper_number: 4
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Illuminating the Emptiness of the Five Aggregates: An Insight Already Within
@@ -115,7 +115,7 @@ The causal chain is perfectly clear: imputing a self → not separating from "mi
 >
 > "In phenomena there is no self, nor is there anything belonging to a self. Since self will not exist, how could 'mine' arise? A bhikṣu who is liberated from this severs the lower fetters."
 
-No self, no possessions of self — a bhikṣu who can free themselves from this view severs the three fetters and attains the fruit of stream-entry. The "emptiness" in "illuminating the emptiness of the five aggregates" ultimately comes down to the dissolution of self-grasping.
+No self, no possessions of self — a bhikṣu who can free themselves from this view severs the five lower fetters and attains the fruit of non-returning. The "emptiness" in "illuminating the emptiness of the five aggregates" ultimately comes down to the dissolution of self-grasping.
 
 The twelve links of dependent origination further unfold the mechanism by which suffering accumulates. The Buddha uses the analogy of planting a tree:
 
@@ -191,7 +191,7 @@ If illuminating insight is simply knowing-as-it-is, why are most people unable t
 
 The Āgama sūtras provide half the answer: because of the obstruction of ignorance. "Not knowing form as it truly is, one delights in form" — it is not that you lack the capacity to see, but that the dust is too thick. Yogācāra provides the other half: the capacity for illuminating insight has always been present — as innate uncontaminated seeds — but it requires study, reflection, and cultivation to bring it into actuality.
 
-Kuījī defines illuminating insight through the five kinds of vision:
+Kuiji defines illuminating insight through the five kinds of vision:
 
 > 「今在因位，慧眼達空，明了矚觀，故名照見。然此空性，資糧位中聽聞、思惟，多唯信解；在加行位方純修觀，雖皆名照，猶帶相故，而未證真；住十地中起無漏觀，通達真理，方實照空；至如來位照見圓滿。」[^18]
 >
@@ -239,7 +239,7 @@ True illuminating insight is "seeing as it really is" (yathābhūta-darśana), n
 
 What exactly does "empty" mean?
 
-Kuījī's definition is precise:
+Kuiji's definition is precise:
 
 > 「據實三性非空非不空，對破有執總密說空，非後二性都無名空，說一切空是佛密意，於有及無總說空故。」[^21]
 >
@@ -277,7 +277,7 @@ An ant needs to cross a small stream — for the ant, it is an abyss. But a huma
 
 ⚠️ **Provisional analogy** (假說比喻): The difference in perspective between ant and human is a metaphor for how levels of wisdom produce different experiences of suffering. This analogy is used for its sense of "an elevated vantage point renders obstacles no longer obstacles," not for the sense of "suffering does not exist." Transcending suffering is not anesthesia — it is a fundamental elevation of capacity.
 
-Kuījī uses the analogy of "a moth emerging from its cocoon" for transcending suffering:
+In Kuiji's *Youzan*, the proponent of superior emptiness (勝空者) uses the analogy of "a moth emerging from its cocoon" for transcending suffering:
 
 > 「既照性空，離諸分別，如蛾出繭，永離纏裹，便度苦厄。」[^24]
 >
@@ -317,11 +317,11 @@ However, this analogy has three strict boundaries. First, Predictive Processing 
 
 ### ❌ 5.1 "Illuminating Insight" Does Not Mean "No Practice Is Needed" (邏輯有誤)
 
-Innate in cause does not mean the fruition arises by itself. Kuījī explicitly identifies four stages: at the stage of accumulation, there is only faith-based understanding; at the stage of preparation, contemplation still involves characteristics and has not yet realized truth; only at the ten bhūmis is emptiness truly illuminated; only at the Tathāgata stage is illumination perfected. A mirror has the capacity to reflect from the moment it is manufactured, but if the dust is not wiped away, it reflects nothing. "Originally endowed" refers to the potential, not to a ready-made accomplishment.
+Innate in cause does not mean the fruition arises by itself. Kuiji explicitly identifies four stages: at the stage of accumulation, there is only faith-based understanding; at the stage of preparation, contemplation still involves characteristics and has not yet realized truth; only at the ten bhūmis is emptiness truly illuminated; only at the Tathāgata stage is illumination perfected. A mirror has the capacity to reflect from the moment it is manufactured, but if the dust is not wiped away, it reflects nothing. "Originally endowed" refers to the potential, not to a ready-made accomplishment.
 
 ### ❌ 5.2 "The Five Aggregates Are Empty" Does Not Mean "Nothing Exists At All" (邏輯有誤)
 
-Kuījī's warning cannot be ignored: "'All is empty' is the Buddha's implicit teaching." When the Buddha speaks of "emptiness," it is an expedient means to counter sentient beings' attachment to existence — not a description of nihilistic nothingness. The actual position is that the three natures are neither empty nor non-empty: only parikalpita is empty; paratantra functions are genuinely existent; pariniṣpanna is truly real in principle. To interpret "emptiness" as "nothing exists at all" is, ironically, just another form of parikalpita.
+Kuiji's warning cannot be ignored: "'All is empty' is the Buddha's implicit teaching." When the Buddha speaks of "emptiness," it is an expedient means to counter sentient beings' attachment to existence — not a description of nihilistic nothingness. The actual position is that the three natures are neither empty nor non-empty: only parikalpita is empty; paratantra functions are genuinely existent; pariniṣpanna is truly real in principle. To interpret "emptiness" as "nothing exists at all" is, ironically, just another form of parikalpita.
 
 ### ❌ 5.3 Śrāvaka Contemplation of Emptiness Is Not the Same as the Bodhisattva's Illuminating Insight (邏輯有誤)
 
@@ -329,7 +329,7 @@ The *Mahāprajñāpāramitā-śāstra* draws a clear distinction: the five-aggre
 
 ### ❌ 5.4 "Transcending Suffering" Does Not Mean "No Longer Feeling Suffering" (邏輯有誤)
 
-Transcending suffering is not anesthesia. Kuījī's "moth emerging from the cocoon" makes this perfectly clear — the cocoon is transcended, not annihilated. After transcending suffering, the bodhisattva does not dwell in a vacuum free from suffering; quite the opposite — the bodhisattva continues to save sentient beings in the suffering world. What changes is not the existence of suffering, but one's relationship to suffering. The *Mahāprajñāpāramitā-śāstra* says that after the bodhisattva has contemplated the true character of all dharmas, great compassion causes them to "return and perform meritorious deeds" to save sentient beings[^28] — the union of compassion and wisdom has as its prerequisite that you have already saved yourself.
+Transcending suffering is not anesthesia. The *Youzan*'s "moth emerging from the cocoon" (in the voice of the proponent of superior emptiness) makes this perfectly clear — the cocoon is transcended, not annihilated. After transcending suffering, the bodhisattva does not dwell in a vacuum free from suffering; quite the opposite — the bodhisattva continues to save sentient beings in the suffering world. What changes is not the existence of suffering, but one's relationship to suffering. The *Mahāprajñāpāramitā-śāstra* says that after the bodhisattva has contemplated the true character of all dharmas, great compassion causes them to "return and perform meritorious deeds" to save sentient beings[^28] — the union of compassion and wisdom has as its prerequisite that you have already saved yourself.
 
 ### ❌ 5.5 "Saving Others" Does Not Mean "Saving Yourself" (邏輯有誤)
 
@@ -449,19 +449,19 @@ Hohwy, J. *The Predictive Mind*. Oxford University Press, 2013.
 
 [^17]: *Vajracchedikā Prajñāpāramitā Sūtra*: "Liberating all sentient beings, yet in truth no sentient being is liberated." 《大正藏》第8冊，No. 0235。
 
-[^18]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* fascicle 2, the five kinds of vision and the four stages of illuminating insight: "The wisdom-eye penetrates emptiness — clearly gazing and observing — hence the name 'illuminating insight.'" 《大正藏》第33冊，No. 1710。
+[^18]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, the five kinds of vision and the four stages of illuminating insight: "The wisdom-eye penetrates emptiness — clearly gazing and observing — hence the name 'illuminating insight.'" 《大正藏》第33冊，No. 1710。
 
 [^19]: *Saṃyukta Āgama* fascicle 26 (sūtra 647): "What is the wisdom-faculty? When a bhikṣu knows the Noble Truth of Suffering as it truly is." 《大正藏》第2冊，No. 0099。
 
 [^20]: *Mahāprajñāpāramitā-śāstra* fascicle 69: "The Buddha, with the five kinds of vision, observes this mind and finds it unapprehensible." Section on the five kinds of vision finding mind unapprehensible. 《大正藏》第25冊，No. 1509。
 
-[^21]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* fascicle 2, the three non-natures (tri-nihsvabhāvatā) as explanation of emptiness: "The three natures are neither empty nor non-empty; to counter attachment to existence, the Buddha spoke comprehensively and implicitly of 'emptiness.'" 《大正藏》第33冊，No. 1710。
+[^21]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, the three non-natures (tri-nihsvabhāvatā) as explanation of emptiness: "The three natures are neither empty nor non-empty; to counter attachment to existence, the Buddha spoke comprehensively and implicitly of 'emptiness.'" 《大正藏》第33冊，No. 1710。
 
 [^22]: Yuáncè, *Prajñāpāramitā-hṛdaya-sūtra Zàn* fascicle 1, Dharmapāla's "contemplation gate of discerning emptiness by excluding the objective in consciousness." 《大正藏》第33冊，No. 1711。
 
 [^23]: *Saṃyukta Āgama* fascicle 10 (sūtra 265), the foam sūtra and the five-aggregate similes. 《大正藏》第2冊，No. 0099。
 
-[^24]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* fascicle 2: "Like a moth emerging from its cocoon, forever leaving its wrapping behind, one thereby transcends suffering." 《大正藏》第33冊，No. 1710。
+[^24]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, in the voice of the proponent of superior emptiness (勝空者言, T33n1710 0536a07): "Like a moth emerging from its cocoon, forever leaving its wrapping behind, one thereby transcends suffering." 《大正藏》第33冊，No. 1710。
 
 [^25]: *Chéng Wéishí Lùn* fascicle 9, definition of āśraya-parāvṛtti: "To relinquish the thoroughly imagined nature superimposed upon the other-dependent, and to obtain the perfectly accomplished nature within the other-dependent." 《大正藏》第31冊，No. 1585。
 
