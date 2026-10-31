@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P02"
 paper_number: 2
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Initial Arising of Bodhicitta and Dharma-Flow
@@ -40,7 +40,7 @@ The Jin-dynasty translation of the *Avataṃsaka Sūtra*, "Chapter on Brahma Con
 
 This statement reads almost as a paradox. Tiantai and Huayan digest it differently:
 
-**Tiantai** maps "initial aspiration" onto the first abiding (*bhūmi*) of the complete teaching. At this stage, one portion of fundamental ignorance is eliminated, enabling the *manifestation* of attaining buddhahood through the eight aspects. This is a "stage-as-fruition" approach—emphasizing functional manifestation rather than substantive finality.
+**Tiantai** maps "initial aspiration" onto the first abiding (*vihāra*) of the complete teaching. At this stage, one portion of fundamental ignorance is eliminated, enabling the *manifestation* of attaining buddhahood through the eight aspects. This is a "stage-as-fruition" approach—emphasizing functional manifestation rather than substantive finality.
 
 **Huayan** holds that "fulfillment of faith is buddhahood." Under the view of interpenetrating dependent origination, the six stages are mutually identical and mutually inclusive—the fulfillment of the ten faiths immediately encompasses all stages up to and including the buddha-ground. This is the more thoroughgoing "one is all" position—the stages are essentially non-dual.
 
