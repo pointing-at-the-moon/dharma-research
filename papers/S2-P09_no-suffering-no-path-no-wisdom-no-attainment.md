@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P09"
 paper_number: 9
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # No Suffering, No Path, No Wisdom, No Attainment: Even the Practice Must Be Released
@@ -17,7 +17,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Heart Sūtra passage "no suffering, no origination, no cessation, no path; no wisdom and no attainment, with nothing to be attained" represents prajñā's sharpest cut — directed not at external dharma-marks but at the very tools in the practitioner's hands. S2-P08 illuminated the emptiness of the twelve links of dependent origination (the causal chain of suffering is empty); this paper goes further: the prescription the Buddha wrote for you — the Four Noble Truths — is also empty; the tool you used to see all this — prajñā wisdom itself — is also empty. Beginning from the Buddha's first turning of the dharma wheel at Deer Park (the three turnings and twelve aspects in *Saṃyuktāgama* fascicle 15, Sūtra 379), the paper first establishes the conventional validity and pedagogical necessity of the Four Noble Truths. It then employs Nāgārjuna's prajñā contemplation in *Mahāprajñāpāramitopadeśa* fascicle 94 — "the equality of the Four Noble Truths is itself nirvāṇa" — as the method to reveal the doctrinal foundation of the Truths' lack of self-nature. Using Kuiji's dual-track dialectic between the "supreme emptiness" (*shengkong*) and "as-appropriate" (*ruying*) interpreters in his *Bore boluomiduo xinjing youzhan* fascicle 2, together with his trisvabhāva analysis, the paper unfolds the precise meaning of the emptiness of the Four Noble Truths — the imagined is negated, the dependent is not fixed, the perfected is without distinction — and elucidates the doctrinal significance of the bodhisattva path-stages: even at the fifth bhūmi, practitioners still cling to coarse marks of defilement and purity; it is only at the sixth bhūmi that this obstacle is removed. The paper then argues that "no wisdom and no attainment" constitutes the final step of "dispelling marks to realize the nature" (*qianxiang zhengxing*): all preceding negations emptied the objects of contemplation (dharma-marks), while this passage empties the instrument of contemplation itself (prajñā wisdom) — Kuiji concludes with "truly no grasping at marks, for it does not take marks." The five characters 以無所得故 ("with nothing to be attained") form the Heart Sūtra's passcode, retroactively explaining every "no" from "in emptiness there is no form" through "no wisdom and no attainment," while simultaneously serving as the pivot from practice to the bodhisattva's fruit (S2-P10, "mind without hindrance"). The paper includes a philological finding: the phrase "wisdom and the domain of wisdom are both called prajñā" (說智及智處俱名般若), widely cited by commentators and attributed to the *Mahāprajñāpāramitopadeśa*, does not appear in the Taishō XML full-text of T1509 and is actually a paraphrase by later commentators including Kuiji. Cross-disciplinary dialogue employs general semantics' "the map is not the territory" as a heuristic analogy. Five Middle Way corrections guard against common misreadings including "denying causation," "anti-intellectualism," and "passive inaction."
+The Heart Sūtra passage "no suffering, no origination, no cessation, no path; no wisdom and no attainment, with nothing to be attained" represents prajñā's sharpest cut — directed not at external dharma-marks but at the very tools in the practitioner's hands. S2-P08 illuminated the emptiness of the twelve links of dependent origination (the causal chain of suffering is empty); this paper goes further: the prescription the Buddha wrote for you — the Four Noble Truths — is also empty; the tool you used to see all this — prajñā wisdom itself — is also empty. Beginning from the Buddha's first turning of the dharma wheel at Deer Park (the three turnings and twelve aspects in *Saṃyuktāgama* fascicle 15, Sūtra 379), the paper first establishes the conventional validity and pedagogical necessity of the Four Noble Truths. It then employs the prajñā contemplation of *Mahāprajñāpāramitopadeśa* fascicle 94 — the Buddha's words to Subhūti, "the equality of the Four Noble Truths is itself nirvāṇa" — as the method to reveal the doctrinal foundation of the Truths' lack of self-nature. Using Kuiji's dual-track dialectic between the "supreme emptiness" (*shengkong*) and "as-appropriate" (*ruying*) interpreters in his *Bore boluomiduo xinjing youzan* fascicle 2, together with his trisvabhāva analysis, the paper unfolds the precise meaning of the emptiness of the Four Noble Truths — the imagined is negated, the dependent is not fixed, the perfected is without distinction — and elucidates the doctrinal significance of the bodhisattva path-stages: even at the fifth bhūmi, practitioners still cling to coarse marks of defilement and purity; it is only at the sixth bhūmi that this obstacle is removed. The paper then argues that "no wisdom and no attainment" constitutes the final step of "dispelling marks to realize the nature" (*qianxiang zhengxing*): all preceding negations emptied the objects of contemplation (dharma-marks), while this passage empties the instrument of contemplation itself (prajñā wisdom) — Kuiji concludes with "truly no grasping at marks, for it does not take marks." The five characters 以無所得故 ("with nothing to be attained") form the Heart Sūtra's passcode, retroactively explaining every "no" from "in emptiness there is no form" through "no wisdom and no attainment," while simultaneously serving as the pivot from practice to the bodhisattva's fruit (S2-P10, "mind without hindrance"). The paper includes a philological finding: the phrase "wisdom and the domain of wisdom are both called prajñā" (說智及智處俱名般若), widely cited by commentators and attributed to the *Mahāprajñāpāramitopadeśa*, does not appear in the Taishō XML full-text of T1509 and is actually a paraphrase by later commentators including Kuiji. Cross-disciplinary dialogue employs general semantics' "the map is not the territory" as a heuristic analogy. Five Middle Way corrections guard against common misreadings including "denying causation," "anti-intellectualism," and "passive inaction."
 
 **摘要**
 
@@ -129,7 +129,7 @@ Three instances of "nothing to be attained": prajñā's mark is nothing-to-be-at
 
 ### 2.4 Kuiji's Trisvabhāva Analysis: "No Suffering, No Origination, No Cessation, No Path"
 
-In fascicle 2 of the *Bore boluomiduo xinjing youzhan*, Kuiji unfolds the dual-track dialectic of the *shengkong* (supreme emptiness) and *ruying* (as-appropriate) interpreters on "no suffering, no origination, no cessation, no path."
+In fascicle 2 of the *Bore boluomiduo xinjing youzan*, Kuiji unfolds the dual-track dialectic of the *shengkong* (supreme emptiness) and *ruying* (as-appropriate) interpreters on "no suffering, no origination, no cessation, no path."
 
 The supreme emptiness interpreter is direct:
 
@@ -184,7 +184,7 @@ Kuiji concludes the passage with the trisvabhāva:
 
 "According to all three natures it is declared 'no'" — from all three perspectives this is "no": the imagined wisdom and attainment simply do not exist; the dependent wisdom and attainment are not fixed; in the perfected, "the essence is quiescent and entirely without dual marks" — thusness is still, without the duality of obtainer and obtained.
 
-In this passage Kuiji invokes the phrase "wisdom and the domain of wisdom are both called prajñā" (說智及智處俱名般若). This phrase circulates widely in the Chinese Buddhist commentarial tradition, uniformly attributed to the *Mahāprajñāpāramitopadeśa*. However, a full-text XML search of the Taishō edition of T1509 (all 100 fascicles) using the key terms 智及智處, 智處俱名, and 俱名般若 yields zero results. The phrase is in fact a paraphrase by later commentators — particularly Kuiji, who uses it in his *Jingang bore jing zanshu* (T1700), *Dasheng fayuan yilin zhang* (T1861), and the *Xinjing youzhan* itself; Chengguan's *Huayan jingshu* (T1735) also cites it.[^10] This finding does not diminish the phrase's doctrinal validity — it accurately encapsulates the core of Nāgārjuna's prajñā thought: prajñā is both wisdom itself and the reality that wisdom illuminates — but for scholarly citation, it should be marked as "commentarial paraphrase" rather than "original text of the treatise."
+In this passage Kuiji invokes the phrase "wisdom and the domain of wisdom are both called prajñā" (說智及智處俱名般若). This phrase circulates widely in the Chinese Buddhist commentarial tradition, uniformly attributed to the *Mahāprajñāpāramitopadeśa*. However, a full-text XML search of the Taishō edition of T1509 (all 100 fascicles) using the key terms 智及智處, 智處俱名, and 俱名般若 yields zero results. The phrase is in fact a paraphrase by later commentators — particularly Kuiji, who uses it in his *Jingang bore jing zanshu* (T1700), *Dasheng fayuan yilin zhang* (T1861), and the *Xinjing youzan* itself; Chengguan's *Huayan jingshu* (T1735) also cites it.[^10] This finding does not diminish the phrase's doctrinal validity — it accurately encapsulates the core of Nāgārjuna's prajñā thought: prajñā is both wisdom itself and the reality that wisdom illuminates — but for scholarly citation, it should be marked as "commentarial paraphrase" rather than "original text of the treatise."
 
 "Truly no grasping at marks, for it does not take marks" (真無相取，不取相故) — these eight characters are the final resting point of the Heart Sūtra's contemplation of emptiness. True prajñā is not "grasping marks" — not "I have seized emptiness" or "I have obtained wisdom" — but "not taking marks." You do not need to obtain prajñā; you need only cease grasping.
 
@@ -286,7 +286,7 @@ From S2-P07 through S2-P09, the Heart Sūtra executes a complete sequence of dis
 
 S2-P07 dispelled the five aggregates, twelve āyatanas, and eighteen dhātus — emptying "the coarse dharma-marks that are observed." S2-P08 dispelled the twelve links — emptying "the causal chain of suffering." The first half of the present paper dispelled the Four Noble Truths — emptying "the Buddha's prescription." Now "no wisdom and no attainment" dispels the practitioner themselves — emptying "the wisdom that observes" and "the fruit of practice."
 
-This is the final tier of the five-layered Yogācāra contemplation — "dispelling marks to realize the nature" (*qianxiang zhengxing*). Kuiji established the final link of this contemplative system in fascicle 1 of the *Youzhan*: "What is expressed by 'consciousness' has both principle and phenomena; phenomena as marks and function are dispelled and not grasped; principle as nature and essence should be sought and realized."[^15] Both "principle" and "phenomena" are within consciousness, but phenomenal marks are to be dispelled (released), while the essential nature is to be realized. What is dispelled? All dharma-marks — including "wisdom" and "attainment" as the last remaining dharma-marks. What is realized? Thusness.
+This is the final tier of the five-layered Yogācāra contemplation — "dispelling marks to realize the nature" (*qianxiang zhengxing*). Kuiji established the final link of this contemplative system in fascicle 1 of the *Youzan*: "What is expressed by 'consciousness' has both principle and phenomena; phenomena as marks and function are dispelled and not grasped; principle as nature and essence should be sought and realized."[^15] Both "principle" and "phenomena" are within consciousness, but phenomenal marks are to be dispelled (released), while the essential nature is to be realized. What is dispelled? All dharma-marks — including "wisdom" and "attainment" as the last remaining dharma-marks. What is realized? Thusness.
 
 The doctrinal depth of "no wisdom and no attainment" is this: it does not merely empty ordinary wisdom or ordinary attainment — it empties prajñā itself. The preceding negations — "no form," "no eye, ear, nose, tongue, body, mind," "no ignorance" — all emptied the *objects* of observation. Now "no wisdom" empties the *subject* of observation; "no attainment" empties the *result* of observation. Subject and object both vanish (*neng-suo shuang-wang*) — precisely what the *Vijñaptimātratāsiddhi* describes: "wisdom has nothing whatsoever attained — at that time one abides in consciousness-only, having left behind the marks of the two graspings."
 
@@ -348,7 +348,7 @@ The heuristic value lies here: modern knowledge systems equally suffer from "mis
 
 ### 5.1 ❌ "No Suffering, No Origination, No Cessation, No Path" Does Not Equal Denying Causation
 
-This is the most common and most dangerous misunderstanding. "No suffering, no origination, no cessation, no path" refers to the Four Truths lacking self-nature, not to suffering being nonexistent or causation being invalid. Nāgārjuna specifically emphasizes in the *Mahāprajñāpāramitopadeśa*: the Four Truths as "medicine corresponding to illness" are fully effective at the conventional level. "No" negates the self-nature (*svabhāva*) of the Four Truths, not their function (*kriyā*). In Kuiji's trisvabhāva terms: the imagined Four Truths are empty; the dependent Four Truths are not. If "no suffering, no origination, no cessation, no path" is understood as "suffering does not exist" or "causation is false," that is not prajñā at all but a severe case of "nihilistic emptiness" (*dṛṣṭi-śūnyatā*) — against which Nāgārjuna sternly warns: "Better to cling to a view of self than to grasp emptiness wrongly."
+This is the most common and most dangerous misunderstanding. "No suffering, no origination, no cessation, no path" refers to the Four Truths lacking self-nature, not to suffering being nonexistent or causation being invalid. Nāgārjuna specifically emphasizes in the *Mahāprajñāpāramitopadeśa*: the Four Truths as "medicine corresponding to illness" are fully effective at the conventional level. "No" negates the self-nature (*svabhāva*) of the Four Truths, not their function (*kriyā*). In Kuiji's trisvabhāva terms: the imagined Four Truths are empty; the dependent Four Truths are not. If "no suffering, no origination, no cessation, no path" is understood as "suffering does not exist" or "causation is false," that is not prajñā at all but a severe case of "nihilistic emptiness" (*dṛṣṭi-śūnyatā*) — against which the *Yogācārabhūmi* (fasc. 36, T30, No. 1579) sternly warns, reporting the Buddha's intent: "Better one who arises a view of self than one who wrongly grasps emptiness."
 
 ### 5.2 ❌ "No Wisdom and No Attainment" Does Not Equal Anti-Intellectualism
 
@@ -416,7 +416,7 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 - *Saṃyuktāgama* (雜阿含經). Trans. Guṇabhadra. *Taishō Tripiṭaka* vol. 2, No. 99.
 - *Mahāprajñāpāramitopadeśa* (大智度論). Nāgārjuna. Trans. Kumārajīva. *Taishō Tripiṭaka* vol. 25, No. 1509.
 - *Vijñaptimātratāsiddhi* (成唯識論). Dharmapāla et al. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1585.
-- *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊). Kuiji. *Taishō Tripiṭaka* vol. 33, No. 1710.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊). Kuiji. *Taishō Tripiṭaka* vol. 33, No. 1710.
 
 ### II. Modern Scholarship
 
@@ -441,7 +441,7 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 | Saṃyuktāgama | T2, No. 0099 | fasc. 15 |
 | Mahāprajñāpāramitopadeśa | T25, No. 1509 | fasc. 18, 19, 23, 83, 94 |
 | Vijñaptimātratāsiddhi | T31, No. 1585 | fasc. 9, 10 |
-| Bore boluomiduo xinjing youzhan | T33, No. 1710 | fasc. 1, 2 |
+| Bore boluomiduo xinjing youzan | T33, No. 1710 | fasc. 1, 2 |
 | Jingang bore jing zanshu | T33, No. 1700 | fasc. 2 (source note) |
 | Dasheng fayuan yilin zhang | T45, No. 1861 | — (source note) |
 | Huayan jingshu | T35, No. 1735 | — (source note) |
@@ -478,13 +478,13 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 
 [^7]: *Mahāprajñāpāramitopadeśa*, fasc. 83: 有所得、無所得平等，是名無所得 and 無所得是般若波羅蜜相. "Nothing to be attained" as the mark of prajñā. *Taishō Tripiṭaka* vol. 25, No. 1509.
 
-[^8]: *Bore boluomiduo xinjing youzhan*, fasc. 2: 勝空者言……四諦唯有假名，自性空故; 如應者言……安立四聖諦、非安立四聖諦; 如療病者知病、病因、病除、除法; 依他定非苦、集等相，真理何由有彼差別; 第五地雖作此觀，尚執有實染淨麁相. On "no suffering, no origination, no cessation, no path." *Taishō Tripiṭaka* vol. 33, No. 1710.
+[^8]: *Bore boluomiduo xinjing youzan*, fasc. 2: 勝空者言……四諦唯有假名，自性空故; 如應者言……安立四聖諦、非安立四聖諦; 如療病者知病、病因、病除、除法; 依他定非苦、集等相，真理何由有彼差別; 第五地雖作此觀，尚執有實染淨麁相. On "no suffering, no origination, no cessation, no path." *Taishō Tripiṭaka* vol. 33, No. 1710.
 
-[^9]: *Bore boluomiduo xinjing youzhan*, fasc. 2: 能證道名智，所證境名得; 無分別智證真如位，心境冥合，平等平等，能取所取一切皆無; 依三性皆說為無……真無相取，不取相故. On "no wisdom and no attainment." *Taishō Tripiṭaka* vol. 33, No. 1710.
+[^9]: *Bore boluomiduo xinjing youzan*, fasc. 2: 能證道名智，所證境名得; 無分別智證真如位，心境冥合，平等平等，能取所取一切皆無; 依三性皆說為無……真無相取，不取相故. On "no wisdom and no attainment." *Taishō Tripiṭaka* vol. 33, No. 1710.
 
-[^10]: The phrase 說智及智處，俱名般若 is invoked by Kuiji in the *Xinjing youzhan* (T33 p.541c9), *Jingang bore jing zanshu* (T1700, fasc. 2), and *Dasheng fayuan yilin zhang* (T1861), each time attributed to the *Mahāprajñāpāramitopadeśa*. Chengguan's *Huayan jingshu* (T1735) and Shihui's *Lüeshu lianzhuji* (T1713) similarly cite it. However, a full-text XML search of the Taishō edition T25n1509.xml (智及智處, 智處俱名, 俱名般若) returns zero hits. The phrase is a commentarial paraphrase of Nāgārjuna's prajñā thought, not a direct quotation from the treatise.
+[^10]: The phrase 說智及智處，俱名般若 is invoked by Kuiji in the *Xinjing youzan* (T33 p.541c9), *Jingang bore jing zanshu* (T1700, fasc. 2), and *Dasheng fayuan yilin zhang* (T1861), each time attributed to the *Mahāprajñāpāramitopadeśa*. Chengguan's *Huayan jingshu* (T1735) and Shihui's *Lüeshu lianzhuji* (T1713) similarly cite it. However, a full-text XML search of the Taishō edition T25n1509.xml (智及智處, 智處俱名, 俱名般若) returns zero hits. The phrase is a commentarial paraphrase of Nāgārjuna's prajñā thought, not a direct quotation from the treatise.
 
-[^11]: *Bore boluomiduo xinjing youzhan*, fasc. 2: 以無得通釋上無 and 所執六相都無所有，依他圓成非定六相. On "with nothing to be attained." *Taishō Tripiṭaka* vol. 33, No. 1710.
+[^11]: *Bore boluomiduo xinjing youzan*, fasc. 2: 以無得通釋上無 and 所執六相都無所有，依他圓成非定六相. On "with nothing to be attained." *Taishō Tripiṭaka* vol. 33, No. 1710.
 
 [^12]: *Vijñaptimātratāsiddhi*, fasc. 9: 猶於現前安立少物……帶相觀心有所得故; 若時於所緣，智都無所得，爾時住唯識，離二取相故; 如是住內心，知所取非有，次能取亦無，後觸無所得. Preparatory stage → stage of penetration. *Taishō Tripiṭaka* vol. 31, No. 1585.
 
@@ -492,7 +492,7 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 
 [^14]: *Mahāprajñāpāramitopadeśa*, fasc. 23: 苦智名知苦相實不生。集智名知一切法離，無有和合。滅智名知諸法常寂滅如涅槃。道智名知一切法常清淨、無正無邪. Redefinition of the Four Truths' wisdoms. *Taishō Tripiṭaka* vol. 25, No. 1509.
 
-[^15]: *Bore boluomiduo xinjing youzhan*, fasc. 1: 識言所表具有理、事，事為相用遣而不取，理為性體應求作證. Dispelling marks to realize the nature. *Taishō Tripiṭaka* vol. 33, No. 1710.
+[^15]: *Bore boluomiduo xinjing youzan*, fasc. 1: 識言所表具有理、事，事為相用遣而不取，理為性體應求作證. Dispelling marks to realize the nature. *Taishō Tripiṭaka* vol. 33, No. 1710.
 
 [^16]: *Vijñaptimātratāsiddhi*, fasc. 10: 無住處涅槃，謂即真如出所知障，大悲般若常所輔翼。由斯不住生死涅槃，利樂有情，窮未來際，用而常寂. Non-abiding nirvāṇa. *Taishō Tripiṭaka* vol. 31, No. 1585.
 
