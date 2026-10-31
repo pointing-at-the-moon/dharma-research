@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P03"
 paper_number: 3
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Going Deep: Inward, Into the Formations
@@ -18,13 +18,13 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Heart Sūtra phrase "practicing the profound prajñāpāramitā" (*xíng shēn bōrě bōluómìduō shí* 行深般若波羅蜜多時) receives from Kuiji's *Youzhan* commentary a twofold analysis of "depth" — practice-depth (*nirvikalpaka-jñāna* realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper proposes a third dimension: **transformation-depth** — prajñā descending from the saṃjñā-skandha level of conceptual understanding into the saṃskāra-skandha level of instinctive transformation. Only when prajñā becomes the practitioner's "firmware" rather than "application software" does practice truly go deep.
+The Heart Sūtra phrase "practicing the profound prajñāpāramitā" (*xíng shēn bōrě bōluómìduō shí* 行深般若波羅蜜多時) receives from Woncheuk's *Bore boluomiduo xinjing zan* commentary a twofold analysis of "depth" — practice-depth (*nirvikalpaka-jñāna* realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper proposes a third dimension: **transformation-depth** — prajñā descending from the saṃjñā-skandha level of conceptual understanding into the saṃskāra-skandha level of instinctive transformation. Only when prajñā becomes the practitioner's "firmware" rather than "application software" does practice truly go deep.
 
 Using compassion as a concrete thread throughout, the paper traces the complete transformation arc from ordinary being to eighth-bhūmi bodhisattva: "I want to be compassionate" (saṃjñā-prajñā, deliberately initiated) → "I use everyone to prove I am compassionate" (manas hijacking wholesome dharmas) → a mother's instinctive love (conventional-truth saṃskāra transformation) → "I don't feel like I'm doing compassion" (eighth-bhūmi effortless action). According to the *Avataṃsaka Sūtra*'s Ten Stages, the first-bhūmi bodhisattva "sees beings trapped in masses of suffering and thereupon gives rise to great compassion" — compassion still triggered by cognition. By the eighth bhūmi, Acalā, "all effortful practice is relinquished, effortless dharma is attained, activities of body, speech, and mind all cease, and one abides in retributive action" — compassion has shifted from deliberate generation to natural outflow. According to the *Śūraṅgama Sūtra*'s chapter on Avalokiteśvara's ear-faculty perfect penetration, Avalokiteśvara "above, merges with the fundamental, wondrous awakened mind of all Tathāgatas of the ten directions, sharing the same power of compassion; below, merges with all beings of the six destinies in the ten directions, sharing the same longing of compassion" — compassion is no longer enacted behavior but ontological unity.
 
 The precise mechanism of this transformation has clear scriptural grounding in Yogācāra: the saṃskāra-skandha is governed by cetanā (the mental factor of volition), whose nature is "causing the mind to act"; uncontaminated seeds (*anāsrava-bīja*) are inherently present but dormant, and "hearing the correct Dharma also perfumes the inherently present uncontaminated seeds, causing them to gradually increase"; the six types of *āśraya-parāvṛtti* from the accumulation stage to the ultimate stage reveal the gradual mechanism of "diminishing contaminated seeds and strengthening pure seeds." Cross-disciplinary dialogue engages Kahneman's dual-process theory, Ericsson's deliberate practice framework, and neuroplasticity research (⚠️ strictly as structural analogies), with Middle Way corrections guarding against asceticism, sudden-enlightenment illusion, computationalism, and the confusion of "automaticity" with "ignorance."
 
-**Keywords:** deep practice, saṃskāra-skandha, cetanā, anābhoga, eighth bhūmi (Acalā), seed-transformation, Avalokiteśvara, Kuiji, *Youzhan* / 行深、行蘊、思心所、無功用行、八地不動地、種子轉依、觀世音、窺基、幽贊
+**Keywords:** deep practice, saṃskāra-skandha, cetanā, anābhoga, eighth bhūmi (Acalā), seed-transformation, Avalokiteśvara, Kuiji, *Youzan* / 行深、行蘊、思心所、無功用行、八地不動地、種子轉依、觀世音、窺基、幽贊
 
 ---
 
@@ -50,19 +50,19 @@ Avalokiteśvara Bodhisattva, in the *Śūraṅgama Sūtra*, describes his state 
 
 From "I want to be compassionate" to "I don't feel like I'm doing compassion" — how far is this road?
 
-Kuiji's answer in the *Youzhan* is: three incalculable great aeons.[^2] This is not rhetoric. The first incalculable aeon spans from initial aspiration to the first bhūmi; the second spans from the first bhūmi to the eighth — and the eighth bhūmi is precisely the Acalā (Immovable) ground where "all effortful practice is relinquished and effortless dharma is attained,"[^3] the tipping point where compassion shifts from deliberate generation to natural outflow.
+Kuiji's answer in the *Youzan* is: three incalculable great aeons.[^2] This is not rhetoric. The first incalculable aeon spans from initial aspiration to the first bhūmi; the second spans from the first bhūmi to the eighth — and the eighth bhūmi is precisely the Acalā (Immovable) ground where "all effortful practice is relinquished and effortless dharma is attained,"[^3] the tipping point where compassion shifts from deliberate generation to natural outflow.
 
-The question of this paper is: **How does this transformation happen according to the scriptures?** Beyond the practice-depth (depth of the observing wisdom) and object-depth (depth of the observed reality) that Kuiji has already identified in the word "deep" (*shēn* 深), is there a third dimension — prajñā descending from saṃjñā-level understanding to saṃskāra-level instinct? What is the precise mechanism of this descent? From ordinary being to eighth bhūmi, what qualitative changes does compassion undergo at each stage?
+The question of this paper is: **How does this transformation happen according to the scriptures?** Beyond the practice-depth (depth of the observing wisdom) and object-depth (depth of the observed reality) that Woncheuk has already identified in the word "deep" (*shēn* 深), is there a third dimension — prajñā descending from saṃjñā-level understanding to saṃskāra-level instinct? What is the precise mechanism of this descent? From ordinary being to eighth bhūmi, what qualitative changes does compassion undergo at each stage?
 
-This paper continues from S2-P02 (*Avalokiteśvara: The Four Links of the Awakening Loop*), expanding the second link of the awakening loop — "deep practice." S2-P02 established the closed-loop structure of the Heart Sūtra's opening sentence, touching on Kuiji's practice-depth/object-depth duality and the cognitive psychology analogy of automaticity. The present paper takes this link as its independent subject, using compassion as a concrete case to trace the complete transformation path from saṃjñā to saṃskāra.
+This paper continues from S2-P02 (*Avalokiteśvara: The Four Links of the Awakening Loop*), expanding the second link of the awakening loop — "deep practice." S2-P02 established the closed-loop structure of the Heart Sūtra's opening sentence, touching on Woncheuk's practice-depth/object-depth duality and the cognitive psychology analogy of automaticity. The present paper takes this link as its independent subject, using compassion as a concrete case to trace the complete transformation path from saṃjñā to saṃskāra.
 
 ---
 
 ## II. Scriptural Foundations
 
-### 2.1 Kuiji's *Youzhan*: The Full Debate on "Practice"
+### 2.1 Kuiji's *Youzan*: The Full Debate on "Practice"
 
-Kuiji (632–682), in his *Commentary on the Heart of Prajñāpāramitā* (*Bore boluomiduo xinjing youzhan*), unfolds a complete doctrinal debate over the single character "practice" (*xíng* 行) in "practicing the profound prajñāpāramitā." The Śūnyatā-absolutist (*shèngkōng zhě*) position holds:
+Kuiji (632–682), in his *Commentary on the Heart of Prajñāpāramitā* (*Bore boluomiduo xinjing youzan*), unfolds a complete doctrinal debate over the single character "practice" (*xíng* 行) in "practicing the profound prajñāpāramitā." The Śūnyatā-absolutist (*shèngkōng zhě*) position holds:
 
 > According to ultimate truth, because there is nothing obtained and no discrimination, there is utterly no practice — this is called practice.[^4]
 
@@ -76,13 +76,13 @@ This debate bears directly on our core thesis: "going deep" is not an abstract p
 
 ### 2.2 "Depth Has Two Kinds" — Practice-Depth and Object-Depth
 
-Kuiji further glosses "deep" (*shēn*):
+Woncheuk, in his *Bore boluomiduo xinjing zan* (T1711), glosses "deep" (*shēn*):
 
 > Depth has two kinds. First, practice-depth: *nirvikalpaka-jñāna* internally realizes twofold emptiness, free from all discrimination, with no characteristic of agent or action as its mode of operation — hence called "deep practice." Therefore the *Mahāprajñāpāramitā* says: "Not perceiving practice, not perceiving non-practice — this is the bodhisattva's deep practice of prajñā." Second, object-depth: the principle of twofold emptiness transcends existence and non-existence, extinguishes all conceptual proliferation — *nirvikalpaka-jñāna* realizes this deep object, hence called "deep."[^8]
 
 **Practice-depth** — the observing wisdom itself is deep: *nirvikalpaka-jñāna* realizes both person-emptiness and dharma-emptiness, to the point where even the characteristic "I am observing" no longer exists. **Object-depth** — the observed reality is deep: twofold-emptiness *tathatā* transcends existence and non-existence, unfathomably profound. Subject and object condition each other — deep wisdom illuminates deep reality, deep reality reveals deep wisdom.
 
-✅ **Doctrinal assessment:** Kuiji's twofold analysis is precise and self-consistent. However, both dimensions address "depth" from the perspective of wisdom and its object — neither yet touches the transformation structure of the practitioner's own being. Section III will propose the third dimension.
+✅ **Doctrinal assessment:** Woncheuk's twofold analysis is precise and self-consistent. However, both dimensions address "depth" from the perspective of wisdom and its object — neither yet touches the transformation structure of the practitioner's own being. Section III will propose the third dimension.
 
 ### 2.3 Prajñā Governs the Five Perfections — "The Five Pāramitās Are Like the Blind"
 
@@ -100,7 +100,7 @@ This bears directly on our thesis: compassion is the same. Compassion without pr
 
 ### 2.4 "Time" — The Practice Stages of Three Incalculable Great Aeons
 
-Kuiji's gloss of the character "time" (*shí* 時) in the second scroll of the *Youzhan* directly links "going deep" to the temporal structure of the five-stage path:
+Kuiji's gloss of the character "time" (*shí* 時) in the second scroll of the *Youzan* directly links "going deep" to the temporal structure of the five-stage path:
 
 > Supreme bodhi is vast and profound; it cannot be realized through meager accumulation of causes... Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding [first bhūmi]. Through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding [eighth bhūmi], with pure intention and resolute vigor. Through the third incalculable great aeon, one cultivates all practices within all practices, realizing the Tathāgata Abiding.[^12]
 
@@ -164,7 +164,7 @@ One day of effortless practice surpasses a hundred years of effortful practice. 
 
 ### 3.1 Three Dimensions of Depth: Practice-Depth, Object-Depth, Transformation-Depth
 
-Kuiji's practice-depth/object-depth duality completes the analysis of "depth" from the perspectives of wisdom and its object. This paper proposes a third dimension: **transformation-depth** — the degree to which prajñā has permeated the practitioner's own five-skandha structure.
+Woncheuk's practice-depth/object-depth duality completes the analysis of "depth" from the perspectives of wisdom and its object. This paper proposes a third dimension: **transformation-depth** — the degree to which prajñā has permeated the practitioner's own five-skandha structure.
 
 The three dimensions can be understood as follows:
 
@@ -174,9 +174,9 @@ The three dimensions can be understood as follows:
 
 **Transformation-depth** concerns which layer of your five-skandha structure prajñā has penetrated — does your prajñā still reside at the saṃjñā level of conceptual understanding ("I know I should be compassionate"), or has it already entered the saṃskāra level of instinctive response (compassion is already your default mode)? This is the depth of the practitioner's own transformation.
 
-The first two dimensions are established by Kuiji's scriptural exegesis; the third is this paper's original contribution at the level of practice, but it has clear scriptural grounding: "Relinquishes all effortful practice, attains effortless dharma; the activities of body, speech, and mind all cease; abides in retributive action"[^31] — the four characters "abides in retributive action" (*zhù yú bào xíng*) precisely describe prajñā having entered the saṃskāra and the practitioner having been transformed.
+The first two dimensions are established by Woncheuk's scriptural exegesis; the third is this paper's original contribution at the level of practice, but it has clear scriptural grounding: "Relinquishes all effortful practice, attains effortless dharma; the activities of body, speech, and mind all cease; abides in retributive action"[^31] — the four characters "abides in retributive action" (*zhù yú bào xíng*) precisely describe prajñā having entered the saṃskāra and the practitioner having been transformed.
 
-⚠️ **Methodological note:** The third dimension, "transformation-depth," is this paper's extended interpretation based on Kuiji's twofold analysis and the Yogācāra five-stage path, not explicitly stated in the *Youzhan* text. Kuiji's "going deep" already implicitly contains the meaning of practitioner-transformation ("gradual cultivation," "five stages"); this paper makes that implicit meaning explicit, serving as a bridge between scriptural doctrine and practice.
+⚠️ **Methodological note:** The third dimension, "transformation-depth," is this paper's extended interpretation based on Woncheuk's twofold analysis and the Yogācāra five-stage path, not explicitly stated in the *Youzan* text. Kuiji's "going deep" already implicitly contains the meaning of practitioner-transformation ("gradual cultivation," "five stages"); this paper makes that implicit meaning explicit, serving as a bridge between scriptural doctrine and practice.
 
 ### 3.2 The Four Stages of Compassion — The Practice Path from Saṃjñā to Saṃskāra
 
@@ -264,7 +264,7 @@ From the penetration stage (first bhūmi) through the eighth bhūmi's cultivatio
 
 ### 3.7 The Five-Layered Consciousness-Only Contemplation — The Practice Sequence of "Going Deep"
 
-The five-layered consciousness-only contemplation (*wǔ chóng wéishí guān*) systematized by Kuiji in the *Youzhan* provides a complete coarse-to-subtle sequence for the concrete practice of "going deep":
+The five-layered consciousness-only contemplation (*wǔ chóng wéishí guān*) systematized by Kuiji in the *Youzan* provides a complete coarse-to-subtle sequence for the concrete practice of "going deep":
 
 **First: eliminating the false and preserving the real.** "Eliminating is the emptiness-contemplation, counteracting grasping at existence; preserving is the existence-contemplation, counteracting grasping at emptiness."[^52] Eliminate the false of *parikalpita*; preserve the real of *paratantra* and *pariniṣpanna*.
 
@@ -336,7 +336,7 @@ Using the mother analogy: a mother's love for her child is "automatic," but she 
 
 "Practicing the profound prajñāpāramitā at that time" — these seven characters carry not an abstract philosophical proposition but a complete practice path from ordinary being to awakening.
 
-**One: depth has three dimensions.** Kuiji identifies "two kinds of depth" — practice-depth (*nirvikalpaka-jñāna* internally realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper adds a third: transformation-depth — the degree to which prajñā has permeated the practitioner's own five-skandha structure. All three dimensions united constitute the complete meaning of "practicing the profound prajñāpāramitā."
+**One: depth has three dimensions.** Woncheuk identifies "two kinds of depth" — practice-depth (*nirvikalpaka-jñāna* internally realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper adds a third: transformation-depth — the degree to which prajñā has permeated the practitioner's own five-skandha structure. All three dimensions united constitute the complete meaning of "practicing the profound prajñāpāramitā."
 
 **Two: from saṃjñā to saṃskāra is a long road.** The four stages of compassion — "I want to be compassionate" (saṃjñā-prajñā) → "I use beings to prove my compassion" (manas hijacking) → a mother's instinctive love (conventional-truth saṃskāra transformation) → "I don't feel like I'm doing compassion" (eighth-bhūmi effortless action) — have full scriptural support in the *Avataṃsaka Sūtra*'s Ten Stages. From the cognitive triggering of the first bhūmi to the effortless action of the eighth requires the second incalculable great aeon of gradual cultivation.
 
@@ -348,7 +348,7 @@ Using the mother analogy: a mother's love for her child is "automatic," but she 
 
 **Six: "time" is every present moment.** Three incalculable great aeons are not meant to drive you to despair but to ground you in practicality. Each correct act of creation diminishes one fraction of contaminated seed and enhances one fraction of pure seed. This one act of compassion you perform right now — even though it still requires a reminder — is pushing prajñā one micrometer from saṃjñā toward saṃskāra. Three great incalculable aeons are composed of countless such micrometers.
 
-The next line of the Heart Sūtra reads "illuminated the emptiness of the five aggregates" — to what depth must one go deep before illumination? This is the question of S1-P014.
+The next line of the Heart Sūtra reads "illuminated the emptiness of the five aggregates" — to what depth must one go deep before illumination? This is the question of S2-P04.
 
 ---
 
@@ -356,7 +356,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 
 ### I. Primary Buddhist Sources
 
-1. Kuiji, *Bore boluomiduo xinjing youzhan* 般若波羅蜜多心經幽贊, *Taishō* vol. 33, No. 1710.
+1. Kuiji, *Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊, *Taishō* vol. 33, No. 1710.
 2. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* 成唯識論, *Taishō* vol. 31, No. 1585.
 3. Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, *Taishō* vol. 30, No. 1579.
 4. Nāgārjuna, trans. Kumārajīva, *Mahāprajñāpāramitā-śāstra* 大智度論, *Taishō* vol. 25, No. 1509.
@@ -377,7 +377,8 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 
 | Abbreviation | Full Title | Taishō | Cited In |
 |------|------|--------|---------|
-| *Youzhan* | 般若波羅蜜多心經幽贊 | T33, No. 1710 | §2.1–2.2, §2.4, §3.7, §5 |
+| *Youzan* | 般若波羅蜜多心經幽贊 | T33, No. 1710 | §2.1, §2.4, §3.7, §5 |
+| *Xinjing zan* | 般若波羅蜜多心經贊 | T33, No. 1711 | §2.2, §3.1, §6 |
 | *Cheng weishi lun* | 成唯識論 | T31, No. 1585 | §2.5, §3.3–3.4, §3.6, §5 |
 | *Yogācārabhūmi* | 瑜伽師地論 | T30, No. 1579 | §2.5, §3.4–3.5 |
 | *Mahāprajñāpāramitā-śāstra* | 大智度論 | T25, No. 1509 | §2.3 |
@@ -390,17 +391,17 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 ## Footnotes
 
 [^1]: *Śūraṅgama Sūtra*, Scroll 6, T19, No. 0945. Avalokiteśvara Bodhisattva's ear-faculty perfect penetration chapter.
-[^2]: Kuiji, *Youzhan*, Scroll 2, T33, No. 1710. "Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding; through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding."
+[^2]: Kuiji, *Youzan*, Scroll 2, T33, No. 1710. "Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding; through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding."
 [^3]: *Avataṃsaka Sūtra*, Scroll 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
-[^4]: Kuiji, *Youzhan*, Scroll 1, T33, No. 1710. The Śūnyatā-absolutist's interpretation of "practice."
+[^4]: Kuiji, *Youzan*, Scroll 1, T33, No. 1710. The Śūnyatā-absolutist's interpretation of "practice."
 [^5]: Ibid. The As-Appropriate interpretation of "practice."
 [^6]: Ibid. The As-Appropriate rebuttal: "If there were no practice yet also nothing not practiced, then the ignorance of sentient beings would be nothing not illuminated, and from beginningless time all should already be illuminated — but who was the one previously unilluminated and now illuminated?"
 [^7]: Ibid. "One must possess the two types of Mahāyāna lineage and be able to cultivate gradually through the five stages."
-[^8]: Ibid. Kuiji's analysis of "two kinds of depth." S2-P02 §2.4 previously cited this passage; the present paper re-cites it to establish a complete argumentative foundation.
+[^8]: Woncheuk, *Bore boluomiduo xinjing zan*, T33, No. 1711. Woncheuk's analysis of "two kinds of depth." S2-P02 §2.4 previously cited this passage; the present paper re-cites it to establish a complete argumentative foundation.
 [^9]: *Mahāprajñāpāramitā-śāstra*, Scroll 34, T25, No. 1509.
 [^10]: *Mahāprajñāpāramitā-śāstra*, Scroll 62, T25, No. 1509.
 [^11]: *Mahāprajñāpāramitā-śāstra*, Scroll 34, T25, No. 1509.
-[^12]: Kuiji, *Youzhan*, Scroll 2, T33, No. 1710. The As-Appropriate interpretation of "time."
+[^12]: Kuiji, *Youzan*, Scroll 2, T33, No. 1710. The As-Appropriate interpretation of "time."
 [^13]: Ibid. "This means the cultivation of the five prajñās through the three-aeon divisions, or according to one's own mind's transformative delimitations — the completion of the progression of affairs is collectively designated as 'time.'"
 [^14]: *Yogācārabhūmi-śāstra*, Scroll 27, T30, No. 1579.
 [^15]: *Yogācārabhūmi-śāstra*, Scroll 13, T30, No. 1579. "What is creation? The saṃskāra-skandha."
@@ -441,15 +442,15 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 [^49]: Ibid. The supreme mundane dharma.
 [^50]: Ibid. The fundamental limitation of the preparation stage.
 [^51]: Ibid. The penetration stage.
-[^52]: Kuiji, *Youzhan*, Scroll 1, T33, No. 1710. The first of the five-layered consciousness-only contemplation.
+[^52]: Kuiji, *Youzan*, Scroll 1, T33, No. 1710. The first of the five-layered consciousness-only contemplation.
 [^53]: Ibid. The second layer.
 [^54]: Ibid. The fifth layer.
 [^55]: Ibid. Summary of the five layers.
 [^56]: See S1-P09 in this series: *Preparing the Vessel*, §4 on attention science.
-[^57]: Kuiji, *Youzhan*, Scroll 2, T33, No. 1710.
+[^57]: Kuiji, *Youzan*, Scroll 2, T33, No. 1710.
 [^58]: *Cheng weishi lun*, Scroll 10, T31, No. 1585.
 [^59]: See S1-P03 in this series: *Yogācāra Positioning of Large Language Models*, §3 Core Argument.
-[^60]: Kuiji, *Youzhan*, Scroll 1, preface, T33, No. 1710. "Bound by habitual obstructions, confused about the true nature of dharmas."
+[^60]: Kuiji, *Youzan*, Scroll 1, preface, T33, No. 1710. "Bound by habitual obstructions, confused about the true nature of dharmas."
 
 ---
 
