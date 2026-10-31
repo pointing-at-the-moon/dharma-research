@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P08"
 paper_number: 8
 date: "2026-03"
-version: "0.1"
+version: "0.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Do Not Seek Outside — Take Refuge in Your Own Nature
@@ -118,7 +118,7 @@ If the previous three sūtras are a practice guide, then this passage from the *
 
 A person who has truly seen the path (stream-enterer) **cannot possibly** abandon the inner Dharma to seek externally. Only ordinary people do that.
 
-The sūtra continues: even if a stream-enterer suffers "extreme, severe pain," he will not abandon the inner Dharma and seek liberation from heterodox śramaṇas or spell-chanting brahmins. Because he has personally seen:
+The sūtra continues: even if a stream-enterer suffers "extreme, severe pain," he will not abandon the inner Dharma and seek liberation from heterodox śramaṇas or spell-chanting brahmins. Because he has personally seen what the *Madhyamāgama*'s Discourse on the Analysis of the Noble Truths states:
 
 > 此實不可以欲而得。[^8]
 
@@ -318,7 +318,7 @@ The person who does not know this is still looking outside.
 [^4]: *Saṃyuktāgama* 《雜阿含經》, fascicle 24, Sūtra 615, *Taishō* vol. 2, No. 0099.
 [^5]: *Saṃyuktāgama* 《雜阿含經》, fascicle 24, Sūtra 616, the Cook Analogy, *Taishō* vol. 2, No. 0099.
 [^6]: *Saṃyuktāgama* 《雜阿含經》, fascicle 24, Sūtra 617, the Rāva Bird Analogy, *Taishō* vol. 2, No. 0099.
-[^7]: *Madhyamāgama* 《中阿含經》, fascicle 47, Heyi Sūtra, *Taishō* vol. 1, No. 0026.
+[^7]: *Madhyamāgama* 《中阿含經》, fascicle 47, Duojie Sūtra (多界經), *Taishō* vol. 1, No. 0026.
 [^8]: *Madhyamāgama* 《中阿含經》, fascicle 7, "this truly cannot be obtained through desire," *Taishō* vol. 1, No. 0026. The dukkha of not-obtaining, one of the eight sufferings.
 [^9]: *Dīrghāgama* 《長阿含經》, fascicle 2, Youxing Jing (Mahāparinibbāna-related), *Taishō* vol. 1, No. 0001. The Buddha's final teaching before parinirvāṇa.
 [^10]: *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu, *Taishō* vol. 48, No. 2012A.
@@ -330,7 +330,7 @@ The person who does not know this is still looking outside.
 [^16]: *Jingde Chuandeng Lu* 《景德傳燈錄》, fascicle 28, Linji Yixuan, *Taishō* vol. 51, No. 2076.
 [^17]: Brickman, P. and Campbell, D. T. "Hedonic Relativism and Planning the Good Society." In *Adaptation-Level Theory*, 1971.
 [^18]: Brickman, P., Coates, D., and Janoff-Bulman, R. "Lottery Winners and Accident Victims: Is Happiness Relative?" *JPSP* 36.8 (1978).
-[^19]: The Buddha accepting the cowherd woman's milky rice offering is recorded in the *Guoqu Xianxai Yinguo Jing* 《過去現在因果經》 and other biographical literature. His partaking of food after awakening is recorded in various Vinaya texts.
+[^19]: The Buddha accepting the cowherd woman's milky rice offering is recorded in the *Guoqu Xianzai Yinguo Jing* 《過去現在因果經》 and other biographical literature. His partaking of food after awakening is recorded in various Vinaya texts.
 [^20]: Shi Huijing 釋慧鏡, "Awareness Is the Turning Point — Manaskāra and the Quantum Observer Effect in Contemplative Doctrine" 「覺察即轉向——作意心所與量子觀測者效應的修行義理」, Point-to-the-moon dharma-research, 2026.
 [^21]: Shi Huijing 釋慧鏡, "Deep into the Causal Chain — Shaping Your Future" 「深入因果鏈——決定你的未來」, Point-to-the-moon dharma-research, 2026.
 
