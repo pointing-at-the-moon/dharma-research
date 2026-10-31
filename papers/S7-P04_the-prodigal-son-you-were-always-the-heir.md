@@ -6,7 +6,7 @@ series_short: "S7"
 paper_id: "S7-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Prodigal Son
@@ -257,7 +257,7 @@ How are the *Lotus*'s "gathering three into one" and Yogācāra's "five distinct
 
 Kuiji presses this position to its sharpest formulation in the *Dasheng Fayuan Yilin Zhang*: "The *Lotus* assembly addresses the indeterminate; the two-vehicle teachings are expedient, the One Vehicle is real... and the *Lotus*'s One Vehicle, taught only in dependence on lineage-possessing beings, is itself expedient [for that audience]; the *Śrīmālā Sūtra*'s One Vehicle, which depends even on those without lineage, is the real."[^20] Kuiji thus *demotes* the *Lotus* from a universalist instrument that gathers all sentient beings into a more restricted vehicle directed at the indeterminate lineage.
 
-**Route Two: Fazang's mediation — the two-tier reading of conventional and real teachings.** Fazang's *Awakening of Faith Commentary* offers the alternative:[^21]
+**Route Two: Fazang's mediation — the two-tier reading of conventional and real teachings.** Fazang's *Dasheng Qixin Lun Yiji* (*Commentary on the Awakening of Mahāyāna Faith*), fascicle 1 (卷上), offers the alternative:[^21]
 
 > The audience of this teaching has two modes. First, under the conventional teaching, it concerns the bodhisattva-lineage and the indeterminate, but not the other three (since they have no part) — as the *Yogācārabhūmi* and others say. Second, under the real teaching, all sentient beings are its audience, since none will fail ultimately to attain bodhi.
 
@@ -353,7 +353,7 @@ For daily practice: do not affix lineage labels to yourself (whether "determinat
 - *Buddhadhātu-śāstra* (*Foxing lun* 佛性論), attrib. Vasubandhu, trans. Paramārtha. Taishō vol. 31, no. 1610.
 - *Ratnagotravibhāga* (*Jiujing yisheng baoxing lun* 究竟一乘寶性論), trans. Ratnamati. Taishō vol. 31, no. 1611.
 - *Awakening of Faith in the Mahāyāna* (*Dasheng qixin lun* 大乘起信論), attrib. Aśvaghoṣa, trans. Paramārtha. Taishō vol. 32, no. 1666.
-- *Awakening of Faith Commentary* (*Dasheng qixin lun shu* 大乘起信論疏), Fazang. Taishō vol. 44, no. 1846.
+- 《大乘起信論義記》*Dasheng Qixin Lun Yiji* (*Commentary on the Awakening of Mahāyāna Faith*), Fazang. Taishō vol. 44, no. 1846.
 
 **Mahāparinirvāṇa-sūtra (cited via commentaries; not in vault):**
 - *Mahāparinirvāṇa-sūtra* (*Da banniepan jing* 大般涅槃經), trans. Dharmakṣema. Taishō vol. 12, no. 0374.
@@ -383,7 +383,7 @@ This paper does not cite modern secondary interpretive works.
 | 15 | *Foxing lun* | T31 | 1610 | 1, 4 |
 | 16 | *Ratnagotravibhāga* | T31 | 1611 | 1, 4 |
 | 17 | *Awakening of Faith* | T32 | 1666 | (whole) |
-| 18 | *Awakening of Faith Commentary* (Fazang) | T44 | 1846 | 1 |
+| 18 | *Dasheng Qixin Lun Yiji* (Fazang) | T44 | 1846 | 1 |
 | 19 | *Mahāparinirvāṇa-sūtra* | T12 | 0374 | *Tathāgata Nature* (via commentarial citations) |
 
 ---
@@ -442,9 +442,9 @@ This paper does not cite modern secondary interpretive works.
 
 [^20]: *Dasheng fayuan yilin zhang*, fascicle 1 (*Vehicles Chapter*), "the *Lotus* assembly addresses the indeterminate, with the two-vehicles as expedient and the One Vehicle as real... the *Lotus*'s One Vehicle, taught only in dependence on those with lineage, is itself expedient" (法花一會對不定機，以二為方便，一乘為真實……又法花一乘唯談有性為依，故是方便). Kuiji's classification of the *Lotus* as "expedient teaching to the indeterminate audience." Taishō vol. 45, no. 1861.
 
-[^21]: *Dasheng qixin lun shu*, fascicle 1, "the audience of this teaching has two modes: under the conventional teaching, the bodhisattva-lineage and the indeterminate are its audience... under the real teaching, all sentient beings are its audience" (一約權教，即五種姓中，菩薩種姓及不定性是此所為……二約實教，一切眾生皆此所為). Fazang's two-tier reading. Taishō vol. 44, no. 1846.
+[^21]: *Dasheng Qixin Lun Yiji*, fascicle 1 (卷上, T44n1846 0243c09–c12), "Fourth, the audience of the teaching: this is said in two modes. Under the conventional teaching, among the five lineages the bodhisattva-lineage and the indeterminate are its audience... Under the real teaching, all sentient beings are its audience" (第四教所被機。說有二重。一約權教。即五種姓中。菩薩種姓及不定性。是此所為。……二約實教。一切眾生皆此所為。). Fazang's two-tier reading. Taishō vol. 44, no. 1846.
 
-[^22]: *Dasheng qixin lun shu*, fascicle 1, "the *Buddha-Nature Treatise* judges the doctrine of the absolutely lineage-less as non-ultimate teaching, so we know that 'permanent absence of lineage' is non-ultimate... the determinate-lineage *śrāvaka* must enter the remainderless before he can turn his mind" (《佛性論》判說無佛性是不了教故也，准此當知，永無種姓非盡理說……決定種姓未入無餘前定不迴心，要入無餘方有迴心). Fazang's determination that the lineage-less doctrine is non-ultimate. Taishō vol. 44, no. 1846.
+[^22]: *Dasheng Qixin Lun Yiji*, fascicle 1 (卷上, T44n1846 0243c16–c18 and 0244a15–a16), "In the second fascicle of the *Buddha-Nature Treatise*, the doctrine that some lack buddha-nature is judged non-ultimate teaching; from this we know that 'permanent absence of lineage' is not a statement of ultimate principle... If one is of determinate lineage, before entering the remainderless one definitely does not turn one's mind; only upon entering the remainderless does one turn one's mind" (佛性論第二卷中。判說無佛性是不了教故也。准此當知。永無種姓非盡理說。……若決定種姓。未入無餘前定不迴心。要入無餘。方有迴心。). Fazang's determination that the lineage-less doctrine is non-ultimate. Taishō vol. 44, no. 1846.
 
 [^23]: *Yogācārabhūmi*, fascicle 35, *Lineage Chapter* of the *Bodhisattva-bhūmi*, "the lineage-less *pudgala*, lacking lineage, even though he may possess the basis for arousing the mind and undertaking practice, is by determination unfit to fulfill supreme perfect awakening" (住無種姓補特伽羅，無種姓故，雖有發心及行加行為所依止，定不堪任圓滿無上正等菩提). The Yogācāra scriptural support for "the lineage-less do not realize bodhi." Taishō vol. 30, no. 1579.
 
