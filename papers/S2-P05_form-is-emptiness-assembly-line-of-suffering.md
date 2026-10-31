@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Form Is Emptiness: The Assembly Line of Suffering
@@ -61,7 +61,7 @@ So the Buddha began teaching from form-aggregate. And so shall we.
 
 ### 2.1 The *Mahāprajñāpāramitā Sūtra* — The Source of the Four Lines on Form and Emptiness
 
-The *Heart Sūtra* is a distillation of the Prajñāpāramitā sūtras. The complete context of the four lines on form and emptiness is preserved in the extensive version of the *Mahāprajñāpāramitā Sūtra*. Kuiji cites this original passage in his *Youzan* (Exquisite Commentary on the Heart Sūtra):
+The *Heart Sūtra* is a distillation of the Prajñāpāramitā sūtras. The complete context of the four lines on form and emptiness is preserved in the extensive version of the *Mahāprajñāpāramitā Sūtra*. In Kuiji's *Youzan* (Exquisite Commentary on the Heart Sūtra), the proponent of superior emptiness (勝空者) cites this original passage:
 
 > 「所以者何？色自性空，不由空故。色空非色，色不離空，空不離色，色即是空，空即是色。」[^1]
 >
@@ -400,7 +400,7 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 ## Footnotes
 
-[^1]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2. Citing the original text of the *Mahāprajñāpāramitā Sūtra*.
+[^1]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2 (T33n1710 0536c09–c11). The passage falls within the speech of the proponent of superior emptiness (勝空者言, 0536c08–c21), citing the original text of the *Mahāprajñāpāramitā Sūtra*.
 
 [^2]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 2. The Buddha and the bhikṣus discuss form-aggregate as impermanent, therefore suffering, therefore not-self. See also fascicle 3, sūtra 86 for a parallel version.
 
