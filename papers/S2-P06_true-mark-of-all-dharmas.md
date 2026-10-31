@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P06"
 paper_number: 6
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The True Mark of All Dharmas: This Mind Is Unborn and Unceasing
@@ -17,7 +17,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The eighteen characters of the Heart Sūtra's passage — "The true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease" — constitute the highest concentration of doctrinal meaning in the entire text. This paper proposes that these six negations are not abstract philosophical categories but the Buddha's direct pointing to the nature of mind itself. "Empty mark" (空相, śūnya-lakṣaṇa) refers to the true mark of all dharmas, i.e. tathatā (suchness). "No arising, no ceasing" points to the unconditioned nature of tathatā — the dharma-realm itself was never fabricated. "No defilement, no purity" indicates that the essence of tathatā transcends the polarity of purity and impurity — defilement and purity are functional states of consciousness, not the nature of mind. "No increase, no decrease" indicates that mind is not material and therefore unlimited — its essence neither grows through awakening nor diminishes through delusion. The paper builds its doctrinal framework on three layers: the Buddha's own words as sūtras (the *Mahāprajñāpāramitā Sūtra*, the *Anūnatvāpūrṇatva-nirdeśa*, the *Śrīmālādevī-siṃhanāda Sūtra*, and the *Śūraṅgama Sūtra*), bodhisattva treatises as warp (*Ratnagotravibhāga* and *Cheng weishi lun*), and patriarchal commentaries as verification (Kuiji's *Youzhan* and Fazang's *Lüeshu*). Special attention is given to Kuiji's dialectical treatment of the six negations using the ākāśa (space) and mirage analogies, and Fazang's threefold exposition — by stage, by dharma, and by contemplative practice — which maps the six negations onto the three-natures-three-no-natures framework. The cross-disciplinary section offers conservation of energy and the triple point of water as heuristic analogies. The Middle Way Correction section cites the Buddha's own refutation of Ānanda's lapis lazuli analogy, and strictly distinguishes the Dharmapāla-Xuanzang position ("tathatā does not condition-follow") from the *Awakening of Faith* position ("tathatā follows conditions").
+The eighteen characters of the Heart Sūtra's passage — "The true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease" — constitute the highest concentration of doctrinal meaning in the entire text. This paper proposes that these six negations are not abstract philosophical categories but the Buddha's direct pointing to the nature of mind itself. "Empty mark" (空相, śūnya-lakṣaṇa) refers to the true mark of all dharmas, i.e. tathatā (suchness). "No arising, no ceasing" points to the unconditioned nature of tathatā — the dharma-realm itself was never fabricated. "No defilement, no purity" indicates that the essence of tathatā transcends the polarity of purity and impurity — defilement and purity are functional states of consciousness, not the nature of mind. "No increase, no decrease" indicates that mind is not material and therefore unlimited — its essence neither grows through awakening nor diminishes through delusion. The paper builds its doctrinal framework on three layers: the Buddha's own words as sūtras (the *Mahāprajñāpāramitā Sūtra*, the *Anūnatvāpūrṇatva-nirdeśa*, the *Śrīmālādevī-siṃhanāda Sūtra*, and the *Śūraṅgama Sūtra*), bodhisattva treatises as warp (*Ratnagotravibhāga* and *Cheng weishi lun*), and patriarchal commentaries as verification (Kuiji's *Youzan* and Fazang's *Lüeshu*). Special attention is given to Kuiji's dialectical treatment of the six negations using the ākāśa (space) and mirage analogies, and Fazang's threefold exposition — by stage, by dharma, and by contemplative practice — which maps the six negations onto the three-natures-three-no-natures framework. The cross-disciplinary section offers conservation of energy and the triple point of water as heuristic analogies. The Middle Way Correction section cites the Buddha's own refutation of Ānanda's lapis lazuli analogy, and strictly distinguishes the Dharmapāla-Xuanzang position ("tathatā does not condition-follow") from the *Awakening of Faith* position ("tathatā follows conditions").
 
 **摘要**
 
@@ -39,7 +39,7 @@ The preceding passages — from Avalokiteśvara's practice (S2-P02) through the 
 
 But deconstruction is not the goal. The terminus of prajñā is not "everything is empty" — that would merely be another attachment, substituting emptiness-attachment for form-attachment. What prajñā truly points to is that which cannot be deconstructed.
 
-Here the Heart Sūtra pivots. The Buddha calls out Śāriputra's name — in the oral tradition, calling someone's name is the most solemn form of awakening — and then delivers the sūtra's most essential pronouncement:
+Here the Heart Sūtra pivots. The sūtra calls out Śāriputra's name — in the oral tradition, calling someone's name is the most solemn form of awakening — and then delivers its most essential pronouncement:
 
 > Śāriputra, the true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease.
 
@@ -97,11 +97,11 @@ The direct scriptural basis for "no increase, no decrease" appears most concentr
 >
 > "Beings are the dharma body; the dharma body is beings. 'Beings' and 'dharma body' — the meaning is one, only the name differs."[^4]
 
-[^4]: *Anūnatvāpūrṇatva-nirdeśa Sūtra* (佛說不增不減經), trans. Bodhiruci, T16, No. 668. Cited via *Zongjing lu* fascicle 17 (T2016) and *Huayan jing shu* fascicle 2 (T1866).
+[^4]: *Anūnatvāpūrṇatva-nirdeśa Sūtra* (佛說不增不減經), trans. Bodhiruci, T16, No. 668. Cited via *Zongjing lu* fascicle 17 (T2016) and *Huayan yisheng jiaoyi fenqi zhang* fascicle 2 (T1866).
 
 The doctrinal impact of this sūtra is radical: the dharma body and the realm of beings are "one in meaning, different only in name." When beings attain buddhahood, the buddha-realm does not increase and the being-realm does not decrease. To perceive increase or decrease here, the Buddha directly judges as "the great wrong view."
 
-The *Huayan jing shu* further cites the *Mañjuśrī Prajñā Sūtra*:
+The *Vajra-ṛṣi-śāstra* (fascicle 9) further cites the *Mañjuśrī Prajñā Sūtra*:
 
 > "Suppose all buddhas in the ten directions, each abiding for one kalpa or more, teaching the Dharma day and night without cease, each liberating immeasurable Ganges-sands of beings into nirvāṇa — still the realm of beings neither increases nor decreases. Why? Because apart from the dharma-realm of tathatā, the fixed characteristic of 'beings' cannot be found. Therefore the realm of beings neither increases nor decreases."[^5]
 
@@ -142,11 +142,11 @@ Fascicle ten at the exhaustion of the consciousness-aggregate confirms again: "T
 
 The "empty mark" (空相) in "the true mark of all dharmas is empty" is easily misread as "the appearance of emptiness" — as if emptiness has a look, and the Buddha is telling you what it looks like.
 
-Kuiji in the *Youzhan* (幽贊), fascicle two, precisely corrects this misreading. He cites a verse from the *Madhyāntavibhāga* (辯中邊論, T1600):
+Kuiji in the *Youzan* (幽贊), fascicle two, precisely corrects this misreading. He cites a verse from the *Madhyāntavibhāga* (辯中邊論, T1600):
 
 > "Because there is no duality yet there is its absence, it is neither existent nor non-existent, neither different nor identical — this is called the empty mark."[^10]
 
-[^10]: *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), fascicle 2, by Kuiji, T33, No. 1710. All subsequent Kuiji citations are from this fascicle.
+[^10]: *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), fascicle 2, by Kuiji, T33, No. 1710. All subsequent Kuiji citations are from this fascicle.
 
 "Empty mark" is not the appearance of emptiness; it is the true nature (實相) of all dharmas — which in Yogācāra terms is tathatā. "The suchness of consciousness means: all conditioned things are nothing but consciousness; this consciousness has two meanings, hence it is called 'suchness of suchness'" — all dharmas are manifested by consciousness alone, and the suchness-nature of consciousness is the empty mark.
 
@@ -158,11 +158,11 @@ The two commentators arrive at the same destination by different routes: empty m
 
 ### 3.2 No Arising, No Ceasing: Tathatā as the Unconditioned
 
-Kuiji's treatment of "no arising, no ceasing" in the *Youzhan* employs a method of three-position dialectic. He first distinguishes the sūtra's structure: "Previously [the text] declared the emptiness of the substance of dharmas; now it declares the emptiness of the meaning of dharmas" — the earlier "form is emptiness" addresses the emptiness of dharmas' substance; the present six negations address the emptiness of dharmas' attributes.
+Kuiji's treatment of "no arising, no ceasing" in the *Youzan* employs a method of two-position dialectic. He first distinguishes the sūtra's structure: "Previously [the text] declared the emptiness of the substance of dharmas; now it declares the emptiness of the meaning of dharmas" — the earlier "form is emptiness" addresses the emptiness of dharmas' substance; the present six negations address the emptiness of dharmas' attributes.
 
-He then unfolds three positions[^12]:
+He then unfolds two positions[^12]:
 
-[^12]: Kuiji, *Youzhan*, fascicle 2, T33, No. 1710.
+[^12]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710.
 
 **The proponent of superior emptiness** argues: according to conventional truth, form and so on exist, so arising and ceasing are possible. According to ultimate truth, form and so on are fundamentally empty — how could there be arising and ceasing within emptiness? Hence: no arising, no ceasing.
 
@@ -198,7 +198,7 @@ He cites a verse as evidence:
 
 > "Neither defiled nor not defiled, neither pure nor not pure — because mind-nature is originally pure, [yet] defiled by adventitious dust."[^14]
 
-[^14]: Kuiji, *Youzhan*, fascicle 2, T33, No. 1710. This verse appears in multiple sūtras and śāstras.
+[^14]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710. This verse appears in multiple sūtras and śāstras.
 
 The four lines of this verse contain a precise essence-function distinction: the first two lines speak of the **essence** — tathatā itself is neither defiled nor pure, transcending the polarity entirely. The latter two lines speak of **function** — mind-nature is originally pure (essence), yet defiled by adventitious dust (the defiled aspect of function).
 
@@ -253,11 +253,11 @@ Fazang reads "no increase, no decrease" from the perspective of stage:
 
 Synthesizing the above, Kuiji and Fazang's interpretations of the six negations form a clear complementary pattern.
 
-**Kuiji emphasizes analysis.** He employs three-position dialectics and deploys the ākāśa and mirage analogies as primary tools. The mirage analogy is especially incisive:
+**Kuiji emphasizes analysis.** He employs two-position dialectics and deploys the ākāśa and mirage analogies as primary tools. The mirage analogy is especially incisive:
 
 > "Like seeing a mirage and grasping it as real water — this 'water' has always been empty; how could it have arising or ceasing? Yet it is not that there is no mirage with the semblance of water."[^20]
 
-[^20]: Kuiji, *Youzhan*, fascicle 2, T33, No. 1710.
+[^20]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710.
 
 Seeing a distant mirage and clinging to it as water — this "water" was never anything but empty. How could it arise or cease? Yet one cannot say there is no mirage — the mirage does present the appearance of water. The imagined nature (water) is empty; the dependent nature (mirage) exists. What is empty is the "real water" you superimposed; not the dependently arisen appearance itself.
 
@@ -289,7 +289,7 @@ The phase transitions of water provide another intuitive entry: the molecular st
 
 ### 5.1 Even Lapis Lazuli Cannot Be Grasped
 
-Section II cited the Śūraṅgama Sūtra's lapis lazuli analogy as scriptural evidence. But in the very same sūtra, fascicle one, the Buddha himself refutes Ānanda's attachment to the lapis lazuli analogy:
+Section II cited the Śūraṅgama Sūtra's lapis lazuli analogy as scriptural evidence. But in the very same sūtra, fascicle one, the Buddha refutes a lapis lazuli comparison that Ānanda himself proposes:
 
 Ānanda says: "It is like a person taking a lapis lazuli bowl and placing it over both eyes — though an object covers them, it does not obstruct [vision]."
 
@@ -297,7 +297,7 @@ The Buddha counters: "If your mind were like lapis lazuli covering [your eyes], 
 
 [^22]: *Śūraṅgama Sūtra*, fascicle 1, T19, No. 945.
 
-The Buddha dismantles his own analogy. The value of the lapis lazuli image lies in pointing toward the transparency and undefilability of mind-nature. But if you actually equate mind with a piece of lapis lazuli — a material object with shape, capable of being "placed over your eyes" — you have fallen back into attachment to characteristics. The analogy is a raft for crossing the river; once across, the raft must be set down.
+The Buddha dismantles Ānanda's analogy. The value of the lapis lazuli image lies in pointing toward the transparency and undefilability of mind-nature. But if you actually equate mind with a piece of lapis lazuli — a material object with shape, capable of being "placed over your eyes" — you have fallen back into attachment to characteristics. The analogy is a raft for crossing the river; once across, the raft must be set down.
 
 ### 5.2 "Unborn and Unceasing" Does Not Equal Eternalism
 
@@ -373,9 +373,9 @@ This is why "deeply practicing prajñāpāramitā" is so critical. What you are 
 - *Vajra-ṛṣi-śāstra* (金剛仙論), by Vasubandhu, trans. Bodhiruci, T25, No. 1512.
 - *Madhyāntavibhāga* (辯中邊論), by Vasubandhu, trans. Xuanzang, T31, No. 1600.
 - *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Paramārtha, T31, No. 1593.
+- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Paramārtha, T31, No. 1595.
 - *Ratnagotravibhāga* (究竟一乘寶性論), trans. Ratnamati, T31, No. 1611.
-- *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
 - *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), by Fazang, T33, No. 1712.
 - *Zongjing lu* (宗鏡錄), compiled by Yanshou, T48, No. 2016.
 
@@ -403,9 +403,9 @@ This is why "deeply practicing prajñāpāramitā" is so critical. What you are 
 | Vajra-ṛṣi-śāstra 金剛仙論 | T25, No. 1512 | fasc. 9 |
 | Madhyāntavibhāga 辯中邊論 | T31, No. 1600 | — |
 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | fasc. 3 |
-| Mahāyānasaṃgrahabhāṣya 攝大乘論釋 | T31, No. 1593 | — |
+| Mahāyānasaṃgrahabhāṣya 攝大乘論釋 | T31, No. 1595 | — |
 | Ratnagotravibhāga 寶性論 | T31, No. 1611 | fasc. 2, 3 |
-| Youzhan 幽贊 (Kuiji) | T33, No. 1710 | fasc. 2 |
+| Youzan 幽贊 (Kuiji) | T33, No. 1710 | fasc. 2 |
 | Lüeshu 略疏 (Fazang) | T33, No. 1712 | fasc. 1 |
 | Zongjing lu 宗鏡錄 | T48, No. 2016 | fasc. 56 |
 
