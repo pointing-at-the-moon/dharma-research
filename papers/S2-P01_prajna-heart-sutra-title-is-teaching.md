@@ -5,7 +5,7 @@ series_short: "S2"
 paper_id: "S2-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Prajñā · Heart · Sūtra — The Title IS the Teaching
@@ -16,9 +16,9 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-《般若波羅蜜多心經》的標題通常被讀作「般若波羅蜜多的心要之經」——一部六百卷《大般若經》的精華縮本。本文提出一個不同的斷句與詮釋方式：「般若波羅蜜 · 心 · 經」，其中「心」不是修飾語，而是主體。依據窺基《般若波羅蜜多心經幽贊》（T1710）的五義解題框架與唯識三性理論，本文論證：標題中的「般若」直指圓成實性——心本具的究竟智慧；「波羅蜜多」描述依他起性上的修行到達；而修行所遣除的一切執著，即遍計所執性。如此，七個字的標題便已完整表述了唯識轉依的全部義理結構：不是打造一顆新的心，而是在同一顆心上轉捨迷執、轉得本覺。標題本身，就是整個教法。
+《般若波羅蜜多心經》的標題通常被讀作「般若波羅蜜多的心要之經」——一部六百卷《大般若經》的精華縮本。本文提出一個不同的斷句與詮釋方式：「般若波羅蜜 · 心 · 經」，其中「心」不是修飾語，而是主體。依據窺基《般若波羅蜜多心經幽贊》（T1710）的五義解題框架與唯識三性理論，本文論證：標題中的「般若」直指圓成實性——心本具的究竟智慧；「波羅蜜多」描述依他起性上的修行到達；而修行所遣除的一切執著，即遍計所執性。如此，八個字的標題便已完整表述了唯識轉依的全部義理結構：不是打造一顆新的心，而是在同一顆心上轉捨迷執、轉得本覺。標題本身，就是整個教法。
 
-The title of the *Heart Sutra* is conventionally read as "the heart/essence sūtra of Prajñāpāramitā"—a condensation of the 600-fascicle *Mahāprajñāpāramitā Sūtra*. This paper proposes an alternative parsing: "Prajñāpāramitā · Heart · Sūtra," in which "Heart" (心) is the subject, not a modifier. Drawing on Kuiji's five-fold exegesis in the *Bore boluomiduo xinjing youzan* (T1710) and the Yogācāra three-nature theory, the paper argues that "Prajñā" points to *parinispanna-svabhāva* (the perfected nature)—the mind's inherent ultimate wisdom; "Pāramitā" describes the soteriological journey across *paratantra-svabhāva* (the dependent nature); and what practice eliminates is *parikalpita-svabhāva* (the imagined nature). Thus the seven characters of the title already contain the complete structure of Yogācāra *āśraya-parāvṛtti* (transformation of the basis): not constructing a new mind, but on the same mind turning away from delusion and turning toward original awakening. The title itself is the entire teaching.
+The title of the *Heart Sutra* is conventionally read as "the heart/essence sūtra of Prajñāpāramitā"—a condensation of the 600-fascicle *Mahāprajñāpāramitā Sūtra*. This paper proposes an alternative parsing: "Prajñāpāramitā · Heart · Sūtra," in which "Heart" (心) is the subject, not a modifier. Drawing on Kuiji's five-fold exegesis in the *Bore boluomiduo xinjing youzan* (T1710) and the Yogācāra three-nature theory, the paper argues that "Prajñā" points to *parinispanna-svabhāva* (the perfected nature)—the mind's inherent ultimate wisdom; "Pāramitā" describes the soteriological journey across *paratantra-svabhāva* (the dependent nature); and what practice eliminates is *parikalpita-svabhāva* (the imagined nature). Thus the eight characters of the title already contain the complete structure of Yogācāra *āśraya-parāvṛtti* (transformation of the basis): not constructing a new mind, but on the same mind turning away from delusion and turning toward original awakening. The title itself is the entire teaching.
 
 **Keywords:** Heart Sutra, Three Natures, *āśraya-parāvṛtti*, Kuiji, *Youzan* / 般若波羅蜜多心經、三性、轉依、窺基、幽贊
 
@@ -102,7 +102,7 @@ This equation directly corresponds to the re-parsed title. If "heart" in "Prajñ
 - **Pāramitā** = the soteriological journey across *paratantra-svabhāva* = the transformative process of conventional cognition
 - What practice eliminates = *parikalpita-svabhāva* = deluded cognition = the "self" and "my world" you have been constructing
 
-The seven characters of the title already constitute a complete articulation of the three natures.
+The eight characters of the title already constitute a complete articulation of the three natures.
 
 ### 3.2 Āśraya-parāvṛtti — Not Forging a New Mirror, but Wiping Away the Dust
 
@@ -192,9 +192,9 @@ Nirvāṇa is "revealed" (所顯得), not "manufactured" (所造得). The act of
 
 ---
 
-## VI. Conclusion: Seven Characters, a Map Home
+## VI. Conclusion: Eight Characters, a Map Home
 
-Let us return to the original question: what do the seven characters of "般若波羅蜜多心經" actually say?
+Let us return to the original question: what do the eight characters of "般若波羅蜜多心經" actually say?
 
 | Title Component | Yogācāra Three Natures | Doctrinal Meaning |
 |----------------|----------------------|-------------------|
@@ -221,7 +221,7 @@ The Tathāgata has nowhere from which he comes and nowhere to which he goes. You
 3. Trans. Kumārajīva 鳩摩羅什, *Vajracchedikā Prajñāpāramitā Sūtra* 《金剛般若波羅蜜經》 (T0235), *Taishō* vol. 8, No. 235.
 4. Nāgārjuna 龍樹菩薩造, trans. Kumārajīva 鳩摩羅什, *Mahāprajñāpāramitā-śāstra* 《大智度論》 (T1509), *Taishō* vol. 25, No. 1509.
 5. Vasubandhu 世親菩薩造, trans. Xuanzang 玄奘, *Madhyāntavibhāga* 《辯中邊論》 (T1600), *Taishō* vol. 31, No. 1600.
-6. Vasubandhu 世親菩薩造, trans. Prabhākaramitra 波羅頗蜜多羅, *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》 (T1604), *Taishō* vol. 31, No. 1604.
+6. Asaṅga 無著菩薩造, trans. Prabhākaramitra 波羅頗蜜多羅, *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》 (T1604), *Taishō* vol. 31, No. 1604.
 7. Trans. Śikṣānanda 實叉難陀, *Dasheng Qixin Lun* 《大乘起信論》 (T1667), *Taishō* vol. 32, No. 1667.
 8. *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》 (T2008), *Taishō* vol. 48, No. 2008.
 
