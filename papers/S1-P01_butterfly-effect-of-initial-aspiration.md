@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Butterfly Effect of Initial Aspiration
@@ -22,7 +22,7 @@ This paper proposes a cross-sectarian Buddhist thesis: **the initial generation 
 
 ## I. The Problem: The Weight of Initial Aspiration
 
-The degree of importance that Buddhist traditions across sectarian lines assign to "initial aspiration" (prathamaṃ cittam utpādayati) far exceeds ordinary understanding. The *Avataṃsaka Sūtra* (華嚴經), in its chapter on pure conduct (梵行品), states:
+The degree of importance that Buddhist traditions across sectarian lines assign to "initial aspiration" (prathamaṃ cittam utpādayati) far exceeds ordinary understanding. The *Avataṃsaka Sūtra* (華嚴經), in its chapter on Brahma conduct (梵行品), states:
 
 > "At the moment of initial aspiration, one immediately attains perfect awakening, knows the true nature of all dharmas, is fully endowed with the body of wisdom, and does not rely on another for awakening."[^1]
 
@@ -112,7 +112,7 @@ In chaos theory, a minute change in initial conditions can lead to vast differen
 
 **(2) Self-Amplification**
 
-The *śruta-vāsanā* theory of the *Awakening of Mahāyāna Faith* indicates that once a pure seed enters the store, it will continue to grow through subsequent study, reflection, and practice (*śruta-cintā-bhāvanā*). Unlike a typical initial perturbation in a physical system (which may be absorbed by the system's stability), this is a perturbation with self-reinforcing properties—more closely resembling a positive feedback loop.
+The *śruta-vāsanā* theory of the *Mahāyānasaṃgraha* indicates that once a pure seed enters the store, it will continue to grow through subsequent study, reflection, and practice (*śruta-cintā-bhāvanā*). Unlike a typical initial perturbation in a physical system (which may be absorbed by the system's stability), this is a perturbation with self-reinforcing properties—more closely resembling a positive feedback loop.
 
 In modern psychology, this mechanism corresponds to the "cognitive restructuring" effect described by CBT: once an individual learns to identify automatic thoughts, this capacity for identification self-reinforces, gradually transforming the entire cognitive pattern. The "psychological flexibility" of ACT (Acceptance and Commitment Therapy) similarly exhibits self-amplifying properties.
 
@@ -126,7 +126,7 @@ It is important to note that this conductivity is not linear causality but field
 
 ## IV. Huayan's Fruition-Ground Confirmation
 
-The core determination of the Avataṃsaka Sūtra's chapter on pure conduct—"at the moment of initial aspiration, one immediately attains perfect awakening"—receives precise doctrinal support within the analytical framework developed above:
+The core determination of the Avataṃsaka Sūtra's chapter on Brahma conduct—"at the moment of initial aspiration, one immediately attains perfect awakening"—receives precise doctrinal support within the analytical framework developed above:
 
 > "At the moment of initial aspiration, one immediately attains perfect awakening, knows the true nature of all dharmas, is fully endowed with the body of wisdom, and does not rely on another for awakening."[^1]
 
@@ -180,7 +180,7 @@ The practical significance of this thesis is: every single moment of bodhicitta 
 
 ### I. Primary Buddhist Sources
 
-[^1]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 12: "Pure Conduct" (梵行品第十二), fascicle 8. T09, No. 278. Translated by Buddhabhadra.
+[^1]: *Avataṃsaka Sūtra* (大方廣佛華嚴經), Chapter 12: "Brahma Conduct" (梵行品第十二), fascicle 8. T09, No. 278. Translated by Buddhabhadra.
 [^2]: *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), Chapter "All Buddhas' Mind-Words" (一切佛語心品), fascicle 4. T16, No. 670. Translated by Guṇabhadra.
 [^2b]: *Laṅkāvatāra Sūtra* (大乘入楞伽經), Chapter "Momentariness" (剎那品), fascicle 5. T16, No. 672. Translated by Śikṣānanda.
 [^3]: *Awakening of Mahāyāna Faith* (大乘起信論). T32, No. 1666. Composed by Aśvaghoṣa, translated by Paramārtha.
