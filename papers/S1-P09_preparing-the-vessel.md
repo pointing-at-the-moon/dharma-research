@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P09"
 paper_number: 9
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Preparing the Vessel — Are You Ready?
@@ -132,7 +132,7 @@ The *Avataṃsaka Sūtra* states:
 
 **All sentient beings have the potential to become dharma vessels.** No one is permanently excluded.
 
-Nāgārjuna, in the *Mahāprajñāpāramitā-śāstra*, explains why the Buddha chose to be born as an ordinary person rather than displaying supernatural powers from birth:
+Nāgārjuna, in the *Mahāprajñāpāramitā-śāstra*, explains why the Buddha, after walking and speaking at birth, chose to live as an ordinary person rather than keep displaying supernatural powers:
 
 > 若菩薩生時，便能行能語，世人當作是念：「今見此人，世未曾有，必是天、龍、鬼、神，其所學法，必非我等所及。」......以此自絕，不得成賢聖法器。[^6]
 >
