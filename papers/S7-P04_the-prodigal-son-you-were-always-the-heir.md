@@ -6,7 +6,7 @@ series_short: "S7"
 paper_id: "S7-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Prodigal Son
@@ -62,7 +62,7 @@ The paper takes up three tasks around these questions.
 
 **Task Two: The Inverse Structure of P03 and P04 Across the Three Commentators.** S7-P03 found that on the Burning House, Madhyamaka (Jizang) and Yogācāra (Kuiji) converge unusually on "there were no three carriages outside the gate" — a finding the author treated as significant. But on the Prodigal Son, the same three commentators (Zhiyi, Jizang, Kuiji) clearly diverge: Zhiyi and Jizang read universally (the prodigal = all śrāvakas), while Kuiji reads restrictively (the prodigal = the indeterminate-lineage śrāvaka only; the determinate-lineage one never becomes a Buddha). This P03/P04 reversal is not random. §3.3 will argue: **it discloses the issue-sensitivity of the Madhyamaka–Yogācāra relation — convergence on epistemological questions (skillful means) and divergence on ontological ones (lineage)**. This is both a supplement to and a correction of S7-P03's earlier conclusion, and it is a more refined description of the overall Madhyamaka–Yogācāra relation.
 
-**Task Three: A Direct Treatment of the Lotus–Yogācāra Tension, Without Pretending It Is Resolved.** The tension between the *Lotus*'s "gathering three into one" and Yogācāra's "five distinct lineages" is real. The paper takes the *Mahāyānasaṃgraha* position ("for the indeterminate-lineage śrāvakas and other bodhisattvas, [the Buddha] speaks the One Vehicle to draw them into the Mahāyāna") together with Fazang's *Dasheng Qixin Lun Yiji* mediation ("under the conventional teaching, five lineages are distinct; under the real teaching, all sentient beings are included") as the mediating framework. But the paper refuses to declare the tension dissolved. Kuiji's stance — "if those bound for quiescence also became buddhas, this would contradict the *Mahāparinirvāṇa-sūtra* and many other passages" — has doctrinal seriousness. §3.4 will present both sides at full strength and let the reader see the actual contour of the tension.
+**Task Three: A Direct Treatment of the Lotus–Yogācāra Tension, Without Pretending It Is Resolved.** The tension between the *Lotus*'s "gathering three into one" and Yogācāra's "five distinct lineages" is real. The paper takes the *Mahāyānasaṃgraha* position ("for the indeterminate-lineage śrāvakas and other bodhisattvas, [the Buddha] speaks the One Vehicle to draw them into the Mahāyāna") together with Fazang's *Dasheng Qixin Lun Yiji* mediation ("under the conventional teaching, among the five lineages the bodhisattva-lineage and the indeterminate are its audience... under the real teaching, all sentient beings are its audience") as the mediating framework. But the paper refuses to declare the tension dissolved. Kuiji's stance — "if those bound for quiescence also became buddhas, this would contradict the *Mahāparinirvāṇa-sūtra* and many other passages" — has doctrinal seriousness. §3.4 will present both sides at full strength and let the reader see the actual contour of the tension.
 
 ### 1.4 Position in the Series
 
