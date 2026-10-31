@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P10"
 paper_number: 10
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The 37 Factors of Awakening: A Complete Methodology from 2500 Years Ago
@@ -112,7 +112,7 @@ If the Buddha's body is born from the 37 factors, and the bodhisattva's pure lan
 
 The seven categories of the 37 factors are not a flat checklist. They contain an internal phase transition.
 
-The *Yogacarabhumi-sastra略纂* (Abbreviated Commentary) records a key insight from Master Tai:
+The *Yuqie Lun Ji* 瑜伽論記 (Dunlun's record of commentary on the *Yogacarabhumi-sastra*) records a key insight from Master Tai:
 
 > 前三——念住、正斷、神足等——為「所依事」，在見道故；後——根、力、覺道支等——為「能依事」。[^5]
 >
@@ -148,9 +148,9 @@ Non-negligence -- not being lazy, not being scattered, not deceiving yourself --
 
 The *Mahaprajnaparamita-sastra* makes this sequence crystal clear:
 
-> 「如行者到師所，聽道法時，先用念持是法，是時名念處。持已，從法中求果，故精進行，是時名正懃。多精進故心散亂，攝心調柔故，名如意足。心調柔已，生五根。是五根增長，能遮煩惱……是名為力。得力已，分別道法有三分……修道用，故名覺。見道用，故名道。」[^18]
+> 「如行者到師所，聽道法時，先用念持是法，是時名念處。持已，從法中求果，故精進行，是時名正懃。多精進故心散亂，攝心調柔故，名如意足。心調柔已，生五根。是五根增長，能遮煩惱……是名為力。得力已，分別道法有三分……此七事能到，故名為分。得是法安隱具足已，欲入涅槃無為城故行是諸法，是時名為道。」[^18]
 >
-> "When a practitioner comes to the teacher and listens to the Dharma, first using mindfulness to hold the teaching -- this is called the foundations of mindfulness. Having retained it, seeking fruition from the Dharma through diligent effort -- this is called the right efforts. Due to excessive effort the mind becomes scattered; collecting and softening the mind -- this is called the bases of spiritual power. Once the mind is softened, the five faculties arise. As these five faculties grow, they can obstruct the afflictions ... this is called the powers. Having gained power, one discerns three aspects of the path ... what is used for cultivating the path is called the awakening factors. What is used for seeing the path is called the [eightfold] path."
+> "When a practitioner comes to the teacher and listens to the Dharma, first using mindfulness to hold the teaching -- this is called the foundations of mindfulness. Having retained it, seeking fruition from the Dharma through diligent effort -- this is called the right efforts. Due to excessive effort the mind becomes scattered; collecting and softening the mind -- this is called the bases of spiritual power. Once the mind is softened, the five faculties arise. As these five faculties grow, they can obstruct the afflictions ... this is called the powers. Having gained power, one discerns three aspects of the path ... these seven things can bring one there, hence they are called 'factors.' Having obtained these dharmas securely and completely, one practices them in order to enter the unconditioned city of nirvana -- at that time it is called the path."
 
 Let us set aside the Buddhist terminology for a moment and examine the **logical structure** of these seven categories:
 
@@ -444,7 +444,7 @@ The 37 factors are a methodology -- they teach you **how to walk.**
 
 But anyone walking the path will eventually ask a deeper question: **What am I walking toward? What is it that I am seeing?**
 
-The Buddha answered that question in 260 characters.
+Avalokitesvara answered that question, for Sariputra, in 260 characters.
 
 Those 260 characters are called the *Heart Sutra* (*Prajnaparamita Hrdaya*).
 
@@ -464,7 +464,7 @@ Series 2 -- we will meet there.
 - *Buddhagotra-sastra* 《佛性論》, fascicle 4, *Taisho* vol. 31, No. 1610.
 - *Sifen Lü Xingshi Chao Zichi Ji* 《四分律行事鈔資持記》, by Yuanzhao 元照, *Taisho* vol. 40, No. 1805.
 - *Mahaprajnaparamita-sastra* 《大智度論》, fascicle 19, by Nagarjuna, trans. Kumarajiva, *Taisho* vol. 25, No. 1509.
-- *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, *Taisho* vol. 43, No. 1829.
+- *Yuqie Lun Ji* 《瑜伽論記》 (Dunlun's record of commentary on the *Yogacarabhumi-sastra*), fascicle 22, *Taisho* vol. 42, No. 1828.
 
 ### II. Modern Scholarship 現代學術著作
 
@@ -489,7 +489,7 @@ Series 2 -- we will meet there.
 | 6 | Buddhagotra-sastra 佛性論 | T31 | 1610 | III |
 | 7 | Sifen Lü Xingshi Chao Zichi Ji 四分律行事鈔資持記 | T40 | 1805 | III |
 | 8 | Mahaprajnaparamita-sastra 大智度論 | T25 | 1509 | III |
-| 9 | Abbreviated Commentary on the Yogacarabhumi-sastra 瑜伽師地論略纂 | T43 | 1829 | II |
+| 9 | Yuqie Lun Ji 瑜伽論記 | T42 | 1828 | II |
 
 ---
 
@@ -510,7 +510,7 @@ Series 2 -- we will meet there.
 [^2]: *Ekottara Agama* 《增壹阿含經》, fascicle 1, Ananda tells Mahakasyapa: "Within a single verse, all 37 factors and all dharmas are born" -- the verse being "Refrain from all evil, cultivate all good, purify your own mind -- this is the teaching of all Buddhas" (諸惡莫作，諸善奉行，自淨其意，是諸佛教), *Taisho* vol. 2, No. 0125.
 [^3]: *Vimalakirtinirdesa Sutra* 《維摩詰所說經》, trans. Kumarajiva, "The 37 factors of the path are the bodhisattva's pure land -- when the bodhisattva attains Buddhahood, beings who have practiced the foundations of mindfulness, right efforts, bases of spiritual power, faculties, powers, awakening factors, and the path will be born in that land," *Taisho* vol. 14, No. 0475.
 [^4]: *Vimalakirti Sutra* 《維摩詰經》, trans. Zhi Qian, "born from the 37 factors of the path" (從三十七道品生), on the source of the Tathagata's merit-body, *Taisho* vol. 14, No. 0474.
-[^5]: *Abbreviated Commentary on the Yogacarabhumi-sastra* 《瑜伽師地論略纂》, fascicle 1, Master Tai's analysis of the 37 factors' four skillful aspects: the first three categories (foundations of mindfulness, right efforts, bases of spiritual power) as the supporting basis for the path of seeing; the latter four (faculties, powers, awakening factors, path) as the supported practices, *Taisho* vol. 43, No. 1829.
+[^5]: *Yuqie Lun Ji* 《瑜伽論記》 (Dunlun), fascicle 22, Master Tai's analysis of the 37 factors' four skillful aspects: the first three categories (foundations of mindfulness, right efforts, bases of spiritual power) as the supporting basis for the path of seeing; the latter four (faculties, powers, awakening factors, path) as the supported practices, *Taisho* vol. 42, No. 1828.
 [^6]: *Ekottara Agama* 《增壹阿含經》, fascicle 7, "Walking in meditation throughout the day, never abandoning the mind's engagement with the 37 factors. When the eye sees form, no conceptual elaboration arises" (竟日經行，未曾捨離意遊三十七道品之法。若眼見色，不起色想), *Taisho* vol. 2, No. 0125.
 [^7]: *Ekottara Agama* 《增壹阿含經》, fascicle 18, "Of all meritorious qualities and the 37 factors of the path, non-negligence is foremost" (諸善功德三十七道品之法，無放逸行為第一), *Taisho* vol. 2, No. 0125.
 [^8]: *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, the bodhisattva on the fourth ground achieves "the fullest accomplishment of the 37 factors," yet "without the most excellent right effort, this attachment [to wholesome dharmas] cannot be extinguished" (若無最勝正勤，此愛不可滅), the perfection of effort (virya-paramita) is completed at this ground, *Taisho* vol. 31, No. 1595.
