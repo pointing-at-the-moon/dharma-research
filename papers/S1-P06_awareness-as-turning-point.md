@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P06"
 paper_number: 6
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Awareness as Turning Point
@@ -160,9 +160,9 @@ Contemplate the five aggregates as impermanent, suffering, empty, and not-self�
 
 Yogācāra analysis of self-grasping (ātma-grāha) is even more precise. The *Cheng Weishi Lun* (Fascicle 4) states:
 
-> 「此意（末那）任運執彼（阿賴耶）見分為我。」「由執我故，執我所故。」[^15]
+> 「應知此意但緣藏識見分非餘……此唯執彼為自內我。」[^15]
 
-*"This consciousness [manas] spontaneously grasps the subjective aspect [darśana-bhāga] of that [ālaya-vijñāna] as self." "Because of grasping self, one grasps what belongs to self."*
+*"It should be known that this manas takes as its object only the seeing-part [darśana-bhāga] of the store-consciousness and nothing else... It grasps that alone as its inner self."*
 
 Manas does not require your "decision" to grasp at self—it operates "spontaneously" (anābhoga), automatically, constantly, without interruption. It takes the subjective cognitive function (darśana-bhāga) of the ālaya-vijñāna as "self," and on this foundation of "self," treats everything related to "me" as "mine"—my body, my reputation, my money, my family.
 
@@ -174,7 +174,7 @@ If the root of passive living is the automatic operation of self-grasping, what 
 
 The answer is: the arising of aspiration—the first moment of activating yoniśo manaskāra.
 
-The *Avataṃsaka Sūtra* (Fascicle 46) makes a resounding declaration:
+The *Avataṃsaka Sūtra* (Fascicle 8) makes a resounding declaration:
 
 > 「初發心時，便成正覺。知一切法真實之性，具足慧身，不由他悟。」[^16]
 
@@ -490,12 +490,12 @@ But the first step is simply this: **This morning, did you see yourself?**
 [^13]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 10. *Taishō Tripiṭaka* Vol. 2, No. 99.
 [^14]: Translated by Gautama Saṅghadeva, *Ekottarāgama* 增壹阿含經, Fascicle 44. *Taishō Tripiṭaka* Vol. 2, No. 125.
 [^15]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicle 4. *Taishō Tripiṭaka* Vol. 31, No. 1585.
-[^16]: Translated by Buddhabhadra, *Avataṃsaka Sūtra* 大方廣佛華嚴經, Fascicle 46. *Taishō Tripiṭaka* Vol. 9, No. 278.
+[^16]: Translated by Buddhabhadra, *Avataṃsaka Sūtra* 大方廣佛華嚴經, Fascicle 8. *Taishō Tripiṭaka* Vol. 9, No. 278.
 [^19]: Translated by Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經. *Taishō Tripiṭaka* Vol. 10, No. 279.
 [^20]: Translated by Gautama Saṅghadeva, *Madhyamāgama* 中阿含經, Fascicle 41. *Taishō Tripiṭaka* Vol. 1, No. 26.
 [^21]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 12. *Taishō Tripiṭaka* Vol. 2, No. 99.
 [^22]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 48. *Taishō Tripiṭaka* Vol. 2, No. 99.
-[^23]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論. *Taishō Tripiṭaka* Vol. 31, No. 1585.
+[^23]: *Bashi Guiju Song* 八識規矩頌 (Verses on the Structure of the Eight Consciousnesses), attributed to Xuanzang, verse on the eighth consciousness; text as given in Putai 普泰, *Bashi Guiju Buzhu* 八識規矩補註, Fascicle 2. *Taishō Tripiṭaka* Vol. 45, No. 1865.
 [^27]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicle 2. *Taishō Tripiṭaka* Vol. 31, No. 1585.
 [^28]: Translated by Gautama Saṅghadeva, *Madhyamāgama* 中阿含經, Fascicle 47. *Taishō Tripiṭaka* Vol. 1, No. 26.
 [^30]: Translated by Gautama Saṅghadeva, *Madhyamāgama* 中阿含經, Fascicle 10. *Taishō Tripiṭaka* Vol. 1, No. 26.
@@ -523,7 +523,7 @@ But the first step is simply this: **This morning, did you see yourself?**
 | 5 | *Bieyi Za Ahan Jing* 別譯雜阿含經 | T02 | No. 100 | Fascicles 8, 16 |
 | 6 | *Madhyamāgama* 中阿含經 | T01 | No. 26 | Fascicles 10, 40, 41, 47 |
 | 7 | *Ekottarāgama* 增壹阿含經 | T02 | No. 125 | Fascicle 44 |
-| 8 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (60-fascicle) | T09 | No. 278 | Fascicle 46 |
+| 8 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (60-fascicle) | T09 | No. 278 | Fascicle 8 |
 | 9 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80-fascicle) | T10 | No. 279 | Samantabhadra chapter |
 
 ---
