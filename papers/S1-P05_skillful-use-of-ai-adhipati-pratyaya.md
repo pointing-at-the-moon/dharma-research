@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P05"
 paper_number: 5
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit
@@ -308,6 +308,7 @@ The core arguments of this paper may be summarized as follows:
 | Ekottarāgama | 增壹阿含經 | T02, No. 125 | Gautama Saṅghadeva |
 | Dīrghāgama | 長阿含經 | T01, No. 1 | Buddhayaśas & Zhu Fonian |
 | Vajracchedikā | 金剛般若波羅蜜經 | T08, No. 235 | Kumārajīva |
+| Vajracchedikā (Yijing) | 佛說能斷金剛般若波羅蜜多經 | T08, No. 239 | Yijing |
 | Cheng Weishi Lun | 成唯識論 | T31, No. 1585 | Dharmapāla et al. / Xuanzang |
 
 ---
