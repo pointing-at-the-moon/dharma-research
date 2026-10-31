@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Form Is Emptiness: The Assembly Line of Suffering
@@ -163,13 +163,13 @@ Where readers get stuck is usually not "form" but "emptiness."
 
 Emptiness is not nothingness. Emptiness does not appear only after form is annihilated.
 
-Kuiji, citing "the sūtra" (經作是言), identifies the key point:
+In Kuiji's *Youzan*, the proponent of superior emptiness (勝空者), citing "the sūtra" (經作是言), identifies the key point:
 
 > 「色自性空，非色滅空。」[^10]
 >
 > "Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear."
 
-The intrinsic nature of form has always been empty — it is not that you destroy form and "emptiness" then emerges. Kuiji uses an analogy: a person with cataracts sees flowers in the sky — but the flowers never existed. The flowers do not need to be annihilated to be "empty" — they were never there to begin with[^11].
+The intrinsic nature of form has always been empty — it is not that you destroy form and "emptiness" then emerges. The proponent of superior emptiness uses an analogy: a person with cataracts sees flowers in the sky — but the flowers never existed. The flowers do not need to be annihilated to be "empty" — they were never there to begin with[^11].
 
 Fazang supplements from the Huayan perspective:
 
@@ -215,7 +215,7 @@ This is annihilationism (ucchedavāda), one of the wrong views the Buddha most s
 
 "Emptiness is not different from form" means: emptiness does not exist as a separate "thing" apart from form-aggregate.
 
-Kuiji, again citing "the sūtra," reinforces the point:
+The *Youzan*'s proponent of superior emptiness, again citing "the sūtra," reinforces the point:
 
 > 「色自性空，非色滅空。」[^14]
 >
@@ -418,19 +418,19 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 [^9]: *Mahāyānābhidharma-samuccaya* 《大乘阿毘達磨集論》, composed by Asaṅga, translated by Xuánzàng, Taishō vol. 31, No. 1605, fascicle 1. Definition of form-aggregate: the four great elements and what is produced by them. The original text analyzes five causes: generative cause, supportive cause, establishing cause, sustaining cause, and nourishing cause.
 
-[^10]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2 (T33n1710 0536c21 「經作是言」). Kuiji attributes the line to "the sūtra" without naming it; it is not found in the *Mahāprajñāpāramitā Sūtra* (T0220), its closest canonical parallel being the *Vimalakīrti-nirdeśa* (T14n0475 0551a19: 「色即是空，非色滅空，色性自空」). "Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear."
+[^10]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2 (T33n1710 0536c21 「經作是言」). The line falls within the speech of the proponent of superior emptiness (勝空者言, 0536c08–c21), who attributes it to "the sūtra" without naming it; the proponent of the correct position (如應者) then qualifies it (0536c22–24: 「色、空相待，色滅空亡；故非本來色體空也」 — form's own nature being empty does not mean that form's substance is originally nonexistent); it is not found in the *Mahāprajñāpāramitā Sūtra* (T0220), its closest canonical parallel being the *Vimalakīrti-nirdeśa* (T14n0475 0551a19: 「色即是空，非色滅空，色性自空」). "Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear."
 
-[^11]: Kuiji's original text: "Like a person with cataracts seeing flowers in the sky — their nature was never real. Must the flowers be annihilated before they become empty?" (如翳見花，自性非有，豈要花滅，彼始成空？) — *Prajñāpāramitā-hṛdaya-sūtra Youzan*, ibid.
+[^11]: The proponent of superior emptiness in Kuiji's *Youzan*, original text: "Like a person with cataracts seeing flowers in the sky — their nature was never real. Must the flowers be annihilated before they become empty?" (如翳見花，自性非有，豈要花滅，彼始成空？) — *Prajñāpāramitā-hṛdaya-sūtra Youzan*, ibid.
 
 [^12]: Fazang 法藏, *Prajñāpāramitā-hṛdaya-sūtra Lüèshū* 《般若波羅蜜多心經略疏》, Taishō vol. 33, No. 1712, fascicle 1.
 
 [^13]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 2, sūtra 33. "If form were self, form would not lead to affliction and suffering."
 
-[^14]: Kuiji citing "the sūtra"; see note 10. See also Fazang's *Lüèshū*: "Form is emptiness; it is not that form must be annihilated for emptiness to appear."
+[^14]: The proponent of superior emptiness in Kuiji's *Youzan*, citing "the sūtra"; see note 10. See also Fazang's *Lüèshū*: "Form is emptiness; it is not that form must be annihilated for emptiness to appear."
 
 [^15]: *Madhyama Āgama* 《中阿含經》, translated by Gautama Saṅghadeva, Taishō vol. 1, No. 0026, fascicle 21. The analogy of a chicken feather and sinew placed in fire.
 
-[^16]: Woncheuk, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711, fascicle 1. Following Dharmapāla's interpretation of the four lines, mapping the three natures onto the four lines on form and emptiness. "Not different" functions as apophasis (negating separation); "is" functions as cataphasis (affirming identity) — together constituting "double negation, double affirmation."
+[^16]: Woncheuk, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711, fascicle 1. Following Dharmapāla's interpretation of the four lines, mapping the three natures onto the four lines on form and emptiness. "Not different" functions as apophasis (negating separation); "is" functions as cataphasis (affirming identity) — which this paper, taking the two together, calls "double negation, double affirmation."
 
 [^17]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 3, sūtra 63. Imputing a self → not separating from "mine" → entering the sense faculties → contact → suffering and pleasure.
 
