@@ -6,22 +6,22 @@ series_short: "S2"
 paper_id: "S2-P10"
 paper_number: 10
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Mind Without Obstruction: Traversing Terror to Ultimate Nirvāṇa
 
-**When the "Self" Discovers It Isn't Real, the Terror Has Only Just Begun**
+**When the "Self" Discovers It Isn't Real, Terror May Arise — and May Be Traversed**
 
 *心無罣礙——穿越恐怖到究竟涅槃*
 
 ## Abstract
 
-The Heart Sūtra passage "The bodhisattva, relying on prajñāpāramitā, has a mind without obstruction; because there is no obstruction, there is no terror; far from inverted dream-thinking, [the bodhisattva attains] ultimate nirvāṇa" constitutes the culminating fruition of the entire awakening arc of the Heart Sūtra. This paper argues that "because there is nothing to attain" (以無所得故) does not bring immediate liberation — it inaugurates terror. When the seventh manas consciousness, which perpetually deliberates and clings to an "I," is illuminated by prajñā as non-substantial, its first response is not relief but existential dread: without "me" holding on, who will keep you safe? The Heart Sūtra's causal sequence precisely maps this path of traversal: mind without obstruction (both obstructions removed) → no terror (path of seeing, severing conceptual discrimination) → far from inverted dream-thinking (path of cultivation, severing the four inversions) → ultimate nirvāṇa (apratiṣṭhita-nirvāṇa, non-abiding nirvāṇa). The means of traversal is not to annihilate the "I" but to transform it — manas into samatā-jñāna (equality wisdom). The paper employs the Buddha's own life as the existential proof of "because there is nothing to attain": the four-gate excursion (longing for freedom) → renunciation and asceticism (turning inward) → subduing Māra under the Bodhi tree (traversing terror) → forty-five years of daily alms-round after enlightenment (living out apratiṣṭhita-nirvāṇa) → the final teaching before parinirvāṇa, "be your own lamp, take refuge in the Dharma" (releasing even the Buddha himself). Scriptural foundations draw on the *Dīrghāgama*'s four-gate excursion, the *Ekottarāgama*'s māra-subduing account, the *Vajracchedikā Prajñāpāramitā Sūtra*'s opening alms-round passage, and the *Mahāparinirvāṇa Sūtra*'s final teaching for the Buddha's biographical narrative; on Kuiji's *Bore boluomiduo xinjing youzhan*'s five-path × ten-bhūmi dual mapping as the doctrinal skeleton; on the *Mahāyānasaṃgrahabhāṣya*'s formulation "by prajñā one does not abide in saṃsāra; by karuṇā one does not abide in nirvāṇa" for the core expression of apratiṣṭhita-nirvāṇa; and on the *Vijñaptimātratāsiddhi*'s manas → samatā-jñāna transformation as the mechanism for traversing terror. Cross-disciplinary dialogue employs Heidegger's Angst as a heuristic analogy. Five Middle Way corrections: terror does not equal a fault in practice; subduing Māra is not "defeating" a demon king; existential Angst does not equal Buddhist terror; apratiṣṭhita-nirvāṇa does not equal worldly busyness; "self-reliance" does not equal "no need for a spiritual teacher." From S2-P02 (Avalokiteśvara = causal ground) to S2-P10 (mind without obstruction = fruition), the Heart Sūtra's awakening loop closes.
+The Heart Sūtra passage "The bodhisattva, relying on prajñāpāramitā, has a mind without obstruction; because there is no obstruction, there is no terror; far from inverted dream-thinking, [the bodhisattva attains] ultimate nirvāṇa" constitutes the culminating fruition of the entire awakening arc of the Heart Sūtra. This paper argues that "because there is nothing to attain" (以無所得故) does not by itself bring immediate liberation — terror may arise here. When the seventh manas consciousness, which perpetually deliberates and clings to an "I," is illuminated by prajñā as non-substantial, its response may be not relief but existential dread: without "me" holding on, who will keep you safe? The Heart Sūtra's causal sequence precisely maps this path of traversal: mind without obstruction (both obstructions removed) → no terror (path of seeing, severing conceptual discrimination) → far from inverted dream-thinking (path of cultivation, severing the four inversions) → ultimate nirvāṇa (apratiṣṭhita-nirvāṇa, non-abiding nirvāṇa). The means of traversal is not to annihilate the "I" but to transform it — manas into samatā-jñāna (equality wisdom). The paper employs the Buddha's own life as the existential proof of "because there is nothing to attain": the four-gate excursion (longing for freedom; the *Dīrghāgama* tells it of Vipaśyin Buddha, as the template of Siddhārtha's own) → renunciation and asceticism (turning inward) → subduing Māra under the Bodhi tree (traversing terror) → forty-five years of daily alms-round after enlightenment (living out apratiṣṭhita-nirvāṇa) → the final teaching before parinirvāṇa, "be your own lamp, take refuge in the Dharma" (releasing even the Buddha himself). Scriptural foundations draw on the *Dīrghāgama*'s four-gate excursion, the *Ekottarāgama*'s māra-subduing account, the *Vajracchedikā Prajñāpāramitā Sūtra*'s opening alms-round passage, and the *Mahāparinirvāṇa Sūtra*'s final teaching for the Buddha's biographical narrative; on Kuiji's *Bore boluomiduo xinjing youzan*'s five-path × ten-bhūmi dual mapping as the doctrinal skeleton; on the *Mahāyānasaṃgrahabhāṣya*'s formulation "by prajñā one does not abide in saṃsāra; by karuṇā one does not abide in nirvāṇa" for the core expression of apratiṣṭhita-nirvāṇa; and on the *Vijñaptimātratāsiddhi*'s manas → samatā-jñāna transformation as the mechanism for traversing terror. Cross-disciplinary dialogue employs Heidegger's Angst as a heuristic analogy. Five Middle Way corrections: terror does not equal a fault in practice; subduing Māra is not "defeating" a demon king; existential Angst does not equal Buddhist terror; apratiṣṭhita-nirvāṇa does not equal worldly busyness; "self-reliance" does not equal "no need for a spiritual teacher." From S2-P02 (Avalokiteśvara = causal ground) to S2-P10 (mind without obstruction = fruition), the Heart Sūtra's awakening loop closes.
 
 **摘要**
 
-心經「菩提薩埵，依般若波羅蜜多故，心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃」一段，是整部心經覺醒弧線的收束果位。本文提出：「以無所得故」不是立刻的解脫，而是恐怖的開始。穿越恐怖的方式不是消滅「我」，而是轉化「我」——末那識轉為平等性智。以佛陀一生為「以無所得故」的存在證明。經典依據以佛傳敘事和窺基五道×十地雙重映射為骨架，以《攝大乘論釋》無住處涅槃和《成唯識論》轉識成智為義理核心。中道校正五條。S2-P02（觀自在 = 因地）到 S2-P10（心無罣礙 = 果位），覺醒迴路閉環。
+心經「菩提薩埵，依般若波羅蜜多故，心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃」一段，是整部心經覺醒弧線的收束果位。本文提出：「以無所得故」不等於立刻的解脫，此處可能生起恐怖。穿越恐怖的方式不是消滅「我」，而是轉化「我」——末那識轉為平等性智。以佛陀一生為「以無所得故」的存在證明。經典依據以佛傳敘事和窺基五道×十地雙重映射為骨架，以《攝大乘論釋》無住處涅槃和《成唯識論》轉識成智為義理核心。中道校正五條。S2-P02（觀自在 = 因地）到 S2-P10（心無罣礙 = 果位），覺醒迴路閉環。
 
 **Keywords:** Heart Sūtra, mind without obstruction, terror, manas, samatā-jñāna, apratiṣṭhita-nirvāṇa, four inversions, āśraya-parāvṛtti, māra-subduing, biography of the Buddha | 般若心經、心無罣礙、恐怖、末那識、平等性智、無住處涅槃、四顛倒、轉依、降魔、佛陀生平
 
@@ -35,7 +35,7 @@ S2-P09 reached the sharpest edge of prajñā's emptiness contemplation — even 
 
 And then?
 
-Common sense says: after letting go, you should feel light. The Heart Sūtra says: after letting go comes terror.
+Common sense says: after letting go, you should feel light. The Heart Sūtra's sequence reckons with something else: after letting go, terror may come.
 
 > 菩提薩埵，依般若波羅蜜多故，心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。
 > The bodhisattva, relying on prajñāpāramitā, has a mind without obstruction. Because there is no obstruction, there is no terror. Far from inverted dream-thinking, [the bodhisattva attains] ultimate nirvāṇa.[^1]
@@ -46,7 +46,7 @@ This passage is the culmination of the Heart Sūtra's entire awakening arc. From
 
 This paper addresses three core questions.
 
-First, why does "because there is nothing to attain" trigger terror? If prajñā is wisdom and emptiness is liberation, why does the Heart Sūtra follow "mind without obstruction" not with "great joy" but with "no terror" — what exactly is this "terror," and where does it come from?
+First, why can "because there is nothing to attain" trigger terror? If prajñā is wisdom and emptiness is liberation, why does the Heart Sūtra follow "mind without obstruction" not with "great joy" but with "no terror" — what exactly is this "terror," and where does it come from?
 
 Second, what is the mechanism for traversing terror? The Heart Sūtra's causal sequence — mind without obstruction → no terror → far from inverted dream-thinking → ultimate nirvāṇa — is a precise psychological map. Kuiji maps these four phrases to the five paths and ten bhūmis in his commentary, unfolding the complete timeline of bodhisattva practice. How does this map operate?
 
@@ -72,7 +72,7 @@ This section proceeds along two axes. The first is the sūtra narrative of the B
 
 ### 2.1 The Buddha's Four-Gate Excursion — The Starting Point of Longing
 
-The *Dīrghāgama*'s Mahāpadāna Sutta records the prince's four excursions through the city gates. At the first gate, he sees an old man:
+The *Dīrghāgama*'s Mahāpadāna Sutta records the four excursions of the prince — there Vipaśyin, the sūtra's narrative subject, whose story the tradition reads as the template of Siddhārtha's own — through the city gates. At the first gate, he sees an old man:
 
 > 見一老人，頭白齒落，面皺身僂，拄杖羸步。
 > "[He] saw an old man — hair white, teeth fallen, face wrinkled, body bent, walking feebly with a cane."[^2]
@@ -95,10 +95,10 @@ The four characters "awoke with vast clarity" (廓然大悟) deserve attention �
 
 ### 2.2 Subduing Māra Under the Bodhi Tree — Traversing Terror
 
-The *Ekottarāgama*'s Aśvaśiras chapter records the full narrative of subduing Māra. The demon king Pāpīyas arrives with an army of 1.8 billion, surrounding the Bodhi tree. The Buddha's response:
+The *Ekottarāgama*'s Maxue Tianzi chapter (馬血天子品) records the full narrative of subduing Māra. The demon king Pāpīyas arrives with an army of 1.8 billion, surrounding the Bodhi tree. The Buddha's response:
 
 > 默然不對……我今執心無所畏懼。
-> "He remained silent, giving no answer… 'I now hold my mind without any fear.'"[^5]
+> "[I] remained silent, giving no answer… 'I now hold my mind without any fear.'"[^5]
 
 The Buddha responds in verse:
 
@@ -155,7 +155,7 @@ Then the Buddha asks three times whether any disciple has doubts — "the bhik�
 Elsewhere in the same tradition, the Buddha's final word is even more concise:
 
 > 無為放逸，我以不放逸故，自致正覺……此是如來末後所說。
-> "Do not be heedless. It is through heedlessness that I myself attained perfect awakening… This is the Tathāgata's last utterance."[^18]
+> "Do not be heedless. It is through heedfulness that I myself attained perfect awakening… This is the Tathāgata's last utterance."[^18]
 
 The Buddha's final act of letting go releases even "the Buddha" as an object of reliance. "Take the precepts as your teacher" — not the Buddha as your teacher, but the Dharma as your teacher. You no longer need me; the Dharma is in your hands. This is the greatest single act of "because there is nothing to attain" in an entire lifetime.
 
@@ -252,9 +252,9 @@ If the bodhisattva entered nirvāṇa for their own sake alone, it would "sever 
 
 ## III. Core Argument
 
-### 3.1 The Genesis of Terror: Why Letting Go Is Where Terror Begins
+### 3.1 The Genesis of Terror: Why Letting Go Is Where Terror May Begin
 
-After "because there is nothing to attain," why is it not joy but terror?
+After "because there is nothing to attain," why may what arises be not joy but terror?
 
 The answer lies in the seventh manas consciousness.
 
@@ -268,7 +268,7 @@ What does this resemble? A parent who has been a full-time caregiver for twenty 
 
 This fear is not a deficit of love — it arises precisely because the commitment was too total. Manas grasps "I" not because it is malicious, but because it has been doing with utmost seriousness something that never needed doing. "Protecting you" never required a fixed "I" to execute, but manas does not know this — it believes that without it, everything will collapse.
 
-✅ Doctrinally sound: terror is not a failure of practice but a sign that practice has reached the right depth. The Heart Sūtra places "no terror" after "mind without obstruction" and not before, precisely because terror is part of the traversal process, not an error to be avoided.
+✅ Doctrinally sound: terror, when it arises, is not a failure of practice — nor is it evidence of realization, and it is not a stage everyone must pass through. The Heart Sūtra places "no terror" after "mind without obstruction" and not before, because terror, if it comes, belongs to the traversal process and is not an error to be avoided.
 
 ### 3.2 The Causal Chain of "Mind Without Obstruction": A Precise Psychological Map
 
@@ -325,8 +325,8 @@ A charmed snake — a snake upon which mantras have been recited. The snake is s
 
 The *Vijñaptimātratāsiddhi* connects the establishment of apratiṣṭhita-nirvāṇa back to samatā-jñāna:
 
-> 由施等不住涅槃，及由後三（精進禪定般若）不住生死，為無住處涅槃資糧。
-> "Through giving and the other [first three pāramitās], one does not abide in nirvāṇa; through the last three (vīrya, dhyāna, prajñā), one does not abide in saṃsāra — these constitute the provisions for apratiṣṭhita-nirvāṇa."[^41]
+> 由施等不住涅槃，及由後三不住生死，為無住處涅槃資糧。
+> "Through giving and the other [first three pāramitās], one does not abide in nirvāṇa; through the last three [vīrya, dhyāna, prajñā], one does not abide in saṃsāra — these constitute the provisions for apratiṣṭhita-nirvāṇa."[^41]
 
 Dāna, śīla, kṣānti — the practices of benefiting others prevent abiding in nirvāṇa (not seeking one's own escape alone). Vīrya, dhyāna, prajñā — the practices of self-cultivation prevent abiding in saṃsāra (not being bound by afflictions). The complete structure of the six pāramitās is the dual-axis provision for apratiṣṭhita-nirvāṇa.
 
@@ -385,7 +385,7 @@ S2-P09 employed Korzybski's "the map is not the territory" as a cross-disciplina
 
 ❌ Common misunderstanding: Practice should make one increasingly stable and happy. If terror arises during practice, something must be wrong.
 
-Middle Way view: The Heart Sūtra's own causal sequence negates this assumption. "No terror" follows "mind without obstruction," indicating that terror is part of the traversal process, not a signal of deviation from the correct path. If you have never felt unsettled during practice, it may not be because you have already transcended terror, but because prajñā's illumination has not yet penetrated to the level of the manas consciousness. Of course, this does not mean all forms of terror during practice are signs of "reaching the right depth" — terror may also stem from physical or mental imbalance, environmental stress, or inappropriate methods. The criterion is: does this terror accompany deeper awareness? If there is only terror without awareness, guidance from a spiritual teacher may be needed.
+Middle Way view: The Heart Sūtra's own causal sequence negates this assumption. "No terror" follows "mind without obstruction," indicating that terror, when it arises, is part of the traversal process, not a signal of deviation from the correct path. Never having felt unsettled during practice is, by itself, neither proof of realization nor proof of its absence: terror is not a required stage, and its presence is not evidence of attainment. Of course, this does not mean all forms of terror during practice are signs of "reaching the right depth" — terror may also stem from physical or mental imbalance, environmental stress, or inappropriate methods. The criterion is: does this terror accompany deeper awareness? If there is only terror without awareness, guidance from a spiritual teacher may be needed.
 
 ### 5.2 Subduing Māra Is Not "Defeating" a Demon King
 
@@ -417,9 +417,9 @@ Middle Way view: The timing of the Buddha's statement is critical — it was spo
 
 ### 6.1 Core Argument in Review
 
-This paper's core thesis may be distilled to a single sentence: the Heart Sūtra's awakening arc is not a straight line from suffering to happiness but a curve from longing through terror to freedom.
+This paper's core thesis may be distilled to a single sentence: the Heart Sūtra's awakening arc is not a straight line from suffering to happiness but a curve from longing, through the terror that may arise, to freedom.
 
-"Because there is nothing to attain" triggers terror because the manas consciousness's perpetually deliberating "I" faces an existential crisis of deconstruction. The mechanism for traversing terror is not annihilating the "I" but transforming it — manas → samatā-jñāna. "Mind without obstruction" is the state where both obstructions are removed; "ultimate nirvāṇa" is apratiṣṭhita-nirvāṇa — not abiding in saṃsāra, not abiding in nirvāṇa, "by prajñā not abiding in saṃsāra, by karuṇā not abiding in nirvāṇa," "active yet always quiescent."
+"Because there is nothing to attain" can trigger terror because the manas consciousness's perpetually deliberating "I" faces an existential crisis of deconstruction. The mechanism for traversing terror is not annihilating the "I" but transforming it — manas → samatā-jñāna. "Mind without obstruction" is the state where both obstructions are removed; "ultimate nirvāṇa" is apratiṣṭhita-nirvāṇa — not abiding in saṃsāra, not abiding in nirvāṇa, "by prajñā not abiding in saṃsāra, by karuṇā not abiding in nirvāṇa," "active yet always quiescent."
 
 Kuiji's five-path × ten-bhūmi dual mapping reveals that the Heart Sūtra's four phrases (mind without obstruction → no terror → far from inverted dream-thinking → ultimate nirvāṇa) constitute the complete timeline of the bodhisattva's practice from the path of preparation to the stage of the Buddha. The four inversions are the core operating mechanism of parikalpita-svabhāva; "far from" does not mean "never having had" but freedom after traversal.
 
@@ -465,7 +465,7 @@ The Heart Sūtra's final passage no longer asks "how does one person awaken" but
 
 *Madhyāntavibhāga* (辯中邊論). Composed by Vasubandhu; translated by Xuanzang, Tang. T31, No. 1600.
 
-*Mahāyānasaṃgrahabhāṣya* by Paramārtha (攝大乘論釋, Paramārtha). Translated by Paramārtha. T31, No. 1595.
+*Mahāyānasaṃgrahabhāṣya* by Vasubandhu (攝大乘論釋, Paramārtha's version). Translated by Paramārtha, Chen. T31, No. 1595.
 
 *Ratnagotravibhāga* (究竟一乘寶性論). Composed by Sāramati; translated by Ratnamati, Northern Wei. T31, No. 1611.
 
@@ -473,7 +473,7 @@ The Heart Sūtra's final passage no longer asks "how does one person awaken" but
 
 ### II. Classical Commentaries
 
-*Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊). Composed by Kuiji, Tang. T33, No. 1710.
+*Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊). Composed by Kuiji, Tang. T33, No. 1710.
 
 *Jingang bore jing zanshu* (金剛般若經贊述). Composed by Kuiji, Tang. T33, No. 1700.
 
@@ -497,13 +497,13 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 | 6 | Laṅkāvatāra Sūtra | T16 | No. 0671 | Fasc. 7 |
 | 7 | Yogācārabhūmi-śāstra | T30 | No. 1579 | Fasc. 8 |
 | 8 | Vijñaptimātratāsiddhi | T31 | No. 1585 | Fasc. 4, 5, 9, 10 |
-| 9 | Mahāyānasaṃgrahabhāṣya (Paramārtha) | T31 | No. 1595 | Fasc. 13 |
+| 9 | Mahāyānasaṃgrahabhāṣya (Vasubandhu, tr. Paramārtha) | T31 | No. 1595 | Fasc. 13 |
 | 10 | Mahāyānasaṃgrahabhāṣya (Vasubandhu) | T31 | No. 1597 | Fasc. 4 |
 | 11 | Mahāyānasaṃgrahabhāṣya (Asvabhāva) | T31 | No. 1598 | Fasc. 8, 9 |
 | 12 | Madhyāntavibhāga | T31 | No. 1600 | — |
 | 13 | Ratnagotravibhāga | T31 | No. 1611 | Fasc. 3, 4 |
 | 14 | Mahāprajñāpāramitopadeśa | T25 | No. 1509 | Fasc. 3, 5, 19, 25, 28 |
-| 15 | Bore boluomiduo xinjing youzhan | T33 | No. 1710 | Fasc. 2 |
+| 15 | Bore boluomiduo xinjing youzan | T33 | No. 1710 | Fasc. 2 |
 | 16 | Jingang bore jing zanshu | T33 | No. 1700 | — |
 | 17 | Jingang bore shu | T33 | No. 1699 | — |
 | 18 | Madhyāntavibhāga-ṭīkā | T44 | No. 1835 | — |
@@ -520,7 +520,7 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 | S2-P03 Going Deep: Turning Inward into the Formations | The formations are manas's operational field; P10 demonstrates manas's terror and transformation — the ultimate result of "going deep" |
 | S2-P06 The True Mark of All Dharmas: This Mind Neither Arises Nor Ceases | Tathatā as the ontological ground of awakening — not acquisition but ceasing to obscure; P10's apratiṣṭhita-nirvāṇa rests on tathatā as its basis |
 | S2-P08 Ignorance as Perceptual Inversion | P08's perceptual inversion concretizes in the Buddha's four-gate excursion; P10's traversal of the four inversions is the fruition-level manifestation of P08's deconstruction of avidyā |
-| S2-P09 No Suffering, No Path, No Wisdom, No Attainment | Direct continuation: P09's "because there is nothing to attain" triggers terror → P10 traverses terror → mind without obstruction |
+| S2-P09 No Suffering, No Path, No Wisdom, No Attainment | Direct continuation: P09's "because there is nothing to attain" can trigger terror → P10 traverses terror → mind without obstruction |
 | S2-P11 (Preview) Three Kinds of Practitioners, One Heart Sūtra | P10 completes the individual awakening loop; P11 will ask: how does awakening become the path for all — three practitioners, exoteric-esoteric unity |
 
 ---
@@ -531,7 +531,7 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 [^2]: *Dīrghāgama*, fasc. 1, Mahāpadāna Sutta, "[He] saw an old man — hair white, teeth fallen, face wrinkled, body bent, walking feebly with a cane," the four-gate excursion narrative uses the biography of Vipassī Buddha as its subject, structurally parallel to Siddhārtha, T1, No. 0001.
 [^3]: *Dīrghāgama*, fasc. 1, Mahāpadāna Sutta, "A śramaṇa — one who has renounced affection, left home to cultivate the Way, disciplined all faculties, undefiled by external desires, with compassion for all," the prince's fourth-gate encounter, T1, No. 0001.
 [^4]: *Dīrghāgama*, fasc. 1, Mahāpadāna Sutta, "The prince saw the aged and the sick and knew the world's suffering; seeing the dead, worldly attachment was extinguished; and seeing the śramaṇa, he awoke with vast clarity," summary verse, T1, No. 0001.
-[^5]: *Ekottarāgama*, fasc. 39, Aśvaśiras chapter, "He remained silent, giving no answer… 'I now hold my mind without any fear,'" the Buddha facing Māra's army, T2, No. 0125.
+[^5]: *Ekottarāgama*, fasc. 39, Maxue Tianzi chapter (馬血天子品), "[I] remained silent, giving no answer… 'I now hold my mind without any fear,'" the Buddha facing Māra's army, T2, No. 0125.
 [^6]: *Ekottarāgama*, fasc. 39, "Wearing the armor of benevolence, with the bow of samādhi, and wisdom-arrows in hand, meritorious deeds for my army — I shall now shatter your forces," the Buddha's verse in response to Māra, T2, No. 0125.
 [^7]: *Ekottarāgama*, fasc. 39, "He extended his right hand and pressed the earth with his fingers… the deity of the earth rose from the ground, palms joined: 'World-Honored One! I shall bear witness'… Māra Pāpīyas grieved, suffered, and retreated into invisibility," the earth-touching testimony, T2, No. 0125.
 [^8]: *Mahāprajñāpāramitopadeśa*, fasc. 3, "Seated on the vajra-seat, he made this vow: 'I shall not uncross these legs until I attain omniscience; without attaining omniscience, I shall never rise,'" T25, No. 1509.
@@ -544,14 +544,14 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 [^15]: *Mahāparinirvāṇa Sūtra*, fasc. 3, "I have established for the bhikṣus the precepts of the Prātimokṣa and all the various subtle dharmas I have spoken — these are your great teacher. As if I were still in the world, there is no difference," the "take the precepts as your teacher" passage, T1, No. 0007.
 [^16]: *Mahāparinirvāṇa Sūtra*, fasc. 3, "All formations are impermanent — this is the dharma of arising and ceasing. When arising and ceasing cease, quiescent cessation is bliss," the Buddha's parinirvāṇa verse, T1, No. 0007.
 [^17]: *Mahāparinirvāṇa Sūtra*, fasc. 3, "This is my final teaching. My parinirvāṇa — the time has come," the Buddha's final words, T1, No. 0007.
-[^18]: *Dīrghāgama*, fasc. 4, "Do not be heedless. It is through heedlessness that I myself attained perfect awakening… This is the Tathāgata's last utterance," T1, No. 0001.
-[^19]: *Bore boluomiduo xinjing youzhan*, fasc. 2, "obstruction" (罣) = kleśāvaraṇa (because it blocks nirvāṇa); "hindrance" (礙) = jñeyāvaraṇa (because it blocks bodhi), the "as-it-is" (如應者) reading, T33, No. 1710.
-[^20]: *Bore boluomiduo xinjing youzhan*, fasc. 2, "Not having awakened to true wisdom, one perpetually dwells in a dream; therefore the Buddha speaks of the long night of saṃsāra," glossing "dream-thinking" as vikalpa, T33, No. 1710.
-[^21]: *Bore boluomiduo xinjing youzhan*, fasc. 2, five-path mapping: mind without obstruction = stages of resolute understanding through the path of preparation; no terror = path of seeing; far from inverted dream-thinking = path of cultivation; ultimate nirvāṇa = path of no-more-learning, T33, No. 1710.
-[^22]: *Bore boluomiduo xinjing youzhan*, fasc. 2, ten-bhūmi mapping: mind without obstruction = first bhūmi, Stage of Joy (skin-level coarseness permanently severed); no terror = eighth bhūmi, Stage of Effortless Non-Conceptuality (flesh-level coarseness permanently severed); far from inverted dream-thinking = tenth bhūmi, Supreme Fulfilled Stage (bone-level coarseness permanently severed), the "three levels of coarseness" metaphor, T33, No. 1710.
-[^23]: *Bore boluomiduo xinjing youzhan*, fasc. 2, four types of nirvāṇa: inherently pure nirvāṇa, apratiṣṭhita-nirvāṇa, nirvāṇa with remainder, nirvāṇa without remainder, T33, No. 1710.
-[^24]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha), fasc. 13, "For the Two Vehicles, cessation of afflictions means turning entirely away from saṃsāra toward nirvāṇa; for the bodhisattva, cessation means turning away from neither saṃsāra nor nirvāṇa," T31, No. 1595.
-[^25]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha), fasc. 13, "By prajñā one does not abide in saṃsāra; by karuṇā one does not abide in nirvāṇa. If one discriminates saṃsāra, one abides in saṃsāra; if one discriminates nirvāṇa, one abides in nirvāṇa. The bodhisattva attains non-discriminating wisdom — discriminating nothing, therefore abiding nowhere," T31, No. 1595.
+[^18]: *Dīrghāgama*, fasc. 4, "Do not be heedless. It is through heedfulness that I myself attained perfect awakening… This is the Tathāgata's last utterance," T1, No. 0001.
+[^19]: *Bore boluomiduo xinjing youzan*, fasc. 2, "obstruction" (罣) = kleśāvaraṇa (because it blocks nirvāṇa); "hindrance" (礙) = jñeyāvaraṇa (because it blocks bodhi), the "as-it-is" (如應者) reading, T33, No. 1710.
+[^20]: *Bore boluomiduo xinjing youzan*, fasc. 2, "Not having awakened to true wisdom, one perpetually dwells in a dream; therefore the Buddha speaks of the long night of saṃsāra," glossing "dream-thinking" as vikalpa, T33, No. 1710.
+[^21]: *Bore boluomiduo xinjing youzan*, fasc. 2, five-path mapping: mind without obstruction = stages of resolute understanding through the path of preparation; no terror = path of seeing; far from inverted dream-thinking = path of cultivation; ultimate nirvāṇa = path of no-more-learning, T33, No. 1710.
+[^22]: *Bore boluomiduo xinjing youzan*, fasc. 2, ten-bhūmi mapping: mind without obstruction = first bhūmi, Stage of Joy (skin-level coarseness permanently severed); no terror = eighth bhūmi, Stage of Effortless Non-Conceptuality (flesh-level coarseness permanently severed); far from inverted dream-thinking = tenth bhūmi, Supreme Fulfilled Stage (bone-level coarseness permanently severed), the "three levels of coarseness" metaphor, T33, No. 1710.
+[^23]: *Bore boluomiduo xinjing youzan*, fasc. 2, four types of nirvāṇa: inherently pure nirvāṇa, apratiṣṭhita-nirvāṇa, nirvāṇa with remainder, nirvāṇa without remainder, T33, No. 1710.
+[^24]: *Mahāyānasaṃgrahabhāṣya* (Vasubandhu, tr. Paramārtha), fasc. 13, "For the Two Vehicles, cessation of afflictions means turning entirely away from saṃsāra toward nirvāṇa; for the bodhisattva, cessation means turning away from neither saṃsāra nor nirvāṇa," T31, No. 1595.
+[^25]: *Mahāyānasaṃgrahabhāṣya* (Vasubandhu, tr. Paramārtha), fasc. 13, "By prajñā one does not abide in saṃsāra; by karuṇā one does not abide in nirvāṇa. If one discriminates saṃsāra, one abides in saṃsāra; if one discriminates nirvāṇa, one abides in nirvāṇa. The bodhisattva attains non-discriminating wisdom — discriminating nothing, therefore abiding nowhere," T31, No. 1595.
 [^26]: *Vijñaptimātratāsiddhi*, fasc. 10, "Apratiṣṭhita-nirvāṇa: tathatā freed from the cognitive obstruction, constantly sustained by great compassion and prajñā. Thereby not abiding in saṃsāra or nirvāṇa, benefiting and delighting sentient beings to the end of future time — active yet always quiescent (用而常寂), therefore called nirvāṇa," T31, No. 1585.
 [^27]: *Vijñaptimātratāsiddhi*, fasc. 10, "All sentient beings possess the first; śrāvakas and pratyekabuddhas at the stage of no-more-learning may possess the first three; only our World-Honored One can be said to possess all four," the four nirvāṇas, T31, No. 1585.
 [^28]: *Vijñaptimātratāsiddhi*, fasc. 10, "The mental assembly associated with samatā-jñāna: this mental assembly observes all dharmas, self and other sentient beings, as entirely equal. Great compassion and the like are perpetually associated with it," T31, No. 1585.
@@ -567,7 +567,7 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 [^38]: *Laṅkāvatāra Sūtra*, fasc. 7, "If that bodhisattva… were to rest, ceasing to liberate all beings, it would sever the Tathāgata's seed… Remembering the original vow of great compassion… therefore does not immediately enter nirvāṇa," the deeper reason the bodhisattva does not enter nirvāṇa, T16, No. 0671.
 [^39]: *Dīrghāgama*, fasc. 4, "At the age of twenty-nine, I left home to seek the noble Way," the Buddha's self-account of his age at renunciation, T1, No. 0001.
 [^40]: *Mahāyānasaṃgrahabhāṣya* (Asvabhāva), fasc. 9, "[The bodhisattva] neutralizes [affliction's] power like a charmed snake — although not discarding it, remaining undefiled," the charmed-snake metaphor for afflictions present yet harmless, T31, No. 1598.
-[^41]: *Vijñaptimātratāsiddhi*, fasc. 9, "Through giving and the other [first three pāramitās], one does not abide in nirvāṇa; through the last three (vīrya, dhyāna, prajñā), one does not abide in saṃsāra — these constitute the provisions for apratiṣṭhita-nirvāṇa," the six pāramitās as dual-axis provisions, T31, No. 1585.
+[^41]: *Vijñaptimātratāsiddhi*, fasc. 9, "Through giving and the other [first three pāramitās], one does not abide in nirvāṇa; through the last three [vīrya, dhyāna, prajñā], one does not abide in saṃsāra — these constitute the provisions for apratiṣṭhita-nirvāṇa," the six pāramitās as dual-axis provisions, T31, No. 1585.
 [^42]: Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962. Part One, Division I, §40. Angst: unease before existence itself, with no definite object. Heidegger distinguishes Furcht (fear directed at a specific entity) from Angst (existential anxiety before Being-in-the-world as such).
 
 ---
