@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Form Is Emptiness: The Assembly Line of Suffering
@@ -61,7 +61,7 @@ So the Buddha began teaching from form-aggregate. And so shall we.
 
 ### 2.1 The *Mahāprajñāpāramitā Sūtra* — The Source of the Four Lines on Form and Emptiness
 
-The *Heart Sūtra* is a distillation of the Prajñāpāramitā sūtras. The complete context of the four lines on form and emptiness is preserved in the extensive version of the *Mahāprajñāpāramitā Sūtra*. Kuījī cites this original passage in his *Yōuzàn* (Exquisite Commentary on the Heart Sūtra):
+The *Heart Sūtra* is a distillation of the Prajñāpāramitā sūtras. The complete context of the four lines on form and emptiness is preserved in the extensive version of the *Mahāprajñāpāramitā Sūtra*. Kuiji cites this original passage in his *Youzan* (Exquisite Commentary on the Heart Sūtra):
 
 > 「所以者何？色自性空，不由空故。色空非色，色不離空，空不離色，色即是空，空即是色。」[^1]
 >
@@ -163,13 +163,13 @@ Where readers get stuck is usually not "form" but "emptiness."
 
 Emptiness is not nothingness. Emptiness does not appear only after form is annihilated.
 
-Kuījī, citing the *Mahāprajñāpāramitā Sūtra*, identifies the key point:
+Kuiji, citing "the sūtra" (經作是言), identifies the key point:
 
 > 「色自性空，非色滅空。」[^10]
 >
 > "Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear."
 
-The intrinsic nature of form has always been empty — it is not that you destroy form and "emptiness" then emerges. Kuījī uses an analogy: a person with cataracts sees flowers in the sky — but the flowers never existed. The flowers do not need to be annihilated to be "empty" — they were never there to begin with[^11].
+The intrinsic nature of form has always been empty — it is not that you destroy form and "emptiness" then emerges. Kuiji uses an analogy: a person with cataracts sees flowers in the sky — but the flowers never existed. The flowers do not need to be annihilated to be "empty" — they were never there to begin with[^11].
 
 Fazang supplements from the Huayan perspective:
 
@@ -215,9 +215,9 @@ This is annihilationism (ucchedavāda), one of the wrong views the Buddha most s
 
 "Emptiness is not different from form" means: emptiness does not exist as a separate "thing" apart from form-aggregate.
 
-Kuījī, citing the *Mahāprajñāpāramitā Sūtra*, reinforces the point:
+Kuiji, again citing "the sūtra," reinforces the point:
 
-> 「色性空，非色滅空。」[^14]
+> 「色自性空，非色滅空。」[^14]
 >
 > "The nature of form is empty; it is not that form must be annihilated for emptiness to appear."
 
@@ -243,7 +243,7 @@ Why say it twice? It is not repetition but two distinct pedagogical methods.
 "Not different" is *dismantling* (pò 破) — dismantling the mistaken cognition that form and emptiness are separate.
 "Is" is *establishing* (lì 立) — establishing the right view that form and emptiness are originally one.
 
-First dismantle, then establish. Kuījī calls this "double negation, double affirmation" (shuāngpò shuānglì 雙破雙立)[^16].
+First dismantle, then establish. This paper calls this "double negation, double affirmation" (shuāngpò shuānglì 雙破雙立)[^16].
 
 "Form is emptiness": The table before you — its conditioned assembly of wood, nails, and a craftsman's skill — its very functioning is the manifestation of emptiness-nature. It is not that behind the table there is an "emptiness"; the table's very conditioned nature is emptiness.
 
@@ -363,8 +363,8 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 ### Commentarial Literature
 
-5. Kuījī 窺基, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710.
-6. Kuījī 窺基, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711.
+5. Kuiji 窺基, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710.
+6. Woncheuk 圓測, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711.
 7. Fazang 法藏, *Prajñāpāramitā-hṛdaya-sūtra Lüèshū* 《般若波羅蜜多心經略疏》, Taishō vol. 33, No. 1712.
 
 ### Modern Scholarship
@@ -381,7 +381,7 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 | 雜阿含經 *Saṃyukta Āgama* | T2, No. 0099 | Fascicles 1, 2, 3, 10, 13 |
 | 中阿含經 *Madhyama Āgama* | T1, No. 0026 | Fascicle 21 |
 | 大乘阿毘達磨集論 *Abhidharma-samuccaya* | T31, No. 1605 | Fascicle 1 |
-| 般若波羅蜜多心經幽贊 *Yōuzàn* | T33, No. 1710 | Fascicle 2 |
+| 般若波羅蜜多心經幽贊 *Youzan* | T33, No. 1710 | Fascicle 2 |
 | 般若波羅蜜多心經贊 *Zàn* | T33, No. 1711 | Fascicle 1 |
 | 般若波羅蜜多心經略疏 *Lüèshū* | T33, No. 1712 | Fascicle 1 |
 
@@ -400,7 +400,7 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 ## Footnotes
 
-[^1]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2. Citing the original text of the *Mahāprajñāpāramitā Sūtra*.
+[^1]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2. Citing the original text of the *Mahāprajñāpāramitā Sūtra*.
 
 [^2]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 2. The Buddha and the bhikṣus discuss form-aggregate as impermanent, therefore suffering, therefore not-self. See also fascicle 3, sūtra 86 for a parallel version.
 
@@ -418,19 +418,19 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 [^9]: *Mahāyānābhidharma-samuccaya* 《大乘阿毘達磨集論》, composed by Asaṅga, translated by Xuánzàng, Taishō vol. 31, No. 1605, fascicle 1. Definition of form-aggregate: the four great elements and what is produced by them. The original text analyzes five causes: generative cause, supportive cause, establishing cause, sustaining cause, and nourishing cause.
 
-[^10]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2. Citing the *Mahāprajñāpāramitā Sūtra*: "Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear."
+[^10]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2 (T33n1710 0536c21 「經作是言」). Kuiji attributes the line to "the sūtra" without naming it; it is not found in the *Mahāprajñāpāramitā Sūtra* (T0220), its closest canonical parallel being the *Vimalakīrti-nirdeśa* (T14n0475 0551a19: 「色即是空，非色滅空，色性自空」). "Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear."
 
-[^11]: Kuījī's original text: "Like a person with cataracts seeing flowers in the sky — their nature was never real. Must the flowers be annihilated before they become empty?" (如翳見花，自性非有，豈要花滅，彼始成空？) — *Prajñāpāramitā-hṛdaya-sūtra Yōuzàn*, ibid.
+[^11]: Kuiji's original text: "Like a person with cataracts seeing flowers in the sky — their nature was never real. Must the flowers be annihilated before they become empty?" (如翳見花，自性非有，豈要花滅，彼始成空？) — *Prajñāpāramitā-hṛdaya-sūtra Youzan*, ibid.
 
 [^12]: Fazang 法藏, *Prajñāpāramitā-hṛdaya-sūtra Lüèshū* 《般若波羅蜜多心經略疏》, Taishō vol. 33, No. 1712, fascicle 1.
 
 [^13]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 2, sūtra 33. "If form were self, form would not lead to affliction and suffering."
 
-[^14]: Kuījī citing the *Mahāprajñāpāramitā Sūtra*; see note 10. See also Fazang's *Lüèshū*: "Form is emptiness; it is not that form must be annihilated for emptiness to appear."
+[^14]: Kuiji citing "the sūtra"; see note 10. See also Fazang's *Lüèshū*: "Form is emptiness; it is not that form must be annihilated for emptiness to appear."
 
 [^15]: *Madhyama Āgama* 《中阿含經》, translated by Gautama Saṅghadeva, Taishō vol. 1, No. 0026, fascicle 21. The analogy of a chicken feather and sinew placed in fire.
 
-[^16]: Kuījī, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711, fascicle 1. Following Dharmapāla's interpretation of the four lines, mapping the three natures onto the four lines on form and emptiness. "Not different" functions as apophasis (negating separation); "is" functions as cataphasis (affirming identity) — together constituting "double negation, double affirmation."
+[^16]: Woncheuk, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711, fascicle 1. Following Dharmapāla's interpretation of the four lines, mapping the three natures onto the four lines on form and emptiness. "Not different" functions as apophasis (negating separation); "is" functions as cataphasis (affirming identity) — together constituting "double negation, double affirmation."
 
 [^17]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 3, sūtra 63. Imputing a self → not separating from "mine" → entering the sense faculties → contact → suffering and pleasure.
 
