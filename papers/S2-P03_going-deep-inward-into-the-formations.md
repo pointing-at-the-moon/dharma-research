@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P03"
 paper_number: 3
 date: "2026-03"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Going Deep: Inward, Into the Formations
@@ -86,11 +86,11 @@ Woncheuk, in his *Bore boluomiduo xinjing zan* (T1711), glosses "deep" (*shēn*)
 
 ### 2.3 Prajñā Governs the Five Perfections — "The Five Pāramitās Are Like the Blind"
 
-Why does the Heart Sūtra say "practicing the profound *prajñāpāramitā*" rather than "practicing the profound *dānapāramitā*" or "practicing the profound *dhyānapāramitā*"? The *Mahāprajñāpāramitā-śāstra* (Scroll 34) provides the fundamental reason:
+Why does the Heart Sūtra say "practicing the profound *prajñāpāramitā*" rather than "practicing the profound *dānapāramitā*" or "practicing the profound *dhyānapāramitā*"? The *Mahāprajñāpāramitā-śāstra* (fascicle 34) provides the fundamental reason:
 
 > The five pāramitās are like the blind, while prajñāpāramitā is like eyes. The five pāramitās are like an unfired vessel holding water, while prajñāpāramitā is like a fired vessel. The five pāramitās are like a bird without wings, while prajñāpāramitā is like a bird with wings.[^9]
 
-Scroll 62 expands with the simile of a hundred thousand blind people:
+Fascicle 62 expands with the simile of a hundred thousand blind people:
 
 > The five pāramitās are likewise: apart from prajñāpāramitā, they are like the blind without a guide, unable to proceed along the path or attain sarvajñā-jñāna.[^10]
 
@@ -100,7 +100,7 @@ This bears directly on our thesis: compassion is the same. Compassion without pr
 
 ### 2.4 "Time" — The Practice Stages of Three Incalculable Great Aeons
 
-Kuiji's gloss of the character "time" (*shí* 時) in the second scroll of the *Youzan* directly links "going deep" to the temporal structure of the five-stage path:
+Kuiji's gloss of the character "time" (*shí* 時) in fascicle 2 of the *Youzan* directly links "going deep" to the temporal structure of the five-stage path:
 
 > Supreme bodhi is vast and profound; it cannot be realized through meager accumulation of causes... Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding [first bhūmi]. Through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding [eighth bhūmi], with pure intention and resolute vigor. Through the third incalculable great aeon, one cultivates all practices within all practices, realizing the Tathāgata Abiding.[^12]
 
@@ -110,13 +110,13 @@ A detail critical to this paper: **the endpoint of the second aeon is precisely 
 
 ### 2.5 The Scriptural Definition of Saṃskāra-skandha — "Its Nature Is to Create"
 
-Into which of the five skandhas does "going deep" penetrate? To answer this requires first clarifying the precise scriptural definition of saṃskāra-skandha. *Yogācārabhūmi-śāstra*, Scroll 27:
+Into which of the five skandhas does "going deep" penetrate? To answer this requires first clarifying the precise scriptural definition of saṃskāra-skandha. *Yogācārabhūmi-śāstra*, fascicle 27:
 
 > What is the saṃskāra-skandha? It consists of the six groups of cetanā — cetanā born from eye-contact, from ear-, nose-, tongue-, body-, and mind-contact. Additionally, all remaining mental dharmas apart from vedanā and saṃjñā are collectively termed saṃskāra-skandha.[^14]
 
-The saṃskāra-skandha is principally constituted by the six groups of cetanā — the mental factor of volition is its core. The same text, Scroll 13, labels each skandha with a single character: vedanā is "position," saṃjñā is "discrimination," saṃskāra is "creation," vijñāna is "grasping and holding."[^15] The essential nature of saṃskāra is *to create*.
+The saṃskāra-skandha is principally constituted by the six groups of cetanā — the mental factor of volition is its core. The same text, fascicle 13, labels each skandha with a single character: vedanā is "position," saṃjñā is "discrimination," saṃskāra is "creation," vijñāna is "grasping and holding."[^15] The essential nature of saṃskāra is *to create*.
 
-The *Cheng weishi lun* (Scroll 3) provides a more precise definition of cetanā:
+The *Cheng weishi lun* (fascicle 3) provides a more precise definition of cetanā:
 
 > "Cetanā" means causing the mind to create as its nature; its function is to direct the mind toward wholesome states and the like — apprehending the aspects of correct causes and so forth, driving one's own mind to create the wholesome, etc.[^16]
 
@@ -126,7 +126,7 @@ And explicitly states cetanā's status within the saṃskāra-skandha:
 
 Cetanā is the sovereign of saṃskāra. Its function is "causing the mind to create" — driving the mind to do what is wholesome, unwholesome, or neutral. More importantly, as one of the five omnipresent mental factors, cetanā "definitely corresponds with the storehouse-consciousness [ālaya-vijñāna]"[^18] — it perpetually corresponds with ālaya-vijñāna, and every act of creation perfumes seeds.
 
-*Yogācārabhūmi-śāstra*, Scroll 53, further reveals the five modes of saṃskāra's creative activity: following objects, conjoining, separating, generating contaminated karma, and enabling the mind to turn freely.[^19] The last mode — "enabling the mind to turn freely" (*lìng xīn zìzài zhuǎn*) — is especially critical: when prajñā transforms saṃskāra's creative patterns, the mind can "turn freely," no longer hijacked by the inertial reactions of affliction. This is the saṃskāra-level foundation of "observing freely" (*guān zìzài*).
+*Yogācārabhūmi-śāstra*, fascicle 53, further reveals the five modes of saṃskāra's creative activity: following objects, conjoining, separating, generating contaminated karma, and enabling the mind to turn freely.[^19] The last mode — "enabling the mind to turn freely" (*lìng xīn zìzài zhuǎn*) — is especially critical: when prajñā transforms saṃskāra's creative patterns, the mind can "turn freely," no longer hijacked by the inertial reactions of affliction. This is the saṃskāra-level foundation of "observing freely" (*guān zìzài*).
 
 ### 2.6 Avalokiteśvara Bodhisattva — The Supreme Exemplar of Compassion
 
@@ -222,11 +222,11 @@ This confirms from the negative side the precise meaning of "going deep": prajñ
 
 The transformation from saṃjñā to saṃskāra has a precise mechanism in Yogācāra.
 
-**First level: cetanā determines the direction of creation.** Cetanā is the sovereign of saṃskāra, whose nature is "causing the mind to create, directing the mind toward wholesome states and the like."[^38] Every act of creation — whether wholesome or unwholesome — perfumes seeds in the ālaya-vijñāna. *Yogācārabhūmi-śāstra*, Scroll 53, explicitly records: unwholesome cetanā "by means of seeds and manifest activity, operating in the continuum of the present" continuously functions; wholesome cetanā "always accompanies its seeds, and from time to time also accompanies manifest activity."[^39] The interaction between cetanā and seeds is continuous and automatic — your every act of creation either strengthens or weakens specific seeds.
+**First level: cetanā determines the direction of creation.** Cetanā is the sovereign of saṃskāra, whose nature is "causing the mind to create, directing the mind toward wholesome states and the like."[^38] Every act of creation — whether wholesome or unwholesome — perfumes seeds in the ālaya-vijñāna. *Yogācārabhūmi-śāstra*, fascicle 53, explicitly records: unwholesome cetanā "by means of seeds and manifest activity, operating in the continuum of the present" continuously functions; wholesome cetanā "always accompanies its seeds, and from time to time also accompanies manifest activity."[^39] The interaction between cetanā and seeds is continuous and automatic — your every act of creation either strengthens or weakens specific seeds.
 
-**Second level: hearing-perfumation awakens inherently present uncontaminated seeds.** *Cheng weishi lun*, Scroll 2, records a critical mechanism: uncontaminated seeds "are inherently present by nature" (*fǎ ěr běnyǒu*) but dormant in the ordinary-being stage; "when hearing correct Dharma, it also perfumes the inherently present uncontaminated seeds, causing them to gradually increase, progressively until the supramundane mind arises."[^40] The inherently present uncontaminated seeds are the direct cause (*hetu-pratyaya*); hearing-perfumation is the dominant condition (*adhipati-pratyaya*) — as if the seed was always in the soil, and hearing the Dharma is watering it. This is consistent with the *adhipati-pratyaya* theory in S1-P04–S1-P05.[^41]
+**Second level: hearing-perfumation awakens inherently present uncontaminated seeds.** *Cheng weishi lun*, fascicle 2, records a critical mechanism: uncontaminated seeds "are inherently present by nature" (*fǎ ěr běnyǒu*) but dormant in the ordinary-being stage; "when hearing correct Dharma, it also perfumes the inherently present uncontaminated seeds, causing them to gradually increase, progressively until the supramundane mind arises."[^40] The inherently present uncontaminated seeds are the direct cause (*hetu-pratyaya*); hearing-perfumation is the dominant condition (*adhipati-pratyaya*) — as if the seed was always in the soil, and hearing the Dharma is watering it. This is consistent with the *adhipati-pratyaya* theory in S1-P04–S1-P05.[^41]
 
-**Third level: the gradual structure of the six types of āśraya-parāvṛtti.** *Cheng weishi lun*, Scroll 10, describes the entire transformation process through six types of basis-revolution:[^42]
+**Third level: the gradual structure of the six types of āśraya-parāvṛtti.** *Cheng weishi lun*, fascicle 10, describes the entire transformation process through six types of basis-revolution:[^42]
 
 First, **diminishing-power-enhancing-capacity revolution** — accumulation and preparation stages. "Through practicing firm resolution and shame/embarrassment, one diminishes the force of contaminated seeds in the root-consciousness and enhances the capacity of pure seeds within it." The seed of obstacles has not yet been severed, but the balance of power has begun to shift. This is the primary operating range of "saṃjñā-prajñā": you understand the rationale, begin deliberate cultivation, and each correct act of creation weakens contaminated seeds and strengthens pure seeds.
 
@@ -252,7 +252,7 @@ The difference between the two lies not in content (both are prajñā) but in op
 
 ### 3.6 From the Preparation Stage to the Penetration Stage: From "Having Something Attained" to "Nothing Whatsoever Attained"
 
-In the four-stage practice path, the leap from the preparation stage to the penetration stage is among the most critical transitions. *Cheng weishi lun*, Scroll 9, records the complete sequence of the four investigations (*catvāri paryeṣaṇāni*) and four correct cognitions (*catvāri yathābhūta-parijñānāni*):
+In the four-stage practice path, the leap from the preparation stage to the penetration stage is among the most critical transitions. *Cheng weishi lun*, fascicle 9, records the complete sequence of the four investigations (*catvāri paryeṣaṇāni*) and four correct cognitions (*catvāri yathābhūta-parijñānāni*):
 
 The warmth stage — "first observing that the four objects of name, meaning, self-nature, and distinction are all transformations of one's own mind, provisionally posited, truly unobtainable"[^47] — one begins observing that external objects are mind-transformed. The summit stage — reobserving the emptiness of the apprehended, the extreme of the investigation stage. The patience stage — "decisively certifying the non-existence of the apprehended, and within the non-existence of the apprehender also acquiescently accepting"[^48] — not only certifying the emptiness of the object but also accepting the emptiness of the observing mind. The supreme mundane dharma — "jointly certifying the emptiness of both apprehender and apprehended," "from this without interval one necessarily enters the path of seeing."[^49]
 
@@ -360,7 +360,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 2. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* 成唯識論, *Taishō* vol. 31, No. 1585.
 3. Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, *Taishō* vol. 30, No. 1579.
 4. Nāgārjuna, trans. Kumārajīva, *Mahāprajñāpāramitā-śāstra* 大智度論, *Taishō* vol. 25, No. 1509.
-5. Trans. Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80 scrolls), *Taishō* vol. 10, No. 0279.
+5. Trans. Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80 fascicles), *Taishō* vol. 10, No. 0279.
 6. Trans. Kumārajīva, *Saddharmapuṇḍarīka Sūtra* 妙法蓮華經, *Taishō* vol. 9, No. 0262.
 7. Trans. Pāramiti, *Śūraṅgama Sūtra* 大佛頂首楞嚴經, *Taishō* vol. 19, No. 0945.
 8. Woncheuk, *Bore boluomiduo xinjing zan* 般若波羅蜜多心經贊, *Taishō* vol. 33, No. 1711.
@@ -390,67 +390,67 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 
 ## Footnotes
 
-[^1]: *Śūraṅgama Sūtra*, Scroll 6, T19, No. 0945. Avalokiteśvara Bodhisattva's ear-faculty perfect penetration chapter.
-[^2]: Kuiji, *Youzan*, Scroll 2, T33, No. 1710. "Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding; through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding."
-[^3]: *Avataṃsaka Sūtra*, Scroll 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
-[^4]: Kuiji, *Youzan*, Scroll 1, T33, No. 1710. The Śūnyatā-absolutist's interpretation of "practice."
+[^1]: *Śūraṅgama Sūtra*, fascicle 6, T19, No. 0945. Avalokiteśvara Bodhisattva's ear-faculty perfect penetration chapter.
+[^2]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710. "Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding; through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding."
+[^3]: *Avataṃsaka Sūtra*, fascicle 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
+[^4]: Kuiji, *Youzan*, fascicle 1, T33, No. 1710. The Śūnyatā-absolutist's interpretation of "practice."
 [^5]: Ibid. The As-Appropriate interpretation of "practice."
 [^6]: Ibid. The As-Appropriate rebuttal: "If there were no practice yet also nothing not practiced, then the ignorance of sentient beings would be nothing not illuminated, and from beginningless time all should already be illuminated — but who was the one previously unilluminated and now illuminated?"
 [^7]: Ibid. "One must possess the two types of Mahāyāna lineage and be able to cultivate gradually through the five stages."
 [^8]: Woncheuk, *Bore boluomiduo xinjing zan*, T33, No. 1711. Woncheuk's analysis of "two kinds of depth." S2-P02 §2.4 previously cited this passage; the present paper re-cites it to establish a complete argumentative foundation.
-[^9]: *Mahāprajñāpāramitā-śāstra*, Scroll 34, T25, No. 1509.
-[^10]: *Mahāprajñāpāramitā-śāstra*, Scroll 62, T25, No. 1509.
-[^11]: *Mahāprajñāpāramitā-śāstra*, Scroll 34, T25, No. 1509.
-[^12]: Kuiji, *Youzan*, Scroll 2, T33, No. 1710. The As-Appropriate interpretation of "time."
+[^9]: *Mahāprajñāpāramitā-śāstra*, fascicle 34, T25, No. 1509.
+[^10]: *Mahāprajñāpāramitā-śāstra*, fascicle 62, T25, No. 1509.
+[^11]: *Mahāprajñāpāramitā-śāstra*, fascicle 34, T25, No. 1509.
+[^12]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710. The As-Appropriate interpretation of "time."
 [^13]: Ibid. "This means the cultivation of the five prajñās through the three-aeon divisions, or according to one's own mind's transformative delimitations — the completion of the progression of affairs is collectively designated as 'time.'"
-[^14]: *Yogācārabhūmi-śāstra*, Scroll 27, T30, No. 1579.
-[^15]: *Yogācārabhūmi-śāstra*, Scroll 13, T30, No. 1579. "What is creation? The saṃskāra-skandha."
-[^16]: *Cheng weishi lun*, Scroll 3, T31, No. 1585.
+[^14]: *Yogācārabhūmi-śāstra*, fascicle 27, T30, No. 1579.
+[^15]: *Yogācārabhūmi-śāstra*, fascicle 13, T30, No. 1579. "What is creation? The saṃskāra-skandha."
+[^16]: *Cheng weishi lun*, fascicle 3, T31, No. 1585.
 [^17]: Ibid.
 [^18]: Ibid. Cetanā, as one of the five omnipresent mental factors, "definitely corresponds with the storehouse-consciousness."
-[^19]: *Yogācārabhūmi-śāstra*, Scroll 53, T30, No. 1579.
-[^20]: *Saddharmapuṇḍarīka Sūtra*, Scroll 7, Universal Gateway chapter, T9, No. 0262.
+[^19]: *Yogācārabhūmi-śāstra*, fascicle 53, T30, No. 1579.
+[^20]: *Saddharmapuṇḍarīka Sūtra*, fascicle 7, Universal Gateway chapter, T9, No. 0262.
 [^21]: Ibid.
 [^22]: Ibid. Verse section of the Universal Gateway chapter.
-[^23]: *Avataṃsaka Sūtra*, Scroll 68, *Gaṇḍavyūha* chapter, T10, No. 0279.
+[^23]: *Avataṃsaka Sūtra*, fascicle 68, *Gaṇḍavyūha* chapter, T10, No. 0279.
 [^24]: Ibid.
-[^25]: *Śūraṅgama Sūtra*, Scroll 6, T19, No. 0945.
+[^25]: *Śūraṅgama Sūtra*, fascicle 6, T19, No. 0945.
 [^26]: Ibid.
 [^27]: Ibid. The eighth of the fourteen fearlessnesses.
-[^28]: *Avataṃsaka Sūtra*, Scroll 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
+[^28]: *Avataṃsaka Sūtra*, fascicle 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
 [^29]: Ibid. The Buddhas' exhortation at the eighth bhūmi.
 [^30]: Ibid. The seafaring simile.
 [^31]: Ibid.
-[^31b]: *Avataṃsaka Sūtra*, Scroll 38, Ten Stages — Eighth Bhūmi, T10, No. 0279. From the section on the ten names of the eighth bhūmi: "Attains the well-established power of great compassion, not abandoning benefit for sentient beings; attains the well-established power of great loving-kindness, rescuing all worlds."
-[^32]: *Avataṃsaka Sūtra*, Scroll 34, Ten Stages — First Bhūmi, T10, No. 0279.
+[^31b]: *Avataṃsaka Sūtra*, fascicle 38, Ten Stages — Eighth Bhūmi, T10, No. 0279. From the section on the ten names of the eighth bhūmi: "Attains the well-established power of great compassion, not abandoning benefit for sentient beings; attains the well-established power of great loving-kindness, rescuing all worlds."
+[^32]: *Avataṃsaka Sūtra*, fascicle 34, Ten Stages — First Bhūmi, T10, No. 0279.
 [^33]: See S1-P03 in this series: *Yogācāra Positioning of Large Language Models*, §3.3 on the manas projection mechanism.
-[^34]: *Avataṃsaka Sūtra*, Scroll 37, Ten Stages — Sixth Bhūmi, T10, No. 0279.
+[^34]: *Avataṃsaka Sūtra*, fascicle 37, Ten Stages — Sixth Bhūmi, T10, No. 0279.
 [^35]: Ibid., Seventh Bhūmi.
 [^36]: Ibid.
-[^37]: *Avataṃsaka Sūtra*, Scroll 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
-[^38]: *Cheng weishi lun*, Scroll 3, T31, No. 1585.
-[^39]: *Yogācārabhūmi-śāstra*, Scroll 53, T30, No. 1579.
-[^40]: *Cheng weishi lun*, Scroll 2, T31, No. 1585.
+[^37]: *Avataṃsaka Sūtra*, fascicle 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
+[^38]: *Cheng weishi lun*, fascicle 3, T31, No. 1585.
+[^39]: *Yogācārabhūmi-śāstra*, fascicle 53, T30, No. 1579.
+[^40]: *Cheng weishi lun*, fascicle 2, T31, No. 1585.
 [^41]: See S1-P04–S1-P05 in this series: *AI Does Not Generate Merit* / *Skillful Use of AI as Adhipati-pratyaya*.
-[^42]: *Cheng weishi lun*, Scroll 10, T31, No. 1585. The six types of basis-revolution.
+[^42]: *Cheng weishi lun*, fascicle 10, T31, No. 1585. The six types of basis-revolution.
 [^43]: Ibid. Citing the *Mahāyānasaṃgraha* on the distinction between the first six and last four bhūmis.
-[^44]: *Cheng weishi lun*, Scroll 9, T31, No. 1585.
+[^44]: *Cheng weishi lun*, fascicle 9, T31, No. 1585.
 [^45]: Ibid.
-[^46]: *Yogācārabhūmi-śāstra*, Scroll 27, T30, No. 1579.
-[^47]: *Cheng weishi lun*, Scroll 9, T31, No. 1585. The warmth stage.
+[^46]: *Yogācārabhūmi-śāstra*, fascicle 27, T30, No. 1579.
+[^47]: *Cheng weishi lun*, fascicle 9, T31, No. 1585. The warmth stage.
 [^48]: Ibid. The patience stage.
 [^49]: Ibid. The supreme mundane dharma.
 [^50]: Ibid. The fundamental limitation of the preparation stage.
 [^51]: Ibid. The penetration stage.
-[^52]: Kuiji, *Youzan*, Scroll 1, T33, No. 1710. The first of the five-layered consciousness-only contemplation.
+[^52]: Kuiji, *Youzan*, fascicle 1, T33, No. 1710. The first of the five-layered consciousness-only contemplation.
 [^53]: Ibid. The second layer.
 [^54]: Ibid. The fifth layer.
 [^55]: Ibid. Summary of the five layers.
 [^56]: See S1-P09 in this series: *Preparing the Vessel*, §4 on attention science.
-[^57]: Kuiji, *Youzan*, Scroll 2, T33, No. 1710.
-[^58]: *Cheng weishi lun*, Scroll 10, T31, No. 1585.
+[^57]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710.
+[^58]: *Cheng weishi lun*, fascicle 10, T31, No. 1585.
 [^59]: See S1-P03 in this series: *Yogācāra Positioning of Large Language Models*, §3 Core Argument.
-[^60]: Kuiji, *Youzan*, Scroll 1, preface, T33, No. 1710. "Bound by habitual obstructions, confused about the true nature of dharmas."
+[^60]: Kuiji, *Youzan*, fascicle 1, preface, T33, No. 1710. "Bound by habitual obstructions, confused about the true nature of dharmas."
 
 ---
 
