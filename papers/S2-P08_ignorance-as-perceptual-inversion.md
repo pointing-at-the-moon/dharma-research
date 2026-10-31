@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P08"
 paper_number: 8
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Ignorance as Perceptual Inversion: A New Interpretation of the Twelve Links of Dependent Origination
@@ -17,11 +17,11 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Heart Sūtra passage "no ignorance, and no ending of ignorance, up to no aging-and-death, and no ending of aging-and-death" negates the twelve links of dependent origination in both directions — origination and cessation — in fourteen characters, constituting prajñā's deepest seeing into the dharma of conditioned arising. This paper argues that the core of avidyā (ignorance) is not "stupidity" or "not knowing" but a perceptual inversion: mistaking what flows for what is fixed, mistaking what consciousness projects for what truly exists, mistaking what is constructed for what has always been. Using sunrise and sunset as analogy: avidyā is mistaking the earth's rotation for the sun moving across the sky. The scriptural foundation draws on the Buddha's teaching of dependent origination in the *Saṃyuktāgama* ("when this exists, that exists; when this arises, that arises"), Nāgārjuna's prajñā contemplation in the *Mahāprajñāpāramitopadeśa* ("the twelve links of dependent origination are empty, like space"), the *Śūraṅgama Sūtra*'s account of how avidyā originates ("the nature of awareness must be luminous; falsely attempting to illuminate awareness itself [creates ignorance]"), and the *Vijñaptimātratāsiddhi*'s Yogācāra definition ("darkness and delusion as its nature; serving as the basis for all defilements"). The core argument unfolds through Kuiji's trisvabhāva analysis in his *Bore boluomiduo xinjing youzhan*: the imagined "agent" and "permanence" of the twelve links are entirely negated, the dependent nature is not a fixed characteristic of arising, and the perfected nature is not the extinction of ignorance. The paper draws particularly on the *Yogācārabhūmi* fascicle 10's precise analysis of the feeling → craving → grasping mechanism, arguing that the intervention point for practice lies not at the root (avidyā is too deep) nor at the terminus (aging-and-death is already formed) but in the infinitesimal gap between craving and grasping — the gap where prajñā can be present. The argument further develops the Abhidharma tradition's three scales of dependent origination observation (one-lifetime, concatenated, and moment-to-moment) to show that the craving–grasping gap is not a single occurrence but opens at every moment for the practitioner whose observational resolution has reached the level of momentary arising and ceasing — the difference in speed of practice is fundamentally a difference in the temporal resolution at which one observes the twelve links. Cross-disciplinary dialogue employs confirmation bias and the Copernican Revolution as heuristic analogies, stated with restraint. Four Middle Way corrections address: avidyā does not equal stupidity, the heliocentric analogy has boundaries, the craving–grasping gap does not equal free will, and confirmation bias does not equal avidyā.
+The Heart Sūtra passage "no ignorance, and no ending of ignorance, up to no aging-and-death, and no ending of aging-and-death" negates the twelve links of dependent origination in both directions — origination and cessation — in eighteen characters, constituting prajñā's deepest seeing into the dharma of conditioned arising. This paper argues that the core of avidyā (ignorance) is not "stupidity" or "not knowing" but a perceptual inversion: mistaking what flows for what is fixed, mistaking what consciousness projects for what truly exists, mistaking what is constructed for what has always been. Using sunrise and sunset as analogy: avidyā is mistaking the earth's rotation for the sun moving across the sky. The scriptural foundation draws on the Buddha's teaching of dependent origination in the *Saṃyuktāgama* ("when this exists, that exists; when this arises, that arises"), Nāgārjuna's prajñā contemplation in the *Mahāprajñāpāramitopadeśa* ("the twelve links of dependent origination are empty, like space"), the *Śūraṅgama Sūtra*'s account of how avidyā originates ("the nature of awareness must be luminous; falsely attempting to illuminate awareness itself [creates ignorance]"), and the *Vijñaptimātratāsiddhi*'s Yogācāra definition ("darkness and delusion as its nature; serving as the basis for all defilements"). The core argument unfolds through Kuiji's trisvabhāva analysis in his *Bore boluomiduo xinjing youzan*: the imagined "agent" and "permanence" of the twelve links are entirely negated, the dependent nature is not a fixed characteristic of arising, and the perfected nature is not the extinction of ignorance. The paper draws particularly on the *Yogācārabhūmi* fascicle 10's precise analysis of the feeling → craving → grasping mechanism, arguing that the intervention point for practice lies not at the root (avidyā is too deep) nor at the terminus (aging-and-death is already formed) but in the infinitesimal gap between craving and grasping — the gap where prajñā can be present. The argument further develops the Abhidharma tradition's three scales of dependent origination observation (one-lifetime, concatenated, and moment-to-moment) to show that the craving–grasping gap is not a single occurrence but opens at every moment for the practitioner whose observational resolution has reached the level of momentary arising and ceasing — the difference in speed of practice is fundamentally a difference in the temporal resolution at which one observes the twelve links. Cross-disciplinary dialogue employs confirmation bias and the Copernican Revolution as heuristic analogies, stated with restraint. Four Middle Way corrections address: avidyā does not equal stupidity, the heliocentric analogy has boundaries, the craving–grasping gap does not equal free will, and confirmation bias does not equal avidyā.
 
 **摘要**
 
-心經「無無明，亦無無明盡，乃至無老死，亦無老死盡」一段，以十四字否定了十二因緣的流轉與還滅兩個方向。本文提出：無明的核心不是「愚蠢」或「不知道」，而是一種感知的顛倒。以窺基三性解展開核心論證，以《瑜伽師地論》受→愛→取分析論證愛取空隙為修行介入點，以三種緣起觀（一期、連縛、剎那）闡明觀照解析度決定修行速度。中道校正四條。
+心經「無無明，亦無無明盡，乃至無老死，亦無老死盡」一段，以十八字否定了十二因緣的流轉與還滅兩個方向。本文提出：無明的核心不是「愚蠢」或「不知道」，而是一種感知的顛倒。以窺基三性解展開核心論證，以《瑜伽師地論》受→愛→取分析論證愛取空隙為修行介入點，以三種緣起觀（一期、連縛、剎那）闡明觀照解析度決定修行速度。中道校正四條。
 
 **Keywords:** Heart Sūtra, twelve links of dependent origination (pratītyasamutpāda), avidyā, gap between craving and grasping, emptiness of dependent arising, trisvabhāva, perceptual inversion, Kuiji, Nāgārjuna | 般若心經、十二因緣、無明、愛取空隙、緣起性空、三性解、感知顛倒、窺基、龍樹
 
@@ -38,13 +38,13 @@ The Heart Sūtra's answer is: avidyā — ignorance.
 > 無無明，亦無無明盡，乃至無老死，亦無老死盡。
 > No ignorance, and no ending of ignorance, up to no aging-and-death, and no ending of aging-and-death.[^1]
 
-These fourteen characters condense the most fundamental causal model in Buddhist teaching — the twelve links of dependent origination (pratītyasamutpāda). The twelve links are the complete map of suffering:
+These eighteen characters condense the most fundamental causal model in Buddhist teaching — the twelve links of dependent origination (pratītyasamutpāda). The twelve links are the complete map of suffering:
 
 > Avidyā (ignorance) → saṃskāra (formations) → vijñāna (consciousness) → nāmarūpa (name-and-form) → ṣaḍāyatana (six sense-gates) → sparśa (contact) → vedanā (feeling) → tṛṣṇā (craving) → upādāna (grasping) → bhava (becoming) → jāti (birth) → jarāmaraṇa (aging-and-death)
 
 The Heart Sūtra does two things with this map. First, it says "no ignorance… up to no aging-and-death" — in ultimate truth, every link in the chain of origination is without self-nature. Second, it says "and no ending of ignorance… and no ending of aging-and-death" — in ultimate truth, every link in the chain of cessation is equally without self-nature. Origination is empty; cessation is also empty. The chain of suffering is empty; the path to ending suffering is also empty.
 
-The two characters "up to" (乃至, *naiva*) are extraordinarily concise. The twelve links have twelve members, yet the sūtra names only the first and the last — ignorance and aging-and-death — eliding the ten between with "up to." This is not abbreviation but pedagogical design: if the beginning and end are both empty, how could the middle alone be real?
+The two characters "up to" (乃至, *yāvat*) are extraordinarily concise. The twelve links have twelve members, yet the sūtra names only the first and the last — ignorance and aging-and-death — eliding the ten between with "up to." This is not abbreviation but pedagogical design: if the beginning and end are both empty, how could the middle alone be real?
 
 ### 1.2 Research Questions
 
@@ -73,7 +73,7 @@ The teaching of the twelve links finds precise expression in Sūtra 296 of the *
 > 云何為因緣法？謂此有故彼有，謂緣無明行，緣行識，乃至如是如是純大苦聚集。
 > "What is the dharma of conditions? When this exists, that exists. Conditioned by ignorance, formations arise; conditioned by formations, consciousness arises — up to the entire mass of suffering thus gathered."[^2]
 
-"When this exists, that exists; when this arises, that arises" (此有故彼有，此生故彼生) — these eight characters are the fundamental formula of Buddhist dependent origination. They establish a strict causal structure: not "A causes B" (causal entity theory) but "when A is present, B is correspondingly present" (causal relation theory). The difference: the former presupposes A and B as independent entities; the latter describes only the mutual dependence of conditions.
+"When this exists, that exists; when this arises, that arises" (此有故彼有，此生故彼生) — these ten characters are the fundamental formula of Buddhist dependent origination. They establish a strict causal structure: not "A causes B" (causal entity theory) but "when A is present, B is correspondingly present" (causal relation theory). The difference: the former presupposes A and B as independent entities; the latter describes only the mutual dependence of conditions.
 
 In the same sūtra, the Buddha further clarifies that this law of causation does not change regardless of whether a Buddha appears in the world:
 
@@ -107,7 +107,7 @@ Fascicle 5 of the same treatise states from the standpoint of practice:
 
 ### 2.3 The Śūraṅgama's Deep Seeing: How Avidyā Originates
 
-If avidyā arises from conditions, one may press further: how did avidyā first occur? The *Śūraṅgama Sūtra* fascicle 2 offers a profoundly deep answer:
+If avidyā arises from conditions, one may press further: how did avidyā first occur? The *Śūraṅgama Sūtra* fascicle 4 offers a profoundly deep answer:
 
 > 性覺必明。妄為明覺。覺非所明。因明立所。所既妄立。生汝妄能。無同異中。熾然成異。
 > "The nature of awareness is inherently luminous. Falsely attempting to illuminate that awareness [creates ignorance]. Awareness is not an object of illumination. By seeking to illuminate, an 'object' is posited. Once the object is falsely established, a false 'subject' arises in you. Within what is originally neither same nor different, duality blazes forth."[^7]
@@ -138,7 +138,7 @@ Regarding the seed mechanism: avidyā, as a seed of the affliction-obstruction, 
 
 ### 2.5 Kuiji's Trisvabhāva Analysis: "No Ignorance and No Ending of Ignorance"
 
-In his *Bore boluomiduo xinjing youzhan* fascicle 2, Kuiji develops a systematic trisvabhāva analysis of "no ignorance, and no ending of ignorance":
+In his *Bore boluomiduo xinjing youzan* fascicle 2, Kuiji develops a systematic trisvabhāva analysis of "no ignorance, and no ending of ignorance." He opens by staging the "Superior Emptiness" (勝空者) position, which he then answers in the voice of the "As-Appropriate" (如應者) interpreter:
 
 > 勝空者言，上無遠觀，下無近觀，此無獨覺隣近所觀，故契經言，為求獨覺者說應十二緣起法。又說，無明乃至老死唯有假名，自性空故今說為無。盡者，空也，空亦空故，說無無明盡乃至無老死盡。
 > "The Superior Emptiness position states: above, the distant contemplation [of the bodhisattva] is negated; below, the near contemplation [of the śrāvaka] is negated; here, the immediate contemplation of the pratyekabuddha is negated. Thus the sūtra says the twelve links of dependent origination are taught for those seeking pratyekabuddha-awakening. It further states: ignorance through aging-and-death are merely nominal designations; being empty of self-nature, they are now declared 'no.' 'Ending' means emptiness; emptiness too is empty, hence 'no ending of ignorance' through 'no ending of aging-and-death.'"[^10]
@@ -192,7 +192,7 @@ Every day the sun rises in the east and sets in the west. This is what your eyes
 
 Your eyes are not broken, your feelings are not wrong, but your interpretation of these perceptions is inverted. "Sunrise" is not the sun rising; it is the ground you stand on turning.
 
-Avidyā is precisely this kind of inversion. In Yogācāra terms, the ālaya-vijñāna is like the unmoving sun — it holds all seeds, all habitual tendencies, but it itself is not in flux. What flows are the waves that seeds produce when conditions ripen — the torrent of vāsanā, the ceaseless change of surface phenomena. The avidyā of sentient beings is not ignorance of the ālaya-vijñāna's existence, but mistaking the waves on the surface of consciousness for external entities — mistaking the earth's rotation for the sun moving across the sky.
+Avidyā is precisely this kind of inversion. In Yogācāra terms, the ālaya-vijñāna holds all seeds, all habitual tendencies — though it is no unmoving sun: it is itself "ever turning, like a torrent" (恒轉如瀑流, *Vijñaptimātratāsiddhi* fasc. 2). What is seen are the waves that seeds produce when conditions ripen — the torrent of vāsanā, the ceaseless change of surface phenomena. The avidyā of sentient beings is not ignorance of the ālaya-vijñāna's existence, but mistaking the waves on the surface of consciousness for external entities — mistaking the earth's rotation for the sun moving across the sky.
 
 The power of this analogy: once you know it is the earth rotating and not the sun moving, your daily experience does not change — the sun still appears to rise from the east. But your understanding has been completely inverted. Awakening does not make you see different things; it gives you a different understanding of what you already see.
 
@@ -329,7 +329,7 @@ The confirmation bias analogy in §IV is a structural heuristic, not a theoretic
 
 This paper has argued that the essence of avidyā is perceptual inversion, not the absence of knowledge. The cyclic flow of the twelve links is not a problem that can be solved by "learning more" but an event requiring a fundamental inversion of one's perceptual mode — like shifting from the geocentric to the heliocentric model.
 
-The Heart Sūtra, with the ten characters "no ignorance, and no ending of ignorance," simultaneously negates the substantiality of both origination (suffering) and cessation (the end of suffering). Kuiji's trisvabhāva analysis clarifies the precise meaning of this negation: the imagined "agent" and "permanence" are thoroughly negated; the dependent function of conditioned arising is preserved but not grasped as a fixed characteristic; the perfected is neither "the product of eliminating ignorance" nor another thing that can be possessed.
+The Heart Sūtra, with the eight characters "no ignorance, and no ending of ignorance," simultaneously negates the substantiality of both origination (suffering) and cessation (the end of suffering). Kuiji's trisvabhāva analysis clarifies the precise meaning of this negation: the imagined "agent" and "permanence" are thoroughly negated; the dependent function of conditioned arising is preserved but not grasped as a fixed characteristic; the perfected is neither "the product of eliminating ignorance" nor another thing that can be possessed.
 
 Nāgārjuna's conclusion is the most condensed: "delusion is like space — inexhaustible." Avidyā is like space: you cannot "destroy" space, but you need not destroy it, because it never had substantial existence.
 
@@ -371,7 +371,7 @@ What this requires is not conceptual understanding but the accumulation of pract
 - *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
 - *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, T29, No. 1558.
 - *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Xuanzang, T31, No. 1597.
-- *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
 - *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), by Woncheuk, T33, No. 1711.
 
 ### II. Modern Scholarship
@@ -399,12 +399,12 @@ What this requires is not conceptual understanding but the accumulation of pract
 | Prajñāpāramitā Hṛdaya Sūtra | T8, No. 0251 | Fasc. 1 |
 | Saṃyuktāgama | T2, No. 0099 | Fasc. 12 |
 | Mahāprajñāpāramitopadeśa | T25, No. 1509 | Fasc. 5, 80 |
-| Śūraṅgama Sūtra | T19, No. 0945 | Fasc. 2 |
+| Śūraṅgama Sūtra | T19, No. 0945 | Fasc. 4 |
 | Vijñaptimātratāsiddhi | T31, No. 1585 | Fasc. 6 |
 | Yogācārabhūmi-śāstra | T30, No. 1579 | Fasc. 10, 93 |
 | Mahāyānasaṃgrahabhāṣya | T31, No. 1597 | — |
 | Abhidharmakośabhāṣya | T29, No. 1558 | Fasc. 9 |
-| Bore boluomiduo xinjing youzhan | T33, No. 1710 | Fasc. 2 |
+| Bore boluomiduo xinjing youzan | T33, No. 1710 | Fasc. 2 |
 | Bore boluomiduo xinjing zan | T33, No. 1711 | Fasc. 1 |
 
 ---
@@ -436,13 +436,13 @@ What this requires is not conceptual understanding but the accumulation of pract
 
 [^6]: *Mahāprajñāpāramitopadeśa*, fasc. 5, "Delusion is like space — inexhaustible… one who contemplates dependent origination in this way sits upon the seat of awakening and attains sarvajñā," contemplating the twelve links as the path to Buddhahood, T25, No. 1509.
 
-[^7]: *Śūraṅgama Sūtra*, fasc. 2, "The nature of awareness is inherently luminous; falsely attempting to illuminate awareness itself; awareness is not an object of illumination; by seeking to illuminate, an object is posited," the origination of avidyā, T19, No. 945.
+[^7]: *Śūraṅgama Sūtra*, fasc. 4, "The nature of awareness is inherently luminous; falsely attempting to illuminate awareness itself; awareness is not an object of illumination; by seeking to illuminate, an object is posited," the origination of avidyā, T19, No. 945.
 
 [^8]: *Vijñaptimātratāsiddhi*, fasc. 6, "What is delusion? Its nature is darkness and confusion regarding principles and phenomena; its function is to obstruct non-delusion, serving as the basis for all defilements," definition of avidyā, T31, No. 1585.
 
 [^9]: Ibid., "Due to ignorance, doubt, wrong views, greed, and other afflictions and subsidiary afflictions arise," avidyā as the universal root of defilements, T31, No. 1585.
 
-[^10]: *Bore boluomiduo xinjing youzhan*, fasc. 2, "The Superior Emptiness position states… ignorance through aging-and-death are merely nominal designations; being empty of self-nature, they are declared 'no,'" the emptiness contemplation of the twelve links, T33, No. 1710.
+[^10]: *Bore boluomiduo xinjing youzan*, fasc. 2, "The Superior Emptiness position states… ignorance through aging-and-death are merely nominal designations; being empty of self-nature, they are declared 'no,'" the emptiness contemplation of the twelve links, T33, No. 1710.
 
 [^11]: Ibid., "What is negated is the imagined 'agent' and 'permanence' in the two kinds of dependent arising; what is not negated is the functional principle of conditioned arising and cessation," trisvabhāva analysis of the twelve links, T33, No. 1710.
 
@@ -450,7 +450,7 @@ What this requires is not conceptual understanding but the accumulation of pract
 
 [^13]: *Bore boluomiduo xinjing zan*, fasc. 1, "This is the fourth gate of dispelling dependent arising… in emptiness there is no such origination," the double dispelling of origination and cessation, T33, No. 1711.
 
-[^14]: *Bore boluomiduo xinjing youzhan*, fasc. 2, "The word 'empty' here means the three non-natures," tri-nihsvabhāva analysis of emptiness, T33, No. 1710.
+[^14]: *Bore boluomiduo xinjing youzan*, fasc. 2, "The word 'empty' here means the three non-natures," tri-nihsvabhāva analysis of emptiness, T33, No. 1710.
 
 [^15]: *Yogācārabhūmi-śāstra*, fasc. 10, "By the force of feeling, in relation to similar objects, one either seeks union or seeks separation," the feeling → craving mechanism, T30, No. 1579.
 
@@ -458,7 +458,7 @@ What this requires is not conceptual understanding but the accumulation of pract
 
 [^17]: *Yogācārabhūmi-śāstra*, fasc. 93, "First, feeling born of contact conditioned by ignorance serves as the condition for craving; due to craving, grasping subsequently arises," summary of the feeling–craving–grasping sequence, T30, No. 1579.
 
-[^18]: The three scales of dependent origination observation (one-lifetime, concatenated, momentary) represent the Abhidharma tradition's three temporal frameworks for analyzing the twelve links. The *Abhidharmakośabhāṣya* fasc. 9, "Distinguishing the World" chapter, establishes the one-lifetime framework of two rounds of cause-and-effect across three lives; momentary dependent origination appears in the same treatise's discussion of momentary arising and ceasing as well as in various Abhidharma texts. This paper's use of "concatenated dependent origination" as a middle-scale observation is the guide-commentary author's practice-based interpretation grounded in the Abhidharma tradition, not a technical term original to the canon. T29, No. 1558.
+[^18]: The three scales of dependent origination observation (one-lifetime, concatenated, momentary) represent the Abhidharma tradition's three temporal frameworks for analyzing the twelve links. The *Abhidharmakośabhāṣya* fasc. 9, "Distinguishing the World" chapter, establishes the one-lifetime framework of two rounds of cause-and-effect across three lives; momentary dependent origination appears in the same treatise's discussion of momentary arising and ceasing as well as in various Abhidharma texts. "Concatenated dependent origination" (連縛緣起) is itself a canonical term: the *Mahāvibhāṣā* fasc. 23 (T27, No. 1545) and the *Nyāyānusāra* fasc. 27 (T29, No. 1562) list four kinds of dependent origination — momentary (剎那), concatenated (連縛), per-stage (分位), and remote (遠續); this paper's use of it as a middle-scale observation is the guide-commentary author's practice-based application of that scheme. T29, No. 1558.
 
 ---
 
