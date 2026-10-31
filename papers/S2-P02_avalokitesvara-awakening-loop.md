@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P02"
 paper_number: 2
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Avalokiteśvara: The Four Links of the Awakening Loop
@@ -19,9 +19,9 @@ license: "CC BY-NC-SA 4.0"
 
 The opening sentence of the Heart Sūtra — "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he illuminated the emptiness of the five aggregates and transcended all suffering" — is typically read as narrative preamble, merely establishing who did what and when. This paper argues that the sentence constitutes the sūtra's master program: a self-contained awakening loop comprising four links — Subject (*avalokiteśvara*) → Method (*gambhīrā prajñāpāramitā*) → Insight (*vyavalokayati sma pañca-skandhāḥ*) → Fruit (*sarvaduhkha-atikaraṇa*) — whose endpoint circles back to its origin, embodying the Tathāgata's "neither coming nor going."
 
-Drawing primarily on Kuiji's *Youzhan* (T1710), Woncheuk's *Heart Sūtra Commentary* (T1711), the *Cheng weishi lun* (T1585), and the *Mahāprajñāpāramitā-śāstra* (T1509), the paper demonstrates: (1) "Avalokiteśvara" possesses dual valence — Kuiji explicates it through compassion-wisdom unity and ten sovereign freedoms, Woncheuk through the *pratyavekṣaṇā-jñāna* (wondrous contemplative wisdom) — with both fruition-level and causal-level meanings that are mutually non-contradictory; (2) "deep practice" has two classical dimensions (practice-depth and object-depth per Kuiji) plus an original third dimension concerning transformation at the *saṃskāra* level of the aggregates; (3) "illumination" is *yogic pratyakṣa* (direct perception in meditative equipoise), and "emptiness" specifically means the emptiness of *parikalpita* (the imagined nature), not the emptiness of all phenomena; (4) the four links form a closed loop that mirrors the ultimate meaning of Tathāgata as "one who has neither come from anywhere nor gone anywhere."
+Drawing primarily on Kuiji's *Youzan* (T1710), Woncheuk's *Heart Sūtra Commentary* (T1711), the *Cheng weishi lun* (T1585), and the *Mahāprajñāpāramitā-śāstra* (T1509), the paper demonstrates: (1) "Avalokiteśvara" possesses dual valence — Kuiji explicates it through compassion-wisdom unity and ten sovereign freedoms, this paper, building on Woncheuk's four-wisdom framework, through the *pratyavekṣaṇā-jñāna* (wondrous contemplative wisdom) — with both fruition-level and causal-level meanings that are mutually non-contradictory; (2) "deep practice" has two classical dimensions (practice-depth and object-depth per Woncheuk) plus an original third dimension concerning transformation at the *saṃskāra* level of the aggregates; (3) "illumination" is *yogic pratyakṣa* (direct perception in meditative equipoise), and "emptiness" specifically means the emptiness of *parikalpita* (the imagined nature), not the emptiness of all phenomena; (4) the four links form a closed loop that mirrors the ultimate meaning of Tathāgata as "one who has neither come from anywhere nor gone anywhere."
 
-**Keywords:** Avalokiteśvara, awakening loop, *pratyavekṣaṇā-jñāna*, deep practice, five-layered contemplation, *āśraya-parāvṛtti*, Kuiji, Woncheuk, *Youzhan* / 觀自在菩薩、覺醒迴路、妙觀察智、行深、五重觀、遣虛存實、窺基、圓測、幽贊
+**Keywords:** Avalokiteśvara, awakening loop, *pratyavekṣaṇā-jñāna*, deep practice, five-layered contemplation, *āśraya-parāvṛtti*, Kuiji, Woncheuk, *Youzan* / 觀自在菩薩、覺醒迴路、妙觀察智、行深、五重觀、遣虛存實、窺基、圓測、幽贊
 
 ---
 
@@ -43,7 +43,7 @@ More importantly, the loop is **closed**: the fruit of transcending suffering is
 
 ### 2.1 Kuiji's Compassion-Wisdom Explication
 
-Kuiji (632–682), in the *Bore boluomiduo xinjing youzhan* (Esoteric Praise of the Heart Sūtra, T1710), explicates "Avalokiteśvara" through two layers of meaning:
+Kuiji (632–682), in the *Bore boluomiduo xinjing youzan* (Esoteric Praise of the Heart Sūtra, T1710), explicates "Avalokiteśvara" through two layers of meaning:
 
 > "Observing" (*guān*) means discernment — the wisdom-compassion that watches over and rescues. "Sovereign Freedom" (*zìzài*) means unobstructedness — the wondrous function of delivering beings. ... Furthermore, "observing" means illumination — the wisdom that comprehends emptiness and existence. "Sovereign Freedom" means mastery — the fruition attained. Having practiced the six perfections in former lives and now attaining their fruition, with contemplative wisdom as the foremost, one achieves ten sovereign freedoms.[^1]
 
@@ -55,17 +55,17 @@ Fazang's *Brief Commentary on the Heart Sūtra* (T1712) offers a complementary p
 
 Both patriarchs share a common structure: **Avalokiteśvara is not a single-meaning term but the complete expression of compassion-wisdom unity.**
 
-### 2.2 Woncheuk's Identification with Pratyavekṣaṇā-jñāna
+### 2.2 Woncheuk's Four Wisdoms and Pratyavekṣaṇā-jñāna
 
-Woncheuk (613–696), in the *Heart Sūtra Commentary* (T1711), explicates "Avalokiteśvara" through the framework of the four wisdoms derived from the transformation of consciousness:
+Woncheuk (613–696), in the *Heart Sūtra Commentary* (T1711), sets out in his exposition of *bodhi* the framework of the four wisdoms derived from the transformation of consciousness:
 
 > Third, the mental faculty associated with the *pratyavekṣaṇā-jñāna* (wondrous contemplative wisdom) — which skillfully contemplates the specific and universal characteristics of all dharmas — is named "wondrous contemplative wisdom" from its function. It has ten analogies, as explained extensively in the sūtras. The mental faculty associated with the sixth consciousness is its essential basis.[^3]
 
 > Transforming the eighth consciousness yields the *ādarśa-jñāna* (great mirror wisdom); transforming the seventh consciousness yields the *samatā-jñāna* (equality wisdom); transforming the sixth consciousness yields the *pratyavekṣaṇā-jñāna* (wondrous contemplative wisdom); transforming the five sensory consciousnesses yields the *kṛtyānuṣṭhāna-jñāna* (wisdom of accomplished activity).[^4]
 
-Woncheuk maps the four wisdoms to the four categories of consciousness, explicitly identifying "observing" (*guān*) with *pratyavekṣaṇā-jñāna* — the wisdom that "skillfully contemplates the specific and universal characteristics of all dharmas," a definition drawn from the *Buddhabhūmi-sūtra-śāstra* (T1530).
+Woncheuk maps the four wisdoms to the four categories of consciousness; on this basis the present paper identifies "observing" (*guān*) with *pratyavekṣaṇā-jñāna* — the wisdom that "skillfully contemplates the specific and universal characteristics of all dharmas," a definition drawn from the *Buddhabhūmi-sūtra-śāstra* (T1530).
 
-Kuiji explicates through compassion-wisdom unity; Woncheuk identifies the wisdom-body (*jñāna-svabhāva*). The two systems are complementary: Kuiji describes the "complete portrait" of Avalokiteśvara (compassion and wisdom as one), while Woncheuk identifies its "wisdom-body" (the transformative structure of *pratyavekṣaṇā-jñāna*).
+Kuiji explicates through compassion-wisdom unity; Woncheuk's four-wisdom framework supplies the wisdom-body (*jñāna-svabhāva*). The two systems are complementary: Kuiji describes the "complete portrait" of Avalokiteśvara (compassion and wisdom as one), while Woncheuk's four wisdoms let us identify its "wisdom-body" (the transformative structure of *pratyavekṣaṇā-jñāna*).
 
 ### 2.3 The Sanskrit Name: Avalokiteśvara versus Avalokitasvara
 
@@ -81,7 +81,7 @@ Shihui's *Lüeshu lianzhuji* 《般若心經略疏連珠記》 (T1713) explains 
 
 ### 2.4 The Two Dimensions of Depth
 
-Kuiji's *Youzhan* explicates "practicing the profound prajñāpāramitā" by distinguishing two dimensions of "depth" (*shēn*):
+Woncheuk's *Heart Sūtra Commentary* (T1711) explicates "practicing the profound prajñāpāramitā" by distinguishing two dimensions of "depth" (*shēn*):
 
 > "Practicing" means progressive practice — this is the contemplating wisdom. "Profound" means exceedingly deep. Depth has two kinds. First, practice-depth (*xíng shēn*): non-discriminating wisdom internally realizes the twofold emptiness, free from all discriminations, with no characteristics of practice — whether agent or action — as its mode of operation. Hence it is called "deep practice." Therefore the *Mahāprajñāpāramitā-sūtra* says: "Not seeing practice, not seeing non-practice — this is called the bodhisattva's deep practice of prajñā." Second, object-depth (*jìng shēn*): the principle of twofold emptiness, free from the characteristics of existence and non-existence, transcending all conceptual elaboration. Non-discriminating wisdom realizes this profound object — hence it is called "deep practice."[^7]
 
@@ -119,7 +119,7 @@ The conclusion is definitive: **non-discriminating wisdom (*nirvikalpaka-jñāna
 
 ### 2.7 The Five-Layered Contemplation: Eliminating the False, Preserving the Real
 
-Kuiji's *Youzhan* systematizes Yogācāra contemplative practice into five progressive layers. The first layer, "eliminating the false, preserving the real" (*qiǎn xū cún shí*):
+Kuiji's *Youzan* systematizes Yogācāra contemplative practice into five progressive layers. The first layer, "eliminating the false, preserving the real" (*qiǎn xū cún shí*):
 
 > Examining all that the sacred teachings say about consciousness-only, though immeasurable in variety, there are no more than five layers. First, eliminating the false and preserving the real. Contemplating that the *parikalpita* (imagined nature) arises solely from false construction, utterly devoid of essence or function, it should be correctly eliminated. Contemplating that *paratantra* (dependent nature) and *pariniṣpanna* (perfected nature) have real essence as objects of the two wisdoms, they should be preserved as existent.[^13]
 
@@ -129,7 +129,7 @@ This passage is the key to understanding "emptiness" in Yogācāra: "empty" spec
 
 ### 2.8 The Root of Suffering and the Meaning of Transcendence
 
-Kuiji's *Youzhan* identifies the root of suffering in the preface to fascicle one:
+Kuiji's *Youzan* identifies the root of suffering in the preface to fascicle one:
 
 > Because sentient beings, deluded about the true nature of dharmas, generate afflictions and create karma.[^16]
 
@@ -145,9 +145,9 @@ The *Mahāprajñāpāramitā-śāstra*, fascicle 84, distinguishes the Buddha fr
 
 > The Tathāgata's afflictions and habitual tendencies are completely exhausted. Śrāvakas and pratyekabuddhas have exhausted only their afflictions, while residual habitual tendencies remain.[^19]
 
-The text illustrates this with two celebrated examples: the arhat Mṛgāra-vatsā, who after 500 lifetimes as a monkey still "leapt and swung from trees" despite having attained arhatship; and the arhat Pilindavatsa, who after 500 lifetimes as a brahmin still addressed the river goddess as "little servant."
+The text illustrates this with two celebrated examples: the arhat Madhuvāsiṣṭha (蜜婆私詫), who after 500 lifetimes as a monkey still "leapt and swung from trees" despite having attained arhatship; and the arhat Pilindavatsa, who after 500 lifetimes as a brahmin still addressed the river goddess as "little servant."
 
-Fascicle 27 concludes with the fire analogy:
+Fascicle 2 sums up with the fire analogy:
 
 > Arhats and pratyekabuddhas, though they have destroyed the three poisons, have not exhausted their residual tendencies — like fragrance remaining in a vessel after the perfume has been removed. ... The Buddha has permanently and completely exhausted the three poisons without remainder — like the fire at the end of an eon that burns Mount Sumeru until the very earth is consumed, with neither smoke nor ash remaining.[^20]
 
@@ -175,7 +175,7 @@ Avalokiteśvara's role in the *Saṃdhinirmocana* — requesting teachings on th
 
 ### 3.1 "Avalokiteśvara": The Dual Architecture of Causal and Fruition Levels
 
-Kuiji's compassion-wisdom explication and Woncheuk's identification with *pratyavekṣaṇā-jñāna* both describe the **fruition level**: a bodhisattva above the first *bhūmi* who has already transformed the sixth consciousness into wondrous contemplative wisdom, already severed the two obstructions, and already attained the ten sovereign freedoms.
+Kuiji's compassion-wisdom explication and the *pratyavekṣaṇā-jñāna* reading built on Woncheuk's four wisdoms both describe the **fruition level**: a bodhisattva above the first *bhūmi* who has already transformed the sixth consciousness into wondrous contemplative wisdom, already severed the two obstructions, and already attained the ten sovereign freedoms.
 
 But if "Avalokiteśvara" carried only fruition-level meaning, the sūtra would be irrelevant to the vast majority of beings — those who have neither seen the path nor transformed consciousness into wisdom. Reading "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā" would be nothing more than spectating a saint's practice log.
 
@@ -191,17 +191,17 @@ The three characters decompose as follows:
 
 That thought is the seed of *bodhicitta*. The person who generates it is, in the causal sense, "Avalokiteśvara Bodhisattva."
 
-✅ **Doctrinal assessment:** The two levels are mutually non-contradictory. The fruition level is fully supported by commentarial sources (Kuiji's compassion-wisdom unity, Woncheuk's *pratyavekṣaṇā-jñāna*, the ten sovereign freedoms, Avalokiteśvara's role in the *Saṃdhinirmocana*). The causal level is a pedagogical extension — Yogācāra's own five-stage path (*pañcāvasthā*) presupposes a continuous spectrum from ordinary being to sage. The causal level is where the spectrum begins; the fruition level is where it is fully disclosed.
+✅ **Doctrinal assessment:** The two levels are mutually non-contradictory. The fruition level is fully supported by commentarial sources (Kuiji's compassion-wisdom unity, Woncheuk's four wisdoms, the ten sovereign freedoms, Avalokiteśvara's role in the *Saṃdhinirmocana*). The causal level is a pedagogical extension — Yogācāra's own five-stage path (*pañcāvasthā*) presupposes a continuous spectrum from ordinary being to sage. The causal level is where the spectrum begins; the fruition level is where it is fully disclosed.
 
 ### 3.2 "Practicing the Profound Prajñāpāramitā": Two Classical Dimensions and the Transformation of Saṃskāra
 
-Kuiji's two dimensions — practice-depth and object-depth — address the contemplating wisdom and the contemplated object, respectively.
+Woncheuk's two dimensions — practice-depth and object-depth — address the contemplating wisdom and the contemplated object, respectively.
 
 **Practice-depth**: non-discriminating wisdom internally realizes the twofold emptiness, free from all discriminations. Even the appearance of "I am practicing" has been transcended. The *Mahāprajñāpāramitā-sūtra* states: "Not seeing practice, not seeing non-practice — this is the bodhisattva's deep practice of prajñā."
 
 **Object-depth**: the twofold emptiness as suchness transcends the characteristics of existence and non-existence, beyond all conceptual elaboration. The object is not something that can be grasped conceptually — it is *dharmatā* itself, beyond all *prapañca*.
 
-Beyond Kuiji's two dimensions, this paper identifies a third from the perspective of lived practice:
+Beyond Woncheuk's two dimensions, this paper identifies a third from the perspective of lived practice:
 
 **Transformation-depth: prajñā penetrating from the *saṃjñā* (perception/conception) level to the *saṃskāra* (volitional formation) level.**
 
@@ -211,7 +211,7 @@ The ultimate criterion of "deep practice" is not how precise one's *saṃjñā*-
 
 This is the five-aggregate correlate of "transforming consciousness into wisdom" (*zhuǎn shí chéng zhì*): the sixth consciousness (the primary operational basis of *saṃjñā*) transforms into *pratyavekṣaṇā-jñāna*, but this transformation does not remain at the intellectual level — it must penetrate to *saṃskāra*, saturating the deep structure of volitional tendency with prajñā.
 
-⚠️ **Doctrinal assessment:** Practice-depth and object-depth are explicitly supported by Kuiji's *Youzhan*. Transformation-depth (penetration to the *saṃskāra* level as instinct) is an original insight of this paper — no direct precedent was found in the classical commentaries for interpreting "deep practice" specifically through *saṃskāra* transformation. This insight does not contradict Kuiji's two dimensions but extends them from the angle of lived practice. It should be recognized as an interpretive contribution with pedagogical value rather than a direct scriptural claim.
+⚠️ **Doctrinal assessment:** Practice-depth and object-depth are explicitly supported by Woncheuk's *Heart Sūtra Commentary*. Transformation-depth (penetration to the *saṃskāra* level as instinct) is an original insight of this paper — no direct precedent was found in the classical commentaries for interpreting "deep practice" specifically through *saṃskāra* transformation. This insight does not contradict Woncheuk's two dimensions but extends them from the angle of lived practice. It should be recognized as an interpretive contribution with pedagogical value rather than a direct scriptural claim.
 
 ### 3.3 "Illuminating the Emptiness of the Five Aggregates": Pratyakṣa, Elimination of the False, and the Yogācāra Meaning of Emptiness
 
@@ -318,9 +318,9 @@ The opening sentence of the Heart Sūtra is not a preamble but a program. Its fo
 
 The deep significance of this loop lies in four dimensions:
 
-**First, dual architecture.** On the foundation of Kuiji's compassion-wisdom explication and Woncheuk's *pratyavekṣaṇā-jñāna* identification, "Avalokiteśvara" simultaneously carries fruition-level and causal-level meaning. The fruition level is the sage's realized state; the causal level is the entry point for ordinary beings. The two are mutually non-contradictory and together constitute the complete spectrum of practice.
+**First, dual architecture.** On the foundation of Kuiji's compassion-wisdom explication and the *pratyavekṣaṇā-jñāna* reading built on Woncheuk's four wisdoms, "Avalokiteśvara" simultaneously carries fruition-level and causal-level meaning. The fruition level is the sage's realized state; the causal level is the entry point for ordinary beings. The two are mutually non-contradictory and together constitute the complete spectrum of practice.
 
-**Second, three dimensions of depth.** Kuiji distinguishes "two kinds of depth" — practice-depth (non-discriminating wisdom internally realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper adds a third: transformation-depth — prajñā penetrating from the *saṃjñā* level to the *saṃskāra* level, becoming instinct. All three dimensions together constitute the complete face of "practicing the profound prajñāpāramitā."
+**Second, three dimensions of depth.** Woncheuk distinguishes "two kinds of depth" — practice-depth (non-discriminating wisdom internally realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper adds a third: transformation-depth — prajñā penetrating from the *saṃjñā* level to the *saṃskāra* level, becoming instinct. All three dimensions together constitute the complete face of "practicing the profound prajñāpāramitā."
 
 **Third, eliminating the false, preserving the real.** "Illuminating the emptiness of the five aggregates" is not nihilism. Kuiji's five-layered contemplation judges emptiness as "eliminating the false, preserving the real" — empty is the *parikalpita*'s false construction; not empty is the *paratantra*'s causal arising and the *pariniṣpanna*'s *tathatā*. Emptiness and existence are both simultaneously transcended, culminating in "neither existent nor empty" — the entry into inexpressible *dharmatā*.
 
@@ -334,7 +334,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 ### I. Primary Buddhist Sources
 
-1. Kuiji, *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), *Taishō* vol. 33, No. 1710.
+1. Kuiji, *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), *Taishō* vol. 33, No. 1710.
 2. Woncheuk, *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), *Taishō* vol. 33, No. 1711.
 3. Fazang, *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), *Taishō* vol. 33, No. 1712.
 4. Shihui 師會, *Bore xinjing lüeshu lianzhuji* (般若心經略疏連珠記), *Taishō* vol. 33, No. 1713.
@@ -354,20 +354,20 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 | Topic | Text | Taishō No. |
 |-------|------|------------|
-| Avalokiteśvara — compassion-wisdom, ten freedoms | Youzhan, fasc. 1 | T1710 |
+| Avalokiteśvara — compassion-wisdom, ten freedoms | Youzan, fasc. 1 | T1710 |
 | Avalokiteśvara — principle-phenomena unobstructed | Brief Commentary, fasc. 1 | T1712 |
 | Avalokiteśvara — pratyavekṣaṇā-jñāna | Heart Sūtra Commentary, fasc. 1 | T1711 |
 | Avalokiteśvara vs Avalokitasvara (translation) | Yujia lunji, fasc. 21 | T1828 |
 | Avalokiteśvara — complete meaning | Lüeshu lianzhuji (T1713), fasc. 2 | T1713 |
-| Deep practice — two dimensions of depth | Youzhan, fasc. 1 | T1710 |
+| Deep practice — two dimensions of depth | Heart Sūtra Commentary, fasc. 1 | T1711 |
 | Prajñā as eye of six pāramitā (blind analogy) | Dazhidu lun, fasc. 62 | T1509 |
 | Pratyavekṣaṇā-jñāna definition | Heart Sūtra Comm. (citing Buddhabhūmi-śāstra) | T1711 |
 | Non-discriminating wisdom first arising at penetration stage | Cheng weishi lun, fasc. 9 | T1585 |
 | Five stages (verse) | Triṃśikā | T1586 |
-| Five-layered contemplation: eliminate false, preserve real | Youzhan, fasc. 1 | T1710 |
-| Root of suffering — delusion about dharma-nature | Youzhan, fasc. 1 | T1710 |
-| Transcending suffering — ten dharma-activities | Youzhan, fasc. 2 | T1710 |
-| Buddha vs two vehicles: habitual tendencies (analogies) | Dazhidu lun, fasc. 84, 27 | T1509 |
+| Five-layered contemplation: eliminate false, preserve real | Youzan, fasc. 1 | T1710 |
+| Root of suffering — delusion about dharma-nature | Youzan, fasc. 1 | T1710 |
+| Transcending suffering — ten dharma-activities | Youzan, fasc. 2 | T1710 |
+| Buddha vs two vehicles: habitual tendencies (analogies) | Dazhidu lun, fasc. 84, 2 | T1509 |
 | Avalokiteśvara questioning on the bhūmis | Saṃdhinirmocana-sūtra, fasc. 4 | T0676 |
 | Tathāgata: neither coming nor going | Vajracchedikā | T0235 |
 | Tathāgata-suchness = all-dharma-suchness | Dazhidu lun, fasc. 72 | T1509 |
@@ -389,7 +389,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 ## Notes
 
-[^1]: Kuiji, *Youzhan*, fasc. 1, T33, No. 1710. The ten sovereign freedoms correspond to fruition-virtues of the six *pāramitā*: sovereignty over lifespan, mind, wealth (from *dāna*), karma, birth (from *śīla*), aspiration (from *kṣānti*), resolve (from *vīrya*), etc.
+[^1]: Kuiji, *Youzan*, fasc. 1, T33, No. 1710. The ten sovereign freedoms correspond to fruition-virtues of the six *pāramitā*: sovereignty over lifespan, mind, wealth (from *dāna*), karma, birth (from *śīla*), aspiration (from *kṣānti*), resolve (from *vīrya*), etc.
 
 [^2]: Fazang, *Brief Commentary on the Heart Sūtra*, fasc. 1, T33, No. 1712. Fazang explicitly summarizes: "the former interpretation concerns wisdom; the latter concerns compassion."
 
@@ -401,7 +401,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 [^6]: Shihui, *Lüeshu lianzhuji* 《般若心經略疏連珠記》, fasc. 2, T33, No. 1713. "The sūtra takes the complete meaning" — since the Heart Sūtra's theme is prajñā (wisdom), Xuanzang selected the term emphasizing wisdom-sovereignty rather than compassionate rescue.
 
-[^7]: Kuiji, *Youzhan*, fasc. 1, T33, No. 1710. The determination of "two kinds of depth" — practice-depth refers to the depth of the contemplating wisdom (non-discriminating wisdom free from all action-characteristics), object-depth to the depth of the contemplated object (twofold emptiness beyond all conceptual elaboration).
+[^7]: Woncheuk, *Heart Sūtra Commentary*, fasc. 1, T33, No. 1711. The determination of "two kinds of depth" — practice-depth refers to the depth of the contemplating wisdom (non-discriminating wisdom free from all action-characteristics), object-depth to the depth of the contemplated object (twofold emptiness beyond all conceptual elaboration).
 
 [^8]: *Dazhidu lun*, fasc. 62, T25, No. 1509. The analogy of the blind is the classical illustration of prajñā's unifying role among the six perfections.
 
@@ -413,21 +413,21 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 [^12]: Vasubandhu, *Triṃśikā*, verse 28, T31, No. 1586. The penetration-stage verse.
 
-[^13]: Kuiji, *Youzhan*, fasc. 1, T33, No. 1710. The systematized five-layered contemplation appears in Kuiji's commentary, not in the *Cheng weishi lun* itself. The *Cheng weishi lun* contains the threefold nature doctrine; Kuiji organizes it into a five-layered contemplative sequence.
+[^13]: Kuiji, *Youzan*, fasc. 1, T33, No. 1710. The systematized five-layered contemplation appears in Kuiji's commentary, not in the *Cheng weishi lun* itself. The *Cheng weishi lun* contains the threefold nature doctrine; Kuiji organizes it into a five-layered contemplative sequence.
 
 [^14]: Ibid.
 
 [^15]: The remaining four layers are: (2) abandoning the impure, retaining the pure (discarding external sense-objects, retaining only internal consciousness); (3) gathering the peripheral into the root (subjective and objective aspects returning to the self-witnessing aspect); (4) concealing the inferior, revealing the superior (concealing mental factors, revealing the mind-king); (5) eliminating characteristics, realizing nature (eliminating the characteristics of consciousness, directly realizing *pariniṣpanna*).
 
-[^16]: Kuiji, *Youzhan*, preface to fasc. 1, T33, No. 1710.
+[^16]: Kuiji, *Youzan*, preface to fasc. 1, T33, No. 1710.
 
 [^17]: Ibid. "Shrouded by habitual fetters" refers to the obscuration of *kleśa*-*vāsanā*; "deluded about the true nature of dharmas" refers to failure to perceive the threefold nature (*trisvabhāva*).
 
-[^18]: Kuiji, *Youzhan*, fasc. 2, T33, No. 1710. The "ten dharma-activities" are: copying, offering, distributing, listening, reading, upholding, expounding, chanting, reflecting, and meditating.
+[^18]: Kuiji, *Youzan*, fasc. 2, T33, No. 1710. The "ten dharma-activities" are: copying, offering, distributing, listening, reading, upholding, expounding, chanting, reflecting, and meditating.
 
 [^19]: *Dazhidu lun*, fasc. 84, T25, No. 1509. Strictly speaking, this passage contrasts the Buddha with śrāvakas and pratyekabuddhas, not bodhisattvas with śrāvakas. Bodhisattvas at the causal level still have habitual tendencies; only at the Buddha-level are both afflictions and habitual tendencies exhausted without remainder.
 
-[^20]: *Dazhidu lun*, fasc. 27, T25, No. 1509. Three analogies: the monkey-arhat (Mṛgāra-vatsā), "little servant" (Pilindavatsa), and the vessel-fragrance versus eon-fire, illustrating the difference between residual habitual tendencies and their ultimate exhaustion.
+[^20]: *Dazhidu lun*, fasc. 84 (the two arhats) and fasc. 2 (vessel-fragrance, eon-fire), T25, No. 1509. Three analogies: the monkey-arhat (Madhuvāsiṣṭha 蜜婆私詫), "little servant" (Pilindavatsa), and the vessel-fragrance versus eon-fire, illustrating the difference between residual habitual tendencies and their ultimate exhaustion.
 
 [^21]: *Saṃdhinirmocana-sūtra*, fasc. 4, T16, No. 0676. Avalokiteśvara requests teaching on "the characteristics, faults, and virtues of afflictions arising in bodhisattvas across the stages."
 
@@ -437,7 +437,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 [^24]: Yogācāra distinguishes four types of *pratyakṣa* (direct perception): sensory *pratyakṣa* (direct sensory perception), mental *pratyakṣa* (direct perception of the sixth consciousness), self-witnessing *pratyakṣa* (the self-witnessing aspect), and yogic *pratyakṣa* (direct perception in meditative equipoise). "Illumination" belongs to yogic *pratyakṣa* — the bodhisattva in deep samādhi directly perceives the true nature of dharmas through non-discriminating wisdom.
 
-[^25]: Kuiji, *Youzhan*, fasc. 1, T33, No. 1710.
+[^25]: Kuiji, *Youzan*, fasc. 1, T33, No. 1710.
 
 [^26]: *Vajracchedikā-prajñāpāramitā-sūtra*, section 29 (*Wēiyí jìjìng fēn*), T8, No. 0235.
 
