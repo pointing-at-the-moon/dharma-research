@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P07"
 paper_number: 7
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # In Emptiness There Is No Form: Awareness of Sense-Bases, Objects, and Consciousness
@@ -17,7 +17,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Heart Sūtra passage "therefore, in emptiness there is no form… no eye-realm up to no consciousness-realm" deploys a three-stage progressive deconstruction — five skandhas → twelve āyatanas → eighteen dhātus — increasing resolution at each layer: the skandhas dismantle attachment to a personal self ("there is a self"), the āyatanas dismantle coarse dharma-self-grasping ("there is a world out there"), and the dhātus dismantle subtle dharma-self-grasping ("there is a consciousness cognizing a world"). This paper argues that the core insight revealed by this three-stage deconstruction is: what you take to be "seeing the world" is actually living inside a world constructed by consciousness; under prajñā's illumination, the self-nature of all eighteen dhātus collapses, yet their dependently-arisen functions remain fully intact. The scriptural foundation draws on the Buddha's direct teachings to śrāvakas (*Saṃyuktāgama*: the dhātu → contact → feeling → craving causal chain) and to bodhisattvas (*Mahāprajñāpāramitopadeśa* citing the Prajñāpāramitā: "the eye — the eye is empty; such is its intrinsic nature"; *Mahāyānasaṃgrahabhāṣya* citing the *Saṃdhinirmocana Sūtra*: the ādāna-vijñāna torrent and mirror metaphors; *Śūraṅgama Sūtra*: releasing adhesion and returning to the primal truth). The analytical apparatus employs Kuiji's *Youzhan* (the Superior Emptiness / As-Appropriate dialectic), Woncheuk's *Heart Sūtra Commentary* (eight kinds of discrimination generating roots and objects), the *Abhidharmakośa* (dhātu = lineage meaning), and the *Abhidharmasamuccaya* (seven consciousness-dhātus). The paper demonstrates through the Yogācāra Five-Layer Contemplation (dispel the false and retain the real → discard the impure and keep the pure → subsume the derivative into the fundamental → conceal the inferior and reveal the superior → dispel characteristics and realize the nature) how prajñā illuminates the emptiness of all eighteen dhātus without negating consciousness itself. The three layers of the Heart Sūtra's "no" (no self-nature of the imagined / no negation of dependent arising / thereby revealing the perfected tathatā) integrate both of Kuiji's positions. Cross-disciplinary dialogue employs perceptual neuroscience and virtual reality as heuristic analogies, stated with restraint. Four Middle Way corrections address: nihilism, subjective idealism, the meaninglessness-of-practice objection, and the equation of neuroscience with Yogācāra.
+The Heart Sūtra passage "therefore, in emptiness there is no form… no eye-realm up to no consciousness-realm" deploys a three-stage progressive deconstruction — five skandhas → twelve āyatanas → eighteen dhātus — increasing resolution at each layer: the skandhas dismantle attachment to a personal self ("there is a self"), the āyatanas dismantle coarse dharma-self-grasping ("there is a world out there"), and the dhātus dismantle subtle dharma-self-grasping ("there is a consciousness cognizing a world"). This paper argues that the core insight revealed by this three-stage deconstruction is: what you take to be "seeing the world" is actually living inside a world constructed by consciousness; under prajñā's illumination, the self-nature of all eighteen dhātus collapses, yet their dependently-arisen functions remain fully intact. The scriptural foundation draws on the Buddha's direct teachings to śrāvakas (*Saṃyuktāgama*: the dhātu → contact → feeling → craving causal chain) and to bodhisattvas (*Mahāprajñāpāramitopadeśa* citing the Prajñāpāramitā: "the eye — the eye is empty; such is its intrinsic nature"; *Mahāyānasaṃgrahabhāṣya* citing the *Saṃdhinirmocana Sūtra*: the ādāna-vijñāna torrent and mirror metaphors; *Śūraṅgama Sūtra*: releasing adhesion and returning to the primal truth). The analytical apparatus employs Kuiji's *Youzan* (the Superior Emptiness / As-Appropriate dialectic), Woncheuk's *Heart Sūtra Commentary* (eight kinds of discrimination generating roots and objects), the *Abhidharmakośa* (dhātu = lineage meaning), and the *Abhidharmasamuccaya* (seven consciousness-dhātus). The paper demonstrates through the Yogācāra Five-Layer Contemplation (dispel the false and retain the real → discard the impure and keep the pure → subsume the derivative into the fundamental → conceal the inferior and reveal the superior → dispel characteristics and realize the nature) how prajñā illuminates the emptiness of all eighteen dhātus without negating consciousness itself. The three layers of the Heart Sūtra's "no" (no self-nature of the imagined / no negation of dependent arising / thereby revealing the perfected tathatā) integrate both of Kuiji's positions. Cross-disciplinary dialogue employs perceptual neuroscience and virtual reality as heuristic analogies, stated with restraint. Four Middle Way corrections address: nihilism, subjective idealism, the meaninglessness-of-practice objection, and the equation of neuroscience with Yogācāra.
 
 **摘要**
 
@@ -57,7 +57,7 @@ The Yogācāra school holds that "the three realms are mind-only, all dharmas ar
 
 Yet the Heart Sūtra says "no." If even consciousness is emptied, what remains of Yogācāra?
 
-This is precisely the core tension in Kuiji's *Bore boluomiduo xinjing youzhan* (T1710) between the "Superior Emptiness" (勝空者) and "As-Appropriate" (如應者) positions. Superior Emptiness leans toward emptiness, holding that all eighteen dhātus are ultimately non-existent; As-Appropriate upholds the Dharmapāla orthodoxy, holding that "no" negates the imagined self-nature without negating the dependently-arisen function. The dialectic between them is not a matter of one side being right and the other wrong, but of two different depths of seeing.
+This is precisely the core tension in Kuiji's *Bore boluomiduo xinjing youzan* (T1710) between the "Superior Emptiness" (勝空者) and "As-Appropriate" (如應者) positions. Superior Emptiness leans toward emptiness, holding that all eighteen dhātus are ultimately non-existent; As-Appropriate upholds the Dharmapāla orthodoxy, holding that "no" negates the imagined self-nature without negating the dependently-arisen function. The dialectic between them is not a matter of one side being right and the other wrong, but of two different depths of seeing.
 
 This paper has three tasks: first, to trace the original intent of the eighteen dhātus teaching through the Buddha's own words; second, to clarify the precise meaning of "no" (無) using the commentaries of Kuiji and Woncheuk; third, to demonstrate, through the Yogācāra Five-Layer Contemplation, how prajñā illuminates the emptiness of all eighteen dhātus without negating consciousness itself.
 
@@ -155,13 +155,13 @@ This metaphor precisely captures the meaning of "dhātu" — the eighteen dhātu
 
 Vasubandhu also explains why the Buddha taught the three classifications:
 
-> "Because of the three types of dullness and disposition."
+> "Because of the three — delusion, faculties, and inclination."
 
 The three frameworks address three kinds of capacity: for beings deluded about form (grasping materiality), the five skandhas are taught to dismantle form's seeming substantiality; for beings deluded about mind (not understanding mind's structure), the twelve āyatanas are taught to reveal the generative gates of six sense-bases and six sense-objects; for beings deluded about both form and mind (not even clear about the relationship of root, object, and consciousness), the eighteen dhātus are taught — the finest-grained analysis.
 
-#### 2.5.2 Kuiji's Youzhan: The Yogācāra Core Interpretation
+#### 2.5.2 Kuiji's Youzan: The Yogācāra Core Interpretation
 
-Kuiji's treatment of the eighteen dhātus in *Youzhan*, fascicle 2, constitutes one of the most rigorous dialectical analyses in the entire Yogācāra tradition.[^9] He unfolds the argument as a dialogue between two positions:
+Kuiji's treatment of the eighteen dhātus in *Youzan*, fascicle 2, constitutes one of the most rigorous dialectical analyses in the entire Yogācāra tradition.[^9] He unfolds the argument as a dialogue between two positions:
 
 **Superior Emptiness** holds:
 
@@ -177,7 +177,7 @@ The four characters "resembling-object cognition" (似境了別, vijñapti) are 
 
 Kuiji further elucidates the deep structure of the manas-dhātu — it is not merely the residual of the six consciousnesses upon cessation but involves the threefold designation of citta, manas, and vijñāna: the ālaya-vijñāna is "citta" (心, accumulation), manas is "manas" (意, deliberation), and the six evolving consciousnesses are "vijñāna" (識, discrimination). These three positional names for the eight consciousnesses form the skeleton of Yogācāra epistemology.
 
-On this basis, Kuiji delivers the decisive judgment — "no" means negating the imagined (parikalpita), not negating the dependent (paratantra):
+The decisive judgment governing this section was delivered by Kuiji earlier, in his commentary on "form is not different from emptiness" (T1710, fasc. 2) — "no" means negating the imagined (parikalpita), not negating the dependent (paratantra):
 
 > "Realizing that what is grasped is non-existent is called awakening to non-being; realizing that the domain of the noble is existent is called awakening to non-nothingness."
 
@@ -245,7 +245,7 @@ Imagine you are watching a film in a theater. Your attention is entirely absorbe
 
 Having established the doctrinal logic of the three-stage deconstruction, we must ask a more fine-grained question: how exactly does consciousness "construct" the world? The Yogācāra eight-consciousness system provides a detailed division of labor.
 
-**The first five consciousnesses: direct perception (pratyakṣa), like a mirror reflecting.** Eye-consciousness sees form, ear-consciousness hears sound, nose-consciousness smells fragrance, tongue-consciousness tastes flavor, body-consciousness feels contact — in their initial moment, the five consciousnesses operate as pratyakṣa, directly contacting objects without judgment. Kuiji in the *Youzhan* calls this "cognition resembling the object" (似境了別). Note: the character "resembling" (似) already signals the core Yogācāra thesis — what you contact is not "the object itself" but a "semblance of the object," an intra-conscious image that resembles it.
+**The first five consciousnesses: direct perception (pratyakṣa), like a mirror reflecting.** Eye-consciousness sees form, ear-consciousness hears sound, nose-consciousness smells fragrance, tongue-consciousness tastes flavor, body-consciousness feels contact — in their initial moment, the five consciousnesses operate as pratyakṣa, directly contacting objects without judgment. Kuiji in the *Youzan* calls this "cognition resembling the object" (似境了別). Note: the character "resembling" (似) already signals the core Yogācāra thesis — what you contact is not "the object itself" but a "semblance of the object," an intra-conscious image that resembles it.
 
 **The sixth consciousness (mano-vijñāna): deliberative discrimination — labeling, judging, craving-and-aversion.** Almost simultaneously with the arising of the first five consciousnesses' pratyakṣa, the sixth consciousness intervenes: Is this "good" or "bad"? Is this "something I like" or "something I don't like"? Is this "dangerous" or "safe"? All labeling, judging, and emotional reactivity is the work of the sixth consciousness. Within the Yogācāra framework, the Āgama's dhātu → contact → feeling → craving chain can be more precisely located: contact → feeling is the handoff point between the first five and the sixth consciousness; feeling → craving is the result of the sixth consciousness's deliberative discrimination.
 
@@ -409,7 +409,7 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 - *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, T29, No. 1558.
 - *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - *Abhidharmasamuccaya* (大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, T31, No. 1605.
-- *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
 - *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), by Woncheuk, T33, No. 1711.
 - *Zongjing lu* (宗鏡錄), compiled by Yanshou, T48, No. 2016.
 
@@ -443,7 +443,7 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 | Abhidharmakośabhāṣya 俱舍論 | T29, No. 1558 | fasc. 1 |
 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | — |
 | Abhidharmasamuccaya 集論 | T31, No. 1605 | fasc. 2 |
-| Youzhan 幽贊 (Kuiji) | T33, No. 1710 | fasc. 2 |
+| Youzan 幽贊 (Kuiji) | T33, No. 1710 | fasc. 2 |
 | Xinjing zan 心經贊 (Woncheuk) | T33, No. 1711 | fasc. 1 |
 | Zongjing lu 宗鏡錄 | T48, No. 2016 | fasc. 41 |
 
@@ -481,7 +481,7 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 
 [^8]: *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), fasc. 1, "skandha means aggregate; āyatana means gate of generation; dhātu means lineage," T29, No. 1558.
 
-[^9]: *Bore boluomiduo xinjing youzhan* (般若波羅蜜多心經幽贊), fasc. 2, T33, No. 1710. All subsequent Kuiji citations from this fascicle.
+[^9]: *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), fasc. 2, T33, No. 1710. All subsequent Kuiji citations from this fascicle.
 
 [^10]: *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), fasc. 1, T33, No. 1711.
 
