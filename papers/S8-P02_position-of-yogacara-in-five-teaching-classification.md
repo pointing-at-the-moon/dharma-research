@@ -6,15 +6,15 @@ series_short: "S8"
 paper_id: "S8-P02"
 paper_number: 2
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Position of Yogācāra in the Five-Teaching Classification
 
-**Between the Final Teaching and the Round Teaching — Hierarchy, or Container?**
+**Between the Initial Teaching and the Round Teaching — Hierarchy, or Container?**
 
 *中文主標題：五教判中的唯識位置*
-*中文副標題：終教與圓教之間，是階梯，還是容器？*
+*中文副標題：始教與圓教之間，是階梯，還是容器？*
 
 ## Abstract
 
@@ -144,7 +144,7 @@ Yogācāra establishes five *gotras* (the *gotra* of the *śrāvaka*, the *praty
 
 **Proof 2: The *icchantika* without Buddha-nature, classified as definitive** (Fascicle 2)
 
-Yogācāra, following the *Yogācārabhūmi* and the *Xianyang Shengjiao Lun*, holds that the *icchantika* — the being who has cut off all wholesome roots — never attains buddhahood, and that this assertion is definitive (*nītārtha*), not provisional (*neyārtha*). The Final Teaching position is the exact opposite: the assertion that the *icchantika* lacks Buddha-nature is itself a provisional, expedient teaching, while the definitive teaching is "all beings possess Buddha-nature." Fazang explicitly assigns Yogācāra's "definitive" reading of *icchantika*-naturelessness to the Initial Teaching.[^10]
+Yogācāra, following the *Yogācārabhūmi* and the *Xianyang Shengjiao Lun*, holds that a being without the lineage (*agotraka*) — one "in the end without the nature for parinirvāṇa" (畢竟無般涅槃法, *Yogācārabhūmi* fascicle 67) — never attains buddhahood, and that this assertion is definitive (*nītārtha*), not provisional (*neyārtha*). This is distinct from cutting off the wholesome roots: *Yogācārabhūmi* fascicle 1 says the wholesome roots are cut off "not by permanently uprooting their seeds" (非由永拔彼種子故), so that they can be "restored" (還續善根). The Final Teaching position is the exact opposite: the assertion that the *icchantika* lacks Buddha-nature is itself a provisional, expedient teaching, while the definitive teaching is "all beings possess Buddha-nature." Fazang explicitly assigns Yogācāra's "definitive" reading of *icchantika*-naturelessness to the Initial Teaching.[^10]
 
 **Proof 3: Definitively determined two-vehicle adherents do not turn back** (Fascicle 3)
 
@@ -184,7 +184,7 @@ The most critical passage is in the section on "the gate of doctrinal benefit":
 
 > "First, [there is the case where] the great white-ox cart in the open ground has its own doctrine, namely, the doctrine of ten-times-ten inexhaustibility with primary and secondary fully complete, as taught in the *Avataṃsaka*. This corresponds to the **distinct one vehicle**.
 >
-> Second, [there is the case where] the three carts at the door [of the burning house] have their own doctrine, namely, that what is shown within the [three] realms is the teaching, and getting out is the meaning. This corresponds to the **three-vehicle teaching**, as taught in the other sūtras and in the *Yogācārabhūmi* and so forth.
+> Second, [there is the case where] the three carts at the door [of the burning house] have their own doctrine, namely, that what is shown within the [three] realms is the teaching, and getting out is the meaning; yet teaching and meaning are not divided. This corresponds to the **three-vehicle teaching**, as taught in the other sūtras and in the *Yogācārabhūmi* and so forth.
 >
 > Third, [there is the case where] the three carts at the door are taken as a provisional teaching that opens [the way], and outside the [three] realms a separate great white-ox cart is bestowed, which then displays the true meaning. This corresponds to the **common one vehicle**, as taught in the *Lotus Sūtra*."[^17]
 
@@ -250,11 +250,12 @@ Consider the structure of the *Avataṃsaka-sūtra* itself. The eighty-fascicle 
 | Fifth | The Tuṣita heaven | The devas of the fourth desire-realm heaven |
 | Sixth | The Paranirmita-vaśavartin heaven | The devas of the sixth (topmost) desire-realm heaven |
 | Seventh | The Hall of Universal Light (revisited) | Earth-dwelling and divine receivers |
-| Eighth | The Jeta Grove | The concrete human protagonists of Sudhana's southward pilgrimage |
+| Eighth | The Hall of Universal Light (third assembly there) | Great bodhisattvas |
+| Ninth | The Jeta Grove | The concrete human protagonists of Sudhana's southward pilgrimage |
 
-The seven locations and eight (or nine) assemblies span both earth and the desire-realm heavens, and these assemblies are not arranged as a linear temporal sequence but as the unobstructed mutuality of the broad and the narrow: "the same teaching, given simultaneously in different places." A single doctrinal content of the *Avataṃsaka* is **simultaneously received in different heavens by receivers at different levels**. This is the literal structure of the sūtra itself, not a later hermeneutic elaboration.
+The seven locations and nine assemblies span both earth and the desire-realm heavens, and these assemblies are not arranged as a linear temporal sequence but as the unobstructed mutuality of the broad and the narrow: "the same teaching, given simultaneously in different places." A single doctrinal content of the *Avataṃsaka* is **simultaneously received in different heavens by receivers at different levels**. This is the literal structure of the sūtra itself, not a later hermeneutic elaboration.
 
-Moreover, the bodhisattva ocean-assemblies described throughout the *Avataṃsaka* include receivers from all three realms: the devas of the desire realm, the devas of the form-realm meditative heavens, and the devas of the four formless attainments. A single act of preaching is heard in one version by desire-realm beings, in another version by form-realm beings, and in a third version by formless-realm beings — and these three versions exist simultaneously, natively, and without mutual obstruction. **This is the concrete cosmological fact of the Gate of the Unobstructed Mutual Containment of the Broad and the Narrow at the level of audience structure.**
+Moreover, the bodhisattva ocean-assemblies described throughout the *Avataṃsaka* list devas of the desire realm and devas of the form-realm meditative heavens. Chengguan's *Huayan jing shu*, fascicle 5, discussing which beings are present, says "by realm, there are none from the formless realm" (一約界，無無色), and also "in terms of those benefited, it extends to the formless realm as well, for all three realms are benefited" (若約所益，亦通無色，三界皆益故): the devas of the four formless attainments are not among those listed but among those benefited. A single act of preaching is heard in one version by desire-realm beings, in another version by form-realm beings, and reaches formless-realm beings in a third version (this follows from the commentary's sense of "those benefited" and is the present author's interpretation) — and these three versions exist simultaneously, natively, and without mutual obstruction. **This is the concrete cosmological fact of the Gate of the Unobstructed Mutual Containment of the Broad and the Narrow at the level of audience structure.**
 
 Mapping this fact back onto the three layers of teaching:
 
@@ -288,7 +289,7 @@ The staircase model implies that the Round Teaching is the summit, the ultimate 
 
 Fazang offers a remarkably subtle passage in fascicle one of the *Treatise* on the "five teachings mutually gathered and interpenetrated":
 
-> "These five teachings, mutually gathered and interpenetrated, have five meanings. First, perhaps gathered as one — namely, that root and branch are fused together as a single great skillful means. Second, perhaps opened into two — first, the root teaching (the distinct one vehicle); second, the branch teaching (the Lesser Vehicle and the three vehicles); also called the ultimate and the expedient. Third, perhaps opened into three — namely, the one vehicle, the three vehicles, the Lesser Vehicle. Fourth, perhaps divided into four — namely, the Lesser Vehicle, the gradual, the sudden, the round. Fifth, perhaps scattered into five — as discussed above."[^22]
+> "These five teachings, mutually gathered and interpenetrated, have five meanings. First, perhaps gathered as one — namely, that root and branch are fused together as a single great skillful means. Second, perhaps opened into two — first, the root teaching, namely the distinct one vehicle, because it is the root of all teachings; second, the branch teaching, namely the Lesser Vehicle and the three vehicles, because they flow from it; also called the ultimate and the expedient, because, viewed from the one vehicle, the three vehicles and the Lesser Vehicle are all expedients. Third, perhaps opened into three — namely, the one vehicle, the three vehicles, the Lesser Vehicle, because the two vehicles of those foolish about dharmas are opened out from within the expedient. Fourth, perhaps divided into four — namely, the Lesser Vehicle, the gradual, the sudden, the round, because the Initial and Final teachings both remain within words and the like. Fifth, perhaps scattered into five — namely, as discussed above."[^22]
 
 "**Perhaps gathered as one — namely, that root and branch are fused together as a single great skillful means**." All five teachings, at their highest level of integration, are in fact "one" — a single "great skillful means" (*mahā-upāya*). Note the word *upāya*: "skillful means" is *upāya* (expedient), not ultimate truth. In other words, **even the Round Teaching itself, from the highest perspective, is classified by Fazang as "skillful means," and skillful means, by the common Buddhist understanding, is not the ultimate**. The ultimate is the dharmadhātu itself — and the dharmadhātu itself is not exhaustively described by any teaching, not even the Round Teaching.
 
@@ -310,7 +311,7 @@ Returning to the passage from Fazang quoted in §2.C.3:
 
 > "One then comes to know that those very teachings of the three vehicles are not other than the distinct one vehicle. Why is this so? **Because they are the very things being pointed at. There is no other matter at all.**"
 
-The four characters "**為彼所目故**" — "because they are the very things being pointed at" — deserve a section of their own. The key character is *mù* (目), which functions both as a verb (to look at, to point at, to aim at) and as a noun (eye, the object seen, the target aimed at). When Fazang writes "為彼所目故," he is saying two things at once:
+The five characters "**為彼所目故**" — "because they are the very things being pointed at" — deserve a section of their own. The key character is *mù* (目), which functions both as a verb (to look at, to point at, to aim at) and as a noun (eye, the object seen, the target aimed at). When Fazang writes "為彼所目故," he is saying two things at once:
 
 1. The three vehicles are what the distinct one vehicle "aims at" — the distinct one vehicle is pointing at them
 2. The three vehicles are what the distinct one vehicle "sees" — the distinct one vehicle is looking at them
@@ -353,7 +354,7 @@ Three years on, when you utter this line, what is happening in your mind has cha
 
 > **"If the Buddha's nature and my own nature are the same (the *tathāgatagarbha*; established in S1 and S6), and if the Buddha can attain these self-determined freedoms (*prajñā*, liberation, the unobstructed mutuality of the broad and the narrow; established in S2 and S5), then the possibility of these freedoms is also in me. My present praise is not the gazing-up of one being toward a distant other — it is the confirming of something already inside me, something I had not previously dared to recognize."**
 
-Note this reversal. Your praise has shifted from being **other-directed** (pointing at the Buddha far away) to being **self-confirming** (recognizing the Buddha-nature already in yourself). The six syllables "*Namo Original Teacher Śākyamuni Buddha*" have not changed in sound or form, but their *function* in your inner life has changed: from being "an outward act of veneration" they have become **the reverse movement of establishing faith in oneself**.
+Note this reversal. Your praise has shifted from being **other-directed** (pointing at the Buddha far away) to being **self-confirming** (recognizing the Buddha-nature already in yourself). The nine syllables "*Namo Original Teacher Śākyamuni Buddha*" have not changed in sound or form, but their *function* in your inner life has changed: from being "an outward act of veneration" they have become **the reverse movement of establishing faith in oneself**.
 
 #### Why This Reversal Is the Heart of the Unobstructed Mutuality of the Broad and the Narrow
 
@@ -606,11 +607,13 @@ S8-P03 (*Broadly Cultivating Offerings · The Gate of the Mutually Self-Determin
 | §2.C.1 | *Treatise* | 1 (the five teachings defined) | T1866 |
 | §2.C.2 Proof 1 | *Treatise* | 2 (differentiation of *gotra*) | T1866 |
 | §2.C.2 Proof 2 | *Treatise* | 2 (the *icchantika* debate) | T1866 |
+| §2.C.2 Proof 2 | *Yogācārabhūmi-śāstra* | 1 (cutting off wholesome roots), 67 (beings without lineage) | T1579 |
 | §2.C.2 Proof 3 | *Treatise* | 3 (turning back of two-vehicle adherents) | T1866 |
 | §2.C.2 Proof 4 | *Treatise* | 2 (differentiation of consciousnesses) | T1866 |
 | §2.C.2 Proof 5 | *Treatise* | 1 (review of ancient and contemporary classifications) | T1866 |
 | §2.C.3, §3.4 | *Treatise* | 1 (common and distinct one vehicles) | T1866 |
 | §2.C.4 | *Commentary on the Avataṃsaka* | 1 (sequential distribution and round interpenetration) | T1735 |
+| §3.2 | *Commentary on the Avataṃsaka* | 5 (which beings are present) | T1735 |
 | §3.3 Distinction 1 | *Treatise* | 2 (the one mind and five doctrinal gates) | T1866 |
 | §3.3 Distinction 2 | *Treatise* | 1 (mutual gathering and interpenetration of the five teachings) | T1866 |
 | §3.4 (host and companion) | *Treatise* | 2 (differentiation of consciousnesses) | T1866 |
