@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P06"
 paper_number: 6
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Awareness as Turning Point
@@ -68,7 +68,7 @@ The *Dasheng Baifalun* (*Mahāyāna-śatadharmā-prakāśamukha-śāstra*) only 
 
 Manaskāra causes the mind to initiate and move toward its object. Sparśa is the conjunction of three [sense faculty, object, and consciousness]. Vedanā is experiencing. Saṃjñā is apprehending characteristics. Cetanā is volitional activity. These five mental factors necessarily co-arise in all moments, all realms, and all types of mental activity.
 
-"Causing the mind to initiate and move toward its object"—these five characters encapsulate all of manaskāra.
+"Causing the mind to initiate and move toward its object"—these six characters encapsulate all of manaskāra.
 
 But here lies a distinction of paramount importance for practice. Although it is the same manaskāra, it operates in two fundamentally different directions:
 
@@ -120,11 +120,11 @@ Every day, you are walking toward death. This is not pessimism; this is fact. Yo
 
 Raindrops hitting the ground produce bubbles that arise and burst instantly—your life is like this. You think you are solid, enduring, with ample time, but in reality you arise and perish as swiftly as water bubbles.
 
-Given this, the Buddha's teaching has an unmistakable focus—do not waste time on meaningless pursuits:
+Given this, the Buddha's teaching has an unmistakable focus—do not waste time on meaningless pursuits; in summary[^11]:
 
-> 「如來不說無益語，唯說苦、苦集、苦滅、苦滅道跡。」[^11]
+如來不說無益語，唯說苦、苦集、苦滅、苦滅道跡。
 
-*"The Tathāgata does not speak words without benefit; he speaks only of suffering, the origin of suffering, the cessation of suffering, and the path to the cessation of suffering."*
+The Tathāgata does not speak words without benefit; he speaks only of suffering, the origin of suffering, the cessation of suffering, and the path to the cessation of suffering.
 
 The Buddha spoke only of the Four Noble Truths: what suffering is, how it arises, that it can be ended, and the path to end it. Nothing else. Because your time is too scarce.
 
@@ -134,7 +134,7 @@ The Buddha spoke only of the Four Noble Truths: what suffering is, how it arises
 
 Why do people live passively? Because they misidentify what is "self" and what is "mine."
 
-*Saṃyuktāgama* (Fascicle 2):
+*Saṃyuktāgama* (Fascicle 1):
 
 > 「色無常，無常即苦，苦即非我，非我者亦非我所。」[^12]
 
@@ -144,17 +144,17 @@ Material form (the physical body and the material world) is impermanent. Because
 
 *Saṃyuktāgama* (Fascicle 10) uses five similes to dismantle the illusory nature of the five aggregates (skandha):
 
-> 「色如聚沫，受如水泡，想如陽燄，行如芭蕉，識如幻術。」[^13]
+> 「觀色如聚沫，受如水上泡，想如春時燄，諸行如芭蕉，諸識法如幻。」[^13]
 
-*"Form is like a mass of foam. Feeling is like a water bubble. Perception is like a mirage. Volitional formations are like a plantain trunk. Consciousness is like a magic trick."*
+*"Contemplate form as a mass of foam, feeling as a bubble on water, perception as a spring-time mirage, formations as a plantain trunk, and consciousness as an illusion."*
 
 Your body is like foam aggregated on a river surface—it appears to be something, but disintegrates at a touch. Your feelings are like bubbles on water—they arise and burst. Your perceptions are like desert mirages—they appear real from afar but are nothing up close. Your volitional formations are like a plantain trunk—you peel layer after layer and find it hollow inside. Your consciousness—the subject you consider most real, the "I am seeing, I am thinking"—is like a magician's illusion.
 
-*Ekottarāgama* (Fascicle 44) directly states the method and result of practice:
+The *Saṃyuktāgama* directly states the method and result of practice; in summary[^14]:
 
-> 「當觀五陰無常，苦，空，非我，非我所。若觀五陰無常……則於五陰不復樂著，不樂著故，則無所依，無所依故，則得涅槃。」[^14]
+當觀五陰無常，苦，空，非我，非我所。若觀五陰無常，則於五陰不復樂著，不樂著故，則無所依，無所依故，則得涅槃。
 
-*"One should contemplate the five aggregates as impermanent, suffering, empty, non-self, and not 'mine.' If one contemplates the five aggregates as impermanent... one no longer delights in or clings to the five aggregates. Without delight and clinging, one has nothing to depend on. Without dependence, one attains nirvāṇa."*
+One should contemplate the five aggregates as impermanent, suffering, empty, non-self, and not 'mine.' If one contemplates the five aggregates as impermanent, one no longer delights in or clings to the five aggregates. Without delight and clinging, one has nothing to depend on. Without dependence, one attains nirvāṇa.
 
 Contemplate the five aggregates as impermanent, suffering, empty, and not-self—after this contemplation, you no longer cling to them. Without clinging, no dependence. Without dependence, liberation. The entire practice roadmap is contained in this passage.
 
@@ -186,7 +186,7 @@ The *Avataṃsaka Sūtra* (Fascicle 8) makes a resounding declaration:
 
 S1-P01 in this series, "The Butterfly Effect of First Aspiration," demonstrated how the initial thought of yoniśo manaskāra produces exponential impact through causal processes—small differences in initial conditions lead to entirely different karmic trajectories.[^17] S1-P02, "First Generation of Bodhicitta and the Dharma Stream," argued that generating aspiration opens the channel for receiving the true Dharma—the generation of aspiration is itself a form of yoniśo manaskāra that shifts you from "unable to hear" the Dharma to "able to hear" the Dharma.[^18]
 
-The Samantabhadra chapter of the *Avataṃsaka Sūtra* also encourages practitioners:
+The Pure Conduct chapter (淨行品) of the *Avataṃsaka Sūtra* also encourages practitioners:
 
 > 「深入經藏，智慧如海。」[^19]
 
@@ -202,11 +202,11 @@ This is not merely praise but a practice directive: an important dimension of yo
 
 Within the Yogācāra framework, "living passively" has a highly precise descriptive model: the automatic operation of the twelve links of dependent origination (pratītyasamutpāda).
 
-*Madhyamāgama* (Fascicle 41):
+*Saṃyuktāgama* (Fascicle 30):
 
-> 「緣六入處觸，緣觸受，緣受愛，緣愛取，緣取有，緣有生，緣生老死憂悲苦惱。」[^20]
+> 「緣六入處觸，緣觸受，緣受愛，緣愛取，緣取有，緣有生，緣生老病死憂悲苦惱。」[^20]
 
-*"Conditioned by the six sense bases, contact arises. Conditioned by contact, feeling. Conditioned by feeling, craving. Conditioned by craving, clinging. Conditioned by clinging, becoming. Conditioned by becoming, birth. Conditioned by birth, aging-and-death, sorrow, lamentation, suffering, and distress."*
+*"Conditioned by the six sense bases, contact arises. Conditioned by contact, feeling. Conditioned by feeling, craving. Conditioned by craving, clinging. Conditioned by clinging, becoming. Conditioned by becoming, birth. Conditioned by birth, aging, sickness, death, sorrow, lamentation, suffering, and distress."*
 
 This passage describes a closed loop: your six sense faculties (ṣaḍāyatana) contact external objects → contact arises → contact gives rise to feeling (vedanā) → feeling gives rise to craving (tṛṣṇā) → craving gives rise to clinging (upādāna) → clinging forms a state of becoming (bhava) → becoming leads to rebirth (jāti) → rebirth leads to aging, death, and all suffering.
 
@@ -232,11 +232,11 @@ Is there a link in the twelve-link chain of dependent origination that can be br
 
 Yes. And the Buddha has already identified that precise link in the scriptures.
 
-*Saṃyuktāgama* (Fascicle 12):
+The sense of the *Saṃyuktāgama*, in summary[^21]:
 
-> 「若於受不樂、不喜、不愛、不念、不住，則愛滅。愛滅故取滅，取滅故有滅，有滅故生滅，生滅故老病死憂悲惱苦滅，如是純大苦聚滅。」[^21]
+若於受不樂、不喜、不愛、不念、不住，則愛滅。愛滅故取滅，取滅故有滅，有滅故生滅，生滅故老病死憂悲惱苦滅，如是純大苦聚滅。
 
-*"If, with regard to feeling, one does not delight in it, does not rejoice in it, does not cherish it, does not dwell on it, does not abide in it—then craving ceases. With the cessation of craving, clinging ceases. With the cessation of clinging, becoming ceases. With the cessation of becoming, birth ceases. With the cessation of birth, aging, sickness, death, sorrow, lamentation, suffering, and distress cease. Thus the entire mass of suffering ceases."*
+If, with regard to feeling, one does not delight in it, does not rejoice in it, does not cherish it, does not dwell on it, does not abide in it—then craving ceases. With the cessation of craving, clinging ceases. With the cessation of clinging, becoming ceases. With the cessation of becoming, birth ceases. With the cessation of birth, aging, sickness, death, sorrow, lamentation, suffering, and distress cease. Thus the entire mass of suffering ceases.
 
 The key lies in the "feeling → craving" link. After contact gives rise to feeling (vedanā), if you do not "delight in, rejoice in, cherish, dwell on, or abide in" that feeling—if you do not immerse in it, chase it, or cling to it—then craving (tṛṣṇā) does not arise. When craving does not arise, the entire subsequent chain of clinging, becoming, birth, and aging-and-death is severed.
 
@@ -394,9 +394,9 @@ This paper uses the quantum double-slit experiment as an inspirational analogy f
 
 The *Cheng Weishi Lun* (Fascicle 2) provides rigorous doctrinal support for this through its analysis of collective karma:
 
-> 「然諸有情，自相續中，各有識變，然由共業，感得相似。如眾燈光，各照一室，其光遍滿，無有礙閡。」[^27]
+> 「異熟識由共相種成熟力故，變似色等器世間相，即外大種及所造色。雖諸有情所變各別而相相似，處所無異，如眾燈明各遍似一。」[^27]
 
-*"Yet all sentient beings, within their own mental continua, each have their own transformations of consciousness. However, through collective karma, they perceive similar [external environments]. It is like many lamps, each illuminating a single room—their light pervades and fills [the space] without mutual obstruction."*
+*"The maturing consciousness, by the ripening power of the shared seeds, transforms into the appearance of the vessel world—form and the like—that is, the external great elements and derived form. Although what each sentient being transforms is distinct, the appearances are similar and the location is not different, like the light of many lamps, each pervading and seeming one."*
 
 Each sentient being has its own consciousness-transformation (vijñāna-pariṇāma), but through the force of collective karma, all perceive a similar external environment. This is like many lamps each emitting their own light, illuminating the same room. Each lamp's light is its own, but the room's illumination is the collective contribution of all lamps. Your consciousness changes "your lamp"—how you experience the room—not the room itself.
 
@@ -481,19 +481,19 @@ But the first step is simply this: **This morning, did you see yourself?**
 [^4]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicle 3. *Taishō Tripiṭaka* Vol. 31, No. 1585.
 [^5]: The names of the five universals are given in Vasubandhu, trans. Xuanzang, *Dasheng Baifalun* 大乘百法明門論 (*Mahāyāna-śatadharmā-prakāśamukha-śāstra*), *Taishō Tripiṭaka* Vol. 31, No. 1614; since that treatise lists names only and gives no definitions, the functional definitions above and the criterion that the five "co-arise in all moments, all realms, and all types of mental activity" are summarized from Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicles 3 and 5, *Taishō Tripiṭaka* Vol. 31, No. 1585—they are not the wording of the *Baifalun*.
 [^6]: Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, Fascicle 11. *Taishō Tripiṭaka* Vol. 30, No. 1579.
-[^7]: Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, Fascicle 5. *Taishō Tripiṭaka* Vol. 30, No. 1579.
+[^7]: Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, Fascicle 6. *Taishō Tripiṭaka* Vol. 30, No. 1579.
 [^8]: Translator unknown, *Bieyi Za Ahan Jing* 別譯雜阿含經, Fascicle 8. *Taishō Tripiṭaka* Vol. 2, No. 100.
 [^9]: Translated by Gautama Saṅghadeva, *Madhyamāgama* 中阿含經, Fascicle 40. *Taishō Tripiṭaka* Vol. 1, No. 26.
 [^10]: Translator unknown, *Bieyi Za Ahan Jing* 別譯雜阿含經, Fascicle 16. *Taishō Tripiṭaka* Vol. 2, No. 100.
-[^11]: *Saṃyuktāgama* 雜阿含經, translated by Guṇabhadra. *Taishō Tripiṭaka* Vol. 2, No. 99.
-[^12]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 2. *Taishō Tripiṭaka* Vol. 2, No. 99.
+[^11]: Summarizing the sense of the sūtras, not their wording; cf. trans. Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 15, Sūtra 404 (the simile of the leaves in the Siṃsapā grove). *Taishō Tripiṭaka* Vol. 2, No. 99.
+[^12]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 1. *Taishō Tripiṭaka* Vol. 2, No. 99.
 [^13]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 10. *Taishō Tripiṭaka* Vol. 2, No. 99.
-[^14]: Translated by Gautama Saṅghadeva, *Ekottarāgama* 增壹阿含經, Fascicle 44. *Taishō Tripiṭaka* Vol. 2, No. 125.
+[^14]: Summarizing the sense of the sūtras, not their wording; cf. trans. Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 5, Sūtra 104 (Śāriputra's teaching to Yamaka). *Taishō Tripiṭaka* Vol. 2, No. 99.
 [^15]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicle 4. *Taishō Tripiṭaka* Vol. 31, No. 1585.
 [^16]: Translated by Buddhabhadra, *Avataṃsaka Sūtra* 大方廣佛華嚴經, Fascicle 8. *Taishō Tripiṭaka* Vol. 9, No. 278.
-[^19]: Translated by Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經. *Taishō Tripiṭaka* Vol. 10, No. 279.
-[^20]: Translated by Gautama Saṅghadeva, *Madhyamāgama* 中阿含經, Fascicle 41. *Taishō Tripiṭaka* Vol. 1, No. 26.
-[^21]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 12. *Taishō Tripiṭaka* Vol. 2, No. 99.
+[^19]: Translated by Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經, Fascicle 14, Pure Conduct chapter (淨行品). *Taishō Tripiṭaka* Vol. 10, No. 279.
+[^20]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 30. *Taishō Tripiṭaka* Vol. 2, No. 99.
+[^21]: Summarizing the sense of the sūtras, not their wording; cf. trans. Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 12, Sūtra 287 (with the cessation of feeling, craving ceases, up to the cessation of the entire mass of suffering) and Fascicle 17, Sūtra 475 (not delighting in, praising, being attached to, or holding fast to feeling is the path to the cessation of feeling). *Taishō Tripiṭaka* Vol. 2, No. 99.
 [^22]: Translated by Guṇabhadra, *Saṃyuktāgama* 雜阿含經, Fascicle 48. *Taishō Tripiṭaka* Vol. 2, No. 99.
 [^23]: *Bashi Guiju Song* 八識規矩頌 (Verses on the Structure of the Eight Consciousnesses), attributed to Xuanzang, verse on the eighth consciousness; text as given in Putai 普泰, *Bashi Guiju Buzhu* 八識規矩補註, Fascicle 2. *Taishō Tripiṭaka* Vol. 45, No. 1865.
 [^27]: Dharmapāla et al., trans. Xuanzang, *Cheng Weishi Lun* 成唯識論, Fascicle 2. *Taishō Tripiṭaka* Vol. 31, No. 1585.
@@ -518,13 +518,12 @@ But the first step is simply this: **This morning, did you see yourself?**
 |:---:|:---|:---:|:---:|:---|
 | 1 | *Cheng Weishi Lun* 成唯識論 | T31 | No. 1585 | Fascicles 2, 3, 4, 5 |
 | 2 | *Dasheng Baifalun* 大乘百法明門論 | T31 | No. 1614 | Complete |
-| 3 | *Yogācārabhūmi-śāstra* 瑜伽師地論 | T30 | No. 1579 | Fascicles 5, 11 |
-| 4 | *Saṃyuktāgama* 雜阿含經 | T02 | No. 99 | Fascicles 2, 10, 12, 48 |
+| 3 | *Yogācārabhūmi-śāstra* 瑜伽師地論 | T30 | No. 1579 | Fascicles 6, 11 |
+| 4 | *Saṃyuktāgama* 雜阿含經 | T02 | No. 99 | Fascicles 1, 5, 10, 12, 15, 17, 30, 48 |
 | 5 | *Bieyi Za Ahan Jing* 別譯雜阿含經 | T02 | No. 100 | Fascicles 8, 16 |
-| 6 | *Madhyamāgama* 中阿含經 | T01 | No. 26 | Fascicles 10, 40, 41, 47 |
-| 7 | *Ekottarāgama* 增壹阿含經 | T02 | No. 125 | Fascicle 44 |
-| 8 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (60-fascicle) | T09 | No. 278 | Fascicle 8 |
-| 9 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80-fascicle) | T10 | No. 279 | Samantabhadra chapter |
+| 6 | *Madhyamāgama* 中阿含經 | T01 | No. 26 | Fascicles 10, 40, 47 |
+| 7 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (60-fascicle) | T09 | No. 278 | Fascicle 8 |
+| 8 | *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80-fascicle) | T10 | No. 279 | Fascicle 14 (Pure Conduct chapter) |
 
 ---
 

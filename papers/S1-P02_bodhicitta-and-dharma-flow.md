@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P02"
 paper_number: 2
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Initial Arising of Bodhicitta and Dharma-Flow
@@ -50,7 +50,7 @@ Both interpretations converge on this: the initial generation of bodhicitta is n
 
 However, "determined in principle" does not equal "guaranteed in practice." Nāgārjuna's novice parable in the *Mahāprajñāpāramitā Śāstra* reveals this tension:
 
-> "Suppose an arhat with the six supernormal powers was traveling with a novice, having the novice carry his robes and bowl. The novice thought: 'I shall enter nirvāṇa by the buddha-vehicle.' The teacher, knowing his thought, took back the robes and bowl, carried them himself, and had the novice walk ahead. The novice then thought: 'The buddha path is exceedingly difficult; I should enter nirvāṇa quickly by the lesser vehicle.' The teacher gave the robes and bowl back to the novice and told him to walk behind. This happened three times... The teacher answered: 'When you first generated the aspiration to become a buddha, that mind was so precious that you stood in my teacher's path. When your mind regressed to the lesser vehicle, you fell so far behind me that I had you walk in the rear.' Hearing this, the novice was startled into awakening: 'At that single moment of intention, I already surpassed the arhat—how much more so upon fulfillment!' He then firmly resolved to abide in the Mahāyāna."
+> "Suppose an arhat with the six supernormal powers was traveling with a novice, having the novice carry his robes and bowl. The novice thought: 'By which vehicle shall I enter nirvāṇa?' Then he resolved: 'The Buddha is the World-Honored One, supreme and most wondrous; I shall enter nirvāṇa by the buddha-vehicle.' The teacher, knowing his thought, took back the robes and bowl, carried them himself, and had the novice walk ahead. The novice then thought again: 'The buddha path is exceedingly difficult; one must stay long in saṃsāra and undergo immeasurable suffering. I should enter nirvāṇa quickly by the lesser vehicle.' The teacher gave the robe-and-bowl bag back to the novice and told him to walk behind. This happened three times... The teacher answered: 'When you first generated the aspiration to become a buddha, that mind was so precious that you stood in my teacher's path. Such a person deserves the offerings even of pratyekabuddhas—how much more of arhats! That is why I put you in front. When your mind regressed and you wished to take the lesser vehicle, though you had not yet attained it, you fell so far behind me that I had you walk in the rear.' Hearing this, the novice was startled into awakening: 'My teacher can read my mind! At that single moment of intention, I already surpassed the arhat—how much more so upon fulfillment!' He then firmly resolved to abide in the Mahāyāna."
 
 Three doctrinal points emerge from this parable:
 
@@ -117,7 +117,7 @@ The empowerment of the buddhas of all directions and all times is not transmitte
 
 The orthodox Yogācāra position of the Dharmapāla–Xuanzang lineage[^1] holds that the ālaya-vijñāna contains innate undefiled seeds (*anāsrava-bīja*)—the potential for buddhahood already exists within the consciousness-store of sentient beings and is not implanted from outside.
 
-[^1]: The doctrine of innate undefiled seeds is the orthodox position of the Dharmapāla–Xuanzang lineage. Within Yogācāra, there are three divergent schools on the origin of seeds: Dharmapāla holds "innate + newly perfumed," Nanda holds "newly perfumed only," and Jinaprabha holds "innate only." This paper follows Dharmapāla, as this represents the orthodox position of Chinese Yogācāra, but readers should be aware that this is not an uncontested consensus within Yogācāra.
+[^1]: The doctrine of innate undefiled seeds is the orthodox position of the Dharmapāla–Xuanzang lineage. Within Yogācāra, there are three divergent schools on the origin of seeds: Dharmapāla holds "innate + newly perfumed," Nanda and Jayasena hold "newly perfumed only," and Candrapāla holds "innate only." This paper follows Dharmapāla, as this represents the orthodox position of Chinese Yogācāra, but readers should be aware that this is not an uncontested consensus within Yogācāra.
 
 Within the seed-theory framework, the function of initially generating bodhicitta is **activating and strengthening innate undefiled seeds**. "Future buddhahood" is not waiting at some remote point on the timeline—its seed has been in the ālaya-vijñāna from the very beginning. Initial aspiration is the critical event that allows this seed to begin directing the stream of consciousness.
 
@@ -140,7 +140,7 @@ If dharmatā is all-pervading and the seeds are inherently present, why can sent
 
 The traditional Dharma answer comes from the doctrine of "adventitious afflictions" (*āgantuka-kleśa*)[^2]: the nature of mind is originally pure (*prakṛti-viśuddha*); afflictions are "adventitious" (*āgantuka*)—not intrinsic components of mind, but attached through the habituation of ignorance.
 
-[^2]: The doctrine of "mind-nature originally pure, stained by adventitious defilements" originates in the *Ekottarāgama* and early tathāgatagarbha texts (e.g., the *Śrīmālā Sūtra*, the *Ratnagotravibhāga*), later developed by the *Awakening of Mahāyāna Faith*. Strictly speaking, this doctrine belongs to the tathāgatagarbha system and differs in theoretical architecture from the Yogācāra "seed-habituation" model. Yogācāra does not describe consciousness through the paradigm of "purity defiled," but through the "mutual habituation of seeds and actualization" to explain the transformation from defilement to purity. This paper's cross-system citation draws on the shared practical consensus that "practice is the removal of obstacles," without claiming that the two systems are architecturally identical.
+[^2]: The doctrine that mind-nature is originally pure is reported by a treatise in Chinese translation as a sectarian position: 「如僧祇等部說，眾生心性本淨，客塵所污。」 ("As the Mahāsāṃghika and other schools say, the mind-nature of sentient beings is originally pure, stained by adventitious dust"; *Suixiang lun* 隨相論, fascicle 1, T1641, 0163b07–08; the *Ekottarāgama* T0125 has no such text). The doctrine also appears in early tathāgatagarbha texts (e.g., the *Śrīmālā Sūtra*, the *Ratnagotravibhāga*), later developed by the *Awakening of Mahāyāna Faith*. Strictly speaking, this doctrine belongs to the tathāgatagarbha system and differs in theoretical architecture from the Yogācāra "seed-habituation" model. Yogācāra does not describe consciousness through the paradigm of "purity defiled," but through the "mutual habituation of seeds and actualization" to explain the transformation from defilement to purity. This paper's cross-system citation draws on the shared practical consensus that "practice is the removal of obstacles," without claiming that the two systems are architecturally identical.
 
 This means: the channel has always been open. It is adventitious afflictions—self-grasping (*ātmagrāha*), dharma-grasping (*dharmagrāha*), and various habitual tendencies (*vāsanā*)—that have blocked it.
 

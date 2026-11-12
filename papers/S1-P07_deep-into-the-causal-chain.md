@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P07"
 paper_number: 7
 date: "2026-03"
-version: "0.2"
+version: "0.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Deep into the Causal Chain — Shaping Your Future
@@ -38,7 +38,7 @@ Once a fruit has ripened, it is a fruit. It must be consumed, digested, and allo
 
 ### The Buddhist Answer
 
-The Buddha described this mechanism with precision twenty-five hundred years ago. The *Saṃyuktāgama* records a bhikṣu asking the Buddha:
+The Buddha described this mechanism with precision twenty-five hundred years ago. The *Saṃyuktāgama* records a bhikṣu in the assembly thinking to himself:
 
 > 若無我者，作無我業，於未來世，誰當受報？[^1]
 
@@ -109,9 +109,9 @@ Once seeds enter the ālaya-vijñāna, they do not simply sit waiting for a trig
 
 The *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary) poses a critical question:
 
-> 若離阿賴耶識，何處安立彼業種子，而復得言生果現前轉名為有？[^6]
+> 行所熏識若不成就，何處安立彼業種子，而復得言生果現前轉名為有？是故若離阿賴耶識，此業雜染亦不得成。[^6]
 
-*"If apart from the ālaya-vijñāna, where could those karmic seeds be established? And how could one say that fruit arises and manifests, becoming what is called 'existence'?"*
+*"If the consciousness perfumed by formations were not established, where could those karmic seeds be established? And how could one say that fruit arises and manifests, becoming what is called 'existence'? Therefore, apart from the ālaya-vijñāna, this karmic defilement could not be established either."*
 
 Without the ālaya-vijñāna, where would karmic seeds be stored? How could one claim that fruition manifests? This is one of the core arguments for the necessary existence of the ālaya-vijñāna—it is the "storehouse" for seeds, the foundation upon which causal continuity rests.
 
@@ -172,9 +172,9 @@ Conclusion: **"Only the functional differentiations within the root consciousnes
 
 The *Avataṃsaka Sūtra* describes eight types of vipāka perfection:
 
-> 云何異熟？謂有八種：一者壽量圓滿；二者色相圓滿；三者種族圓滿；四者自在圓滿。[^11]
+> 云何異熟？謂有八種：一者壽量圓滿；二者色相圓滿；三者種族圓滿；四者自在圓滿……[^11]
 
-*"What is vipāka? There are eight types: first, perfection of lifespan; second, perfection of physical appearance; third, perfection of lineage; fourth, perfection of autonomy."*
+*"What is vipāka? There are eight types: first, perfection of lifespan; second, perfection of physical appearance; third, perfection of lineage; fourth, perfection of autonomy..."*
 
 Length of life, beauty or plainness of appearance, high or low birth, degree of personal freedom—all these "innate conditions" that you bring into this life are, within the Yogācāra framework, entirely the vipāka-fruit of karmic seeds from past lives.
 
@@ -200,11 +200,11 @@ Seeds are not static deposits. They **grow** in response to your sustained inten
 
 Even if unwholesome karmic seeds exist, if they have been weakened to the point of being "extremely feeble" through antidotal practices, they no longer have the force to attract suffering-fruit.
 
-**Seeds can be transformed.** The *Mahāyānasaṃgraha-bhāṣya* describes the mechanism of āśraya-parāvṛtti (transformation of the basis):
+**Seeds can be transformed.** The *Mahāyānasaṃgraha-bhāṣya*, using the worldly person free from desire as a simile, describes the mechanism of the supramundane āśraya-parāvṛtti (transformation of the basis):
 
-> 不靜地煩惱及業種子滅，靜地功德善根熏習圓滿。[^14]
+> 如世間離欲人，於本識中不靜地煩惱及業種子滅，靜地功德善根熏習圓滿，轉下界依成上界依。出世轉依亦爾，由本識功能漸減，聞熏習等次第漸增，捨凡夫依作聖人依。[^14]
 
-*"The afflictions and karmic seeds of the unstable grounds are extinguished; the wholesome roots and merit of the stable grounds reach perfection through perfuming."*
+*"Just as for a worldly person free from desire, within the root consciousness the afflictions and karmic seeds of the unstable grounds are extinguished and the wholesome roots and merit of the stable grounds reach perfection through perfuming, so that the basis of the lower realm is transformed into the basis of the upper realm. The supramundane transformation of the basis is likewise: the capacity of the root consciousness gradually diminishes, the perfuming of hearing and the like gradually increases, and the basis of an ordinary being is relinquished to become the basis of a noble one."*
 
 But the "extinguishing" spoken of here does not mean doing a few good deeds to cancel out bad seeds. This is **āśraya-parāvṛtti**—through the deep practice of the paths of seeing and cultivation, afflictions are severed at their root, producing a qualitative transformation of the entire ālaya-vijñāna. This is the domain of noble beings, a fundamental shift in the very foundation—not the arithmetic of adding and subtracting wholesome and unwholesome deeds at the ordinary level.
 
@@ -301,7 +301,7 @@ Correction: The seed characteristics of "determinacy of nature" (svabhāva-niyat
 
 "He is poor because he did not practice generosity in a past life. He deserves it."
 
-Correction: This is the most dangerous misapplication. Causality is a tool for **observing oneself**, not a weapon for **judging others**. The Buddha taught causality so that you would ask "what causes am I planting right now?"—not so that you could pronounce judgment on others: "they must have planted such-and-such a cause." The first foundation in the four foundations of mindfulness is "contemplation of the body"—and the body contemplated is **one's own**, not another's.
+Correction: This is the most dangerous misapplication. Causality is a tool for **observing oneself**, not a weapon for **judging others**. The Buddha taught causality so that you would ask "what causes am I planting right now?"—not so that you could pronounce judgment on others: "they must have planted such-and-such a cause." The first foundation in the four foundations of mindfulness is "contemplation of the body"—the sūtras contemplate both the inner and the outer body, not one's own body alone; taking here only the aspect of contemplating **one's own** body, as a figure for turning causality inward, is the author's interpretation.
 
 ---
 
@@ -386,7 +386,7 @@ But the premise is—you must, like the farmer, plant first.
 [^6]: 《攝大乘論釋》（無性釋）卷二，《大正藏》第31冊，No. 1598。*Mahāyānasaṃgrahabhāṣya* (Asvabhāva), Fascicle 2, Taishō vol. 31, No. 1598.
 [^7]: 《大乘起信論義記》卷中末，法藏撰，《大正藏》第44冊，No. 1846。*Dasheng Qixin Lun Yiji*, Fascicle 2 (卷中末), by Fazang, Taishō vol. 44, No. 1846.
 [^8]: 《阿毘達磨俱舍論》卷六，「異熟因不善及善唯有漏」，《大正藏》第29冊，No. 1558。另見祖師語錄 T2016 卷71：「因通善惡，果唯無記。」*Abhidharmakośabhāṣya*, Fascicle 6, Taishō vol. 29, No. 1558. Cf. patriarchal records T2016, Fascicle 71: "Causes span good and evil; fruit is exclusively indeterminate."
-[^9]: 《大乘阿毘達磨集論》卷七，《大正藏》第31冊，No. 1605。*Abhidharmasamuccaya*, Fascicle 7, Taishō vol. 31, No. 1605.
+[^9]: 《大乘阿毘達磨集論》卷四，《大正藏》第31冊，No. 1605。*Abhidharmasamuccaya*, Fascicle 4, Taishō vol. 31, No. 1605.
 [^10]: 《成唯識論》卷二，「然種子義略有六種」，《大正藏》第31冊，No. 1585。*Cheng Weishi Lun*, Fascicle 2, Taishō vol. 31, No. 1585.
 [^11]: 《大方廣佛華嚴經》卷二十六，《大正藏》第10冊，No. 0293。*Avataṃsaka Sūtra*, Fascicle 26, Taishō vol. 10, No. 0293.
 [^13]: 《釋淨土群疑論》卷七，懷感撰，《大正藏》第47冊，No. 1960。*Shi Jingtu Qunyi Lun*, by Huaigan, Fascicle 7, Taishō vol. 47, No. 1960.

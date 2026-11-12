@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P04"
 paper_number: 4
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # AI Does Not Generate Merit
@@ -70,7 +70,7 @@ The significance of this list is that in the Buddha's causal analysis of wealth 
 
 The *Madhyamāgama* (Fascicle 2) records the Buddha's description of how merit grows:
 
-> "When faithful men and women of good family have obtained these seven worldly merits, whether going or coming, whether standing or sitting, whether sleeping or waking, whether by day or by night, their merit constantly arises, ever increasing and expanding. Just as the waters of the Ganges, flowing from their source into the great ocean, grow ever deeper and broader along the way."[^3]
+> "When faithful men and women of good family have obtained these seven worldly merits, whether going or coming, whether standing or sitting, whether sleeping or waking, whether by day or by night, their merit constantly arises, ever increasing and expanding. Cunda! Just as the waters of the Ganges, flowing from their source into the great ocean, grow ever deeper and broader along the way."[^3]
 
 The "seven worldly merits" refer to the fruits of seven kinds of wholesome action including generosity and offerings. The Buddha used the Ganges metaphor to illustrate merit's **self-amplifying nature**—once wholesome seeds begin to mature, their fruits expand naturally, like the Ganges growing ever deeper and broader as it flows toward the sea.
 

@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P08"
 paper_number: 8
 date: "2026-03"
-version: "0.2"
+version: "0.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Do Not Seek Outside — Take Refuge in Your Own Nature
@@ -126,9 +126,9 @@ The sūtra continues: even if a stream-enterer suffers "extreme, severe pain," h
 
 What you want cannot be obtained simply by wanting it. This is the dukkha of not-obtaining (求不得苦), one of the eight sufferings—the more you seek, the more you suffer.
 
-### 2.4 The Buddha's Final Teaching: Be Your Own Lamp
+### 2.4 The Buddha's Teaching in His Last Years: Be Your Own Lamp
 
-Before his parinirvāṇa, what was the Buddha's last teaching to his disciples? It was not some profound doctrine, but the simplest of instructions:
+In his last years, before announcing that he would enter parinirvāṇa three months later, what did the Buddha teach his disciples? It was not some profound doctrine, but the simplest of instructions:
 
 > 當自熾燃，熾燃於法，勿他熾燃；當自歸依，歸依於法，勿他歸依。[^9]
 
@@ -136,9 +136,9 @@ Before his parinirvāṇa, what was the Buddha's last teaching to his disciples?
 
 Be your own lamp. Rely on yourself. Rely on the Dharma. Do not rely on anything else.
 
-What is the method? Observe the body internally (觀內身). That is all.
+What is the method? Contemplate the inner body, the outer body, and both inner and outer; feelings, mind, and dharmas likewise—the four foundations of mindfulness. That is all.
 
-What the Buddha taught in his final moments is the same thing he taught throughout the *Saṃyuktāgama*—**do not seek outside**.
+What the Buddha taught in his last years is the same thing he taught throughout the *Saṃyuktāgama*—**do not seek outside**.
 
 ---
 
@@ -182,7 +182,7 @@ This teaching is not the idiosyncratic view of one school or one tradition. From
 |---------|--------------|
 | Āgama (the Buddha) | Be your own island, take yourself as refuge; be the Dharma's island, take the Dharma as refuge[^11] |
 | Prajñā (Nāgārjuna lineage) | Without attaining inner joy, one seeks pleasure in external things; therefore the mind is disturbed[^12] |
-| Huayan | Seek liberation within the afflictions, not from outside[^13] |
+| Kāśyapa Chapter 迦葉品 (cited by Nāgārjuna) | Seek liberation within the afflictions, not from outside[^13] |
 | Chan (Sixth Patriarch) | Bodhi is sought only within the mind; why labor to seek the profound outside?[^14] |
 | Chan (Mazu) | The very one who is asking me right now—that is your treasury. Everything is already complete; why seek externally?[^15] |
 | Chan (Linji) | The sickness lies in lack of self-trust; because you do not trust yourself enough, you rush outward seeking[^16] |
@@ -277,7 +277,7 @@ The person who does not know this is still looking outside.
 - *Jingde Chuandeng Lu* 《景德傳燈錄》, compiled by Daoyuan 道原, *Taishō* vol. 51, No. 2076.
 - *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu 裴休, *Taishō* vol. 48, No. 2012A.
 - *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》, edited by Zongbao 宗寶, *Taishō* vol. 48, No. 2008.
-- *Dafangguang Fo Huayan Jing Suishu Yanyi Chao* 《大方廣佛華嚴經隨疏演義鈔》, *Taishō* vol. 36, No. 1736.
+- *Shizhu Piposha Lun* 《十住毘婆沙論》, composed by Nāgārjuna, trans. Kumārajīva 鳩摩羅什, *Taishō* vol. 26, No. 1521.
 
 ### II. Modern Scholarship 現代學術著作
 
@@ -293,7 +293,7 @@ The person who does not know this is still looking outside.
 | 3 | Dīrghāgama 長阿含經 | T01 | 0001 | II |
 | 4 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | II |
 | 5 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | III |
-| 6 | Huayan Jing Suishu Yanyi Chao 華嚴經隨疏演義鈔 | T36 | 1736 | III |
+| 6 | Shizhu Piposha Lun 十住毘婆沙論 | T26 | 1521 | III |
 | 7 | Platform Sūtra 六祖壇經 | T48 | 2008 | III |
 | 8 | Huangbo Chuanxin Fayao 黃檗傳心法要 | T48 | 2012A | III |
 | 9 | Jingde Chuandeng Lu 景德傳燈錄 | T51 | 2076 | III, VI |
@@ -320,11 +320,11 @@ The person who does not know this is still looking outside.
 [^6]: *Saṃyuktāgama* 《雜阿含經》, fascicle 24, Sūtra 617, the Rāva Bird Analogy, *Taishō* vol. 2, No. 0099.
 [^7]: *Madhyamāgama* 《中阿含經》, fascicle 47, Duojie Sūtra (多界經), *Taishō* vol. 1, No. 0026.
 [^8]: *Madhyamāgama* 《中阿含經》, fascicle 7, "this truly cannot be obtained through desire," *Taishō* vol. 1, No. 0026. The dukkha of not-obtaining, one of the eight sufferings.
-[^9]: *Dīrghāgama* 《長阿含經》, fascicle 2, Youxing Jing (Mahāparinibbāna-related), *Taishō* vol. 1, No. 0001. The Buddha's final teaching before parinirvāṇa.
+[^9]: *Dīrghāgama* 《長阿含經》, fascicle 2, Youxing Jing (Mahāparinibbāna-related), *Taishō* vol. 1, No. 0001. A teaching of the Buddha's last years, given after his illness and before he announced at the Cāpāla shrine that he would enter parinirvāṇa three months later (0015b06–13; 0015c16–18).
 [^10]: *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu, *Taishō* vol. 48, No. 2012A.
 [^11]: *Saṃyuktāgama* 《雜阿含經》, fascicle 24, Sūtra 638, self as island and self as refuge, *Taishō* vol. 2, No. 0099.
 [^12]: *Mahāprajñāpāramitā-śāstra* 《大智度論》, fascicle 8, composed by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
-[^13]: *Dafangguang Fo Huayan Jing Suishu Yanyi Chao* 《大方廣佛華嚴經隨疏演義鈔》, *Taishō* vol. 36, No. 1736.
+[^13]: *Shizhu Piposha Lun* 《十住毘婆沙論》, fascicle 17, chapter on Aids to the Fruits of Śīla 助尸羅果品, composed by Nāgārjuna, trans. Kumārajīva, citing the Buddha's words to Kāśyapa in the Kāśyapa Chapter 迦葉品, *Taishō* vol. 26, No. 1521.
 [^14]: *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》, *Taishō* vol. 48, No. 2008.
 [^15]: *Jingde Chuandeng Lu* 《景德傳燈錄》, fascicle 6, Mazu Daoyi to Dazhu Huihai, *Taishō* vol. 51, No. 2076.
 [^16]: *Jingde Chuandeng Lu* 《景德傳燈錄》, fascicle 28, Linji Yixuan, *Taishō* vol. 51, No. 2076.

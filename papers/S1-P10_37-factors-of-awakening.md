@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P10"
 paper_number: 10
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The 37 Factors of Awakening: A Complete Methodology from 2500 Years Ago
@@ -16,9 +16,9 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-本文提出「雙層論」：三十七道品（saptatriṃśad-bodhipakṣa-dharmāḥ）不僅是佛教出世間的解脫修行路線圖，更是一套適用於任何生命領域的完整自我精進系統。論證路線如下：（一）以佛陀涅槃前三月的最後教誡為起點，確立三十七道品在整體佛法中的核心地位；（二）系統梳理經典依據，從《增壹阿含經》「一偈含攝三十七品」到《維摩詰所說經》「三十七道品是菩薩淨土」，建立從小乘到大乘的完整教證線索；（三）提出核心論證——七科次第（觀察→行動→穩固→生根→成力→覺醒→整合）捕捉了任何「有意識改變」的通用邏輯，因此同一套結構在出世間能用於解脫煩惱，在入世間能用於減肥、考試、戒癮、創業等任何目標；（四）以行為科學（習慣迴路）、正向心理學（性格優勢）、自我決定理論作為跨學科會通（⚠️ 結構對應，非理論等價），指出現代 self-help 各自發現了三十七道品的碎片——mindfulness 是四念處、habit science 是四正勤、grit 是五力、flow 是七覺支——但沒有任何一個現代框架把 37 步串成完整系統；（五）中道校正防止四種過度詮釋：不是心靈雞湯、佛法不離世間法不等於佛法等於世間法、結構對應不是理論等價、次第不是線性。本文是系列第十篇，接續S1-P09（法器準備），為第一季「初發心」系列的收官之作：器準備好了，這就是完整的方法。
+本文提出「雙層論」：三十七道品（saptatriṃśad-bodhipakṣa-dharmāḥ）不僅是佛教出世間的解脫修行路線圖，更是一套適用於任何生命領域的完整自我精進系統。論證路線如下：（一）以佛陀涅槃前三月預告入滅時的教誡為起點，確立三十七道品在整體佛法中的核心地位；（二）系統梳理經典依據，從《增壹阿含經》「一偈之中，便出生三十七品」到《維摩詰所說經》「三十七道品是菩薩淨土」，建立從小乘到大乘的完整教證線索；（三）提出核心論證——七科次第（觀察→行動→穩固→生根→成力→覺醒→整合）捕捉了任何「有意識改變」的通用邏輯，因此同一套結構在出世間能用於解脫煩惱，在入世間能用於減肥、考試、戒癮、創業等任何目標；（四）以行為科學（習慣迴路）、正向心理學（性格優勢）、自我決定理論作為跨學科會通（⚠️ 結構對應，非理論等價），指出現代 self-help 各自發現了三十七道品的碎片——mindfulness 是四念處、habit science 是四正勤、grit 是五力、flow 是七覺支——但沒有任何一個現代框架把 37 步串成完整系統；（五）中道校正防止四種過度詮釋：不是心靈雞湯、佛法不離世間法不等於佛法等於世間法、結構對應不是理論等價、次第不是線性。本文是系列第十篇，接續S1-P09（法器準備），為第一季「初發心」系列的收官之作：器準備好了，這就是完整的方法。
 
-This paper proposes a "dual-layer thesis": the 37 bodhipakkhiya-dhamma are not only a transcendent liberation path but a complete self-mastery system applicable to any life domain. The argument proceeds: (1) establishing the centrality of the 37 factors through the Buddha's final teaching three months before parinirvana; (2) tracing scriptural evidence from the Ekottara Agama's "one verse contains all 37" to the Vimalakirti Sutra's "the 37 factors ARE the bodhisattva's pure land"; (3) the core thesis -- the seven-category progression (observe, act, stabilize, root, strengthen, awaken, integrate) captures the universal logic of intentional change, therefore the same structure applies to both liberation from suffering and mastery of any life domain; (4) cross-disciplinary parallels (heuristic, not reductive) with behavioral science, positive psychology, and self-determination theory, noting that modern self-help has independently discovered fragments -- mindfulness = four foundations, habit science = four right efforts, grit = five powers, flow = seven awakening factors -- but no modern framework integrates all 37 steps; (5) four Middle Way corrections against over-interpretation. S1-P10 follows S1-P09 (preparing the vessel) as the culmination of the "initiating the aspiration" series: the vessel is ready -- here is the complete method.
+This paper proposes a "dual-layer thesis": the 37 bodhipakkhiya-dhamma are not only a transcendent liberation path but a complete self-mastery system applicable to any life domain. The argument proceeds: (1) establishing the centrality of the 37 factors through the Buddha's teaching three months before parinirvana, given as he announced his passing; (2) tracing scriptural evidence from the Ekottara Agama's "within a single verse, the thirty-seven factors are produced" to the Vimalakirti Sutra's "the 37 factors ARE the bodhisattva's pure land"; (3) the core thesis -- the seven-category progression (observe, act, stabilize, root, strengthen, awaken, integrate) captures the universal logic of intentional change, therefore the same structure applies to both liberation from suffering and mastery of any life domain; (4) cross-disciplinary parallels (heuristic, not reductive) with behavioral science, positive psychology, and self-determination theory, noting that modern self-help has independently discovered fragments -- mindfulness = four foundations, habit science = four right efforts, grit = five powers, flow = seven awakening factors -- but no modern framework integrates all 37 steps; (5) four Middle Way corrections against over-interpretation. S1-P10 follows S1-P09 (preparing the vessel) as the culmination of the "initiating the aspiration" series: the vessel is ready -- here is the complete method.
 
 **Keywords:** 三十七道品、菩提分法、四念處、八正道、自我精進、雙層論、出世間、入世間、修行次第 / bodhipakkhiya-dhamma, satipatthana, noble eightfold path, self-mastery, dual-layer thesis, transcendent, worldly, practice sequence
 
@@ -54,13 +54,13 @@ Now the question is: what do we pour into it?
 
 ## II. Scriptural Basis: What the Buddha Said about the 37 Factors
 
-### 2.1 The Buddha's Final Teaching -- His Last Instructions Three Months before Passing
+### 2.1 The Buddha's Bequest -- His Instructions Three Months before Passing
 
 If you had only three months to live, what would you say to the people closest to you?
 
 You would say whatever matters most.
 
-Three months before his parinirvana, the Buddha gave his disciples a final teaching. He did not discourse on the subtleties of emptiness. He did not paint a grand cosmology. He taught the 37 factors of awakening -- all seven categories, from first to last, not one omitted:
+Three months before his parinirvana, announcing his coming passing, the Buddha gave his disciples this teaching. He did not discourse on the subtleties of emptiness. He did not paint a grand cosmology. He taught the 37 factors of awakening -- all seven categories, from first to last, not one omitted:
 
 > 「三十七道品法，所謂四念處、四正勤、四如意足、五根、五力、七覺支、八聖道分，汝應修習精勤思惟，此法能令到解脫處。」[^1]
 >
@@ -68,7 +68,7 @@ Three months before his parinirvana, the Buddha gave his disciples a final teach
 
 He then continued: "All conditioned phenomena are impermanent. Life is as precarious as a flash of lightning. You must not be negligent."
 
-A person's final words are the distillation of a lifetime. The Buddha chose to make the 37 factors his last message to the world. That was no accident.
+A person's final words are the distillation of a lifetime. In announcing his coming passing, the Buddha chose to make the 37 factors his instruction to his disciples. That was no accident.
 
 ### 2.2 One Verse Contains All -- The 37 Factors Are Not 37 Separate Things
 
@@ -114,9 +114,9 @@ The seven categories of the 37 factors are not a flat checklist. They contain an
 
 The *Yuqie Lun Ji* 瑜伽論記 (Dunlun's record of commentary on the *Yogacarabhumi-sastra*) records a key insight from Master Tai:
 
-> 前三——念住、正斷、神足等——為「所依事」，在見道故；後——根、力、覺道支等——為「能依事」。[^5]
+> 前三——念住、正斷、神足等——為「所依事」，在見道故；後一——根、力、覺道支等學人所有諸無漏法——為「能依事」。[^5]
 >
-> "The first three -- foundations of mindfulness, right efforts, bases of spiritual power -- are the 'supporting basis,' belonging to the path of seeing. The latter -- faculties, powers, awakening factors, and the path -- are the 'supported practices.'"
+> "The first three -- foundations of mindfulness, right efforts, bases of spiritual power -- are the 'supporting basis,' belonging to the path of seeing. The latter one -- faculties, powers, awakening factors, and the path, all the uncontaminated dharmas possessed by trainees -- are the 'supported practices.'"
 
 In plain language: the first three categories (four foundations of mindfulness, four right efforts, four bases of spiritual power) are **the foundation for seeing the path** -- you must first observe, act, and stabilize before you can see where you are going. The latter four categories (five faculties, five powers, seven factors of awakening, noble eightfold path) are **the support for walking the path** -- once you see it, you must root down, build strength, awaken, and integrate.
 
@@ -148,9 +148,9 @@ Non-negligence -- not being lazy, not being scattered, not deceiving yourself --
 
 The *Mahaprajnaparamita-sastra* makes this sequence crystal clear:
 
-> 「如行者到師所，聽道法時，先用念持是法，是時名念處。持已，從法中求果，故精進行，是時名正懃。多精進故心散亂，攝心調柔故，名如意足。心調柔已，生五根。是五根增長，能遮煩惱……是名為力。得力已，分別道法有三分……此七事能到，故名為分。得是法安隱具足已，欲入涅槃無為城故行是諸法，是時名為道。」[^18]
+> 「如行者到師所，聽道法時，先用念持是法，是時名念處。持已，從法中求果，故精進行，是時名正懃。多精進故心散亂，攝心調柔故，名如意足。心調柔已，生五根……是五根增長，能遮煩惱……是名為力。得力已，分別道法有三分……此七事能到，故名為分。得是法安隱具足已，欲入涅槃無為城故行是諸法，是時名為道。」[^18]
 >
-> "When a practitioner comes to the teacher and listens to the Dharma, first using mindfulness to hold the teaching -- this is called the foundations of mindfulness. Having retained it, seeking fruition from the Dharma through diligent effort -- this is called the right efforts. Due to excessive effort the mind becomes scattered; collecting and softening the mind -- this is called the bases of spiritual power. Once the mind is softened, the five faculties arise. As these five faculties grow, they can obstruct the afflictions ... this is called the powers. Having gained power, one discerns three aspects of the path ... these seven things can bring one there, hence they are called 'factors.' Having obtained these dharmas securely and completely, one practices them in order to enter the unconditioned city of nirvana -- at that time it is called the path."
+> "When a practitioner comes to the teacher and listens to the Dharma, first using mindfulness to hold the teaching -- this is called the foundations of mindfulness. Having retained it, seeking fruition from the Dharma through diligent effort -- this is called the right efforts. Due to excessive effort the mind becomes scattered; collecting and softening the mind -- this is called the bases of spiritual power. Once the mind is softened, the five faculties arise ... As these five faculties grow, they can obstruct the afflictions ... this is called the powers. Having gained power, one discerns three aspects of the path ... these seven things can bring one there, hence they are called 'factors.' Having obtained these dharmas securely and completely, one practices them in order to enter the unconditioned city of nirvana -- at that time it is called the path."
 
 Let us set aside the Buddhist terminology for a moment and examine the **logical structure** of these seven categories:
 
@@ -414,7 +414,7 @@ That is not how it works.
 
 The seven categories of the 37 factors form a **spiral**, not a straight-line staircase. While cultivating the five powers, you may need to return to the four foundations of mindfulness for renewed observation. While practicing the noble eightfold path, the four right efforts of "abandoning and preventing unwholesomeness" are still operating every day.
 
-The *Ekottara Agama*'s description of "walking in meditation throughout the day, the mind engaged with the 37 factors" captures exactly this -- the mature practitioner **holds all seven categories simultaneously**, never "graduating" from the earlier ones. [^6]
+The *Ekottara Agama*'s description of "walking in meditation throughout the day, never abandoning the mind's engagement with the 37 factors" captures exactly this -- the mature practitioner **holds all seven categories simultaneously**, never "graduating" from the earlier ones. [^6]
 
 The sequence of the seven categories is the **order of learning** (where to begin), not the **order of lived experience** (practicing only one category at a time). Entry has stages. Practice is simultaneous.
 

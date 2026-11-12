@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P05"
 paper_number: 5
 date: "2026-03"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Skillful Use of AI as Adhipati-pratyaya to Accumulate Merit
@@ -138,7 +138,7 @@ As Mahānāma's case has shown: the same act of giving, performed with different
 
 Throwing money on the ground for someone to pick up is materially identical to respectfully presenting it with both hands—yet the former carries the psychological structure of "I am above; you are below." This is giving driven by conceit (*māna*). The giver satisfies the sense of "I have the power to bestow"; the recipient feels humiliation rather than warmth. This is an enormous waste of a wholesome opportunity—a chance for boundless merit, reduced to a fraction by attitude alone.
 
-The conditions listed in the *Ekottarāgama* (Fascicle 19)—"give with joy, give with your own hands, do not delegate"—each emphasizes the centrality of attitude.[^4]
+The conditions listed in the *Ekottarāgama* (Fascicle 19)—"give with joy, without clinging, give with your own hands, do not delegate"—each emphasizes the centrality of attitude.[^4]
 
 AI's application at this depth is limited—attitude is the giver's internal work. But AI can help the giver reflect: What is your motivation for giving? Does the manner of your giving make the recipient feel respected or patronized?
 
