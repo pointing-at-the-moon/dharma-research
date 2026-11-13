@@ -128,7 +128,7 @@ Each of the four instructions concludes with the same formula:
 
 > If I speak this way, this is the speech of the Buddha; if one does not speak this way, this is the speech of Pāpīyas.[^22]
 
-This formula occurs four times in the latter half of fascicle 6. The repetition is not rhetorical redundancy — it is structural insistence. **Each of the four instructions is an independent act of Buddha-versus-Māra discrimination.** One cannot observe three and violate the fourth; one cannot use an exemption in one precept to justify violation of another. Every violation is an immediate relocation to the side of Māra. This formula is the concrete application, at the level of *śīla*, of the overall Tathāgatagarbha-versus-heterodoxy discrimination that structures the entire *Śūraṅgama Sūtra* (as discussed in Paper S6-P01).
+This formula occurs four times in the latter half of fascicle 6 (in the third and fourth instructions it opens with 如我所說 and 如我是說 respectively; the rest is identical). The repetition is not rhetorical redundancy — it is structural insistence. **Each of the four instructions is an independent act of Buddha-versus-Māra discrimination.** One cannot observe three and violate the fourth; one cannot use an exemption in one precept to justify violation of another. Every violation is an immediate relocation to the side of Māra. This formula is the concrete application, at the level of *śīla*, of the overall Tathāgatagarbha-versus-heterodoxy discrimination that structures the entire *Śūraṅgama Sūtra* (as discussed in Paper S6-P01).
 
 #### 2.7 The Direct Prophecy of the Fifty Skandha-Māras
 
@@ -225,7 +225,7 @@ The Four Clear and Decisive Instructions have a peculiar stylistic feature: the 
 
 Consider the difference between a *manual* and a *checklist*. A manual is a continuous narrative: you read chapter one to understand chapter two, chapter two to understand chapter three — the whole forms an organic argument. A checklist is categorically different: **each item is independent, closed, and non-omissible**. You cannot skip item four because you have already done items one through three; you cannot merge item two with item one because they seem related; each item must be checked off on its own.
 
-The Four Instructions are a checklist, not a manual. The Buddha repeats the same syntactic pattern four times, independently declaring four times "if I speak this way, this is the speech of the Buddha; if not this way, this is the speech of Pāpīyas." He is telling us that **each instruction is an independent life-or-death threshold**, that none may be passed over, none may be skipped, and the exemption of any one cannot excuse the violation of another. If you observe three and violate the fourth, the entire perimeter has broken — because the defining feature of a perimeter is that *a single gap is equivalent to having no perimeter at all*.
+The Four Instructions are a checklist, not a manual. The Buddha repeats the same syntactic pattern four times, independently declaring four times "if I speak this way, this is the speech of the Buddha; if not this way, this is the speech of Pāpīyas" (the third and fourth open with 如我所說 and 如我是說). He is telling us that **each instruction is an independent life-or-death threshold**, that none may be passed over, none may be skipped, and the exemption of any one cannot excuse the violation of another. If you observe three and violate the fourth, the entire perimeter has broken — because the defining feature of a perimeter is that *a single gap is equivalent to having no perimeter at all*.
 
 This stylistic feature echoes Jiāoguāng's framing of the Four Instructions as *preparatory practice for those of dullest capacity*. The characteristic of dull-capacity affliction is precisely the tendency toward self-deception at the point of specific weakness: "This one time is just..."; "This case doesn't count..."; "This is different from that..." The checklist structure exists to block this self-deception: four items, independent, formally repetitive, identical in adjudication — there is nowhere to hide.
 
@@ -299,7 +299,7 @@ Also relevant here is the rule for distinguishing true from false teachers in *m
 
 ### 3.6 The Recursive Structure of the Buddha-versus-Māra Formula
 
-The concluding formula of each instruction — "if I speak this way, this is the speech of the Buddha; if one does not speak this way, this is the speech of Pāpīyas" — occurs four times in the latter half of fascicle 6.[^45] This repetition is not emphasis but **recursion**.
+The concluding formula of each instruction — "if I speak this way, this is the speech of the Buddha; if one does not speak this way, this is the speech of Pāpīyas" — occurs four times in the latter half of fascicle 6 (the third and fourth opening with 如我所說 and 如我是說).[^45] This repetition is not emphasis but **recursion**.
 
 Recursion means that a complete structure repeats itself at every layer. The Buddha-versus-Māra formula works exactly this way. Each individual instruction is itself a complete act of Buddha-versus-Māra discrimination, and the four discriminations taken together constitute a larger Buddha-versus-Māra discrimination at the level of the Four Instructions as a whole. One can observe three and violate the fourth — in which case one has stood on the Māra side with respect to the fourth. One can observe all four in act but only at the level of outward form and not at the level of mind — in which case one has stood on the Māra side with respect to the whole. At every layer there is a discrimination to be made; at no layer can it be fudged.
 
@@ -493,7 +493,7 @@ May all who read this far be able to erect these four perimeters within their ow
 
 [^21]: *Śūraṅgama Sūtra*, fascicle 6, closing "mind as straight as a lute-string" passage of the Fourth Instruction.
 
-[^22]: Ibid. The formula occurs four times at the close of the four instructions and constitutes the most central Buddha-versus-Māra criterion of fascicle 6's latter half.
+[^22]: Ibid. The formula occurs four times at the close of the four instructions (the third and fourth opening with 如我所說 and 如我是說) and constitutes the most central Buddha-versus-Māra criterion of fascicle 6's latter half.
 
 [^23]: Ibid., the "become love-view Māras, lose the seed of the Tathāgata" passage. This paper reads the term "love-view Māra" as anticipating the Fifty Skandha-Māras chapters of fascicles 9 and 10 (the author's interpretation; the term occurs only here in the whole sūtra).
 
@@ -539,7 +539,7 @@ May all who read this far be able to erect these four perimeters within their ow
 
 [^44]: *Śūraṅgama Zhèng-mài-shū*, fascicle 6, Jiāoguāng's "if they remain, they do not reveal; if they reveal, they do not remain" criterion; see footnote [^20].
 
-[^45]: *Śūraṅgama Sūtra*, fascicle 6. The formula "if I speak this way, this is the speech of the Buddha; if one does not speak this way, this is the speech of Pāpīyas" occurs four times at the close of the First through Fourth Instructions.
+[^45]: *Śūraṅgama Sūtra*, fascicle 6. The formula "if I speak this way, this is the speech of the Buddha; if one does not speak this way, this is the speech of Pāpīyas" occurs four times at the close of the First through Fourth Instructions (0132a01, 0132a28; the Third and Fourth open with 如我所說, 0132b28, and 如我是說, 0132c24; the rest is identical).
 
 [^46]: *Yogācārabhūmi-śāstra*, fascicle 41, Skillful Expedient passage; see footnote [^36].
 

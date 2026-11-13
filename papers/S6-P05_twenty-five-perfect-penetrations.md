@@ -135,7 +135,7 @@ After all twenty-five had spoken, the Buddha requested Mañjuśrī to select the
 
 **Preamble:** "Returning to the source, the nature is non-dual; the expedient means are many. The nature of the holy is without obstruction; both the forward and the reverse are expedient methods. Yet for the beginner entering samādhi, the speed is not the same."[^16] The first four lines establish equality — the source is one, the methods are many, the holy nature admits all paths. The final two lines introduce differentiation — for the beginner, some doors open faster than others. "The speed is not the same" is the entire justification for the selection: from the perspective of the fruit, all doors are equal; from the perspective of initial practice, efficiency genuinely differs.
 
-**Systematic elimination:** Mañjuśrī then eliminated the other twenty-four penetrations one by one, using a uniform four-line format ending with "how can this yield perfect penetration?" (云何獲圓通). Each was found wanting on different grounds: the sense-object of form "cannot be thoroughly penetrated," the sense-object of sound "does not encompass the whole," the sense-object of smell "does not persist in awareness," and so on through all six sense-objects, five sense-faculties, six consciousnesses, and seven elements.[^17]
+**Systematic elimination:** Mañjuśrī then eliminated the other twenty-four penetrations one by one, using a uniform four-line format ending with "how can this yield perfect penetration?" (云何獲圓通; the first verse, on form, ends instead with 於是獲圓通). Each was found wanting on different grounds: the sense-object of form "cannot be thoroughly penetrated," the sense-object of sound "does not encompass the whole," the sense-object of smell "does not persist in awareness," and so on through all six sense-objects, five sense-faculties, six consciousnesses, and seven elements.[^17]
 
 **The three authenticities of the ear-faculty:** After the eliminations, Mañjuśrī established the ear-faculty's superiority on three grounds:
 
@@ -426,7 +426,7 @@ What hears has always been there.
 
 [^16]: *Śūraṅgama Sūtra*, fascicle 6. Chinese: 「歸元性無二，方便有多門。聖性無不通，順逆皆方便；初心入三昧，遲速不同倫。」T19, No. 945.
 
-[^17]: *Śūraṅgama Sūtra*, fascicle 6. Mañjuśrī's systematic elimination of each of the six sense-objects, five sense-faculties, six consciousnesses, and seven elements, each ending with 「云何獲圓通？」T19, No. 945.
+[^17]: *Śūraṅgama Sūtra*, fascicle 6. Mañjuśrī's systematic elimination of each of the six sense-objects, five sense-faculties, six consciousnesses, and seven elements, each ending with 「云何獲圓通？」 except the first (form), which ends with 「於是獲圓通？」 (0130a28). T19, No. 945.
 
 [^18]: *Śūraṅgama Sūtra*, fascicle 6. Chinese: 「譬如人靜居，十方俱擊鼓，十處一時聞，此則圓真實。」T19, No. 945.
 
