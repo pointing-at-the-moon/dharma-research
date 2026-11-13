@@ -219,7 +219,7 @@ This table reveals the functional gradient across the eight consciousnesses: fro
 
 ### 3.4 Nine Conditions for Consciousness to Arise
 
-The eight consciousnesses do not operate unconditionally; each requires specific conditions (*pratyaya*) for its arising. The *Verses* summarize:
+The eight consciousnesses do not operate unconditionally; each requires specific conditions (*pratyaya*) for its arising. The *Supplementary Notes* cite a verse that summarizes:
 
 > 眼識九緣生，耳識唯從八，鼻舌身三七，後三五三四。
 > "Eye-consciousness arises from nine conditions; ear-consciousness from only eight. Nose, tongue, and body — these three from seven. The latter three: five, three, and four."[^30]

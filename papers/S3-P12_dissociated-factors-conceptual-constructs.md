@@ -73,7 +73,7 @@ The concept of "life-faculty" (*jīvitendriya*) among the dissociated factors ap
 >
 > "There are three dharmas whose departure from the living body leaves it abandoned at the charnel ground, like senseless wood. What three? First, lifespan; second, warmth; third, consciousness."[^2]
 
-When lifespan, warmth, and consciousness depart, the body becomes like wood and stone — this is the definition of death. The same sūtra further illustrates the mutual dependence of lifespan and warmth through a lamp metaphor:
+When lifespan, warmth, and consciousness depart, the body becomes like wood and stone — this is the definition of death. The *Mahākoṭṭhita Sūtra* in the same fascicle further illustrates the mutual dependence of lifespan and warmth through a lamp metaphor:
 
 > 「因壽故有暖，因暖故有壽……猶如因油因炷，故得燃燈，彼中因㷿故有光，因光故有㷿。」
 >

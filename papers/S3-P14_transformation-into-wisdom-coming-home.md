@@ -45,7 +45,7 @@ The *Cheng Weishi Lun* declares its purpose in its opening passage:
 
 The logic chain is crystalline: composition → understanding → severance → fruit. Composition is means, not end. Understanding serves severance. Severance serves attainment. Attainment — *mahānirvāṇa* and *mahābodhi* — is the sole reason the entire Yogācāra system exists.
 
-At the treatise's conclusion, *Cheng Weishi Lun* fascicle 9 closes the circle:
+*Cheng Weishi Lun* fascicle 9, explaining the transformation of the basis, states the aim of the whole treatise in one sentence:
 
 > 由轉煩惱得大涅槃，轉所知障證無上覺。成立唯識，意為有情證得如斯二轉依果。[^2]
 
