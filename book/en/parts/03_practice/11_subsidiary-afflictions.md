@@ -10,7 +10,7 @@ Yet this does not mean the subsidiary afflictions are unimportant. Quite the opp
 
 ### Three Tiers: Not a Grading of Size, but a Grading of Reach
 
-The Hundred Dharmas sort the twenty subsidiary afflictions into three classes—ten minor, two medium, eight major. This is not a grading of size (it does not mean the minor are "smaller" and the major "larger"); it is a difference of **reach**, of how widely each pervades:
+The Cheng Weishi Lun sorts the twenty subsidiary afflictions into three classes—ten minor, two medium, eight major. This is not a grading of size (it does not mean the minor are "smaller" and the major "larger"); it is a difference of **reach**, of how widely each pervades:
 
 - **The ten minor** (wrath, resentment, concealment, spite, envy, avarice, deceit, flattery, cruelty, self-intoxication)—arise individually. Only one comes up at a time; their character is coarse and fierce, and each needs a concrete trigger. You will not be both wrathful and envious at once—wrath is a present eruption, envy is a recoil at the sight of another's good fortune; the two are structurally different and cannot stack.
 - **The two medium** (shamelessness, moral recklessness)—pervade every unwholesome mind. The moment an unwholesome mind arises, shamelessness and moral recklessness are there as its backdrop.
@@ -24,7 +24,7 @@ Keeping the vehicle metaphor of 3.8–3.10: the minor afflictions are the differ
 
 The clearest structure among the ten minor is the **three-beat unfolding of aversion.** The Mahāprajñāpāramitā Śāstra gives this group a precise sequence of definitions:
 
-> When the fetter of anger first arises, it is called anger. When anger grows and one deliberates and holds it in the mind without resolution, this is called resentment. When the mind is decided and has no fear or hesitation, this is called spite.
+> When the fetter of anger first arises, it is called anger. When anger grows and one deliberates and holds it in the mind without resolution, this is called resentment. … When the mind is decided and has no fear or hesitation, this is called spite.
 
 Three beats: **wrath** (the present eruption) → **resentment** (sustained rumination) → **spite** (coarse expression).
 

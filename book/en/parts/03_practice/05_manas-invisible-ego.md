@@ -70,7 +70,7 @@ This quality explains something—why manas operates so hiddenly. The craving, a
 
 As you read this very passage—the sixth consciousness is understanding it—but behind that, all along, there is a low hum: "**I** am reading, **I** understood, **I** find this convincing / I disagree." That low hum is manas. It will not stop, and it does not need your consent. It was already running before you became aware of it.
 
-The *Cheng Weishi Lun* gives it a precise verdict: among the three modes of cognition, manas is **exclusively non-veridical cognition**. It does not err now and then; its error is **perpetual miscognition**—a structural, constant error. We usually think of "error" as something occasional, but the error of manas is its very mode of operation. The essential nature of a cognitive function is "not knowing in accord with reality"—in terms of how knowing works, this is an extraordinary diagnosis.
+The *Supplementary Annotations to the Verses on the Eight Consciousnesses* gives it a precise verdict: among the three modes of cognition, manas is **exclusively non-veridical cognition**. It does not err now and then; its error is **perpetual miscognition**—a structural, constant error. We usually think of "error" as something occasional, but the error of manas is its very mode of operation. The essential nature of a cognitive function is "not knowing in accord with reality"—in terms of how knowing works, this is an extraordinary diagnosis.
 
 ### Transformation — From Manas to equality wisdom
 

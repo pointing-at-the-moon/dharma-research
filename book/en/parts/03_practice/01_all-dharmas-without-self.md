@@ -2,13 +2,13 @@
 
 Part One asked you: "Who is driving?" Part Two let you see it: the five aggregates are all empty. Part Three takes the car apart and lets you look closely at every component—and then you discover: **there is no driver inside the car.**
 
-### A Little Treatise of Seven Hundred and Twenty-Two Characters
+### A Little Treatise of Five Hundred and Forty-Two Characters
 
-Vasubandhu's *Śatadharmaprakāśamukha-śāstra*—the Treatise on the Doors Illuminated by a Hundred Dharmas—runs to only seven hundred and twenty-two Chinese characters. It opens with two questions: "What are all dharmas? What is meant by being without self?" The first question unfolds into the classification of the five categories of the hundred dharmas—consciousnesses, mental factors, form, dissociated formations, unconditioned dharmas. The second question is answered at the close, drawn together by the "twofold selflessness"—the selflessness of person (*pudgala-nairātmya*) and the selflessness of dharmas (*dharma-nairātmya*).
+Vasubandhu's *Śatadharmaprakāśamukha-śāstra*—the Treatise on the Doors Illuminated by a Hundred Dharmas—runs, in its main body, to only five hundred and forty-two Chinese characters. It opens with two questions: "What are all dharmas? What is meant by being without self?" The first question unfolds into the classification of the five categories of the hundred dharmas—consciousnesses, mental factors, form, dissociated formations, unconditioned dharmas. The second question is answered at the close, drawn together by the "twofold selflessness"—the selflessness of person (*pudgala-nairātmya*) and the selflessness of dharmas (*dharma-nairātmya*).
 
-It begins with "all dharmas are without self" and ends with "the twofold selflessness." Seven hundred and twenty-two characters, a precise closed loop.
+It begins with "all dharmas are without self" and ends with "the twofold selflessness." Five hundred and forty-two characters, a precise closed loop.
 
-Its full title gives away its origin: "A Summary Enumeration from the Section on Essential Topics"—it is a condensed version of the six hundred and sixty dharmas in Asaṅga's *Yogācārabhūmi-śāstra*. Six hundred and sixty was too many; one hundred is just right: precise enough to guide practice, compact enough to remember.
+Its full title gives away its origin: "A Summary Enumeration from the Section on Essential Topics"—it is a condensed version of the six hundred and sixty dharmas in the *Yogācārabhūmi-śāstra* (spoken by Maitreya). Six hundred and sixty was too many; one hundred is just right: precise enough to guide practice, compact enough to remember.
 
 ### "All Dharmas Are Without Self" Is Not a Yogācāra Invention
 

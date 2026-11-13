@@ -169,7 +169,7 @@ The deepest storehouse of mind-consciousness, holding all seeds; it stores (as t
 **In this book**: 3.4 The Hard Drive of Life.
 
 ### 八識規矩頌 · Verses on the Structure of the Eight Consciousnesses
-The collection of verses composed by Xuanzang setting out the nature and characteristics of the eight consciousnesses; an outline primer of Yogācāra.
+The collection of verses traditionally attributed to Xuanzang setting out the nature and characteristics of the eight consciousnesses; an outline primer of Yogācāra.
 **First appears**: the verses carry no independent canonical number; they are transmitted embedded in commentaries — earliest in Putai's Supplementary Notes on the Verses (T45 No. 1865, Ming) and in the Xuzangjing commentaries (X55 Nos. 890–900).
 **In this book**: 3.3 The Threefold Transformation: A Panorama of the Eight Consciousnesses.
 

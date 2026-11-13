@@ -14,11 +14,11 @@ The eight consciousnesses are still those same eight consciousnesses—no new "e
 
 The *Cheng Weishi Lun* states this with great precision:
 
-> Wisdom, though not consciousness, transforms in dependence on consciousness. Because consciousness is primary, we speak of attaining wisdom through transforming consciousness. In the outflow-laden state, wisdom is weak and consciousness is strong; in the outflow-free state, wisdom is strong and consciousness is weak. To encourage sentient beings to rely on wisdom and relinquish consciousness, it is said that by transforming the eight consciousnesses one attains these four wisdoms.
+> Wisdom, though not consciousness, transforms in dependence on consciousness. Because consciousness is primary, we speak of attaining wisdom through transforming consciousness. Moreover, in the outflow-laden state, wisdom is weak and consciousness is strong; in the outflow-free state, wisdom is strong and consciousness is weak. To encourage sentient beings to rely on wisdom and relinquish consciousness, it is said that by transforming the eight consciousnesses one attains these four wisdoms.
 
 Wisdom is not consciousness, but **transforms in dependence on consciousness.** In the outflow-laden state, the power of consciousness outweighs that of wisdom, so affliction has the upper hand; in the outflow-free state, the power of wisdom outweighs that of consciousness, so wisdom has the upper hand. Yogācāra builds its entire system for one purpose: to encourage sentient beings to **rely on wisdom and relinquish consciousness**—not to annihilate consciousness, but to let wisdom take the lead.
 
-The *Cheng Weishi Lun* sets down the purpose of its composition at the very opening, and echoes it in a single sentence at the close:
+The *Cheng Weishi Lun* sets down the purpose of its composition at the very opening, and echoes it in a single sentence where it explains the transformation of the basis:
 
 > By transforming affliction one attains mahānirvāṇa; by transforming the cognitive obstruction one realizes supreme awakening. **The establishment of consciousness-only is intended for sentient beings to attain these two fruits of basis-transformation.**
 
@@ -34,7 +34,7 @@ The eight consciousnesses transforming into the four wisdoms is not a matter of 
 
 3.4 compared the ālaya-vijñāna to "the hard drive of life"—holding the seeds, receiving the perfuming, the root basis of all. This whole set of functions remains **entirely intact** after transformation. The difference is that the defiled seeds on the hard drive are forever severed, leaving only pure seeds; the manner of holding the seeds shifts from "the attachment-storehouse of self-love" to "purely pure and perfect virtue."
 
-The *Cheng Weishi Lun*'s description wastes no words: "The mind associated with great perfect mirror wisdom—this mind departs from all discrimination; its object and its mode are subtle and difficult to know; it neither forgets nor is confused; toward all the characteristics of objects, its nature and characteristics are pure, departing from all defilement, purely pure and perfect virtue, holding seeds and serving as basis—**like a great round mirror reflecting all forms.**"
+The *Cheng Weishi Lun*'s description wastes no words: "The mind associated with great perfect mirror wisdom—this mind departs from all discrimination; its object and its mode are subtle and difficult to know; it neither forgets nor is confused; toward all the characteristics of objects, its nature and characteristics are pure, departing from all defilement, purely pure and perfect virtue, holding seeds and serving as basis … **like a great round mirror reflecting all forms.**"
 
 "Like a great round mirror reflecting all forms"—the mirror is still a mirror; the dust on its surface has been wiped clean. From "hard drive" to "bright mirror," it is the same eighth consciousness, its quality utterly transformed.
 
@@ -76,7 +76,7 @@ This is the full panorama of the four wisdoms in luminosity. **Not one of the ei
 
 ### The Sixth and Seventh Transform in the Cause; the First Five and the Eighth Reach Completion in the Fruit
 
-Among the four wisdoms there is an important temporal sequence with real significance for practice, which the *Verses on the Structure of the Eight Consciousnesses* states in a single line:
+Among the four wisdoms there is an important temporal sequence with real significance for practice, which a verse cited in the *Supplementary Annotations to the Verses on the Eight Consciousnesses* states in a single line:
 
 > The sixth and seventh transform during the causal stage; the first five and the eighth reach completion in the fruition stage.
 
@@ -106,7 +106,7 @@ The *Cheng Weishi Lun* lists four kinds of nirvāṇa, of which two are the ones
 
 **Nirvāṇa originally pure in its own nature**—"shared equally by all sentient beings, neither identical with nor different from all dharmas." This is an exceedingly profound piece of news: **you are in nirvāṇa right now.** You simply do not know it. That "state after liberation" you have been searching for—at the level of your true nature, you have never once left it. 3.14's "you have been home all along" finally lands here in doctrinal terms—not a metaphor, but a plain statement of the truth.
 
-**Non-abiding nirvāṇa**—this is the ultimate of the bodhisattva path: "not abiding in saṃsāra, not abiding in nirvāṇa, benefiting and gladdening sentient beings to the end of future time."
+**Non-abiding nirvāṇa**—this is the ultimate of the bodhisattva path: "not abiding in saṃsāra or nirvāṇa, benefiting and gladdening sentient beings to the end of future time."
 
 This "double non-abiding" is crucial. To abide only in nirvāṇa is to be one who saves only himself—liberated, but indifferent to beings; to abide only in saṃsāra is to remain in the round of rebirth. The bodhisattva, by the wisdom of prajñā, does not abide in saṃsāra; by the power of great compassion, does not abide in nirvāṇa—a foot on each side, yet abiding on neither.
 

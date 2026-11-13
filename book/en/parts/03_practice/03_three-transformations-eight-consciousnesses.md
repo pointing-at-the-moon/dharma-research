@@ -30,7 +30,7 @@ The interplay of the three transformations forms a loop: the ālaya-vijñāna ho
 
 ### Constant and Deliberating—A Fourfold Distinction
 
-Each of the eight consciousnesses has its own "character." The Verses on the Eight Consciousnesses use two dimensions—"constant" (unbroken) and "deliberating" (examining and grasping a self)—to sort the eight into four kinds:
+Each of the eight consciousnesses has its own "character." The *Supplementary Annotations to the Verses on the Eight Consciousnesses* uses two dimensions—"constant" (unbroken) and "deliberating" (examining and grasping a self)—to sort the eight into four kinds:
 
 The ālaya-vijñāna is **constant but not deliberating**. It never breaks off, but it does not examine and does not grasp a self; it silently holds seeds and manifests. Manas is **both constant and deliberating**. It neither breaks off nor stops grasping a self. While you sleep it is grasping a self; while you lie unconscious it is grasping a self; even when you enter meditative absorption it is still grasping a self. The sixth consciousness is **deliberating but not constant**. It can examine and reflect, but it breaks off—in deep sleep, in a faint. The first five consciousnesses are **neither constant nor deliberating**. They break off, and they do not grasp a self.
 
@@ -52,7 +52,7 @@ The Bodhisattva Dharmapāla seals this map in a single couplet: "The five and th
 
 ### Every Consciousness Needs Conditions to Arise
 
-The eight consciousnesses do not run unconditionally. The Verses on the Eight Consciousnesses sum it up in a stanza: "Eye-consciousness arises from nine conditions; ear-consciousness from only eight; nose, tongue, and body from seven; the latter three from five, three, and four." Eye-consciousness needs nine conditions all present in order to arise (spatial distance, light, the eye-faculty, the object, attention, the sixth consciousness, the seventh consciousness, the eighth consciousness, and seeds), and all five sense-consciousnesses need manas and the ālaya-vijñāna as their "defiled-or-pure support" and "fundamental support"—the Cheng Weishi Lun says plainly, "lacking any one, they will not operate."
+The eight consciousnesses do not run unconditionally. The *Supplementary Annotations to the Verses on the Eight Consciousnesses* sums it up in a stanza it cites: "Eye-consciousness arises from nine conditions; ear-consciousness from only eight; nose, tongue, and body from seven; the latter three from five, three, and four." Eye-consciousness needs nine conditions all present in order to arise (spatial distance, light, the eye-faculty, the object, attention, the sixth consciousness, the seventh consciousness, the eighth consciousness, and seeds), and all five sense-consciousnesses need manas and the ālaya-vijñāna as their "defiled-or-pure support" and "fundamental support"—the Cheng Weishi Lun says plainly, "lacking any one, they will not operate."
 
 This confirms, doctrinally, that the three transformations are no theoretical assumption—they are the actual conditions of every single act of cognition. You see a flower, and behind it nine conditions are at work all at once.
 
@@ -68,13 +68,13 @@ Each consciousness is not a single flat activity; it has an internal differentia
 
 Understand it through everyday experience: you see a flower (the image-part is the flower's image, the seeing-part is the act of looking at it), then you know that you are looking at a flower (self-witnessing), and you can confirm that "I know I'm looking at a flower" is genuinely so (witnessing-of-self-witnessing).
 
-Here a misunderstanding easily arises: the idea that the four aspects are four puzzle pieces you can pull apart. They are not. The Cheng Weishi Lun says plainly that the four aspects "can be condensed to three, to two, or to one—since their substance is not distinct." The four aspects are four functional facets of one and the same consciousness-substance, not four separate parts. The third aspect and the fourth aspect serve as each other's measure and each other's fruit, forming a self-enclosed cognitive loop, with no need for an infinite regress.
+Here a misunderstanding easily arises: the idea that the four aspects are four puzzle pieces you can pull apart. They are not. The Cheng Weishi Lun says plainly that the four aspects "can be condensed to three … to two … or to one—since their substance is not distinct." The four aspects are four functional facets of one and the same consciousness-substance, not four separate parts. The third aspect and the fourth aspect serve as each other's measure and each other's fruit, forming a self-enclosed cognitive loop, with no need for an infinite regress.
 
 ### In Delusion It Is Consciousness, in Awakening It Is Wisdom
 
 Chan Master Yongming Yanshou, in the Zongjing Lu (Records of the Source Mirror), takes the transformation of the eight consciousnesses to its furthest point with the hand of the Chan tradition:
 
-> When one is deluded, the eight consciousnesses take on the title of "grasping and storing"... When one understands, the ālaya becomes the substance of the Mirror, manas becomes the source of Equality, the sixth gives rise to the wonder of Observation, and the five perform the function of Accomplishment.
+> When one is deluded, the eight consciousnesses take on the title of "grasping and storing"... When one understands, the ālaya becomes the substance of the Mirror ... manas becomes the source of Equality ... the sixth gives rise to the wonder of Observation ... and the five perform the function of Accomplishment.
 
 The closing line is especially crucial: "**The one mind has never moved. Consciousness and wisdom self-differentiate. The substance does not turn—only the name turns.**"
 

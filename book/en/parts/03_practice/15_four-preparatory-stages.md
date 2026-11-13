@@ -30,7 +30,7 @@ The *Cheng Weishi Lun*, fascicle nine, puts the matter without any softening:
 
 "Deeply trusting and understanding, yet unable to comprehend the emptiness of apprehended and apprehender"—the bodhisattva at the path of accumulation has no doubt about the Yogācāra teaching, but **conviction is not realization**. "Dwelling mostly outside the gate, practicing the bodhisattva path externally"—still "outside the gate," accumulating through the six perfections the capital needed to enter. There is a precise measure in that line: the path of accumulation is not "not practicing." It is **always practicing**, but what it practices is "the preparation before entering," not "the contemplative insight after entering."
 
-Kuiji, in his *Commentary on the Diamond Sūtra*, uses a vivid image:
+Zixuan, in his *Jingang jing zuanyao kanding ji*, uses a vivid image:
 
 > Though in the three stages of wise practice one has unsystematically cultivated the six perfections for one incalculable eon, to enter the holy path requires the Buddha's impetus. Therefore, after the path of accumulation, the name "application" is established. It is like drilling for fire—when the fire is about to emerge, one redoubles one's effort.
 
@@ -84,9 +84,9 @@ Now we can enter the four stages themselves.
 
 **Heat**—drilling brings warmth; the fire has not yet come, but the temperature is rising. Within the "luminosity-attaining concentration" (the meditative state in which the light of wisdom is first obtained), the practitioner, for the first time, uses the four investigations to observe that name, referent, intrinsic nature, and distinctions are conventional designations—not learned from books, but **directly touched within observation**.
 
-The *Mahāyānasūtrālaṃkāra* describes this moment: "One sees only mental verbalization, does not see any meaning." The practitioner begins to see: what we took to be cognition of "things themselves" has all along been cognition of "the mental verbalizing-and-discriminating about things." This insight, though not yet stable (regression is still possible), has planted the wholesome root—"heat" is precisely this state of "not yet burning but already warming."
+The *Mahāyānasūtrālaṃkāra* describes this moment: "Because one sees only mental verbalization, one does not see any meaning." The practitioner begins to see: what we took to be cognition of "things themselves" has all along been cognition of "the mental verbalizing-and-discriminating about things." This insight, though not yet stable (regression is still possible), has planted the wholesome root—"heat" is precisely this state of "not yet burning but already warming."
 
-**Summit**—like climbing to the peak of a mountain. The contemplative insight grows more acute and penetrating. The concentration it relies on is called "luminosity-increasing concentration"—the light of wisdom intensifies. The subtlety of the summit stage is that it is **the critical point between advance and retreat**: the insight is already strong, but it has not yet reached irreversibility. Like standing on a mountain peak, you can keep going forward into patience, or you can slip back through the interference of afflictions. Vasubandhu, glossing "summit" in the *Madhyāntavibhāga-bhāṣya*, gives three meanings—the summit can sustain bodily life (the wholesome roots can no longer be severed), the summit is the boundary of retreat (one can fall back), the summit is the boundary of advance (one can ascend). All three meanings coexist, and that is the true condition of the summit stage.
+**Summit**—like climbing to the peak of a mountain. The contemplative insight grows more acute and penetrating. The concentration it relies on is called "luminosity-increasing concentration"—the light of wisdom intensifies. The subtlety of the summit stage is that it is **the critical point between advance and retreat**: the insight is already strong, but it has not yet reached irreversibility. Like standing on a mountain peak, you can keep going forward into patience, or you can slip back through the interference of afflictions. Vasubandhu, glossing "summit" in his commentary on the *Mahāyānasaṃgraha*, gives three meanings—the summit can sustain bodily life (the wholesome roots can no longer be severed), the summit is the boundary of retreat (one can fall back), the summit is the boundary of advance (one can ascend). All three meanings coexist, and that is the true condition of the summit stage.
 
 **Patience**—this is the most decisive step among the four preparatory stages.
 
@@ -115,7 +115,7 @@ This is the root difference between the path of application and the path of seei
 
 "With apprehension" is not an error—it is the necessary road. You must first establish a firm contemplative understanding of "everything is consciousness-only" (with something apprehended) before you can, in the next step, transcend that very understanding (with nothing apprehended). Just as you must first learn to use the map before, one day, you can set the map down and face the terrain directly.
 
-### "During the Preparatory Phase It Extends Through All the Absorptions; It Reaches Completion Relying on the Fourth"
+### "During the Preparatory Phase It Extends Through All the Absorptions, Yet It Reaches Completion Relying on the Fourth"
 
 Here we have to deal with a technical question on which modern practitioners often get stuck: **how deep does the meditative absorption have to be before these contemplations can even start?**
 

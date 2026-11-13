@@ -8,7 +8,7 @@ The engine—the five universals—fires by itself. The steering wheel—the fiv
 
 First we have to clear up a common misreading.
 
-The *Śatadharmaprakāśamukha-śāstra* lists eleven wholesome factors: trust, conscience, moral fear, non-attachment, non-aversion, non-delusion, vigor, pliancy, non-negligence, equanimity, non-harming. A beginner who sees this list easily takes it for "a collection of eleven virtues"—like eleven brands on a supermarket shelf, where you pick whichever ones suit you.
+The *Triṃśikā* (Thirty Verses) lists eleven wholesome factors: trust, conscience, moral fear, non-attachment, non-aversion, non-delusion, vigor, pliancy, non-negligence, equanimity, non-harming. A beginner who sees this list easily takes it for "a collection of eleven virtues"—like eleven brands on a supermarket shelf, where you pick whichever ones suit you.
 
 It is not like that.
 
@@ -83,7 +83,7 @@ With direction in hand (the three wholesome roots), the next thing needed is the
 
 The essence of **vigor** is "courage and fortitude"—"courage" is the force of rising upward, "fortitude" is the force of focused purity. The *Cheng Weishi Lun* lists five subtypes of vigor: donning armor (generating the great vow), engaging in action (taking up practice), not demeaning oneself (not making light of oneself), not retreating (not turning back), and not resting content (not growing complacent). From generating the aspiration to never turning back, vigor runs through the entire course of practice.
 
-But vigor carries one crucial restriction: **it is exclusively of wholesome nature**. In everyday language "diligence" can apply to any direction of effort—"he is very diligent about making money"—but that is not vigor in the Yogācāra sense. Vigor refers only to effort directed toward wholesome dharmas. Exertion directed toward defiled dharmas is not vigor; it is "the striving aspect of craving." Direction is set by the three wholesome roots, and strength is supplied by vigor; neither can be missing.
+But vigor carries one crucial restriction: **it is exclusively of wholesome nature**. In everyday language "diligence" can apply to any direction of effort—"he is very diligent about making money"—but that is not vigor in the Yogācāra sense. Vigor refers only to effort directed toward wholesome dharmas. Exertion directed toward defiled dharmas is not vigor — the *Cheng Weishi Lun* says that "striving in defiled matters is also called laziness." Direction is set by the three wholesome roots, and strength is supplied by vigor; neither can be missing.
 
 Once vigor is running, it also needs two balancers: **non-negligence** and **equanimity**.
 
@@ -126,7 +126,7 @@ Having walked through the eleven once, there are two misreadings that need corre
 
 ⚠️ **Wholesome dharmas are not a virtue checklist.** Many people understand the wholesome factors as "eleven good qualities"—picking a few to cultivate as if choosing courses. This breaks an organic structure into fragments. The eleven are one formula: trust is the spark, conscience and moral fear are the seal, the three wholesome roots are the core fuel, vigor is the pressure, pliancy is the efficiency, non-negligence and equanimity are the regulators, and non-harming is the destination. Take away one, and the whole engine cannot run. Practice is not cultivating a few of them; it is letting the whole set run together.
 
-⚠️ **Wholesome dharmas do not appear automatically; they must be actively cultivated.** Chapter 3.8 said the universals are "necessarily present"—those mental factors are there whether you cultivate them or not. But among the four kinds of universality, the wholesome factors possess only universality across grounds; they lack universality across times and universality across simultaneous arising—they do not automatically actualize in every moment, nor in every consciousness. This means: **every single arising of wholesome mind is the result of practice.** Without cultivation, no wholesome factor is present. This is why the Āgamas stress that "non-negligence is the root of all wholesome dharmas"—a wholesome dharma left unattended will regress, and practice is precisely not letting it regress.
+⚠️ **Wholesome dharmas do not appear automatically; they must be actively cultivated.** Chapter 3.8 said the universals are "necessarily present"—those mental factors are there whether you cultivate them or not. But among the four kinds of universality, the wholesome factors possess only universality across grounds; they lack universality across times and universality across simultaneous arising—they do not automatically actualize in every moment, nor in every consciousness. This means: **every single arising of wholesome mind is the result of practice.** Without cultivation, no wholesome factor is present. This is why the Āgamas stress that non-negligence is the root of all wholesome dharmas—a wholesome dharma left unattended will regress, and practice is precisely not letting it regress.
 
 With this, the fuel set that runs toward the light is fully introduced. But a car's tank, it turns out, has two supplies—one that, once added, lets it run toward liberation, and another that, once added, makes it slide toward the depths of saṃsāra.
 

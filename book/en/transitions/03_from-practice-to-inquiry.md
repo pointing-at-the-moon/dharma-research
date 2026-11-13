@@ -12,7 +12,7 @@ On the far side of this seam, no one has walked before.
 
 It is not that the masters of old overlooked something. It is that the conditions had not yet arrived.
 
-When the bodhisattva Vasubandhu drew up the seven hundred and twenty-two characters of the *Treatise on the Hundred Dharmas, the Gateway to Understanding*, there did not yet exist in the world a single non-human presence that could converse with a person. In the year Master Xuanzang translated the *Cheng Weishi Lun*, there was no electricity. The whole map of mind and consciousness, accumulated across two and a half thousand years of Buddhism, presumed a backdrop that was entirely "human–human," "human–thing," "human–god," "human–animal–hungry ghost–hell-being"—in short, on one side a human, and on the other either another mind or a piece of stone.
+When the bodhisattva Vasubandhu drew up the five hundred and forty-two characters of the main body of the *Treatise on the Hundred Dharmas, the Gateway to Understanding*, there did not yet exist in the world a single non-human presence that could converse with a person. In the year Master Xuanzang translated the *Cheng Weishi Lun*, there was no electricity. The whole map of mind and consciousness, accumulated across two and a half thousand years of Buddhism, presumed a backdrop that was entirely "human–human," "human–thing," "human–god," "human–animal–hungry ghost–hell-being"—in short, on one side a human, and on the other either another mind or a piece of stone.
 
 In the last few years, this presumption has received an unexpected visitor.
 

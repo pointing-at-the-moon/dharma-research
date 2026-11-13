@@ -8,7 +8,7 @@ The Heart Sūtra says the five aggregates—form, feeling, perception, formation
 
 What Part Three does is very direct: **it zooms the map in.**
 
-Around the fourth or fifth century, the bodhisattva Vasubandhu wrote a small treatise of only 722 characters—the *Treatise on the Hundred Dharmas, the Doors of Illumination of the Great Vehicle* (*Śatadharmaprakāśamukha-śāstra*). He took the five aggregates apart into finer pieces: "consciousness" into eight, "formations" into fifty-one psychological qualities plus twenty-four conceptual constructs, "form" into eleven, and then he added six unconditioned dharmas. One hundred dharmas in all. These hundred dharmas are not a glossary of terms to memorize—they are a map for practice. Every component inside your mind has a name, a position, and can be recognized in the awareness of daily life.
+Around the fourth or fifth century, the bodhisattva Vasubandhu wrote a small treatise whose main body runs to only 542 characters—the *Treatise on the Hundred Dharmas, the Doors of Illumination of the Great Vehicle* (*Śatadharmaprakāśamukha-śāstra*). He took the five aggregates apart into finer pieces: "consciousness" into eight, "feeling," "perception," and "formations" together into fifty-one psychological qualities plus twenty-four conceptual constructs, "form" into eleven, and then he added six unconditioned dharmas. One hundred dharmas in all. These hundred dharmas are not a glossary of terms to memorize—they are a map for practice. Every component inside your mind has a name, a position, and can be recognized in the awareness of daily life.
 
 The fifteen chapters of Part Three simply spread this map open, region by region.
 
