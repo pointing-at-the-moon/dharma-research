@@ -8,7 +8,7 @@ Here the Heart Sūtra pivots. The Buddha calls out Śāriputra's name—in the o
 
 > Śāriputra, the true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease.
 
-Six negations, three pairs, eighteen characters. These eighteen characters are not describing a philosophical concept. **They are pointing directly at the original face of this very mind.**
+Six negations, three pairs, seventeen characters. These seventeen characters are not describing a philosophical concept. **They are pointing directly at the original face of this very mind.**
 
 ---
 
@@ -85,7 +85,7 @@ The answer is no. Only matter has amount; mind is not matter.
 The most direct scriptural ground for this teaching is the *Anūnatvāpūrṇatva-nirdeśa Sūtra*. The Buddha tells Śāriputra:
 
 > **Those who hold the great wrong view are those who see the realm of beings as increasing, or see the realm of beings as decreasing.**
-> Beings are the dharma body; the dharma body is beings. The meaning is one, only the name differs.
+> … The realm of beings is the dharma body; the dharma body is the realm of beings. Śāriputra, of these two dharmas the meaning is one, only the name differs.
 
 Notice that the Buddha judges this mistaken view directly as "the great wrong view"—not a minor misunderstanding, but a fundamental inversion. Why? Because "apart from the dharma-realm of tathatā, the fixed characteristic of 'beings' cannot be found." Beings and the dharma body differ in name and appearance, but in substance they are one and the same thing. So no matter how many beings attain buddhahood, the buddha-realm does not increase, and the realm of beings does not decrease.
 

@@ -53,9 +53,9 @@ The very first character of the Heart Sūtra, "observe," sets both ends of this 
 
 ### Practicing the profound prajñāpāramitā—the method, with three dimensions
 
-The six characters "practicing the profound prajñāpāramitā," Kuiji judges to hold "two kinds of depth."
+The eight characters "practicing the profound prajñāpāramitā," Woncheuk judges to hold "two kinds of depth."
 
-**The first kind, practice-depth**: the observing wisdom itself is deep. Non-discriminating wisdom internally realizes person-emptiness and dharma-emptiness, so that even the thought "I am practicing" (its mode of operation) has fallen away. The *Larger Prajñāpāramitā Sūtra* says: "Not seeing practice, not seeing non-practice—this is called the bodhisattva's deep practice of prajñā."—truly deep practice is practice in which even the self-awareness of "I am practicing" has been transcended.
+**The first kind, practice-depth**: the observing wisdom itself is deep. Non-discriminating wisdom internally realizes person-emptiness and dharma-emptiness, so that even the thought "I am practicing" (its mode of operation) has fallen away. Woncheuk cites the *Larger Prajñāpāramitā Sūtra*: "Not seeing practice, not seeing non-practice—this is called the bodhisattva's deep practice of prajñā."—truly deep practice is practice in which even the self-awareness of "I am practicing" has been transcended.
 
 **The second kind, object-depth**: the contemplated object is deep. The twofold emptiness as suchness is free from the characteristics of existence and non-existence, transcending all conceptual elaboration, unfathomably deep.
 
@@ -95,7 +95,7 @@ The phenomena of suffering do not actually vanish. Illness still happens, partin
 
 As for "**all**" suffering—this phrase points to ultimate purity. The *Mahāprajñāpāramitā Śāstra* makes it clear with the fire analogy: śrāvakas and pratyekabuddhas have severed the three poisons, but their habitual tendencies remain—"like fragrance remaining in a vessel after the perfume has been removed." The Buddha is different—"the three poisons permanently and completely exhausted without remainder, like the fire at the end of an eon that burns Mount Sumeru until the very earth is consumed, with neither smoke nor ash remaining." What "transcending all suffering" ultimately points to is this fundamental transformation of the basis in which both afflictions and habitual tendencies are exhausted—not merely a temporary cessation.
 
-⚠️ For this reason, "illuminating the emptiness of the five aggregates and transcending all suffering" is not a once-and-for-all, single event. Yogācāra's five stages indicate plainly that the penetration stage is the instant of non-discriminating wisdom's "first illumination of principle"—but between the penetration stage and the ultimate stage lies the cultivation stage, which can span three great incalculable eons. Every "deep practice → illumination" is a gradual process in which the defiled seeds in the *ālaya-vijñāna* weaken by one degree and the undefiled seeds strengthen by one degree. The loop must keep running, each circuit one layer deeper.
+⚠️ For this reason, "illuminating the emptiness of the five aggregates and transcending all suffering" is not a once-and-for-all, single event. Yogācāra's five stages indicate plainly that the penetration stage is the instant of non-discriminating wisdom's "first illumination of principle"—but between the penetration stage and the ultimate stage lies the cultivation stage, which can span the second and third great incalculable eons. Every "deep practice → illumination" is a gradual process in which the defiled seeds in the *ālaya-vijñāna* weaken by one degree and the undefiled seeds strengthen by one degree. The loop must keep running, each circuit one layer deeper.
 
 ---
 

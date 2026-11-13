@@ -2,11 +2,11 @@
 
 The last chapter took the eighteen dhātus apart—eye, ear, nose, tongue, body, mind; form, sound, smell, taste, touch, and mental objects; plus the six consciousnesses. After three layers of deconstruction, the illusion of "I am seeing the world" was seen through. But the close left one question unanswered: **why does the structure trap a person?** Even when you know it is dependently arisen, without self-nature, why do you still suffer?
 
-The next fourteen characters of the Heart Sūtra answer that question:
+The next eighteen characters of the Heart Sūtra answer that question:
 
 > No ignorance, and no ending of ignorance, up to no aging-and-death, and no ending of aging-and-death.
 
-These fourteen characters condense the most fundamental causal model in all of Buddhism—**the twelve links of dependent origination**:
+These eighteen characters condense the most fundamental causal model in all of Buddhism—**the twelve links of dependent origination**:
 
 > ignorance → formations → consciousness → name-and-form → six sense-gates → contact → feeling → craving → grasping → becoming → birth → aging-and-death
 
@@ -16,7 +16,7 @@ In the Saṃyuktāgama, the Buddha's wording for this causal chain is exact. The
 
 The Heart Sūtra does two things with this map. First, it says that every link in the chain of origination is without self-nature ("no ignorance… up to no aging-and-death"). Second, it says that every link in the chain of cessation is also without self-nature ("and no ending of ignorance… and no ending of aging-and-death"). **The chain of suffering is empty; the path to ending suffering is also empty.** The two characters "up to" skip over the ten links in the middle—if the beginning and the end are already empty, how could the middle alone be real?
 
-To make sense of these fourteen characters, the first step is to look at the word "ignorance" again.
+To make sense of these eighteen characters, the first step is to look at the word "ignorance" again.
 
 ---
 
@@ -64,7 +64,7 @@ But at the same time—the **functional principle of conditioned arising is not 
 
 This cut goes much deeper. If ignorance had substance, you could sever it; but since ignorance never had substance to begin with, the so-called "ending of ignorance" is only the seeing of its emptiness—it is not the destruction of some thing. **Truth is not "what you get after ignorance is eliminated"—truth has always been present. The "ending" of ignorance is merely the dissipation of imagined constructs, not the "production" of the perfected nature.**
 
-Nāgārjuna's one line catches it most completely: "**delusion is like space—inexhaustible**." Ignorance is like space; it cannot be "destroyed," but it need not be destroyed either, because it never had substance. To grasp at "there is an ignorance that can be severed" is itself another form of ignorance.
+One line of the Buddha's, cited by Nāgārjuna, catches it most completely: "**delusion is like space—inexhaustible**." Ignorance is like space; it cannot be "destroyed," but it need not be destroyed either, because it never had substance. To grasp at "there is an ignorance that can be severed" is itself another form of ignorance.
 
 Two layers of negation, each deeper than the last: the first breaks the ordinary person's grasping at an entity (believing ignorance is real); the second breaks the practitioner's grasping at annihilation (believing some real thing has truly been severed).
 
@@ -106,7 +106,7 @@ The difference in speed of practice is, at bottom, a difference in observational
 
 ---
 
-"No ignorance, and no ending of ignorance, up to no aging-and-death, and no ending of aging-and-death"—these fourteen characters are now explained. The whole causal chain of the twelve links—both origination and cessation—is illuminated empty within prajñā all at once. But this is not yet enough.
+"No ignorance, and no ending of ignorance, up to no aging-and-death, and no ending of aging-and-death"—these eighteen characters are now explained. The whole causal chain of the twelve links—both origination and cessation—is illuminated empty within prajñā all at once. But this is not yet enough.
 
 The pratyekabuddha contemplates the twelve links; the śrāvaka (the arhat) contemplates something else—**the Four Noble Truths: suffering, its arising, its cessation, and the path.** The Heart Sūtra goes on breaking downward: "**no suffering, arising, cessation, or path**." The twelve links are empty, and the Four Noble Truths fall empty along with them.
 

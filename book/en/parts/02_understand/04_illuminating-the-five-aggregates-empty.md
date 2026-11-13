@@ -57,7 +57,7 @@ What does illuminating insight see? That the five aggregates are empty.
 
 In Chinese, the word "emptiness" is easily heard as "nothing whatsoever exists." This is precisely the gravest misreading that the Yogācāra tradition guards against again and again, and its verdict is perfectly clean:
 
-> The three natures are neither empty nor non-empty. To counter attachment to existence, the Buddha spoke of "emptiness" in a comprehensive and implicit way. **"All is empty" is the Buddha's implicit intention**—speaking of "emptiness" with respect to both existence and non-existence.
+> The three natures are neither empty nor non-empty. To counter attachment to existence, the Buddha spoke of "emptiness" in a comprehensive and implicit way … **"All is empty" is the Buddha's implicit intention**—speaking of "emptiness" with respect to both existence and non-existence.
 
 The meaning is this: the Buddha's "the five aggregates are empty" is a corrective aimed at beings who grasp the aggregates as truly existent—it is not a description of nihilism. The actual doctrine is that each of the three natures has its own place:
 
@@ -109,6 +109,6 @@ The full unfolding from "the mind without obstruction" all the way to "ultimate 
 
 ### The Master Program Has Run One Full Cycle
 
-We have now reached the point where the first fourteen characters of the Heart Sūtra—Avalokiteśvara, deep practice, illuminating insight, transcending suffering—have run one complete cycle of the master program. From this line onward, what the Heart Sūtra does next becomes clear: **it takes those six words, "illuminating the emptiness of the five aggregates," and unfolds them—aggregate by aggregate, sense-base by sense-base, element by element, truth by truth.**
+We have now reached the point where the first twenty-five characters of the Heart Sūtra—Avalokiteśvara, deep practice, illuminating insight, transcending suffering—have run one complete cycle of the master program. From this line onward, what the Heart Sūtra does next becomes clear: **it takes those six words, "illuminating the emptiness of the five aggregates," and unfolds them—aggregate by aggregate, sense-base by sense-base, element by element, truth by truth.**
 
 The next chapter begins with the first thing to be handled: "form." "Form is not different from emptiness, emptiness is not different from form; form is emptiness, emptiness is form"—why must these four lines begin with form? And what is the relationship among the four lines themselves?

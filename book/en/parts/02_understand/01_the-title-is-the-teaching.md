@@ -2,11 +2,11 @@
 
 Many people have recited the Heart Sūtra. Few have read its title.
 
-That sounds like a contradiction—isn't the title right there on the first line? Who hasn't read it? But "having read" and "having read it in" are two different things. Most people, glancing at the seven characters 般若波羅蜜多心經, take them to mean something like: "**the essential sūtra of prajñāpāramitā**." A version label. It tells the reader that this is a condensed edition. Read it, turn the page, and on to "Avalokiteśvara Bodhisattva."
+That sounds like a contradiction—isn't the title right there on the first line? Who hasn't read it? But "having read" and "having read it in" are two different things. Most people, glancing at the eight characters 般若波羅蜜多心經, take them to mean something like: "**the essential sūtra of prajñāpāramitā**." A version label. It tells the reader that this is a condensed edition. Read it, turn the page, and on to "Avalokiteśvara Bodhisattva."
 
-But stop a moment. If this sūtra of two hundred and sixty characters can hold within it the six hundred fascicles of the *Mahāprajñāpāramitā Sūtra*, then what about these seven characters of the title? **Could it be that the title itself has already said everything the whole sūtra sets out to say?**
+But stop a moment. If this sūtra of two hundred and sixty characters can hold within it the six hundred fascicles of the *Mahāprajñāpāramitā Sūtra*, then what about these eight characters of the title? **Could it be that the title itself has already said everything the whole sūtra sets out to say?**
 
-The Tang-dynasty master Kuiji wrote a commentary on the Heart Sūtra, and the explanation of just these seven characters took him an entire fascicle. For him, the title was no ornament. It was the gateway into the teaching—and the way out of it as well. What this chapter does is follow his eyes and look at these seven characters once more.
+The Tang-dynasty master Kuiji wrote a commentary on the Heart Sūtra, and the explanation of just these eight characters took him a long passage. For him, the title was no ornament. It was the gateway into the teaching—and the way out of it as well. What this chapter does is follow his eyes and look at these eight characters once more.
 
 ---
 
@@ -44,7 +44,7 @@ This single distinction is the doctrinal foundation of the whole Heart Sūtra. R
 
 "Pāramitā" is often translated as "reaching the other shore," which sounds like the description of a journey—a person on this shore, the destination on the far side, a crossing to be made.
 
-The same expansion is applied to "pāramitā"—from the traditional two meanings, "bodhi and nirvāṇa," to five: **that which is to be known, the teaching, the principle, the practice, and the fruit**. From a person's first coming to know (*jñeya*), to contact with the teaching, to understanding the principle, to actual practice, to realizing the fruit—five stages, five other shores, forming a complete road.
+The same expansion is applied to "pāra" (the other shore)—from the traditional two meanings, "bodhi and nirvāṇa," to five: **that which is to be known, the teaching, the principle, the practice, and the fruit**. From a person's first coming to know (*jñeya*), to contact with the teaching, to understanding the principle, to actual practice, to realizing the fruit—five stages, five other shores, forming a complete road.
 
 The crux of this analysis is not the five categories themselves, but what they point to: **pāramitā is not a place, it is a process.** Not "arriving over there," but "walking out from here, walking across, walking all the way through."
 
@@ -84,7 +84,7 @@ Read the title back through this equation:
 - **Heart** = the mind on which the three natures depend, on which all dharmas depend
 - **Sūtra** = the words that point out this road
 
-Seven characters, the three natures complete, and the entire structure of the transformation of the basis already inside them.
+Eight characters, the three natures complete, and the entire structure of the transformation of the basis already inside them.
 
 Here is an image a modern reader may find easier to catch. The mind is like a computer. The core firmware beneath has been running perfectly all along (the perfected nature); the operating system processes events as they arise and pass according to conditions (the dependent nature); but a great deal of malware has been installed and is running on top—the story of "I," the anxiety over gain and loss, the grasping at the five aggregates (the imagined nature)—dragging the whole machine nearly to a halt. Practice is not swapping in a new computer; it is uninstalling the malware, so that the core firmware can once again show itself at work. ⚠️ This is a heuristic analogy, not a theoretical equivalence: firmware is a manufactured artifact that arises and perishes, whereas the perfected nature is beginningless and inherent suchness. The image serves intuition only; it cannot be pressed into rigorous doctrinal inference.
 
@@ -110,7 +110,7 @@ Prajñāpāramitā is not forging a new mirror. It is wiping away the layer of d
 
 ---
 
-### Seven Characters, a Map Home
+### Eight Characters, a Map Home
 
 Back to the question we began with: why can two hundred and sixty characters stand on the shoulders of six hundred fascicles?
 

@@ -55,7 +55,7 @@ The Buddha sealed the conclusion in a single sentence: "All form whatsoever—pa
 
 Now back to the four lines of the *Heart Sūtra* itself: form is not different from emptiness, emptiness is not different from form; form is emptiness, emptiness is form.
 
-Why four lines? Why say it twice? This is not literary repetition for its own sake. It is what Kuījī called "**double negation, double affirmation**"—negating in two directions, affirming in two directions.
+Why four lines? Why say it twice? This is not literary repetition for its own sake. It is what this book calls "**double negation, double affirmation**"—negating in two directions, affirming in two directions.
 
 **The first two lines use "not different"—negating separation.**
 
@@ -73,7 +73,7 @@ First dismantle, then establish; dismantling and establishing at once—this is 
 
 ### Form Is Empty by Its Own Nature, Not by the Annihilation of Form
 
-The single most crucial line in the whole set—and the most easily misunderstood—lies deeper in the original texts. The *Mahāprajñāpāramitā Sūtra* puts it in one phrase:
+The single most crucial line in the whole set—and the most easily misunderstood—lies deeper in the original texts. A sūtra line quoted in the *Youzhan* puts it in one phrase:
 
 > **Form is empty by its own nature; it is not that form must be annihilated for emptiness to appear.**
 
