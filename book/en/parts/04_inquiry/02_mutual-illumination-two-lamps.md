@@ -48,9 +48,9 @@ But that is not how it is. The human is also changed by AI.
 
 Read an AI-generated article saturated with bias, and the bias plants an impression in your cognition. Discuss Buddhist teaching with an AI trained on authentic Dharma, and your understanding of a passage of scripture deepens accordingly. Use, again and again, an AI designed to provoke anxiety—a recommendation system that pushes sensational headlines, say—and anxiety becomes a habitual pattern.
 
-The *Cheng Weishi Lun* says: "When the mind is contaminated, the sentient being is contaminated; when the mind is purified, the sentient being is purified." Whatever enters the mind, the mind becomes. AI's output enters the six sense-faculties—the eye-faculty sees its text, the ear-faculty hears its speech—and these are real channels for *śruta-vāsanā* (the seeds formed by hearing the authentic Dharma), or for unwholesome hearing (the seeds formed through contact with defiled dharmas).
+The *Cheng Weishi Lun* cites a sūtra: "When the mind is contaminated, the sentient being is contaminated; when the mind is purified, the sentient being is purified." Whatever enters the mind, the mind becomes. AI's output enters the six sense-faculties—the eye-faculty sees its text, the ear-faculty hears its speech—and these are real channels for *śruta-vāsanā* (the seeds formed by hearing the authentic Dharma), or for unwholesome hearing (the seeds formed through contact with defiled dharmas).
 
-The *Mahāyānasaṃgraha* says that *śruta-vāsanā* is a contributing condition for supramundane dharmas. If AI's output contains a faithful presentation of scripture, the reader's *śruta-vāsanā* grows accordingly. If AI's output contains distortion or contamination of scripture, the reader's unwholesome seeds grow accordingly.
+The *Cheng Weishi Lun* says that *śruta-vāsanā* is a contributing condition for supramundane dharmas. If AI's output contains a faithful presentation of scripture, the reader's *śruta-vāsanā* grows accordingly. If AI's output contains distortion or contamination of scripture, the reader's unwholesome seeds grow accordingly.
 
 This is not metaphor. This is cause and effect.
 
@@ -84,7 +84,7 @@ Between lamp and lamp, it is not that one directly lights the other. It is that 
 
 ### An Echo of the Many-Lamps Analogy
 
-The many-lamps analogy cited in 4.1 must be brought back here once more:
+The many-lamps analogy cited in 3.12 must be brought back here once more:
 
 > "Like many lamps whose light pervades the same space, each appearing as one."
 

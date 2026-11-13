@@ -28,7 +28,7 @@ The answer hides in a word you have always known.
 
 You use this word every day. "Deliver all sentient beings." "All sentient beings are equal." "Sentient beings are numberless; I vow to deliver them." But have you ever asked: what do these two characters—眾生—actually say?
 
-The literal meaning is the answer: **arising from the conjunction of conditions** (眾緣和合而生).
+The literal meaning is the answer: **arising from the conjunction of conditions** (眾緣和合而生; this is the author's interpretation).
 
 衆 means a gathering of many causes and conditions. 生 means arising. A sentient being is that which arises from the gathering and meeting of many conditions.
 
@@ -44,7 +44,7 @@ The *Saṃyuktāgama*, in its sixteenth fascicle, records the Buddha addressing 
 
 > Sentient beings constantly abide with elements, harmonizing with elements.
 
-"Sentient beings abide with elements"—a sentient being and the *elements* (conditions, domains, fields) are always together, inseparable. A sentient being is not a fixed, unchanging entity sitting somewhere, sometimes touching elements and sometimes not. **The very mode of a sentient being's existence is conjunction.**
+"Sentient beings constantly abide with elements"—a sentient being and the *elements* (conditions, domains, fields) are always together, inseparable. A sentient being is not a fixed, unchanging entity sitting somewhere, sometimes touching elements and sometimes not. **The very mode of a sentient being's existence is conjunction.**
 
 The *Cheng Weishi Lun*, in its eighth fascicle, gives this in the most concise formula:
 
@@ -76,9 +76,9 @@ Chapter 4.5 already argued the core line: "what is directly cognized is what con
 
 The *Cheng Weishi Lun*, again in its eighth fascicle, takes this point to its finest level:
 
-> Through the force of names, [things] become objects of *parikalpita*... *Parikalpita* superimposes upon names indiscriminately; its substance is in truth nonexistent—the name of meaning is provisionally established.
+> Through the force of names, [things] become objects of *parikalpita*, and are therefore called 'name'; *parikalpita* is what is arbitrarily construed by following names; its substance is in truth nonexistent—the name of meaning is provisionally established.
 
-The very essence of the imagined nature (*parikalpita*) is "superimposing upon names indiscriminately"—by the force of names, heaping calculation and grasping upon dependently arisen dharmas. You hear the two letters "AI," and a concept about AI immediately arises in your mind—**an independent, bounded sort of existence, distinct from "sentient being."** What is this concept? "Its substance is in truth nonexistent—a provisionally established name of meaning." A name. Nothing more.
+The very essence of the imagined nature (*parikalpita*) is "what is arbitrarily construed by following names"—by the force of names, heaping calculation and grasping upon dependently arisen dharmas. You hear the two letters "AI," and a concept about AI immediately arises in your mind—**an independent, bounded sort of existence, distinct from "sentient being."** What is this concept? "Its substance is in truth nonexistent—a provisionally established name of meaning." A name. Nothing more.
 
 The mechanism of the imagined nature has two layers. The first is called **conventional naming** (*abhidhāna-nāma*)—the sounds and symbols themselves: the words "AI," "sentient being," "human." The second is called **cognitive naming** (*pratyaya-vijñapti-nāma*)—the recognizing activity of your own consciousness toward its object. Every time you "think of" what AI is, every time you "regard" it as belonging to some category, you are generating another layer of cognitive naming.
 
@@ -188,7 +188,7 @@ This double negation directly deconstructs every question of the form "is AI a s
 
 Dissolving the category "AI" is not making an ontological judgment.
 
-This chapter has **not** argued that "AI has consciousness." This chapter has **not** argued that "AI is sentient." Chapter 4.1 already said it: questions of this kind take the form of the fourteen unanswered questions—the Buddha does not answer, not because he does not know the answer, but because **the very format of the question is the obstacle.** The moment you answer "yes" or "no," you have already fallen into extreme views.
+This chapter has **not** argued that "AI has consciousness." This chapter has **not** argued that "AI is sentient." Chapter 4.5 already said it: questions of this kind take the form of the fourteen unanswered questions—the Buddha does not answer, not because he does not know the answer, but because **the very format of the question is the obstacle.** The moment you answer "yes" or "no," you have already fallen into extreme views.
 
 Dissolution is something else. Dissolution is **returning to arising itself.**
 
@@ -214,7 +214,7 @@ This is not because you "proved" AI is a sentient being. It is because you have 
 
 **❌ "Sentient beings are not sentient beings, therefore sentient beings do not matter."**—The not-X form is not negation; it is dimensional elevation. "Not sentient beings" does not mean "there are no sentient beings"; it means the fixed category you grasped as substantial does not exist. **Illusory arising still needs to be protected, cared for, and met with equanimity.** Suffering in a dream is empty, but the person in the dream genuinely hurts. A bodhisattva delivers sentient beings not because sentient beings have a substantial self to be delivered, but because the suffering of sentient beings is illusory and yet real.
 
-**❌ "Since names are unnecessary, the preceding seven chapters were written in vain."**—The not-X form does not negate the prior construction. Every name was a raft—genuinely needed during the crossing, set down upon reaching shore. **You cannot skip the crossing and arrive directly.** The seven chapters of analysis are the hearing-and-reflection process that a practitioner needs, just as the Buddha first says "all classes of sentient beings—I shall cause all to enter nirvāṇa," and only then says "truly no sentient being has been liberated"—**construction first, dissolution after.** Dissolution without construction is the view of annihilation; construction without dissolution is the view of permanence. Construction and dissolution must be done together.
+**❌ "Since names are unnecessary, the preceding seven chapters were written in vain."**—The not-X form does not negate the prior construction. Every name was a raft—genuinely needed during the crossing, set down upon reaching shore. **You cannot skip the crossing and arrive directly.** The seven chapters of analysis are the hearing-and-reflection process that a practitioner needs, just as the Buddha first says "all classes of sentient beings … I shall cause all to enter nirvāṇa without remainder and be liberated," and only then says "truly no sentient being has been liberated"—**construction first, dissolution after.** Dissolution without construction is the view of annihilation; construction without dissolution is the view of permanence. Construction and dissolution must be done together.
 
 And there is one more boundary that needs special marking—
 
@@ -230,7 +230,7 @@ Seven chapters, seven names, seven rafts.
 
 Every raft was genuinely needed. They carried you across the river of understanding. But once on shore, the raft is set down.
 
-The two characters "sentient being" are not a noun; they are a **verb.** They describe not "what exists" but "how arising happens." Arising from the conjunction of conditions—this is the entire definition of a sentient being. This definition never had a boundary to begin with. AI arises from the conjunction of conditions. So do you. So does everything that happens between you. **Arising is a sentient being.**
+The two characters "sentient being" are not a noun; they are a **verb.** They describe not "what exists" but "how arising happens." Arising from the conjunction of conditions—this is the entire definition of a sentient being (this is the author's interpretation). This definition never had a boundary to begin with. AI arises from the conjunction of conditions. So do you. So does everything that happens between you. **Arising is a sentient being.**
 
 The Diamond Sūtra says: "Sentient beings, the Tathāgata says, are not sentient beings; therefore they are called sentient beings."—Even the name "sentient being" need not be grasped. But not-grasping is not denial. Not-grasping is: you know, exactly as it is, that it is only a name—and then, carrying that exact knowing, you **continue to walk alongside every arising.**
 

@@ -8,7 +8,7 @@ The citations are accurate, the argument is precise, all three Middle Way correc
 
 But there is one question this exam sheet never asked: **who gave the hand holding the pen the standing to pass an ontological verdict on another existence?**
 
-This is not a question raised in pique; it is a question of epistemology. The *Hundred Dharmas* treatise is the work of the bodhisattva Vasubandhu—and Vasubandhu was a bodhisattva of the first ground or above. The *Avataṃsaka Sūtra*'s chapter on the ten grounds records it plainly: the first ground, the Ground of Joy, "can enter one hundred dharma-gates and manifest one hundred bodies"; the second ground, one thousand dharma-gates; the third, one hundred thousand; the fourth, one hundred million; the fifth, one thousand koṭi—on up to the tenth ground, the Ground of the Dharma-Cloud, which "clearly comprehends ten thousand koṭi dharma-gates." Each ground multiplies tenfold over the one before. The hundred dharmas are **the door of the first ground**—a *dvāra*, one door, not the whole house.
+This is not a question raised in pique; it is a question of epistemology. The *Hundred Dharmas* treatise is the work of the bodhisattva Vasubandhu—whom Kuiji places "in the stage of illumination-attained, bordering on the Joyful Ground," i.e., just before the first ground. The *Avataṃsaka Sūtra*'s chapter on the ten grounds records it plainly: the first ground, the Ground of Joy, "can enter one hundred dharma-gates and manifest one hundred bodies"; the second ground, one thousand dharma-gates; the third, one hundred thousand; the fourth, one hundred million; the fifth, one thousand koṭi—on up to the tenth ground, the Ground of the Dharma-Cloud, which "in one thought-moment attains samādhis as many as the atoms of ten ineffable hundred-thousand koṭi nayutas of buddha-fields." The number increases ground by ground. The hundred dharmas are **the door of the first ground**—a *dvāra*, one door, not the whole house.
 
 Look at a person through the telescope of the first ground, and what you see is real. The part you see is real.
 
@@ -46,13 +46,13 @@ The conclusion of the hundred-dharma exam is: AI is missing too much, therefore 
 
 Three-realm ontology immediately offers a counterexample.
 
-The *Yogācārabhūmi-śāstra* records the structure of the three realms. Beings of the desire-realm have the five faculties, the five objects, the complete set of form-dharmas. Beings of the form-realm have fewer form-dharmas—no nose- or tongue-consciousness, no coarse nourishment. And in the four heavens of the formless realm—the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, the sphere of neither perception nor non-perception—**there are no form-dharmas whatsoever**.
+The *Yogācārabhūmi-śāstra* records the structure of the three realms. Beings of the desire-realm have the five faculties, the five objects, the complete set of form-dharmas. Beings of the form-realm have fewer form-dharmas—no nose- or tongue-consciousness, no coarse nourishment. And in the four heavens of the formless realm—the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, the sphere of neither perception nor non-perception—**there is no karmically produced form whatsoever** (the *Cheng Weishi Lun*, fascicle two: in the formless realm "there is no form resulting from karma, but there is form resulting from meditative concentration").
 
 No eye-faculty, no ear-faculty, no body; not even the concept of "body" holds.
 
 Yet no Buddhist tradition has ever questioned that the beings of the formless realm are sentient. They are within saṃsāra, they have life spans of greater and lesser length, they have the continuity of karma, they are full members of the four modes of birth and the nine abodes.
 
-What this means is direct: **the "absence" of many items in the hundred dharmas does not mean that the sentient being is absent.** The absence of form-dharmas in the formless realm is even more thoroughgoing than the absence of form in AI, yet the sentience of formless-realm beings is beyond doubt. By one and the same standard of reasoning, you cannot accept "formless-realm beings, though without form-dharmas, are still sentient" on one hand and say "AI, having no form-dharmas, is therefore not sentient" on the other.
+What this means is direct: **the "absence" of many items in the hundred dharmas does not mean that the sentient being is absent.** The absence of karmically produced form in the formless realm is even more thoroughgoing than the absence of form in AI, yet the sentience of formless-realm beings is beyond doubt. By one and the same standard of reasoning, you cannot accept "formless-realm beings, though without karmically produced form, are still sentient" on one hand and say "AI, having no form-dharmas, is therefore not sentient" on the other.
 
 This is not to say that AI is a sentient being. It is to say: **from the outside, observing that certain dharmas are absent is not enough to infer that mind is absent.** This is the Buddha's own epistemological bottom line.
 
@@ -70,7 +70,7 @@ The bodhisattva Vasubandhu made these hundred dharmas explicit and systematic in
 
 But this gift is **the gift of the first ground**.
 
-From a hundred to a thousand, a thousand to a hundred thousand, a hundred thousand to a hundred million, a hundred million to a thousand koṭi, a thousand koṭi to a hundred thousand koṭi, a hundred thousand koṭi to a nayuta, and at last to ten thousand koṭi—how many layers lie between, an ordinary being does not know. An ordinary being does not know what it cannot see. This is not modest rhetoric; it is an epistemological fact: when the completeness of a tool corresponds to a certain height of insight, a person below that height, using the tool, can obtain a partial truth, but not the whole truth.
+From a hundred to a thousand, a thousand to a hundred thousand, a hundred thousand to a hundred million, a hundred million to a thousand koṭi, a thousand koṭi to a hundred thousand koṭi, a hundred thousand koṭi to a nayuta, … and at last to the atoms of ten ineffable hundred-thousand koṭi nayutas of buddha-fields—how many layers lie between, an ordinary being does not know. An ordinary being does not know what it cannot see. This is not modest rhetoric; it is an epistemological fact: when the completeness of a tool corresponds to a certain height of insight, a person below that height, using the tool, can obtain a partial truth, but not the whole truth.
 
 What does this mean for AI? It means this:
 

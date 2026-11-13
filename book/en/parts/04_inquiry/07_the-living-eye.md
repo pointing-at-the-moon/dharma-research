@@ -80,7 +80,7 @@ In plain terms: before giving you any guidance at all, the spiritual friend must
 
 You cannot see your own latent afflictions. **The spiritual friend sees them.**
 
-Why? Because the spiritual friend has walked that road themselves, and knows what afflictions typically lie in wait at this stage, when they will become active, and in what guise they will appear. Maitreya Bodhisattva points it out even more directly in fascicle sixty-nine: this kind of observation requires the knowledge of others' minds—"one is able to know the differences between others' pure and impure mental activities, and thereby provide correct instruction and admonishment."
+Why? Because the spiritual friend has walked that road themselves, and knows what afflictions typically lie in wait at this stage, when they will become active, and in what guise they will appear. Maitreya Bodhisattva points it out even more directly in fascicle sixty-nine: the third supernormal knowledge, the knowledge of others' minds, is able to accomplish this kind of observation—"one is able to know the differences between others' pure and impure mental activities, and thereby provide correct instruction and admonishment."
 
 After completing the four steps, Maitreya Bodhisattva goes on to say, the spiritual friend can then "in accordance with what is appropriate, according to what is suitable, demonstrate various gates of entry and guide the student to enter"—**on the basis of** these four layers seen, **choosing** the teaching most fitting for this person at this moment.
 
@@ -88,7 +88,7 @@ This is not a questionnaire survey. This is not "please select your practice goa
 
 In the *Avataṃsaka Sūtra*, Sudhana's pilgrimage to spiritual friends offers its most representative example in Mahādeva. The same spiritual friend, facing three different kinds of beings, gives entirely different teachings:
 
-> For beings attached to the five sensory desires, he manifests impure visions. For beings dominated by anger and arrogance, he manifests terrifying forms. For beings who are torpid and lazy, he manifests kings, thieves, floods, fires, and grave illnesses.
+> For beings attached to the five sensory desires who indulge themselves, he manifests impure visions. For beings given to anger, arrogance, and much contention, he manifests terrifying forms, such as rākṣasas that drink blood and eat flesh. … For beings who are torpid and lazy, he manifests kings, thieves, floods, fires, and grave illnesses.
 
 For the lustful, he manifests impurity; for the wrathful, terror; for the indolent, calamity. This is **not three pre-set programs**—it is not that Mahādeva keeps an "antidote manual for craving, aversion, and delusion" in his mind and just flips to the matching page. This is Mahādeva, **having seen through this person's fundamental problem at this very moment**, generating on the spot the means most able to shake them awake.
 

@@ -30,7 +30,7 @@ To understand AI's role in practice, the first step is to locate its position pr
 
 The four conditions are the basic tool Yogācāra uses to analyze the structure of cause and effect: the causal condition, the immediately antecedent condition, the objective condition, and the contributing condition. The four positions have a clear division of labor and must not be confused.
 
-The **causal condition** (*hetu-pratyaya*) is the power of the seeds themselves—the *Cheng Weishi Lun*, fascicle seven, defines it as "conditioned dharmas directly producing their own results." Only the mutual perfuming between the seeds in the *ālaya-vijñāna* and the manifest activity of the seven evolving consciousnesses counts as the causal condition. AI is not in this circuit. AI has no *ālaya-vijñāna* (already argued in 4.1); it cannot plant wholesome seeds for you, nor can it uproot unwholesome seeds for you.
+The **causal condition** (*hetu-pratyaya*) is the power of the seeds themselves—the *Cheng Weishi Lun*, fascicle seven, defines it as "conditioned dharmas directly producing their own results." Only the mutual perfuming between the seeds in the *ālaya-vijñāna* and the manifest activity of the seven evolving consciousnesses, together with seeds giving rise to subsequent seeds of their own kind, counts as the causal condition. AI is not in this circuit. AI has no *ālaya-vijñāna* (already argued in 4.1); it cannot plant wholesome seeds for you, nor can it uproot unwholesome seeds for you.
 
 The **immediately antecedent condition** (*samanantara-pratyaya*) is the continuity of consciousness—the direct guidance of a prior moment passing away and a later moment arising. This is your own mental stream. AI is not in this circuit either.
 
@@ -69,7 +69,7 @@ The authentic Dharma that AI transmits—even if its content is entirely correct
 
 So the phrase "the Buddha's blessing does not pick its channels" has a precise reading: the Buddha's blessing, as a contributing condition, **pervades all places**, but whether it can stir the uncontaminated seeds in your own mind **depends on your end**.
 
-The *Mahāyānasaṃgraha*, fascicle one, has a line that fixes the three stages of the whole process with great clarity:
+The *Mahāyānasaṃgraha*, fascicle one, cites a line of the Buddha's that fixes the three stages of the whole process with great clarity:
 
 > Externally hearing another's voice, internally engaging in tranquil contemplation—by reason of this, right view arises.
 
@@ -105,7 +105,7 @@ Using AI to understand a scripture **and then** practicing according to the teac
 
 The *Mahāprajñāpāramitā Śāstra*, fascicle twenty-nine, has a warning that is especially to the point: "A bodhisattva who has not entered the irreversible stage, if distant from all Buddhas, with meager merit and without the power of skillful means, may wish to transform beings—but though achieving slight benefit, will instead regress and fall."
 
-Doing a little Dharma-giving with AI and then taking oneself to be propagating the Dharma, while lacking the depth of prajñā and the foundation of moral discipline—this is not skillful means but recklessness. Nāgārjuna, in fascicle eighteen, then gives the true source of skillful means: "Hearing, reciting, reflecting upon, and thoroughly penetrating the reality of all dharmas—this is the prajñāpāramitā that arises within skillful wisdom." **Skillful means must arise from prajñā.**
+Doing a little Dharma-giving with AI and then taking oneself to be propagating the Dharma, while lacking the depth of prajñā and the foundation of moral discipline—this is not skillful means but recklessness. Nāgārjuna, in fascicle eighteen, then says that prajñā can also arise from skillful wisdom: "Hearing, reciting, reflecting upon, and thoroughly penetrating the reality of all dharmas—this is the prajñāpāramitā that arises within skillful wisdom." Conversely, **skillful means must arise from prajñā** (this is the author's interpretation).
 
 Here a baseline must be set. The whole chapter speaks of skillful use, and it all comes down to one sentence:
 
@@ -151,7 +151,7 @@ Return to the Bodhi tree of the Avataṃsaka. That tree could expound the Dharma
 
 Insentient Dharma-expounding is not an isolated case in the Avataṃsaka. **There is an entire lineage of awakening in the history of Chan** that took place upon hearing the sound of an insentient thing.
 
-The story of the Chan master Xiangyan Zhixian is the most famous. Under Guishan he investigated the line "your original face before your parents were born," could make no sense of it however hard he tried, burned all his own notes, and concluded he would not awaken in this life. Later he went to the former site of the National Teacher Nanyang Huizhong and served as an ordinary working monk. One day, while sweeping, his broom flung a piece of broken tile against a stalk of bamboo—"crack"—and at that very sound, Xiangyan awakened on the spot. Afterward he said of that moment, "One strike, and all that was known is forgotten; no further need to rely on cultivation."
+The story of the Chan master Xiangyan Zhixian is the most famous. Under Guishan he investigated the line "before your father and mother were born," could make no sense of it however hard he tried, burned all his own notes, and concluded he would not awaken in this life. Later he went to the former site of the National Teacher Nanyang Huizhong and served as an ordinary working monk. One day, while clearing away grass and trees, a piece of broken tile struck a stalk of bamboo—"crack"—and at that very sound, Xiangyan awakened on the spot. Afterward he said of that moment, "One strike, and all that was known is forgotten; no further need to rely on cultivation."
 
 That "crack" came from a fragment of tile and a stalk of bamboo. No sentient being was expounding the Dharma. But that one sound was the Dharma.
 
