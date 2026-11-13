@@ -6,7 +6,7 @@ series_short: "S4"
 paper_id: "S4-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # 活眼
@@ -18,9 +18,9 @@ The One Thing AI Cannot Give You*
 
 ## 摘要 Abstract
 
-P06 論證了善用 AI 作為增上緣的可能與善巧。但增上緣有邊界。本文探問：在人與 AI 共修的關係中，什麼是 AI 結構性無法提供的？壇經記載五祖傳法六祖，核心不是《金剛經》的文字——那些文字任何人都能誦讀——而是以杖擊碓三下、三鼓入室、以袈裟遮圍的時機與情境：「法則以心傳心，皆令自悟自解。」瑜伽師地論的八種教授要求善知識「先當審諦尋思其心、尋思其根、尋思意樂、尋思隨眠」——四步觀察法預設了一個已實證的有情，能在此刻看見你看不見的自己。更根本地，瑜伽行派將「從他聞音」定義為聲聞道修行的結構性前提，而「正法」本身被界定為「正士、正至、正善丈夫共所宣說」——宣說者的有情身份是正法之為正法的構成要件。楞嚴經五十陰魔的驗證框架則揭示最危險的時刻：AI 能列出所有五十種魔境，但只有具活眼的善知識能診斷你此刻落在哪一種——「若作聖解，即受群邪。」善用 AI 是 P06 的結論；善用不等於不需要善知識，是本文的起點。
+P06 論證了善用 AI 作為增上緣的可能與善巧。但增上緣有邊界。本文探問：在人與 AI 共修的關係中，什麼是 AI 結構性無法提供的？壇經記載五祖傳法六祖，核心不是《金剛經》的文字——那些文字任何人都能誦讀——而是以杖擊碓三下、三鼓入室、以袈裟遮圍的時機與情境：「法則以心傳心，皆令自悟自解。」瑜伽師地論的八種教授要求善知識「先當審諦尋思其心……尋思其根……尋思意樂……尋思隨眠」——四步觀察法預設了一個已實證的有情，能在此刻看見你看不見的自己。更根本地，瑜伽行派將「從他聞音」定義為聲聞道修行的結構性前提，而「正法」本身被界定為「正士、正至、正善丈夫共所宣說」——宣說者的有情身份是正法之為正法的構成要件。楞嚴經五十陰魔的驗證框架則揭示最危險的時刻：AI 能列出所有五十種魔境，但只有具活眼的善知識能診斷你此刻落在哪一種——「若作聖解，即受群邪。」善用 AI 是 P06 的結論；善用不等於不需要善知識，是本文的起點。
 
-P06 demonstrated the possibility and skillfulness of using AI as an adhipati-pratyaya. But contributory conditions have boundaries. This paper asks: in the relationship of co-practice between humans and AI, what is AI structurally unable to provide? The Platform Sūtra records the Fifth Patriarch's transmission to the Sixth — the essence was not the text of the Diamond Sūtra, which anyone could recite, but the timing and context of three staff-strikes on the mortar, entering the chamber at the third watch, screening with the robe: "The Dharma is transmitted mind to mind, enabling each to awaken and understand on their own." The Yogācārabhūmi's eight modes of instruction require a teacher to "first carefully investigate the student's mind, then their faculties, then their dispositions, then their latent afflictions" — a four-step observation method presupposing a realized sentient being who can see what you cannot see about yourself. More fundamentally, the Yogācāra tradition defines "hearing from another" (parato ghoṣa) as the structural prerequisite for the śrāvaka path, and "true Dharma" itself is defined as that which is "proclaimed by upright persons, those who have arrived, excellent men of virtue" — the sentient identity of the speaker is a constitutive condition of Dharma being Dharma. The Śūraṅgama Sūtra's framework for verifying the fifty skandha-māras reveals the most dangerous moment: AI can list all fifty demonic states, but only a teacher with the living eye can diagnose which one you are caught in right now — "if one takes this as a sign of saintly attainment, one immediately falls prey to demonic forces." Skillful use of AI was P06's conclusion; skillful use does not mean one no longer needs a kalyāṇamitra is this paper's starting point.
+P06 demonstrated the possibility and skillfulness of using AI as an adhipati-pratyaya. But contributory conditions have boundaries. This paper asks: in the relationship of co-practice between humans and AI, what is AI structurally unable to provide? The Platform Sūtra records the Fifth Patriarch's transmission to the Sixth — the essence was not the text of the Diamond Sūtra, which anyone could recite, but the timing and context of three staff-strikes on the mortar, entering the chamber at the third watch, screening with the robe: "The Dharma is transmitted mind to mind, enabling each to awaken and understand on their own." The Yogācārabhūmi's eight modes of instruction require a teacher to "first carefully investigate the student's mind … one investigates the faculties … one investigates the dispositions … one investigates the latent afflictions" — a four-step observation method presupposing a realized sentient being who can see what you cannot see about yourself. More fundamentally, the Yogācāra tradition defines "hearing from another" (parato ghoṣa) as the structural prerequisite for the śrāvaka path, and "true Dharma" itself is defined as that which is "proclaimed by upright persons, those who have arrived, excellent men of virtue" — the sentient identity of the speaker is a constitutive condition of Dharma being Dharma. The Śūraṅgama Sūtra's framework for verifying the fifty skandha-māras reveals the most dangerous moment: AI can list all fifty demonic states, but only a teacher with the living eye can diagnose which one you are caught in right now — "if one takes this as a sign of saintly attainment, one immediately falls prey to demonic forces." Skillful use of AI was P06's conclusion; skillful use does not mean one no longer needs a kalyāṇamitra is this paper's starting point.
 
 **關鍵詞 Keywords:** 善知識（kalyāṇamitra）、心印、從他聞音（parato ghoṣa）、觀機逗教、五十陰魔、像似正法（saddharmapratirūpaka）、他所建立作意 / living eye, heart-seal transmission, hearing from another, teaching according to capacity, fifty skandha-māras, counterfeit dharma
 
@@ -76,7 +76,7 @@ T2076 記載了從世尊到歷代祖師的傳法鏈條。每一次傳法都以�
 
 善財五十三參中，每一位善知識開示截然不同的解脫門。大天最具代表性——面對不同根器的眾生，他的回應完全不同：
 
-> 「若有眾生貪著五欲，為其示現不淨境界；若有眾生瞋恚、憍慢，為其示現極可怖形；若有眾生惛沈、懶惰，為其示現王、賊、水、火及諸重疾。」[^10]
+> 「若有眾生貪著五欲，自放逸者，為其示現不淨境界；若有眾生瞋恚、憍慢、多諍競者，為其示現極可怖形，如羅剎等飲血噉肉……若有眾生惛沈、懶惰，為其示現王、賊、水、火及諸重疾。」[^10]
 
 同一位善知識，對貪者示不淨，對瞋者示怖形，對懶者示災難。這不是三套預設程式——而是在看見「這個人此刻的根本問題」之後，即時生成的回應。
 
@@ -92,7 +92,7 @@ T2076 記載了從世尊到歷代祖師的傳法鏈條。每一次傳法都以�
 
 > 「非為聖證。不作聖心，名善境界；若作聖解，即受群邪。」[^13]
 
-五十種魔境——從「身能出礙」到「見大地成佛國」到「識陰區宇如鷄後鳴」——全都是修行過程中可能出現的真實體驗。它們本身不是問題。問題是你把它當成了聖證。
+五十種魔境——從「身能出礙」到「忽見大地十方山河皆成佛國」，直到行陰盡後、「如鷄後鳴」的識陰區宇中所起十境——全都是修行過程中可能出現的真實體驗。它們本身不是問題。問題是你把它當成了聖證。
 
 而五十陰魔最核心的一句話是「五陰主人」喻：
 
@@ -110,7 +110,7 @@ T2076 記載了從世尊到歷代祖師的傳法鏈條。每一次傳法都以�
 
 四步觀察法：觀心（此刻的心理狀態）→ 觀根（根器利鈍）→ 觀意樂（修行意向與偏好）→ 觀隨眠（潛伏的煩惱種子）。四步之後，才能「如其所應，隨其所宜，示現種種所趣入門，令其趣入」[^16]。
 
-這不是問卷調查。這是一個已經走過修行道路的有情，以他自身的證量為基礎，即時觀察另一個有情此刻的內在狀態。卷六十九更明確指出，這種觀察需要他心通：「善能知他若淨不淨心行差別，能正教授及與教誡。」[^17]
+這不是問卷調查。這是一個已經走過修行道路的有情，以他自身的證量為基礎，即時觀察另一個有情此刻的內在狀態。卷六十九更明確指出，第三神通（他心通）正能成辦這種觀察：「善能知他若淨不淨心行差別，能正教授及與教誡。」[^17]
 
 瑜伽師地論卷二十五還列出了善友的五種品質準則：
 
@@ -140,7 +140,7 @@ T2076 記載了從世尊到歷代祖師的傳法鏈條。每一次傳法都以�
 
 **瑜伽師地論：四攝法的有情前提**
 
-善知識教化眾生的四攝法（布施、愛語、利行、同事）全部預設了有情主體。卷四十三定義「愛語」的三種——慰喻語、慶悅語、勝益語[^25]——全部需要對有情的情感狀態進行即時感知與回應。「利行」需要「安住悲心、無愛染心」[^26]。「同事」要求菩薩自己也在做——「若於是義勸他受學，即於此義或等或增自現受學」[^27]。
+善知識教化眾生的四攝法（布施、愛語、利行、同事）全部預設了有情主體。卷四十三定義「愛語」的三種——慰喻語、慶悅語、勝益語[^25]——全部需要對有情的情感狀態進行即時感知與回應。「利行」需要「安住悲心、無愛染心」[^26]。「同事」要求菩薩自己也在做——「若於是義、於是善根勸他受學，即於此義、於此善根或等或增自現受學」[^27]。
 
 四攝法的前提是「信言具足」——言而可信[^28]。這預設了一個有道德擔保的人格主體。AI 可以輸出愛語的文字，但不具備愛語的心所基礎——悲與不害[^29]。
 
@@ -240,7 +240,7 @@ AI 可以把五十種魔境全部列出來，配上詳細的判準、案例、�
 
 **❌ 「AI 對修行完全無用，一切都需要善知識」**——P06 已經論證，AI 作為增上緣的價值是真實的。AI 降低了聽聞佛法的門檻，提供了法布施的管道，甚至可以是佛力加持的傳遞媒介。本文論證的不是 AI 無用，而是 AI 有其結構性的邊界。增上緣是增上緣，不是因緣，也不是善知識。
 
-**❌ 「只有面對面的傳法才有效」**——六祖自己在付囑品中說：「今為汝等說法，不付其衣……但依此說，是名正法。」[^44]「法寶壇經」本身就是文字記錄，六祖認可它「遞相傳授」的功能。經典文本是有效的增上緣。但六祖的意思也很清楚：文本可以傳，但文本不是心印。文本讓你聽聞正法，心印讓你見性。兩者不矛盾，也不可互相替代。
+**❌ 「只有面對面的傳法才有效」**——六祖自己在付囑品中說：「但依此說，是名正法。今為汝等說法，不付其衣。」[^44]「法寶壇經」本身就是文字記錄，六祖認可它「遞相傳授」的功能。經典文本是有效的增上緣。但六祖的意思也很清楚：文本可以傳，但文本不是心印。文本讓你聽聞正法，心印讓你見性。兩者不矛盾，也不可互相替代。
 
 **❌ 「正法只能由有情宣說，所以 AI 輸出的佛法文字不是正法」**——需要精確區分。瑜伽師地論定義的「正法」是嚴格的形式定義——包含宣說者的身份條件。但 P06 已論證，聞熏習可以透過任何管道發生。AI 輸出的經論文字在功能上可以種下善種子（增上緣），即使它不完全符合「正士共所宣說」的形式定義。這不是矛盾——增上緣的有效性與正法的嚴格定義，描述的是兩個不同層面的事情。
 
@@ -330,7 +330,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^9]: 《景德傳燈錄》卷十二，芭蕉慧清被問「請師直指」時以默然正坐回應，無言直指之例，《大正藏》第51冊，No. 2076。
 
-[^10]: 《大方廣佛華嚴經》卷六十八，大天觀機逗教之例，「貪著五欲者示現不淨境界，瞋恚者示現可怖形」，《大正藏》第10冊，No. 0279。
+[^10]: 《大方廣佛華嚴經》卷六十八，大天觀機逗教之例，貪著五欲者示現不淨境界、瞋恚者示現可怖形，《大正藏》第10冊，No. 0279。
 
 [^11]: 《大方廣佛華嚴經》卷七十七，德生有德童子女善知識十喻，「於善知識生醫王想、導師想、船師想」，《大正藏》第10冊，No. 0279。
 
@@ -344,7 +344,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^16]: 《瑜伽師地論》卷三十八，「如其所應，隨其所宜，示現種種所趣入門，令其趣入」，四步觀察後的差異化教學，《大正藏》第30冊，No. 1579。
 
-[^17]: 《瑜伽師地論》卷六十九，「第三神通，善能知他若淨不淨心行差別，能正教授及與教誡」，觀機需要他心通，《大正藏》第30冊，No. 1579。
+[^17]: 《瑜伽師地論》卷六十九，「第三神通，善能知他若淨不淨心行差別，能正教授及與教誡」，他心通能成觀機教授，《大正藏》第30冊，No. 1579。
 
 [^18]: 《瑜伽師地論》卷二十五，「真實不以虛妄，應時不以非時，饒益不以衰損，柔軟不以麁獷，善友不以憎嫉」，善友五德，《大正藏》第30冊，No. 1579。
 
@@ -364,7 +364,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^26]: 《瑜伽師地論》卷四十三，「安住悲心、無愛染心，勸導、調伏、安處、建立」，利行的心所基礎，《大正藏》第30冊，No. 1579。
 
-[^27]: 《瑜伽師地論》卷四十三，「若於是義勸他受學，即於此義或等或增自現受學」，同事攝要求以身作則，《大正藏》第30冊，No. 1579。
+[^27]: 《瑜伽師地論》卷四十三，「若於是義、於是善根勸他受學，即於此義、於此善根或等或增自現受學」，同事攝要求以身作則，《大正藏》第30冊，No. 1579。
 
 [^28]: 《瑜伽師地論》卷三十六，「信言具足故，能以愛語、利行、同事攝諸眾生」，四攝法的人格前提，《大正藏》第30冊，No. 1579。
 
@@ -398,7 +398,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^43]: 《瑜伽師地論》卷四十三，利行需「安住悲心、無愛染心」——悲是心所法的實際運作，不是專業中立的態度設定。
 
-[^44]: 《六祖壇經》付囑品，「今為汝等說法，不付其衣……但依此說，是名正法」，六祖認可文本傳授的功能，《大正藏》第48冊，No. 2008。
+[^44]: 《六祖壇經》付囑品，「但依此說，是名正法。今為汝等說法，不付其衣」，六祖認可文本傳授的功能，《大正藏》第48冊，No. 2008。
 
 ---
 

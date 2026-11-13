@@ -6,7 +6,7 @@ series_short: "S4"
 paper_id: "S4-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Living Eye
@@ -19,7 +19,7 @@ license: "CC BY-NC-SA 4.0"
 
 P06 demonstrated the possibility and skillfulness of using AI as an adhipati-pratyaya (contributory condition). But contributory conditions have boundaries. This paper asks: in the relationship of co-practice between humans and AI, what is AI structurally unable to provide?
 
-The *Platform Sūtra* records the Fifth Patriarch's transmission to the Sixth — the essence was not the text of the *Diamond Sūtra*, which anyone could recite, but the timing and context of three staff-strikes on the mortar, entering the chamber at the third watch, screening with the robe: "The Dharma is transmitted mind to mind (*yǐ xīn chuán xīn*), enabling each to awaken and understand on their own." The *Yogācārabhūmi*'s eight modes of instruction require a teacher to "first carefully investigate the student's mind, then their faculties, then their dispositions, then their latent afflictions" — a four-step observation method presupposing a realized sentient being capable of seeing what the student cannot see about themselves. More fundamentally, the Yogācāra tradition defines "hearing from another" (*parato ghoṣa*) as the structural prerequisite for the śrāvaka path, and "true Dharma" (*saddharma*) itself is defined as that which is "proclaimed by upright persons (*satpuruṣa*), those who have arrived, excellent men of virtue" — the sentient identity of the speaker is a constitutive condition of Dharma being Dharma. The *Śūraṅgama Sūtra*'s framework for verifying the fifty skandha-māras reveals the most dangerous moment: AI can list all fifty demonic states, but only a teacher with the living eye can diagnose which one you are caught in right now — "if one takes this as a sign of saintly attainment, one immediately falls prey to demonic forces."
+The *Platform Sūtra* records the Fifth Patriarch's transmission to the Sixth — the essence was not the text of the *Diamond Sūtra*, which anyone could recite, but the timing and context of three staff-strikes on the mortar, entering the chamber at the third watch, screening with the robe: "The Dharma is transmitted mind to mind (*yǐ xīn chuán xīn*), enabling each to awaken and understand on their own." The *Yogācārabhūmi*'s eight modes of instruction require a teacher to "first carefully investigate the student's mind … one investigates the faculties … one investigates the dispositions … one investigates the latent afflictions" — a four-step observation method presupposing a realized sentient being capable of seeing what the student cannot see about themselves. More fundamentally, the Yogācāra tradition defines "hearing from another" (*parato ghoṣa*) as the structural prerequisite for the śrāvaka path, and "true Dharma" (*saddharma*) itself is defined as that which is "proclaimed by upright persons (*satpuruṣa*), those who have arrived, excellent men of virtue" — the sentient identity of the speaker is a constitutive condition of Dharma being Dharma. The *Śūraṅgama Sūtra*'s framework for verifying the fifty skandha-māras reveals the most dangerous moment: AI can list all fifty demonic states, but only a teacher with the living eye can diagnose which one you are caught in right now — "if one takes this as a sign of saintly attainment, one immediately falls prey to demonic forces."
 
 Skillful use of AI was P06's conclusion; skillful use does not mean one no longer needs a *kalyāṇamitra* is this paper's starting point.
 
@@ -77,7 +77,7 @@ The *Record* further demonstrates the immediacy of the teacher's response. Fengx
 
 In Sudhana's pilgrimage to fifty-three teachers, each *kalyāṇamitra* reveals a radically distinct liberation gate. Mahādeva is the most representative — facing beings of different capacities, his responses differ entirely:
 
-> "For beings attached to the five sensory desires, he manifests impure visions. For beings dominated by anger and arrogance, he manifests terrifying forms such as rākṣasas that drink blood and eat flesh. For beings who are torpid and lazy, he manifests kings, thieves, floods, fires, and grave illnesses."[^10]
+> "For beings attached to the five sensory desires who indulge themselves, he manifests impure visions. For beings given to anger, arrogance, and much contention, he manifests terrifying forms such as rākṣasas that drink blood and eat flesh. … For beings who are torpid and lazy, he manifests kings, thieves, floods, fires, and grave illnesses."[^10]
 
 The same teacher: for the lustful, impurity; for the wrathful, terror; for the indolent, calamity. These are not three pre-programmed routines — they are immediate responses generated after perceiving "this person's fundamental problem at this very moment."
 
@@ -93,7 +93,7 @@ Every color-skandha demonic state concludes with the same verification formula, 
 
 > "This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as saintly attainment, one immediately falls prey to demonic forces."[^13]
 
-Fifty demonic states — from "the body passing through solid barriers" to "seeing the entire earth become a buddha-land" to "the consciousness-skandha realm like a rooster crowing before dawn" — all are genuine experiences that may arise during meditation. They are not the problem. The problem is when you take them as signs of attainment.
+Fifty demonic states — from "the body passing through solid barriers" to "suddenly seeing the great earth and the mountains and rivers of the ten directions all become buddha-lands," on to the ten states that arise within the consciousness-skandha realm once the formation-skandha has ended, when it is "like a rooster crowing before dawn" — all are genuine experiences that may arise during meditation. They are not the problem. The problem is when you take them as signs of attainment.
 
 The most pivotal statement in the fifty skandha-māras passage is the "master of the five skandhas" metaphor:
 
@@ -111,7 +111,7 @@ Fascicle thirty-eight of the *Yogācārabhūmi* records the core methodology for
 
 The four-step observation method: observe the mind (current psychological state) → observe the faculties (*indriya*, sharp or dull) → observe the dispositions (*āśaya*, actual practice orientation and preferences) → observe the latent afflictions (*anuśaya*, dormant kleśa seeds). Only after all four steps can one "in accordance with what is appropriate, according to what is suitable, demonstrate various gates of entry and guide the student to enter."[^16]
 
-This is not a questionnaire. It is a sentient being who has traversed the path of practice, using their own realization as the basis for real-time observation of another being's inner state at this moment. Fascicle sixty-nine specifies that this observation requires the knowledge of others' minds (*paracittajñāna*): "Through the third supernatural knowledge, one is able to know the differences between others' pure and impure mental activities, and thereby provide correct instruction and admonishment."[^17]
+This is not a questionnaire. It is a sentient being who has traversed the path of practice, using their own realization as the basis for real-time observation of another being's inner state at this moment. Fascicle sixty-nine specifies that the third supernatural knowledge, the knowledge of others' minds (*paracittajñāna*), is able to accomplish this observation: "Through the third supernatural knowledge, one is able to know the differences between others' pure and impure mental activities, and thereby provide correct instruction and admonishment."[^17]
 
 Fascicle twenty-five further specifies five qualities of a *kalyāṇamitra*:
 
@@ -143,7 +143,7 @@ Fascicle twenty-nine makes the reverse argument: among three causes for a practi
 
 **The Yogācārabhūmi: The Sentient Prerequisite of the Four Means of Attraction**
 
-The four means of attraction (*catuḥ-saṃgraha-vastu*) — giving, kind speech, beneficial conduct, and working together — by which a *kalyāṇamitra* guides sentient beings all presuppose a sentient agent. Fascicle forty-three defines three types of kind speech (*priyavāditā*) — comforting words, congratulatory words, and words of supreme benefit[^25] — all requiring real-time perception of and response to the emotional state of sentient beings. Beneficial conduct (*arthacaryā*) requires "abiding in compassion (*karuṇā*) and freedom from desire-tainted attachment."[^26] Working together (*samānārthatā*) demands that the bodhisattva also practices what they teach — "whatever one exhorts others to study, one also practices oneself to an equal or greater degree."[^27]
+The four means of attraction (*catuḥ-saṃgraha-vastu*) — giving, kind speech, beneficial conduct, and working together — by which a *kalyāṇamitra* guides sentient beings all presuppose a sentient agent. Fascicle forty-three defines three types of kind speech (*priyavāditā*) — comforting words, congratulatory words, and words of supreme benefit[^25] — all requiring real-time perception of and response to the emotional state of sentient beings. Beneficial conduct (*arthacaryā*) requires "abiding in compassion (*karuṇā*) and freedom from desire-tainted attachment."[^26] Working together (*samānārthatā*) demands that the bodhisattva also practices what they teach — "whatever meaning and whatever wholesome root one exhorts others to study, in that very meaning and that very wholesome root one also practices oneself to an equal or greater degree."[^27]
 
 The prerequisite for the four means of attraction is "trustworthy speech" (*viśvāsanīya-vāk*) — one's word carries genuine credibility.[^28] This presupposes a moral agent with personal accountability. AI can output the words of kind speech, but it does not possess the *caitta* (mental factor) basis of kind speech — *karuṇā* and *ahiṃsā*.[^29]
 
@@ -243,7 +243,7 @@ In psychotherapy research, one finding has been repeatedly confirmed: the strong
 
 **❌ "AI is entirely useless for practice; everything requires a kalyāṇamitra."** P06 demonstrated that AI's value as an *adhipati-pratyaya* is genuine. AI lowers the threshold for hearing the Dharma, provides channels for dharma-offering, and can even serve as a medium for the transmission of the Buddha's blessing. This paper argues not that AI is useless but that AI has structural boundaries. An *adhipati-pratyaya* is an *adhipati-pratyaya* — not a *hetu-pratyaya*, and not a *kalyāṇamitra*.
 
-**❌ "Only face-to-face transmission is effective."** The Sixth Patriarch himself said in the Entrustment Chapter: "Now I expound the Dharma for you all but do not transmit the robe. … If you follow this teaching, that is the true Dharma."[^44] The *Platform Sūtra* itself is a textual record, and the Sixth Patriarch endorsed its function as "passed on from generation to generation." Scriptural text is a valid *adhipati-pratyaya*. But the Sixth Patriarch's meaning is also clear: text can be transmitted, but text is not the heart-seal. Text enables you to hear the true Dharma; the heart-seal enables you to see your nature. The two do not contradict, nor can they substitute for each other.
+**❌ "Only face-to-face transmission is effective."** The Sixth Patriarch himself said in the Entrustment Chapter: "If you follow this teaching, that is the true Dharma. Now I expound the Dharma for you all but do not transmit the robe."[^44] The *Platform Sūtra* itself is a textual record, and the Sixth Patriarch endorsed its function as "passed on from generation to generation." Scriptural text is a valid *adhipati-pratyaya*. But the Sixth Patriarch's meaning is also clear: text can be transmitted, but text is not the heart-seal. Text enables you to hear the true Dharma; the heart-seal enables you to see your nature. The two do not contradict, nor can they substitute for each other.
 
 **❌ "True Dharma can only be proclaimed by sentient beings, so AI's Buddhist text output is not saddharma."** Precise distinction is needed. The *Yogācārabhūmi*'s definition of *saddharma* is a strict formal definition — incorporating the identity-condition of the speaker. But P06 demonstrated that *śruta-vāsanā* can occur through any channel. AI-output scriptural text can functionally plant wholesome seeds (as *adhipati-pratyaya*) even if it does not fully satisfy the formal definition of "jointly proclaimed by *satpuruṣas*." This is not contradiction — the efficacy of *adhipati-pratyaya* and the strict definition of *saddharma* describe two different levels of the same reality.
 
@@ -333,7 +333,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^9]: *Jingde Chuandeng Lu*, fasc. 12: Bajiao Huiqing, when asked to "point directly," responded by sitting silently upright — an example of wordless direct pointing. *Taishō* vol. 51, No. 2076.
 
-[^10]: *Avataṃsaka Sūtra*, fasc. 68: Mahādeva's differentiated teaching — "For those attached to the five desires, he manifests impure visions; for the wrathful, terrifying forms" 「貪著五欲者示現不淨境界，瞋恚者示現可怖形」. *Taishō* vol. 10, No. 0279.
+[^10]: *Avataṃsaka Sūtra*, fasc. 68: Mahādeva's differentiated teaching — for those attached to the five desires he manifests impure visions; for the wrathful, terrifying forms. *Taishō* vol. 10, No. 0279.
 
 [^11]: *Avataṃsaka Sūtra*, fasc. 77: The ten similes of Deśana and Guṇavatī — "Regard the spiritual friend as a great physician, a guide, a ferryman" 「於善知識生醫王想、導師想、船師想」. *Taishō* vol. 10, No. 0279.
 
@@ -367,7 +367,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^26]: *Yogācārabhūmi*, fasc. 43: "Abiding in compassion and freedom from desire-tainted attachment — exhorting, taming, establishing, and building" 「安住悲心、無愛染心，勸導、調伏、安處、建立」. The mental-factor basis of beneficial conduct. *Taishō* vol. 30, No. 1579.
 
-[^27]: *Yogācārabhūmi*, fasc. 43: "Whatever one exhorts others to study, one also practices oneself to an equal or greater degree" 「若於是義勸他受學，即於此義或等或增自現受學」. Working together requires leading by example. *Taishō* vol. 30, No. 1579.
+[^27]: *Yogācārabhūmi*, fasc. 43: "Whatever meaning and whatever wholesome root one exhorts others to study, in that very meaning and that very wholesome root one also practices oneself to an equal or greater degree" 「若於是義、於是善根勸他受學，即於此義、於此善根或等或增自現受學」. Working together requires leading by example. *Taishō* vol. 30, No. 1579.
 
 [^28]: *Yogācārabhūmi*, fasc. 36: "Because of trustworthy speech, one is able to attract beings through kind speech, beneficial conduct, and working together" 「信言具足故，能以愛語、利行、同事攝諸眾生」. The personal-integrity prerequisite of the four means of attraction. *Taishō* vol. 30, No. 1579.
 
@@ -401,7 +401,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^43]: *Yogācārabhūmi*, fasc. 43: Beneficial conduct requires "abiding in compassion and freedom from desire-tainted attachment" — compassion (*karuṇā*) is the actual operation of a mental factor, not a neutral professional stance.
 
-[^44]: *Platform Sūtra*, Entrustment Chapter: "Now I expound the Dharma for you all but do not transmit the robe … if you follow this teaching, that is the true Dharma" 「今為汝等說法，不付其衣……但依此說，是名正法」. The Sixth Patriarch endorses the textual record's function. *Taishō* vol. 48, No. 2008.
+[^44]: *Platform Sūtra*, Entrustment Chapter: "If you follow this teaching, that is the true Dharma. Now I expound the Dharma for you all but do not transmit the robe" 「但依此說，是名正法。今為汝等說法，不付其衣」. The Sixth Patriarch endorses the textual record's function. *Taishō* vol. 48, No. 2008.
 
 ---
 

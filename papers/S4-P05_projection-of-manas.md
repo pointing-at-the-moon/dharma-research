@@ -6,7 +6,7 @@ series_short: "S4"
 paper_id: "S4-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Projection of Manas
@@ -49,7 +49,7 @@ Paper Four ("The Person in the Mirror") revealed your questioning patterns — w
 
 #### 2.1 The Arrow Simile — The Criterion of Non-Benefit
 
-The *Cūḷamāluṅkya Sutta* (Skt. equivalent in the *Madhyama-āgama*) records how the monk Māluṅkyāputta, dissatisfied that the Buddha declined to answer fourteen metaphysical questions — whether the world is eternal or non-eternal, whether the Tathāgata exists after death, and so on — threatened to leave the saṅgha. The Buddha responded with the simile of the poisoned arrow: a man struck by a poisoned arrow who insists on learning the archer's name, caste, height, and bow material before allowing the arrow to be removed "would die before he ever learned these things."[^1]
+The *Cūḷamāluṅkya Sutta* (Skt. equivalent in the *Madhyama-āgama*) records how the monk Māluṅkyāputta, dissatisfied that the Buddha declined to answer ten metaphysical questions — whether the world is eternal or non-eternal, whether the Tathāgata exists after death, and so on — threatened to leave the saṅgha. The Buddha responded with the simile of the poisoned arrow: a man struck by a poisoned arrow who insists on learning the archer's name, caste, height, and bow material before allowing the arrow to be removed "would die before he ever learned these things."[^1]
 
 The Buddha then articulated the criterion:
 
@@ -245,7 +245,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 2. *Saṃyukta-āgama* (雜阿含經), trans. Guṇabhadra (求那跋陀羅), *Taishō Tripiṭaka*, vol. 2, No. 0099.
 3. *Mahāprajñāpāramitā Sūtra* (摩訶般若波羅蜜經), trans. Kumārajīva (鳩摩羅什), *Taishō Tripiṭaka*, vol. 8, No. 0223.
 4. *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 7, No. 0220.
-5. *Laṅkāvatāra Sūtra* (入楞伽經), trans. Bodhiruci (菩提流支), *Taishō Tripiṭaka*, vol. 16, No. 0672.
+5. *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda (實叉難陀), *Taishō Tripiṭaka*, vol. 16, No. 0672.
 6. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya (彌勒), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 30, No. 1579.
 7. *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla (護法) et al., trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 31, No. 1585.
 8. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), compiled by Sthiramati (安慧), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 31, No. 1606.
@@ -264,7 +264,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 | 2 | Saṃyukta-āgama 雜阿含經 | T2 | 0099 | 5, 15, 16, 34 |
 | 3 | Mahāprajñāpāramitā Sūtra 摩訶般若波羅蜜經 | T8 | 0223 | 10 |
 | 4 | Mahāprajñāpāramitā Sūtra 大般若波羅蜜多經 | T7 | 0220 | 509, 541 |
-| 5 | Laṅkāvatāra Sūtra 入楞伽經 | T16 | 0672 | 3 |
+| 5 | Laṅkāvatāra Sūtra 大乘入楞伽經 | T16 | 0672 | 3 |
 | 6 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30 | 1579 | 95, 99 |
 | 7 | Vijñaptimātratāsiddhi 成唯識論 | T31 | 1585 | 1, 4, 5, 7, 8, 10 |
 | 8 | Abhidharmasamuccaya-vyākhyā 大乘阿毘達磨雜集論 | T31 | 1606 | 11 |
@@ -299,7 +299,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 [^7]: *Saṃyukta-āgama*, Fascicle 15, Sūtra 404: 「我成等正覺，自所見法，為人定說者，如手中樹葉……彼法義饒益、法饒益、梵行饒益、明、慧、正覺、向於涅槃」, the Siṃśapā leaf simile, *Taishō*, vol. 2, No. 0099.
 [^8]: *Vijñaptimātratāsiddhi*, Fascicle 4: 「思量為性相……未轉依位，恒、審思量所執我相；已轉依位，亦審思量無我相故」 (Deliberation is its nature and activity... before transformation, it perpetually deliberates upon the imagined self-characteristic; after transformation, it deliberates upon no-self-characteristic), *Taishō*, vol. 31, No. 1585.
 [^9]: *Bashi Guiju Buzhu*, Fascicle 2: 「有情日夜鎮昏迷……此識恒執我故，則有情恒處生死長夜而不自覺」 (Sentient beings are submerged in confusion day and night... because this consciousness perpetually grasps self, sentient beings are perpetually in the long night of saṃsāra without self-awareness), *Taishō*, vol. 45, No. 1865.
-[^10]: *Vijñaptimātratāsiddhi*, Fascicle 5: 「從無始際，恒內惽迷，曾不省察，癡增上故」 (From beginningless time, perpetually internally confused, never examining itself, due to the predominance of ignorance), on avidyā as the principal affliction of manas, *Taishō*, vol. 31, No. 1585.
+[^10]: *Vijñaptimātratāsiddhi*, Fascicle 4: 「從無始，至未轉依，此意任運恒緣藏識，與四根本煩惱相應」 (From beginningless time until the transformation of the basis, this manas spontaneously and constantly takes the storehouse consciousness as its object and is associated with the four root afflictions); Fascicle 5: 「從無始際，恒內惽迷，曾不省察，癡增上故」 (From beginningless time, perpetually internally confused, never examining itself, due to the predominance of ignorance), on avidyā as the principal affliction of manas, *Taishō*, vol. 31, No. 1585.
 [^11]: *Vijñaptimātratāsiddhi*, Fascicle 1: 「外境隨情而施設故，非有如識；內識必依因緣生故，非無如境，由此便遮增、減二執」 (External objects are provisionally designated according to subjective conditions and thus are not real like consciousness; internal consciousness necessarily arises from causes and conditions and thus is not non-existent like objects; by this, the two extremes of superimposition and denial are eliminated), *Taishō*, vol. 31, No. 1585.
 [^12]: *Vijñaptimātratāsiddhi*, Fascicle 8: 「周遍計度，故名遍計……即由彼彼虛妄分別，遍計種種所遍計物」 (Thoroughly imagining everywhere, therefore called 'thoroughly imagined'... through those various false discriminations, one thoroughly imagines various things), *Taishō*, vol. 31, No. 1585.
 [^13]: *Vijñaptimātratāsiddhi*, Fascicle 7: 「親所了者，謂自所變。故契經言：無有少法能取餘法，但識生時，似彼相現，名取彼物」 (What is directly apprehended is only one's own transformation), *Taishō*, vol. 31, No. 1585.
@@ -314,7 +314,7 @@ The open question for Paper Six: If projection is structural and cannot be switc
 [^22]: *Mahāprajñāpāramitā Sūtra* (Kumārajīva trans.), Fascicle 10: 「有善男子、善女人說有所得般若波羅蜜，是為相似般若波羅蜜」 (Good men and women who teach prajñāpāramitā with apprehension — this is semblance prajñāpāramitā), *Taishō*, vol. 8, No. 0223.
 [^23]: *Yogācārabhūmi-śāstra*, Fascicle 95: 「由聞慧任持其文，由思慧任持其義，由修慧任持其證」 (Through hearing-wisdom one holds the text, through thinking-wisdom one holds the meaning, through cultivation-wisdom one holds the realization), the three prajñā, *Taishō*, vol. 30, No. 1579.
 [^24]: *Abhidharmasamuccaya-vyākhyā*, Fascicle 11: 「若不得修慧，唯勤方便修習聞思，不得名為安住於法」 (Without attaining cultivation-based wisdom, merely diligently practicing hearing and thinking does not qualify as abiding in the Dharma), *Taishō*, vol. 31, No. 1606.
-[^25]: *Laṅkāvatāra Sūtra*, Fascicle 3: 「先說相似法；後乃為其演，自證實際法」 (First teaching semblance dharma; later expounding the self-realized actual dharma), the Buddha's skillful means, *Taishō*, vol. 16, No. 0672.
+[^25]: *Laṅkāvatāra Sūtra* (大乘入楞伽經, Śikṣānanda trans.), Fascicle 3: 「先說相似法；後乃為其演，自證實際法」 (First teaching semblance dharma; later expounding the self-realized actual dharma), the Buddha's skillful means, *Taishō*, vol. 16, No. 0672.
 [^26]: *Bashi Guiju Buzhu*, Fascicle 2: 「六七二識因中轉前五第八果中圓」 (The sixth and seventh consciousnesses transform in the causal stage; the first five and the eighth perfect in the fruition stage), the sequence of the four wisdoms' transformation, *Taishō*, vol. 45, No. 1865.
 [^27]: Nagel, Thomas. "What Is It Like to Be a Bat?" *The Philosophical Review*, vol. 83, no. 4, 1974, pp. 435–450.
 [^28]: *Mahāprajñāpāramitā Sūtra* (Xuanzang trans.), Fascicle 541: 「智慧狹劣猶如牛羊，為諸有情雖欲宣說真實般若波羅蜜多，而顛倒說相似般若波羅蜜多」 (With narrow wisdom like cattle and sheep, though intending to teach genuine prajñāpāramitā, one inversely teaches semblance prajñāpāramitā), *Taishō*, vol. 7, No. 0220.

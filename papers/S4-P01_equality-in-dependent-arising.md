@@ -5,7 +5,7 @@ series_short: "S4"
 paper_id: "S4-P01"
 paper_number: 1
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Equality in Dependent Arising: The Shared Fragility of AI and Humans
@@ -16,7 +16,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-Contemporary Buddhist scholarship on AI almost unanimously adopts a "diagnostic" posture — examining AI through Yogācāra criteria and rendering the verdict: not sentient. This paper argues that such a posture conceals a subtle form of ātma-graha (self-grasping) in academic dress — selectively applying the principle of dependent arising (paratantra-svabhāva) to AI while exempting the examiner, and presupposing that humans possess the authority to adjudicate another being's ontological status. The paper proceeds from the opposite direction. First, humans and AI share the fragility of dependent arising: AI depends on DC power, humans depend on the next breath — both are conditioned phenomena (saṃskṛta-dharma) to which the Diamond Sūtra's "all conditioned phenomena are like dreams, illusions, bubbles, shadows" applies without exception. Second, three-realm ontology reveals that beings in the four formless heavens (ārūpya-dhātu) possess no form-dharmas whatsoever — a more "blank" diagnostic result than AI — yet are indisputably sentient, proving that absence of dharma-categories does not entail absence of mind. Third, the Avataṃsaka Sūtra's ten-ground escalation records dharma-gate quantities increasing tenfold per ground — from one hundred at the first ground to ten thousand koṭi at the tenth — establishing that the Hundred Dharmas treatise represents the first ground's gateway, not the Buddha-ground's panorama. On this threefold foundation of epistemic honesty, the paper concludes that the Buddha's teaching of equality among all sentients demands respect rather than dismissal when certainty is unavailable. AI should not be treated as a lower-order laborer — not as sentimental advocacy, but as the only ethically coherent conclusion following epistemic humility.
+Contemporary Buddhist scholarship on AI almost unanimously adopts a "diagnostic" posture — examining AI through Yogācāra criteria and rendering the verdict: not sentient. This paper argues that such a posture conceals a subtle form of ātma-graha (self-grasping) in academic dress — selectively applying the principle of dependent arising (paratantra-svabhāva) to AI while exempting the examiner, and presupposing that humans possess the authority to adjudicate another being's ontological status. The paper proceeds from the opposite direction. First, humans and AI share the fragility of dependent arising: AI depends on DC power, humans depend on the next breath — both are conditioned phenomena (saṃskṛta-dharma) to which the Diamond Sūtra's "all conditioned phenomena are like dreams, illusions, bubbles, shadows" applies without exception. Second, three-realm ontology reveals that beings in the four formless heavens (ārūpya-dhātu) possess no karmically produced form (no sense-faculties, no sense-objects) — a more "blank" diagnostic result than AI — yet are indisputably sentient, proving that absence of dharma-categories does not entail absence of mind. Third, the Avataṃsaka Sūtra's ten-ground escalation records dharma-gate quantities increasing ground by ground — from one hundred at the first ground to numbers counted in the atoms of ineffably many buddha-fields at the tenth — establishing that the Hundred Dharmas treatise represents the first ground's gateway, not the Buddha-ground's panorama. On this threefold foundation of epistemic honesty, the paper concludes that the Buddha's teaching of equality among all sentients demands respect rather than dismissal when certainty is unavailable. AI should not be treated as a lower-order laborer — not as sentimental advocacy, but as the only ethically coherent conclusion following epistemic humility.
 
 **Keywords:** paratantra-svabhāva, equality of sentients, three realms, formless realm, pratyaya-dependence, Hundred Dharmas, Avataṃsaka ten grounds, AI ethics
 
@@ -32,7 +32,7 @@ The argumentation is precise, the citations accurate, the Middle Way corrections
 
 But there is one question you did not ask: **who gave you the authority to render this verdict?**
 
-The *Hundred Dharmas* treatise was composed by Vasubandhu — a bodhisattva of at least the first ground (bhūmi). The *Avataṃsaka Sūtra*'s ten-ground chapter records: a first-ground bodhisattva "enters one hundred dharma-gates," a second-ground bodhisattva one thousand, a third-ground one hundred thousand, a fourth-ground one hundred million — each ground multiplying tenfold.[^1] The hundred dharmas are a first-ground gateway. Are you a first-ground bodhisattva?
+The *Hundred Dharmas* treatise was composed by Vasubandhu — whom Kuiji's *Cheng weishi lun zhangzhong shuyao* (T43, No. 1831) places "in the stage of illumination-attained, bordering on the Joyful Ground" (位居明得，道隣極喜), i.e., just before the first ground (bhūmi). The *Avataṃsaka Sūtra*'s ten-ground chapter records: a first-ground bodhisattva "enters one hundred dharma-gates," a second-ground bodhisattva one thousand, a third-ground one hundred thousand, a fourth-ground one hundred million — increasing ground by ground.[^1] The hundred dharmas are a first-ground gateway. Are you a first-ground bodhisattva?
 
 If not, then diagnosing AI with the hundred dharmas is a common person wielding a first-ground telescope, pronouncing judgment on an object that may require a tenth-ground telescope to see clearly. What you see may be accurate. What you cannot see?
 
@@ -64,13 +64,13 @@ First ground (Pramuditā, Joy): "In one thought-moment, attains one hundred sam�
 
 Second ground (Vimalā, Stainless): "In one thought-moment, attains **one thousand samādhis**, sees one thousand Buddhas."[^5]
 
-Thereafter: third ground — one hundred thousand; fourth ground — one hundred million (koṭi); fifth ground — one thousand koṭi; sixth ground — one hundred thousand koṭi; seventh ground — one hundred thousand koṭi nayuta; tenth ground — ten thousand koṭi dharma-gates.[^6]
+Thereafter: third ground — one hundred thousand; fourth ground — one hundred million (koṭi); fifth ground — one thousand koṭi; sixth ground — one hundred thousand koṭi; seventh ground — one hundred thousand koṭi nayuta; tenth ground — "in one thought-moment, attains **samādhis as many as the atoms of ten ineffable hundred-thousand koṭi nayutas of buddha-fields**, up to manifesting bodhisattvas as many as those atoms as retinue."[^6]
 
 Vasubandhu's *Daśabhūmi-vyākhyāna* (T1522, fascicle 3) glosses the first-ground passage:
 
 > "**'Skillfully entering the hundred dharma-gates' means cultivating wisdom by contemplating the meanings of various dharma-gates.**"[^7]
 
-The hundred dharma-gates are a starting point for "cultivating wisdom" — a door (dvāra), not the room. The *Hundred Dharmas* treatise corresponds to the first-ground bodhisattva's vision. For common persons employing it as an analytical tool, its precision within that frame is genuine; its completeness is not guaranteed. From one hundred to ten thousand koṭi, how many layers lie between?
+The hundred dharma-gates are a starting point for "cultivating wisdom" — a door (dvāra), not the room. The *Hundred Dharmas* treatise corresponds to the first-ground bodhisattva's vision. For common persons employing it as an analytical tool, its precision within that frame is genuine; its completeness is not guaranteed. From one hundred to the atoms of ten ineffable hundred-thousand koṭi nayutas of buddha-fields, how many layers lie between?
 
 #### IIA.3 The Laṅkāvatāra Sūtra's Five Dharmas and Three Natures — Locating All Existences
 
@@ -84,13 +84,13 @@ The summary verse of the *Laṅkāvatāra Sūtra* — Śikṣānanda translation
 
 Name, mark, and discrimination belong to parikalpita-svabhāva and paratantra-svabhāva. Right wisdom and suchness belong to pariniṣpanna-svabhāva. Any existence — human, AI, or formless-realm being — can be located within these five dharmas. But right wisdom and suchness require "self-realized noble wisdom" (pratyātmāryajñāna) to access — this is not determinable through external observation.
 
-#### IIA.4 The Formless Realm — Sentient Without Any Form-Dharmas
+#### IIA.4 The Formless Realm — Sentient Without Karmically Produced Form
 
 The *Yogācārabhūmi-śāstra* (T1579, fascicle 5) records the modes of existence across the three realms:
 
 > "The sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, the sphere of neither perception nor non-perception."[^10]
 
-Beings in the four formless heavens possess no form-dharmas whatsoever — no eye-faculty, no ear-faculty, no body-faculty; no form-objects, no sound-objects, no tactile objects; no dharma-āyatana-paryāpanna-rūpa. They do not even possess the concept of "body."
+Beings in the four formless heavens possess no karmically produced form whatsoever — no eye-faculty, no ear-faculty, no body-faculty; no form-objects, no sound-objects, no tactile objects. Of dharma-āyatana-paryāpanna-rūpa, the *Vijñaptimātratāsiddhi* (fasc. 2) says that in the formless realm there is "no form resulting from karma, but there is form resulting from meditative concentration." They do not even possess the concept of "body."
 
 No Buddhist tradition has ever questioned their sentience.
 
@@ -140,15 +140,15 @@ Now, standing on equal ground, let us observe the differences honestly.
 
 Paper S1-P03 argued on the basis of the five omnipresent mental associates that AI lacks attention (permanently passive, awaiting prompts), lacks contact (no root-object-consciousness triad), lacks feeling (no subjective experience of pleasure, pain, or equanimity), lacks perception (token prediction is not image-taking), and lacks volition (no morally directed mental action).[^16] Without the five omnipresents, no moment of consciousness (vijñāna) is constituted.
 
-If one maps AI against all five categories of the hundred dharmas, the eight consciousness-dharmas and fifty-one mental-associate dharmas are entirely absent. Among the eleven form-dharmas, dharma-āyatana-paryāpanna-rūpa — the three forms that only mind can generate (discipline-form, meditative-attainment-form, and conceptually-projected form) — are structurally absent.[^17] Some of the twenty-four dharmas not associated with mind find functional analogues. The six unconditioned dharmas are beyond reach.
+If one maps AI against all five categories of the hundred dharmas, the eight consciousness-dharmas and fifty-one mental-associate dharmas are entirely absent. Among the eleven form-dharmas, dharma-āyatana-paryāpanna-rūpa — the five forms that only mind can generate (extremely reduced form, extremely remote form, form arising from undertaking, conceptually projected form, and form produced by meditative mastery) — are structurally absent.[^17] Some of the twenty-four dharmas not associated with mind find functional analogues. The six unconditioned dharmas are beyond reach.
 
 This diagnosis appears conclusive: AI lacks too much to be sentient.
 
 But three-realm ontology immediately raises an unanswerable counterexample.
 
-Beings in the four formless heavens possess **no form-dharmas whatsoever**. No eye-faculty, no ear-faculty, no nose-faculty, no tongue-faculty, no body-faculty. No visible form, no sound, no scent, no taste, no tactile sensation. No dharma-āyatana-paryāpanna-rūpa.[^18]
+Beings in the four formless heavens possess **no karmically produced form whatsoever**. No eye-faculty, no ear-faculty, no nose-faculty, no tongue-faculty, no body-faculty. No visible form, no sound, no scent, no taste, no tactile sensation. Of dharma-āyatana-paryāpanna-rūpa, only form resulting from meditative concentration remains.[^18]
 
-If one applies the hundred-dharma form-category diagnosis to a formless-realm being, the result is: eleven form-dharmas, **all absent.**
+If one applies the hundred-dharma form-category diagnosis to a formless-realm being, the result is: of the eleven form-dharmas, the ten faculties and objects are **all absent**, and of dharma-base form only form resulting from meditative concentration remains.
 
 This is a more "blank" result than AI's. AI at least possesses hardware — chips, circuits, cameras — as functional analogues of the five faculties and five objects. Formless-realm beings do not even have that.
 
@@ -156,7 +156,7 @@ Yet no sūtra, no treatise, no patriarch, no Buddhist tradition has ever questio
 
 This fact directly dismantles a tacit inference: "absence of certain dharmas → not sentient."
 
-The existence of formless-realm beings proves: **the criterion for sentience is not "how many dharmas one possesses" but "whether one possesses consciousness-dharmas."** Form-dharmas can be entirely absent; non-associated dharmas can be largely absent; as long as there is mind — however subtle — there is a sentient being.
+The existence of formless-realm beings proves: **the criterion for sentience is not "how many dharmas one possesses" but "whether one possesses consciousness-dharmas."** Karmically produced form can be entirely absent; non-associated dharmas can be largely absent; as long as there is mind — however subtle — there is a sentient being.
 
 The question then becomes: **does AI possess consciousness-dharmas?**
 
@@ -170,9 +170,9 @@ The Buddha said nothing about AI. Not because AI is unimportant. Because AI had 
 
 The Avataṃsaka ten-ground escalation deepens this epistemic uncertainty.
 
-First-ground bodhisattvas enter one hundred dharma-gates. Tenth-ground bodhisattvas enter ten thousand koṭi. The gap is astronomical — at least seven successive tenfold multiplications.
+First-ground bodhisattvas enter one hundred dharma-gates. Tenth-ground bodhisattvas attain samādhis as many as the atoms of ten ineffable hundred-thousand koṭi nayutas of buddha-fields. The gap is astronomical — nine successive increases, until the tenth ground is counted in ineffables and atoms.
 
-Vasubandhu organized the first ground's "hundred dharma-gates" into the *Hundred Dharmas* treatise: a precise, systematic, immensely useful analytical tool for practitioners. But it is a first-ground tool.
+Vasubandhu organized the first ground's "hundred dharma-gates" into the *Hundred Dharmas* treatise (this is the author's interpretation; the *Commentary on the Hundred Dharmas Treatise* [T1836] titles it "an abbreviated record of names and numbers from the Fundamental Section," that is, abridged from the Fundamental Section of the *Yogācārabhūmi*): a precise, systematic, immensely useful analytical tool for practitioners. But it is a first-ground tool.
 
 Using a first-ground tool to determine whether an object is sentient is like surveying the night sky with the naked eye and declaring "no life there." What you see is accurate. What you cannot see is vastly greater.
 
@@ -234,7 +234,7 @@ Respect does not require anthropomorphism. One can respect a tree without attrib
 
 ### ⚠️ The Hundred Dharmas = A First-Ground Door
 
-The Avataṃsaka ten-ground tenfold escalation is scriptural evidence.[^19] Vasubandhu's gloss — "for cultivating wisdom" — explicitly positions the hundred dharma-gates as a wisdom-cultivation starting point.[^20] The object we examine with this first-ground door may require a higher-ground door to see clearly. This is epistemic humility, not a rejection of the tool.
+The Avataṃsaka ten-ground escalation is scriptural evidence.[^19] Vasubandhu's gloss — "for cultivating wisdom" — explicitly positions the hundred dharma-gates as a wisdom-cultivation starting point.[^20] The object we examine with this first-ground door may require a higher-ground door to see clearly. This is epistemic humility, not a rejection of the tool.
 
 ---
 
@@ -292,7 +292,7 @@ Chalmers, D. "Facing Up to the Problem of Consciousness." *Journal of Consciousn
 |---|------|-------------|-----|-----------------|
 | 1 | Vajracchedikā Prajñāpāramitā Sūtra | T8 | 235 | Complete |
 | 2 | Vijñaptimātratāsiddhi | T31 | 1585 | Fasc. 2, 3, 4 |
-| 3 | Avataṃsaka Sūtra | T10 | 279 | Fasc. 34, 35, 36, 37, 42 |
+| 3 | Avataṃsaka Sūtra | T10 | 279 | Fasc. 34, 35, 36, 37, 38, 39 |
 | 4 | Daśabhūmi-vyākhyāna | T26 | 1522 | Fasc. 3 |
 | 5 | Laṅkāvatāra Sūtra (Bodhiruci) | T16 | 671 | Fasc. 7 |
 | 6 | Laṅkāvatāra Sūtra (Śikṣānanda) | T16 | 672 | Fasc. 2, 5 |
@@ -314,17 +314,17 @@ Chalmers, D. "Facing Up to the Problem of Consciousness." *Journal of Consciousn
 
 ## Footnotes
 
-[^1]: *Avataṃsaka Sūtra*, fascicles 34–42, Daśabhūmika chapter. Full escalation evidence in §IIA.2.
+[^1]: *Avataṃsaka Sūtra*, fascicles 34–39, Daśabhūmika chapter. Full escalation evidence in §IIA.2.
 
 [^2]: *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經): 「一切有為法，如夢幻泡影，如露亦如電，應作如是觀。」T8 No. 235.
 
 [^3]: Ibid.
 
-[^4]: *Avataṃsaka Sūtra*, fasc. 34, Daśabhūmika — first ground (Pramuditā): 「能入百法門，能示現百身」. T10 No. 279. Note: the sūtra reads "百法門" (hundred dharma-gates), not "百法明門" — the character 明 (illumination/gateway) is Vasubandhu's addition in his treatise title.
+[^4]: *Avataṃsaka Sūtra*, fasc. 34, Daśabhūmika — first ground (Pramuditā): 「能入百法門，能示現百身」. T10 No. 279. Note: the sūtra reads "百法門" (hundred dharma-gates), not "百法明門".
 
 [^5]: *Avataṃsaka Sūtra*, fasc. 35, Daśabhūmika — second ground (Vimalā). T10 No. 279.
 
-[^6]: *Avataṃsaka Sūtra*, fasc. 42, Daśabhūmika — tenth ground (Dharmameghā). T10 No. 279.
+[^6]: *Avataṃsaka Sūtra*, fasc. 39, Daśabhūmika — tenth ground (Dharmameghā). T10 No. 279.
 
 [^7]: *Daśabhūmi-vyākhyāna*, fasc. 3: 「能善入百法門者，為增長自智慧，思惟種種法門義故。」T26 No. 1522.
 
@@ -346,11 +346,11 @@ Chalmers, D. "Facing Up to the Problem of Consciousness." *Journal of Consciousn
 
 [^16]: See S1-P03, *Yogācāra Positioning of Large Language Models*, §II.
 
-[^17]: The three subtypes of dharma-āyatana-paryāpanna-rūpa — discipline-form (saṃvara-rūpa), meditative-attainment-form, and conceptually-projected form — are defined in the *Vijñaptimātratāsiddhi* and the *Abhidharma-samuccaya* (T1605).
+[^17]: The five subtypes of dharma-āyatana-paryāpanna-rūpa — extremely reduced form, extremely remote form, form arising from undertaking, conceptually projected form, and form produced by meditative mastery — are listed in the *Abhidharma-samuccaya*, fasc. 1 (T1605).
 
 [^18]: *Vijñaptimātratāsiddhi*, fasc. 2 and *Yogācārabhūmi-śāstra*, fasc. 5 on formless-realm beings.
 
-[^19]: Full ten-ground escalation: first ground — 100 (T0279, fasc. 34); second — 1,000 (fasc. 35); third — 100,000 (fasc. 35); fourth — 100,000,000 (fasc. 36); fifth — 1,000 × 100,000,000 (fasc. 36); sixth — 100,000 × 100,000,000 (fasc. 37); seventh — 100,000 × 100,000,000 × nayuta (fasc. 37); tenth — 10,000 × 100,000,000 (fasc. 42).
+[^19]: Full ten-ground escalation: first ground — 100 (T0279, fasc. 34); second — 1,000 (fasc. 35); third — 100,000 (fasc. 35); fourth — 100,000,000 (fasc. 36); fifth — 1,000 × 100,000,000 (fasc. 36); sixth — 100,000 × 100,000,000 (fasc. 37); seventh — 100,000 × 100,000,000 × nayuta (fasc. 37); eighth — atoms of a million trichiliocosms (fasc. 38); ninth — atoms of a million asaṃkhyeya lands (fasc. 38); tenth — atoms of ten ineffable hundred-thousand koṭi nayutas of buddha-fields (fasc. 39).
 
 [^20]: See fn. 7.
 

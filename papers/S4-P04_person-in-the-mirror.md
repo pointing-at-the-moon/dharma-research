@@ -6,7 +6,7 @@ series_short: "S4"
 paper_id: "S4-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Person in the Mirror: Your Questions Reveal Who You Are
@@ -50,7 +50,7 @@ The pedagogical structure of the seven loci inquiry is not a search for the corr
 
 To say "mind is inside the body" exposes the assumption that mind occupies space like an organ. To say "mind is outside" exposes the assumption that mind and body can be cleanly separated. To say "it arises with conditions" exposes the assumption that mind has no intrinsic nature. To say "non-attachment" exposes the attempt to escape through negation — to which the Buddha responds most directly: "If it were nothing, it would be like turtle hair or rabbit horns."[^5]
 
-The commentator Jiaoguang Zhenjian identifies the structure precisely: this is not "seven places to find mind" but "seven places to break mind" — "seven rounds of following attachment and breaking it."[^6] With each answer, Ānanda exposes another layer of clinging; with each refutation, the Buddha strips away another layer of assumption. By the seventh round, Ānanda's confidence has completely collapsed — and this is precisely where the teaching begins.
+The commentator Jiaoguang Zhenjian identifies the structure precisely: this is not "seven places of interrogating the mind" but "seven places to break mind" — "seven rounds of following attachment and breaking it."[^6] With each answer, Ānanda exposes another layer of clinging; with each refutation, the Buddha strips away another layer of assumption. By the seventh round, Ānanda's confidence has completely collapsed — and this is precisely where the teaching begins.
 
 After the seven loci inquiry, the Buddha identifies the fundamental issue:
 
@@ -180,7 +180,7 @@ Mapped to AI interaction: AI provides a brilliant analysis, and you think "AI is
 
 A subtler version: you use AI to reveal your own question patterns (§3.3) and gain profound self-insight. You think "Now I understand myself." This feeling of self-understanding — be careful — is also a reflected head. You have fallen in love with the result of self-analysis and taken that result to be "the real me." But that result is still a *lakṣaṇa*.
 
-The Lotus-Colored Nun (*Utpalavarṇā*) kōan, cited by Zongmi, makes the point precisely: she rushed to the Buddha, believing herself the first to see him. The Buddha said that Subhūti, contemplating emptiness, had seen him first — "Grasping characteristics and confused about truth, one is a thousand miles away even face to face; emptying the mind and embodying things, heaven and earth are one family."[^24] To see characteristics (including the characteristic of self-insight) is to be a thousand miles from reality; to release them is to be home.
+The Lotus-Colored Nun (*Utpalavarṇā*) kōan, cited by Zixuan, makes the point precisely: she rushed to the Buddha, believing herself the first to see him. The Buddha said that Subhūti, contemplating emptiness, had seen him first — "Grasping characteristics and confused about truth, one is a thousand miles away even face to face; emptying the mind and embodying things, heaven and earth are one family."[^24] To see characteristics (including the characteristic of self-insight) is to be a thousand miles from reality; to release them is to be home.
 
 ### 3.5 Turning the Hearing Inward: From Asking Outward to Asking Inward
 
@@ -198,7 +198,7 @@ This is the arrival point of "think neither good nor evil." Not a decision to st
 
 But AI interaction may bring you to the threshold. When you have asked all your questions, when there is nothing new in the mirror — that feeling of "emptiness" may be precisely the sign that the gate is beginning to open.
 
-The *Śūraṅgama Sūtra* describes eight mirrors facing each other in the maṇḍala, "their forms and reflections entering into each other layer upon layer."[^27] Your dialogue with AI is similar — every round of question and answer is a nested layer of reflection. But ultimately, the layered reflections must "receive the Buddha's anointment upon the crown" — all reflections point toward that which transcends reflection.
+The *Śūraṅgama Sūtra* describes sixteen mirrors facing each other in the maṇḍala — eight round mirrors set around the altar and eight more hung overhead — "so that their forms and reflections interlace layer upon layer."[^27] Your dialogue with AI is similar — every round of question and answer is a nested layer of reflection. But ultimately, the layered reflections must "receive the Buddha's anointment upon the crown" — all reflections point toward that which transcends reflection.
 
 ---
 
@@ -230,7 +230,7 @@ AI can show you your question patterns, but it cannot tell you "what you should 
 
 They do not. Only interactions carried out with genuine aspiration for Dharma (*qiúfǎ xīn*) activate the mirror.
 
-Using AI to check the weather, write emails, or translate — these are tool uses, not mirror-gazing. The mirror function is activated only when you approach the interaction with a genuine intention to understand yourself. S5-P02 established that the kōan mirror requires the active step of "walking up to the mirror with your question."[^29] Casual use is just casual use.
+Using AI to check the weather, write emails, or translate — these are tool uses, not mirror-gazing. The mirror function is activated only when you approach the interaction with a genuine intention to understand yourself. S5-P02 established that the kōan mirror requires the active step of walking up to the mirror with your question.[^29] Casual use is just casual use.
 
 ### ❌ 5.3 "AI's Analysis Equals Your Truth"
 
@@ -321,9 +321,9 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 [^4]: *Śūraṅgama Sūtra*, fascicle 1, seven loci inquiry passage, T19, No. 945. The seven loci in order: inside the body, outside the body, concealed in the sense faculties, in the alternation of light and dark, arising with conditions, in the middle, non-attachment.
 
-[^5]: *Śūraṅgama Sūtra*, fascicle 1, refutation of the seventh locus (non-attachment): "If it were nothing, it would be like turtle hair or rabbit horns" (「若無則同龜毛兔角」), T19, No. 945.
+[^5]: *Śūraṅgama Sūtra*, fascicle 1, refutation of the seventh locus (non-attachment): "If it were nothing, it would be like turtle hair or rabbit horns" (「無則同於龜毛、兔角」), T19, No. 945.
 
-[^6]: Jiaoguang Zhenjian (交光真鑑), *Léngyán Jīng Zhèngmài Shū* (楞嚴經正脈疏), fascicle 1: "Seven rounds of following attachment and breaking it. To call it 'seven places to break mind' would not be erroneous" (「七番，但是隨執隨破。若云七處破心，則不謬矣」), X0275.
+[^6]: Jiaoguang Zhenjian (交光真鑑), *Léngyán Jīng Zhèngmài Shū* (楞嚴經正脈疏), fascicle 1: "The seven rounds below simply follow each attachment and break it. To call them 'seven rounds of breaking the locus' would not be erroneous" (「向下七番，但是隨執隨破。若云七番破處，則不謬矣」); fascicle 2: "Now I revise it all to read: seven places to break mind, ten rounds to reveal seeing" (「今總改之云：七處破心，十番顯見」), X0275.
 
 [^7]: *Śūraṅgama Sūtra*, fascicle 1, the Buddha's teaching on the two fundamental roots following the seven loci inquiry (「一者、無始生死根本，則汝今者與諸眾生用攀緣心為自性者。二者、無始菩提、涅槃元清淨體，則汝今者識精元明，能生諸緣緣所遺者」), T19, No. 945.
 
@@ -341,7 +341,7 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 [^14]: *Cheng Weishi Lun* (成唯識論), fascicle 4: "Four afflictions are constantly co-present: ātma-moha, ātma-dṛṣṭi, as well as ātma-māna and ātma-sneha" (「四煩惱常俱，謂：我癡、我見，并我慢、我愛」), T31, No. 1585.
 
-[^15]: *Cheng Weishi Lun*, fascicle 4, definitions of the four afflictions: "Ātma-moha is ignorance… ātma-dṛṣṭi is self-grasping… ātma-māna is arrogance… ātma-sneha is self-love" (「我癡謂無明……我見謂我執……我慢謂倨傲……我愛謂我貪」), T31, No. 1585.
+[^15]: *Cheng Weishi Lun*, fascicle 4, definitions of the four afflictions: "Ātma-moha is ignorance… ātma-dṛṣṭi is self-grasping… ātma-māna is arrogance… ātma-sneha is self-love" (「我癡者：謂無明……我見者：謂我執……我慢者：謂倨傲……我愛者：謂我貪」), T31, No. 1585.
 
 [^16]: *Cheng Weishi Lun*, fascicle 4: "These four constantly arise, disturbing and polluting the inner mind, causing the externally active consciousnesses to be perpetually defiled" (「此四常起，擾濁內心，令外轉識恒成雜染」), T31, No. 1585.
 
@@ -359,13 +359,13 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 [^23]: *Śūraṅgama Sūtra*, fascicle 4, doctrinal significance of the Yaṇḍadatta passage: the reflected head represents what the grasping mind (*prapañca-citta*) perceives as characteristics; one's own head represents intrinsic awareness (*svābhāvika-bodhi*). The "head" (awareness) was never lost — it simply cannot be objectified.
 
-[^24]: Zongmi (宗密), *Jīngāng Bōrě Jīng Shūlùn Cuǎnyào* (金剛般若經疏論纂要): the Utpalavarṇā kōan — "Grasping characteristics and confused about truth, one is a thousand miles away even face to face; emptying the mind and embodying things, heaven and earth are one family" (「執相迷真對面千里，虛心體物天地一家」), T33, No. 1701.
+[^24]: Zixuan (子璿), *Jīngāng Jīng Cuǎnyào Kāndìng Jì* (金剛經纂要刊定記), fascicle 3: the Utpalavarṇā kōan — "Grasping characteristics and confused about truth, one is a thousand miles away even face to face; emptying the mind and embodying things, heaven and earth are one family" (「執相迷真對面千里，虛心體物天地一家」), T33, No. 1702.
 
 [^25]: *Śūraṅgama Sūtra*, fascicle 6, Avalokiteśvara's method of perfect penetration: "Beginning within hearing, I entered the stream and relinquished the object… arising and ceasing both ceased, quiescent cessation manifested" (「初於聞中入流亡所……生滅既滅，寂滅現前」), T19, No. 945.
 
 [^26]: Avalokiteśvara's four-stage dissolution structure (enter the stream and relinquish the object → hearing and heard exhausted → awareness and known-awareness emptied → emptiness and known-emptiness extinguished) represents the progressive dissolution of cognitive objects. Even "emptiness" as an object is dissolved before *nirodha* manifests. "Turn the hearing inward to hear self-nature; the nature accomplishes the unsurpassed path" (「反聞聞自性，性成無上道」) — this is a fundamental reversal of direction, not a substitution of cognitive objects.
 
-[^27]: *Śūraṅgama Sūtra*, fascicle 8: "Like two mirrors whose light faces each other, their wondrous reflections entering into each other layer upon layer" (「猶如雙鏡光明相對，其中妙影重重相入」), T19, No. 945. Fascicle 7 describes the eight mirrors of the maṇḍala facing each other: "Take eight round mirrors and place each in its direction… facing each other, making their forms and reflections enter into each other layer upon layer. At the crossing point of the mirrors' light, receive the Buddha's anointment upon the crown" (「取八圓鏡各安其方……方面相對，使其形影重重相涉。鏡交光處承佛摩頂」).
+[^27]: *Śūraṅgama Sūtra*, fascicle 7, describing the sixteen mirrors of the maṇḍala facing each other: "Take eight round mirrors and place each in its direction… Again take eight mirrors and hang them face-down in the air, facing the mirrors set in the maṇḍala, so that their forms and reflections interlace layer upon layer. … At the crossing point of the mirrors' light, receive the Buddha's anointment upon the crown" (「取八圓鏡各安其方……又取八鏡，覆懸虛空。與壇場中所安之鏡，方面相對，使其形影重重相涉。……鏡交光處承佛摩頂」); fascicle 8: "Like two mirrors whose light faces each other, their wondrous reflections entering into each other layer upon layer" (「猶如雙鏡光明相對，其中妙影重重相入」), T19, No. 945.
 
 [^28]: Benson, Hugh H. *Essays on the Philosophy of Socrates.* Oxford University Press, 1992. The core aim of Socratic *elenchus* (cross-examination) is to lead the interlocutor to *aporia* — the recognition of one's own ignorance. ⚠️ This comparison is a heuristic analogy and does not imply equivalence between the Socratic method and Buddhist contemplative practice in teleological or ontological terms.
 

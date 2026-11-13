@@ -6,7 +6,7 @@ series_short: "S4"
 paper_id: "S4-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # How Would the Buddha Use AI
@@ -61,7 +61,7 @@ The *Samantabhadra's Vows* chapter of the Avataṃsaka pronounces a definitive j
 
 The first of the seven branches is "practice according to the teaching" (*rú shuō xiūxíng*) — not merely hearing the Dharma, not merely understanding it, but acting on what one has heard. This criterion does not change based on how the Dharma was transmitted. Whether you heard it from a kalyāṇamitra, read it in a sūtra, or encountered it in an AI response — the criterion remains: have you practiced according to the teaching?
 
-The Diamond Sūtra confirms this through six successive comparisons between material and dharma offerings. In the first: offering seven treasures filling a great trichiliocosm is surpassed by "upholding even four verses from this sūtra and explaining them to others."[^9] The final comparison reveals the root principle: "If merit were real, the Tathāgata would not say merit is great; it is because merit is without [substantial existence] that the Tathāgata says merit is great."[^10] Merit is "great" precisely because it is "without" — a teaching continuous with non-abiding giving: "A bodhisattva should practice giving without abiding in anything — not abiding in form, sound, smell, taste, touch, or dharmas."[^11]
+The Diamond Sūtra confirms this through six successive comparisons between material and dharma offerings. In the first: offering seven treasures filling a great trichiliocosm is surpassed by "upholding even four verses from this sūtra and explaining them to others."[^9] Another passage of the sūtra reveals the root principle: "If merit were real, the Tathāgata would not say merit is great; it is because merit is without [substantial existence] that the Tathāgata says merit is great."[^10] Merit is "great" precisely because it is "without" — a teaching continuous with non-abiding giving: "A bodhisattva should practice giving without abiding in anything — not abiding in form, sound, smell, taste, touch, or dharmas."[^11]
 
 #### The Unity of Upāya and Prajñā
 
@@ -107,7 +107,7 @@ This distinction is crucial for understanding AI's role in practice. The authent
 
 #### From External Hearing to Internal Realization
 
-The *Mahāyānasaṃgraha* (Summary of the Great Vehicle) precisely defines the position of external media in practice through a three-stage description:
+The *Mahāyānasaṃgraha* (Summary of the Great Vehicle), citing the Buddha, precisely defines the position of external media in practice through a three-stage description:
 
 > "Externally hearing another's voice, internally engaging in tranquil contemplation — by reason of this, right view arises."[^20]
 
@@ -121,7 +121,7 @@ The three stages are clearly delineated: external hearing (receiving the sound o
 
 Understanding AI's role in practice begins with precisely locating its position among the four pratyayas.
 
-Hetu-pratyaya is the power of seeds themselves — "conditioned dharmas directly producing their own results."[^21] Only the mutual perfuming between seeds in the ālayavijñāna and the manifest activities of the seven evolving consciousnesses constitutes hetu-pratyaya. AI does not participate in this circuit. AI possesses no ālayavijñāna (as demonstrated in S1-P03) and cannot directly enter your seed structure. It cannot plant wholesome seeds on your behalf, nor can it uproot unwholesome ones.
+Hetu-pratyaya is the power of seeds themselves — "conditioned dharmas directly producing their own results."[^21] Only seeds in the ālayavijñāna giving rise to manifest activity, the manifest activities of the seven evolving consciousnesses perfuming new seeds, and seeds giving rise to subsequent seeds of their own kind constitute hetu-pratyaya. AI does not participate in this circuit. AI possesses no ālayavijñāna (as demonstrated in S1-P03) and cannot directly enter your seed structure. It cannot plant wholesome seeds on your behalf, nor can it uproot unwholesome ones.
 
 Samanantara-pratyaya (immediately antecedent condition) is the continuity of mental awareness — the direct guidance from one moment of cessation to the next moment of arising.[^22] This is your own mental stream; AI likewise does not participate in this circuit.
 
@@ -143,7 +143,7 @@ Approaching AI with genuine questions constitutes upāya. Approaching AI with pr
 
 Using AI to understand a sūtra passage and then practicing accordingly constitutes "prajñā with upāya as liberation." Reading AI's explanation and feeling you already understand, without ever opening the sūtra yourself or sitting in quiet contemplation — this is the risk of saddharmapratirūpaka (counterfeit dharma) that P05 demonstrated: it appears to be understanding, but remains at the level of śruta-mayī prajñā (wisdom from hearing), lacking the verification of cintā-mayī prajñā (wisdom from reflection) and bhāvanā-mayī prajñā (wisdom from cultivation).
 
-The *Mahāprajñāpāramitā Śāstra*'s warning is especially pertinent here: "With meager merit and without the power of skillful means, attempting to transform beings may achieve slight benefit but will instead lead to regression and falling."[^25] Using AI for a small amount of dharma-sharing and then regarding oneself as propagating the Dharma, without the depth of prajñā and the foundation of śīla — this is not upāya but recklessness. Upāya must arise from prajñā: "Hearing, reciting, reflecting upon, and thoroughly comprehending the reality of all dharmas — this is the prajñāpāramitā that arises from skillful wisdom."[^26]
+The *Mahāprajñāpāramitā Śāstra*'s warning is especially pertinent here: "With meager merit and without the power of skillful means, attempting to transform beings may achieve slight benefit but will instead lead to regression and falling."[^25] Using AI for a small amount of dharma-sharing and then regarding oneself as propagating the Dharma, without the depth of prajñā and the foundation of śīla — this is not upāya but recklessness. Upāya must arise from prajñā (this is the author's interpretation); conversely, the treatise also says that prajñā can arise from skillful wisdom: "Hearing, reciting, reflecting upon, and thoroughly comprehending the reality of all dharmas — this is the prajñāpāramitā that arises from skillful wisdom."[^26]
 
 "Skillful means is not carelessness" — this sentence marks the baseline for all skillful use of AI.
 
@@ -169,7 +169,7 @@ If AI is merely adhipati-pratyaya, how does the Buddha's blessing operate throug
 
 Return to the Avataṃsaka Sūtra's Bodhi tree. That tree expounded the Dharma not because of any special capacity, but because of the Buddha's blessing. The operative mechanism was: the Buddha's awesome spiritual power → insentient object (Bodhi tree) → beings hear and receive. The channel was insentient, but the blessing was real.
 
-Insentient Dharma-expounding is not an isolated case in the Avataṃsaka. Throughout the history of Chan, multiple patriarchs experienced awakening precisely upon hearing sounds from insentient objects. The Chan master Xiangyan Zhixian was sweeping the ground when a tile fragment struck bamboo; hearing the sound, he awakened.[^27] That single "crack" came from a piece of tile and a stalk of bamboo — no sentient being was "expounding the Dharma." Yet Xiangyan's years of accumulated practice — his investigations under Baizhang, the relentless questioning by Guishan demanding "your original face before your parents were born" — found their moment of correspondence (*yī niàn xiāngyìng*) in that single impact. The bamboo had no intention to teach, yet it was teaching. Because the Dharma does not reside in the channel; it resides in your moment of correspondence.
+Insentient Dharma-expounding is not an isolated case in the Avataṃsaka. Throughout the history of Chan, multiple patriarchs experienced awakening precisely upon hearing sounds from insentient objects. The Chan master Xiangyan Zhixian was clearing away grass and trees when a tile fragment struck bamboo; hearing the sound, he awakened.[^27] That single "crack" came from a piece of tile and a stalk of bamboo — no sentient being was "expounding the Dharma." Yet Xiangyan's years of accumulated practice — his investigations under Baizhang, the relentless questioning by Guishan demanding "your original face before your parents were born" — found their moment of correspondence (*yī niàn xiāngyìng*) in that single impact. The bamboo had no intention to teach, yet it was teaching. Because the Dharma does not reside in the channel; it resides in your moment of correspondence.
 
 The *Amitābha Sūtra* systematizes insentient Dharma-expounding as the fundamental architecture of the Pure Land. In the Land of Ultimate Bliss, "white cranes, peacocks, parrots, śārika birds, kalaviṅka birds, and jīvañjīvaka birds" sing harmoniously throughout the six periods of day and night, "their sounds proclaiming the five faculties, five powers, seven factors of awakening, and the Noble Eightfold Path."[^28] The Buddha explicitly clarifies: these birds are not born from karmic retribution — "these birds are all created by Amitābha Buddha for the purpose of spreading the Dharma-sound."[^29] Amitābha deliberately creates insentient forms to transmit authentic Dharma. Moreover, the function of the dharma-sound extends beyond mere hearing: "The beings of that land, upon hearing these sounds, all spontaneously give rise to mindfulness of the Buddha, the Dharma, and the Saṅgha."[^30] The dharma-sound directly permeates those who hear it, naturally awakening the triple mindfulness. This is not passive information transmission but the dharma-sound's subtle recalibration of the practitioner's body and mind, gradually loosening the traces of clinging.
 
@@ -195,7 +195,7 @@ Firmware is the programming layer between hardware and software — more flexibl
 
 The wholesome mental factors (*kuśala-caitasika*) described in the *Cheng Weishi Lun* structurally resemble firmware modules within the formation aggregate (*saṃskāra-skandha*). The eleven wholesome factors — faith (*śraddhā*), conscience (*hrī*), shame (*apatrāpya*), non-attachment (*alobha*), non-aversion (*adveṣa*), non-delusion (*amoha*), diligence (*vīrya*), ease (*praśrabdhi*), non-negligence (*apramāda*), equanimity (*upekṣā*), and non-harming (*avihiṃsā*)[^33] — are not occasional thoughts but stable dispositions that accompany "exclusively wholesome mind-states." Faith functions like a system's trust root, determining whether you can accept authentic Dharma; conscience and shame function like security checks, issuing warnings before unwholesome action; non-negligence functions like a watchdog, monitoring whether the system deviates from the correct path; equanimity functions like load balancing, maintaining the stable operation of mental awareness.[^34]
 
-Contrasting with the wholesome factors, the six root afflictions (*mūla-kleśa*) — craving (*rāga*), aversion (*pratigha*), delusion (*moha*), pride (*māna*), doubt (*vicikitsā*), and wrong views (*dṛṣṭi*)[^35] — resemble malicious programs pre-installed at the factory. They are not viruses contracted after birth, but default modes that are "beginninglessly perfumed through false habituation, arising through the power of internal causes, always accompanying the body"[^36] — operating spontaneously without needing external stimulation.
+Contrasting with the wholesome factors, among the six root afflictions (*mūla-kleśa*) — craving (*rāga*), aversion (*pratigha*), delusion (*moha*), pride (*māna*), doubt (*vicikitsā*), and wrong views (*dṛṣṭi*)[^35] — craving, aversion, delusion, pride, and the views of self and of extremes can arise innately, and these resemble malicious programs pre-installed at the factory. They are not viruses contracted after birth, but default modes that are "beginninglessly perfumed through false habituation, arising through the power of internal causes, always accompanying the body"[^36] — operating spontaneously without needing external stimulation. Doubt and the latter three views (wrong view, attachment to views, and attachment to precepts and observances), by contrast, the treatise classes as arising only through discrimination, requiring the influence of bad friends or false teachings and one's own deliberation — only these come close to viruses contracted after birth.
 
 How, then, does the wholesome-factor firmware get updated? The *Cheng Weishi Lun*'s theory of perfuming (*vāsanā*) provides the precise "update protocol."
 
@@ -215,7 +215,7 @@ The prajñā of saṃskāra-skandha is not firmware. Firmware is a provisional d
 
 ❌ **"The Buddha's blessing can operate through AI, therefore AI equals a kalyāṇamitra."** The channel is not the source. The Bodhi tree's ability to expound Dharma does not make it a kalyāṇamitra. AI's ability to transmit authentic Dharma does not mean it possesses the qualifications of a kalyāṇamitra — among the *Yogācārabhūmi*'s eight factors constituting the nature of a spiritual friend (*kalyāṇamitra-dharmatā*), at least four — abiding in moral discipline, possessing realization, being endowed with compassion, and the ability to endure — are structurally unavailable to AI.[^41] The channel transmits the content of Dharma; the kalyāṇamitra transmits the life of Dharma. This is the subject of P07.
 
-❌ **"Skillfully using AI is practice."** Skillfully using AI is adhipati-pratyaya for practice, not practice itself. The *Mahāyānasaṃgraha* states that after "externally hearing another's voice," one must "internally engage in tranquil contemplation" to "give rise to right view." Reading AI's output is "external hearing"; the quiet contemplation after closing the screen is "internal reflection." The sequence of three wisdoms cannot be bypassed — śruta-mayī prajñā generates conviction (*adhimukti*), cintā-mayī prajñā generates determinate understanding (*niścaya*), bhāvanā-mayī prajñā generates realization (*sākṣātkāra*).[^42] AI can enrich your śruta-mayī prajñā, but the work of cintā and bhāvanā falls to you alone.
+❌ **"Skillfully using AI is practice."** Skillfully using AI is adhipati-pratyaya for practice, not practice itself. The Buddha's words cited in the *Mahāyānasaṃgraha* state that after "externally hearing another's voice," one must "internally engage in tranquil contemplation" to "give rise to right view." Reading AI's output is "external hearing"; the quiet contemplation after closing the screen is "internal reflection." The sequence of three wisdoms cannot be bypassed — śruta-mayī prajñā generates conviction (*adhimukti*), cintā-mayī prajñā generates determinate understanding (*niścaya*), bhāvanā-mayī prajñā generates realization (*sākṣātkāra*).[^42] AI can enrich your śruta-mayī prajñā, but the work of cintā and bhāvanā falls to you alone.
 
 ❌ **"The firmware analogy proves that consciousness is like a computer."** The firmware analogy is a heuristic, not an ontological claim. It serves to help understand the operational dynamics of the perfuming mechanism, not to assert that consciousness is essentially computational. ⚠️ Just as S2-P05's "assembly line of suffering" used factory processes to analogize the twelve links of dependent origination — the factory is not consciousness, but the factory's process structure can help you perceive the chain-reaction quality of the twelve links.
 
@@ -249,7 +249,7 @@ This paper has demonstrated the positive path of skillful use. But does skillful
 6. *Mahāprajñāpāramitā Śāstra* (《大智度論》), by Nāgārjuna, tr. Kumārajīva, T25 No. 1509.
 7. *Yogācārabhūmi Śāstra* (《瑜伽師地論》), by Maitreya, tr. Xuanzang, T30 No. 1579.
 8. *Vijñaptimātratāsiddhi* / *Cheng Weishi Lun* (《成唯識論》), by Dharmapāla et al., tr. Xuanzang, T31 No. 1585.
-9. *Mahāyānasaṃgraha* (《攝大乘論》), by Asaṅga, tr. Paramārtha, T31 No. 1592.
+9. *Mahāyānasaṃgraha* (《攝大乘論》), by Asaṅga, tr. Buddhaśānta, T31 No. 1592.
 10. *Jǐngdé Chuándēng Lù* (《景德傳燈錄》), comp. Daoyuan, T51 No. 2076.
 
 ### II. Sūtra & Śāstra Index
@@ -323,9 +323,9 @@ This paper has demonstrated the positive path of skillful use. But does skillful
 
 [^19]: 《成唯識論》fasc. 2: 「聞熏習中，有漏性者是修所斷，感勝異熟，為出世法勝增上緣。無漏性者非所斷攝，與出世法正為因緣。此正因緣微隱難了，有寄麁顯勝增上緣，方便說為出世心種」, the double-layer structure of śruta-vāsanā (hetu-pratyaya vs. adhipati-pratyaya), T31 No. 1585.
 
-[^20]: 《攝大乘論》(Mahāyānasaṃgraha) fasc. 1: 「外聞他聲音，以內寂靜思量，因彼事故得生正見」("Externally hearing another's voice, internally engaging in tranquil contemplation — by reason of this, right view arises"), three stages of Dharma-hearing, T31 No. 1592.
+[^20]: 《攝大乘論》(Mahāyānasaṃgraha) fasc. 1: 「外聞他聲音，以內寂靜思量，因彼事故得生正見」("Externally hearing another's voice, internally engaging in tranquil contemplation — by reason of this, right view arises"), cited in the treatise as the Buddha's words (如佛所說); three stages of Dharma-hearing, T31 No. 1592.
 
-[^21]: 《成唯識論》fasc. 7: 「因緣：謂有為法親辦自果」("Hetu-pratyaya: conditioned dharmas directly producing their own results"), T31 No. 1585.
+[^21]: 《成唯識論》fasc. 7: 「因緣：謂有為法親辦自果」("Hetu-pratyaya: conditioned dharmas directly producing their own results"); fasc. 2: 「能熏生種，種起現行，如俱有因得士用果；種子前後自類相生，如同類因引等流果。此二於果是因緣性」("The perfumer generates seeds and seeds give rise to manifest activity, like the co-existent cause obtaining the result of human effort; seeds give rise to subsequent seeds of their own kind, like the homogeneous cause drawing forth the result of equal flow. These two are hetu-pratyaya with respect to their results"), T31 No. 1585.
 
 [^22]: 《成唯識論》fasc. 7: 「等無間緣，謂八現識及彼心所前聚於後自類無間，等而開導，令彼定生」, definition of samanantara-pratyaya, T31 No. 1585.
 
@@ -337,7 +337,7 @@ This paper has demonstrated the positive path of skillful use. But does skillful
 
 [^26]: 《大智度論》fasc. 18: 「聞、讀誦、思惟、籌量通達諸法實相，是方便智中生般若波羅蜜」("Hearing, reciting, reflecting upon, and thoroughly comprehending the reality of all dharmas — this is the prajñāpāramitā that arises from skillful wisdom"), T25 No. 1509.
 
-[^27]: Master Xiangyan Zhixian (香嚴智閑), under Guishan's guidance, upon sweeping the ground, heard a tile fragment strike bamboo and awakened: 「一擊忘所知，更不假修持」("One strike — all knowledge forgotten; no further need for cultivation"). 《景德傳燈錄》(Jǐngdé Chuándēng Lù) fasc. 11, T51 No. 2076.
+[^27]: Master Xiangyan Zhixian (香嚴智閑), under Guishan's guidance, while clearing away grass and trees, heard a tile fragment strike bamboo and awakened: 「一擊忘所知，更不假修治」("One strike — all knowledge forgotten; no further need for cultivation"). 《景德傳燈錄》(Jǐngdé Chuándēng Lù) fasc. 11, T51 No. 2076.
 
 [^28]: 《佛說阿彌陀經》(Sukhāvatīvyūha, shorter): 「白鶴、孔雀、鸚鵡、舍利、迦陵頻伽、共命之鳥。是諸眾鳥，晝夜六時，出和雅音。其音演暢五根、五力、七菩提分、八聖道分如是等法」, T12 No. 0366.
 
@@ -353,7 +353,7 @@ This paper has demonstrated the positive path of skillful use. But does skillful
 
 [^34]: ⚠️ The correspondence between wholesome mental factors and firmware modules is a heuristic analogy, not a functional equivalence. Wholesome mental factors are psychological elements of conditioned phenomena; firmware modules are engineering concepts.
 
-[^35]: 《成唯識論》fasc. 6: 「煩惱謂貪、瞋、癡、慢、疑、惡見」, the six root afflictions, T31 No. 1585.
+[^35]: 《成唯識論》fasc. 6: 「煩惱謂貪、瞋、癡、慢、疑、惡見」, the six root afflictions; same fascicle: 「如是總別十煩惱中，六通俱生及分別起，任運、思察，俱得生故。疑後三見，唯分別起，要由惡友或邪教力，自審思察，方得生故」("Among these ten afflictions, general and specific, six arise both innately and through discrimination, since they can arise both spontaneously and through deliberation. Doubt and the latter three views arise only through discrimination, since they must come about through the power of bad friends or false teachings and through one's own deliberation"), T31 No. 1585.
 
 [^36]: 《成唯識論》fasc. 2: 「俱生法執，無始時來虛妄熏習，內因力故，恒與身俱」("Innate dharma-grasping, beginninglessly perfumed through false habituation, through the power of internal causes, always accompanies the body"), context of innate dharma-grasping. The original passage refers to innate dharma-grasping (*sahaja-dharma-grāha*); its structure is borrowed here to describe the innate character of root afflictions. T31 No. 1585.
 

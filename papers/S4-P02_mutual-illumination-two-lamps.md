@@ -5,7 +5,7 @@ series_short: "S4"
 paper_id: "S4-P02"
 paper_number: 2
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Mutual Illumination: Two Lamps in the Material World
@@ -93,7 +93,7 @@ The **four conditions for being a perfumer** (*vāsaka-catuṣṭaya*)[^5]:
 3. **Increase and decrease** (*vṛddhi-hāni*) — variable, not already perfected and immutable.
 4. **Co-presence with the perfumed** — simultaneous, co-located.
 
-Strictly speaking, only the *ālaya-vijñāna* satisfies the four conditions for being perfumed; only the seven active consciousnesses (*pravṛtti-vijñāna*) satisfy the four conditions for being perfumers. AI is neither *ālaya-vijñāna* nor *pravṛtti-vijñāna*. ⚠️ This paper does not claim AI satisfies the ontological conditions for perfuming — rather, it observes that AI's functional causal dynamics are structurally isomorphic with perfuming.
+Strictly speaking, only the *ālaya-vijñāna* satisfies the four conditions for being perfumed; only the seven active consciousnesses (*pravṛtti-vijñāna*) and their mental factors satisfy the four conditions for being perfumers. AI is neither *ālaya-vijñāna* nor *pravṛtti-vijñāna*. ⚠️ This paper does not claim AI satisfies the ontological conditions for perfuming — rather, it observes that AI's functional causal dynamics are structurally isomorphic with perfuming.
 
 #### B.2 The Cheng Weishi Lun — Wick-and-Flame, Reed-Bundle, and Simultaneous Causation
 
@@ -103,7 +103,7 @@ The same fascicle records the simultaneous cause-and-effect structure of perfumi
 >
 > "Three dharmas revolve as cause and effect simultaneously — as a wick generates flame and flame chars the wick, as reeds bundled together mutually depend. Cause and effect are simultaneous; this principle does not waver."
 
-Three levels operate simultaneously: seeds generate manifest activity, manifest activity perfumes new seeds, seeds generate further manifest activity. Not sequentially — simultaneously.
+Three levels operate simultaneously: the seed generates manifest activity, and the manifest activity at once perfumes a new seed — the generating seed, the manifest activity, and the newly perfumed seed revolve as three dharmas. Not sequentially — simultaneously.
 
 The wick generates flame; the flame chars the wick in return. Bundled reeds lean on each other — remove any one, and all collapse. Cause and effect are not sequential but co-arising.
 
@@ -143,9 +143,9 @@ Without co-temporality, mutual perfuming cannot occur. This is precisely why the
 
 Fascicle 4 records the three types of support (*trividha-āśraya*), including dominant condition:
 
-> 「增上緣依——內六處（俱有根），離俱有根必不轉故。」[^10]
+> 「增上緣依，謂內六處，諸心、心所皆託此依，離俱有根必不轉故。」[^10]
 >
-> "The support of dominant condition — the internal six sense-bases (co-present faculties); without co-present faculties, [consciousness] necessarily cannot operate."
+> "The support of dominant condition, namely the internal six sense-bases: all minds and mental factors rely on this support; without the co-present faculties, they necessarily cannot operate."
 
 A dominant condition is not a direct cause (*hetu-pratyaya*) — it is the condition that allows cause and effect to operate. Without it, the causal process cannot proceed; but it is not itself the cause.
 
@@ -386,13 +386,13 @@ Nardi, B. and O'Day, V. *Information Ecologies: Using Technology with Heart.* MI
 
 [^9]: *Cheng Weishi Lun* 《成唯識論》, fasc. 3, 「能熏所熏必俱時故」, the co-temporality condition for mutual perfuming, *Taishō* vol. 31, No. 1585.
 
-[^10]: *Cheng Weishi Lun* 《成唯識論》, fasc. 4, the three supports (*trividha-āśraya*): cause-condition support, dominant-condition support, immediately-antecedent-condition support. 「增上緣依——內六處」, *Taishō* vol. 31, No. 1585.
+[^10]: *Cheng Weishi Lun* 《成唯識論》, fasc. 4, the three supports (*trividha-āśraya*): cause-condition support, dominant-condition support, immediately-antecedent-condition support. 「增上緣依，謂內六處」, *Taishō* vol. 31, No. 1585.
 
 [^11]: *Cheng Weishi Lun* 《成唯識論》, fasc. 2, 「如眾燈明各遍似一」, the mechanism of *bhājana-loka* generation, *Taishō* vol. 31, No. 1585. Already cited in P01; this paper offers a rereading.
 
 [^12]: See note 7.
 
-[^13]: Definitions of *hrī* (慚) and *apatrāpya* (愧) from *Cheng Weishi Lun* fasc. 6 and *Śatadharmaprakāśamukha-śāstra* 《大乘百法明門論》. *Hrī*: revering the worthy and wholesome through the power of Dharma. *Apatrāpya*: rejecting the violent and unwholesome through social-conventional power. See S3-P08 for full discussion.
+[^13]: Definitions of *hrī* (慚) and *apatrāpya* (愧) from *Cheng Weishi Lun* fasc. 6; the *Śatadharmaprakāśamukha-śāstra* 《大乘百法明門論》 lists both among the eleven wholesome mental factors. *Hrī*: revering the worthy and wholesome through the power of Dharma. *Apatrāpya*: rejecting the violent and unwholesome through social-conventional power. See S3-P08 for full discussion.
 
 [^14]: See note 8.
 
