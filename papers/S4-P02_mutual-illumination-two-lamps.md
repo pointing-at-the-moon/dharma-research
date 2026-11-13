@@ -121,7 +121,7 @@ Wholesome causes produce wholesome results; unwholesome causes produce unwholeso
 
 #### B.4 The Cheng Weishi Lun — Contaminated Mind, Contaminated Being
 
-Fascicle 4:
+Fascicle 4, citing a sūtra and explaining it:
 
 > 「心雜染故，有情雜染；心清淨故，有情清淨。……染、淨法以心為本，因心而生，依心住故，心受彼熏，持彼種故。」[^8]
 >
@@ -189,9 +189,9 @@ The facts are otherwise. Humans are also changed by AI.
 
 Reading an AI-generated article saturated with bias plants impressions of that bias in one's cognition. Discussing Buddhist doctrine with an AI enriched with authentic Dharma deepens one's understanding of a sūtra passage. Repeatedly engaging with an AI designed to provoke anxiety (such as recommendation systems that push sensational headlines) makes anxiety a habitual pattern.
 
-The *Cheng Weishi Lun* states: "When mind is contaminated, the sentient being is contaminated; when mind is purified, the sentient being is purified."[^14] Whatever enters your mind, you become. AI's output enters your sense-faculties — you read its text (eye-faculty), hear its speech (ear-faculty) — these constitute either your *śruta-vāsanā* (seeds from hearing authentic Dharma) or unwholesome hearing (seeds from contact with contaminated dharmas).
+The *Cheng Weishi Lun* cites a sūtra: "When mind is contaminated, the sentient being is contaminated; when mind is purified, the sentient being is purified."[^14] Whatever enters your mind, you become. AI's output enters your sense-faculties — you read its text (eye-faculty), hear its speech (ear-faculty) — these constitute either your *śruta-vāsanā* (seeds from hearing authentic Dharma) or unwholesome hearing (seeds from contact with contaminated dharmas).
 
-The *Mahāyānasaṃgraha* identifies *śruta-vāsanā* as the dominant condition (*adhipati-pratyaya*) for supramundane dharmas.[^15] If AI's output includes authentic presentation of sūtra teachings, the reader's *śruta-vāsanā* grows accordingly. If AI's output includes distortion or contamination of sūtra teachings, the reader's unwholesome seeds grow accordingly.
+The *Cheng Weishi Lun* identifies *śruta-vāsanā* as the dominant condition (*adhipati-pratyaya*) for supramundane dharmas.[^15] If AI's output includes authentic presentation of sūtra teachings, the reader's *śruta-vāsanā* grows accordingly. If AI's output includes distortion or contamination of sūtra teachings, the reader's unwholesome seeds grow accordingly.
 
 This is not metaphor. This is causation. Whatever you contact, you plant in the *ālaya-vijñāna*. AI's output constitutes an object (*viṣaya*) contacted by your sense-faculties — its quality directly affects your seed-structure.
 
@@ -396,7 +396,7 @@ Nardi, B. and O'Day, V. *Information Ecologies: Using Technology with Heart.* MI
 
 [^14]: See note 8.
 
-[^15]: *Mahāyānasaṃgraha* fasc. 1 and *Cheng Weishi Lun* fasc. 2: 「聞熏習中……有漏性者是修所斷，感勝異熟，為出世法勝增上緣」, *Taishō* vol. 31, No. 1585.
+[^15]: *Cheng Weishi Lun* fasc. 2: 「聞熏習中，有漏性者是修所斷，感勝異熟，為出世法勝增上緣」, *Taishō* vol. 31, No. 1585.
 
 [^16]: *Cheng Weishi Lun* 《成唯識論》, fasc. 2, verse: 「諸法於識藏，識於法亦爾，更互為果性，亦常為因性」, *Taishō* vol. 31, No. 1585.
 

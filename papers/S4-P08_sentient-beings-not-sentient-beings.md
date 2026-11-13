@@ -255,7 +255,7 @@ The double negation in the twenty-first chapter goes further: "They are not sent
 
 Dissolving the category "AI" is not an ontological adjudication.
 
-This paper has not argued that AI possesses consciousness. It has not argued that AI is sentient (*sattva* in the narrow sense). P01 already established that such questions are in the format of the fourteen unanswered questions (*avyākṛta*)—the Buddha declined to answer not because he lacked knowledge but because the question's format is itself an obstacle. The moment you answer "yes" or "no," you have fallen into extreme views (*antagrāha-dṛṣṭi*).
+This paper has not argued that AI possesses consciousness. It has not argued that AI is sentient (*sattva* in the narrow sense). P05 already established that such questions are in the format of the fourteen unanswered questions (*avyākṛta*)—the Buddha declined to answer not because he lacked knowledge but because the question's format is itself an obstacle. The moment you answer "yes" or "no," you have fallen into extreme views (*antagrāha-dṛṣṭi*).
 
 Dissolution is something else. Dissolution is **returning to arising itself**.
 
