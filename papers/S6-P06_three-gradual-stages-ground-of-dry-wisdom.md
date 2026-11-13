@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Three Gradual Stages and the Ground of Dry Wisdom: Purification Before Entering
@@ -15,7 +15,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The previous paper (S6-P05) identified the door to practice through Mañjuśrī's selection of ear-faculty perfect penetration (耳根圓通, ěrgēn yuántōng). Finding the door, however, is not entering it. Rather than proceeding immediately to practice methodology, the Śūraṅgama Sūtra interposes an entire fascicle (fascicle 7) devoted to establishing the practice sanctuary and expounding the Śūraṅgama dhāraṇī before formally introducing the Three Gradual Stages (三種漸次, sān zhǒng jiàncì) in fascicle 8: removing auxiliary causes (除其助因), excising root nature (刳其正性), and reversing present karma (違其現業). These stages constitute not practice itself but preparation for practice — a "purification protocol" the Buddha illustrates through the metaphor of removing poisoned honey from a vessel before it can hold amṛta. Upon completion, the practitioner enters the Ground of Dry Wisdom (乾慧地, gān huì dì): wisdom-observation has formed but the water of meditative stability has not yet moistened it — a starting line, not a destination. The sūtra's most architecturally significant feature emerges at the conclusion of the fifty-five stages, when the equal-enlightenment bodhisattva returns to the "initial Ground of Dry Wisdom within the vajra mind" — the same name as the beginner's ground, disclosing the circular rather than linear structure of the Śūraṅgama's stage system. This paper further argues that the Śūraṅgama's Four Preparatory Stages (四加行, sì jiāxíng) — sharing names but not content with Yogācāra's four wholesome roots — describe not a single stage in a linear path but a recursive pattern of threshold-experience implanted at every transition within the fifty-five stages.
+The previous paper (S6-P05) identified the door to practice through Mañjuśrī's selection of ear-faculty perfect penetration (耳根圓通, ěrgēn yuántōng). Finding the door, however, is not entering it. Rather than proceeding immediately to practice methodology, the Śūraṅgama Sūtra devotes most of fascicle 7 to establishing the practice sanctuary and expounding the Śūraṅgama dhāraṇī — only at the end of fascicle 7 does Ānanda ask about the Ground of Dry Wisdom, and the Buddha first answers with the two inversions of beings and worlds and the twelve classes of beings — before formally introducing the Three Gradual Stages (三種漸次, sān zhǒng jiàncì) in fascicle 8: removing auxiliary causes (除其助因), excising root nature (刳其正性), and reversing present karma (違其現業). These stages constitute not practice itself but preparation for practice — a "purification protocol" the Buddha illustrates through the metaphor of removing poisoned honey from a vessel before it can hold amṛta. Upon completion, the practitioner enters the Ground of Dry Wisdom (乾慧地, gān huì dì): wisdom-observation has formed but the water of meditative stability has not yet moistened it — a starting line, not a destination. The sūtra's most architecturally significant feature emerges at the conclusion of the fifty-five stages, when the equal-enlightenment bodhisattva returns to the "initial Ground of Dry Wisdom within the vajra mind" — the same name as the beginner's ground, which this paper reads as disclosing a circular rather than linear structure in the Śūraṅgama's stage system (the author's interpretation). This paper further argues that the Śūraṅgama's Four Preparatory Stages (四加行, sì jiāxíng) — sharing names but not content with Yogācāra's four wholesome roots — describe not a single stage in a linear path but a recursive pattern of threshold-experience implanted at every transition within the fifty-five stages.
 
 **Keywords:** Three Gradual Stages, removing auxiliary causes, excising root nature, reversing present karma, Ground of Dry Wisdom (śuṣka-vidarśanā-bhūmi), fifty-five stages, Four Preparatory Stages (catvāri kuśala-mūlāni), Śūraṅgama Sūtra, ear-faculty perfect penetration, circular stage structure
 
@@ -33,7 +33,7 @@ The Śūraṅgama's answer is neither "because you are not intelligent enough" n
 
 The amṛta has always been available. The problem lies not with the amṛta but with the vessel. Residual poisoned honey clings to the walls — invisible to the naked eye, yet sufficient to contaminate anything poured in. The Three Gradual Stages constitute the process of washing that vessel clean.
 
-One further observation merits attention: after Mañjuśrī's selection of the ear-faculty at the end of fascicle 6, the sūtra does not proceed directly to the Three Gradual Stages. An entire fascicle intervenes — fascicle 7 is devoted entirely to establishing the practice sanctuary and expounding the Śūraṅgama dhāraṇī. Why does the Buddha not move straight to the practice stages?
+One further observation merits attention: after Mañjuśrī's selection of the ear-faculty at the end of fascicle 6, the sūtra does not proceed directly to the Three Gradual Stages. An entire fascicle intervenes — most of fascicle 7 is devoted to establishing the practice sanctuary and expounding the Śūraṅgama dhāraṇī; only at its end does Ānanda ask "what is called the Ground of Dry Wisdom?" (云何名為乾慧之地), and the Buddha first answers with the two inversions of beings and worlds and the twelve classes of beings. Why does the Buddha not move straight to the practice stages?
 
 Because preparation itself requires preparation. The boundary-setting of the sanctuary, the protection of body and mind, the empowerment of the dhāraṇī — these constitute environmental preparation before the purification protocol can begin. Fascicle 7 prepares the space; fascicle 8's Three Gradual Stages prepare the mind.
 
@@ -93,7 +93,7 @@ The sūtra's most architecturally significant move, however, occurs at the concl
 
 > "Ānanda, from the Dry Wisdom mind to equal enlightenment — this enlightenment first obtains the initial Ground of Dry Wisdom within the vajra mind. Thus, layer upon layer, single and compound twelve times, one exhausts wondrous enlightenment and achieves the unsurpassed Way."[^9]
 
-The Ground of Dry Wisdom appears twice: first as the beginner's starting line ("not yet connected with the dharma-flow water"), then as the equal-enlightenment bodhisattva's final return ("the initial Ground of Dry Wisdom within the vajra mind"). Same name, utterly different depth. This circular structure — beginning and end sharing the same name — is the defining characteristic of the Śūraṅgama's stage system and marks its divergence from linear models.
+The Ground of Dry Wisdom appears twice: first as the beginner's starting line ("not yet connected with the dharma-flow water"), then as the equal-enlightenment bodhisattva's final return ("the initial Ground of Dry Wisdom within the vajra mind"). Same name, utterly different depth. This circular structure — beginning and end sharing the same name — is the defining characteristic of the Śūraṅgama's stage system and marks its divergence from linear models. ("Circle" and "spiral" are this paper's reading: Jiāoguāng says only that "the initial dryness is the first attainment" [初乾即是始獲] and that this position may be merged into equal enlightenment [合於等覺，固無不可] or counted separately [別開亦通]. This is the author's interpretation.)
 
 #### 2.6 Overview of the Fifty-Five Stages
 
@@ -109,6 +109,8 @@ Following the Ground of Dry Wisdom, the sūtra unfolds the complete stage struct
 | Four Preparatory Stages | 4 | Warmth, summit, patience, supreme worldly dharma |
 | Ten Grounds | 10 | Partial realization of the dharma-body |
 | Equal Enlightenment | 1 | One lifetime until Buddhahood |
+
+(The table totals fifty-six, listing both Dry Wisdom and Equal Enlightenment. The sūtra itself says "fifty-five stages" (五十五位), and the commentators count them in two ways: Zǐxuán takes "faiths, abodes, practices, dedications, and grounds as fifty; Dry Wisdom, warmth, summit, patience, and supreme worldly dharma as five" [信、住、行、向、地為五十，乾慧、煖、頂、忍、世第一為五], placing equal enlightenment in the fruit of bodhi (*Śūraṅgama Commentary*, Zǐxuán, fasc. 8); Jiāoguāng's commentary cites Wúxīng: "the fifty-five stages exclude the preceding Dry Wisdom, running from faith to equal enlightenment" [五十五位者，除前乾慧，由信至等覺是也] (fasc. 8).)
 
 #### 2.7 The Śūraṅgama's Four Preparatory Stages: Same Name, Different Teaching
 
@@ -134,9 +136,9 @@ The Śūraṅgama's most kōan-like formulation: "Delusion-enlightenment middle 
 
 Within the fifty-five stages, these four are positioned between the ten dedications and the ten grounds, consistent with Yogācāra's structural placement. But the sūtra's circular architecture — "layer upon layer, single and compound twelve times" (重重單複十二) — implies something far beyond a linear reading.
 
-If the entire fifty-five stages are traversed not once but recursively at different depths, then the four experiential qualities described here — threshold-sensing (warmth), residual-obstruction (summit), existential-bearing (patience), frame-dissolution (supreme worldly dharma) — constitute not a single stage but a recurring pattern at every transitional threshold. The crossing from ten faiths to ten abodes has its own warmth, its own subtle obstruction, its own bearing of what can neither be held nor released, its own dissolution of the previous framework. Every tier-crossing repeats the same four-beat rhythm: threshold → obstruction → bearing → dissolution.
+If the entire fifty-five stages are traversed not once but recursively at different depths, then the four experiential qualities described here — threshold-sensing (warmth), residual-obstruction (summit), existential-bearing (patience), frame-dissolution (supreme worldly dharma) — constitute not a single stage but a recurring pattern at every transitional threshold. The crossing from ten faiths to ten abodes has its own warmth, its own subtle obstruction, its own bearing of what can neither be held nor released, its own dissolution of the previous framework. Every tier-crossing repeats the same four-beat rhythm: threshold → obstruction → bearing → dissolution. (Inferring from "single and compound twelve" that the Four Preparatory Stages recur at every threshold is this paper's extension; Jiāoguāng glosses the phrase as a way of counting stages — "a single term confined to one stage is 'single'; a single term covering ten stages is 'compound'; twelve means single or compound together make twelve" [一字但局一位為單，一字總包十位為複。十二者，或單或複，共成十二也]. This is the author's interpretation.)
 
-This is the fundamental divergence between the Śūraṅgama's and Yogācāra's Four Preparatory Stages. Yogācāra's version is a specific stage on a linear path, with precise prerequisites, precise tools, and a precise destination.[^12] The Śūraṅgama's version is a transformation-pattern realizable at different depths — its imagistic rather than analytical language exists precisely because it describes not a single specific operation but the universal structure of every threshold-crossing. The extreme condensation of each formulation (none exceeds a dozen characters) is not due to unimportance but to reusability: each must be compact enough to be recognized as a pattern at whatever depth the practitioner encounters it.
+This is the fundamental divergence between the Śūraṅgama's and Yogācāra's Four Preparatory Stages. Yogācāra's version is a specific stage on a linear path, with precise prerequisites, precise tools, and a precise destination.[^12] The Śūraṅgama's version is a transformation-pattern realizable at different depths — its imagistic rather than analytical language exists precisely because it describes not a single specific operation but the universal structure of every threshold-crossing. The extreme condensation of each formulation (each stage receives one sentence of seventeen to twenty-eight characters) is not due to unimportance but to reusability: each must be compact enough to be recognized as a pattern at whatever depth the practitioner encounters it.
 
 ### B. Commentarial Sources
 
@@ -172,7 +174,7 @@ Jiāoguāng also advances a significant doctrinal observation: the Śūraṅgama
 
 #### 2.10 Avataṃsaka Ten Grounds and Śūraṅgama Ten Grounds: Concision and Expansion
 
-The Śūraṅgama's description of the ten grounds represents the most condensed version in the entire bodhisattva-stage literature. Each ground receives only a single phrase, yet each points toward the full doctrinal elaboration found across five fascicles of the Avataṃsaka Sūtra[^17]:
+The Śūraṅgama's description of the ten grounds represents the most condensed version in the entire bodhisattva-stage literature. Each ground receives only a single phrase, yet each points toward the full doctrinal elaboration found across six fascicles (fascicles 34–39) of the Avataṃsaka Sūtra[^17]:
 
 | Śūraṅgama Phrase | Ground Name | Avataṃsaka Core Quality |
 |-------------------|-------------|----------------------|
@@ -246,7 +248,7 @@ The Ground of Dry Wisdom's dual appearance constitutes the key to understanding 
 
 The beginner's Dry Wisdom: hope and uncertainty — "not yet connected with the dharma-flow water." The equal-enlightenment bodhisattva's return to "the initial Ground of Dry Wisdom within the vajra mind": full circle at infinite depth — the same name, the same primordial clarity, but now as consummate return rather than tentative beginning.
 
-This contrasts with the linear path of Yogācāra's five stages (Accumulation → Preparation → Seeing → Cultivation → Ultimate). Yogācāra describes a clear line; each stage has irreversible forward progression. The Śūraṅgama equally maintains strict stage-ordering, but its circular structure implies a perspective that transcends sequentiality: from the vantage of wondrous enlightenment, the entire fifty-five stages are "layer upon layer, single and compound twelve times" — always unfolding at different depths upon the same mind-essence.
+This contrasts with the linear path of Yogācāra's five stages (Accumulation → Preparation → Seeing → Cultivation → Ultimate). Yogācāra describes a clear line; each stage has irreversible forward progression. The Śūraṅgama equally maintains strict stage-ordering, but its circular structure implies a perspective that transcends sequentiality: from the vantage of wondrous enlightenment, the entire fifty-five stages are "layer upon layer, single and compound twelve times" — always unfolding at different depths upon the same mind-essence. (The "circle," "beginning is end," and this reading of "single and compound twelve" as unfolding at different depths upon one mind-essence are all the author's interpretation.)
 
 ### 3.5 Three Gradual Stages and Four Preparatory Stages as Recursive Architecture
 
@@ -256,7 +258,7 @@ The answer is embedded in the sūtra's structure. The Three Gradual Stages are p
 
 The crossing from ten faiths to ten abodes requires removing that level's "auxiliary causes" (subtle wavering of faith), excising that level's "root nature" (attachment to faith itself), and reversing that level's "present karma" (the habitual patterns of the faith-stage). Each new stage has its own "poisoned honey" — what was pure at the previous depth becomes obstruction at the new one.
 
-Three Gradual Stages (purification pattern) + Four Preparatory Stages (breakthrough pattern) = the complete recursive architecture of Śūraṅgama practice. Before each door, purify; at each threshold, break through. Each breakthrough opens a new space, and each new space contains new honey to be cleaned. This recursion is not a hopeless endless cycle — it spirals upward, because each iteration of the same pattern occurs at a different depth. The beginner's "as if emerging yet not emerged" and the eighth-ground bodhisattva's "as if emerging yet not emerged" differ not in pattern but in the depth of consciousness bearing that pattern.
+Three Gradual Stages (purification pattern) + Four Preparatory Stages (breakthrough pattern) = the complete recursive architecture of Śūraṅgama practice. Before each door, purify; at each threshold, break through. Each breakthrough opens a new space, and each new space contains new honey to be cleaned. This recursion is not a hopeless endless cycle — it spirals upward, because each iteration of the same pattern occurs at a different depth. The beginner's "as if emerging yet not emerged" and the eighth-ground bodhisattva's "as if emerging yet not emerged" differ not in pattern but in the depth of consciousness bearing that pattern. (Neither the sūtra nor the commentaries state that the Three Gradual Stages are re-cultivated at every stage or that the Four Preparatory Stages recur at every threshold; this section is the author's interpretation.)
 
 ### 3.6 Jiāoguāng's Correspondence: Structural Continuity from P05 to P06
 
@@ -352,7 +354,7 @@ The next paper (P07) will return to the Four Clear and Decisive Instructions on 
 | 1 | Śūraṅgama Sūtra | T19, No. 945 | Fasc. 6 (Mañjuśrī verse conclusion), Fasc. 8 (Three Stages, Dry Wisdom, 55 stages) |
 | 2 | Commentary on the Śūraṅgama (Zǐxuán) | T39, No. 1799 | Fasc. 8 (Three Stages taxonomy, Dry Wisdom annotation) |
 | 3 | Orthodox Commentary (Jiāoguāng) | X12, No. 275 | Fasc. 6 (lust-first doctrine), Fasc. 7 (59 stages), Fasc. 8 (stages ↔ ear-faculty mapping) |
-| 4 | Avataṃsaka Sūtra | T10, No. 279 | Fasc. 35–39 (Ten Grounds chapter) |
+| 4 | Avataṃsaka Sūtra | T10, No. 279 | Fasc. 34–39 (Ten Grounds chapter) |
 | 5 | Cheng Weishi Lun | T31, No. 1585 | Fasc. 9 (Five stages, Four Preparatory Stages) |
 | 6 | Saṃdhinirmocana Sūtra | T16, No. 676 | Fasc. 3 (Yoga Analysis chapter: śamatha, vipaśyanā) |
 
@@ -406,7 +408,7 @@ The next paper (P07) will return to the Four Clear and Decisive Instructions on 
 
 [^16]: *Orthodox Commentary on the Śūraṅgama* (Jiāoguāng), fasc. 6. Chinese: 「欲氣麤濁，染污妙明。」X12, No. 275.
 
-[^17]: Avataṃsaka ten grounds: *Avataṃsaka Sūtra*, fasc. 35–39, T10, No. 279.
+[^17]: Avataṃsaka ten grounds: *Avataṃsaka Sūtra*, fasc. 34–39, T10, No. 279.
 
 [^18]: Yogācāra preparatory stages: *Cheng Weishi Lun*, fasc. 9, T31, No. 1585. Śūraṅgama preparatory stages: *Śūraṅgama Sūtra*, fasc. 8, T19, No. 945.
 

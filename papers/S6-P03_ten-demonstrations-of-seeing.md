@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P03"
 paper_number: 3
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Ten Demonstrations of Seeing: The Seeing-Nature Does Not Perish with Objects
@@ -17,7 +17,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-Close your eyes. What do you see? If you answer "nothing," you have already skipped over a fact: you are seeing. If you answer "black," you have skipped over the same fact — what is it that sees the black? The ten demonstrations of seeing (*shí fān xiǎn jiàn* 十番顯見) in the Śūraṅgama Sūtra address precisely this perpetual oversight: you forgot that you are seeing. From ten angles — immovability, imperishability, non-loss, nothing to return, non-mixture, non-obstruction, beyond size, beyond is-and-is-not, neither caused nor uncaused — the Buddha demonstrates the same truth: the seeing-nature (*jiàn xìng* 見性) has always been functioning, but sentient beings fabricate names and forms (*nāma-rūpa*) so quickly that they leap past the seeing itself. Drawing on Jiaokuang Zhenjian's classification of the ten demonstrations as "empty tathāgatagarbha" (*kōng rúlái zàng* 空如來藏) and employing the Yogācāra four-aspect model (*sì fēn shuō* 四分說) as an analytical instrument, this paper examines the doctrinal architecture of each demonstration and argues that the seeing-nature is not something to be found — you have been using it all along; you simply forgot.
+Close your eyes. What do you see? If you answer "nothing," you have already skipped over a fact: you are seeing. If you answer "black," you have skipped over the same fact — what is it that sees the black? The ten demonstrations of seeing (*shí fān xiǎn jiàn* 十番顯見) in the Śūraṅgama Sūtra address precisely this perpetual oversight: you forgot that you are seeing. From ten angles — seeing as mind, immovability, imperishability, non-loss, nothing to return, non-mixture, non-obstruction (beyond size), non-division (beyond is-and-is-not), beyond deluded speculation (neither caused nor uncaused), seeing beyond seeing — the Buddha demonstrates the same truth: the seeing-nature (*jiàn xìng* 見性) has always been functioning, but sentient beings fabricate names and forms (*nāma-rūpa*) so quickly that they leap past the seeing itself. Drawing on Jiaokuang Zhenjian's classification of the ten demonstrations as "empty tathāgatagarbha" (*kōng rúlái zàng* 空如來藏) and employing the Yogācāra four-aspect model (*sì fēn shuō* 四分說) as an analytical instrument, this paper examines the doctrinal architecture of each demonstration and argues that the seeing-nature is not something to be found — you have been using it all along; you simply forgot.
 
 閉上眼睛，你看到什麼？如果你回答「什麼都沒看到」，你已經跳過了一個事實——你正在看。楞嚴經十番顯見的教學核心，正是這件你每時每刻都在做、卻從未注意到的事：你忘了你在看。本文以交光真鑑「空如來藏」的判教定位為架構，以唯識四分說為分析工具，逐層解讀十番顯見的義理結構，並指出：見性不是需要你去「找到」的東西——你一直在用它，只是你忘了。
 
@@ -59,9 +59,9 @@ These four characters — *dài wàng xiǎn zhēn* — are the methodological fo
 
 #### 2.1 From the Seven Locations to the Ten Demonstrations: The Transitional Teaching of Guest-Dust
 
-The seven locations inquiry does not end with a pause. The Buddha immediately employs the metaphor of "guest and dust" (*kè chén* 客塵) as a transitional teaching. Kauṇḍinya, who first awakened at the Buddha's initial turning of the Dharma wheel, offers the analogy of a traveler at an inn: a guest departs but the innkeeper remains; dust swirls but space stays still.[^4]
+The seven locations inquiry does not end with a pause. The Buddha then employs the metaphor of "guest and dust" (*kè chén* 客塵) as a transitional teaching. Kauṇḍinya, who first awakened at the Buddha's initial turning of the Dharma wheel, offers the analogy of a traveler at an inn: a guest departs but the innkeeper remains; dust swirls but space stays still.[^4]
 
-This passage bridges demolition and revelation. Immediately following, the Buddha presents the first of the ten demonstrations — **demonstrating that seeing is a function of mind** (*xiǎn jiàn shì xīn* 顯見是心):
+This passage bridges demolition and revelation. In the sūtra's actual sequence, however, the guest-dust exchange does not precede the first demonstration; it opens the second (Jiaokuang's outline places "determining the two words guest and dust" 辯定客塵二字 at the head of "showing that seeing does not move" 示見不動). The first of the ten demonstrations — **demonstrating that seeing is a function of mind** (*xiǎn jiàn shì xīn* 顯見是心) — has already been stated as the conclusion of the fist and blind-man analogies:
 
 > "The eye can manifest color; thus the seeing-nature is mind, not eye."[^5]
 
@@ -77,7 +77,9 @@ The hand exhibits motion and stillness, but the seeing-nature possesses neither 
 
 You take what moves as yourself, what changes as reality — and the unchanging true nature is forgotten.
 
-#### 2.2 The Core Four Demonstrations: Imperishability, Nothing to Return, Non-Mixture, Non-Obstruction
+#### 2.2 The Core Four Demonstrations: Imperishability, Nothing to Return, Non-Mixture, Beyond Deluded Speculation
+
+(Demonstration numbers follow Jiaokuang's ten-part outline [see §2.6]; this section and the next group them by the paper's argument rather than by the sūtra's sequence. The fourth demonstration, "seeing is not lost" 顯見不失 [the analogy of upright and inverted], is not given its own paragraph here.)
 
 **Third Demonstration: Seeing does not perish.** The dialogue with King Prasenajit is the most emotionally resonant passage among the ten. The king recounts his aging: at twenty already declining from ten, at thirty declining from twenty, now at sixty-two, moment by moment never ceasing to change. The Buddha asks: does your body contain something that does not perish? The king does not know. The Buddha then introduces the Ganges River — you saw this river at age three, at age thirteen, at age sixty-two. The water is the same. Your face has wrinkled, but has your *seeing* of the river aged?
 
@@ -99,27 +101,27 @@ The "seeing-essence" (*jiàn jīng* 見精) that can be observed at this stage i
 
 > "The myriad objects each have their distinctions, yet the seeing-nature has no such distinctions. This refined luminosity is truly your seeing-nature. ... The seeing-nature pervades everywhere — if not you, then who?"[^12]
 
-**Seventh Demonstration: Seeing is unobstructed.** The Buddha systematically eliminates causal accounts: if seeing arises because of brightness, it should not see darkness; if because of darkness, it should not see brightness; likewise for space and obstruction. The conclusion:
+**Ninth Demonstration: Seeing transcends deluded speculation.** The Buddha systematically eliminates causal accounts: if seeing arises because of brightness, it should not see darkness; if because of darkness, it should not see brightness; likewise for space and obstruction. The conclusion:
 
 > "Know that this refined awakening, wondrous and luminous, is neither cause nor condition, neither natural nor non-natural; neither non-non nor not-non; neither is nor is-not. It transcends all characteristics, and is identical with all dharmas."[^13]
 
-These eighteen characters constitute the doctrinal heart of the entire Śūraṅgama Sūtra. The seeing-nature is not produced by causes and conditions (otherwise it would perish with them), nor is it a self-existent natural entity (otherwise it should manifest only one unchanging appearance). It transcends every conceptual framework that could be applied to it, yet is identical with the nature of all dharmas.
+These thirty-six characters constitute the doctrinal heart of the entire Śūraṅgama Sūtra. The seeing-nature is not produced by causes and conditions (otherwise it would perish with them), nor is it a self-existent natural entity (otherwise it should manifest only one unchanging appearance). It transcends every conceptual framework that could be applied to it, yet is identical with the nature of all dharmas.
 
-#### 2.3 The Three Transcendent Demonstrations: Non-Loss, Beyond Is-and-Is-Not, Beyond Size
+#### 2.3 The Three Transcendent Demonstrations: Seeing Beyond Seeing, Beyond Is-and-Is-Not, Beyond Size
 
-**Fourth Demonstration: Seeing is not lost ("When seeing sees seeing").** After establishing that seeing is not equivalent to what is seen — seeing brightness is not brightness, seeing darkness is not darkness, seeing space is not space, seeing obstruction is not obstruction — the Buddha delivers the most enigmatic line among all ten demonstrations:
+**Tenth Demonstration: Seeing transcends seeing ("When seeing sees seeing").** After establishing that seeing is not equivalent to what is seen — seeing brightness is not brightness, seeing darkness is not darkness, seeing space is not space, seeing obstruction is not obstruction — the Buddha delivers the most enigmatic line among all ten demonstrations:
 
 > "When seeing sees seeing, that seeing is not seeing. Seeing still transcends seeing; seeing cannot reach it."[^14]
 
 When you attempt to turn seeing upon seeing itself, what you "see" is no longer the seeing-nature. The seeing-nature outruns your attempt to objectify it — you cannot use the eye to look at itself, you cannot use the blade to cut its own edge.
 
-**Ninth Demonstration: Seeing transcends is-and-is-not.** Ānanda tries to point out which among the myriad objects is "seeing." He fails:
+**Eighth Demonstration: Seeing is undivided (beyond is-and-is-not).** Ānanda tries to point out which among the myriad objects is "seeing." He fails:
 
 > "Everything I point to is an object; none is seeing. ... Even bodhisattvas cannot extract a pure seeing from the myriad objects as something with an independent self-nature."[^15]
 
 Seeing cannot be isolated as an object among objects — yet it pervades all perception.
 
-**Tenth Demonstration: Seeing transcends size.** Ānanda asks: when gazing at the sun, the seeing-nature encompasses the cosmos; upon returning indoors, it fills only the room — did the seeing-nature shrink, or did the walls cut it off? The Buddha replies with the analogy of space in square and round vessels — space itself has no shape; it is the vessel that imposes apparent shape. Then:
+**Seventh Demonstration: Seeing is unobstructed (beyond size).** Ānanda asks: when gazing at the sun, the seeing-nature encompasses the cosmos; upon returning indoors, it fills only the room — did the seeing-nature shrink, or did the walls cut it off? The Buddha replies with the analogy of space in square and round vessels — space itself has no shape; it is the vessel that imposes apparent shape. Then:
 
 > "All sentient beings from beginningless time have mistaken themselves for objects, lost their original mind, and are turned by objects. Hence they perceive large and small. If you could turn objects rather than being turned by them, you would be the same as the Tathāgata — body and mind perfectly luminous, the unmoving sanctuary, able to contain the ten directions of lands upon a single hair-tip."[^16]
 
@@ -206,7 +208,7 @@ Huineng 惠能, upon hearing the *Diamond Sūtra*'s phrase "generate the mind th
 | "Originally without arising or perishing" 本不生滅 | 3rd: Imperishability | Seeing-nature does not change with time |
 | "Originally self-sufficient" 本自具足 | 5th: Nothing to return | Seeing-nature is not borrowed from conditions |
 | "Originally without wavering" 本無動搖 | 2nd: Immovability | Seeing-nature does not follow sense objects |
-| "Able to generate myriad dharmas" 能生萬法 | 8th: Neither caused nor uncaused | Tathāgatagarbha's unchanging responsiveness to conditions |
+| "Able to generate myriad dharmas" 能生萬法 | 9th: Beyond deluded speculation (neither caused nor uncaused) | Tathāgatagarbha's unchanging responsiveness to conditions |
 
 The Sixth Patriarch's language of awakening and the Buddha's pedagogical language refer to the same reality — the former compressed into five direct utterances, the latter unfolded across ten systematic demonstrations. The Śūraṅgama teaches; the Platform Sūtra corroborates.
 
@@ -220,7 +222,7 @@ The ten demonstrations do not enumerate ten attributes of the seeing-nature as t
 
 This is why ten demonstrations are needed rather than one. If the seeing-nature could be stated in a single proposition, the Buddha would not require two fascicles of repeated demonstration. If it could be defined by any single term — "immovable," "imperishable," "without return" — it would be captured by language, and the moment language captures it, it becomes another name-form, returning us to "taking objects for the self."
 
-The structure is a spiral, not a parallel enumeration. The first demonstration establishes the starting point: seeing is not the eye. The second: seeing does not follow the hand's opening and closing. The third: seeing does not follow the face's aging. Each says: you think seeing is X, but it is not X. By the fourth — "when seeing sees seeing, seeing is not seeing" — even the concept of "seeing" itself is transcended. By the eighth — "transcending all characteristics, identical with all dharmas" — every framework that could be used to describe it has been dismantled.
+The structure is a spiral, not a parallel enumeration. The first demonstration establishes the starting point: seeing is not the eye. The second: seeing does not follow the hand's opening and closing. The third: seeing does not follow the face's aging. Each says: you think seeing is X, but it is not X. By the ninth — "transcending all characteristics, identical with all dharmas" — every framework that could be used to describe it has been dismantled. By the tenth — "when seeing sees seeing, seeing is not seeing" — even the concept of "seeing" itself is transcended.
 
 This pedagogical design resonates deeply with the tripartite formula (*jí fēi sān duàn shì* 即非三段式) examined in S5 on the Diamond Sūtra. The Diamond Sūtra says: "What the Buddha calls prajñā-pāramitā is not prajñā-pāramitā; it is called prajñā-pāramitā" — positing, negating, re-naming. The ten demonstrations perform the expanded version of the same operation: display an aspect of the seeing-nature (posit), show that this aspect cannot exhaust it (negate), and let the reader glimpse the unnameable between positing and negating.
 
@@ -228,7 +230,7 @@ This pedagogical design resonates deeply with the tripartite formula (*jí fēi 
 
 The first demonstration's "seeing-nature is mind, not eye" directly engages a question requiring precise differentiation: what is the relationship between the seeing-nature and the Yogācāra category of eye-consciousness (*yǎn shí* 眼識)?
 
-In S3-P06, we analyzed the first five consciousnesses as "true-object, direct-perception, morally neutral" (*xìng jìng xiàn liàng tōng sān xìng* 性境現量通三性).[^31] Eye-consciousness takes real objects directly, without conceptual mediation, and is ethically indeterminate. Its function: light enters the eye-root, producing visual cognition.
+In S3-P06, we analyzed the first five consciousnesses as "true-object, direct-perception, pervading all three moral natures" (*xìng jìng xiàn liàng tōng sān xìng* 性境現量通三性).[^31] Eye-consciousness takes real objects directly, without conceptual mediation, and can be wholesome, unwholesome, or indeterminate. Its function: light enters the eye-root, producing visual cognition.
 
 The Śūraṅgama's first demonstration addresses something different. The Buddha's argument is: the lamp illuminates objects but does not "see"; the eye manifests colors but does not "see" — what sees is *mind*, not eye. The "mind" here is not the sixth consciousness (*mano-vijñāna*) or the seventh (*manas*), but a more fundamental capacity of "being able to see."
 
@@ -258,17 +260,17 @@ Then: your seeing — to what do you return it?
 
 The power of this elimination lies in its thoroughness: the Buddha does not tell you where the seeing-nature is. He removes everything that is not the seeing-nature, and what remains — the un-removable — is what it is. But notice: he does not say "that is the seeing-nature." He says "if not you, then who?" — pointing through negation, not defining through affirmation.
 
-This is because the moment he says "this is the seeing-nature," you would objectify it — transform it into another "object-aspect" (*xiàng fēn*), falling back into the trap of name-form. The Śūraṅgama's pedagogical method throughout the ten demonstrations is *apophatic* (*zhē quán* 遮詮, indicating through negation) rather than *cataphatic* (*biǎo quán* 表詮, defining through affirmation).
+This is because the moment he says "this is the seeing-nature," you would objectify it — transform it into another "object-aspect" (*xiàng fēn*), falling back into the trap of name-form. The Śūraṅgama's pedagogical method throughout the ten demonstrations is *apophatic* (*zhē quán* 遮詮, indicating through negation) rather than *cataphatic* (*biǎo quán* 表詮, defining through affirmation). (Immediately after "if not you, then who?", however, the sūtra closes affirmatively: "Then know that your mind is originally wondrous, luminous, and pure." Zixuan likewise glosses: "your nature that cannot be returned is precisely your true [nature]." Characterizing the method of the ten demonstrations as apophatic *throughout* is the author's interpretation.)
 
 ### 3.5 "When Seeing Sees Seeing, Seeing Is Not Seeing": The Apex of the Ten Demonstrations
 
-The fourth demonstration's enigmatic phrase is both the most difficult and most essential among the ten.
+The tenth demonstration's enigmatic phrase is both the most difficult and most essential among the ten.
 
 Return to the question that opened this paper: close your eyes — what do you see? Your answer — whether "black" or "nothing" — is already a name-form. You used seeing to look, then named the result. But what happens when you attempt to turn seeing upon *seeing itself*?
 
 "When seeing sees seeing, that seeing is not seeing. Seeing still transcends seeing; seeing cannot reach it."
 
-The moment you try to "see" the seeing-nature, what you "see" is no longer it. Seeing outruns your attempt to objectify it — because the seeing-nature is precisely what is doing the attempting. You cannot use the eye to look at the eye itself; you cannot use the fingertip to touch the fingertip itself; you cannot use the blade to cut the blade's own edge.
+The moment you try to "see" the seeing-nature, what you "see" is no longer it. Seeing outruns your attempt to objectify it — because the seeing-nature is precisely what is doing the attempting. You cannot use the eye to look at the eye itself; you cannot use the fingertip to touch the fingertip itself; you cannot use the blade to cut the blade's own edge. (Zixuan places "when seeing sees seeing, that seeing is not seeing" at the level "from the path of seeing onward to the ultimate fruit, when the true function manifests and illumines the true substance, substance and function are both free of the characteristic of seeing," and glosses "seeing still transcends seeing; seeing cannot reach it" as "the true seeing's own substance is free even of the characteristic of seeing; there is no substance to be found — how could the function of seeing reach it?" Reading the line through "what is doing the attempting" and the eye that cannot see itself is the author's interpretation.)
 
 This is why Ānanda, after hearing this demonstration, reports that his "confusion has only deepened." He is not confused because the teaching is unclear. He is confused because he is trying to use *understanding* to grasp the seeing-nature — and understanding itself is a name-form operation. You cannot "understand" the seeing-nature; you can only *be* it.
 
@@ -276,7 +278,7 @@ This is the tension between knowing (*zhī* 知) and realization (*zhèng* 證) 
 
 ### 3.6 "Transcending All Characteristics, Identical with All Dharmas": The Śūraṅgama's Version of the Three Natures
 
-Zixuan's "medicine and illness both forgotten" interpretation (§2.5) reveals the layered structure of this eighteen-character phrase:
+Zixuan's "medicine and illness both forgotten" interpretation (§2.5) reveals the layered structure of this twenty-eight-character phrase:
 
 | Layer | Content | Function |
 |-------|---------|----------|
@@ -319,9 +321,9 @@ However, this analogy reaches its **limit** at three points:
 
 Jiaokuang's phrase "revealing truth while bearing delusion" is not merely a taxonomic label but a declaration of method.
 
-The ten demonstrations are not describing a state realized after awakening. They are performed before Ānanda — a practitioner still mired in confusion. The Buddha knows Ānanda still carries "two kinds of delusory seeing," yet he does not wait until they are eliminated. He reveals truth *under the conditions of delusion*.
+The ten demonstrations are not describing a state realized after awakening. They are performed before Ānanda — a trainee (*yǒuxué* 有學) who has already attained the first fruit yet remains confused about the true mind. The Buddha knows Ānanda still carries "two kinds of delusory seeing," yet he does not wait until they are eliminated. He reveals truth *under the conditions of delusion*.
 
-What does this mean for the reader? It means **you do not need to become a sage before the seeing-nature can be pointed to.** Close your eyes — what do you see? You can ask yourself this question right now, without any meditative prerequisite. You forgot that you are seeing — you can notice this right now, without having attained any fruit.
+What does this mean for the reader? It means **you do not need to become a sage before the seeing-nature can be pointed to.** (Ānanda had in fact already attained the first fruit; extending his situation to readers who have not yet attained any fruit is the author's interpretation.) Close your eyes — what do you see? You can ask yourself this question right now, without any meditative prerequisite. You forgot that you are seeing — you can notice this right now, without having attained any fruit.
 
 But simultaneously — and this anticipates the Middle Way corrections of §V — **noticing is not realization.** You can intellectually grasp "the face wrinkles but the seeing-essence does not wrinkle" in this moment, yet this grasp does not constitute having directly realized the seeing-nature's freedom from arising and perishing. "Bearing delusion" in "revealing truth while bearing delusion" is not optional rhetoric — it means that while you look, your delusory projections are still operative. You can see the direction, but you are still on the road.
 
@@ -405,7 +407,7 @@ An imperfect but perhaps useful analogy: you view the world through tinted glass
 
 ### Essential Recapitulation
 
-The ten demonstrations of seeing constitute the Śūraṅgama Sūtra's pivotal transition from demolishing the false to revealing the true. From ten angles — immovability, imperishability, non-loss, nothing to return, non-mixture, non-obstruction, beyond size, beyond is-and-is-not, neither caused nor uncaused — the Buddha demonstrates the same fact repeatedly: the seeing-nature has always been functioning, but you fabricate names and forms so quickly that you leap past the seeing itself. You close your eyes and see "black" — but you forgot that you are seeing.
+The ten demonstrations of seeing constitute the Śūraṅgama Sūtra's pivotal transition from demolishing the false to revealing the true. From ten angles — seeing as mind, immovability, imperishability, non-loss, nothing to return, non-mixture, non-obstruction (beyond size), non-division (beyond is-and-is-not), beyond deluded speculation (neither caused nor uncaused), seeing beyond seeing — the Buddha demonstrates the same fact repeatedly: the seeing-nature has always been functioning, but you fabricate names and forms so quickly that you leap past the seeing itself. You close your eyes and see "black" — but you forgot that you are seeing.
 
 Jiaokuang classifies the ten demonstrations as "empty tathāgatagarbha," methodologically characterized as "revealing truth while bearing delusion" — not exhibiting true suchness in a purified saintly state, but pointing to truth under the ordinary conditions of beings who still carry delusion. This means the teaching is effective for every reader — you do not need to attain realization first in order to begin observing.
 
@@ -503,13 +505,13 @@ If your answer has changed from before you read this paper — the paper has ser
 
 [^12]: *Śūraṅgama Sūtra*, Fasc. 2. "諸物類自有差別，見性無殊……見性周遍，非汝而誰." Sixth demonstration. T19, No. 0945.
 
-[^13]: *Śūraṅgama Sūtra*, Fasc. 2. "非因、非緣，亦非自然、非不自然；無非、不非，無是、非是；離一切相，即一切法." Conclusion of the seventh and eighth demonstrations. T19, No. 0945.
+[^13]: *Śūraṅgama Sūtra*, Fasc. 2. "非因、非緣，亦非自然、非不自然；無非、不非，無是、非是；離一切相，即一切法." Concluding line of the ninth demonstration. Jiaokuang glosses this demonstration: "自然因緣皆是妄情計執，今此見性竝不屬此，故曰超情" (*Zhèngmài Shū*, Fasc. 2). T19, No. 0945.
 
-[^14]: *Śūraṅgama Sūtra*, Fasc. 2. "見見之時，見非是見，見猶離見，見不能及." Fourth demonstration. T19, No. 0945.
+[^14]: *Śūraṅgama Sūtra*, Fasc. 2. "見見之時，見非是見，見猶離見，見不能及." Tenth demonstration. T19, No. 0945.
 
-[^15]: *Śūraṅgama Sūtra*, Fasc. 2. Ānanda: "指皆是物，無是見者." Ninth demonstration. T19, No. 0945.
+[^15]: *Śūraṅgama Sūtra*, Fasc. 2. Ānanda: "指皆是物，無是見者." Eighth demonstration. T19, No. 0945.
 
-[^16]: *Śūraṅgama Sūtra*, Fasc. 2. "一切眾生從無始來迷己為物，失於本心，為物所轉……若能轉物，則同如來身心圓明，不動道場，於一毛端遍能含受十方國土." Tenth demonstration. T19, No. 0945.
+[^16]: *Śūraṅgama Sūtra*, Fasc. 2. "一切眾生從無始來迷己為物，失於本心，為物所轉……若能轉物，則同如來身心圓明，不動道場，於一毛端遍能含受十方國土." Seventh demonstration. T19, No. 0945.
 
 [^17]: *Śūraṅgama Sūtra*, Fasc. 2. "心猶未開……悲淚頂禮，承受聖旨." Ānanda's response after the ten demonstrations. T19, No. 0945.
 
@@ -551,7 +553,7 @@ If your answer has changed from before you read this paper — the paper has ser
 
 [^36]: *Śūraṅgama Sūtra*, Fasc. 2. "汝雖強記，但益多聞，於奢摩他微密觀照，心猶未了." T19, No. 0945.
 
-[^37]: *Zhèngmài Shū*, Fasc. 3. "向後轉名如來藏性，不復呼為見性之偏名矣." X12, No. 0275.
+[^37]: *Zhèngmài Shū*, Fasc. 2. "向後轉名如來藏性，不復呼為見性之偏名矣." X12, No. 0275.
 
 ---
 

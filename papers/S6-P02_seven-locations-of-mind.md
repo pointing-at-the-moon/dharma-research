@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P02"
 paper_number: 2
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Seven Locations of Mind: What You Think Is Your Mind Isn't
@@ -64,7 +64,7 @@ The analogy establishes the fundamental logic: without knowing the bandit's loca
 
 **Fifth Location — Mind Arises Wherever Contact Occurs.** Ānanda abandons fixed location entirely, citing the Buddha's own words — "From mind arise all dharmas; from dharmas arise all minds" — to argue that mind has no fixed abode but arises wherever contact happens. The Buddha pursues two lines: if mind has no substance of its own, "contact" cannot occur (the absurdity of a nineteenth dhātu merging with a seventh sense-object). If mind does have substance, does it emerge from within or enter from without? Is it singular or multiple? Does it pervade the whole body or not? If it pervades, touching the head should simultaneously be felt in the feet.[^10]
 
-**Sixth Location — Mind Is in the Middle.** This exchange has two rounds. First, Ānanda proposes spatial middle — the Buddha demolishes it through the relativity of directional markers: "middle" on the body is either edge or interior; "middle" in space shifts depending on the observer's orientation. Second, Ānanda refines his claim: mind arises in the middle between sense-faculty and sense-object — "Eye and form as conditions produce eye-consciousness; consciousness arises between them." The Buddha replies: if mind partakes of both faculty and object, the material and the mental are categorically different and would produce chaos if mixed. If mind partakes of neither, it has no substance, and "middle" has no locus.[^11]
+**Sixth Location — Mind Is in the Middle.** This exchange has two rounds. First, Ānanda proposes spatial middle — the Buddha demolishes it through the relativity of directional markers: "middle" on the body is either edge or interior; "middle" in space shifts depending on the observer's orientation. Second, Ānanda refines his claim: mind arises in the middle between sense-faculty and sense-object — "Eye and form as conditions produce eye-consciousness; ... consciousness arises between them." The Buddha replies: if mind partakes of both faculty and object, the material and the mental are categorically different and would produce chaos if mixed. If mind partakes of neither, it has no substance, and "middle" has no locus.[^11]
 
 **Seventh Location — Non-Attachment Is Mind.** This is the most profound of the seven. Having exhausted all positions — inside, outside, behind the faculty, in darkness, wherever contact occurs, in the middle — Ānanda retreats to a seemingly unassailable claim: "All things are unattached to; name this non-attachment 'mind.'" The Buddha forecloses even "nothing": is this "non-attachment" something or nothing? If nothing, it is like turtle-hair or rabbit-horn — non-existent, and non-attachment is meaningless. If something, it has characteristics, and what has characteristics has location — which contradicts "non-attachment."[^12]
 
@@ -120,7 +120,7 @@ Jiaoguang's correction matters: the Buddha was not interrogating Ānanda about m
 
 More analytically potent is Jiaoguang's three-tier framework of delusion:
 
-> "This false thinking has three kinds of non-reality, and beings develop three tiers of delusion from it: first, it is fundamentally not mind yet resembles mind; second, it fundamentally has no substance yet seems to have substance; third, it fundamentally has no location yet seems to have location. [The Buddha] does not directly refute the first two... but first seizes upon the third — the fixation on mind's location — having [Ānanda] examine each one and revealing that there is utterly no abode. **Only after the seven locations are exhausted and [Ānanda] still fails to awaken** does [the Buddha] then denounce it as not-mind and reveal its lack of substance."[^19]
+> "This false thinking has three kinds of non-reality, and beings develop three tiers of delusion from it: first, it is fundamentally not mind yet resembles mind...; second, it fundamentally has no substance yet seems to have substance...; third, it fundamentally has no location yet seems to have location... [The Buddha] does not directly refute the first two... but first seizes upon the third — the fixation on mind's location — having [Ānanda] examine each one and revealing that there is utterly no abode. **Only after the seven locations are exhausted and [Ānanda] still fails to awaken** does [the Buddha] then denounce it as not-mind and reveal its lack of substance."[^19]
 
 Three tiers: (1) mistaking what is not mind for mind; (2) presuming the false thought has substance; (3) presuming mind has location. The Seven Locations specifically targets tier three. Only after all seven "locations" are demolished does the Buddha advance to tiers one and two — a matter of pedagogical sequence, not logical oversight.
 
@@ -156,11 +156,11 @@ This passage exposes a critical equivocation: "mind" (citta, the accumulating fu
 
 The *Abhidharmasamuccayavyākhyā* (T1606), Fascicle Two, defines "direction" (diś):
 
-> "Direction means: with respect to the causal differentiation among east, west, south, north, the four intermediate points, above, and below, 'direction' is conceptually designated. **It should be understood that this refers solely to cause-and-effect within material dharmas (色法). Immaterial dharmas have no capacity to pervade spatial locations.**"[^26]
+> "Direction means: with respect to the causal differentiation among east, west, south, north, the four intermediate points, above, and below, 'direction' is conceptually designated. Why? Because 'direction' is provisionally spoken of with respect to cause and effect pervading the ten directions. **It should be understood that this refers solely to cause-and-effect within material dharmas (色法). Immaterial dharmas have no capacity to pervade spatial locations.**"[^26]
 
 This is the single most critical textual support for this paper's core thesis. "Direction" is the twentieth among the dharmas dissociated from mind (citta-dharma-viprayukta-saṃskāra), conceptually designated on the basis of material cause-and-effect. Directional concepts — east, west, up, down — are meaningful only within the domain of form (rūpa). Mind (citta), as a non-material dharma, fundamentally lacks the capacity to "occupy a spatial location."[^27]
 
-Every one of the Seven Locations presupposes an unexamined premise: that mind has a place. But "place" (diś) is itself a designation that mind projects onto material reality. To search for mind's location with mind is to use the measuring instrument as the thing measured — or to search for the glasses already perched on one's own head.
+Every one of the Seven Locations presupposes an unexamined premise: that mind has a place. But "place" (diś) is itself a designation that mind projects onto material reality. To search for mind's location with mind is to use the measuring instrument as the thing measured — or to search for the glasses already perched on one's own head. Reading all seven locations through the conceptual designation of "direction" is an analytical angle this paper borrows from Yogācāra, not a statement of the sūtra itself (this is the author's interpretation).
 
 ---
 
@@ -204,7 +204,7 @@ The deeper issue: Ānanda has substituted fluidity for fixity, but his conceptio
 
 The sixth exchange, unfolding in two rounds, shows both Ānanda's increasing sophistication and the Buddha's corresponding escalation.
 
-In the second round, Ānanda reaches his closest approximation of technical Yogācāra language: "Eye and form as conditions produce eye-consciousness; consciousness arises between them — this is where mind is." This sounds remarkably like the Yogācāra formula of the three-part convergence (根塵識三和合) — faculty meets object, consciousness arises.
+In the second round, Ānanda reaches his closest approximation of technical Yogācāra language: "Eye and form as conditions produce eye-consciousness; ... consciousness arises between them — this is where mind is." This sounds remarkably like the Yogācāra formula of the three-part convergence (根塵識三和合) — faculty meets object, consciousness arises.
 
 But Yogācāra "arising" is not a spatial event. When the tradition says consciousness arises from the convergence of faculty and object, it describes a temporal actualization of latent seeds — an event, not a place. To interpret "consciousness arises" as "consciousness sits between faculty and object" is to misread temporality as spatiality, process as position.
 
@@ -224,7 +224,7 @@ A single thread now runs through all seven: **every location presupposes that mi
 
 Inside is a place. Outside is a place. Behind the faculty is a place. The darkness is a place. Each point of contact is a place. Between faculty and object is a place. Even the seventh location's "non-attachment" occupies a place in conceptual space.
 
-But what is "place" itself? S3-P12 demonstrated the conceptual-designation status of "direction" (diś) among the dharmas dissociated from mind.[^27] The *Abhidharmasamuccayavyākhyā*'s definition is decisive: "Direction is conceptually designated solely on the basis of material cause-and-effect. Immaterial dharmas have no capacity to pervade spatial locations."
+But what is "place" itself? S3-P12 demonstrated the conceptual-designation status of "direction" (diś) among the dharmas dissociated from mind.[^27] The *Abhidharmasamuccayavyākhyā*'s definition is decisive: "Direction means: with respect to the causal differentiation among east, west, south, north, the four intermediate points, above, and below, 'direction' is conceptually designated. ... It should be understood that this refers solely to cause-and-effect within material dharmas; immaterial dharmas have no capacity to pervade spatial locations."
 
 "Direction" is designated only in dependence upon form. Mind, as a non-material dharma, simply does not possess the function of "occupying a direction."
 

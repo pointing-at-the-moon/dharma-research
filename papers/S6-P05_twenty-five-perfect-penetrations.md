@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Twenty-Five Perfect Penetrations: The Door That Fits You
@@ -25,7 +25,7 @@ The first four papers of this series completed the Śūraṅgama Sūtra's inner-
 
 Imagine twenty-five doors standing before you. Each one leads to exactly the same destination. But not every door is one you can open.
 
-By the end of the previous paper, we had established that the five aggregates, six sense-entries, twelve sense-bases, eighteen sense-realms, and seven elements — all dharmas whatsoever — are originally the wondrous true suchness of the tathāgatagarbha (如來藏妙真如性).[^1] This was the conclusion the Śūraṅgama Sūtra hammered home across fascicles 3–4 with thirty iterations of "originally neither causes-and-conditions nor spontaneous nature" and seven iterations of the core formula: "pure in original nature, pervading the dharma-realm, arising in accordance with sentient beings' minds, manifesting in proportion to their understanding, appearing through the momentum of karma."
+By the end of the previous paper, we had established that the five aggregates, six sense-entries, twelve sense-bases, eighteen sense-realms, and seven elements — all dharmas whatsoever — are originally the wondrous true suchness of the tathāgatagarbha (如來藏妙真如性).[^1] This was the conclusion the Śūraṅgama Sūtra hammered home across fascicles 2–3 with twenty-three iterations of "originally neither causes-and-conditions nor spontaneous nature" and six iterations of the core formula: "pure in original nature, pervading the dharma-realm, arising in accordance with sentient beings' minds, manifesting in proportion to their understanding, appearing through the momentum of karma."
 
 But after hearing all of this, Ānanda asked the question that any serious practitioner would ask:
 
@@ -37,7 +37,7 @@ The Buddha's response was not another theory. He used the metaphor of a silk clo
 
 > "Select a faculty for perfect penetration; enter the stream and realize true awakening."[^3]
 
-Six characters in the original. Choose a faculty (根, gēn). Enter the stream (入流, rùliú). That is the path to awakening.
+Ten characters in the original. Choose a faculty (根, gēn). Enter the stream (入流, rùliú). That is the path to awakening.
 
 But which faculty? This is the question the chapter on Twenty-Five Perfect Penetrations sets out to answer. The Buddha did not prescribe the answer himself. Instead, he asked twenty-five accomplished sages — bodhisattvas, arhats, dharma-princes — to stand and report which entry-point each had used. Then he requested Mañjuśrī to make the final selection.
 
@@ -127,7 +127,7 @@ The structure is not linear advancement but progressive negation: first negate t
 
 The fruit of this realization is "obtaining two supreme qualities": "Above, I merge with the fundamental wondrous awakened mind of all buddhas of the ten directions, sharing the same compassionate power as the tathāgatas. Below, I merge with all sentient beings of the six destinies in the ten directions, sharing the same aspiration of compassion."[^14] Compassionate power upward, compassionate aspiration downward — this is the core virtue of Avalokiteśvara: great compassion (大慈大悲).
 
-From this fruit unfold the thirty-two response-bodies, fourteen kinds of fearlessness, and four inconceivable powers. All originate from what the text calls "the vajra samādhi of hearing-permeation and hearing-cultivation, with its effortless wondrous power" (聞薰聞修金剛三昧無作妙力) — a term that appears three times across Avalokiteśvara's report, threading together his causal cultivation, his fruit-qualities, and his wondrous functioning.[^15]
+From this fruit unfold the thirty-two response-bodies, fourteen kinds of fearlessness, and four inconceivable powers. All originate from what the text calls "the vajra samādhi of hearing-permeation and hearing-cultivation, with its effortless wondrous power" (聞薰聞修金剛三昧無作妙力) — its core, 聞薰聞修 (hearing-permeation and hearing-cultivation), appears three times, threading through the sections on the thirty-two response-bodies and the fourteen kinds of fearlessness; the full phrase appears only once.[^15]
 
 #### 2.4 Mañjuśrī's Selection: "The True Teaching-Substance of This Land Is Pure and Lies in Hearing"
 
@@ -215,7 +215,7 @@ The most common misreading of the twenty-five penetrations is to treat them as "
 
 Zixuan's four-gate taxonomy reveals the report's internal structure: penetrations through sense-objects, sense-faculties, consciousness, and the great elements.[^37] This classification is not arranged by difficulty or by degree of sublimity, but by the *type of object upon which practice is based* — does one work from "the perceived object" (sense-object), "the perceiving capacity" (sense-faculty), "the act of perception" (consciousness), or "the nature of the constitutive elements" (great element)?
 
-Jiaoguang further distinguished the structural orientations: "Following the current of sense-objects and consciousness, winding one's way to the Way — this is called 'forward entry.' Reversing the outward flow of the faculty-nature and turning back to enter the nature — this is called 'reverse entry.'"[^38] Penetrations through sense-objects and consciousness are "forward entries" — following the current of perception to arrive at the goal by a longer route. Penetrations through sense-faculties are "reverse entries" — reversing the outward direction and returning directly. Jiaoguang specifically observed that all the sense-faculty penetrations share the vocabulary of "reversing" and "turning back" (旋, 反): Aniruddha's "reversing the seeing to trace its origin," Maudgalyāyana's "reversing the clear, still radiance." This is not coincidence but the common structural signature of "penetration through sense-faculties."
+Jiaoguang further distinguished the structural orientations: "Following the current of sense-objects and consciousness, winding one's way to the Way — this is called 'forward entry.' … Reversing the outward flow of the faculty-nature and turning back to enter the nature — this is called 'reverse entry.'"[^38] Penetrations through sense-objects and consciousness are "forward entries" — following the current of perception to arrive at the goal by a longer route. Penetrations through sense-faculties are "reverse entries" — reversing the outward direction and returning directly. Jiaoguang specifically observed that all the sense-faculty penetrations share the vocabulary of "reversing" and "turning back" (旋, 反): Aniruddha's "reversing the seeing to trace its origin" (旋見循元), Gavāṃpati's "returning the taste and reversing the knowing" (還味旋知), Subhūti's "reversing dharmas back to nothingness" (旋法歸無). This is not coincidence but the common structural signature of "penetration through sense-faculties." (Maudgalyāyana's "reversing the clear stillness, the mind's radiance shining forth" [旋湛心光] also contains 旋, but his is the penetration through mind-consciousness, not through a sense-faculty.)
 
 Understanding this classification is prerequisite to understanding Mañjuśrī's selection: he is not picking the "best" from among twenty-five parallel options, but identifying which *type* of approach — and which specific faculty within that type — best matches the faculty-disposition characteristic of beings in this world.
 
@@ -235,7 +235,7 @@ The three together — circular (spatially encompassing), penetrating (materiall
 
 The *Saṃdhinirmocana Sūtra*'s four-type analysis provides a crucial interpretive framework for the twenty-five penetrations: the efficacy of a method depends not on the "quality" of the method itself, but on the degree of "fit" between the method and the practitioner's faculty-disposition.[^42]
 
-This framework applies directly to the twenty-five reports. Kauṇḍinya awakened through the sense-object of sound because his karmic history was bound to "sound" — he was the first person to hear the Buddha's voice at the Deer Park. Aniruddha awakened through the eye-faculty because his blindness forced him to confront the seeing-nature directly. Mahāsthāmaprāpta awakened through mindfulness of the Buddha because his deepest karmic connection was with Amitābha's lineage — recollection (念) was his most well-practiced mental activity.
+This framework applies directly to the twenty-five reports. Kauṇḍinya awakened through the sense-object of sound because his karmic history was bound to "sound" — he was the first person to hear the Buddha's voice at the Deer Park. Aniruddha awakened through the eye-faculty because his blindness forced him to confront the seeing-nature directly. Mahāsthāmaprāpta awakened through mindfulness of the Buddha because the Buddha Surpassing the Light of Sun and Moon (超日月光) — last of the twelve Tathāgatas who succeeded one another through a kalpa, beginning with the Buddha Immeasurable Light (無量光) — taught him the samādhi of mindfulness of the Buddha; recollection (念) was his most well-practiced mental activity.
 
 Jiaoguang's analysis sharpens this point: "Chan practitioners base their realization on the specific point of the present life's awakening, but that is not necessarily their cultivated method. How could Lingyun have taken peach blossoms as his method of cultivation? It was simply that his investigation of the doubt had been pushed to the extreme, and he happened to break through at the moment of seeing the blossoms."[^43] Awakening may be *triggered* by a specific sensory contact, but the true "method" is the sustained cultivation that brought the practitioner to that tipping point. Similarly, the twenty-five sages' reports are not random triggers but the core axis of their long-term practice.
 
@@ -394,7 +394,7 @@ What hears has always been there.
 
 ## Footnotes
 
-[^1]: See S6-P04, §3 Core Argument. The thirty iterations of "originally neither causes-and-conditions nor spontaneous nature" (本非因緣、非自然性) and seven iterations of the core formula appear across fascicles 3–4 of the *Śūraṅgama Sūtra*, T19, No. 945.
+[^1]: See S6-P04, §3 Core Argument. The twenty-three iterations of "originally neither causes-and-conditions nor spontaneous nature" (本非因緣、非自然性) in the four categories (aggregates 5, sense-entries 6, sense-bases 6, sense-realms 6) and the six iterations of the core formula in the first six of the seven elements (earth, fire, water, wind, space, seeing; the conclusion on the consciousness element reads only 「遍周法界……循業發現」) appear across fascicles 2–3 of the *Śūraṅgama Sūtra*, T19, No. 945.
 
 [^2]: *Śūraṅgama Sūtra*, fascicle 5. Chinese: 「我及會中有學聲聞……從無始際，與諸無明俱滅俱生，雖得如是多聞善根，名為出家，猶隔日瘧。唯願大慈哀愍淪溺！今日身心云何是結？從何名解？」T19, No. 945.
 
@@ -408,7 +408,7 @@ What hears has always been there.
 
 [^7]: *Śūraṅgama Sūtra*, fascicle 5. Chinese: 「汝等菩薩及阿羅漢，生我法中得成無學。吾今問汝，最初發心悟十八界，誰為圓通？從何方便入三摩地？」T19, No. 945.
 
-[^8]: *Śūraṅgama Commentary* (Zixuan), fascicles 5–6. The four gates: 依塵顯悟門 (awakening through sense-objects), 依根證入門 (realization through sense-faculties), 依識修斷門 (cultivation through consciousness), 依大歸性門 (returning to nature through great elements). T39, No. 1799.
+[^8]: *Śūraṅgama Commentary* (Zixuan), fascicle 6. The four gates: 依塵顯悟門 (awakening through sense-objects), 依根證入門 (realization through sense-faculties), 依識修斷門 (cultivation through consciousness), 依大歸性門 (returning to nature through great elements). T39, No. 1799.
 
 [^9]: *Śūraṅgama Sūtra*, fascicle 5. Chinese: 「我在鹿苑及於雞園，觀見如來最初成道，於佛音聲悟明四諦。……妙音密圓，我於音聲得阿羅漢。」T19, No. 945.
 
@@ -422,7 +422,7 @@ What hears has always been there.
 
 [^14]: *Śūraṅgama Sūtra*, fascicle 6. Chinese: 「獲二殊勝：一者、上合十方諸佛本妙覺心，與佛如來同一慈力。二者、下合十方一切六道眾生，與諸眾生同一悲仰。」T19, No. 945.
 
-[^15]: The phrase 聞薰聞修金剛三昧 appears three times: (1) in the context of receiving the teaching from Avalokiteśvara Buddha; (2) as the foundation of the fourteen kinds of fearlessness; (3) as the ground of the four inconceivable powers. These three occurrences thread together the causal cultivation, fruit-qualities, and wondrous functioning of Avalokiteśvara's practice.
+[^15]: The core 聞薰聞修 appears three times: (1) 「蒙彼如來授我如幻聞薰聞修金剛三昧」, receiving the teaching from Avalokiteśvara Buddha, at the head of the thirty-two response-bodies; (2) 「皆以三昧聞薰聞修無作妙力自在成就」, the conclusion of the thirty-two response-bodies; (3) 「我復以此聞薰聞修金剛三昧無作妙力」, at the head of the fourteen kinds of fearlessness. The full phrase 聞薰聞修金剛三昧無作妙力 occurs only in (3). The four inconceivable powers are introduced as 「又能善獲四不思議無作妙德」, and the first of them reads 「由我初獲妙妙聞心」; 聞薰聞修 does not recur there. *Śūraṅgama Sūtra*, fascicle 6, T19, No. 945.
 
 [^16]: *Śūraṅgama Sūtra*, fascicle 6. Chinese: 「歸元性無二，方便有多門。聖性無不通，順逆皆方便；初心入三昧，遲速不同倫。」T19, No. 945.
 
@@ -468,7 +468,7 @@ What hears has always been there.
 
 [^37]: Same as note 25.
 
-[^38]: *Śūraṅgama Commentary* (Jiaoguang), fascicle 5. Chinese: 「順塵識流，宛轉達道，曰順入。逆根性之外流，而旋反入性，曰逆入。」X12, No. 275.
+[^38]: *Śūraṅgama Commentary* (Jiaoguang), fascicle 6. Chinese: 「順塵識流，宛轉達道，曰順入。……逆根性之外流，而旋反入性，曰逆入。」X12, No. 275.
 
 [^39]: Same as note 18.
 

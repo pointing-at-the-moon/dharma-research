@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Four Categories and Seven Elements: All Dharmas Are Originally Tathāgatagarbha
@@ -15,7 +15,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Śūraṅgama Sūtra (T0945), from the end of fascicle two through fascicle three, exhaustively classifies all dharmas into four categories — the five aggregates (*pañca-skandha*), six entrances (*ṣaḍ-āyatana*), twelve sense-bases (*dvādaśa-āyatana*), and eighteen realms (*aṣṭādaśa-dhātu*) — and seven elements (*sapta-mahābhūta*: earth, water, fire, wind, space, seeing, consciousness). Within each classification, the Buddha demonstrates that these dharmas are "originally neither caused by conditions nor arising from a self-nature" — their nature is "the marvelous true suchness of the tathāgatagarbha" (如來藏妙真如性, *tathāgatagarbha-māhā-tattva-svabhāva*). This paper argues that this teaching does not mean "the aggregates are empty, therefore they are tathāgatagarbha," but rather "the aggregates, sense-bases, realms, and elements have always been tathāgatagarbha in their very nature." Drawing on Jiāoguāng Zhēnjiàn's (交光真鑑) exegetical framework in X0275, the paper demonstrates a structural progression: the four categories belong to the empty tathāgatagarbha (*śūnya-tathāgatagarbha*) — subsuming phenomena into principle — while the seven elements belong to the non-empty tathāgatagarbha (*aśūnya-tathāgatagarbha*) — fully manifesting the true. This represents an upgrade from "each dharma is true in itself" to "each dharma pervades all."
+The Śūraṅgama Sūtra (T0945), from the end of fascicle two through fascicle three, exhaustively classifies all dharmas into four categories — the five aggregates (*pañca-skandha*), six entrances (*ṣaḍ-āyatana*), twelve sense-bases (*dvādaśa-āyatana*), and eighteen realms (*aṣṭādaśa-dhātu*) — and seven elements (*sapta-mahābhūta*: earth, water, fire, wind, space, seeing, consciousness). Within each classification, the Buddha demonstrates that these dharmas are "originally neither caused by conditions nor arising from a self-nature" — their nature is "the marvelous true suchness of the tathāgatagarbha" (如來藏妙真如性, *tathāgatagarbha-māhā-tattva-svabhāva*). This paper argues that this teaching does not mean "the aggregates are empty, therefore they are tathāgatagarbha," but rather "the aggregates, sense-bases, realms, and elements have always been tathāgatagarbha in their very nature." Drawing on Jiāoguāng Zhēnjiàn's (交光真鑑) exegetical framework in X0275, the paper traces a structural progression from "each dharma is true in itself" (the four categories) to "each dharma pervades all" (the seven elements). Jiāoguāng himself places both within his answer to Ānanda that "returns the deluded to the true, revealing the unchanging substance of the empty garbha"; the paper's further pairing of the four categories with the empty tathāgatagarbha (*śūnya-tathāgatagarbha*) — subsuming phenomena into principle — and the seven elements with the non-empty tathāgatagarbha (*aśūnya-tathāgatagarbha*) — fully manifesting the true — is the author's interpretation.
 
 **Keywords:** Four categories and seven elements, tathāgatagarbha, empty tathāgatagarbha, non-empty tathāgatagarbha, originally pure by nature, neither caused by conditions nor arising from self-nature
 
@@ -113,7 +113,7 @@ Here appears the most important formula in this section of the Śūraṅgama. Ta
 
 > "You do not know that within the tathāgatagarbha, **the nature of form is true emptiness, the nature of emptiness is true form** — **originally pure by nature, pervading the dharma-realm; following sentient beings' minds, corresponding to what they know; manifesting according to their karma.** Worldly beings in their ignorance mistake it for conditions or a self-nature — all this is the discriminating calculation of the consciousness-mind; there are merely words, utterly without real meaning."[^11]
 
-This formula — **"originally pure by nature, pervading the dharma-realm; following sentient beings' minds, corresponding to what they know; manifesting according to their karma"** (*qīngjìng běnrán, zhōubiàn fǎjiè, suí zhòngshēng xīn, yìng suǒ zhī liàng, xún yè fāxiàn* 清淨本然，周遍法界，隨眾生心，應所知量，循業發現) — appears in full at the conclusion of every single element, seven times total.[^12] For earth it is "the nature of form is true emptiness, the nature of emptiness is true form"; for fire, "the nature of fire is true emptiness"; for water, wind, space, seeing, and consciousness, each substitutes its own name into the identical formula. This is not redundancy — it is pedagogical design: seven repetitions so that the practitioner personally confirms the same structure within each element.
+This formula — **"originally pure by nature, pervading the dharma-realm; following sentient beings' minds, corresponding to what they know; manifesting according to their karma"** (*qīngjìng běnrán, zhōubiàn fǎjiè, suí zhòngshēng xīn, yìng suǒ zhī liàng, xún yè fāxiàn* 清淨本然，周遍法界，隨眾生心，應所知量，循業發現) — appears in full at the conclusions of the first six elements (earth, fire, water, wind, space, seeing), six times; the consciousness element's conclusion reads only "wondrous awareness, serene, pervading the dharma-realm, holding and releasing the ten voids — how could it have a location? — manifesting according to karma," while the four characters "manifesting according to karma" appear in all seven.[^12] For earth it is "the nature of form is true emptiness, the nature of emptiness is true form"; for fire, "the nature of fire is true emptiness"; for water, wind, space, and seeing, each substitutes its own name into the identical formula, and consciousness opens with "the nature of consciousness is luminous knowing, the awakened luminosity is true consciousness." This is not redundancy — it is pedagogical design: seven repetitions so that the practitioner personally confirms the same structure within each element.
 
 Even more significant is the incremental subsumption of the seven elements' conclusions:
 
@@ -151,7 +151,7 @@ On the seven elements, Zǐxuán provides a further precision:
 
 #### 2.7 Jiāoguāng Zhēnjiàn, *Zhèngmài Shū* (X0275)
 
-Jiāoguāng's exegesis provides the clearest structural framework for the four categories and seven elements. He first confirms the tathāgatagarbha classification of the four categories:
+Jiāoguāng's exegesis provides the clearest structural framework for the four categories and seven elements. At the close of his section "the Tathāgata demolishes the false and reveals the true" (which spans the seven locations, the ten demonstrations, the four categories, and the seven elements), he confirms its tathāgatagarbha classification:
 
 > "It is precisely the subsuming of phenomena into principle, the merging of appearances into nature, nothing more. It has not yet reached the arising of appearances from the nature, the forming of phenomena from principle. Among the three storehouses, **it belongs precisely to the empty tathāgatagarbha**."[^18]
 
@@ -159,7 +159,7 @@ He then identifies the crucial difference between the four categories and the se
 
 > "The four categories merely speak of each dharma as being truly the nature, but have not yet said that each dharma pervades the dharma-realm… It is only with the seven elements that each dharma pervades the dharma-realm, hence they are collectively called 'great'… **The former reveals that each dharma is true and constant in its own body; the latter reveals that each dharma is interpenetrating and all-pervading.**"[^19]
 
-This passage warrants repeated reading. The four categories say "each dharma is true and constant in itself" (*fǎ fǎ dāngtǐ zhēncháng* 法法當體真常). The seven elements say "each dharma interpenetrates and pervades all" (*fǎ fǎ yuánróng zhōubiàn* 法法圓融周遍). The former belongs to the empty tathāgatagarbha (subsuming phenomena into principle); the latter enters the non-empty tathāgatagarbha (fully manifesting the true).
+This passage warrants repeated reading. The four categories say "each dharma is true and constant in itself" (*fǎ fǎ dāngtǐ zhēncháng* 法法當體真常). The seven elements say "each dharma interpenetrates and pervades all" (*fǎ fǎ yuánróng zhōubiàn* 法法圓融周遍). The former belongs to the empty tathāgatagarbha (subsuming phenomena into principle); the latter enters the non-empty tathāgatagarbha (fully manifesting the true) — although Jiāoguāng himself places both within his answer to Ānanda (Qìngxǐ 慶喜), "returning the deluded to the true, revealing the unchanging substance of the empty garbha," and begins the non-empty garbha only with his answer to Pūrṇa (Mǎncí 滿慈), "the arising of the deluded from the true, revealing the function of the non-empty that accords with conditions." Pairing the seven elements with the non-empty tathāgatagarbha is the author's interpretation.
 
 Jiāoguāng's position within his overall exegetical framework:
 
@@ -228,7 +228,7 @@ The formula that concludes every single item in the four categories is "original
 
 ### 3.3 The Core Formula — "Originally Pure by Nature, Pervading the Dharma-Realm; Following Sentient Beings' Minds, Corresponding to What They Know; Manifesting According to Their Karma"
 
-This formula appears complete at the conclusion of each of the seven elements, seven times in total.[^28] A phrase-by-phrase analysis:
+This formula appears complete at the conclusions of the first six elements, six times in total; the consciousness element retains only "pervading the dharma-realm" and "manifesting according to karma."[^28] A phrase-by-phrase analysis:
 
 **"Originally pure by nature"** (*qīngjìng běnrán* 清淨本然) — the intrinsic state of the tathāgatagarbha. Not "purified through practice" but "originally pure." Not "becoming pure at some later point" but "having been so from the outset." This echoes the Heart Sūtra's "neither defiled nor pure" — never having been contaminated, it does not need to be "purified."
 
@@ -252,7 +252,7 @@ The seven elements break through this limitation. They do not merely say "the ea
 
 This is the upgrade from "each dharma is true in itself" to "each dharma pervades all." The four categories tell you each dharma is true; the seven elements tell you each dharma not only is true but pervades and contains all.[^29]
 
-In Jiāoguāng's three-storehouse exegesis, this corresponds to the progression from the empty tathāgatagarbha to the non-empty tathāgatagarbha:
+This paper reads the upgrade as a progression from the empty tathāgatagarbha to the non-empty tathāgatagarbha (Jiāoguāng himself assigns both the four categories and the seven elements to the empty garbha and says this section "has not yet reached the arising of appearances from the nature, the forming of phenomena from principle"; see §2.7 — the table below is the author's interpretation):
 
 | Textual Scope | Tathāgatagarbha Classification | Method | Result |
 |---|---|---|---|
@@ -416,11 +416,11 @@ The way home is not a single road. Twenty-five great ones each found their own d
 [^9]: 《大佛頂首楞嚴經》卷三 (T19, No. 945): 「汝且觀此祇陀樹林及諸泉池……是故當知見與色空俱無處所……本非因緣、非自然性。」
 [^10]: 《大佛頂首楞嚴經》卷三 (T19, No. 945): 「若因眼生既無色空……是故當知眼色為緣生眼識界三處都無……本非因緣、非自然性。」
 [^11]: 《大佛頂首楞嚴經》卷三 (T19, No. 945): 「汝元不知如來藏中性色真空性空真色，清淨本然周遍法界，隨眾生心應所知量，循業發現……」Earth-element passage.
-[^12]: The core formula "originally pure by nature, pervading the dharma-realm; following sentient beings' minds, corresponding to what they know; manifesting according to their karma" (清淨本然，周遍法界，隨眾生心，應所知量，循業發現) appears in the conclusion of each of the seven elements — earth, fire, water, wind, space, seeing, and consciousness — seven times total. Each substitutes its own pair: "the nature of form is true emptiness" (性色真空), "the nature of fire is true emptiness" (性火真空), etc.
+[^12]: The core formula "originally pure by nature, pervading the dharma-realm; following sentient beings' minds, corresponding to what they know; manifesting according to their karma" (清淨本然，周遍法界，隨眾生心，應所知量，循業發現) appears in full in the conclusions of six elements — earth, fire, water, wind, space, and seeing (sometimes with an illustration inserted before "manifesting according to their karma"); the consciousness element's conclusion reads "the nature of consciousness is luminous knowing, the awakened luminosity is true consciousness … pervading the dharma-realm, holding and releasing the ten voids … manifesting according to karma" (性識明知、覺明真識……遍周法界，含吐十虛……循業發現), without "originally pure by nature" or "following sentient beings' minds, corresponding to what they know." Thus the full formula appears six times, and "manifesting according to karma" seven times. Each substitutes its own pair: "the nature of form is true emptiness" (性色真空), "the nature of fire is true emptiness" (性火真空), etc.
 [^13]: 《大佛頂首楞嚴經》卷三 (T19, No. 945): Space-element conclusion: 「均名五大，性真圓融，皆如來藏」; seeing-element: 「均名六大」; consciousness-element: 「均名七大，性真圓融，皆如來藏，本無生滅。」
 [^14]: 《大佛頂首楞嚴經》卷三末 (T19, No. 945): 「是諸大眾各各自知心遍十方……如湛巨海流一浮漚起滅無從。」
 [^15]: Same passage, Ānanda's verse-praise: 「如一眾生未成佛，終不於此取泥洹。」
-[^16]: 《首楞嚴義疏注經》卷四 (T39, No. 1799): 「三科七大即相即性，本自不生今則無滅……清淨本然。」
+[^16]: 《首楞嚴義疏注經》卷三 (T39, No. 1799): 「三科七大即相即性，本自不生今則無滅……清淨本然。」
 [^17]: 《首楞嚴義疏注經》卷三 (T39, No. 1799): 「七義之中攝一切法……會相即性，性遍相遍，方稱勝義至極之大。」
 [^18]: 《大佛頂首楞嚴經正脈疏》卷三 (X12, No. 275): 「正惟攝事歸理，融相入性而已……正惟屬於空如來藏。」
 [^19]: Same, 「四科方談其一一皆是性真……前顯法法當體真常，後乃顯法法圓融周徧。」
@@ -441,7 +441,7 @@ The way home is not a single road. Twenty-five great ones each found their own d
 [^34]: The Earth analogy is an original heuristic by Shi Huijing. ⚠️ Heuristic analogy, not theoretical equivalence — the tathāgatagarbha is not a physical entity, does not occupy space, and cannot be understood through spatial metaphors.
 [^35]: See note [^25]. The Laṅkāvatāra's statement is the Buddha's own protective declaration against the misreading of the tathāgatagarbha teaching as *ātman*.
 [^36]: See note [^27].
-[^37]: Jiāoguāng's three-storehouse exegesis: empty tathāgatagarbha (four categories + ten demonstrations) → non-empty tathāgatagarbha (seven elements) → neither-empty-nor-non-empty tathāgatagarbha (fascicle 4's complete revelation). The present paper addresses the first two layers; the third belongs to Pūrṇa's question in fascicle 4 and will be treated in subsequent S6 papers.
+[^37]: Jiāoguāng's three-storehouse exegesis: empty tathāgatagarbha (the answer to Ānanda, "returning the deluded to the true, revealing the unchanging substance of the empty garbha," covering everything from the seven locations to the seven elements) → non-empty tathāgatagarbha (the answer to Pūrṇa, "the arising of the deluded from the true, revealing the function of the non-empty that accords with conditions") → neither-empty-nor-non-empty tathāgatagarbha ("illuminating both nature and characteristics, seeing that the empty and the non-empty are both unobstructed, and fully displaying the total substance and great function of the three garbhas"); *Zhèngmài Shū*, fasc. 1 (X12, No. 275). The present paper's assignment of the four categories and the seven elements to the empty and non-empty garbhas respectively is the author's interpretation; the latter two layers belong to Pūrṇa's question in fascicle 4 and will be treated in subsequent S6 papers.
 
 ---
 

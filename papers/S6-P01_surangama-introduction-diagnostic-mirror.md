@@ -1,12 +1,12 @@
 ---
 title: "Introduction to the Śūraṅgama Sūtra: The Practitioner's Diagnostic Mirror"
 author: "釋慧鏡 (Shi Huijing)"
-series: "S6 Illumination (照) — Śūraṅgama Sūtra (Paper 1 of 11)"
+series: "S6 Illumination (照) — Śūraṅgama Sūtra (Paper 1 of 13)"
 series_short: "S6"
 paper_id: "S6-P01"
 paper_number: 1
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Introduction to the Śūraṅgama Sūtra: The Practitioner's Diagnostic Mirror
@@ -199,19 +199,19 @@ Zixuan further elaborates:
 
 This exegesis reveals the title's core import: *śūraṅgama* is not a particular meditation technique but the ultimate samādhi whose substance is non-discriminative wisdom in quiescent function, exhausting the entirety of the dharma-realm without remainder. "Hidden cause" is not only the dhāraṇī (doctrinal hiddenness) but the one-mind contemplation embracing emptiness, provisionality, and the middle (practical hiddenness)—upon accomplishment, called the "three secret repositories."
 
-#### 2.6 Jiāoguāng's *Zhèngmài Shū*: The Three Tathāgatagarbha Classification
+#### 2.6 Jiāoguāng's *Zhèngmài Shū*: Mapping Three Segments of the Title onto the Three Names
 
-The Ming-dynasty commentator Jiāoguāng Zhēnjiàn 交光真鑑, in his *Léngyán Jīng Zhèngmài Shū* (X0275), proposed an influential schema for the entire sūtra: mapping the "three tathāgatagarbhas" (empty, non-empty, both empty and non-empty) onto the three names in the title—śamatha, samāpatti, and dhyāna—to classify the sūtra's complete teaching.
+The Ming-dynasty commentator Jiāoguāng Zhēnjiàn 交光真鑑, in his *Léngyán Jīng Zhèngmài Shū* (X0275), proposed an influential schema for the entire sūtra: mapping three segments of the title—"hidden cause of the Tathāgata," "cultivation and realization of definitive meaning," and "myriad practices of all bodhisattvas"—onto the three names in Ānanda's request—śamatha, samāpatti, and dhyāna—to classify the sūtra's complete teaching; the "three tathāgatagarbhas" (empty, non-empty, both empty and non-empty) belong as a whole to the "hidden cause" segment, that is, the wondrous śamatha.
 
-On the empty tathāgatagarbha (corresponding to śamatha):
+On the hidden cause of the Tathāgata (corresponding to śamatha):
 
 > 以此三如來藏性，即是自性本定。而頓悟了達于茲者，即微密觀照故也。[^21]
 
-On the non-empty tathāgatagarbha (corresponding to samāpatti/definitive meaning):
+On the cultivation and realization of definitive meaning (corresponding to samāpatti):
 
 > 用根則以不生滅性為因……決定能成無上菩提，故為了義。[^22]
 
-On the both-empty-and-non-empty tathāgatagarbha (corresponding to dhyāna/myriad practices):
+On the myriad practices of all bodhisattvas (corresponding to dhyāna):
 
 > 要之根柢於三如來藏，歸極於無障礙法界。[^23]
 
@@ -265,7 +265,7 @@ What is the "seeing" that sees the Tathāgata?
 
 You already know that no characteristic can be grasped. Very well. What comes next? With what do you "see"? How do you know that what you see is the Tathāgata rather than yet another layer of illusion?
 
-The Śūraṅgama's ten demonstrations of seeing-nature (fascicles two and three) come to answer precisely this—the seeing-nature is not eye-consciousness, not conceptual thought, does not arise or cease with objects, does not come or go with conditions. S5 dismantled the "seen" (all characteristics); S6 now turns to interrogate the "seer" (the seeing-nature itself).
+The Śūraṅgama's ten demonstrations of seeing-nature (fascicles one and two) come to answer precisely this—the seeing-nature is not eye-consciousness, not conceptual thought, does not arise or cease with objects, does not come or go with conditions. S5 dismantled the "seen" (all characteristics); S6 now turns to interrogate the "seer" (the seeing-nature itself).
 
 ---
 
@@ -277,13 +277,13 @@ The teaching across the Śūraṅgama's ten fascicles does not unfold linearly�
 
 **Inner circle (fascicles 1–4): Where is your mind?**
 
-The seven locations of mind (fascicle 1) dismantle seven misidentifications of "mind." The ten demonstrations of seeing-nature (fascicles 2–3) positively reveal ten facets of the seeing-nature—it does not age with the face, does not vanish with objects, cannot be reduced to any external condition. The four categories and seven elements (fascicles 3–4) further subsume the five aggregates, twelve sense-fields, eighteen dhātus, and seven elements under tathāgatagarbha—not emptied out but originally "thus-as-it-is."
+The seven locations of mind (fascicle 1) dismantle seven misidentifications of "mind." The ten demonstrations of seeing-nature (fascicles 1–2) positively reveal ten facets of the seeing-nature—it does not age with the face, does not vanish with objects, cannot be reduced to any external condition. The four categories and seven elements (fascicles 2–3) further subsume the five aggregates, twelve sense-fields, eighteen dhātus, and seven elements under tathāgatagarbha—not emptied out but originally "thus-as-it-is."
 
 The core function of the inner circle is **mind-verification**: not teaching you what the mind is, but making you investigate for yourself—is what you have always taken to be your "mind" actually real?
 
-**Middle circle (fascicles 5–7): How to practice?**
+**Middle circle (fascicle 5 to early fascicle 8): How to practice?**
 
-The twenty-five penetrations (fascicles 5–6) provide twenty-five paths of entry into realization, each demonstrated by a sage in person. Mañjuśrī's final selection identifies Avalokiteśvara's ear-faculty penetration as most suited to the sahā world. The three gradual stages and the Ground of Dry Wisdom (early fascicle 6) establish the prerequisites for practice. The four definitive instructions (late fascicle 6 through fascicle 7) set up guardrails—the four root precepts against killing, stealing, sexual misconduct, and false speech are not moral platitudes but structural safeguards against going astray. The Śūraṅgama dhāraṇī (fascicle 7) serves as a protective force for practice.
+The twenty-five penetrations (fascicles 5–6) provide twenty-five paths of entry into realization, each demonstrated by a sage in person. Mañjuśrī's final selection identifies Avalokiteśvara's ear-faculty penetration as most suited to the sahā world. The three gradual stages and the Ground of Dry Wisdom (fascicle 8) establish the prerequisites for practice. The four definitive instructions (late fascicle 6 through fascicle 7) set up guardrails—the four root precepts against killing, stealing, sexual misconduct, and false speech are not moral platitudes but structural safeguards against going astray. The Śūraṅgama dhāraṇī (fascicle 7) serves as a protective force for practice.
 
 The core function of the middle circle is **practice methods**: you now know the mind is not where you thought—what do you do about it?
 
@@ -295,7 +295,7 @@ The core function of the outer circle is **discernment**: you are already practi
 
 The three circles are not three independent stages. They coexist and mutually support one another: you need the inner circle's mind-verification to truly enter the middle circle's practice methods, you need the outer circle's discernment to confirm the practice has not deviated, and every deviation catalogued in the outer circle points back to the inner circle—have you once again mistaken some illusion for your true mind?
 
-Jiāoguāng's three-tathāgatagarbha schema (§2.6) provides an additional theoretical framework for these three circles: the inner circle corresponds to the empty tathāgatagarbha (śamatha—calming, seeing the mind's original face), the middle circle to the non-empty tathāgatagarbha (samāpatti—contemplation, cultivating with the non-arising-and-ceasing nature as cause), and the outer circle to the both-empty-and-non-empty tathāgatagarbha (dhyāna—myriad practices complete, returning to the unobstructed dharma-realm). The three tathāgatagarbhas are not three separate entities but three facets of the same tathāgatagarbha—just as the three concentric circles are not three regions but three functional layers of a single sūtra.
+Jiāoguāng's teaching of the three tathāgatagarbhas (§2.6) can provide an additional theoretical framework for these three circles (this is the author's interpretation; Jiāoguāng himself places the three tathāgatagarbhas as a whole in the "hidden cause" segment, the wondrous śamatha): the inner circle corresponds to the empty tathāgatagarbha (śamatha—calming, seeing the mind's original face), the middle circle to the non-empty tathāgatagarbha (samāpatti—contemplation, cultivating with the non-arising-and-ceasing nature as cause), and the outer circle to the both-empty-and-non-empty tathāgatagarbha (dhyāna—myriad practices complete, returning to the unobstructed dharma-realm). The three tathāgatagarbhas are not three separate entities but three facets of the same tathāgatagarbha—just as the three concentric circles are not three regions but three functional layers of a single sūtra.
 
 ### 3.2 The Positioning of "Illumination"—From the Heart Sūtra to the Śūraṅgama
 
@@ -321,17 +321,17 @@ The Mātaṅgī incident in the Śūraṅgama is not an introductory backstory f
 
 The entire structure of the sūtra is the complete therapeutic response to "broad learning did not perfect the power of the Way."
 
-### 3.4 Preview of the Eleven Papers in the S6 Series
+### 3.4 Preview of the Thirteen Papers in the S6 Series
 
-This series unfolds eleven papers along the three concentric circles, each addressing a core dimension of the Śūraṅgama.
+This series unfolds thirteen papers along the three concentric circles, each addressing a core dimension of the Śūraṅgama.
 
 **Inner circle—mind-verification (P02–P04).** P02 treats the seven locations of mind; P03 the ten demonstrations of seeing-nature; P04 the four categories and seven elements, where all dharmas are shown to be originally tathāgatagarbha.
 
 **Middle circle—practice methods (P05–P07).** P05 treats the twenty-five penetrations; P06 the three gradual stages and Ground of Dry Wisdom; P07 the four definitive instructions and the role of the Śūraṅgama dhāraṇī.
 
-**Outer circle—discernment (P08–P10).** P08 addresses the māra of the form and sensation aggregates (twenty deviations); P09 the māra of perception and formation (twenty deviations); P10 the māra of consciousness—the deepest ten traps, where even "enlightenment" itself can be māra.
+**Outer circle—discernment (P08–P12).** P08 addresses the general framework of the fifty skandha-māra and the ten states of the form aggregate; P09, P10, and P11 the māra of the sensation, perception, and formation aggregates (thirty deviations); P12 the māra of consciousness—the deepest ten traps, where even "enlightenment" itself can be māra.
 
-**Conclusion (P11).** The dharma-ending mirror—from the Śūraṅgama back to yourself.
+**Conclusion (P13).** The five delusive thinkings and the path to cessation—from the Śūraṅgama back to yourself.
 
 ### 3.5 The Dharma-Ending Age—Why the Śūraṅgama Matters Now More Than Ever
 
@@ -427,8 +427,8 @@ This is the entry point for S6-P02.
 | **S5-P10** From Hundred Dharmas to Vajra | S5-P10's closing question "Who is the one wielding the vajra blade?" = entry point for S6 |
 | **S6-P02** Seven Locations of Mind | This paper establishes the full-sūtra framework → P02 enters the detailed analysis of each location |
 | **S6-P05** Twenty-Five Penetrations | This paper previews the middle circle → P05 unfolds the twenty-five paths of entry |
-| **S6-P08–P10** Fifty Skandha-Māra | This paper previews the outer circle → P08–P10 analyze each skandha across three papers |
-| **S6-P11** The Dharma-Ending Mirror | This paper establishes the dharma-ending context → P11 concludes the series |
+| **S6-P08–P12** Fifty Skandha-Māra | This paper previews the outer circle → P08–P12 analyze each skandha across five papers |
+| **S6-P13** The Five Delusive Thinkings and the Path to Cessation | This paper establishes the dharma-ending context → P13 concludes the series |
 
 ---
 
@@ -474,11 +474,11 @@ This is the entry point for S6-P02.
 
 [^20]: 《首楞嚴義疏注經》Fascicle 1a, "此三昧以無分別智寂用為體……窮盡法界更無遺餘，名一切事究竟……故名堅固," Zixuan's elaboration on "ultimate firmness," T39, No. 1799.
 
-[^21]: 《楞嚴經正脈疏》Fascicle 1, "以此三如來藏性，即是自性本定。而頓悟了達于茲者，即微密觀照故也," Jiāoguāng's three-tathāgatagarbha schema, empty tathāgatagarbha, X12, No. 275.
+[^21]: 《楞嚴經正脈疏》Fascicle 1, "以此三如來藏性，即是自性本定。而頓悟了達于茲者，即微密觀照故也," Jiāoguāng's title schema, "hidden cause" segment (wondrous śamatha), X12, No. 275.
 
-[^22]: 《楞嚴經正脈疏》Fascicle 1, "用根則以不生滅性為因……故為了義," non-empty tathāgatagarbha, X12, No. 275.
+[^22]: 《楞嚴經正脈疏》Fascicle 1, "用根則以不生滅性為因……故為了義," "cultivation and realization of definitive meaning" segment (wondrous samāpatti), X12, No. 275.
 
-[^23]: 《楞嚴經正脈疏》Fascicle 1, "要之根柢於三如來藏，歸極於無障礙法界," both-empty-and-non-empty tathāgatagarbha, X12, No. 275.
+[^23]: 《楞嚴經正脈疏》Fascicle 1, "要之根柢於三如來藏，歸極於無障礙法界," "myriad practices of all bodhisattvas" segment (wondrous dhyāna), X12, No. 275.
 
 [^24]: 《楞嚴經正脈疏》Fascicle 1, "此定，逈不同於常途止觀……涅槃經佛自釋首楞嚴云：一切事究竟堅固," on the śūraṅgama great samādhi versus conventional calming-and-discernment, X12, No. 275.
 
