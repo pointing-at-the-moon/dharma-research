@@ -10,17 +10,17 @@ In the sūtra, the Buddha laid out in detail the sixty-two views on the nature o
 
 Then the Buddha gave a simile:
 
-> Whatever views any ascetics or brahmins hold concerning the prior aeon and the latter aeon — innumerable, of every kind, asserted as they please — all enter into these sixty-two views… Just as a skilled fisherman covers a small pond with a fine-meshed net, you should know that all the water-creatures of the pond enter into the net, with no place to escape, and not one passes beyond.
+> Whatever views any ascetics or brahmins hold concerning the prior aeon and the latter aeon — innumerable, of every kind, asserted as they please — all enter into the sixty-two views… Just as a skilled fisherman covers a small pond with a fine-meshed net, you should know that all the water-creatures of the pond enter into the net, with no place to escape, and not one passes beyond.
 
-**A fine-meshed net covering a small pond** — six words.
+**A fine-meshed net covering a small pond** — six characters.
 
 The sharpness of this simile lies not in how vivid it is but in its *exhaustiveness*. The Buddha did not say "beyond the sixty-two views, more views may yet be possible." He said "all enter into the net, with no place to escape." The mesh is fine enough that not one fish can slip through. That is: any effort to make a thoroughgoing verdict on "the nature of self and world" will, in the end, fall into one of these sixty-two types. Not because human imagination is poor, but because **the task itself has only sixty-two structural possibilities.**
 
 At the close of the sūtra, Ānanda asked the Buddha: this Dharma is so profound — by what name should we call it? The Buddha gave five names — **the Moving of Meaning, the Moving of Dharma, the Moving of Views, the Moving of Māra, the Moving of Brahmā.** It shakes every doctrinal meaning, every dharma-mark, every standpoint, every māric event, every doctrine of a creator-Brahmā.
 
-This is the opening scene from the Āgama. Hold this net in mind. Seven centuries later it will appear again in fascicle 10 of the Śūraṅgama Sūtra — not one word changed, not one position missing.
+This is the opening scene from the Āgama. Hold this net in mind. Some twelve hundred years later it will appear again in fascicle 10 of the Śūraṅgama Sūtra — not one word changed, not one position missing.
 
-### Seven Centuries Later, the Same Scene Replayed
+### Twelve Centuries Later, the Same Scene Replayed
 
 This is how fascicle 10 of the Śūraṅgama opens its account of the formations-aggregate stage:
 
@@ -59,9 +59,9 @@ Add the sub-counts: 2+4+4+4+4+16+8+8+7+5 = **62**.
 
 Order, structure, and manner of naming run almost completely in parallel.
 
-This correspondence cannot be coincidence. The only explanation is this: **these two sūtras are not describing two different things but a single thing — when a meditator tries to make a thoroughgoing verdict on the nature of the formations aggregate, the positions structurally available to him are exhaustive, and there are only sixty-two.** The Buddha in the *Brahmajāla* described these sixty-two positions in the idiom of the early canon; the Śūraṅgama in fascicle 10 unfolded the very same sixty-two positions in the idiom of Mahāyāna meditation, and adjudicated them as "ten dhyāna mad-interpretations of the formations aggregate."
+This correspondence cannot be coincidence. The only explanation is this: **these two sūtras are not describing two different things but a single thing — when a meditator tries to make a thoroughgoing verdict on the nature of the formations aggregate, the positions structurally available to him are exhaustive, and there are only sixty-two.** The Buddha in the *Brahmajāla* described these sixty-two positions in the idiom of the early canon; the Śūraṅgama in fascicle 10 unfolded the very same sixty-two positions in the idiom of Mahāyāna meditation, and adjudicated them as the formations aggregate's "ten kinds of dhyāna mad-interpretation."
 
-This is the central thesis the present chapter will unfold: **the ten formations-aggregate māras are the dhyāna repetition of the sixty-two views. They are not ten independent errors but a single net long since woven — cast by the Buddha in a bamboo grove seven hundred years before, and dropped again in fascicle 10 seven hundred years later.**
+This is the central thesis the present chapter will unfold: **the ten formations-aggregate māras are the dhyāna repetition of the sixty-two views. They are not ten independent errors but a single net long since woven — cast by the Buddha in a bamboo grove some twelve hundred years before, and dropped again in fascicle 10 some twelve hundred years later.**
 
 ### The Mirror-Other Exits, the Mirror-Student Enters
 
@@ -86,13 +86,13 @@ Set the two structures side by side and it becomes clear:
 | Source of danger | Being deceived by another person | Being deceived by oneself |
 | Direction of cure | Find the true spiritual friend (seek the great teacher) | Render no thoroughgoing verdict (non-grasping is essential) |
 
-The last row is the most crucial. The previous chapter's cure was still within the forward Āgama structure of "for the sake of severing the three cravings, seek a great teacher" — one only had to detect the "mirror-master" as counterfeit. But this chapter's cure cannot be "find a better teacher." **The root of the problem is not "having found the wrong teacher" but the very act of "rendering a thoroughgoing verdict on the perceived object."** Even if the practitioner found the very best spiritual friend, so long as he kept rendering thoroughgoing verdicts on his own meditative state he would still fall into the ten māras — only the specific content of the ten māras would take a different shape.
+The last row is the most crucial. The previous chapter's cure was still within the forward Āgama structure of "for the sake of severing these three cravings, seek a great teacher" — one only had to detect the "mirror-master" as counterfeit. But this chapter's cure cannot be "find a better teacher." **The root of the problem is not "having found the wrong teacher" but the very act of "rendering a thoroughgoing verdict on the perceived object."** Even if the practitioner found the very best spiritual friend, so long as he kept rendering thoroughgoing verdicts on his own meditative state he would still fall into the ten māras — only the specific content of the ten māras would take a different shape.
 
 In his commentary on fascicle 10, Zǐxuán breaks open this transition in a single line:
 
 > While the perception aggregate is not yet exhausted, external māras are still drawn in. Now that the perception aggregate is exhausted and the formations aggregate is laid bare, [the practitioner] generates errant views regarding his perceived objects, grasping these as right — **and so we speak of mind-māra.**
 
-"**And so we speak of mind-māra**" — five words. From here on, the referent of the word "māra" has changed. It is no longer a disturber of external objects but the mind's very reading of its perceived objects. Jiāoguāng Zhēnjiàn renders the same distinction from another angle:
+"**And so we speak of mind-māra**" — four characters. From here on, the referent of the word "māra" has changed. It is no longer a disturber of external objects but the mind's very reading of its perceived objects. Wēnlíng, as cited in Jiāoguāng Zhēnjiàn's *Zhèngmài shū*, renders the same distinction from another angle:
 
 > Earlier the text spoke of *dhyāna manifesting objects* — these are cases where the celestial māra watches for his chance. Here it speaks of *dhyāna mad-interpretations* — these are cases where **the mind-māra arises of itself, generating its own deep calamity.**
 
@@ -112,15 +112,15 @@ This is the definition the Śūraṅgama gives the formations aggregate — **th
 
 The root of the form aggregate is the "false thought of solidity" (the congealed sense of matter); the root of the receptive aggregate is the "false thought of vacuous brightness" (the receiving structure of sensation); the root of the perception aggregate is the "false thought of fusion" (the mind's power to fuse and transform reality); and the root of the formations aggregate is **the false thought of obscure concealment.**
 
-The two characters "obscure concealment" deserve to be seen carefully. They do not mean "darkness," do not mean "non-existence," do not mean "invisible." Jiāoguāng gives two exquisitely subtle glosses:
+The two characters "obscure concealment" deserve to be seen carefully. They do not mean "darkness," do not mean "non-existence," do not mean "invisible." Wēnlíng, as cited by Jiāoguāng, gives two exquisitely subtle glosses:
 
 > The formations aggregate moves stealthily, never noticed; hence we say *obscure concealment*.
 
 **Moves stealthily** — an extremely subtle displacement. **Never noticed** — not captured by any ordinary act of awareness. The two characters "obscure concealment" mean: **it is right there, always in motion, but its manner of motion is such that it cannot be objectified by "seeing" in the ordinary sense.**
 
-Jiāoguāng also gives a water simile for the five aggregates that makes this position still clearer:
+Jiāoguāng also gives a water simile that makes this position still clearer:
 
-> The form aggregate is like the foam at the shore, the receptive aggregate like the swelling of the wave, the perception aggregate like the great wave, **the formations aggregate like a fine ripple**, the consciousness aggregate like flowing water without waves. The body of true awareness should be like still and motionless water.
+> The perception aggregate is still like a great wave, **the formations aggregate like a fine ripple**, the consciousness aggregate like flowing water without waves. The body of true awareness should be like still and motionless water.
 
 Different levels of waves. Form, receptive, and perception are all "visible waves." The formations aggregate is the "fine ripple" — the wave is still there, but its amplitude has shrunk almost to the boundary of the observation threshold. The consciousness aggregate is "flowing water without waves" — the water still flows, but its surface no longer shows a visible wave. True awareness is "still and motionless water."
 
@@ -144,13 +144,13 @@ But Zǐxuán, in his commentary on fascicle 10, overturns this reading completel
 
 > The doctrines of the non-Buddhist schools come into being on this account: **all of these arise when, the practitioner having reached this point, errant wisdom suddenly arises — this is named the bursting forth of view; it is not that there are originally separate non-Buddhist schools.**
 
-"**It is not that there are originally separate non-Buddhist schools**" — seven words.
+"**It is not that there are originally separate non-Buddhist schools**" — eight characters.
 
 Zǐxuán states it plainly: these views are not "a crowd of non-Buddhist schools out there, which the meditator then goes to study"; they are "the practitioner, at a particular stage, having *errant wisdom suddenly arise*, and the form of that errant wisdom happens to be the form of the non-Buddhist schools." The word "non-Buddhist school" here does not point to a group of historical figures; **it points to a set of structural view-positions** — and the meditator at the formations-aggregate stage, when errant wisdom suddenly arises, falls naturally into one of these structural positions.
 
 This adjudication reverses the traditional cause and effect. It is not "the non-Buddhist schools come first, and the meditator catches the infection"; it is "**there are sixty-two structures by which the nature of the formations aggregate can be misjudged**; the Indian non-Buddhist schools happen to be the historical concretions of those sixty-two structures; the meditator's entry into one of them is *errant wisdom suddenly arising*, not *being infected*."
 
-This explains why the Śūraṅgama and the *Brahmajāla* — across seven centuries, across two entirely different teaching idioms — can nevertheless correspond almost completely in structure. It is not that the Śūraṅgama plagiarized the *Brahmajāla*; **it is that both sūtras describe the same structural trap, only unfolded again in the language of a different era.**
+This explains why the Śūraṅgama and the *Brahmajāla* — across some twelve centuries, across two entirely different teaching idioms — can nevertheless correspond almost completely in structure. It is not that the Śūraṅgama plagiarized the *Brahmajāla*; **it is that both sūtras describe the same structural trap, only unfolded again in the language of a different era.**
 
 So why exactly sixty-two? Is there a structural necessity to the number?
 
@@ -198,7 +198,7 @@ This is the deepest form of the "mirror-student" structure. Here the mirror is n
 
 This is why the tenth māra is placed last. It is the position among the ten that is only one step from genuine realization. And the missing step is not the depth of the state but **the reading of the state** — whether it is "taken as ultimate" or "known to be not-yet-ultimate."
 
-The tenth māra is also the bridge from the formations-aggregate stage to the consciousness-aggregate stage. The ten māras of the consciousness-aggregate stage in the next chapter (6.12) — grasping the cause as a non-cause, grasping the agent as non-agent, grasping the permanent as non-permanent, grasping the knowing as non-knowing, grasping the arising as non-arising, grasping the returning as non-returning, grasping the craving as non-craving, grasping the true as non-true, fixed-nature *śrāvaka*, fixed-nature *pratyekabuddha* — share a structure deeply isomorphic with the tenth māra: each is "generating a verdict of full attainment at a not-yet-complete position" (Jiāoguāng's phrase). The shift is only from "taking the meditative state for nirvāṇa" to a finer "taking the subtle object of the consciousness aggregate for the ultimate." The "mirror-student" structure has one last layer of refinement waiting at the consciousness-aggregate stage.
+The tenth māra is also the bridge from the formations-aggregate stage to the consciousness-aggregate stage. The ten māras of the consciousness-aggregate stage in the next chapter (6.12) — grasping the cause as a non-cause, grasping the agent as non-agent, grasping the permanent as non-permanent, grasping the knowing as non-knowing, grasping the arising as non-arising, grasping the returning as non-returning, grasping the craving as non-craving, grasping the true as non-true, fixed-nature *śrāvaka*, fixed-nature *pratyekabuddha* — share a structure deeply isomorphic with the tenth māra: each is "within the not-yet-complete, generating a verdict of full attainment" (the closing summation of the Śūraṅgama's consciousness-aggregate section). The shift is only from "taking the meditative state for nirvāṇa" to a finer "taking the subtle object of the consciousness aggregate for the ultimate." The "mirror-student" structure has one last layer of refinement waiting at the consciousness-aggregate stage.
 
 ### Why It Is Harder Than the Mirror-Master — Three Structural Reasons
 
@@ -212,7 +212,7 @@ To detect the "mirror-master," one must have some comparison-tool to serve as a 
 
 But for detecting the "mirror-student," no such comparison is available. Why? Because **anything one tries to deploy as a comparison-tool is itself still operating within the formations aggregate.**
 
-When the practitioner tries to compare against the sūtra-teaching, his memory of the sūtra-teaching, his understanding, his interpretation — all are part of the formations-flow. When he tries to compare against the precepts, his judgment in applying the precepts is part of the formations-flow. When he tries to compare against true spiritual friends, his recognition of "who is a true spiritual friend" is still part of the formations-flow. **No comparison-tool can step outside the formations aggregate.** Every tool is inside it. Comparison fails.
+When the practitioner tries to compare against the sūtra-teaching, his memory of the sūtra-teaching, his understanding, his interpretation — all are part of the formations-flow. When he tries to compare against the precepts, his judgment in applying the precepts is part of the formations-flow. When he tries to compare against true spiritual friends, his recognition of "who is a true spiritual friend" is still part of the formations-flow. **No comparison-tool can step outside the formations aggregate.** Every tool is inside it. Comparison fails. (This is the author's interpretation. At the close of the formations-aggregate section the sūtra enjoins: "You must take the Tathāgata's words and, after my extinction, transmit and show them to the Dharma-ending age, causing all beings everywhere to awaken to this meaning," so that practitioners may "guard and protect, and dispel wrong views"; Zǐxuán comments: "therefore it causes them to be alert and examine, able to dispel [errant views], not losing right view." The sūtra's teaching is precisely what this mind-māra is to be discerned by; the "failure" spoken of here refers to the difficulty of the practitioner's comparing on his own.)
 
 **The second reason: the reflexive entanglement of the act of observation.**
 
@@ -248,24 +248,24 @@ No longer observe "the nature of the formations aggregate" (that flow which cann
 
 And what is asked is only **five verb-like kinds of observation** — arising (how it arises), ceasing (how it subsides), savor (its present quality), peril (the dangers it brings), and emancipation (the way out of it). All five describe the flow; **not one is an assertion about the nature.**
 
-The Śūraṅgama gives this principle an exquisitely matched name — "**form no sagely realization**" (or "form no saintly mind"). In every section of warning throughout the fifty skandha-māras, these few characters recur:
+The Śūraṅgama gives this principle an exquisitely matched name — "**form no saintly mind**" (after its counterpart clause, "if you form a sagely realization," this book also calls it "form no sagely realization"). In the verdicts on the ten form-aggregate states, the Śūraṅgama repeats the same line (the first nine states use it verbatim; the tenth reads "if you form no saintly mind, the māric event subsides; if you form a sagely realization, you receive the host of errancies"; the ten receptive-aggregate states also judge by "if you form a sagely realization"):
 
-> If you form a sagely realization, you receive the host of errancies; if you form no sagely realization, this is named a wholesome state.
+> If you form no saintly mind, this is named a wholesome state; if you form a sagely realization, you receive the host of errancies.
 
 The structure of this line is completely isomorphic with the *Brahmajāla*'s cure-formula — "form no sagely realization" is "render no thoroughgoing verdict on perceived objects"; "this is named a wholesome state" is letting the state remain in its flowing quality without being shaped into an object.
 
-Concretely at the formations-aggregate stage, "form no sagely realization" means: when the practitioner sees the thought "self and world are permanent" surfacing, he does not adjudicate it as true or false — he only sees it surfacing; when he sees the thought "annihilation" surfacing, he does not adjudicate it as right or wrong — he only sees it surfacing; when he sees the feeling "five present-nirvāṇa" surfacing, he does not adjudicate whether this is ultimate — he only sees it surfacing. **The seed of every "mad interpretation" is a surfacing thought or feeling. The key to the cure is not "supplying the correct verdict" but "not adjudicating, in the very moment of surfacing."**
+Concretely at the formations-aggregate stage, "form no sagely realization" means: when the practitioner sees the thought "self and world are permanent" surfacing, he does not adjudicate it as true or false — he only sees it surfacing; when he sees the thought "annihilation" surfacing, he does not adjudicate it as right or wrong — he only sees it surfacing; when he sees the feeling "five present-nirvāṇa" surfacing, he does not adjudicate whether this is ultimate — he only sees it surfacing. **The seed of every "mad interpretation" is a surfacing thought or feeling. The key to the cure is not "supplying the correct verdict" but "not adjudicating, in the very moment of surfacing"** (this is the author's interpretation; see the note below).
 
 The deepest aspect of this cure-principle is that **it dissolves the very position of "the correct verdict."**
 
-It does not say "you should hold the *neither* of Madhyamaka," nor "you should hold the dependent-arising of Yogācāra," nor "you should hold the true-permanence of the tathāgatagarbha." It says "render no thoroughgoing verdict whatever." **Right view is not some correct content; it is the very capacity of "rendering no thoroughgoing verdict on perceived objects."** The *Madhyama Āgama Sacred Path Sūtra* gives an extraordinarily precise definition of right view — "if one sees a wrong view as a wrong view, this is called right view; and if one sees a right view as a right view, this also is called right view." Note the doubleness of this definition: it does not define right view as "holding some correct proposition," but as the very capacity "to discern, in the present, whether the view one is now holding is wrong or right." This is the Āgama root of "form no sagely realization."
+It does not say "you should hold the *neither* of Madhyamaka," nor "you should hold the dependent-arising of Yogācāra," nor "you should hold the true-permanence of the tathāgatagarbha." It says "render no thoroughgoing verdict whatever." **Right view is not some correct content; it is the very capacity of "rendering no thoroughgoing verdict on perceived objects."** The *Madhyama Āgama Sacred Path Sūtra* gives an extraordinarily precise definition of right view — "if one sees a wrong view as a wrong view, this is called right view; and if one sees a right view as a right view, this also is called right view." Note the doubleness of this definition: this line does not define right view as "holding some correct proposition," but as the very capacity "to discern, in the present, whether the view one is now holding is wrong or right." This is the Āgama root of "form no sagely realization." (This is the author's interpretation. The *Sacred Path Sūtra* goes on to set out the content of right view as well — "What is right view? It is the view: 'There is giving, there is offering …' — this is called right view"; and the way out of the views shown in the *Brahmajāla* is "to know, as they actually are, the arising, ceasing, savor, peril, and emancipation of the six contacts.")
 
 From 6.10 to 6.11, the cure-formula has traced a complete arc.
 
-The cure of 6.10 was the Āgama's "**for the sake of severing the three cravings, seek a great teacher**" — proceed forward along the chain of true spiritual friends, discern the mirror, find the true spiritual friend.
-The cure of 6.11 is the Āgama's "**know the six contacts as they actually are, and go beyond all those views**" — seek no reading-position at all, and turn instead to observe the flow of the six contacts itself.
+The cure of 6.10 was the Āgama's "**for the sake of severing these three cravings, seek a great teacher**" — proceed forward along the chain of true spiritual friends, discern the mirror, find the true spiritual friend.
+The cure of 6.11 is the Āgama's "**with respect to the six contacts … knows, as it actually is, … goes beyond all those views**" — seek no reading-position at all, and turn instead to observe the flow of the six contacts itself.
 
-The former is the entire purport of the perception-aggregate stage; the latter is the entire purport of the formations-aggregate stage.
+The former is the entire purport of the perception-aggregate stage; the latter is the entire purport of the formations-aggregate stage (this is the author's interpretation).
 
 From **severing** to **non-grasping.**
 

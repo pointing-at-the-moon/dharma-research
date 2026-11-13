@@ -1,14 +1,14 @@
 ## 6.10 The Ten Māras of the Perception Aggregate—Craving's Mirror-Other
 
-### To Sever the Three Cravings, Seek a Great Teacher
+### To Sever These Three Cravings, Seek a Great Teacher
 
 Twenty-five hundred years ago, the Buddha said a single sentence to his *bhikṣus*.
 
 > There are three cravings. What three? Sensual craving, craving for form, craving for the formless. For the sake of severing these three cravings, one should seek a great teacher.
 
-This is *Saṃyukta Āgama* 895—a sentence of barely a dozen characters, yet it contains one of the basic structures of the Buddhist path: **severing craving is the goal, seeking a great teacher is the means.**
+This is *Saṃyukta Āgama* 895—a sentence of just twenty-five characters, yet it contains one of the basic structures of the Buddhist path: **severing craving is the goal, seeking a great teacher is the means.**
 
-The three cravings—sensual craving, craving for form, craving for the formless—correspond to the three realms, which means craving runs through the whole of *saṃsāra*; no level is free of it. And "seeking a great teacher" is the orthodox route by which these three layers of craving are severed. The structure recurs throughout the Āgamas. One passage in the *Madhyama Āgama* even unfolds it into an eleven-link therapeutic chain: **associating with a true person → spiritual friend → hearing the true Dharma → faith → right reflection → right mindfulness and right knowing → guarding the sense-faculties → the three wholesome conducts → the seven factors of awakening → knowledge and liberation.**
+The three cravings—sensual craving, craving for form, craving for the formless—correspond to the three realms, which means craving runs through the whole of *saṃsāra*; no level is free of it. And "seeking a great teacher" is the orthodox route by which these three layers of craving are severed. The structure recurs throughout the Āgamas. One passage in the *Madhyama Āgama* even unfolds it into an eleven-link therapeutic chain: **associating with a true person → spiritual friend → hearing the true Dharma → faith → right reflection → right mindfulness and right knowing → guarding the sense-faculties → the three wholesome conducts → the four foundations of mindfulness → the seven factors of awakening → knowledge and liberation.**
 
 The chain begins with "drawing near to a true person"—finding the right teacher. The chain ends with the three cravings severed and birth-and-death transcended. **Each link depends on the one before it.**
 
@@ -22,7 +22,7 @@ The previous chapter closed on "the māra changes battlefields." Now we need fir
 
 Fascicle nine of the Śūraṅgama gives an extraordinarily precise definition:
 
-> That good son cultivating *samādhi* who has exhausted the receptive aggregate—although not yet exhausted of outflows, his mind has departed from his form, like a bird leaving its cage. He has already accomplished the capacity, from this ordinary body, to traverse the bodhisattva's sixty sage stations, attaining a mind-made body that goes wherever it wills without obstruction… This is called the territory of the perception aggregate. If the moving thoughts are exhausted and floating notions dissolved, then upon the awareness-luminous mind, as dust and stains are removed, the entire generation-and-cessation of one cycle of birth-and-death is illumined from beginning to end. This is called the exhaustion of the perception aggregate. Examining its origin, the false thought of pervasive transformation is its root.
+> That good son cultivating *samādhi* who has exhausted the receptive aggregate—although not yet exhausted of outflows, his mind has departed from his form, like a bird leaving its cage. He has already accomplished the capacity, from this ordinary body, to traverse the bodhisattva's sixty sage stations, attaining a mind-made body that goes wherever it wills without obstruction… This is called the territory of the perception aggregate. If the moving thoughts are exhausted and floating notions dissolved, then upon the awareness-luminous mind, as dust and stains are removed, the entire generation-and-cessation of one cycle of birth-and-death is illumined from beginning to end. This is called the exhaustion of the perception aggregate… Examining its origin, the false thought of pervasive transformation is its root.
 
 "His mind has departed from his form, like a bird leaving its cage"—the weight of this line is immense. The practitioner at the receptive-aggregate stage is still bound by the reading of his sensations; the one who has exhausted the receptive aggregate can already let his mind slip free of the body, **like a bird out of its cage.** Attaining a mind-made body that goes wherever it wills, traversing the sixty sage stations of the bodhisattva—this is a very deep position indeed. An ordinary person could not reach it even in a dream.
 
@@ -106,7 +106,7 @@ This list is often read literally as "the Śūraṅgama asserts that ten ghost-s
 
 Jiāoguāng makes the point with perfect clarity:
 
-> The essence means the various essence-spirits of the māra's party—and each comes according to its own kind… Below, the Buddha himself names each of the possessed types… for it borrows a bystander to confuse him, turning him to disturb himself.
+> The essence means the various essence-spirits of the māra's party—and each comes according to its own kind… Below, the Buddha himself names each of the possessed types… for once the receptive aggregate is exhausted, [the māra] cannot enter the practitioner's heart-organs; it borrows a bystander to confuse him, turning him to disturb himself.
 
 "**Each comes according to its own kind**"—each craving corresponds to its own matching kind of essence-spirit. The form of the ghost-essence is not random; it is **determined by the content of what is craved.**
 
@@ -143,11 +143,11 @@ Set the ten pairs side by side and four basic laws of the mirror-other come into
 
 **Law One: Correspondence of Form.** The nature of the mirror-other must match the capacity craved. This is the positive statement of "each comes according to its own kind."
 
-**Law Two: Correspondence of Spiritual Rank.** The rank of the mirror-other rises as the craving grows more refined—from low-grade ghosts (Strange, *Bá*, *Mèi*, *Gu*-poison, Pestilence), to nature deities (Powerful Ghost, mountain-and-forest spirits, powerful essences), to a cosmic-scale essence-vapor (the eclipse), and finally to the desire-realm-peak heavenly māra-king himself. **From the Strange Ghost to the heavenly māra-king is a continuously escalating sequence.**
+**Law Two: Correspondence of Spiritual Rank.** The rank of the mirror-other rises as the craving grows more refined—from low-grade ghosts (Strange, *Bá*, *Mèi*, *Gu*-poison, Pestilence), to nature deities (Powerful Ghost, mountain-and-forest spirits, powerful essences), to a cosmic-scale essence-vapor (the eclipse), and finally to the desire-realm-peak heavenly māra-king himself. **From the Strange Ghost to the heavenly māra-king is a continuously escalating sequence** (the sūtra closes the tenth state with "this is called the Sovereign Heavenly Māra who abides in the world, who sends his retinue… to feed on his vital essence"; to speak of the māra-king himself is the author's interpretation).
 
-**Law Three: Inverse Detectability.** The higher the rank of the mirror-other, the closer it comes to the appearance of a true spiritual friend, and the harder it is to detect. The first māra's Strange Ghost is relatively easy to detect—"suddenly a *bhikṣu*, suddenly Indra, suddenly a woman, suddenly a *bhikṣuṇī*"—the shape-shifting is too obvious. The tenth māra's Sovereign Heavenly Māra is nearly impossible to detect—it manifests directly as "Vajrapāṇi," directly as "a beautiful female form," the context flawless, the form majestic.
+**Law Three: Inverse Detectability.** The higher the rank of the mirror-other, the closer it comes to the appearance of a true spiritual friend, and the harder it is to detect. The first māra's Strange Ghost is relatively easy to detect—"now taking the form of a *bhikṣu* for that person to see, or of Indra, or of a woman, or of a *bhikṣuṇī*"—the shape-shifting is too obvious. The tenth māra's Sovereign Heavenly Māra is nearly impossible to detect—it manifests directly as "Vajrapāṇi," directly as "a beautiful female form," the context flawless, the form majestic.
 
-**Law Four: Decreasing Intermediation.** The higher the rank, the less it needs an intermediary (a possessed person). The first nine māras all require "dispatching essence to possess a person"—the māra borrows an ordinary person's body to manifest. **The tenth, however, can occur "without a teacher, the practitioner himself directly perceiving it"**—needing no possessed person as intermediary, it appears directly before the practitioner's eyes in the form of pure hallucination.
+**Law Four: Decreasing Intermediation.** The higher the rank, the less it needs an intermediary (a possessed person). The first nine māras all require "dispatching essence to possess a person"—the māra borrows an ordinary person's body to manifest. **The tenth, however, can occur "without a teacher, the practitioner himself directly perceiving it"**—needing no possessed person as intermediary, it appears directly before the practitioner's eyes in the form of pure hallucination (in the tenth state too the sūtra says "the celestial māra, watching for his chance, dispatches an essence to possess a person, who expounds dharmas through that person's mouth"; "or without a teacher" is a further case set out after it; reading this as decreasing intermediation is the author's interpretation).
 
 The four laws together draw an exceedingly precise phenomenological map—**the ten perception-aggregate māras are not ten randomly arranged events but ten stages in the refinement of craving, each stage answered by a structurally necessary mirror-other form.**
 
@@ -163,11 +163,11 @@ The criterion is "**does craving increase, or does affliction cease**"—not "is
 
 The core presupposition of the Āgama's "seek the great teacher" structure is this: **a true spiritual friend is rare and must be actively sought; and the criterion of the seeking is "able to sever the three cravings," not "able to display a capacity."**
 
-Every link in the *Madhyama Āgama*'s therapeutic chain—true person, spiritual friend, hearing the true Dharma, faith, right reflection, right mindfulness and right knowing, guarding the faculties, the three wholesome conducts, the seven factors of awakening, knowledge and liberation—**not one link is about "capacity."** No divine power, no eloquence, no knowledge of past lives, no eternal lifespan. Every link concerns one thing only: "the severance of defilement."
+Every link in the *Madhyama Āgama*'s therapeutic chain—true person, spiritual friend, hearing the true Dharma, faith, right reflection, right mindfulness and right knowing, guarding the faculties, the three wholesome conducts, the four foundations of mindfulness, the seven factors of awakening, knowledge and liberation—**not one link is about "capacity."** No divine power, no eloquence, no knowledge of past lives, no eternal lifespan. Every link concerns one thing only: "the severance of defilement."
 
 The mirror inversion of the perception-aggregate māras happens at the exact instant **the inner motive flips from "severing craving" to "obtaining a capacity."** The moment the criterion changes, the object changes; the moment the object changes, the mirror-other has its standing-ground.
 
-This is why each of the ten perception-aggregate māras takes "craving capacity X" as its starting point, **and never "craving the severance of defilement X."** The text's wording is exact—it never says "crave the severance of greed," "crave the severance of aversion," "crave the severance of delusion" (which would be severance-oriented phrasing); it always says "crave expedient skill," "crave divine power," "crave knowledge of past lives" (which is obtaining-oriented phrasing).
+This is why each of the ten perception-aggregate māras takes "craving capacity X" as its starting point, **and never "craving the severance of defilement X."** The text's wording is exact—it never says "crave the severance of greed," "crave the severance of aversion," "crave the severance of delusion" (which would be severance-oriented phrasing); it always says "crave expedient skill," "grasp at divine power," "crave knowledge of past lives" (which is obtaining-oriented phrasing).
 
 **From "sever" to "obtain"—one word's difference, the whole road's difference.**
 
@@ -185,7 +185,7 @@ The criterion is "capacity-display" or "cessation-of-affliction"—and this dist
 
 ### From External Māra to Mind-Māra
 
-In his annotation at the opening of fascicle ten (the start of the formations-aggregate section), Zǐxuán makes a judgment that is structurally critical to the whole fifty-skandha-māra framework:
+In his annotation in fascicle ten (at the concluding exhortation of the formations-aggregate section), Zǐxuán makes a judgment that is structurally critical to the whole fifty-skandha-māra framework:
 
 > While the perception aggregate is not yet exhausted, external māras are still drawn in. Now that the perception aggregate is exhausted and the formations aggregate is laid bare, [the practitioner] generates errant views regarding his perceived objects, grasping these as right—and so we speak of mind-māras.
 

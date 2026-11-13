@@ -61,7 +61,7 @@ Having finished the four categories, the Buddha switches to a completely differe
 
 The first five elements are the basic elements of the material world; the last two—seeing and consciousness—pull awareness and cognition in as well. Notice the intent behind this arrangement: the tathāgatagarbha is not only in matter, and not only in mind; it pervades both sides, and the two sides are connected.
 
-Here appears the core formula of this whole passage of scripture, surfacing complete in the conclusion of every one of the seven elements, seven times in all:
+Here appears the core formula of this whole passage of scripture, surfacing complete in the conclusions of the first six elements (earth, fire, water, wind, space, seeing), six times in all (the consciousness element retains only "pervading the dharma-realm" and "manifesting according to karma"):
 
 > Originally pure by nature, pervading the dharma-realm; following sentient beings' minds, corresponding to what they know; manifesting according to their karma.
 

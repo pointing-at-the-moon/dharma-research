@@ -50,15 +50,15 @@ The seven locations of mind—the Buddha asks Ānanda "where is the mind," Ānan
 
 The function of the inner circle is **mind-verification**. Not to tell you what the mind is, but to make you investigate for yourself—that "mind" you have always assumed, is it actually real?
 
-**Middle circle (fascicles five through seven): How do you practice?**
+**Middle circle (fascicle five to early fascicle eight): How do you practice?**
 
-Twenty-five bodhisattvas each demonstrate one path of entry into the Way, and Mañjuśrī finally selects Avalokiteśvara's ear-faculty penetration as the one best suited to the beings of the sahā world. The three gradual stages and the Ground of Dry Wisdom set out the purifying conditions for beginning practice. The four definitive instructions install the guardrails—the four root precepts against killing, stealing, sexual misconduct, and false speech are not moral preaching but structural safety conditions. The Śūraṅgama dhāraṇī is the force of protection.
+Twenty-five sages beyond training (great bodhisattvas and arhats) each demonstrate one path of entry into the Way, and Mañjuśrī finally selects Avalokiteśvara's ear-faculty penetration as the one best suited to the beings of the sahā world. The three gradual stages and the Ground of Dry Wisdom set out the purifying conditions for beginning practice. The four definitive instructions install the guardrails—the four root precepts against killing, stealing, sexual misconduct, and false speech are not moral preaching but structural safety conditions. The Śūraṅgama dhāraṇī is the force of protection.
 
 The function of the middle circle is **practice method**. You now know the mind is not where you assumed—so what do you do about it?
 
 **Outer circle (fascicles eight through ten): How do you know you are on the right track?**
 
-The fifty skandha-māra—ten states for the form aggregate, ten for sensation, ten for perception, ten for formation, ten for consciousness—fifty deviant states that may be met with in practice. Every one of them carries the same single criterion: "If one does not take it as a sagely realization, it is called a wholesome state; if one regards it as a sagely realization, one falls prey to the host of demons." A state arising is not the problem; mistaking it for awakening is the problem.
+The fifty skandha-māra—ten states for the form aggregate, ten for sensation, ten for perception, ten for formation, ten for consciousness—fifty deviant states that may be met with in practice. Every one of them carries a verdict, and the first nine form-aggregate states repeat the same line: "If one does not take it as a sagely realization, it is called a wholesome state; if one regards it as a sagely realization, one falls prey to the host of demons." A state arising is not the problem; mistaking it for awakening is the problem.
 
 The function of the outer circle is **discerning māra**. You are already practicing—how do you know you have not gone crooked?
 

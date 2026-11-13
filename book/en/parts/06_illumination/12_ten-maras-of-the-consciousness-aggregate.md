@@ -12,13 +12,13 @@ Every clause of this passage carries such weight that it must be read slowly.
 
 **"At the heaven of *nirvāṇa* he is about to realize great brightness"**—the heaven of *nirvāṇa*. The five aggregates are like night; *nirvāṇa* is like the sky. The first four aggregates are the night; once the consciousness aggregate is broken, that is the sky. At this point the practitioner stands at the very moment when the day is about to break.
 
-**"Like the cock crowing for the second time"**—this is a traditional image borrowed by the commentator Jiāoguāng. The ancients divided the night into watches, and the rooster crows just before the day grows light. At the rooster's first crowing the sky is still wholly dark; at its second crowing the east already shows essential color. Jiāoguāng writes: "When the first three aggregates are exhausted, it is like the cock's first crowing: a glimmer of dawn, but two aggregates still cloud the sky, and essential color has not yet emerged. When the formation aggregate is exhausted, it is like the cock's second crowing: only one aggregate remains, and so he is *about* to realize great brightness."
+**"Like the cock crowing for the second time"**—this is a traditional image the sūtra borrows. The ancients divided the night into watches, and the rooster crows just before the day grows light. At the rooster's first crowing the sky is still wholly dark; at its second crowing the east already shows essential color. Jiāoguāng cites Wēnlíng: "When the first three aggregates are exhausted, it is like the cock's first crowing: a glimmer of dawn, but two aggregates still cloud the sky, and essential color has not yet emerged. When the formation aggregate is exhausted, it is like the cock's second crowing: only one aggregate remains, and so he is *about* to realize great brightness."
 
 The day is about to break—but it has not yet broken.
 
 **"The six sense-faculties are empty and still, no longer galloping outward; inwardly and outwardly lucent, he enters where there is nothing to enter"**—the six faculties no longer run out toward objects. Within and without is a single clear brightness. Those last words—"enters where there is nothing to enter"—are exceedingly hard to grasp: he has entered some place, and yet that place is itself a place of no-entering.
 
-This is an exceedingly beautiful position. Anyone who has read the *Śūraṅgama* falls silent at this passage—"like *vaiḍūrya*, inwardly and outwardly perfectly clear," "the six sense-faculties empty and still, entering where there is nothing to enter"—the words themselves have weight.
+This is an exceedingly beautiful position. Anyone who has read the *Śūraṅgama* falls silent at this passage—"like *vaiḍūrya*, inwardly and outwardly perfectly clear," "the six sense-faculties empty and still … entering where there is nothing to enter"—the words themselves have weight.
 
 But just after this solemn description, the sūtra hands down a verdict that seems almost slight—**"yet the subtle marvel of cessation is not yet rounded out."**
 
@@ -30,11 +30,11 @@ This is the position the present chapter must address—a position where almost 
 
 ### Between the Two Pillars
 
-When the Ming-dynasty commentator Jiāoguāng Zhēnjiàn reached the consciousness-aggregate section of the tenth fascicle, he faced a structurally thorny problem: each of the ten passages on the graspings of the consciousness aggregate opens with exactly the same formula.
+When the Ming-dynasty commentator Jiāoguāng Zhēnjiàn reached the consciousness-aggregate section of the tenth fascicle, he faced a structurally thorny problem: each of the ten passages on the graspings of the consciousness aggregate opens with almost the same formula.
 
 > Ānanda, you should know that this good son, having exhausted the realm of formations as empty, having returned to consciousness at its source, with arising-and-passing already extinguished, yet with the subtle marvel of cessation not yet rounded out…
 
-All ten passages share an identical opening; they diverge only in the second half, branching into ten different paths. This never happened in the first four sections of the fifty skandha-māra (form, sensation, perception, formation). Each of the form aggregate's ten states begins from nothing; each of the sensation aggregate's ten states unfolds independently; each of the perception aggregate's ten begins with "craving for X"; the formation aggregate's ten māras vary slightly in their "generating-reckoning" syntax. Only the consciousness aggregate's ten graspings share a wholly identical premise.
+All ten passages share an almost identical opening (only the first adds "having returned to consciousness at its source"); they diverge only in the second half, branching into ten different paths. The first four sections of the fifty skandha-māra (form, sensation, perception, formation) each have their own syntax. Each of the form aggregate's ten states begins from nothing; apart from the first, the sensation aggregate's ten states all open with "Again, those good sons in *samādhi*, seeing the form aggregate dissolved and the sensation aggregate laid bare"; the perception aggregate's ten all share the premise "the sensation aggregate empty and subtle, meeting no errant thought, the round *samādhi* shining forth," then branch, with "in *samādhi* the mind loves …," into ten cravings; the formation aggregate's ten māras likewise share a premise beginning "exhausting the root of the classes of beings" (the first worded slightly differently), after which they vary slightly in their "generating-reckoning" syntax. The consciousness aggregate's ten graspings all take as their premise "having exhausted the realm of formations as empty, with arising-and-passing already extinguished, yet with the subtle marvel of cessation not yet rounded out."
 
 Why this structure?
 
@@ -64,7 +64,7 @@ The commentator Zǐxuán names it in a single line:
 
 So what does the consciousness aggregate actually look like? Jiāoguāng gives four words:
 
-> "Essential brightness, lucent and unmoving"—this refers to the eighth consciousness. Pure unity unmixed, with horizontal and vertical penetrating illumination, called "essential brightness"—this is what is meant by *apparently unified*. Floating thoughts already exhausted, and the disturbances all stilled, called "lucent and unmoving"—this is what is meant by *apparently permanent*.
+> "Essential brightness, unmoving"—this refers to the eighth consciousness. Pure unity unmixed, with horizontal and vertical penetrating illumination, called "essential brightness"—this is what is meant by *apparently unified*. Floating thoughts already exhausted, and the disturbances all stilled, called "lucent and unmoving"—this is what is meant by *apparently permanent*.
 
 **Apparently unified**—pure and unmixed, illuminating in every direction. It looks like that non-dual true mind.
 **Apparently permanent**—floating thoughts exhausted, disturbances all stilled. It looks like that unchanging substantive ground.
@@ -81,17 +81,17 @@ This is the deepest danger the present chapter must address. The consciousness-a
 
 ### The Swift Stream—This Lucence Is Not True
 
-Zǐxuán offers a precise image to lay the "apparent" wholly bare:
+The sūtra offers a precise image to lay the "apparent" wholly bare:
 
 > This lucence is not true: like a swiftly flowing stream, viewed from afar appearing tranquil, the very speed of its flow concealing the flow itself—not at all the absence of flow.
 
-**This lucence is not true.** Four words that are the core diagnostic of the consciousness-aggregate section. This "lucent stillness" is not a true stillness. Why? *Like a swiftly flowing stream.*
+**This lucence is not true.** Four characters that are the core diagnostic of the consciousness-aggregate section. This "lucent stillness" is not a true stillness. Why? *Like a swiftly flowing stream.*
 
 Picture a river flowing at tremendous speed. Seen from afar—**it appears tranquil.** No waves on the surface, no spray, no rise and fall. It looks exactly like a still pool. But walk closer and drop a leaf in, and the leaf is swept away in an instant—only then do you realize the water is in fact flowing, only flowing so fast that no surface texture has time to form. **The flow is too swift to see, but it is not the absence of flow.**
 
 The consciousness aggregate is this river. "Lucent and unmoving" is true—seen at the level of the senses it really does not move. But it does not move not because it is not flowing, but because it flows so fast that it looks as though it were not flowing.
 
-Zǐxuán adds one more line of great weight:
+Zǐxuán, glossing this image, adds a line of great weight:
 
 > The ordinary man and the Two-Vehicle adept do not perceive this at all; before the tenth bodhisattva-stage one perceives but cannot exhaust—and so it is said "the flow is too swift to see."
 
@@ -101,9 +101,9 @@ Sit with the weight of that line. It does not only say the ordinary man cannot s
 
 To see the fine stream of the consciousness aggregate, what is needed is not deeper meditative absorption (the arhat's absorption is already very deep) but **the stages of the Mahāyāna bodhisattva**—the bodhisattva before the tenth stage begins to see it, and only after the tenth stage can cross it completely.
 
-Jiāoguāng links this image to the whole system of water-images across the five aggregates:
+Jiāoguāng, in his gloss on the region of the formation aggregate, gives a separate set of water-images running through the aggregates front to back:
 
-> The perception aggregate is like great waves; the formation aggregate is like fine waves; **the consciousness aggregate is like a wave-less flowing water.** The body of true awareness should be like a still and unmoving water.
+> The perception aggregate is still like great waves; the formation aggregate is like fine waves; **the consciousness aggregate is like a wave-less flowing water.** The body of true awareness should be like a still and unmoving water.
 
 Five layers of wave. The form aggregate like spray at the shore, the sensation aggregate like a swelling crest, the perception aggregate like great waves, the formation aggregate like fine waves—all four have visible disturbance. And at the consciousness aggregate—**wave-less flowing water.** The surface shows no wave at all.
 
@@ -111,7 +111,7 @@ But the last line is the crux: **the body of true awareness should be like a sti
 
 The consciousness aggregate is "wave-less flowing water"; true awareness is "unmoving water." What is the surface difference between them?—there is none. Both are lucent, both unmoving, both without any visible wave. The difference lies in one word—**flowing.** Wave-less flowing water is still flowing; unmoving water truly does not flow. And this difference is indistinguishable at the level of the senses.
 
-This is why the consciousness-aggregate section is the final station of the fifty skandha-māra. Not because its content is more complex (in content it is simpler than the formation aggregate's sixty-two views), but because **at this stage the tools of comparison fail completely.** From the mirroring other of 6.10, to the mirror-student of 6.11, to the two pillars of 6.12, the availability of comparison-tools steadily drops:
+This is why the consciousness-aggregate section is the final station of the fifty skandha-māra. Not because its content is more complex (in content it is simpler than the formation aggregate's sixty-two views), but because **at this stage the tools of comparison fail completely** (this is the author's interpretation; see the note below). From the mirroring other of 6.10, to the mirror-student of 6.11, to the two pillars of 6.12, the availability of comparison-tools steadily drops:
 
 | Stage | Object mirrored | Comparison-tool |
 |---|---|---|
@@ -119,7 +119,7 @@ This is why the consciousness-aggregate section is the final station of the fift
 | 6.11 formation | The practitioner's own act of observation | Awareness itself caught in reflexive tangle—largely fails |
 | 6.12 consciousness | The subtle object of the consciousness aggregate | Comparison-tools fail completely—the consciousness aggregate looks exactly like true cessation |
 
-This does not mean the consciousness-aggregate section cannot be crossed. It can. But the way of crossing can no longer rely on "comparing and judging"—because any comparison or judgment, at this position, becomes "fixing it as final," and thereby manufactures one of the ten graspings. The way of crossing must be of another kind—**continuing forward without resolving anything as final.**
+This does not mean the consciousness-aggregate section cannot be crossed. It can. But the way of crossing can no longer rely on "comparing and judging"—because any comparison or judgment, at this position, becomes "fixing it as final," and thereby manufactures one of the ten graspings. The way of crossing must be of another kind—**continuing forward without resolving anything as final.** (This is the author's interpretation. For each of the ten graspings the sūtra names the content of the superior understanding established — "establishing a true permanent cause," "taking it in as one's own body," and so on — and enjoins: "when māra-states appear before you, you can recognize them, wash away the defilements of mind, and not fall into wrong views"; recognizing the states remains what the sūtra requires.)
 
 ### The First Eight Graspings—Taking a Subtle Object as Ultimate
 
@@ -191,7 +191,7 @@ This is the position of the last two graspings. Not "no attainment"—the attain
 
 ### Why the Last Two Are Deeper Than the First Eight
 
-The first eight graspings and the last two both look like "fixing something as final between the two pillars," but their structures differ at the root, and this difference is the deepest insight of the whole consciousness-aggregate section.
+The first eight graspings and the last two both look like "fixing something as final between the two pillars," but their structures differ at the root, and this difference is the deepest insight of the whole consciousness-aggregate section. (This is the author's interpretation. Of the last two the sūtra also says "stopping at cessation and advancing no further, giving rise to a superior understanding, this person falls into the definite-nature *śrāvaka*" and "establishing *nirvāṇa* and not advancing, giving rise to a superior understanding, this person falls into the definite-nature *pratyekabuddha*," and sums up all ten as "in what is not yet sufficient, generating the realization of sufficiency — all is the interplay of the mind's use of the consciousness aggregate"; what the sūtra distinguishes is the consequence: "the karma incurred by non-Buddhists and demonic māras comes to fruition, and they fall into the *avīci* hell; *śrāvakas* and *pratyekabuddhas* fail to advance further.")
 
 **The object of the first eight graspings is "false."** The subtle object of the consciousness aggregate is mistaken for "true permanent cause," "true permanent body," "true permanent knowing." The consciousness aggregate's "essential brightness, lucent and unmoving," its "awareness pervading all classes," its "entering the round origin"—these realm-marks do indeed appear in the practitioner's meditation, but they are only the imaging of the consciousness aggregate. Zǐxuán names it in one line: "This entire experiential field is the shadow of consciousness, not yet cessation." The direction of the antidote for the first eight is **"breaking the grasping"**—recognizing the falsity of the object and no longer taking the shadow of consciousness as the ultimate.
 
@@ -223,7 +223,7 @@ From this table one can see—the antidote of the consciousness-aggregate sectio
 
 **Antidote for the first eight graspings: do not fix anything as final.**
 
-Across the whole of the fifty skandha-māra, one sentence is repeated again and again—"If one regards it as a sagely realization, one falls prey to the host of demons; if one does not take it as a sagely realization, it is called a wholesome state." From the form-aggregate section to the consciousness-aggregate section, this single criterion runs through all of it. But its meaning unfolds completely only in the consciousness-aggregate section.
+This can be put in the words of the form-aggregate verdict—"If you form no saintly mind, this is named a wholesome state; if you form a sagely realization, you receive the host of errancies." The line recurs throughout the ten form-aggregate states (the first nine verbatim; the tenth reads "if you form no saintly mind, the māric event subsides; if you form a sagely realization, you receive the host of errancies"), and the ten sensation-aggregate states likewise judge by "if you form a sagely realization"; after its counterpart clause, this book calls the principle "not taking it as a sagely realization." From the form-aggregate section to the consciousness-aggregate section, this principle runs through all of it, but its meaning unfolds completely only in the consciousness-aggregate section.
 
 In the form-aggregate section, "not taking it as a sagely realization" meant "do not take light-appearances as realization."
 In the sensation-aggregate section, it meant "do not take changes in feeling as realization."

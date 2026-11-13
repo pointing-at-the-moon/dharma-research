@@ -16,7 +16,7 @@ The three gradual stages are the process of washing that vessel.
 
 ### Why a Whole Fascicle Stands in Between
 
-There is something worth noticing here. After Mañjuśrī selected ear-faculty perfect penetration (at the end of fascicle 6), the Śūraṅgama Sūtra did not move straight to the stages of practice. An entire fascicle stands in between—fascicle 7 is given over wholly to establishing the practice sanctuary and expounding the Śūraṅgama mantra.
+There is something worth noticing here. After Mañjuśrī selected ear-faculty perfect penetration (at the end of fascicle 6), the Śūraṅgama Sūtra did not move straight to the stages of practice. An entire fascicle stands in between—most of fascicle 7 is given over to establishing the practice sanctuary and expounding the Śūraṅgama mantra; only at its end does Ānanda ask, "What is called the ground of dry wisdom?"
 
 Why not teach the stages of practice directly? Because **preparation itself requires preparation.**
 
@@ -98,7 +98,7 @@ This answers a very common frustration in practice—"I have already worked so h
 
 ### The Name of the Starting Point Appears Again at the End
 
-After the ground of dry wisdom, the Śūraṅgama Sūtra unfolds the full fifty-five stages in fascicle 8—the ten faiths, ten abodes, ten practices, ten dedications, four preparatory stages, ten grounds, equal enlightenment. But the Śūraṅgama Sūtra's most ingenious design appears at the conclusion of all the stages. After the entire course of practice from the ground of dry wisdom to equal enlightenment, the Buddha says one line:
+After the ground of dry wisdom, the Śūraṅgama Sūtra unfolds the full fifty-five stages in fascicle 8—the ten faiths, ten abodes, ten practices, ten dedications, four preparatory stages, ten grounds, equal enlightenment (the sūtra itself says "fifty-five stages," and the old masters count them differently: Zǐxuán takes dry wisdom with warmth, summit, patience and supreme worldly dharma as five, added to the fifty of faiths, abodes, practices, dedications and grounds; Wúxīng leaves out dry wisdom and counts from the faiths through equal enlightenment). But the Śūraṅgama Sūtra's most ingenious design appears at the conclusion of all the stages. After the entire course of practice from the ground of dry wisdom to equal enlightenment, the Buddha says one line:
 
 > From the dry-wisdom mind to equal enlightenment—this enlightenment first obtains the initial ground of dry wisdom within the vajra mind. Thus, layer upon layer, single and compound twelve times, one exhausts wondrous enlightenment and achieves the unsurpassed Way.
 
@@ -106,11 +106,11 @@ The "initial ground of dry wisdom within the vajra mind" to which the equal-enli
 
 But this is not a simple repetition. The beginner's ground of dry wisdom is the first step, "not yet connected with the dharma-flow water"; the equal-enlightenment bodhisattva's "initial ground of dry wisdom" is the consummate return within the vajra mind. The same name of a place, an entirely different depth.
 
-This is the rounded-teaching character of the Śūraṅgama's view of the stages: **practice is not a straight line but a spiral ring rising upward.** The single line of clarity you saw at the start and the same single line of clarity you face again at the end are the same thing—the difference being that the cultivation and realization in between have carried you from "knowing it is there" to "being it."
+This is the rounded-teaching character of the Śūraṅgama's view of the stages: **practice is not a straight line but a spiral ring rising upward.** The single line of clarity you saw at the start and the same single line of clarity you face again at the end are the same thing—the difference being that the cultivation and realization in between have carried you from "knowing it is there" to "being it." ("Ring" and "spiral" are this book's reading: Jiāoguāng says here only that "the initial dryness is the first attainment" [初乾即是始獲], and that this position may be merged into equal enlightenment [合於等覺，固無不可] or counted separately [別開亦通]. This is the author's interpretation.)
 
 ### The Śūraṅgama's Four Preparatory Stages
 
-Within this whole system of stages, the four lines the Śūraṅgama Sūtra writes for the four preparatory stages (warmth, summit, patience, supreme worldly dharma) are the most beautiful in the entire passage, and the most worth pausing over—because each line is only a dozen or so characters, yet each compresses a complete experience of practice.
+Within this whole system of stages, the four lines the Śūraṅgama Sūtra writes for the four preparatory stages (warmth, summit, patience, supreme worldly dharma) are the most beautiful in the entire passage, and the most worth pausing over—because each stage receives a single sentence of only seventeen to twenty-eight characters, yet each compresses a complete experience of practice.
 
 **Warmth: As if emerging yet not emerged, like drilling for fire when the wood is about to ignite.**
 
@@ -132,9 +132,9 @@ The summit of the entire four preparatory stages. Almost like a kōan. "Delusion
 
 Take the four lines together—warmth (the precursor at the threshold), summit (the residual subtle obstruction), patience (the tension of neither held nor released), supreme worldly dharma (the dissolving of the coordinate frame).
 
-These four qualities of experience do not appear only that once, between the ten dedications and the ten grounds. The line "layer upon layer, single and compound twelve times" hints that **this four-beat rhythm recurs at every threshold of practice.** The crossing from the ten faiths into the ten abodes has its own "warmth," "summit," "patience," and "supreme worldly dharma." So does the crossing from the ten abodes into the ten practices. Every passage from one level to the next repeats this same rhythm.
+These four qualities of experience do not appear only that once, between the ten dedications and the ten grounds. The line "layer upon layer, single and compound twelve times" hints that **this four-beat rhythm recurs at every threshold of practice.** The crossing from the ten faiths into the ten abodes has its own "warmth," "summit," "patience," and "supreme worldly dharma." So does the crossing from the ten abodes into the ten practices. Every passage from one level to the next repeats this same rhythm. (Inferring from "single and compound twelve times" that the four preparatory stages recur at every threshold is this book's extension; Jiāoguāng reads the phrase as a way of counting stages: "a single term confined to one stage is single; a single term covering ten stages is compound" [一字但局一位為單，一字總包十位為複]. This is the author's interpretation.)
 
-This also explains why the Śūraṅgama Sūtra writes the four preparatory stages so concisely—each line no more than a dozen or so characters. Not because they are unimportant, but precisely because they are so important: each must be condensed enough to be extracted as a pattern, applicable again and again at different depths. "As if emerging yet not emerged" does not describe only the first time drilling for fire; it describes the universal feeling of every moment about to break through. "Neither held within nor released" does not describe only that one moment of bearing at the stage of patience; it describes the universal state of every contact with a reality that transcends language.
+This also explains why the Śūraṅgama Sūtra writes the four preparatory stages so concisely—each stage receives one sentence of seventeen to twenty-eight characters (warmth twenty-four, summit twenty-eight, patience twenty, supreme worldly dharma seventeen). Not because they are unimportant, but precisely because they are so important: each must be condensed enough to be extracted as a pattern, applicable again and again at different depths. "As if emerging yet not emerged" does not describe only the first time drilling for fire; it describes the universal feeling of every moment about to break through. "Neither held within nor released" does not describe only that one moment of bearing at the stage of patience; it describes the universal state of every contact with a reality that transcends language.
 
 ### The Sterile Protocol Before Surgery
 

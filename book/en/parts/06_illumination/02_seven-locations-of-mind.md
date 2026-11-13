@@ -32,7 +32,7 @@ The place you named—mind is not there.
 
 **The second location—mind is outside the body.** Ānanda flipped at once: since it is not inside, it must be outside. The Buddha broke this with a comparison from daily life—when one person eats a meal, it does not leave another person full. If body and mind really were two unrelated things, then whatever your eyes saw, your mind ought not to be able to make it out at the very same moment. But in fact, the instant your eyes see my hand, your mind knows it is a hand. Inside and outside do not come apart like that; the answer does not hold.
 
-**The third location—mind hides inside the eye-faculty.** This time Ānanda got creative and built his own comparison: mind hides behind the eye, looking out as if through a layer of clear crystal. The Buddha turned the comparison back on him: you say it is like crystal covering the eye—then why, when you look at mountains and rivers, do you not see the crystal? If you can see it, the crystal becomes part of the outside world—and then it is no longer the container of mind.
+**The third location—mind hides inside the eye-faculty.** This time Ānanda got creative and built his own comparison: mind hides behind the eye, looking out as if through a layer of clear crystal. The Buddha turned the comparison back on him: one whose eyes are covered with crystal sees the crystal as well as the mountains and rivers; you say mind is joined to the eye like that crystal—then why, when you look at mountains and rivers, do you not see the eye? If you can see it, the eye becomes part of the outside world—and then it is no longer the container of mind.
 
 **The fourth location—closing the eyes and seeing darkness is seeing inward.** Ānanda changed tactics, shifting from space to function: the inside of the body is dark, so to close the eyes and see darkness is to see one's own interior. The Buddha pressed all the way down: for someone sitting in a dark room, is the whole room's darkness his five organs? If closing the eyes can see inward, then why, when you open them, can you not see your own face? This road does not go through either.
 
@@ -70,7 +70,7 @@ But what is "location" itself?
 
 The precision with which Yogācāra handles this question is astonishing. Among the dharmas dissociated from mind in the *Treatise on the Hundred Dharmas* (treated in detail back in 3.13), there is one item called "direction"—orientation, the points of the compass. The treatises say it plainly: direction is a borrowed designation, set up in dependence on the cause-and-effect distinctions among material things. East, south, west, and north have meaning only within the material world. Mind is not a material thing; it simply has no capacity to "occupy a direction" at all.
 
-Which is to say—the very question "where is mind" was the wrong question from the start.
+Which is to say—the very question "where is mind" was the wrong question from the start (reading all seven locations through the designation of "direction" is a lens borrowed from Yogācāra; this is the author's interpretation).
 
 This is the structural paradox of the seven locations: to use mind to look for the location of mind is to use a concept mind manufactures—direction—to catch the manufacturer of concepts. You cannot find it, not because mind does not exist, but because the tool in your hand and the thing you are looking for are one and the same.
 

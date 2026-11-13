@@ -46,9 +46,9 @@ These four represent four utterly different ways of entering the Way: through th
 
 ### Avalokiteśvara's Six Steps
 
-When the twenty-five sages had finished reporting, Avalokiteśvara rose last to give his account. His report far surpasses the preceding twenty-four in both length and depth—and that in itself is a structural signal.
+When the twenty-four sages had finished reporting, Avalokiteśvara rose last to give his account. His report far surpasses the preceding twenty-four in both length and depth—and that in itself is a structural signal.
 
-Avalokiteśvara first disclosed his causal ground—his own teacher was also named "Avalokiteśvara," master and disciple sharing one name. The teaching he received from that buddha was: "Enter samādhi through hearing, contemplation, and cultivation." These nine characters are the overarching framework of the entire ear-faculty's perfect penetration.
+Avalokiteśvara first disclosed his causal ground—his own teacher was also named "Avalokiteśvara," master and disciple sharing one name. The teaching he received from that buddha was: "Enter samādhi through hearing, contemplation, and cultivation." These eight characters are the overarching framework of the entire ear-faculty's perfect penetration.
 
 What follows is the most precise sequence of practice in the whole Śūraṅgama Sūtra. Avalokiteśvara describes in six steps how he walked the path:
 
@@ -84,7 +84,7 @@ For the beginner, the speed of entering samādhi genuinely does differ.
 
 From these two seemingly contradictory statements, you can see Mañjuśrī's stance in selecting: **all gates are equal when seen from the fruit; but seen from the practical efficiency of the beginner's mind, there really is a difference in what suits and what does not.**
 
-Mañjuśrī then used a uniform four-line format to eliminate the other twenty-four perfect penetrations one by one, each elimination ending with "how can this yield perfect penetration?" When the eliminations were complete, he used three "authenticities" to set forth the supremacy of the ear-faculty—
+Mañjuśrī then used a uniform four-line format to eliminate the other twenty-four perfect penetrations one by one, every elimination but the first (form-dust, which closes "thereby gaining perfect penetration?") ending with "how can this yield perfect penetration?" When the eliminations were complete, he used three "authenticities" to set forth the supremacy of the ear-faculty—
 
 **Circular authenticity**: "Suppose a person sits quietly while drums are struck in all ten directions—all ten places are heard at once." The eye can only see what is in front; nose, mouth, body, and mind each have their limits; only the ear-faculty can hear the sounds of all ten directions at once. This is **encompassing all without remainder**.
 
@@ -138,7 +138,7 @@ The logic of Mañjuśrī's selecting the ear-faculty runs structurally parallel 
 
 ### Three Places Easily Misread
 
-**Absolutizing "the ear-faculty is best."** The most common misreading is to understand Mañjuśrī's selection as "the ear-faculty's perfect penetration is best under all conditions." But Mañjuśrī himself opened by saying "Returning to the source, the nature is non-dual; the nature of the holy is without obstruction"—the selection is an optimal recommendation under the three specific conditions of "this land," "the beginner," and "the Dharma-ending age," not an absolute doctrinal ranking that transcends all conditions.
+**Absolutizing "the ear-faculty is best."** The most common misreading is to understand Mañjuśrī's selection as "the ear-faculty's perfect penetration is best under all conditions." But Mañjuśrī himself opened by saying "Returning to the source, the nature is non-dual; … the nature of the holy is without obstruction"—the selection is an optimal recommendation under the three specific conditions of "this land," "the beginner," and "the Dharma-ending age," not an absolute doctrinal ranking that transcends all conditions.
 
 **Devotion to Avalokiteśvara ≠ Avalokiteśvara's method.** Devotion to Avalokiteśvara is extremely widespread in the culture of Chinese Buddhism—reciting the name, chanting sūtras, prostrations, petitionary prayers. These are all meritorious practices. But they are a different level of practice from the ear-faculty's perfect penetration that Avalokiteśvara recounts of himself in the Śūraṅgama Sūtra. Reciting "Namo Avalokiteśvara Bodhisattva" is **outward-directed faith**—taking Avalokiteśvara's vow-power as a contributing condition; "entering the stream, the object vanishes / reverse the hearing to hear the self-nature" is **inward-directed cultivation**—taking one's own hearing-nature as the object of practice. The two can complement each other, but they must not be confused. Equating devotion to Avalokiteśvara with Avalokiteśvara's method obscures the precise operational guidance of the ear-faculty's perfect penetration.
 

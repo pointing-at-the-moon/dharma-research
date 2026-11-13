@@ -313,7 +313,7 @@ The four stages of the one great causal matter for which the Buddha appears in t
 ## VI. 13 or more strokes
 
 ### 圓通 · perfect penetration
-In the Śūraṅgama Sūtra, twenty-five bodhisattvas each describe the gate of practice through which they perfected their realization and penetration; Avalokiteśvara's perfect penetration through the hearing faculty is the one the Buddha specially praises as the most accessible.
+In the Śūraṅgama Sūtra, twenty-five sages beyond training (great bodhisattvas and arhats) each describe the gate of practice through which they perfected their realization and penetration; Avalokiteśvara's perfect penetration through the hearing faculty is the one the Buddha specially praises as the most accessible.
 **First appears**: Śūraṅgama Sūtra, fascicles 5–6 (T19 No. 945).
 **In this book**: 6.5 The Twenty-Five Perfect Penetrations.
 

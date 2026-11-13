@@ -44,7 +44,7 @@ The hand has motion and stillness, but the seeing-nature does not fall within th
 
 The Buddha then delivers his first cutting verdict:
 
-> From beginning to end, thought after thought arising and perishing, you have lost your true nature. Acting in inversion, you take objects for yourself. Cycling within this, you seize your own transmigration.
+> From beginning to end, thought after thought arising and perishing, you have lost your true nature. Acting in inversion, your mind-nature loses its truth, and you take objects for yourself. Cycling within this, you seize your own transmigration.
 
 You take what moves as yourself, and what changes as what is real—taking objects for yourself—and this is the very mechanism of saṃsāra.
 
@@ -56,7 +56,7 @@ The face wrinkles; the seeing-essence does not. What changes will perish; what d
 
 Here we must give an early inoculation. Reading that the seeing-essence "does not wrinkle, does not move, does not change," the thought that most easily rises is—"Isn't that just the soul? Isn't that just the divine self that the Indian non-Buddhist traditions speak of?"
 
-It is not. The reason appears later, in the seventh demonstration—the seeing-nature is "neither cause nor condition, neither natural nor non-natural." The divine self is a "naturally self-existent" entity—an eternal, independent self. The Śūraṅgama Sūtra explicitly denies this. The seeing-nature is not some eternal thing sitting there unmoving—it is a something to which the very category of "thing" cannot be applied. Hold on to this distinction; we will return to it below.
+It is not. The reason appears later, in the ninth demonstration—the seeing-nature is "neither cause nor condition, neither natural nor non-natural." The divine self is a "naturally self-existent" entity—an eternal, independent self. The Śūraṅgama Sūtra explicitly denies this. The seeing-nature is not some eternal thing sitting there unmoving—it is a something to which the very category of "thing" cannot be applied. Hold on to this distinction; we will return to it below.
 
 ### The Eight Returns and the Pointing Finger
 
@@ -74,17 +74,17 @@ And then comes the sharpest line in the whole sequence of returns:
 
 Whatever can be returned to its source is not your own self. That which cannot be returned, which has nowhere to go—if it is not your true nature, then what is it?
 
-Notice that the Buddha never directly says "that is the seeing-nature." He points through negation—because the moment he says "that is it," you would immediately turn it into an object, into a new "thing," and you would be back at the first location. The Śūraṅgama Sūtra's teaching method throughout is **apophatic** (pointing through negation), never **cataphatic** (defining through affirmation).
+Notice that the Buddha never directly says "that is the seeing-nature." He points through negation—because the moment he says "that is it," you would immediately turn it into an object, into a new "thing," and you would be back at the first location. The Śūraṅgama Sūtra's teaching method throughout is **apophatic** (pointing through negation), never **cataphatic** (defining through affirmation). (Immediately after "if not you, then who?", however, the sūtra closes affirmatively: "Then know that your mind is originally wondrous, luminous, and pure." Characterizing the Śūraṅgama's method as apophatic throughout is the author's interpretation.)
 
 Readers familiar with Western philosophy will think here of Husserl's "epoché"—bracketing every presupposition about the external world, one by one, to see what is finally left. The structure of the eight returns is indeed similar. ⚠️ But the two do not arrive at the same place. What Husserl is left with—"pure consciousness"—still points toward some object (consciousness is always "consciousness *of* something"). What the eight returns leave behind—the seeing-nature—does not even retain the "pointing" itself. Husserl stops inside the structure; the Buddha removes the structure too. This comparison can help you see how rigorous the method of the eight returns is, but it does not mean the two are interchangeable.
 
 ### When Seeing Sees Seeing
 
-The fourth demonstration contains the hardest line in all ten—and the most pivotal:
+The tenth demonstration contains the hardest line in all ten—and the most pivotal:
 
 > When seeing sees seeing, that seeing is not seeing. Seeing still transcends seeing; seeing cannot reach it.
 
-When you try to use seeing to look at "seeing" itself, what you see is already no longer the seeing-nature. Your seeing cannot catch up with the seeing-nature—because the seeing-nature is the very thing that is doing the chasing.
+When you try to use seeing to look at "seeing" itself, what you see is already no longer the seeing-nature. Your seeing cannot catch up with the seeing-nature—because the seeing-nature is the very thing that is doing the chasing. (Zixuan places "when seeing sees seeing, that seeing is not seeing" at the level "from the path of seeing onward to the ultimate fruit"; reading it as the very thing doing the chasing is the author's interpretation.)
 
 **You cannot use your eye to look at your own eye. You cannot use a blade to cut its own edge. You cannot use your fingertip to touch the tip of that same finger.**
 
@@ -94,7 +94,7 @@ You have been it all along. You only forgot.
 
 ### Transcending All Characteristics, Identical with All Dharmas
 
-The seventh and eighth demonstrations are linked together, and they are the doctrinal heart of the entire Śūraṅgama Sūtra. The Buddha presses through the four frameworks of cause, condition, and so on, and arrives at eighteen characters:
+The ninth demonstration, showing that seeing transcends conceptual feeling, is the doctrinal heart of the entire Śūraṅgama Sūtra. The Buddha presses through the four frameworks of cause, condition, and so on, and arrives at twenty-eight characters:
 
 > Neither cause nor condition, neither natural nor non-natural; neither non-non nor not-non; neither is nor is-not. It transcends all characteristics, and is identical with all dharmas.
 
@@ -108,7 +108,7 @@ Try another image—you wear tinted glasses to look at the world, and everything
 
 ### Turn Objects, and You Are the Same as the Tathāgata
 
-In the tenth demonstration, the Buddha begins from the most everyday opposition of all—large and small. Ānanda asks: when I gaze up at the open sky, the seeing-nature fills the whole world; when I return to my quarters, I see only the walls of the room—has this seeing-nature shrunk from large to small, or has it been cut off by the walls?
+In the seventh demonstration, the Buddha begins from the most everyday opposition of all—large and small. Ānanda asks: when I gaze up at the open sky, the seeing-nature fills the whole world; when I return to my quarters, I see only the walls of the room—has this seeing-nature shrunk from large to small, or has it been cut off by the walls?
 
 The Buddha uses the analogy of space inside a square vessel and a round vessel—space is neither square nor round; it is the squareness and roundness of the vessels that make you suppose space has a shape. And then:
 
@@ -122,7 +122,7 @@ There is a beautiful resonance between the ten demonstrations of the Śūraṅga
 
 > How unexpected—the self-nature is originally pure of itself; how unexpected—the self-nature is originally without arising or perishing; how unexpected—the self-nature is originally self-sufficient; how unexpected—the self-nature is originally without wavering; how unexpected—the self-nature can generate the myriad dharmas.
 
-"How unexpected" means "I never imagined"—so it turns out the self-nature has always been just this. These five lines line up exactly against the ten demonstrations: originally pure of itself (the sixth demonstration, non-mixture), originally without arising or perishing (the third, imperishability), originally self-sufficient (the fifth, nothing to return), originally without wavering (the second, immovability), able to generate the myriad dharmas (the eighth, neither caused nor natural).
+"How unexpected" means "I never imagined"—so it turns out the self-nature has always been just this. These five lines line up exactly against the ten demonstrations: originally pure of itself (the sixth demonstration, non-mixture), originally without arising or perishing (the third, imperishability), originally self-sufficient (the fifth, nothing to return), originally without wavering (the second, immovability), able to generate the myriad dharmas (the ninth, neither caused nor natural).
 
 The Buddha unfolds it through the logic of ten demonstrations; the Sixth Patriarch compresses it into the direct intuition of five lines—they point at the same one thing. The Śūraṅgama is the teaching; the Platform Sūtra is the corroboration.
 
@@ -130,9 +130,9 @@ The Buddha unfolds it through the logic of ten demonstrations; the Sixth Patriar
 
 Return to Jiaokuang's four characters—revealing truth while bearing delusion.
 
-The ten demonstrations of seeing are not describing the pure realm of one who has already awakened. They are displayed in front of Ānanda—an ordinary being still in the midst of confusion. The Buddha knows Ānanda still has delusion not yet purged, but he does not withhold the display on that account. **Bearing the delusion, he reveals the truth.**
+The ten demonstrations of seeing are not describing the pure realm of one who has already awakened. They are displayed in front of Ānanda—a trainee who has already attained the first fruit yet is still confused about the true mind. The Buddha knows Ānanda still has delusion not yet purged, but he does not withhold the display on that account. **Bearing the delusion, he reveals the truth.**
 
-This carries one crucial implication: **you do not need to become a sage first in order to see the pointing finger toward the seeing-nature.** Close your eyes and ask yourself "what do I see?"—you can do this right now, with no prerequisite of practice. You forgot that you are seeing—this fact, you can become aware of right now.
+This carries one crucial implication: **you do not need to become a sage first in order to see the pointing finger toward the seeing-nature.** (Ānanda had in fact already attained the first fruit; extending his situation to readers who have not yet attained any fruit is the author's interpretation.) Close your eyes and ask yourself "what do I see?"—you can do this right now, with no prerequisite of practice. You forgot that you are seeing—this fact, you can become aware of right now.
 
 But at the same time—becoming aware is not the same as realizing. Right now you can understand, at the level of words, that "the face wrinkles, the seeing-essence does not"; but this understanding is not the same as having personally realized the seeing-nature's freedom from arising and perishing. The "bearing delusion" in "revealing truth while bearing delusion" is not a figure of speech; it is the actual situation—while you look, your delusory grasping is still at work. You can see the direction, but you are still on the road.
 

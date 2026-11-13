@@ -20,7 +20,7 @@ The Buddha's response to this question forms the three-concentric-circle structu
 
 **The inner circle** verifies the mind—first it asks you where your mind is. Seven locations of mind, ten demonstrations of seeing-nature, the four categories and seven elements. The "mind" you take to be yours is not your true mind at all.
 
-**The middle circle** teaches the practice—once the location of mind is clear, how do you practice? Twenty-five bodhisattvas each demonstrate a path of their own, and Mañjuśrī selects, for the sahā world, Avalokiteśvara's ear-faculty perfect penetration. Four precepts, three gradual stages—the guardrails are set up first.
+**The middle circle** teaches the practice—once the location of mind is clear, how do you practice? Twenty-five sages beyond training (great bodhisattvas and arhats) each demonstrate a path of their own, and Mañjuśrī selects, for the sahā world, Avalokiteśvara's ear-faculty perfect penetration. Four precepts, three gradual stages—the guardrails are set up first.
 
 **The outer circle** discerns the demons—you are already practicing, so how do you know you have not gone astray? Fifty skandha-māra, fifty finer mirrors, laying every possible self-deception in practice out in the open sunlight.
 
