@@ -92,13 +92,13 @@ This is not stinginess. This is **the uniqueness of the jewel requiring a corres
 
 Then the Buddha says when the king will at last unbind his topknot and give the jewel:
 
-> Only when he sees one of great merit in his armies does the king unbind the bright jewel in his topknot and bestow it.
+> Just as the wheel-turning king, when he sees one of great merit among his troops, is greatly delighted, and now gives this hard-to-believe jewel, long kept in his topknot and never rashly given to anyone.
 
 Only when he sees one of truly **great merit** does the king take down his topknot, draw out the bright jewel, and give it.
 
 This "great merit" is not ordinary battle merit — not killing a few men, not winning a few fights. When the Buddha joins parable to meaning, he gives its specific content:
 
-> breaking the māra of the five aggregates, the māra of the defilements, the māra of death; transcending the three realms, severing the three poisons.
+> seeing the army of the worthies and sages battle the māra of the five aggregates, the māra of the defilements, and the māra of death, and win great merit — extinguishing the three poisons, transcending the three realms, breaking the net of māra.
 
 Breaking the clinging to the five aggregates, breaking the bondage of the defilements, breaking the fear of death. Transcending the realms of desire, of form, and of formlessness. Severing craving, aversion, and delusion. The one who can do these things — that one is "of great merit."
 
@@ -136,7 +136,7 @@ The structure of this passage is complete — the mind is stained by craving, av
 
 The same *Saṃyukta Āgama*, fascicle forty-seven, sūtra 1246, gives a plain parable — the **refining of raw gold**: raw gold has the nature of gold within it, only mixed up with sand and soil; wash away the impurities layer by layer, and pure gold naturally appears. Intrinsic but covered, the impurities removed and the gold disclosed — this is the mature expression, within the earliest Buddhism, of the "intrinsic treasure" structure.
 
-⚠️ Here one thing must be marked at once. That famous ten-character maxim, "the mind is intrinsically pure, stained by adventitious defilements" — **does not appear directly in the Chinese Āgamas.** It is first seen in the *Mahāprajñāpāramitā Śāstra*'s interpretation of a line of Pāli, *pabhassara-citta* (the luminous mind), and is a later doctrinal crystallization. This scholarly honesty matters — if "intrinsic purity" is a doctrinal language that crystallized step by step, rather than a claim, from the very beginning, of an eternal entity, then "the intrinsic" is not at root a substance ontology but **a stage in the history of doctrinal articulation**.
+⚠️ Here one thing must be marked at once. That famous eight-character maxim, "the mind is intrinsically pure, stained by adventitious defilements" — **does not appear directly in the Chinese Āgamas.** It is a later doctrinal crystallization (cf. the Pāli *pabhassara-citta*, the luminous mind, in AN 1.49–52). This scholarly honesty matters — if "intrinsic purity" is a doctrinal language that crystallized step by step, rather than a claim, from the very beginning, of an eternal entity, then "the intrinsic" is not at root a substance ontology but **a stage in the history of doctrinal articulation**.
 
 The root of the jewel in the topknot is **teaching by capacity**. The *Bieyi Saṃyukta Āgama*, fascicle four, records the order in which the Buddha taught a certain brahmin:
 
@@ -221,7 +221,7 @@ Reaching this point, a reader familiar with the religious history of India may g
 
 This is a misreading that must be cut off clearly.
 
-The *Laṅkāvatāra Sūtra* itself faces the question head-on. The bodhisattva Mahāmati asks the Buddha directly:
+The *Laṅkāvatāra Sūtra* itself faces the question head-on (the question as given in Guṇabhadra's translation, fascicle 2; the reply in Bodhiruci's, fascicle 3). The bodhisattva Mahāmati asks the Buddha directly:
 
 > How is it, World-Honored One, that you speak of a self as the non-Buddhists do, saying there is a tathāgatagarbha?
 
@@ -229,7 +229,7 @@ World-Honored One, how is it that you, like the non-Buddhists, speak of a "self"
 
 The Buddha's reply is very direct:
 
-> The tathāgatagarbha I teach is not the self the non-Buddhists teach … For the sake of all the foolish ordinary beings who, hearing "no-self," are frightened, I teach that there is a tathāgatagarbha … **In order to draw in those non-Buddhists who cling to a self, I teach the tathāgatagarbha, so that they may depart from the clinging of the deluded mind's notion of a divine self, and enter the three gates of liberation.**
+> I speak of the tathāgatagarbha as permanent, but not as the self-soul of the non-Buddhists … For the sake of all the foolish ordinary beings who, hearing "no-self," are frightened, I teach that there is a tathāgatagarbha … **In order to draw in those non-Buddhists who cling to a self, I teach the tathāgatagarbha, so that they may depart from the clinging of the deluded mind's notion of a divine self, and enter the three gates of liberation.**
 
 The tathāgatagarbha I teach is not the same as the "self" the non-Buddhists teach. Because foolish ordinary beings, hearing "no-self," are frightened and turn back, I teach that there is a tathāgatagarbha, giving them something to hold on to, so that fear of "no-self" will not make them stop practicing. I teach the tathāgatagarbha not in order to establish an entity, but **in order to draw the non-Buddhists who cling to a "self" gradually away from the delusion of a "divine self."** The tathāgatagarbha is a **teaching device**, not a substantial reality.
 
@@ -265,9 +265,9 @@ The jewel in the robe establishes an important premise — "the intrinsic" is un
 
 But once this premise is taken seriously, it raises a larger question — **every** sentient being? Truly every one?
 
-The next chapter deals with three special predictions that come after the seven parables of the Lotus. They are not parables; they are prediction events that actually occur in the text — and each prediction presses on the limit of the universality of "the intrinsic":
+The next chapter deals with two special predictions that come after the seven parables of the Lotus. They are not parables; they are prediction events that actually occur in the text — and each prediction presses on the limit of the universality of "the intrinsic":
 
-**Devadatta** — the Devadatta who once split the saṅgha, drew the Buddha's blood, killed the nun Utpalavarṇā, and was sentenced by the Buddha's own word to "fall living into hell" — will he receive a prediction?
+**Devadatta** — the Devadatta who once split the saṅgha, drew the Buddha's blood, killed the nun Utpalavarṇā, and was sentenced by the Buddha's own word to "enter the Avīci hell" — will he receive a prediction?
 
 **The Dragon Girl** — that eight-year-old, non-human, non-male dragon child — will she receive a prediction?
 

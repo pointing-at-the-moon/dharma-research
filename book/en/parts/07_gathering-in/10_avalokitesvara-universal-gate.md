@@ -20,7 +20,7 @@ But this very familiarity has covered over three structural blind spots.
 
 **The first blind spot**: the Universal Gate chapter itself never gives us the roots of the name "Avalokiteśvara." The scripture opens with the bodhisattva Akṣayamati asking the Buddha, "World-Honored One, for what cause and condition is the bodhisattva Avalokiteśvara so named?"—but what the Buddha goes on to answer is the **function** of the name (when beings single-mindedly invoke it, Avalokiteśvara immediately perceives their voices, and all are liberated), not the **conferral** of the name. The scripture that actually records the occasion on which this bodhisattva received the name "Avalokiteśvara" is not the Universal Gate chapter—it is the *Karuṇāpuṇḍarīka-sūtra*, the Compassion-Flower Sūtra.
 
-**The second blind spot**: "Avalokiteśvara" is not the only translation, and three Chinese renderings correspond to three different readings of the Sanskrit. The history of Chinese translation carries three names side by side—Dharmarakṣa's "Light-Sound-of-the-World," Kumārajīva's "Perceiver-of-the-World's-Sounds," and Xuanzang's "Sovereign-Observer." The three are not an accumulation of translation error; they are a faithful reflection of three readings that already existed in the Sanskrit itself.
+**The second blind spot**: "Avalokiteśvara" is not the only translation, and three Chinese renderings correspond to three different readings of the Sanskrit. The history of Chinese translation carries three names side by side—Dharmarakṣa's "Light-Sound-of-the-World," Kumārajīva's "Perceiver-of-the-World's-Sounds," and Xuanzang's "Sovereign-Observer." The three are not an accumulation of translation error; they are a faithful reflection of three readings that already existed in the Sanskrit itself. (The correspondence of the renderings to Sanskrit forms is a reconstruction inferred backward from the Chinese characters; this is the author's interpretation.)
 
 **The third blind spot**: the responsive structure of the Universal Gate chapter has had its grounding in Buddhist concentration and wisdom obscured by a "miracle-story" way of reading. The passages about fire that does not burn, water that does not drown, blades that snap into pieces have long been read at two extremes—devotees take them as literal miracles, scholars take them as literary exaggeration. Both readings dodge a hard question: **if responsive manifestation is real, how does it coexist with the law that "you reap what you sow"?** Does Avalokiteśvara's rescue break cause and effect? If not, then what exactly is being rescued?
 
@@ -50,7 +50,7 @@ Notice that this circuit is almost an exact mirror of the Avalokiteśvara circui
 
 **Both readings miss the structural meaning of this passage.** It is not a contract (the Buddha does not sign a bond of indenture with you), and it is not exaggeration (Indians did not write lavishly for the sake of lavishness). The function of this passage is to be a **grammar drill in "response without fixed direction."** It lists kinds of suffering not in order to be exhaustive, but to train the reader into one topological fact: **no kind of suffering can fall outside the structure of the universal gate.**
 
-**The third section** is the manifestation of the thirty-three manifestation-bodies. This is the most frequently cited part of the whole chapter, and the canonical basis for the thirty-three Avalokiteśvara images. Avalokiteśvara's responsive forms include the body of a Buddha, of a pratyekabuddha, of a śrāvaka (the three vehicles); the body of Brahmā, of Śakra, of Īśvara (the heavens); the body of a king, an elder, a householder (the human lay sphere); a monk, a nun (the human monastic sphere); a married woman, a boy, a girl, a non-human being—
+**The third section** is the manifestation of the thirty-three manifestation-bodies. This is the most frequently cited part of the whole chapter, and the canonical basis for the thirty-three Avalokiteśvara images. Avalokiteśvara's responsive forms include the body of a Buddha, of a pratyekabuddha, of a śrāvaka (the three vehicles); the body of Brahmā, of Śakra, of Īśvara (the heavens); the body of a lesser king, an elder, a householder (the human lay sphere); a monk, a nun (the human monastic sphere); a married woman, a boy, a girl, a non-human being—
 
 The structural meaning of this passage is not in the number "thirty-three." It is in the **classificatory logic** of the responsive bodies—they cover the **social-identity dimension** of every sentient being in the realm of dharmas. From Buddha to non-human, from king to little girl, the whole spectrum of identity is inside the range of the response. No social position whatsoever is left out.
 
@@ -78,7 +78,7 @@ The Sanskrit name of this bodhisattva, in different periods and different manusc
 - ***Avalokita-svara*** (observing + sound)—from which Kumārajīva rendered "Perceiver-of-the-World's-Sounds"
 - ***Avalokita-īśvara*** (observing + sovereign lord)—from which Xuanzang rendered "Sovereign-Observer"
 
-The differences among the three spellings are not copying mistakes. They are a genuine plurality of readings present in the living transmission of the Sanskrit. Each translator faithfully translated the Sanskrit text in front of him.
+The differences among the three spellings are not copying mistakes. They are a genuine plurality of readings present in the living transmission of the Sanskrit. Each translator faithfully translated the Sanskrit text in front of him. (This correspondence is a reconstruction inferred backward from the Chinese characters; this is the author's interpretation.)
 
 Deeper still—the three renderings each stress a **different facet** of this bodhisattva's structure:
 
@@ -96,7 +96,7 @@ As for why Dharmarakṣa's "Light-Sound-of-the-World" later fell out of use—ma
 
 If the Universal Gate chapter itself gives no roots for the name "Avalokiteśvara," then where are the roots?
 
-They are in fascicle three of the *Karuṇāpuṇḍarīka*, the Compassion-Flower Sūtra, in its "Chapter on the Original Prediction of the Bodhisattvas."
+They are in fascicle three of the *Karuṇāpuṇḍarīka*, the Compassion-Flower Sūtra, in its "Chapter on the Original Prediction of the Bodhisattvas." (What the *Karuṇāpuṇḍarīka* records is a narrative of the name's conferral, not the linguistic etymology of a Sanskrit word-form; calling it the "roots" of the name is the author's interpretation.)
 
 The story is set countless incalculable aeons ago. A Buddha appeared in the world named **Tathāgata Ratnagarbha**, the Jewel-Treasury Tathāgata. At the same time there was a wheel-turning sage-king named **Araṇemin** (this king was the former life of Amitābha Buddha). The king had a thousand sons. The eldest prince was named **Animiṣa**—a name that means "the unblinking one," "the one who does not close his eyes."
 
@@ -130,11 +130,11 @@ The responsive structure of the Universal Gate chapter—thirty-three manifestat
 
 **The first seed—Brahmā's entreaty.**
 
-Both the *Mahāpadāna* of the *Dīrghāgama* and the "Exhortation" chapter of the *Ekottarāgama* record this scene. When the Buddha had just attained the Way, sitting beneath the bodhi-tree, he reflected: the Dharma I have realized is too deep, beings will find it hard to receive—should I simply enter nirvāṇa and not teach? At that moment **Brahmā** descended from the Brahmā heaven, stood before the Buddha, and entreated him:
+Both the *Mahāpadāna* of the *Dīrghāgama* and the "Exhortation" chapter of the *Ekottarāgama* record this scene. When the Buddha had just attained the Way, sitting beneath the bodhi-tree, he reflected: the Dharma I have realized is too deep, beings will find it hard to receive—should I simply remain silent and not teach? At that moment **Brahmā** descended from the Brahmā heaven, stood before the Buddha, and entreated him:
 
-> World-Honored One, now is the very time! World-Honored One, now is the very time! I only pray that you teach the Dharma and deliver beings…
+> These beings, at root, are easy to deliver; if they do not hear, they will forever lose the Dharma-eye. … Now is the very time; I only pray that the World-Honored One will teach the Dharma for them.
 
-Brahmā said: "World-Honored One, there are beings who can be delivered. If you enter nirvāṇa, their opportunity is lost. Please teach the Dharma." And so the Buddha set aside the thought of nirvāṇa and began to teach.
+Brahmā said: "World-Honored One, there are beings who can be delivered. If you do not teach, their opportunity is lost. Please teach the Dharma." And so the Buddha set aside the thought of remaining silent and began to teach.
 
 This scene is the **prototype of the "compassionate intercessor"**—an external person who steps in at the threshold moment when beings are about to lose their opportunity for liberation. Brahmā here is a being who **universally observes the classes of beings**; he sees their plight, and out of compassion he steps in of his own accord.
 
@@ -196,16 +196,16 @@ The precise definition of resonance is this—**there must first be a "self-arou
 
 This is the heart of the whole answer. Kuiji places Avalokiteśvara's rescue precisely inside the Yogācāra structure of the four conditions. The four conditions are:
 
-- the **proximate cause** (*hetu-pratyaya*)—the direct, principal cause
+- the **causal condition** (*hetu-pratyaya*, the proximate cause)—the direct, principal cause
 - the **contributing condition** (*adhipati-pratyaya*)—the auxiliary, strengthening outer condition
 - the **objective condition**—the object of cognition
 - the **immediately-antecedent condition**—the continuous flow of mind
 
-Kuiji says plainly: **all of Avalokiteśvara's supernormal powers, responsive manifestations, and rescues can only occupy the position of the "contributing condition" in the Yogācāra theory of causes and conditions; they can never take over the "proximate-cause" position belonging to the being's own mind.**
+Following Kuiji's answer: **all of Avalokiteśvara's supernormal powers, responsive manifestations, and rescues can only occupy the position of the "contributing condition" in the Yogācāra theory of causes and conditions; they can never take over the "proximate-cause" position belonging to the being's own mind.** (Kuiji's text says only "first there must be karma made by self, then the conditions may be relied upon," and does not use the terms "contributing condition" or "proximate cause"; placing his answer within the four conditions is the author's interpretation.)
 
 The weight of this answer has to be taken slowly.
 
-It means that Avalokiteśvara is not an **exception to the law of karma.** Avalokiteśvara's rescue is precisely **the full unfolding of the law of karma within the Mahāyāna theory of resonance**—the being's own mind arouses the thought of refuge (mental karma), the mouth invokes the name (verbal karma), the body bows (bodily karma); these three karmas are themselves the **cause**; Avalokiteśvara perceives through the three powers and responds through the three wheels, and this is the **condition**. Cause and condition meet, and the suffering is undone. Kuiji draws the whole universal-gate structure into the rigorous model of "**three karmas as cause → three powers perceiving → three wheels responding**."
+It means that Avalokiteśvara is not an **exception to the law of karma.** Avalokiteśvara's rescue is precisely **the full unfolding of the law of karma within the Mahāyāna theory of resonance**—the being's own mind arouses the thought of refuge (mental karma), the mouth invokes the name (verbal karma), the body bows (bodily karma); these three karmas are themselves the **cause**; Avalokiteśvara perceives through the three powers and responds through the three wheels, and this is the **condition**. Cause and condition meet, and the suffering is undone. Kuiji draws the whole universal-gate structure into the rigorous model of "**three karmas as cause → three powers perceiving → three wheels responding**." (In glossing the meaning of the name, Kuiji's commentary pairs the three karmas of refuge with the divine-ear, other-minds, and divine-eye powers; in explaining the title, it calls the three wheels of supernormal power, prediction-speech, and instruction the substance of the universal gate, without pairing them with the three karmas; linking these into a single model is the author's interpretation.)
 
 This answer holds two things safe at once—
 
@@ -238,7 +238,7 @@ The structure of the two circuits is **identical**. The only difference is in th
 
 Only the two together make up the complete functional aspect of prajñāpāramitā—**inward closure is the wisdom of saving oneself, outward opening is the compassion of saving others.**
 
-The Tang-dynasty Huayan master Fazang, in his *Brief Commentary on the Heart Sūtra*, long ago wrote a single line on the three characters of "Avalokiteśvara": "**The first reading takes it as wisdom; the second takes it as compassion.**" "Avalokiteśvara" can be read as the gate of wisdom or as the gate of compassion—the two readings are not different bodhisattvas but different names for the same one. Thirteen hundred years ago, this sentence of Fazang's had already lifted the unity of "Sovereign-Observer" and "Perceiver-of-the-World's-Sounds" from the level of name to the level of substance-and-function.
+The Tang-dynasty Huayan master Fazang, in his *Brief Commentary on the Heart Sūtra*, long ago wrote a single line on the three characters of "Avalokiteśvara": "**The first reading takes it as wisdom; the second takes it as compassion.**" "Avalokiteśvara" can be read as the gate of wisdom or as the gate of compassion—the two readings are not different bodhisattvas but different names for the same one. Thirteen hundred years ago, this sentence of Fazang's had already lifted the unity of "Sovereign-Observer" and "Perceiver-of-the-World's-Sounds" from the level of name to the level of substance-and-function. (Fazang's two readings concern only the name "Guanzizai," Sovereign-Observer; extending them to "Guanshiyin," Perceiver-of-the-World's-Sounds, is the author's interpretation.)
 
 And so—**Sovereign-Observer and Perceiver-of-the-World's-Sounds are not two bodhisattvas; they are the one same prajñā completed along its two directions, inward and outward.** The Heart Sūtra's Avalokiteśvara is the inward-illuminating perfection of prajñā as substance; the Universal Gate chapter's Avalokiteśvara is the outward-responding perfection of prajñā as function.
 
@@ -287,13 +287,13 @@ This too is why the Universal Gate chapter could stand free of the Lotus as a si
 
 In this sense the Universal Gate chapter is not an appendix to the Lotus. It is **the most landed, the most popular, and the most irreplaceable chapter of the whole Lotus's logic.**
 
-With this, the whole of Part Seven reaches a point where **the outward-responsive logic of the trace-gate is complete.**
+With this, the whole of Part Seven reaches a point where **the outward-responsive logic, centered on the trace-gate, is complete.**
 
-From the burning house, the prodigal son, the medicinal herbs, the conjured city, the robe-jewel and the topknot-jewel, on through the prediction granted to Devadatta, Never-Disparaging's universal reverence, and Avalokiteśvara's universal gate—every problem the trace-gate of the Lotus had to handle has been handled. Skillful means, capacity, difference, the inherent, the limit, the form of practice, the outward response—every layer has been unfolded, every misreading corrected.
+From the burning house, the prodigal son, the medicinal herbs, the conjured city, the robe-jewel and the topknot-jewel, on through the prediction granted to Devadatta, Never-Disparaging's universal reverence, and Avalokiteśvara's universal gate—every problem the trace-gate of the Lotus had to handle has by and large been handled (by Zhiyi's division into the first and last fourteen chapters, the Never-Disparaging chapter and the Universal Gate chapter already belong to the fourteen chapters of the origin-gate). Skillful means, capacity, difference, the inherent, the limit, the form of practice, the outward response—every layer has been unfolded, every misreading corrected.
 
 But there is one thing beneath the trace-gate that has still not been faced head-on—**time.**
 
-The whole Lotus has a very strange structure of time. The way it uses "the distant past" is unlike any other scripture. The Conjured City chapter once used the image of "**grinding all the earth-element of a great-thousandfold world into ink, passing over a thousand lands to the east and then setting down a single dot, and so on and on, until the lands dotted and undotted alike are all ground into dust—and one dust-mote is one aeon**"—stretching time to a length almost beyond imagining—to mark the date of the parinirvāṇa of the Buddha Mahābhijñājñānābhibhū. A scale of time like this is not found in the śrāvaka scriptures.
+The whole Lotus has a very strange structure of time. The way it uses "the distant past" is unlike any other scripture. The Conjured City chapter once used the image of "**suppose someone ground all the earth-element of a great-thousandfold world into ink, passed over a thousand lands to the east, and then set down a single dot … and so on and on … whether dotted or not, all ground into dust—one dust-mote, one aeon**"—stretching time to a length almost beyond imagining—to mark the date of the parinirvāṇa of the Buddha Mahābhijñājñānābhibhū. A scale of time like this is not found in the śrāvaka scriptures.
 
 Why does the Lotus use time this way? What is a structure of time like this saying?
 
@@ -301,4 +301,4 @@ The next chapter takes up Chapter Sixteen of the Lotus—"The Lifespan of the Ta
 
 This is the Lotus's pivotal turn from the **trace-gate** to the **origin-gate**.
 
-Avalokiteśvara's universal gate is the fulfillment of the trace-gate's outward response. The Lifespan chapter's immeasurable original lifespan is the unfolding of the origin-gate's inner ground. Only with the two together is the Lotus complete.
+Avalokiteśvara's universal gate is the fulfillment of the outward response. The Lifespan chapter's immeasurable original lifespan is the unfolding of the origin-gate's inner ground. Only with the two together is the Lotus complete.

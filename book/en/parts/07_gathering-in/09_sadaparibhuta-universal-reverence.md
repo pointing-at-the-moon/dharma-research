@@ -52,7 +52,7 @@ This misreading is especially easy to fall into today. Many readers picture Neve
 
 The scripture itself gives us two active gestures—**go up to** (actively drawing near) and **flee to a safe distance** (actively withdrawing). The three Chinese translations (Kumārajīva's *Lotus Sūtra*, Dharmarakṣa's *Correct-Dharma Lotus*, and Jñānagupta's *Supplemented Lotus*) agree completely on these two gestures—Dharmarakṣa renders "when struck with tiles and stones, he continued to **raise his voice from a distance**, instructing them," and the supplemented version reads "**fleeing to a safe distance, he would still call out aloud**." A dynamic preserved in common by three independent translations cannot be the embellishment of any single translator. **This is the most original core of the Never-Disparaging narrative.**
 
-This structure was already present in the Āgamas. The *Ekottarāgama* "Sūtra to Mahā-Kauṣṭhila" sets two acts side by side: "If others give rise to anger, we shall **train in forbearance**; if others harbor jealousy, we shall **withdraw**." **Forbearance** is the inner posture (the mind gives no rise to anger); **withdrawal** is the outer action (the body does not stay). The two stand side by side without obstructing one another.
+This structure was already present in the Āgamas. The *Ekottarāgama* "Sūtra to Mahācunda" sets two acts side by side: "If others give rise to anger, we shall **train in forbearance**; if others harbor jealousy, we shall **withdraw**." **Forbearance** is the inner posture (the mind gives no rise to anger); **withdrawal** is the outer action (the body does not stay). The two stand side by side without obstructing one another. (In the sūtra this sentence follows "even the ten evil dharmas are all to be abandoned, not practicing their conduct" and is followed by "if others give rise to arrogance, I shall think to abandon it"; what is abandoned is one's own jealousy and arrogance, which one does not practice. Reading "withdraw" as an outward act of moving away from the person is the author's interpretation.)
 
 This two-track structure of **inward forbearance, outward withdrawal** is a standard practice-combination Buddhism has held since the time of the Āgamas—**no hatred arising in the mind, the body leaving when it ought to leave.** Never-Disparaging's "fleeing to a safe distance, still calling out aloud" fits this structure exactly: in the mind he keeps revering the other (inward forbearance), with the body he moves to a safe distance (outward withdrawal), and with the mouth he never stops declaring (the heart of universal reverence).
 
@@ -96,9 +96,9 @@ The weight of this passage is immense. Two hundred koṭi kalpas of not meeting 
 
 Who did these people finally become? The scripture's next line:
 
-> Bhadrapāla and the rest, the five hundred bodhisattvas... were they some other persons? They are these very ones.
+> Those of the fourfold assembly who at that time constantly slighted this bodhisattva—were they some other persons? They are, here in this assembly now, the five hundred bodhisattvas led by Bhadrapāla, the five hundred bhikṣus led by Siṃhacandra, and the five hundred upāsakas led by Nisifo, all of whom are non-regressing from anuttarā samyaksaṃbodhi.
 
-They are the five hundred bodhisattvas, Bhadrapāla and the rest, listening to the sūtra in today's *Lotus* assembly.
+They are the five hundred bodhisattvas led by Bhadrapāla, the five hundred bhikṣus led by Siṃhacandra, and the five hundred upāsakas led by Nisifo, listening to the sūtra in today's *Lotus* assembly.
 
 This is how the whole story is gathered up—**the seeds that were planted all eventually became manifest**, **even those who slighted Never-Disparaging not excepted.** But the cost of becoming manifest **was two hundred koṭi kalpas plus a thousand kalpas in the Avīci hell.**
 
@@ -144,15 +144,15 @@ Universal reverence, too, was not conjured out of nothing by the Mahāyāna. It 
 
 > You should practice loving-kindness, broadcast loving-kindness; by practicing loving-kindness, all hatred in the mind will dissolve of itself... In days past, **for seven years I continually cultivated loving-kindness**, passing through seven kalpas of formation and dissolution without returning to birth-and-death.
 
-The Buddha says that his bodhisattva path began with seven years of cultivating loving-kindness alone. Seven years is not seven days; seven kalpas of formation and dissolution is no brief stretch of time. **Loving-kindness is a core practice that bears the temporal span of seven kalpas of cosmic formation and dissolution, that holds the direction unbroken across the turning of birth-and-death.** It is not an auxiliary practice; it is a root practice.
+The Buddha says that in days past he continually cultivated loving-kindness for seven years, passing through seven kalpas of formation and dissolution. Seven years is not seven days; seven kalpas of formation and dissolution is no brief stretch of time. **Loving-kindness is a core practice that bears the temporal span of seven kalpas of cosmic formation and dissolution, that holds the direction unbroken across the turning of birth-and-death.** It is not an auxiliary practice; it is a root practice.
 
-Never-Disparaging's posture of "everyone he saw, he bowed to and praised" and the Buddha's posture of "for seven years I continually cultivated loving-kindness" are, in their temporal structure, **completely identical**—both are **unconditional, uninterrupted facing of every object.**
+Never-Disparaging's posture of "everyone he saw … he bowed to and praised" and the Buddha's posture of "for seven years I continually cultivated loving-kindness" are, in their temporal structure, **completely identical**—both are **unconditional, uninterrupted facing of every object.**
 
 *Ekottarāgama*, fascicle forty-seven, is even more direct. It mentions the eleven fruits of the loving-kindness liberation—sleeping in peace, waking in peace, seeing no evil dreams, protected by devas, beloved by humans, untouched by poison, untouched by weapons, untroubled by water, fire, or thieves—and then comes a key sentence:
 
 > If sentient beings practice the liberation of loving-kindness, **broadcasting its meaning and expounding it for others**, they will obtain these eleven fruits.
 
-"Broadcasting its meaning and expounding it for others"—**actively externalizing** the inner loving-kindness into a declaration to others. A verse in the same fascicle adds: "**Practicing loving-kindness pervading all**, never bearing a hateful mind... **swiftly attaining nirvāṇa**, eternally reaching the unconditioned."
+"Broadcasting its meaning and expounding it for others"—**actively externalizing** the inner loving-kindness into a declaration to others. A verse in the same fascicle adds: "**Swiftly attaining nirvāṇa**, eternally reaching the unconditioned... **practicing loving-kindness pervading all**, never bearing a hateful mind."
 
 These few lines correspond, structurally and completely, to the story of Never-Disparaging:
 
@@ -167,7 +167,7 @@ From the loving-kindness pervading all of the Āgamas, to the Universal Reverenc
 
 This Āgamic root has one important supplement—loving-kindness is never **blind, undiscriminating accommodation.**
 
-The *Saṃyuktāgama*, fascicle forty-six, records that when Śakra fought the asuras, "**by the power of loving-kindness, with majestic strength he subdued the army of asuras.**" Loving-kindness runs in parallel with majesty. The *Madhyamāgama* "Sūtra to Velāma" says that one who cultivates loving-kindness must "**contemplate all dharmas as impermanent, suffering, empty, and not-self**"—loving-kindness operates in tandem with the wisdom-eye.
+The *Saṃyuktāgama*, fascicle forty-six, records that when Śakra fought the asuras, "**by the power of loving-kindness, with majestic strength he subdued the army of asuras.**" Loving-kindness runs in parallel with majesty. The *Madhyamāgama* "Sūtra to Sudatta" ranks above the practice of loving-kindness the one who can "**contemplate all dharmas as impermanent, suffering, empty, and not-self**"—loving-kindness operates in tandem with the wisdom-eye (this is the author's interpretation).
 
 The loving-kindness of the Āgamas was never "the unprincipled niceness of a pushover"—saying yes to everyone, refusing nothing, making oneself a machine of undiscriminating accommodation. The loving-kindness of the Āgamas is **loving-kindness and wisdom in tandem**—coexisting with majesty, coexisting with wisdom.
 
@@ -177,7 +177,7 @@ Never-Disparaging's universal reverence inherits exactly this tradition. His uni
 
 Having come this far, we can state clearly what the Never-Disparaging chapter contributes structurally to the whole of Part Seven.
 
-Walking down through the earlier chapters—from the burning house, the destitute son, the medicinal herbs, the conjured city, the jewel in the robe and the jewel in the topknot, on to Devadatta and the dragon girl—prophecy has all along been **a speech-act of the Buddha**. The Buddha prophesies for Śāriputra, the Buddha prophesies for Kāśyapa, the Buddha prophesies for Devadatta, the Buddha prophesies for the dragon girl. The agent of prophecy is the Buddha, the form of prophecy is a sentence, the object of prophecy is some particular chosen person.
+Walking down through the earlier chapters—from the burning house, the destitute son, the medicinal herbs, the conjured city, the jewel in the robe and the jewel in the topknot, on to Devadatta and the dragon girl—prophecy has all along been **a speech-act of the Buddha**. The Buddha prophesies for Śāriputra, the Buddha prophesies for Kāśyapa, the Buddha prophesies for Devadatta. The agent of prophecy is the Buddha, the form of prophecy is a sentence, the object of prophecy is some particular chosen person.
 
 The Never-Disparaging chapter accomplishes a threefold inversion.
 
@@ -237,7 +237,7 @@ Earlier chapters established the distinction between the *Lotus Sūtra*'s two gr
 
 In the Never-Disparaging chapter, when Kuiji, in his *Profound Praise of the Lotus Sūtra*, comes to gloss this core line of scripture, he does something special—**on one and the same sentence, he mobilizes both tracks at once.**
 
-His gloss on "I deeply revere you and dare not slight you; you all walk the bodhisattva path and shall attain Buddhahood" runs like this:
+His gloss on "I deeply revere you and dare not slight you; … you all walk the bodhisattva path and shall attain Buddhahood" runs like this:
 
 > "I deeply revere you and dare not slight you"—because they possess the inherent nature of a Buddha and abide in the lineage; **this reveres the tathāgatagarbha as saṃbhogakāya.** "You walk the bodhisattva path and shall attain Buddhahood"—because for those possessing the lineage, if they activate habituated nature and arouse the mind to practice, Buddhahood is necessarily attained. Furthermore, on the basis of the **tathāgatagarbha as dharmakāya**, all beings have my deep reverence.
 

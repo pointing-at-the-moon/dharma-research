@@ -1,6 +1,6 @@
 ## 7.11 The Chapter on the Tathāgata's Immeasurable Lifespan — Awakening in the Distant Past, and the Temporal Structure of the dharma-body
 
-From the Skillful Means chapter all the way to the Universal Gate chapter of Avalokiteśvara—fifteen full chapters walked through one after another—there is one thing that was never once raised to our faces.
+From the Skillful Means chapter all the way to the Universal Gate chapter of Avalokiteśvara—the first ten chapters of this Part walked through one after another—there is one thing that was never once raised to our faces.
 
 Who, exactly, is the speaker of this entire sūtra—Śākyamuni Buddha?
 
@@ -14,7 +14,7 @@ This chapter is the threshold where the Lotus crosses from the **trace-gate** in
 
 ### The Gate Has Changed
 
-The common structure of the first fifteen chapters is "**how the Buddha speaks to sentient beings**." Every chapter answers a teaching question—for beings of differing capacities, what parable, what skillful means, what posture will lead them toward the true mark of all dharmas? Opening the provisional to disclose the real, gathering the three into one, the series of parables, the series of prophecies, universal reverence and the universal gate—every question lives at the level of "how the teaching unfolds."
+The common structure of the sūtra chapters treated in this Part's first ten chapters is "**how the Buddha speaks to sentient beings**." Every chapter answers a teaching question—for beings of differing capacities, what parable, what skillful means, what posture will lead them toward the true mark of all dharmas? Opening the provisional to disclose the real, gathering the three into one, the series of parables, the series of prophecies, universal reverence and the universal gate—every question lives at the level of "how the teaching unfolds."
 
 At the chapter on the Tathāgata's lifespan, **the gate changes.**
 
@@ -34,7 +34,7 @@ This passage has to be read slowly.
 
 The Buddha first **restates in full** his audience's assumption about time—left the Śākya palace, not far from Gayā, sat at the seat of awakening, attained anuttarā-samyak-saṃbodhi. Four concrete coordinates of space and time, not one of them dropped. This is the complete résumé of Śākyamuni in the eyes of sentient beings—from leaving home from King Śuddhodana's palace, to attaining the Way under the bodhi tree near Gayā, to expounding the Dharma on Vulture Peak in this present life.
 
-Then, three syllables: "**but, good sons.**"
+Then, four characters: "**but, good sons.**"
 
 A turn.
 
@@ -64,7 +64,7 @@ These are not two parallel worlds. They are two manifestations of one and the sa
 
 ### The Parable of the Good Physician and His Sick Sons
 
-Having spoken these three passages, the Buddha at once does something remarkable—he **offers a parable of his own accord.**
+After the prose has told of the attainment in the distant past, and before the verses "always on Vulture Peak" and "my pure land is not destroyed," the Buddha does something remarkable—he **offers a parable of his own accord.**
 
 The position matters. Every parable in the first fifteen chapters stood at the position of "using a parable to teach sentient beings"—the burning house, the prodigal son, the medicinal herbs, the conjured city, the robe-jewel and the topknot-jewel were all parables that opened some point of meaning for beings. **The parable of the good physician is not.** This parable is one the Buddha **uses, at the very instant the original-gate has just been disclosed**, to **explain what the Buddha himself has just said.**
 
@@ -72,7 +72,7 @@ The parable runs like this.
 
 There was a good physician, skilled in his art, who had cured many patients. He had many sons—ten, twenty, even a hundred. One day, while he was away on business and not at home, his sons mistakenly drank poison. When the father came home, the sons had all taken ill from the poison—some had lost their senses, some had not yet lost them.
 
-The father prepared an antidote and told them to take it. The sons who had not lost their senses took the medicine and recovered. **Those who had lost their senses would not take it**—they were deranged to the point of "not recognizing their own original minds." Though they saw their father before them, though their father with his own mouth taught them to take the medicine, they simply would not.
+The father prepared an antidote and told them to take it. The sons who had not lost their senses took the medicine and recovered. **Those who had lost their senses would not take it**—they were deranged to the point of not recognizing their own original minds. Though they saw their father before them, though their father with his own mouth taught them to take the medicine, they simply would not.
 
 So the father devised a means. He said to the children, "I am now old and the time of my death is near. I leave this good medicine here. Take it whenever you have need." Then he went off to a distant land. After he had gone, he sent a messenger back to tell the children: "Your father has died abroad."
 
@@ -116,7 +116,7 @@ On the surface this looks like a common act of classification. But in unfolding 
 
 > One need not far-seek another sūtra… it is all **within just a few pages**.
 
-The entire canonical basis for the ten subtleties of the original-gate need not be sought far afield in other sūtras, nor combed out across the various chapters of the Lotus—it is all **within the few short pages of this one Lifespan chapter.**
+The entire canonical basis for the ten subtleties of the original-gate need not be sought far afield in other sūtras, nor combed out across the various chapters of the Lotus—it is all **within the few short pages of this one Lifespan chapter.** (The ten verifications Zhiyi cites are drawn from the sūtra text of three chapters—Emerging from the Earth, the Lifespan, and Distinguishing Merits; the original benefit, for instance, cites "hearing the Buddha tell of a lifespan of kalpas so long, immeasurable, boundless asaṃkhyeyas of beings gained great benefit," which is from the Distinguishing Merits chapter. Taking "within just a few pages" to mean the single Lifespan chapter is the author's interpretation.)
 
 The structural import of this sentence must be seen clearly.
 
@@ -158,11 +158,11 @@ Pointing-at-the-Moon chooses the phenomenological reading. The reasons can be se
 
 But read the text closely. Before "since" there is **no statement of any temporal starting point**, and what follows is not "until now, this long"—it is "immeasurable, boundless hundreds of thousands of myriads of koṭis of nayutas of kalpas." This time-quantity is not the result of measuring from a start to an end; it is **a description of the structure of time itself.**
 
-Compare the structure of the seven past Buddhas recorded in the *Mahāpadāna-sutta* of the *Dīrgha-āgama*—"ninety-one kalpas in the past there was Vipaśyin Buddha." That "in the past" is a temporal starting-point statement in the strict sense. The Lifespan chapter's "since" is different—it gives no starting point at all, only a boundless time-quantity.
+Compare the structure of the seven past Buddhas recorded in the *Mahāpadāna-sutta* of the *Dīrgha-āgama*—"ninety-one kalpas in the past, at that time there was in the world a Buddha named Vipaśyin Tathāgata, the Arhat, who appeared in the world." That "in the past" is a temporal starting-point statement in the strict sense. The Lifespan chapter's "since" is different—it gives no starting point at all, only a boundless time-quantity.
 
 This is not a simple amplification of the Āgama mode of expression. This is a **different type of temporal statement**—the Āgama speaks of "an event that occurred at some past time"; the Lifespan chapter speaks of "**the non-determinacy of time itself with respect to this object.**"
 
-Immeasurable, boundless kalpas is not an enormous number of years. It is a structural statement of "time cannot determine this object."
+Immeasurable, boundless kalpas is not an enormous number of years. It is a structural statement of "time cannot determine this object." (The sūtra's line "since I in fact attained Buddhahood, immeasurable, boundless hundreds of thousands of myriads of koṭis of nayutas of kalpas" is itself a narrative statement of awakening in the distant past; reading "since" as a structure of time rather than a temporal origin is the author's interpretation.)
 
 **Second level—"always on Vulture Peak" and "sentient beings see it burnt up" hold simultaneously.**
 
@@ -186,7 +186,7 @@ If awakening in the distant past were the personal-deity reading—if the Buddha
 
 But the parable of the good physician **appears precisely at the very instant the original-gate has just been disclosed.** The position of this parable is itself a statement—what the original-gate discloses is not a fact that can be received as information, but **a structure the reader must enter for himself.** At the very instant of disclosure, the Buddha offers the parable of his own accord, reminding the reader not to reify the disclosure into another doctrine of "definitive permanence."
 
-The parable's phrase "**falsely saying his body had died**" is the boldest line in the whole Lotus—in the clearest possible language, the Buddha tells the reader: **the manifested extinction is a structural teaching device, not a factual proclamation about "the Buddha not really having died."**
+In the parable, **falsely saying his body had died** is the boldest line in the whole Lotus—in the clearest possible language, the Buddha tells the reader: **the manifested extinction is a structural teaching device, not a factual proclamation about "the Buddha not really having died."**
 
 This self-authenticating structure corresponds exactly to the logic worked over again and again in Part Five, *Cutting · Diamond Sūtra*—**those who can see, can see; those who cannot, cannot.** The disclosure of the original-gate is not the transmission of information; it is a structural prompt. After reading it, you must enter that coordinate system yourself—if you do not enter, then memorizing the literal fact "the Buddha has been a Buddha for immeasurable kalpas" is of no use.
 
@@ -196,15 +196,15 @@ Here we set up the hardest guardrail of all.
 
 The "slide into the personal-deity reading" spoken of above is not a modern over-sensitivity—this reading already existed in Jizang's day, and Jizang himself judged it to be **the view of a heterodox path.**
 
-In fascicle ten of his *Commentary on the Meaning of the Lotus*, handling the Lifespan chapter, Jizang issued a verdict of great weight:
+In fascicle ten of his *Commentary on the Meaning of the Lotus*, in the commentary on the Distinguishing Merits chapter, answering the question "hearing the sūtra tell of the lifespan, how can one gain the acceptance of non-arising?", Jizang issued a verdict of great weight:
 
 > **If one says this sūtra teaches that the Buddha is definitively permanent, that is precisely the eternalist view.**
 
 If anyone reads this sūtra as "the Buddha definitively, permanently abides"—that is not an understanding of this sūtra; it is **falling into the eternalist view.** The eternalist view is the view of a heterodox path. The view of a heterodox path is a wrong view.
 
-The structure of this sentence is a strict Madhyamaka refutation, with no room for evasion. Jizang here leaves no escape hatch of "perhaps it could also be read this way"—**the personal-deity reading is not an acceptable interpretive direction for the Lotus Sūtra; the personal-deity reading is directly judged as the eternalist view of a heterodox path.**
+The structure of this sentence is a strict Madhyamaka refutation, with no room for evasion. Jizang here leaves no escape hatch of "perhaps it could also be read this way"—**the personal-deity reading is not an acceptable interpretive direction for the Lotus Sūtra; the personal-deity reading is directly judged as the eternalist view of a heterodox path.** (The same passage of the commentary first refutes "a Buddha who is impermanent" and "a permanence with its mark concealed," then refutes "definitive permanence," and concludes: "thus one knows it is neither permanent nor impermanent, neither long nor short, yet long and short accord with conditions, permanence and impermanence are skillful means." The verdict "heterodox" and taking up only the refutation of the eternalist side are the author's interpretation.)
 
-The force of this verdict is a structural requirement of the Lotus Sūtra itself. Jizang's argument is the Madhyamaka **eight negations of the middle way**—neither arising nor ceasing, neither permanent nor annihilated, neither one nor different, neither coming nor going. When this sūtra says "the original lifespan is immeasurable," it does not say "the original lifespan definitively abides permanently"—the opposite of "permanent" is not "impermanent"; it is "**neither permanent nor impermanent.**" The "immeasurable" of the immeasurable original lifespan negates precisely the very concept of "definitively permanent," because "definitively permanent" has already reified the original lifespan into an object subject to the permanent / impermanent binary judgment.
+The force of this verdict is a structural requirement of the Lotus Sūtra itself. Jizang's argument is the Madhyamaka **eight negations of the middle way**—neither arising nor ceasing, neither permanent nor annihilated, neither one nor different, neither coming nor going. When this sūtra speaks of the original lifespan as immeasurable, it does not say "the original lifespan definitively abides permanently"—the opposite of "permanent" is not "impermanent"; it is "**neither permanent nor impermanent.**" The "immeasurable" of the immeasurable original lifespan negates precisely the very concept of "definitively permanent," because "definitively permanent" has already reified the original lifespan into an object subject to the permanent / impermanent binary judgment.
 
 The true original lifespan does not fall into this binary judgment. So to call it "permanently abiding" is wrong, and to call it "impermanent" is also wrong. The sūtra's positive language, "immeasurable, boundless hundreds of thousands of myriads of koṭis of nayutas of kalpas," is **a third kind of statement that exceeds the permanent / impermanent binary.**
 
@@ -222,13 +222,13 @@ This time it is not a convergence by wings—not one side carried by this track,
 
 The closure-point of the Tathāgatagarbha track already appears in the Indian master Vasubandhu's *Treatise on the Lotus*. T1520 contains one decisive definition:
 
-> The substance of the one vehicle is precisely the **equal dharma-body**.
+> The substance of the one vehicle is the **equal dharma-body** of all Buddha-Tathāgatas.
 
 This sentence directly equates the core Lotus concept "the one vehicle," established in earlier chapters, with "the equal dharma-body," the core of the Tathāgatagarbha track. The one vehicle is not a doctrinal slogan; it is **the substance of the dharma-body on the dimension of the teaching.**
 
 Reading the Lifespan chapter back through this sentence—the "original lifespan" of the immeasurable original lifespan is not the lifespan of the Buddha as an individual; it is **the temporal dimension of the equal dharma-body.** The dharma-body's manifestation on any one time-slice is the complete coming-forth of the entire one vehicle.
 
-The closure-point of the Yogācāra track is the three-body classification in fascicle nine, lower, of Kuiji's *Profound Praise of the Lotus*. The original Buddha is matched with the substance of the dharma-body; the trace Buddha with the function of the reward-body and the transformation-body. **The three bodies are neither one nor different**—not three Buddhas, nor one Buddha divided into three aspects; the three bodies are a threefold naming of the same object within different structures of manifestation.
+The closure-point of the Yogācāra track is the three-body classification in fascicle nine, lower, of Kuiji's *Profound Praise of the Lotus*. The original Buddha is matched with the substance of the dharma-body; the trace Buddha with the function of the reward-body and the transformation-body (the commentary, following the *Treatise on the Lotus*, sets out three Buddha-bodhis, matching the recent attainment of "leaving the Śākya palace" with the response-and-transformation bodhi, the remote line "since I in fact attained Buddhahood" with the reward-Buddha bodhi, and "the Tathāgata knows and sees the marks of the three realms as they truly are" with the dharma-Buddha bodhi; summarizing this as the original Buddha matched with the substance of the dharma-body and the trace Buddha with the function of the reward- and transformation-bodies is the author's interpretation). **The three bodies are neither one nor different**—not three Buddhas, nor one Buddha divided into three aspects; the three bodies are a threefold naming of the same object within different structures of manifestation.
 
 Here one thing especially deserves notice: the way the three-body passage in fascicle ten of Dharmapāla's *Treatise on the Establishment of Consciousness-Only* describes the dharma-body is **not to abstract the dharma-body into a being of some higher level**, but to describe the dharma-body as **the structural condition of temporal manifestation.**
 
@@ -238,7 +238,7 @@ So the dharma-body does not arise and cease within time—but **not because it "
 
 The two tracks approach the same object from two directions:
 
-- The **Tathāgatagarbha track** from the direction of "the substance of the one vehicle is the equal dharma-body."
+- The **Tathāgatagarbha track** from the direction of the substance of the one vehicle being the equal dharma-body.
 - The **Yogācāra track** from the direction of "the manifestation-mechanism of the three bodies, neither one nor different."
 
 On the whole structure of the original-gate, the two paths converge at one point: **the dharma-body is not a being within time; it is the ground of temporal manifestation.**
@@ -317,11 +317,11 @@ What lies beyond the line, this chapter does not write; not writing is not becau
 
 Deep faith-understanding is the work beyond the line. It is the reader's own work.
 
-The immeasurable original lifespan is not a factual statement about the Buddha; it is a structure the reader must enter for himself.
+The immeasurable original lifespan is not a factual statement about the Buddha; it is a structure the reader must enter for himself (the sūtra narrates awakening in the distant past with "since I in fact attained Buddhahood"; this sentence is the author's interpretation).
 
 Reaching here, Part Seven of the Lotus has only one chapter left.
 
-From the Skillful Means chapter to the Universal Gate chapter of Avalokiteśvara, the whole outward-responding logic of the trace-gate has been walked through. From the Lifespan chapter to the Distinguishing Merits chapter, the whole inner structure of the original-gate has been unfolded. The doctrinal work of this sūtra, the Lotus, after this chapter, is essentially finished.
+From the Skillful Means chapter to the Universal Gate chapter of Avalokiteśvara, the outward-responding logic, centered on the trace-gate, has been walked through (by Zhiyi's division into the first and last fourteen chapters, the Never-Disparaging chapter and the Universal Gate chapter already belong to the fourteen chapters of the original-gate). From the Lifespan chapter to the Distinguishing Merits chapter, the whole inner structure of the original-gate has been unfolded. The doctrinal work of this sūtra, the Lotus, after this chapter, is essentially finished.
 
 The next chapter does not unfold one more new point of doctrine; it handles a **handoff**—how the Lotus hands the reader over to the next sūtra.
 

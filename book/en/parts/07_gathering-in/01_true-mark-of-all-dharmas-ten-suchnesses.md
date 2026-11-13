@@ -70,7 +70,7 @@ Concerning the interpretive history of "the true mark of all dharmas," there is 
 
 When the Indian Yogācāra master Vasubandhu composed his *Saddharmapuṇḍarīkopadeśa* to comment on the Lotus, **he used no trisvabhāva terminology at all**, unfolding the meaning of the one vehicle instead around the core of "dharma-body equality." This is a **devotional register**—not analyzing structure, but reverently praising equality.
 
-When Jizang of the Chinese Sanlun school cited Vasubandhu in his *Commentary on the Meaning of the Lotus*, he read Vasubandhu's framework into the ontological language of "the substance of the tathāgatagarbha dharma-body." This is a step from the devotional register into an **ontological register**—"equality" read as "there is a substance that is equal."
+When Jizang of the Chinese Sanlun school cited Vasubandhu in his *Commentary on the Meaning of the Lotus*, he read Vasubandhu's framework into the ontological language of "the substance of the tathāgatagarbha dharma-body." (The phrase itself stands in Vasubandhu's *Upadeśa*, fascicle 2, where it glosses "true mark"; reading it as a shift of register is the author's interpretation.) This is a step from the devotional register into an **ontological register**—"equality" read as "there is a substance that is equal."
 
 By the Tang dynasty, the Faxiang master Kuiji completed the third layer in his *Profound Commentary on the Lotus*—analyzing the one vehicle into a trisvabhāva structure: "The dependent nature is bodhi, the perfected nature is nirvāṇa; together they form the one vehicle." This is an **analytical register**—using the precise terminology of Yogācāra to draw out the structure of the one vehicle.
 

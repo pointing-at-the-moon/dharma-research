@@ -16,11 +16,11 @@ The structure of the Lotus Sūtra is fascinating. It does not simply end after t
 
 This stretch is called the **transmission division**. The work of the transmission division is not to expound new doctrine; it is to perform a series of structural acts that **let the Lotus circulate, continue, and reach into the future**.
 
-At the heart of the transmission division stand four chapters—*Stūpa*, *Tathāgata's Supernatural Powers*, *Entrustment*, and *Encouragements of Samantabhadra*. Add the *Prologue* chapter at the very front, forming a closing clasp of head and tail. These five anchors make up the five acts by which the Lotus draws itself to a close.
+At the heart of the transmission division stand four chapters—*Stūpa*, *Tathāgata's Supernatural Powers*, *Entrustment*, and *Encouragements of Samantabhadra* (the *Stūpa* chapter precedes the *Lifespan* chapter and, in Zhiyi's division, belongs to the transmission section of the trace-gate; the choice of these four is the author's interpretation). Add the *Prologue* chapter at the very front, forming a closing clasp of head and tail. These five anchors make up the five acts by which the Lotus draws itself to a close.
 
 **The first act—the *Stūpa* chapter. A past Buddha and the present Buddha, both in the assembly at once.**
 
-When Chapter 6 (the Conjured City) handled the stūpa, it took the longitudinal, temporal face: the remoteness of the Buddha Great-Penetrating-Wisdom-Excellence. This chapter looks at the lateral, structural face of the stūpa.
+The stūpa has a longitudinal, temporal face: Prabhūtaratna is a Buddha "who passed into extinction immeasurable thousands of myriads of millions of kalpas ago". This chapter looks at the lateral, structural face of the stūpa.
 
 Prabhūtaratna (Many-Treasures) Tathāgata had entered parinirvāṇa immeasurable aeons ago, yet his whole body-relic remains intact within the stūpa, undispersed. As Śākyamuni preaches the Lotus in the present, the jewelled stūpa of Many-Treasures rises up from the earth, opens out in mid-air, and **Many-Treasures Buddha, from within the stūpa, invites Śākyamuni to enter, dividing half his seat to sit beside him**.
 
@@ -28,7 +28,7 @@ This act is itself a structural declaration—within the temporality of the Lotu
 
 **The second act—the *Tathāgata's Supernatural Powers* chapter. The Lotus's self-positioning.**
 
-As the preaching of the Lotus draws toward its close, Śākyamuni manifests the broad-long-tongue mark and emits light from between his brows. Then he himself speaks a line of the greatest weight:
+As the preaching of the Lotus draws toward its close, Śākyamuni manifests the broad-long-tongue mark and emits light of countless colours from all his pores. Then he himself speaks a line of the greatest weight:
 
 > To state it concisely, **all the dharmas possessed by the Tathāgata, all his sovereign supernatural powers, all his secret essential treasury, all his most profound matters—all are revealed and openly declared in this sūtra**.
 
@@ -50,17 +50,17 @@ The supreme, perfect awakening I have cultivated across countless aeons—this D
 
 Gathering is not abstract doctrine; it is contact at the level of the body. It is not "I hand over the *Lotus Sūtra* as a text," but "**I hand over the continuum of this Dharma, person by person, into your hands**."
 
-Notice the rhetoric of the text—the object of "stroking the heads and entrusting" is "**innumerable bodhisattva-mahāsattvas**," but the act is **one by one**. This structure of "innumerable × one-by-one" is itself the defining mark of stellar radiation: light shines upon innumerable beings at once, yet what each being receives is "**the single ray of light sent for that one being alone**." Here the Lotus's gathering structure reaches its highest density.
+Notice the rhetoric of the text—the object of "stroking the heads and entrusting" is "**innumerable bodhisattva-mahāsattvas**," but the act is **one by one** (this is the author's interpretation). This structure of "innumerable × one-by-one" is itself the defining mark of stellar radiation: light shines upon innumerable beings at once, yet what each being receives is "**the single ray of light sent for that one being alone**." Here the Lotus's gathering structure reaches its highest density.
 
 **The fourth act—the *Encouragements of Samantabhadra* chapter. Samantabhadra takes the stage.**
 
-The Lotus's final chapter is *Encouragements of Samantabhadra*. Samantabhadra Bodhisattva comes from the eastern Buddha-land of Ratnatejābhyudgatarāja Tathāgata, riding a six-tusked white elephant, enters the Sahā world, and arrives before Śākyamuni. He asks Śākyamuni:
+The Lotus's final chapter is *Encouragements of Samantabhadra*. Samantabhadra Bodhisattva comes from the eastern Buddha-land of Ratnatejābhyudgatarāja Tathāgata, enters the Sahā world, and arrives before Śākyamuni (the arrival passage does not say what he rides; the "six-tusked white elephant king" belongs to his later vow to protect those who hold the sūtra). He asks Śākyamuni:
 
-> World-Honoured One! After the Tathāgata's parinirvāṇa, how can good men and good women obtain this *Lotus Sūtra*?
+> World-Honoured One! … After the Tathāgata's parinirvāṇa, how can good men and good women obtain this *Lotus Sūtra*?
 
 After the Tathāgata's passing, how are good men and good women to obtain this *Lotus Sūtra*?
 
-Śākyamuni answers with four dharmas, and Samantabhadra takes up the role of guardian of the Dharma—"I shall guard them, removing their afflictions and granting them ease"—and at the same time grants prediction to those who hold the Lotus: "**Such a person shall not long thereafter proceed to the place of awakening, destroy the host of Māras, and attain supreme, perfect awakening**."
+Śākyamuni answers with four dharmas, and Samantabhadra takes up the role of guardian of the Dharma—"I shall guard them, removing their afflictions and granting them ease"—and the Buddha in turn tells Samantabhadra that whoever sees one who receives, holds, and recites this sūtra should think: "**This person shall not long thereafter proceed to the place of awakening, destroy the host of Māras, and attain supreme, perfect awakening**."
 
 This is the fact that the Lotus ends with Samantabhadra taking the stage. We will return to what this fact means—but first the four preceding acts must be drawn together with the clasp of the *Prologue*.
 
@@ -68,7 +68,7 @@ This is the fact that the Lotus ends with Samantabhadra taking the stage. We wil
 
 When the Lotus's *Prologue* opens, Mañjuśrī, answering Maitreya's question, cites the precedent of the Buddha **Candrasūryapradīpa** (Sun-Moon-Lamp): immeasurable aeons ago, this Tathāgata too had preached the Lotus Sūtra, and had too manifested these very six auspicious signs we see today. With this Mañjuśrī encourages faith—as Śākyamuni today manifests these six signs, he too will surely preach the Lotus.
 
-From the *Prologue*'s "a past Buddha has already preached the Lotus," to the *Entrustment* chapter's "I now entrust the Lotus to you," to the *Encouragements of Samantabhadra* chapter's "in the future age of the Dharma's decline, those who hold the Lotus have Samantabhadra to guard them"—see this line clearly, and **the Lotus itself is a single beam of light running through the three times**. The Lotus preached by Sun-Moon-Lamp, the Lotus preached by Śākyamuni, the Lotus entrusted forward into the future—**these are the same beam of light, the same single emission across different dimensions of time**.
+From the *Prologue*, where a past Buddha has already "preached the Mahāyāna sūtra named *The Lotus of the Wondrous Dharma*," to the *Entrustment* chapter's "I now entrust the Lotus to you," to the *Encouragements of Samantabhadra* chapter's "in the evil, turbid age of the last five hundred years, should there be those who receive and hold this sūtra, I shall guard them"—see this line clearly, and **the Lotus itself is a single beam of light running through the three times**. The Lotus preached by Sun-Moon-Lamp, the Lotus preached by Śākyamuni, the Lotus entrusted forward into the future—**these are the same beam of light, the same single emission across different dimensions of time**.
 
 A star's light is not a light emitted at one moment and then gone out; it is a steady radiation continuing from the immeasurable past into the immeasurable future. The Lotus locks itself into a closed stellar system.
 
@@ -84,26 +84,26 @@ The opening of the *Satipaṭṭhāna-sutta* in the *Madhyama-āgama* holds this
 
 **The second seed—Brahmā's entreaty.**
 
-This one runs deeper. Both the *Mahāparinibbāna-sutta* of the *Dīrgha-āgama* and the *Adhyeṣaṇā-vagga* of the *Ekottarika-āgama* record this episode:
+This one runs deeper. Both the *Mahāpadāna-sutta* of the *Dīrgha-āgama* and the *Adhyeṣaṇā-vagga* of the *Ekottarika-āgama* record this episode (the *Mahāpadāna* tells it of the past Buddha Vipaśyin, the *Adhyeṣaṇā-vagga* of Śākyamuni):
 
-Śākyamuni has just attained awakening beneath the bodhi tree. He contemplates that the Dharma he has realized is too profound to be readily grasped, that beings are "attached to the five desires" and hard to bring to faith. And so he forms a thought—**at first he does not wish to preach**. He intends simply to enter, directly, the silent nirvāṇa.
+Śākyamuni has just attained awakening beneath the bodhi tree. He contemplates that the Dharma he has realized is too profound to be readily grasped, that beings are attached to the five desires and hard to bring to faith. And so he forms a thought—**at first he does not wish to preach**. He intends simply to remain silent and not preach.
 
-At this point the great Brahmā Sahāmpati descends from the heavens and, before the Buddha, three times entreats him: "World-Honoured One! We beg you, preach the Dharma for the sake of sentient beings."
+At this point the great Brahmā Sahāmpati descends from the heavens and, before the Buddha, entreats him (the *Mahāpadāna* records the Brahmā king entreating as many as three times): "World-Honoured One! We beg you, preach the Dharma for the sake of sentient beings."
 
-Only then does Śākyamuni **consent**, and go to the Deer Park to preach the Four Noble Truths to the five bhikṣus.
+Only then does Śākyamuni **consent** to preach.
 
 The structure of this passage repays a careful look.
 
 The Āgama records it of itself—**the first act of Śākyamuni after his awakening is not preaching, but silence**. At first he did not wish to speak.
 
-The Avataṃsaka Sūtra, in its *Lokadhātu-vyūha* chapter, declares—the first act of Śākyamuni after his awakening was, **within the Ocean Seal Samādhi, to preach the Avataṃsaka to the great bodhisattvas and the devas, nāgas, and the eightfold assembly**. Human beings simply could not hear it, and so the Buddha "stepped back" to the Deer Park to preach the Āgamas. This Avataṃsaka claim has long been read in scholarly circles as "a myth the Huayan school fabricated later to elevate the Avataṃsaka."
+The Huayan tradition declares (the name Ocean Seal Samādhi appears in fascicle 14 of the Eighty *Avataṃsaka*, the *Worthy Leader* chapter—"all this can be manifested by the majestic power of the Ocean Seal Samādhi"—not in the *Lokadhātu-vyūha* chapter; Fazang's *Treatise on the Five Teachings of Huayan* says "the arising of this one-vehicle teaching must rely on its emerging from within the Buddha's Ocean Seal Samādhi")—the first act of Śākyamuni after his awakening was, **within the Ocean Seal Samādhi, to preach the Avataṃsaka to the great bodhisattvas and the devas, nāgas, and the eightfold assembly**. Human beings simply could not hear it, and so the Buddha "stepped back" to the Deer Park to preach the Āgamas (the Eighty *Avataṃsaka*'s *Lokadhātu-vyūha* verses also say, "The Tathāgata's voice is unlimited and unobstructed; none fit to be taught fail to hear it, yet the Buddha remains silent and ever unmoving"; summarizing the Huayan position as humans being unable to hear is the author's interpretation). This Avataṃsaka claim has long been read in scholarly circles as "a myth the Huayan school fabricated later to elevate the Avataṃsaka."
 
 But **the Brahmā-entreaty passage is the Āgama's own record**—the Āgama itself admits: the first act of Śākyamuni after awakening was silence, was the initial wish not to preach.
 
 Read the two passages side by side:
 
-**The Āgama side says "at first he did not wish to preach."**
-**The Avataṃsaka side says "he had already preached, in the Ocean Seal Samādhi, and humans could not hear it."**
+**The Āgama side says that at first he did not wish to preach.**
+**The Avataṃsaka side says that he had already preached, in the Ocean Seal Samādhi, and humans could not hear it.**
 
 These two statements **point to the same fact**—what happened immediately after the awakening was not Āgama-level preaching, but something the human conceptual mind cannot receive. The Āgama records it as "silence"; the Avataṃsaka records it as "the soundless broadcast of the Ocean Seal Samādhi." **Two recordings of the same event, on different channels.**
 
@@ -134,7 +134,7 @@ This set of contrasts calls for care—⚠️ it is easily misread as "two indep
 
 In physics, a star and a black hole are **not two independent objects**; they are **two states of the same gravitational structure under different mass conditions**. A star of sufficiently great mass, at the end of its life, collapses into a black hole; they are "**two chapters of the same gravitational story**."
 
-The Lotus and the Avataṃsaka are like this too—**two teaching-manifestations of the same dharmakāya story**. Toward sentient beings it manifests as the Lotus (star); toward the dharma-realm it manifests as the Avataṃsaka (black hole). The previous chapter (7.11) handled this—the Śākyamuni who can preach the Lotus and the Vairocana silent and unmoving in the Ocean Seal Samādhi **are the same Buddha**. The Huayan school takes Vairocana as the dharmakāya-Buddha and Śākyamuni as the response-and-transformation body, but the two are not "two Buddhas"—they are two presentations of the same dharmakāya at two levels of manifestation.
+The Lotus and the Avataṃsaka are like this too—**two teaching-manifestations of the same dharmakāya story**. Toward sentient beings it manifests as the Lotus (star); toward the dharma-realm it manifests as the Avataṃsaka (black hole). The previous chapter (7.11) handled how the dharmakāya appears in relation to time; the Śākyamuni who can preach the Lotus and the Vairocana silent and unmoving in the Ocean Seal Samādhi **are the same Buddha**. The Huayan school takes Vairocana as the dharmakāya-Buddha and Śākyamuni as the response-and-transformation body, but the two are not "two Buddhas"—they are two presentations of the same dharmakāya at two levels of manifestation.
 
 ⚠️ The physical analogy must stop at structural suggestion. Star and black hole are physics' description of the relation between mass and gravity; the Lotus and the Avataṃsaka are Buddhism's unfolding of the dharmakāya's teaching function. All the two share is the abstract formal feature of "**two manifestation forms of the same structure**." The physical analogy cannot be pressed any further down than this.
 
@@ -142,7 +142,7 @@ The Lotus and the Avataṃsaka are like this too—**two teaching-manifestations
 
 The strongest internal evidence for Proposition Two lies not in the exposition of Pointing at the Moon, not in the patriarchs' classifications, but in a single fact of the sūtras themselves—**Samantabhadra Bodhisattva's double appearance**.
 
-**The Lotus's *Encouragements of Samantabhadra* chapter**—Samantabhadra comes from the east on a six-tusked white elephant, asks the Tathāgata "how can one obtain this *Lotus Sūtra*?", and takes up the work of guarding the Dharma, granting prediction, and guiding "shall not long thereafter proceed to the place of awakening." Samantabhadra's act here is **escort**—escorting the holder of the Lotus from the Lotus's venue on to the next station.
+**The Lotus's *Encouragements of Samantabhadra* chapter**—Samantabhadra comes from the east, asks the Tathāgata "how can one obtain this *Lotus Sūtra*?", and takes up the work of guarding the Dharma; the Buddha in turn tells Samantabhadra that the sūtra-holder "shall not long thereafter proceed to the place of awakening." Samantabhadra's act here is **escort**—escorting the holder of the Lotus from the Lotus's venue on to the next station (reading Samantabhadra's vow of protection together with the Buddha's words as escort is the author's interpretation).
 
 **The Forty *Avataṃsaka*'s *Bhadracarī-praṇidhāna* chapter**—having finished extolling the Tathāgata's merits, Samantabhadra proclaims to Sudhana and the assembly of bodhisattvas the **Ten Great Practice-Vows**: to revere all Buddhas, to praise the Tathāgatas, to make extensive offerings, to repent of karmic obstructions, to rejoice in merit, to entreat the turning of the Dharma-wheel, to entreat the Buddhas to abide in the world, to constantly follow the Buddhas in study, to perpetually accord with sentient beings, to universally transfer all merits. Samantabhadra's act here is **disclosure**—proclaiming, to those who have already arrived at the next station, the ten paths to accomplishing the gate of merit.
 
@@ -171,7 +171,7 @@ The remedy need not be sought from outside. Zhiyi of Tiantai, in the *Profound M
 
 > In that Buddha's lifetime of teaching, the Avataṃsaka was preached first and the Lotus preached last … in every case the Lotus is taken as the **final teaching, the final flavour**.
 
-"**Last preached, last flavour**"—the structure of this line is **temporal**, not evaluative. The five flavours are the five stages of milk's transformation; ghee is the final stage, but "final" does not equal "highest." **The five flavours are five necessary stages, and ghee could not exist without the foundation of the four flavours before it.**
+"**Final teaching, final flavour**"—the structure of this line is **temporal**, not evaluative (note: in the commentary, "that Buddha" is Candrasūryapradīpa, and the same is said of Kāśyapa Buddha; for the present Buddha the text says he "takes the *Lotus* as ghee" and "again takes the *Nirvāṇa* as the final teaching, the final flavour"; fascicle 1 of the same work also says "therefore the *Lotus* is the greatest" and that it "stands at the summit of the four-flavour teachings." Reading "final teaching, final flavour" as a matter of ripening rather than of rank is the author's interpretation). The five flavours are the five stages of milk's transformation; ghee is the final stage, but "final" does not equal "highest." **The five flavours are five necessary stages, and ghee could not exist without the foundation of the four flavours before it.**
 
 Bring this Tiantai usage to the "gathering" of Part VII—**the Lotus's gathering is the gathering of the ripening stage**. It can gather because the prior stages have all completed their respective work. The Āgama's seeds, the Prajñā's dismantling, the fine-grained analysis of Yogācāra, the content the Avataṃsaka broadcasts simultaneously on another channel—not one of these can be spared. Gathering is not supremacy; it is **ripening**.
 
@@ -209,9 +209,9 @@ The Lotus's venue is the **Sahā world**—the world sentient beings can see. Fr
 
 The Avataṃsaka's venue is the **dharma-realm itself**—a dimension the human conceptual mind cannot directly receive. The opening passage of the *Lokadhātu-vyūha* chapter:
 
-> The Buddha was in the *araṇya* Bodhimaṇḍa of Magadha, having just attained complete awakening … entering the samādhi of the Buddhas in the instant of the present moment.
+> The Buddha was in the *araṇya* Bodhimaṇḍa of Magadha, having just attained complete awakening.
 
-The Buddha sits silent and unmoving; the dharma-realm manifests itself. This venue is not a venue for speaking to human beings; it is the venue in which **the dharma-realm unfolds to itself**. The next part (8.X) will unfold the doctrinal structure of this venue in full. This chapter points out here only one thing—**that venue is already in place**.
+The Buddha sits silent and unmoving; the dharma-realm manifests itself (the phrase "entering the samādhi of the Buddhas in the instant of the present moment" belongs to fascicle 40 of the same sūtra, the *Ten Concentrations* chapter). This venue is not a venue for speaking to human beings; it is the venue in which **the dharma-realm unfolds to itself**. The next part (8.X) will unfold the doctrinal structure of this venue in full. This chapter points out here only one thing—**that venue is already in place**.
 
 And here is a subtle but important observation. **At the moment the Lotus ends, the Avataṃsaka's Ocean Seal Samādhi does not "begin"—it has never been interrupted; the reader has only now arrived at the position where it can be heard.**
 
@@ -223,7 +223,7 @@ The venue is in place.
 
 **The second handoff** is Samantabhadra Bodhisattva.
 
-In the *Encouragements of Samantabhadra* chapter, Samantabhadra comes from the eastern Buddha-land of Ratnatejābhyudgatarāja Tathāgata on a six-tusked white elephant, taking up the duty of guarding the holder of the Lotus and guiding such a person to "shall not long thereafter proceed to the place of awakening." The Lotus ends with this act—**not a contingent choice**, but an intra-textual structural one. Samantabhadra is the bodhisattva about to take up the next stage of teaching.
+In the *Encouragements of Samantabhadra* chapter, Samantabhadra comes from the eastern Buddha-land of Ratnatejābhyudgatarāja Tathāgata, taking up the duty of guarding the holder of the Lotus; the Buddha in turn declares that such a holder "shall not long thereafter proceed to the place of awakening." The Lotus ends with this act—**not a contingent choice**, but an intra-textual structural one. Samantabhadra is the bodhisattva about to take up the next stage of teaching.
 
 In the *Bhadracarī-praṇidhāna* chapter of the Forty *Avataṃsaka*, having finished extolling the Tathāgata's merits, Samantabhadra proclaims to Sudhana and the assembly the Ten Great Practice-Vows. These ten vows—to revere all Buddhas, praise the Tathāgatas, make extensive offerings, repent of karmic obstructions, rejoice in merit, entreat the turning of the Dharma-wheel, entreat the Buddhas to abide in the world, constantly follow the Buddhas in study, perpetually accord with sentient beings, universally transfer all merits—are the very structural skeleton that Part VIII will walk next.
 

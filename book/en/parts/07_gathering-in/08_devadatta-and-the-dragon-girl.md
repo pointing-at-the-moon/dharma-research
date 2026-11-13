@@ -8,7 +8,7 @@ Does it mean everyone? Those whom our society judges worthy? Or does it include 
 
 The Devadatta Chapter answers this question head-on, with two stories. It does not argue in the abstract, and it does not wrap the point in parable. At the level of narrative, it shows it directly—the Buddha, before the assembly, grants the prophecy of buddhahood to two beings whom no tradition could ever have declared to bear the buddha-seed.
 
-One is **Devadatta**—Śākyamuni's cousin, the one who split the saṅgha, drew the Buddha's blood, sent the elephant to kill him, the very Devadatta whom the Buddha pronounced with his own mouth to be "fallen into hell while still living, incurable for an entire kalpa."
+One is **Devadatta**—Śākyamuni's cousin, the one who split the saṅgha, drew the Buddha's blood, sent the elephant to kill him, the very Devadatta of whom the Buddha pronounced with his own mouth that he would "enter the Avīci hell" and be "incurable for an entire kalpa."
 
 The other is **the dragon girl**—eight years old, of the animal realm, non-human, not male.
 
@@ -42,7 +42,7 @@ It is because of this spiritual friend, Devadatta, that I have come to possess a
 
 > I declare to the fourfold assembly: Devadatta, after immeasurable kalpas have passed, shall attain buddhahood, named Devarāja Tathāgata, Worthy of Offerings, Perfectly Awakened, Accomplished in Wisdom and Conduct, Well-Gone, Knower of the World, Unsurpassed, Tamer of Beings, Teacher of Gods and Humans, Buddha, World-Honored One.
 
-He tells everyone: immeasurable kalpas in the future, Devadatta will attain buddhahood, named "Devarāja Tathāgata," fully endowed with the ten epithets of a tathāgata. His buddha-land is called "Heavenly Path," the aeon is named "Heavenly King," and his Dharma endures for twenty intermediate kalpas—the complete nine-field format, grammatically identical to the prophecies received by Śāriputra, Kāśyapa, and Maudgalyāyana.
+He tells everyone: immeasurable kalpas in the future, Devadatta will attain buddhahood, named "Devarāja Tathāgata," fully endowed with the ten epithets of a tathāgata. His buddha-land is called "Heavenly Path," and his Dharma endures for twenty intermediate kalpas—the complete nine-field format, grammatically identical to the prophecies received by Śāriputra, Kāśyapa, and Maudgalyāyana.
 
 The force of this narrative needs to be read slowly.
 
@@ -126,13 +126,13 @@ Let me note one thing in passing here.
 
 Readers familiar with Lotus scholarship may have heard a claim like this—that the Devadatta Chapter is a later interpolation, an apocryphal addition, and not reliable. At the documentary level this claim is half right and half misleading.
 
-The right half: the "Devadatta Chapter 12" found in the extant Kumārajīva recension is indeed not part of his original 406 CE translation; it was supplemented in around 480 CE by the monks Faxian and Fayi.
+The right half: the "Devadatta Chapter 12" found in the extant Kumārajīva recension is indeed not part of his original 406 CE translation; it was supplemented in the reign of Emperor Wu of the Southern Qi (482–493) by the monks Faxian and Fayi.
 
 The misleading half: this "supplementation" has been read as "adding new content where none previously existed"—when in fact the opposite is true.
 
-Dharmarakṣa's *Zhèng-fǎ-huá-jīng* (286 CE, 120 years earlier than the Kumārajīva recension) **already contains both the Devadatta prophecy and the dragon girl's buddhahood**, joined within the Stūpa Chapter, not set apart as an independent chapter. The *Tiān-pǐn miào-fǎ-lián-huá-jīng* of Jñānagupta and Dharmagupta (605 CE) explicitly records in its preface that the Kumārajīva recension had omitted this material, and so they supplemented it back in—but they still followed Dharmarakṣa's layout, **joining the Devadatta and dragon-girl passages at the end of the Stūpa Chapter, without setting them apart as an independent chapter**.
+Dharmarakṣa's *Zhèng-fǎ-huá-jīng* (286 CE, 120 years earlier than the Kumārajīva recension) **already contains both the Devadatta prophecy and the dragon girl's buddhahood**, joined within the Stūpa Chapter, not set apart as an independent chapter. The *Tiān-pǐn miào-fǎ-lián-huá-jīng* of Jñānagupta and Dharmagupta (601 CE) explicitly records in its preface that the Kumārajīva recension had omitted this material, and so they supplemented it back in—but they still followed Dharmarakṣa's layout, **joining the Devadatta and dragon-girl passages at the end of the Stūpa Chapter, without setting them apart as an independent chapter**.
 
-Three independent documentary witnesses—Dharmarakṣa's recension, the supplemented recension, and the record of Tiantai's Guanding—form an iron triangle: **the original was a single unified whole; the disaggregation in the Kumārajīva recension is the later editorial event**.
+Three independent documentary witnesses—Dharmarakṣa's recension, the supplemented recension, and the record of Tiantai's Guanding—form an iron triangle: **the original was a single unified whole; the disaggregation in the Kumārajīva recension is the later editorial event**. (What the two recensions directly attest is that the Devadatta and dragon-girl passages stand together within the Stūpa Chapter; to call this the original form is the author's interpretation.)
 
 This text-critical recovery is not for the sake of correcting a historical detail; it has a direct bearing on how the chapter is read: **the Devadatta prophecy and the dragon girl's buddhahood have always been two symmetrical passages within a single chapter**. They are not two separate miracles; they are the **symmetrical twin wings of one and the same prophecy-event**—a single structure displaying its two ends.
 
@@ -142,13 +142,13 @@ Once this is read clearly, the question shifts from "why are there two extreme c
 
 To answer this "why both ends at once," we first need to look at one thing—relative to the prophecy tradition of the Āgama period, **how much of the Lotus's prophecy grammar is actually innovation**?
 
-The answer may be surprising. Within 95% of its range, the Lotus's prophecy grammar is a **direct continuation** of the Āgama prophecy grammar.
+The answer may be surprising. Within 95% of its range, the Lotus's prophecy grammar is a **direct continuation** of the Āgama prophecy grammar. (The figure of 95% is the author's estimate over four items—the nine-field structure, the ten-epithet formula, the six-realm scope of recipients, and the female-to-male transformation; this is the author's interpretation.)
 
 **The format of the prophecy**—the nine-field structure (buddha-name, clan, father's name, mother's name, buddha-land, life-span, assembly, disciples, Dharma-duration), the complete ten-epithet formula (Tathāgata, Worthy of Offerings, Perfectly Awakened…)—all of this is inherited from the *Dīrghāgama · Mahāpadāna-sūtra* and the *Madhyamāgama · Origin-Account Sūtra*. The Lotus's prophecies of Śāriputra and Kāśyapa correspond word for word, in format, to the Āgama's Maitreya prophecy.
 
-**The range of recipients**—the *Ekottarikāgama · Aśva-rakta Devaputra Chapter* records that when the buddha Ratnagarbha granted prophecies by "eight-colored radiance," the beings into whom the light entered from different parts of his body included those of the animal realm and the hells—**the recipients of prophecy already spanned the six realms**. The dragon girl, as a being of the animal realm receiving a prophecy, is not a rootless innovation within Āgama grammar.
+**The range of recipients**—the *Ekottarikāgama · Aśva-rakta Devaputra Chapter* records that when the buddha Dīpaṃkara granted prophecies with "five-colored radiance," the light re-entered his body at different points, and the prophecies it marked included rebirth in the animal realm and in the hells—**the recipients of prophecy already spanned the six realms**. The dragon girl, as a being of the animal realm receiving a prophecy, is not a rootless innovation within Āgama grammar.
 
-**The prophecy to a woman's body**—the *Ekottarikāgama* contains a story in which the buddha Ratnagarbha first refuses, then permits, a woman, deferring the prophecy to a future life after she has transformed into a male body. The dragon girl's "transformation into a male" and "going to the Spotless World in the south to become a buddha" follow exactly the Āgama's twofold procedure of "transform into a male + attain buddhahood in another land." The Lotus's only compression is to **contract the deferred prophecy into a prophecy in the present body**: the timing contracts from "a future life" to "the space of an instant," the space from "a future world" to "the south, immediately."
+**The prophecy to a woman's body**—the *Ekottarikāgama* contains a story in which the buddha Ratnagarbha first refuses, then permits, a woman, deferring the prophecy to a future life after she has transformed into a male body. The dragon girl's "transformation into a male" and "going to the Spotless World in the south, sitting upon a jeweled lotus, and attaining perfect awakening" follow exactly the Āgama's twofold procedure of "transform into a male + attain buddhahood in another land." The Lotus's only compression is to **contract the deferred prophecy into a prophecy in the present body**: the timing contracts from "a future life" to "the space of an instant," the space from "a future world" to "the south, immediately."
 
 Together these cover roughly 95% of the Lotus's prophecy grammar—a continuation of the Āgama tradition, only dramatized and magnified in its scales of time and space.
 
@@ -156,9 +156,9 @@ So what about the remaining 5%?
 
 The remaining 5% is a single break-point: **the "incurable"-type negative prognosis is reversed**.
 
-The Āgama's prophecy grammar, broad as its scope is, is explicitly sealed in one place—**Devadatta himself**. In the *Ekottarikāgama · Gain Chapter*, Śākyamuni's judgment on Devadatta is "**incurable, one kalpa in hell**," "not a hair's breadth of good is seen." This is not a vague reproach; it is a structured **negative prognosis**—the being is explicitly and ultimately excluded from any possibility of future buddhahood.
+The Āgama's prophecy grammar, broad as its scope is, is explicitly sealed in one place—**Devadatta himself**. In the *Ekottarikāgama · Not-Reaching Chapter*, Śākyamuni's judgment on Devadatta is "**incurable for one kalpa**," "not a hair's breadth of good is seen." This is not a vague reproach; it is a structured **negative prognosis**—the being is explicitly and ultimately excluded from any possibility of future buddhahood.
 
-The Āgama Śākyamuni's field of vision regarding Devadatta extends **only to the timeline of Śākyamuni in this life**. Within that field of vision, Devadatta has no roots of good that could serve as the causal basis for a prophecy.
+The Āgama Śākyamuni's field of vision regarding Devadatta's buddhahood extends **only to the timeline of Śākyamuni in this life**. Within that field of vision, Devadatta has no roots of good that could serve as the causal basis for a prophecy of buddhahood.
 
 The Lotus's Devadatta Chapter breaks precisely this single break-point.
 
@@ -166,7 +166,7 @@ But the way it breaks it is crucial—**the Lotus does not deny the Āgama's neg
 
 The reversal of the timeline's direction is the **one genuine innovation** of the Lotus's prophecy grammar relative to the Āgama's. The Āgama prophecy is a "future forecast" (looking forward); the prophecy of the Lotus's Devadatta Chapter is a "**reversal in the remote original time**"—looking backward first, then forward.
 
-This grammatical innovation cannot be derived from within the Āgama. It depends on the Lotus's fundamental-gate vision of time—and the Lotus's fundamental-gate vision of time only unfolds fully in the *Lifespan of the Tathāgata* chapter (Chapter 16, the subject of the chapter after next).
+This grammatical innovation cannot be derived from within the Āgama. It depends on the Lotus's fundamental-gate vision of time—and the Lotus's fundamental-gate vision of time only unfolds fully in the *Lifespan of the Tathāgata* chapter (Chapter 16, the subject of chapter 7.11 of this Part).
 
 ---
 
@@ -202,7 +202,7 @@ The Devadatta wing needs support from another level—**the equality of the dhar
 
 The equality of the dharmakāya is the core thesis of the tathāgatagarbha tradition: all sentient beings originally possess the tathāgatagarbha nature, and this original possession is unaffected by any external condition. The five heinous karmas are a fact at the manifestation level, but at the level of the dharmakāya's equality, Devadatta, Śākyamuni, and any buddha **differ in no way** in this matter of original possession. What the prophecy states is not "Devadatta's karma has been erased," but "**Devadatta's dharmakāya has always been equal to Śākyamuni's**."
 
-This level only the tathāgatagarbha tradition can provide. The *Mahāparinirvāṇa-sūtra*, in its twentieth fascicle, delivers an explicit parallel reversal upon Devadatta—"Devadatta is no *icchantika*, nor a śrāvaka, nor a pratyekabuddha … but is solely an object known and seen by the buddhas"—using not seed theory but the tathāgatagarbha doctrine of buddha-nature. The *Mahāparinirvāṇa* and the Lotus reach the same conclusion on the Devadatta question independently, by different routes: **Devadatta can be reversed, not because his karma is gone, but because the dharmakāya has never been made unequal by karma**.
+This level only the tathāgatagarbha tradition can provide. The *Mahāparinirvāṇa-sūtra*, in its sixteenth fascicle, delivers an explicit parallel reversal upon Devadatta—Devadatta "is no *icchantika*, nor a śrāvaka, nor a pratyekabuddha … but is solely an object known and seen by the buddhas"—using not seed theory but the tathāgatagarbha doctrine of buddha-nature. The *Mahāparinirvāṇa* and the Lotus reach the same conclusion on the Devadatta question independently, by different routes: **Devadatta can be reversed, not because his karma is gone, but because the dharmakāya has never been made unequal by karma**.
 
 So we can see the theoretical structure of the Devadatta Chapter:
 
@@ -211,7 +211,7 @@ So we can see the theoretical structure of the Devadatta Chapter:
 | Dragon-girl wing | The weakest (dragon, woman, eight years old) | Change of quantity (temporal-spatial compression) | Yogācāra track | Seed-statement |
 | Devadatta wing | The most evil (five heinous deeds, hell) | Change of quality (directional reversal) | Tathāgatagarbha track | dharma-body-equality |
 
-The two wings belong to two tracks. The Yogācāra track carries "seed-perfuming, the gradual actualization of manifest states, the pragmatic mechanism of prophecy-as-statement"; the tathāgatagarbha track carries "dharmakāya-equality, originally-already-buddhahood, the metaphysical ground of the reversal." **The Lotus is the first confluence of these two tracks in the history of Mahāyāna Buddhism**—within a single narrative event, two independent theoretical systems each carry one wing and together constitute the complete structure of prophecy theory.
+The two wings belong to two tracks. The Yogācāra track carries "seed-perfuming, the gradual actualization of manifest states, the pragmatic mechanism of prophecy-as-statement"; the tathāgatagarbha track carries "dharmakāya-equality, originally-already-buddhahood, the metaphysical ground of the reversal." **The Lotus is the first confluence of these two tracks in the history of Mahāyāna Buddhism**—within a single narrative event, two independent theoretical systems each carry one wing and together constitute the complete structure of prophecy theory. (The claim of a first confluence is made with respect to the sources examined in this chapter; this is the author's interpretation.)
 
 This is also why the two wings of this chapter were a single unit at the documentary level to begin with—not an editorial accident, but **an inner requirement of the theoretical structure**. Lacking either wing, the complete spectrum of prophecy does not hold; only with both wings displayed at once is the spectrum truly opened.
 
@@ -223,7 +223,7 @@ A modern reader encountering prophecy for the first time easily likens it to an 
 
 In his *Treatise on the Lotus Sūtra*, Vasubandhu made a decisive incision against this misreading. In his three-layer definition of prophecy, the third point states it most plainly:
 
-> A prophecy is granted because of dharmakāya-equality; **it does not mean the practice-merits are already complete**.
+> A prophecy is granted because the dharmakāya of the Buddha and the dharmakāya of the śrāvakas are equal without difference; **it does not mean the practice-merits are already complete**.
 
 A prophecy is granted because of dharmakāya-equality—it does not mean that the recipient already possesses the completed merits of practice.
 
@@ -259,7 +259,7 @@ The mind has already entered concentration; what has a woman's body to do with i
 
 The alternate-translation *Saṃyuktāgama* 215 is even more direct: "If there are no marks of male and female, how can discrimination arise?" From the Āgama period, the liberation experiences of female nuns already pointed clearly to one thing—**bodily sex has nothing to do with awakening**.
 
-So how should the dragon girl's "transformation into a male" be read? Tiantai's Zhiyi judged this passage to be "**the samādhi of universally manifesting bodily form, the power of expedient skill**"—not an ontological transformation of sex, but a formal adjustment a bodhisattva makes in displaying herself, in order to reduce the audience's doubts. Kuiji, from the Yogācāra standpoint, says the dragon girl is originally a bodhisattva one lifetime from buddhahood, and her manifesting as a dragon, as a female, as an eight-year-old are all manifestations; her final change into a male is also a manifestation—no bodily form is her "true body."
+So how should the dragon girl's "transformation into a male" be read? Tiantai's Zhiyi judged this passage to be **the samādhi of universally manifesting bodily form, the power of expedient skill**—not an ontological transformation of sex, but a formal adjustment a bodhisattva makes in displaying herself, in order to reduce the audience's doubts. Kuiji, from the Yogācāra standpoint, says the dragon girl is originally a bodhisattva one lifetime from buddhahood, and her manifesting as a dragon, as a female, as an eight-year-old are all manifestations; her final change into a male is also a manifestation—no bodily form is her "true body."
 
 This reading converges across three traditions—Āgama, Tiantai, and Yogācāra: **the transformation-into-male passage is not a gender-ontological claim, but a form of pedagogical display**. It is a linguistic concession to the listeners of that time (above all to a representative of the śrāvaka tradition like Śāriputra), not a universal sealing against a woman's buddhahood.
 
@@ -281,7 +281,7 @@ This wording is a deliberate choice. There are two reasons.
 
 Jizang of the Three-Treatise school warns against precisely this. On the dragon girl's instantaneous buddhahood he deploys Madhyamaka's standard **four-cornered negation**—slow, swift, both slow and swift, neither slow nor swift—using the four corners to dissolve entirely the status of "swift buddhahood" as a proposition with self-nature. Under the four corners, the dragon girl's instantaneous buddhahood and a ten-kalpa sitting at the seat of awakening are both merely expedient, with no higher or lower, no self-nature. By the same token, the "male-and-female four corners" dissolves entirely any ontological difference in changing into a male or female body.
 
-Jizang's treatment of Devadatta is equally brief: "**Devadatta, not evil, displays evil; hence evil is the expedient and good is the real.**" The entire event is absorbed completely by the single phrase "expedient without fixity, adaptation without direction."
+Jizang's treatment of Devadatta is equally brief: "**Devadatta, not evil, displays evil; hence evil is the expedient and good is the real.**" The entire event is absorbed completely by the two phrases "expedient without fixity" and "adaptation without direction."
 
 This Madhyamaka warning must be taken seriously. If we describe this chapter with "limit-case prophecy," we risk ontologizing the prophecy—prophecy becomes something that can be ranked, an entity with self-nature, an item that can be compared with other prophecies. This violates the Lotus's foundational position of "expedient without fixity."
 

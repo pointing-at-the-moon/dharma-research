@@ -187,7 +187,7 @@ Seen through Madhyamaka's logic of provisional establishment, "provisional desig
 
 Kuiji, from the angle of Yogācāra, gives the conjured city a more precise definition:
 
-> Hence the Buddha speaks of establishment; **because it has no real entity, it is said to be "conjured"**… this is the parable of *nirvāṇa* with remainder. The two-vehicle *nirvāṇa* is a **provisional cessation**, hence "dissolving the conjured" — **it is not that the conjured city is really dissolved by supernatural power**.
+> Hence the Buddha speaks of establishment; **because it has no real entity, it is said to be "conjured"**… this is the parable of *nirvāṇa* with remainder… The two-vehicle *nirvāṇa* is a **provisional cessation**, hence "dissolving the conjured" — **it is not that the conjured city is really dissolved by supernatural power**.
 
 This passage has several layers to unpack.
 
@@ -249,7 +249,7 @@ The answer is: it does. And not only does it count — **that stretch of rest is
 
 The previous chapter treated one restriction strategy Kuiji applied to the Lotus-Yogācāra tension — limiting the addressees of the Lotus's one-vehicle teaching to "indeterminate-lineage beings who fell back and rose again with great-bodhi mind."
 
-This restriction strategy holds with high consistency across the prodigal son, the medicinal herbs, and the conjured city. In the commentary on all three parables, Kuiji uses the same phrasing: "to draw in one class of indeterminate-lineage śrāvakas and pratyekabuddhas, causing them to enter parinirvāṇa by way of the Mahāyāna" — the Lotus does not universally embrace all śrāvakas and pratyekabuddhas, but is spoken for those who **fell back and rose again with great-bodhi mind**. This maintains the internal consistency between the separate establishment of the five lineages and the Lotus one-vehicle: the five lineages still stand separately (the determinate-lineage śrāvaka never becomes a Buddha), and the Lotus one-vehicle is only a hidden intent spoken for one class among them (the indeterminate-lineage fallen-and-risen).
+This restriction strategy holds with high consistency across the prodigal son, the medicinal herbs, and the conjured city. Kuiji's explicit wording, in fascicle 4 of his *Fahua xuanzan*, is: "to draw in one class of indeterminate-lineage śrāvakas and pratyekabuddhas, causing them to enter parinirvāṇa by way of the Mahāyāna" — the Lotus does not universally embrace all śrāvakas and pratyekabuddhas, but is spoken for those who **fell back and rose again with great-bodhi mind**. This maintains the internal consistency between the separate establishment of the five lineages and the Lotus one-vehicle: the five lineages still stand separately (the determinate-lineage śrāvaka never becomes a Buddha), and the Lotus one-vehicle is only a hidden intent spoken for one class among them (the indeterminate-lineage fallen-and-risen).
 
 But there is a passage in the conjured city chapter that pushes this restriction strategy to its limit. In the section joining the dharma to the parable, the Buddha says:
 
