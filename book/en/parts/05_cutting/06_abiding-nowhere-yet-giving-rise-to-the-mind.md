@@ -1,18 +1,18 @@
 ## 5.6 Abiding Nowhere, Yet Giving Rise to the Mind — Non-Abiding and Mind-Arising at Once
 
-### Ten Characters
+### Eight Characters
 
 Of the Diamond Sūtra's more than five thousand characters, one line is the most famous of all:
 
 > One should give rise to a mind that abides nowhere.
 
-Ten characters in the Chinese. Even people who have never read the Diamond Sūtra have, for the most part, heard this line. The most dramatic awakening story in the whole history of Chinese Buddhism turns on exactly these words—we already saw it in chapter two. The Sixth Patriarch Huineng was pounding rice in the threshing shed when, in the middle of the night, he was summoned to the Fifth Patriarch's room. The Fifth Patriarch did not explain the Diamond Sūtra to him. He simply read it aloud. And when he reached these ten characters—**Huineng awakened on the spot.**
+Eight characters in the Chinese. Even people who have never read the Diamond Sūtra have, for the most part, heard this line. The most dramatic awakening story in the whole history of Chinese Buddhism turns on exactly these words—we already saw it in chapter two. The Sixth Patriarch Huineng was pounding rice in the threshing shed when, in the middle of the night, he was summoned to the Fifth Patriarch's room. The Fifth Patriarch "expounded the Diamond Sūtra for him." And when he reached these eight characters—**Huineng awakened on the spot.**
 
-But why these ten characters?
+But why these eight characters?
 
-Every line in the Diamond Sūtra carries the "is not, therefore called" structure; every line could become a public case. "All marks are illusory" is a public case. "Even the Dharma should be let go, how much more so what is not the Dharma" is a public case. So why is it precisely these ten characters that have come down to us as the loudest, the ones the most people carry on their lips?
+Every line in the Diamond Sūtra carries the "is not, therefore called" structure; every line could become a public case. "All marks are illusory" is a public case. "Even the Dharma should be let go, how much more so what is not the Dharma" is a public case. So why is it precisely these eight characters that have come down to us as the loudest, the ones the most people carry on their lips?
 
-The answer is this: these ten characters are the single hardest operating instruction in the whole Diamond Sūtra.
+The answer is this: these eight characters are the single hardest operating instruction in the whole Diamond Sūtra.
 
 "Abide nowhere"—do not come to rest anywhere at all.
 "Yet give rise to the mind"—and at the very same time, still let the mind arise.
@@ -41,7 +41,7 @@ The Diamond Sūtra itself, in §14, seals this logic shut with one line:
 
 Once the mind "abides," that abiding is not genuine abiding. What does this mean? If someone supposes they have reached "non-abiding"—"there, I am now abiding nowhere"—the very thought "I suppose I am abiding nowhere" is itself a place of abiding. Genuine non-abiding is not a state you can arrive at. It is the manner in which the mind operates.
 
-Kuiji, in his commentary, gave this an exceptionally precise formulation:
+Zixuan, in his commentary, gave this an exceptionally precise formulation:
 
 > The earlier instruction to not abide in form and so on negates existence; the later instruction to give rise to the mind negates nothingness. Free of both existence and nothingness is precisely the Middle Way.
 

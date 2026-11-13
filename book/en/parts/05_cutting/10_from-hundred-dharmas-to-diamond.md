@@ -84,7 +84,7 @@ The dependent nature has not changed—the hundred dharmas have always been the 
 
 This is the precise mechanism of dimensional ascent. Not throwing away the toolkit (that is nihilism), and not enshrining the toolkit as a treasure (that is attachment)—but, while continuing to use the toolkit, changing your relationship to it.
 
-The Master Kuiji left behind a famous illustration—**the rope and the snake**:
+Zixuan left behind a famous illustration—**the rope and the snake**:
 
 > "What appears to mind is called the dependent; grasping it as real is called the imagined; when both dependent and imagined are extinguished, this is the consummated. As a rope depends on hemp and a snake arises dependent on the rope—once the rope-snake both vanish, the hemp stands revealed."
 
@@ -106,11 +106,11 @@ The traffic rules have not vanished, the engine principles have not changed. The
 
 The Diamond Sūtra is not telling you to forget the traffic rules. It lets the traffic rules ascend from a checklist to awareness. The hundred dharmas are the same—ascending from "conceptual tools for line-by-line analysis" to "the prajñā wisdom of intuitive contemplation."
 
-But there is an important boundary to mind: if a person who never learned the traffic rules takes to the road, they will have an accident. The construction of Part III is the precondition for the dimensional ascent of Part V—you cannot skip construction and ascend directly. This point needs saying plainly, because modern readers are prone to a romanticized misunderstanding: "Since it all has to be let go in the end, wouldn't it be more direct just not to learn it in the first place?"
+But there is an important boundary to mind: if a person who never learned the traffic rules takes to the road, they will have an accident. The construction of Part III is the precondition for the dimensional ascent of Part V—you cannot skip construction and ascend directly (this is the author's interpretation). This point needs saying plainly, because modern readers are prone to a romanticized misunderstanding: "Since it all has to be let go in the end, wouldn't it be more direct just not to learn it in the first place?"
 
 There is a hidden error in this thought. To let go, you must first take up. What has never been taken up cannot be spoken of as let go—that is just "absence," not "letting go." A person who never learned the hundred dharmas saying they are "not attached to the hundred dharmas," and a person who studied the hundred dharmas through and saw them as illusory saying they are "not attached to the hundred dharmas"—they sound the same, but they are separated by the whole of practice. The former is ignorance; the latter is wisdom.
 
-There is an old saying in the Chan tradition: "If you have not broken the first barrier, you cannot abide at the double barrier." To skip those steps and declare yourself at the summit—that is not arrival; that is not yet having found even the gate.
+The Chan tradition speaks of three barriers—the first barrier, the double barrier, the final barrier—and they come in order: until the first barrier is broken, there is no talk of the double barrier. To skip those steps and declare yourself at the summit—that is not arrival; that is not yet having found even the gate.
 
 ⚠️ So the order from the hundred dharmas to the Diamond is not from wrong to right, not from low to high; it is from construction to dimensional ascent. Construction is necessary. After the ascent, construction has not vanished—it has been newly resituated.
 
@@ -130,7 +130,7 @@ A question rises before us: in this whole process—learning the hundred dharmas
 
 Part III told the reader the structure of the mind. Part V taught the reader not to grasp the structure of the mind. Next, Part VI will ask directly: **the "mind" that this structure points to—where, exactly, is it?**
 
-In the first fascicle of the Śūraṅgama Sūtra, the Buddha asks Ānanda directly: "Where is your mind?" Ānanda gives seven answers, and the Buddha demolishes them one by one—the "seven locations searching for mind." Demolished to the very end, Ānanda weeps—he discovers that after years of practice he has not truly settled even where the mind is.
+In the first fascicle of the Śūraṅgama Sūtra, the Buddha asks Ānanda directly: "As for mind and eyes—where are they now?" Ānanda gives seven answers, and the Buddha demolishes them one by one—the "seven locations searching for mind." Demolished to the very end, Ānanda weeps—he discovers that after years of practice he has not truly settled even where the mind is.
 
 The next part walks exactly this road. From "the structure of the mind" into "the mind itself." From the toolkit into the subject who holds the toolkit. From the map into the hand that holds the map.
 

@@ -32,7 +32,7 @@ Why did the Buddha use six similes rather than one? Because each simile illumina
 
 The six similes fall into two groups. The first four (dream, illusion, bubble, shadow) stress "not substantially real" — conditioned phenomena are not the kind of substantial reality you take them to be. The last two (dew, lightning) stress "impermanence" — even if they exist, they are utterly fleeting. Put together, the two groups form a complete contemplation: conditioned phenomena are neither substantially real nor permanently abiding — yet they do genuinely arise within conditions and genuinely produce effects.
 
-⚠️ A detail easily missed: the other Chinese translations of the Diamond Sūtra (Bodhiruci, Yijing) give nine similes — star, cataract, lamp, illusion, dew, bubble, dream, lightning, cloud. Kumārajīva translated only six, and this was a deliberate decision in translation. The three similes "star, lamp, cloud" possess "substance" and possess "arising" — a star has a luminous body, a lamp has fuel, a cloud can give rise to rain — and so they easily prompt the reader to imagine substantial reality. Kumārajīva deleted these three and kept the six similes best able to point directly at "no substance." This is not a loss; it is a choice made by prajñā.
+⚠️ A detail easily missed: the other Chinese translations of the Diamond Sūtra (Bodhiruci, Yijing) give nine similes — star, cataract, lamp, illusion, dew, bubble, dream, lightning, cloud. Kumārajīva translated only six, and this was a deliberate decision in translation. The three similes "star, lamp, cloud" possess "substance" and possess "arising" — a star has a luminous body, a lamp has fuel, a cloud can give rise to rain — and so they easily prompt the reader to imagine substantial reality. Kumārajīva deleted these three and kept the six similes best able to point directly at "no substance" (note: removing star, lamp, and cloud from the nine leaves cataract, illusion, dew, bubble, dream, and lightning; Kumārajīva's list lacks "cataract" and has "shadow," which is not among the nine). This is not a loss; it is a choice made by prajñā.
 
 ### Seemingly Existent Yet Non-Existent — Where Is the Middle Way
 
@@ -56,7 +56,7 @@ The final five characters of the six-simile verse are the landing point of the w
 
 "One should contemplate them thus."
 
-"Contemplate" is not "know." After reading this chapter, you may feel "I now know that all conditioned phenomena are like dreams, illusions, bubbles, and shadows" — but "knowing" is not "contemplating." Knowing is a grasp at the conceptual level; contemplation is a sustained cognitive practice in which body and mind both take part. Master Zongmi makes the point in a single line: "Contemplation is the wondrous wisdom of prajñā." The "contemplation" of the six similes is prajñā observation, not conceptual understanding.
+"Contemplate" is not "know." After reading this chapter, you may feel "I now know that all conditioned phenomena are like dreams, illusions, bubbles, and shadows" — but "knowing" is not "contemplating." Knowing is a grasp at the conceptual level; contemplation is a sustained cognitive practice in which body and mind both take part. Zongle and Ruqi make the point in a single line: "Contemplation is the wondrous wisdom of prajñā." The "contemplation" of the six similes is prajñā observation, not conceptual understanding.
 
 This distinction is what the Diamond Sūtra has stressed again and again all along — and it is the last time the "knowing / realizing" divide established in the second chapter (the Kōan Mirror) comes back around here. You can recite "all conditioned phenomena are like dreams, illusions, bubbles, and shadows" flawlessly; you can even write an academic paper analyzing the precise meaning of all six similes — but all of that is still at the level of "knowing." What "contemplation" asks for is this: the next time you face pressure, entanglement, pain, or delight, can that illusory observation arise in the very moment?
 
@@ -100,7 +100,7 @@ The raft analogy of 5.4 comes back around here: the raft is illusory — but an 
 
 ### Seeing the World As Nirvāṇa
 
-The *Poqu zhu buhuai jiaming lun*, translated by Yijing in the Tang, offers a final summation of the Diamond Sūtra's doctrinal import across the whole sūtra:
+The *Jingang xian lun*, translated by Bodhiruci in the Northern Wei, offers a final summation of the Diamond Sūtra's doctrinal import across the whole sūtra:
 
 > "Therefore all buddhas and tathāgatas see the world as nirvāṇa — unlike the two vehicles who turn away from birth-and-death and delight in abiding in nirvāṇa without transforming beings. They see nirvāṇa as the world — unlike ordinary beings who never tire of birth-and-death and do not seek the fruit of transcendent nirvāṇa."
 

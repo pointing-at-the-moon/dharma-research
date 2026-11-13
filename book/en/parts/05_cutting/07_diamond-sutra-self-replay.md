@@ -14,7 +14,7 @@ Then, at §17, Subhūti opens his mouth again—
 
 Almost word for word the same. But look closely, and there is a subtle difference. In §2 the character *yīng* ("should") leads the phrase; in §17 it slides to mid-position—from "how-*should*-abide" to "how-should-*abide*." The word has shifted from the head of the sentence into its body.
 
-This re-ordering is unlikely to be a translator's accident. Kumārajīva was one of the most precise translators in the whole history of Chinese Buddhism; his ear for cadence was exact. More to the point, the Buddha's answers to the two questions operate on entirely different levels—if the question were truly the same, the answer would not differ so radically.
+This re-ordering is unlikely to be a translator's accident. Kumārajīva was one of the most precise translators in the whole history of Chinese Buddhism; his ear for cadence was exact. More to the point, the Buddha's answers to the two questions operate on entirely different levels—if the question were truly the same, the answer would not differ so radically (§17's answer first restates the skeleton of §3—"I should liberate all sentient beings … not a single sentient being has actually been liberated"—and then adds one further layer, "there is truly no dharma that generates the mind of supreme awakening"; at §2 the Ming edition already has the same word order as §17. That the two answers operate on entirely different levels, and that the word order signals progression, are the author's interpretation).
 
 §2's "how-*should*-abide" puts its weight on "should"—*what should I do?* This is the practitioner reaching for a rule, the typical question of a beginner. §17's "how-should-*abide*" moves the weight onto "how"—*what does it actually mean to truly abide?* This is no longer asking for a norm; it is asking about a mode of being.
 
@@ -46,7 +46,7 @@ The third piece of evidence is in the structure of "X is not X, therefore called
 
 In the first half, what this formula cuts is external names and forms—"to adorn the buddha-field is not to adorn, therefore called adorning," "what is spoken of as atoms is not atoms, therefore called atoms." The buddha-field one clings to, the atoms one clings to, the world one clings to—these are not what an ordinary person takes them to be. What gets cut is the outer object.
 
-In the second half, what the formula cuts is upgraded to the tools of practice themselves—"all dharmas are not all dharmas, therefore called all dharmas" (§17), "these are no-mind, therefore called mind" (§18), "there is no dharma to teach, therefore called teaching the dharma" (§21), "the Tathāgata says wholesome dharmas are not wholesome dharmas, therefore called wholesome dharmas" (§23). Even "all dharmas," "mind," "teaching the dharma," "wholesome dharmas"—the very core concepts you reach for in practice—must each be cut once.
+In the second half, what the formula cuts is upgraded to the tools of practice themselves—"what is spoken of as all dharmas is not all dharmas, therefore called all dharmas" (§17), "these are no-mind, therefore called mind" (§18), "there is no dharma to teach, therefore called teaching the dharma" (§21), "the Tathāgata says wholesome dharmas are not wholesome dharmas, therefore called wholesome dharmas" (§23). Even "all dharmas," "mind," "teaching the dharma," "wholesome dharmas"—the very core concepts you reach for in practice—must each be cut once.
 
 Word order, word choice, the object of the cut—three pieces of evidence point to one conclusion: §17 is not repetition, it is progression. Here the Diamond Sūtra folds itself once.
 
@@ -60,9 +60,9 @@ Yogācāra gave these two layers of grasping their own names.
 
 The two obstructions are not side by side; they are in sequence. Without breaking afflictive obstruction, talking about cognitive obstruction is pointless—a person still tangled in their own emotions is in no position to consider subtle attachment to the dharma. But the reverse is also true: break only afflictive obstruction and not cognitive obstruction, and practice stalls at a comfortable spot that is in fact stuck—the afflictions have faded, the person even looks the part, but they cannot get past that last threshold of "I am a practitioner."
 
-In his commentary, Kuiji left behind a piece of very sharp logic:
+In his commentary, Zixuan left behind a piece of very sharp logic:
 
-> "Ordinary beings who have self-grasping necessarily also have dharma-grasping; the two vehicles have dharma-grasping but do not necessarily have self-grasping; bodhisattvas who have no dharma-grasping necessarily have no self-grasping."
+> "Ordinary beings who have self-grasping necessarily also have dharma-grasping; the two vehicles have dharma-grasping but do not necessarily have self-grasping; … bodhisattvas who have no dharma-grasping necessarily have no self-grasping."
 
 Ordinary beings who grasp at self also, without fail, grasp at the dharma. The two vehicles—the śrāvaka and pratyekabuddha—have cut only self-grasping; dharma-grasping remains, which is why they are released from birth-and-death yet cannot become buddhas. The bodhisattva's road is different—the bodhisattva aims at breaking dharma-grasping; and once dharma-grasping breaks, self-grasping is naturally gone.
 
@@ -92,9 +92,9 @@ The re-asking at §17 pushes this new "I" up to the mirror. And so, after §17, 
 
 There is no real "mind of awakening" that can be generated—the mind is generated, but neither the "I that generates the mind" nor the "mind that is generated" is a substance. "All dharmas" are all buddha-dharma—yet "all dharmas" itself is not. The Tathāgata is not an object—it is simply the suchness of all dharmas as they truly are.
 
-Before §17, "prajñāpāramitā" was the knife used to cut. After §17, even the knife itself must be cut:
+Before §17, "prajñāpāramitā" was the knife used to cut. After §17, even the knife itself must be cut (the "is-not" line quoted below in fact stands at §13, in the first half; pairing the halves with what is cut is the author's interpretation):
 
-> "The Buddha says prajñāpāramitā is not prajñāpāramitā, therefore called prajñāpāramitā."
+> "The Buddha says prajñāpāramitā is not prajñāpāramitā."
 
 Prajñā, that knife, has cut the marks. But toward "prajñā," that very tool—are you not also clutching?
 
@@ -102,11 +102,11 @@ Prajñā, that knife, has cut the marks. But toward "prajñā," that very tool�
 
 ### Harboring "I Am a Bodhisattva" Violates the Path of Non-Abiding
 
-In his treatise on the Diamond Sūtra, Vasubandhu left a verse that diagnoses, with precision, exactly the sickness §17 means to cut:
+In his treatise on the Diamond Sūtra (T1511), Vasubandhu cites a verse (ascribed to Asaṅga in T1513/T1514) that diagnoses, with precision, exactly the sickness §17 means to cut:
 
 > "Cultivating within the mind, harboring 'I am a bodhisattva'—this itself obstructs the mind, violating the path of non-abiding."
 
-Four lines, sixteen characters, every line weighty.
+Four lines, twenty characters, every line weighty.
 
 "Cultivating within the mind"—this is no longer outer conduct (giving, keeping precepts, and the like); it is inner cultivation of the mind. Vasubandhu is explicit: the first half cuts outer conduct; what §17 cuts is different—the practitioner has already reached the level of the inner mind.
 
@@ -120,7 +120,7 @@ This line hooks directly back to the last chapter. "Abide with a mind that does 
 
 This sickness is not one you catch early in practice. The early sickness is "I am not good enough," "I have not practiced enough"—that is afflictive obstruction. This sickness only shows up after practice reaches a certain depth—"I am good enough now," "I have reached a certain place." It is the classic symptom of cognitive obstruction.
 
-The second half of the Diamond Sūtra cuts this, again and again. "The bodhisattva does not receive merit" (§28)—the bodhisattva cannot take merit as a personal gain. "If one thinks, 'I shall liberate immeasurable sentient beings,' then one is not called a bodhisattva" (§17)—if you suppose you are liberating sentient beings, that thought itself is no longer a bodhisattva. "There is truly no dharma called a bodhisattva" (§17)—even "bodhisattva," that dharma, cannot be grasped.
+The second half of the Diamond Sūtra cuts this, again and again. "The bodhisattva does not receive merit" (§28)—the bodhisattva cannot take merit as a personal gain. "If one says, 'I shall liberate immeasurable sentient beings,' then one is not called a bodhisattva" (§17)—if you suppose you are liberating sentient beings, that thought itself is no longer a bodhisattva. "There is truly no dharma called a bodhisattva" (§17)—even "bodhisattva," that dharma, cannot be grasped.
 
 Every cut lands in the same place: **the "I" that has already been practicing.**
 
@@ -148,4 +148,4 @@ This too is where the whole Diamond Sūtra wants every reader, in the end, to ar
 
 ---
 
-The next chapter takes up the boldest line in the second half—"the Tathāgata cannot be seen through the thirty-two marks." Even the Buddha's physical body cannot be grasped. Then where is the true Buddha?
+The next chapter takes up the boldest line in the second half—"one should not observe the Tathāgata through the thirty-two marks." Even the Buddha's physical body cannot be grasped. Then where is the true Buddha?

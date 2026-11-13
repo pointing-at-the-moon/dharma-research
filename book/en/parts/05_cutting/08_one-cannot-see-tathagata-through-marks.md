@@ -12,7 +12,7 @@ This is not the first time the question appears in the Diamond Sūtra. In §13 t
 
 > "Yes, yes — through the thirty-two marks one observes the Tathāgata."
 
-Wrong.
+Wrong (reading this answer as a mistake is the author's interpretation).
 
 A great arhat who has listened to twenty-five sections of teaching — why does he stumble at this exact juncture? The Buddha breaks it open at once with a single line:
 
@@ -28,7 +28,7 @@ The Diamond Sūtra says: no. Not even this back door.
 
 ### The Image in the Mirror Is Not the Mirror
 
-In his commentary on the Diamond Sūtra, Kuiji left a very sharp analogy:
+In his *Jingang jing zuanyao kanding ji*, Zixuan left a very sharp analogy:
 
 > "The thirty-two marks are nothing but reflections manifested upon mirror-wisdom. Since they fall within the category of the conditioned, they are subject to the four marks of impermanence."
 
@@ -38,11 +38,11 @@ This is like the image in a mirror. The image depends on what is placed before t
 
 To know the nature of the mirror, one key move must be done right — not staring at the image in the belief that understanding the image equals understanding the mirror. The image is the mirror's **function**, not the mirror's **essence**. Understanding the image and understanding the mirror are two different things.
 
-Kuiji pushes the mirror analogy one step further:
+Zixuan pushes the mirror analogy one step further:
 
-> "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is absent is it the mirror; where the other objects appear, too, it is all the mirror."
+> "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is empty is it the mirror; where the other objects are empty, too, it is all the mirror."
 
-The mirror is not the mirror only where there is no image — where there is an image, the mirror is there too. This one line blocks an easy misunderstanding in advance: to understand "one cannot see the Tathāgata through marks" is not to strip all marks away, not to look for some place with no image at all in order to find the dharma-body. The dharma-body is present where there are marks as well.
+The mirror is not the mirror only where there is no image — where there is an image, the mirror is there too. This one line blocks an easy misunderstanding in advance: to understand "one cannot see the Tathāgata through marks" is not to strip all marks away, not to look for some place with no image at all in order to find the dharma-body. The dharma-body is present where there are marks as well. (In Zixuan's text this simile carries on his gloss of the sūtra's word "all": the person's image stands for the Buddha's bodily marks, the other objects for marks beyond the Buddha's body; reading it in terms of marks and no marks is the author's interpretation.)
 
 The problem is not whether marks are present or absent. It is the eye that looks at the marks.
 
@@ -52,7 +52,7 @@ What is the dharma-body, after all?
 
 The *Cheng weishi lun* gives a precise definition — the dharma-body is "apart from marks, quiescent, beyond all discursive elaboration," and moreover "cannot be spoken of as form, mind, or any such thing."
 
-This carries great weight. The *Treatise on the Hundred Dharmas* divides all dharmas into five classes: form-dharmas (eleven), mind-dharmas (the eight consciousnesses), mental factors (fifty-one), factors not associated with mind (twenty-four), and unconditioned dharmas (six). The dharma-body is in none of the first four classes — not a form-dharma, not a mind-dharma, not a mental factor, not a factor not associated with mind. Is it then an unconditioned dharma? Yes, and yet not in the sense of those items among the six unconditioned dharmas taken as conceptual labels — it is the "truly pure dharma-realm," containing the boundless merits of the four wisdoms.
+This carries great weight. The *Treatise on the Hundred Dharmas* divides all dharmas into five classes: form-dharmas (eleven), mind-dharmas (the eight consciousnesses), mental factors (fifty-one), factors not associated with mind (twenty-four), and unconditioned dharmas (six). The dharma-body is in none of the first four classes — not a form-dharma, not a mind-dharma, not a mental factor, not a factor not associated with mind. Is it then an unconditioned dharma? Yes, and yet not in the sense of those items among the six unconditioned dharmas taken as conceptual labels (the last of the six unconditioned is "suchness unconditioned") — it is the "truly pure dharma-realm," containing the boundless merits of the four wisdoms.
 
 To put it plainly: the dharma-body is not a thing that can be seen, nor a thing that can be thought. It cannot be reached by the senses, nor grasped by concepts.
 
@@ -78,7 +78,7 @@ Read the two clauses together. The first breaks — all marks are illusory, not 
 
 Notice the precision of this line. It is not "do not see marks" — not shutting your eyes to see nothing. It is "see that marks are non-marks" — in the very act of seeing, seeing that the mark is not the inherently real mark you grasp it to be.
 
-Kuiji's reading of this line: "If discrimination does not arise, marks naturally do not arise… what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata.'" Not annihilating marks — but stopping the discriminating act in the mind that labels marks and reifies them. Once that act stops, marks return on their own to their original dependent nature — illusory arising, illusory ceasing. What remains is the awakened nature itself — which is the Tathāgata.
+Zixuan's reading of this line: "If discrimination does not arise, marks naturally do not arise… what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata.'" Not annihilating marks — but stopping the discriminating act in the mind that labels marks and reifies them. Once that act stops, marks return on their own to their original dependent nature — illusory arising, illusory ceasing. What remains is the awakened nature itself — which is the Tathāgata.
 
 So "seeing the Tathāgata" is not using the eyes to "see" an image of a Buddha, nor using the intellect to "infer" what the dharma-body looks like. It is a fundamentally different kind of "knowing" — prajñā realization. It is wisdom itself.
 

@@ -4,9 +4,9 @@
 
 By the time you reach this point, you run into a structure that looks, on its surface, very strange.
 
-The opening sections of the Diamond Sūtra have been teaching letting go all along—letting go of the mark of self, letting go of the mark of dharma, letting go of the raft. Then, starting at §4, a scene appears that keeps recurring: the Buddha asks Subhūti, "If someone filled a trichiliocosm with the seven treasures and gave them in charity, would the merit gained by this person be great?" Subhūti answers, "Very great." Then the Buddha says: "But if someone, within this sūtra, upholds even a four-line verse and explains it to others, the merit surpasses the former."
+The opening sections of the Diamond Sūtra have been teaching letting go all along—letting go of the mark of self, letting go of the mark of dharma, letting go of the raft. Then, starting at §8, a scene appears that keeps recurring: the Buddha asks Subhūti, "If someone filled a trichiliocosm with the seven treasures and gave them in charity, would the merit gained by this person be great?" Subhūti answers, "Very great." Then the Buddha says: "But if someone, within this sūtra, upholds even a four-line verse and explains it to others, the merit surpasses the former."
 
-The same scene begins at §4 and returns at §8, §11, §15, §24, §28, and §32. Each time the scale of giving is raised—from the seven treasures of a trichiliocosm, to the seven treasures of Ganges-sand-number trichiliocosms, to giving away one's body and life three times daily without ceasing for immeasurable kalpas, to piles of seven treasures as tall as Mount Sumeru, to the seven treasures of immeasurable asaṃkhyeya worlds. Each time, the Buddha says the same thing: dharma-offering prevails.
+The same scene begins at §8 and returns at §11, §13, §15, §24, §28, and §32 (§16 makes a further comparison, with the Buddha's own past offerings to buddhas before Dīpaṃkara; this chapter does not list it). Each time the scale of giving is raised—from the seven treasures of a trichiliocosm, to the seven treasures of Ganges-sand-number trichiliocosms, to giving away one's body and life three times daily without ceasing for immeasurable kalpas, to piles of seven treasures as tall as Mount Sumeru, to the seven treasures of immeasurable asaṃkhyeya worlds. Each time, the Buddha says the same thing: dharma-offering prevails.
 
 This structure seems at odds with the style of the sūtra as a whole. A sūtra that teaches letting go—why does it stop here to compare rewards over and over?
 
@@ -16,7 +16,7 @@ What this chapter sets out to do is to make this operation—"destroying the rew
 
 ### The Same Sentence Spoken Seven Times
 
-The seven merit comparisons look, at first glance, like repetition. But Vasubandhu pointed out, long before the Tang dynasty:
+The seven merit comparisons look, at first glance, like repetition. But the *Jingang xian lun* pointed out, long before the Tang dynasty:
 
 > "The phrasing is similar but the meaning differs; therefore it is not repetition."
 
@@ -26,9 +26,9 @@ First look at the escalation of scale:
 
 | Section | Giving-Scale | Dharma-Offering Threshold |
 |---------|-------------|---------------------------|
-| §4 | Trichiliocosm of seven treasures | Uphold a four-line verse, explain to others |
-| §8 | Ganges-sand-number worlds of seven treasures | Uphold a four-line verse, explain to others |
-| §11 | Ganges-sand bodies-and-lives | Uphold a four-line verse, explain to others |
+| §8 | Trichiliocosm of seven treasures | Uphold a four-line verse, explain to others |
+| §11 | Ganges-sand-number worlds of seven treasures | Uphold a four-line verse, explain to others |
+| §13 | Ganges-sand bodies-and-lives | Uphold a four-line verse, explain to others |
 | §15 | 3× daily, Ganges-sand bodies × immeasurable kalpas | Hear this sūtra, faith without opposition |
 | §24 | Sumeru-king heaps of seven treasures | Uphold a four-line verse |
 | §28 | Ganges-sand worlds of seven treasures | Know all dharmas are non-self, attain patience |
@@ -38,15 +38,15 @@ The scale of giving climbs from "imaginable" (a trichiliocosm) all the way to "b
 
 This design has a precise purpose: **to break the common scale.** If dharma-offering and material giving stood on the same scale, then there would be a "critical value"—give enough, and at some quantity you could surpass dharma-offering. By repeatedly raising the numbers of giving, the Buddha is saying: no matter how high you raise it, it will never do, because the two are simply not on the same scale.
 
-The object of comparison also changes between the first half and the second. The first half (§4, §8, §11, §15) compares **behavior**—upholding and reciting. The second half (§28, §32) compares **state** and **aspiration**—"knowing all dharmas are non-self and attaining patience," "arousing the bodhisattva-mind." From "what you do" up to "what you are."
+The object of comparison also changes between the first half and the second. The first half (§8, §11, §13, §15) compares **behavior**—upholding and reciting. The second half (§28, §32) compares **state** and **aspiration**—"knowing all dharmas are non-self and attaining patience," "arousing the bodhisattva-mind." From "what you do" up to "what you are."
 
-This is what Vasubandhu meant by "the meaning differs." The same sentence, "this merit surpasses the former," at §4 cuts the attachment "wealth equals merit," while at §28 it cuts the deeper attachment "doing more practice equals greater merit."
+This is what the *Jingang xian lun* meant by "the meaning differs." The same comparison (at §8, "this merit surpasses the former"; at §28, "this bodhisattva surpasses the virtue obtained by the former bodhisattva") at §8 cuts the attachment "wealth equals merit," while at §28 it cuts the deeper attachment "doing more practice equals greater merit."
 
 ### This Merit Is Precisely Non-Merit in Nature
 
 What is truly remarkable about the merit comparisons is that, more than once, they give away their own secret.
 
-Subhūti's very first answer at §4 already lets the answer slip. When the Buddha asks whether the merit of giving is great, Subhūti says "very great"—but he adds a line:
+Subhūti's very first answer at §8 already lets the answer slip. When the Buddha asks whether the merit of giving is great, Subhūti says "very great"—but he adds a line:
 
 > "This merit is precisely non-merit in nature; therefore the Tathāgata says the merit is great."
 
@@ -54,7 +54,7 @@ This line is the *jífēi* structure—the three-part "is not, therefore called"
 
 Translated into modern terms: **this merit has no entity called "merit-nature"; precisely because it has no such entity can the Tathāgata conventionally call it "great."**
 
-Kuiji's explanation is simple: "This merit is separate from the intrinsic nature of merit; therefore it is called great." Because merit is free of any fixed self-nature, it can be described as "great." If merit had a fixed self-nature, it could be neither "great" nor "small"—a self-natured dharma neither increases nor decreases.
+Zongle and Ruqi's explanation is simple: "This merit is separate from the intrinsic nature of merit; therefore it is called great." Because merit is free of any fixed self-nature, it can be described as "great." If merit had a fixed self-nature, it could be neither "great" nor "small"—a self-natured dharma neither increases nor decreases.
 
 This is entirely consistent with the doctrine of the preceding chapters:
 
@@ -68,7 +68,7 @@ So when the Buddha says "this merit is greater than that merit," He is not setti
 
 > "If merit had substance, the Tathāgata would not say the merit is great; because merit has no [substance], the Tathāgata says the merit is great."
 
-If merit were a real thing, the Tathāgata would in fact not say it is "great." Precisely because it has no self-nature can it be called "great." This line and Subhūti's answer at §4 are exactly two sides of the same coin.
+If merit were a real thing, the Tathāgata would in fact not say it is "great." Precisely because it has no self-nature can it be called "great." This line and Subhūti's answer at §8 are exactly two sides of the same coin.
 
 Once you grasp this layer, look again at the seven merit comparisons—they were never a leaderboard from the start. They are a teaching tool that **comes with its own dismantling mechanism.**
 
@@ -112,7 +112,7 @@ Subhūti is immediately confused—how can a bodhisattva not receive merit? The 
 
 The key lies in the word "creates"—**the bodhisattva is still doing** merit. Not abstaining from doing, but doing without clinging.
 
-Vasubandhu's reading of this line is extremely concise, using a very fine distinction—**receiving vs. grasping.** "Receiving" is acknowledging that merit exists (the level of conventional truth); "grasping" is clinging with a contaminated mind (parikalpita). The bodhisattva "receives" but does not "grasp"—doing good deeds, but not clinging to the karmic result.
+The reading of this line in the verse Vasubandhu cites (ascribed to Asaṅga in T1513/T1514) is extremely concise, using a very fine distinction—**receiving vs. grasping.** "Receiving" is acknowledging that merit exists (the level of conventional truth); "grasping" is clinging with a contaminated mind (parikalpita). The bodhisattva "receives" but does not "grasp"—doing good deeds, but not clinging to the karmic result.
 
 This is the most exquisite paradox in the entire design of the merit comparisons: **the one with the most merit is precisely the one who does not care about merit.**
 
@@ -146,4 +146,4 @@ The six similes are the self-destruct device. **Even "much merit," the teaching 
 
 ---
 
-The next chapter takes up the Diamond Sūtra's most famous line—"abiding nowhere, give rise to the mind." These seven words once brought the Sixth Patriarch Huineng to great awakening on the spot. On the surface it looks like a teaching, but it is in fact the hardest operational instruction in the entire sūtra: abide nowhere—in what? give rise to—what mind? And how can the two acts be done at the same time?
+The next chapter takes up the Diamond Sūtra's most famous line—"abiding nowhere, give rise to the mind." These eight characters once brought the Sixth Patriarch Huineng to great awakening on the spot. On the surface it looks like a teaching, but it is in fact the hardest operational instruction in the entire sūtra: abide nowhere—in what? give rise to—what mind? And how can the two acts be done at the same time?

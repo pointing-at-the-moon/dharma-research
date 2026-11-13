@@ -26,7 +26,7 @@ The Fifth Patriarch Hongren asked his assembly to compose a verse to demonstrate
 > diligently polish it always—let no dust alight upon it.
 > —*The Platform Sūtra of the Sixth Patriarch*, Chapter 1
 
-The Fifth Patriarch read it and offered a single comment: "You have arrived at the gate but have not yet entered." Shenxiu's verse was not wrong—"diligently polish it always" is real cultivation, the stage most practitioners must pass through. It is a genuine, solid road. The trouble is that what Shenxiu saw was a mirror that **needed wiping**—he was still wrestling with the dust on the glass.
+The Fifth Patriarch read it and offered a single comment: "In composing this verse you have not yet seen your original nature; you have only reached the outside of the gate and have not yet entered inside." Shenxiu's verse was not wrong—"diligently polish it always" is real cultivation, the stage most practitioners must pass through. It is a genuine, solid road. The trouble is that what Shenxiu saw was a mirror that **needed wiping**—he was still wrestling with the dust on the glass.
 
 Huineng, pounding rice in the threshing room at the time, heard someone reciting this verse and asked to have a verse of his own written on the wall:
 
@@ -35,7 +35,7 @@ Huineng, pounding rice in the threshing room at the time, heard someone reciting
 
 Same mirror, same prompt, two entirely different people revealed. What Shenxiu saw was cultivation—sustained effort, gradual purification. What Huineng saw was his original face—not the wiping of the mirror clean, but the seeing that the mirror was always clean, that there was never any dust to alight at all.
 
-The Fifth Patriarch publicly declared "this also has not yet seen the nature" in order to protect Huineng, then slipped down to the threshing room the next day and struck the mortar three times with his staff as a signal. That night, at the third watch, Huineng entered the patriarch's chamber. The Fifth Patriarch did not explain the Diamond Sūtra to him—he read the Diamond Sūtra to him. Upon reaching "give rise to a mind that abides nowhere," Huineng was awakened at the word.
+The Fifth Patriarch publicly declared "this also has not yet seen the nature" in order to protect Huineng, then slipped down to the threshing room the next day and struck the mortar three times with his staff as a signal. That night, at the third watch, Huineng entered the patriarch's chamber. The Fifth Patriarch "expounded the Diamond Sūtra for him." Upon reaching "give rise to a mind that abides nowhere," Huineng was awakened at the word.
 
 After his awakening he said this to the Fifth Patriarch:
 
@@ -69,7 +69,7 @@ One question is worth asking: why did Huineng awaken at "give rise to a mind tha
 
 Is this line deeper than the others? No. The Diamond Sūtra is *jífēi* structure throughout; every line could be a kōan. The answer does not lie in this line, but in Huineng himself.
 
-His practice had already brought him to that point. Any sufficiently clear mirror could have completed the final confirmation. That night the Fifth Patriarch happened to read this particular line—had he read another, the result would have been the same.
+His practice had already brought him to that point. Any sufficiently clear mirror could have completed the final confirmation. That night the Fifth Patriarch happened to reach this particular line—had he reached another, the result would have been the same.
 
 But the same line, heard by Shenxiu, would have registered as a practice instruction—"I should abide nowhere"—and he would have set about cultivating "non-abiding," just as he cultivated "diligent polishing." Heard by Huineng, it registered as his original face revealed—not that one **should** abide nowhere, but the seeing that self-nature has always abided nowhere.
 

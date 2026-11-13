@@ -86,7 +86,7 @@ Not only is the layer of clinging negated (which is correct)—the dependent nat
 
 What is there is there; what is not there is not there. Not one thing added, not one thing taken away. This sounds simple and is exceedingly hard to do—because the human habit of cognition is forever adding and subtracting. See a person and pin a label on him (superimposing); hear a principle and suspect there is something wrong with it (diminishing); to see a thing as it actually is turns out to be the least natural act of all.
 
-Kuiji reduces these three roads to a single line:
+Zixuan reduces these three roads to a single line:
 
 > One should not grasp dharma—this departs from existence. One should not grasp non-dharma—this departs from non-existence. Having departed both existence and non-existence, one returns to the Middle Way.
 

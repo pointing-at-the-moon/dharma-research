@@ -2,7 +2,7 @@
 
 ### The First Cut
 
-In the opening sections of the Diamond Sūtra, the Buddha has not yet said plainly what the *jífēi* structure is meant to cut. Subhūti asks, "How should one abide, how should one subdue the mind?" and the Buddha answers, "without self-mark, person-mark, being-mark, or life-span-mark"—this is the first time the target is named, but it is not yet stated as an open proposition. By §5, the Buddha speaks the matter very directly:
+In the opening sections of the Diamond Sūtra, the Buddha has not yet said plainly what the *jífēi* structure is meant to cut. Subhūti asks, "How should one abide, how should one subdue the mind?" and the Buddha answers, "if a bodhisattva has a self-mark, a person-mark, a being-mark, or a life-span-mark, he is not a bodhisattva"—this is the first time the target is named, but it is not yet stated as an open proposition. By §5, the Buddha speaks the matter very directly:
 
 > "Whatever has marks is illusory; if you see that all marks are no-marks, then you see the Tathāgata."
 
@@ -22,11 +22,11 @@ The object-aspect is of dependent nature—it arises through the convergence of 
 
 But the next move is the decisive one. The moment you see the object-aspect, a judgment immediately arises in the mind: "this is a real, independently existing flower with a flower-nature." This judgment is not the object-aspect itself—it is superimposed on top. This superimposition is what Yogācāra calls **imagined nature** (*parikalpita*).
 
-The *Cheng weishi lun* captures imagined nature in four characters: **emotionally existent, rationally non-existent**. From the standpoint of affective cognition, it is genuinely there (emotionally existent); under rational investigation, it is not the real thing you grasp it to be (rationally non-existent).
+The *Cheng weishi lun* captures imagined nature in four characters: **emotionally existent, rationally non-existent** (the phrase comes from the first of two views set side by side in fascicle 8, where it describes the seeing and seen parts themselves; following the second view, which takes the seen part as dependent, and applying the phrase only to the reification layered on top is the author's interpretation). From the standpoint of affective cognition, it is genuinely there (emotionally existent); under rational investigation, it is not the real thing you grasp it to be (rationally non-existent).
 
 When the Diamond Sūtra says "whatever has marks is illusory," what it cuts is not the object-aspect but the invisible rope between you and the object-aspect—imagined nature. The flower is still there, the tree is still there, the whole world is still there—but the layer of reifying attachment to all of it is severed.
 
-Kuiji, in his *Commentary on the Diamond Prajñāpāramitā Sūtra*, offers a beautiful image: mind is the support, marks the supported. All marks arise from mind; mind itself has no self-nature—and if mind is already illusory, how can the marks that arise from it possibly be real? If the skin no longer remains, where will the hair attach?
+Zixuan, in his *Jingang jing zuanyao kanding ji*, offers a beautiful image: mind is the support, marks the supported. All marks arise from mind; mind itself has no self-nature—and if mind is already illusory, how can the marks that arise from it possibly be real? If the skin no longer remains, where will the hair attach?
 
 So the two words "illusory" mean, precisely: **not existing in the way you grasp it as existing.**
 
@@ -40,7 +40,7 @@ The "whatever has" of "whatever has marks" is no figure of speech—its reach th
 
 **Layer three: bodily marks and the thirty-two marks.** Can the Tathāgata be seen by means of bodily marks? This question is asked again and again across §5, §13, §20, and §26—four times, each time with a more precise object. A practitioner who clings to an image of a resplendent, golden Buddha is holding another imagined nature. The Buddha keeps asking the same question not because his memory is poor, but because the mirror is reflecting the same attachment from different angles.
 
-**Layer four: no-marks.** "Self-marks are precisely no-marks; person-marks, being-marks, life-span-marks are precisely no-marks." Even "no-marks" cannot be grasped. You have seen that "marks are illusory," and so you begin to pursue "marklessness"—but the moment "marklessness" becomes a new goal, it is once again a mark. Sēngzhào's warning is sharp: "they will hope for a markless Buddha standing clearly before their eyes—if so, how does that differ from those very marks?" To expect a "markless Buddha" to appear distinctly before you—how is that different from the "marks" you grasped to begin with?
+**Layer four: no-marks.** "Self-marks are precisely no-marks; person-marks, being-marks, life-span-marks are precisely no-marks." Even "no-marks" cannot be grasped. You have seen that "marks are illusory," and so you begin to pursue "marklessness"—but the moment "marklessness" becomes a new goal, it is once again a mark. Zixuan, glossing Sēngzhào's note, gives a sharp warning: "they will hope for a markless Buddha standing clearly before their eyes—if so, how does that differ from those very marks?" To expect a "markless Buddha" to appear distinctly before you—how is that different from the "marks" you grasped to begin with?
 
 **Layer five: real-mark.** §14: "what is called 'real-mark' is precisely no-mark; therefore the Tathāgata calls it 'real-mark.'" The truest mark is precisely no-mark. If you are searching for a "final truth," what you find will only be another imagined nature. Real-mark is not finding something; it is setting down the search.
 
@@ -50,7 +50,7 @@ A pause is needed here. These five layers are not a progress bar for practice. "
 
 ### Subhūti Answered Wrong at §26
 
-The Diamond Sūtra has one very dramatic passage. Across the whole sūtra, Subhūti answers almost every question perfectly—the Buddha asks, and he answers without the slightest error. But there is one place where he is wrong.
+The Diamond Sūtra has one very dramatic passage. Across the whole sūtra, Subhūti answers almost every question perfectly—the Buddha asks, and he answers without the slightest error. But there is one place where he is wrong (reading this answer as a mistake is the author's interpretation).
 
 §26:
 
