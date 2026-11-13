@@ -46,7 +46,7 @@ This inversion is hard to dislodge because it has a piece of **surface evidence*
 
 But "some people made money with AI" does not mean "AI is the cause of the money."
 
-In the Madhyamāgama the Buddha used the Ganges as a metaphor: once merit begins to mature, "whether going or coming, whether standing or sitting, whether sleeping or waking, whether by day or by night, their merit constantly arises, ever increasing and expanding. Just as the waters of the Ganges, flowing from their source into the great ocean, grow ever deeper and broader along the way." Merit is **self-amplifying** — once a wholesome seed is set in motion, its fruit, like the waters of the Ganges, naturally grows ever broader and deeper.
+In the Madhyamāgama the Buddha used the Ganges as a metaphor: once merit begins to mature, "whether going or coming, whether standing or sitting, whether sleeping or waking, whether by day or by night, their merit constantly arises, ever increasing and expanding. Cunda! Just as the waters of the Ganges, flowing from their source into the great ocean, grow ever deeper and broader along the way." Merit is **self-amplifying** — once a wholesome seed is set in motion, its fruit, like the waters of the Ganges, naturally grows ever broader and deeper.
 
 A person with merit seeds will make money. In an age without AI he would profit in business; in the age of the internet he would profit running an online store; in the age of AI he profits using AI too. The tool keeps changing, but the making of money never stops — because the cause is in the seed, not the tool.
 

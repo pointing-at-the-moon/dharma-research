@@ -12,7 +12,7 @@ Not because it is large. Sometimes it is even small — small enough that you ca
 
 That act of "pushing down" is what Buddhism calls **concealment**.
 
-Part Three, Chapter Seven of this book discussed this mental factor. The *Treatise on the Hundred Dharmas* lists concealment among the twenty minor derivative afflictions; the *Cheng Weishi Lun*, Fascicle Six, further sets out its structure: "Concealment: with regard to offenses one has committed, fearing the loss of gain and reputation, its nature is to hide; it obstructs non-remorse, and its function is vexing heat… This concealment is a portion of craving and a portion of delusion."
+Part Three, Chapter Seven of this book discussed this mental factor. The *Treatise on the Hundred Dharmas* lists concealment among the twenty minor derivative afflictions; the *Cheng Weishi Lun*, Fascicle Six, further sets out its structure: "Concealment: with regard to offenses one has committed, fearing the loss of gain and reputation, its nature is to hide; it obstructs non-concealment, and its function is regret and vexation… This concealment is a portion of craving and a portion of delusion."
 
 Concealment is not lying — when you lie, you still know you are lying. Concealment covers up even the fact that a cover-up is happening. Beneath it lie two conjoined roots: an attachment to one's own image (a portion of craving), and an avoidance of reality (a portion of delusion). To conceal one thing is necessarily to conceal the existence of these two as well.
 
@@ -36,7 +36,7 @@ Three actions in one sequence — **seeing the offense, disclosing it, guarding 
 
 How grave an offense can this program address? The Āgamas' answer is startlingly direct: **patricide can.**
 
-The *Dīrgha Āgama*, Fascicle Seventeen, *Śrāmaṇyaphala Sutta*, recounts that King Ajātaśatru killed his own father, King Bimbisāra, to usurp the throne. Patricide is one of the five gravest offenses, the heaviest evil karma the Āgamas acknowledge. Ajātaśatru later went to the Buddha and repented on the spot. The Buddha accepted his repentance, then said to Ānanda this verdict: "This King Ajātaśatru's offenses have diminished; **he has uprooted the grave offense**."
+The *Dīrgha Āgama*, Fascicle Seventeen, *Śrāmaṇyaphala Sutta*, recounts that King Ajātaśatru killed his own father, King Bimbisāra, to usurp the throne. Patricide is one of the five gravest offenses, the heaviest evil karma the Āgamas acknowledge. Ajātaśatru later went to the Buddha and repented on the spot. The Buddha accepted his repentance; not long after the king had left, he said to the monks this verdict: "This King Ajātaśatru's offenses have diminished; **he has uprooted the grave offense**."
 
 *Uproot* is a horticultural verb — to pull a thing up by the roots. Not to cover, not to offset, not to transfer, but **to tear the karma out from its very growing point**. If even patricide, of that magnitude, can be uprooted, then nothing in your twenty-year burden is beyond uprooting.
 
@@ -88,7 +88,7 @@ The answer to that "on what grounds" belongs to Huayan.
 
 The eighty-fascicle *Avataṃsaka*'s *Chapter on the Manifestation of the Tathāgata* (T0279, Fascicle 52) gives, in its description of the Tathāgata's attainment of the path, the most astonishing passage in the whole sūtra:
 
-> When the Tathāgata, Worthy, Perfectly Enlightened One, attains Perfect Enlightenment, he sees within his own body all sentient beings attaining Perfect Enlightenment… all the same nature, namely: no nature.
+> When the Tathāgata attains Perfect Enlightenment, he sees within his own body all sentient beings attaining Perfect Enlightenment… all the same nature, namely: no nature.
 
 At the moment the Tathāgata attains Perfect Enlightenment, "within his own body he universally sees all sentient beings attaining Perfect Enlightenment." Not "the Buddha is able to liberate sentient beings," but "in the very moment of the Buddha's attainment of Perfect Enlightenment, all sentient beings are already, within the Buddha's body, simultaneously enlightened." And the ground of this "simultaneous enlightenment" is "all the same nature, namely, no nature" — it is not that some shared substance binds Buddha and sentient beings together, but that "no nature" (the absence of self-nature) is the deepest sameness.
 
@@ -96,7 +96,7 @@ The same chapter contains an *originally-present* declaration. The sixty-fascicl
 
 > Marvelous! Marvelous! How is it that the Tathāgata, possessed of wisdom, is within the body, and yet is not known, not seen? I shall teach these sentient beings to awaken to the noble path, making them forever depart from the bondage of deluded thinking and inverted defilements, so that they may wholly see the wisdom of the Tathāgata within their own bodies, no different from the Buddha.
 
-The eighty-fascicle version reads: "There is not a single sentient being who does not possess the wisdom of the Tathāgata, but because of deluded thinking, inverted views, and grasping, they do not realize it; if they depart from deluded thinking, omniscience, spontaneous wisdom, and unguided wisdom will at once become manifest."
+The eighty-fascicle version reads: "There is not a single sentient being who does not possess the wisdom of the Tathāgata, but because of deluded thinking, inverted views, and grasping, they do not realize it; if they depart from deluded thinking, omniscience, spontaneous wisdom, and unobstructed wisdom then become manifest."
 
 Here appear verbs the Āgamas, all along their way, never once used: **become manifest**, **no different from the Buddha**, **departing from deluded thinking, at once attained**. The Āgama path attains its fruit by passing through "removing, severing, extinguishing, attaining," one stage at a time; the verb here in Huayan is **disclose** — it is already there, merely covered; lift the cover, and there it is.
 
@@ -120,7 +120,7 @@ No. They are **two descriptive layers of one and the same instant.**
 
 The Āgamas speak from the side of *event*: there is a concealment, lift it off. Huayan speaks from the side of *nature*: what appears once it is lifted is not newly made, it was always there.
 
-The Āgamas' "removing" and Huayan's "disclosing" are not before-and-after; they are **simultaneous**. The instant you remove is the instant it discloses. The Āgamas' "uprooting the grave offense" and Huayan's "cultivation arises from nature, and cultivation in turn merges back into nature" are the same action described at two doctrinal layers — what is uprooted is the continuing momentum; what is merged into is the originally-present nature; and these two things happen in the same instant, in the same body, in the same act of voiced disclosure.
+The Āgamas' "removing" and Huayan's "disclosing" are not before-and-after; they are **simultaneous**. The instant you remove is the instant it discloses. The Āgamas' "uprooting the grave offense" and the Huayan teaching of nature-arising, "cultivation arises from nature, and cultivation in turn merges back into nature" (in the words of Jiaoguang's *Zhengmai Commentary*), are the same action described at two doctrinal layers — what is uprooted is the continuing momentum; what is merged into is the originally-present nature; and these two things happen in the same instant, in the same body, in the same act of voiced disclosure.
 
 This is why this chapter, before its doctrine advanced into Huayan, first set out "walk to the Buddha" clearly. Huayan's "disclosing" is no castle in the air — the place where it discloses is the very place where the Āgamas' concealment is pried open; the moment it discloses is the very moment you voice your disclosure.
 
@@ -150,7 +150,7 @@ This chapter corresponds to the fourth of the Ten Mysterious Gates — the **Gat
 
 Chengguan, in his *Sub-Commentary*, uses the half-moon simile to explain this gate:
 
-> Like the waxing and waning of the moon: when hidden it is not non-existent; when manifest it is not newly produced.
+> Like the moon on the eighth or ninth night, half hidden and half manifest: just as it is manifest it is hidden, just as it is hidden it is manifest.
 
 The hidden and the manifest of the half-moon obtain simultaneously. The moon's unseen portion (hidden) is not the absence of moon; the moon's seen portion (manifest) is not newly produced moon. Hidden and manifest do not deprive each other; they are two faces of one body.
 
@@ -166,7 +166,7 @@ Sincere repentance is neither "denying the karmic obstruction" (that is annihila
 
 Now we can return to the three things spoken of earlier in "Prostration Before the Buddha," and re-read them once through this structure.
 
-**"The Buddha will hear you"** — that experience of being heard is not some distant Buddha stretching out his ear to listen to you. It is the **originally-present structure of "seeing" in the deepest place of your body-mind** (what Huayan calls "the Tathāgata's wisdom complete within the body") re-manifesting in the moment concealment is opened. What is originally present discloses itself in the act of repentance (manifest). But you did not newly receive a Buddha — you were always within this structure, merely covered before now (when hidden, it is not non-existent). Manifest and hidden obtain in the same instant.
+**"The Buddha will hear you"** — that experience of being heard is not some distant Buddha stretching out his ear to listen to you. It is the **originally-present structure of "seeing" in the deepest place of your body-mind** (what Huayan calls "the Tathāgata, possessed of wisdom, is within the body") re-manifesting in the moment concealment is opened. What is originally present discloses itself in the act of repentance (manifest). But you did not newly receive a Buddha — you were always within this structure, merely covered before now (when hidden, it is not non-existent). Manifest and hidden obtain in the same instant.
 
 **"The gods and Dharma-protectors rejoice and praise"** — this is precisely the realized face of that line in the *Chapter on the Manifestation of the Tathāgata*, "all the same nature, namely no nature." You have reconnected to the field of causes and conditions that was running all along. That field is not something coming in from outside; it is something you have never actually left. Your concealment did not seal you outside the field; it caused you to **temporarily mis-recognize the fact of your own continuous presence within it**. The moment concealment is opened, the nature-arising structure of "when one attains, all attain" immediately becomes directly perceptible at the level of your experience.
 
@@ -176,7 +176,7 @@ Now we can return to the three things spoken of earlier in "Prostration Before t
 
 Finally, a balance must be drawn.
 
-The root principle of the Āgamas' instruction on repentance is "see the offense as offense, repent according to the Dharma" — the principle of non-concealment. This does not contradict the Perfect-Teaching reading of simultaneous completion of hidden and manifest: the Āgamas' "see the offense as offense" is honesty on the phenomenal side, and Huayan's "nature-empty, phenomena-vivid" is its deepening on the doctrinal side. **Non-concealment is the entry; simultaneity of hidden and manifest is the completion.**
+The root principle of the Āgamas' instruction on repentance can be summarized as *see the offense as offense, repent according to the Dharma* — the principle of non-concealment. This does not contradict the Perfect-Teaching reading of simultaneous completion of hidden and manifest: the Āgamas' *see the offense as offense* is honesty on the phenomenal side, and Huayan's "nature-empty, phenomena-vivid" is its deepening on the doctrinal side. **Non-concealment is the entry; simultaneity of hidden and manifest is the completion.**
 
 A practitioner who understands Huayan but not the Āgamas easily reads "the karmic obstruction is empty by nature" as "the karmic obstruction does not exist," and loses honesty. Concealment then returns in an even subtler form — concealment that uses "emptiness" as its alibi is harder to uproot than the original concealment. A practitioner who understands the Āgamas but not Huayan easily reads repentance as "there is a real sin waiting to be washed off," and falls into anxiety, repenting and repenting until the burden grows heavier.
 
@@ -186,7 +186,7 @@ Holding both at once — phenomenal honesty in seeing the offense as offense, an
 
 The chapter ends here.
 
-The Āgamas tell you the method: seeing the offense, disclosing it, guarding against recurrence — nine characters that are one complete operational sequence, capable of uprooting even patricide. The *Śūraṅgama* tells you the depth: what is disclosed when the fifty skandha-*māras* are exhausted is nothing other than the tathāgatagarbha you always had. Huayan tells you the grounds: what is disclosed is not newly made but originally thus — "takes non-arising as arising." You are not constructing a new self; you are recognizing again the self that never left.
+The Āgamas tell you the method: seeing the offense, disclosing it, guarding against recurrence — eight characters that are one complete operational sequence, capable of uprooting even patricide. The *Śūraṅgama* tells you the depth: what is disclosed when the fifty skandha-*māras* are exhausted is nothing other than the tathāgatagarbha you always had. Huayan tells you the grounds: what is disclosed is not newly made but originally thus — "takes non-arising as arising." You are not constructing a new self; you are recognizing again the self that never left.
 
 The three scriptures converge perfectly upon this single act of repenting karmic obstructions. This is the true weight, within the perfect teaching, of the fourth of Samantabhadra's ten great vows.
 

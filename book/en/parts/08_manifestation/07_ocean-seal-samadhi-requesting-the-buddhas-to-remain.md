@@ -14,23 +14,23 @@ This chapter answers that question. The answer, in a single sentence first: **re
 
 As regards Śākyamuni's physical body, petition is powerless before historical fact. Acknowledgment does not need historical fact to change.
 
-### The Āgama Negative: The Rain-Drenched Night at the Cāpāla Shrine
+### The Āgama Negative: The Three Silences at the Cāpāla Shrine
 
 To see this Huayan reversal clearly, we must first return to the āgamas—to a passage of scripture that has pained many readers.
 
 The *Sūtra of the Great Decease* in the *Dīrgha-āgama* records a pivotal scene before the Buddha's passing. At the Cāpāla shrine near Vaiśālī, the Buddha said the same thing three times to Ānanda:
 
-> Ānanda, whoever has cultivated the four bases of miraculous power, practiced them much, borne them in mind without forgetting, and set the will upon them—such a one may remain a kalpa or more. Ānanda, the Tathāgata has cultivated the four bases of miraculous power to the full, borne them in mind, set the will upon them: the Tathāgata is able to remain a kalpa or more, dispelling darkness for the world, bringing manifold benefit, giving peace to gods and humans.
+> Whoever has cultivated the four bases of miraculous power, practiced them much, borne them in mind without forgetting, and set the will upon them—such a one may live without dying for a kalpa or more. Ānanda, the Tathāgata has cultivated the four bases of miraculous power to the full, borne them in mind, set the will upon them: the Tathāgata is able to remain a kalpa or more, dispelling darkness for the world, bringing manifold benefit, giving peace to gods and humans.
 
 Notice the structure of these words. The Buddha tells Ānanda plainly—**if someone requests it, he can remain a kalpa or more**. He is not lamenting his own imminent passing; he is opening a door.
 
 The Buddha said this three times. **Three times Ānanda was silent.**
 
-After the third utterance, receiving no response, the World-Honored One rebuked Ānanda sternly: "Ānanda, go. Know that it is now the time." After Ānanda departed, Māra Pāpīyas came and requested the Buddha to enter *nirvāṇa*, and the Buddha consented. When Ānanda returned and again requested the Buddha to remain, the Buddha said:
+After the third utterance, receiving no response, the World-Honored One rebuked Ānanda sternly: "Know that it is now the time." After Ānanda departed, Māra Pāpīyas came and requested the Buddha to enter *nirvāṇa*, and the Buddha consented. When Ānanda returned and again requested the Buddha to remain, the Buddha said:
 
-> What has already been cast off, already discharged—there is no place for the Tathāgata to contradict his own word. It is like a householder who has spat food upon the ground: will he take it up and eat it again? … Ānanda, the fault is precisely yours.
+> I have already cast off my life—already rejected it, already spat it out—there is no place for the Tathāgata to contradict his own word. It is like a noble householder who has spat food upon the ground: would he ever be willing to take it up and eat it again?
 
-"Already cast off, already discharged." "The fault is precisely yours." The door of requesting once was missed, and never again could it be reached in time.
+"Already cast off, already discharged." "The fault is precisely yours" (this line follows Faxian's translation of the *Mahāparinirvāṇa-sūtra*, first fascicle; the *Sūtra of the Great Decease* does not have it). The door of requesting once was missed, and never again could it be reached in time.
 
 This is requesting-to-remain at the āgama level. It is a structural event-threshold—it can be requested, but the time is bounded; once missed, it is lost forever. This structure of the āgama is clear, severe, historical. It does not romanticize; it does not promise a second chance.
 
@@ -50,11 +50,11 @@ The Chapter on the Manifestation of the Tathāgata (T0279, fascicle 52) contains
 
 ⚠️ Read this line with care. It is all too easy to read it as subjective idealism—"the Buddha is only in my mind; outside there is no Buddha." That reading is wrong. The "own mind" of Huayan is not the "subjective mind" set against "external objects"; it is the **"dharma-realm mind" that exists before any subject-object opposition has even formed**. The "own" of "own mind" does not mean "mine privately"; it means "the dharma-realm's own self." The very next line of the scripture—"as with one's own mind, so too the minds of all sentient beings"—is precisely there to block this misreading: the sealing-function acts upon my mind and at the same time acts upon the minds of all sentient beings, because this "mind" is not private at all.
 
-The same chapter contains eight more characters that are the core anchor of this chapter:
+The same chapter contains fourteen more characters that are the core anchor of this chapter:
 
 > Bodhi universally seals all mental activities, and therefore it is called perfect awakening.
 
-These eight characters define "perfect awakening" directly as the very act of "universally sealing all mental activities." **Perfect awakening is not a state that has been attained; it is a sealing-function now in motion.**
+These fourteen characters define "perfect awakening" directly as the very act of "universally sealing all mental activities." **Perfect awakening is not a state that has been attained; it is a sealing-function now in motion.**
 
 "Universally" answers to the mutual containment of the myriad images—all mental activities, not one left out; "seals" answers to the precision with which the sealing-function necessarily appears as it acts upon every sentient being's every thought—a subtle correspondence, not one falling short of true. This is the scriptural origin-point of the profound gate this chapter answers to, the **gate of subtle inclusion and establishment**: *subtlety* is the precision of the universal-sealing function as it acts; *inclusion* is the non-obstruction of the myriad images appearing together; *establishment* is the stable self-standing of each one within that mutual inclusion.
 
@@ -62,7 +62,7 @@ The three operate at once, and perfect awakening is being sealed in this very mo
 
 ### The Ocean Seal Is Not a Passive Mirror-Image
 
-The first chapter of this book already cited the sixteen characters of Fazang's *Cessation of Delusion and Return to the Source*—"the original awakening of suchness; when delusion is exhausted and the mind clears, all the myriad images appear simultaneously." At that point the other face of the Ocean Seal had not yet been made explicit. This chapter supplies it: **the Ocean Seal is not a still mirror waiting for the myriad images to come and be reflected.**
+The first chapter of this book already cited the thirteen characters of Fazang's *Cessation of Delusion and Return to the Source*—"the original awakening of suchness; when delusion is exhausted and the mind clears, all the myriad images appear simultaneously." At that point the other face of the Ocean Seal had not yet been made explicit. This chapter supplies it: **the Ocean Seal is not a still mirror waiting for the myriad images to come and be reflected.**
 
 "As a mirror reflects objects" is a simile often used in later explanations of the Ocean Seal, but the simile has a structural weakness: a mirror is static, passive, waiting for objects to arrive. If the Ocean Seal were only this, then requesting the Buddhas to remain in the world would degrade into "asking the mirror to keep being there"—a reading at once powerless and mistaken.
 
@@ -71,7 +71,7 @@ The verses of the Chapter on the Manifestation of the Tathāgata make the dynami
 > Just as worlds undergo formation and destruction,
 > Yet empty space neither increases nor decreases;
 > All Buddhas emerge into the world,
-> And the mark of bodhi is likewise.
+> Bodhi is one mark, eternally markless.
 
 The Ocean Seal is not an unchanging mirror-surface; the Ocean Seal is **that dimension within the flux of formation and destruction which neither increases nor decreases**. It is not stillness; it is motion that neither increases nor decreases.
 
@@ -84,9 +84,9 @@ Another passage:
 
 The mental activities and faculty-desires of all sentient beings across the three times are infinite in number, and the Ocean Seal manifests a body to meet every one. The Ocean Seal **actively manifests itself**. Every mental activity of every sentient being is, in that very moment, answered by a corresponding bodily mark. "Manifest" here is a verb, not a noun.
 
-Fazang says it directly in his *Search into the Profundity of the Avataṃsaka*:
+In his *Search into the Profundity of the Avataṃsaka*, Fazang lists ten samādhi-gates, places "the gate of the perfectly bright Ocean Seal Samādhi" first, and explains why:
 
-> The gate of the perfectly bright Ocean Seal Samādhi: the root from which great functioning is creatively instituted.
+> Further, because it is **the root from which great functioning is creatively instituted**, the Ocean Seal is shown first; afterwards it is made clear that function is not other than essence, and so at the very end the non-obstruction of quiescence and function is set forth.
 
 The root from which great functioning is creatively instituted—the Ocean Seal is the foundation by which all great functioning can be set up, distinguished, and unfolded. It is not a mirror-image of the dharma-realm; it is the dharma-realm itself vibrating in this present moment.
 
@@ -96,7 +96,7 @@ What you are requesting is not a still mirror. What you are requesting is **this
 
 Now we can return to the sharp question that opened this chapter—if the Ocean Seal truly is the sealing-function manifesting moment by moment, then why did Śākyamuni Buddha enter *nirvāṇa*?
 
-The key to the answer lies in the sixth of the "ten meanings" by which Chengguan, in his *Commentary on the Avataṃsaka*, glosses the Ocean Seal: **three-time radiant manifestation**.
+The key to the answer lies in the ninth and tenth of the "ten meanings" by which Chengguan, in his *Commentary on the Avataṃsaka*, glosses the Ocean Seal—constant manifestation, "unlike a bright mirror, which has times of manifesting and not manifesting," and manifesting without facing, "because it does not wait to be faced, it manifests constantly, spanning the three times." This book gathers these two meanings under the heading **three-time radiant manifestation**; the name is not one of the ten original names and is the author's interpretation.
 
 Three-time radiant manifestation describes how the function of the Ocean Seal handles the structure of time. The Ocean Seal does not manifest only "the present"; the Ocean Seal manifests past, present, and future at once—but "at once" carries a special sense here: **not cramming the three times into one and the same present, but letting present, past, and future each keep their own positions while all being sealed together.**
 
@@ -110,7 +110,7 @@ Apply this structure to the question of the Cāpāla shrine and Kuśinagara:
 
 The āgama's "door of requesting" is a one-time, time-bounded event-threshold—the opportunity of a single historical moment. Huayan's "door of requesting" is raised, through the three-time radiant manifestation of the Ocean Seal, into a **structural door present in every thought-moment**.
 
-This reversal is not Huayan negating the āgama. The rain-drenched night at the Cāpāla shrine did occur; Ānanda was indeed silent three times; Śākyamuni did enter *nirvāṇa* at Kuśinagara—Huayan denies none of these facts. **Huayan only replaces these facts within the temporal structure of the Ocean Seal**, so that "the past Buddha entering *nirvāṇa*" and "the present Buddha remaining in the world" are sealed simultaneously within the Ocean Seal.
+This reversal is not Huayan negating the āgama. The scene at the Cāpāla shrine did occur; Ānanda was indeed silent three times; Śākyamuni did enter *nirvāṇa* at Kuśinagara—Huayan denies none of these facts. **Huayan only replaces these facts within the temporal structure of the Ocean Seal**, so that "the past Buddha entering *nirvāṇa*" and "the present Buddha remaining in the world" are sealed simultaneously within the Ocean Seal.
 
 ⚠️ One necessary correction. Acknowledgment does not cancel history. Huayan does not deny Śākyamuni Buddha's passing—he did pass away; his physical body is indeed no longer in this world. Huayan only says: this fact of "already passed away" and the structural fact that within one's own mind a Buddha is moment by moment attaining perfect awakening **are sealed at the same time within the Ocean Seal**. The two facts do not conflict—one is the historical layer, the other the structural layer. The acknowledgment of Vow Seven is an acknowledgment of the structural layer; it does not rewrite the historical layer.
 

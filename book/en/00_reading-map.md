@@ -231,7 +231,7 @@ This table is the correspondence map between the book and the 92 underlying pape
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
 | 8.1 | S8-P01 | The Ocean Seal Samādhi and the Saying of the Unsayable | 4,665 |
-| 8.2 | S8-P02 | The Place of Yogācāra in the Fivefold Doctrinal Classification—Between the Final Teaching and the Perfect Teaching, a Ladder or a Vessel? | 5,688 |
+| 8.2 | S8-P02 | The Place of Yogācāra in the Fivefold Doctrinal Classification—Between the Initial Teaching and the Perfect Teaching, a Ladder or a Vessel? | 5,688 |
 | 8.3 | S8-P03 | The Four Dharma-Realms—from Phenomena to the Unobstruction of Phenomenon and Phenomenon, a Perfect-Teaching Reading of Cultivating Offerings Widely | 4,675 |
 | 8.4 | S8-P04 | From "Covering" to Nature-Origination—Repenting Karmic Obstructions as the Entrance to the Practice-Gate of the Avataṃsaka Perfect Teaching | 6,192 |
 | 8.5 | S8-P05 | Rejoicing in Merit—Why a Single Thought of Rejoicing Is the Perfect Clarity of Host and Companion | 5,115 |

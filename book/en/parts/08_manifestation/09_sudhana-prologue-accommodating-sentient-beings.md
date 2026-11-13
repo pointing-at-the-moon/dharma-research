@@ -46,7 +46,7 @@ Meghaśrī holds an extremely important position in the Huayan school's doctrine
 
 Sudhana climbs Wondrous Peak to seek Meghaśrī, and **for seven days he does not see him**. On the eighth day, on a separate peak, he sees a bhikṣu walking slowly in meditative pacing. The seven days of climbing without finding are the final stretch of "faith"; the eighth-day vision of the bhikṣu in slow pacing is the in-the-moment establishment of "abode." This is not a metaphor—the phenomenon itself *is* the Dharma; nothing else is being signified.
 
-The dharma-gate Meghaśrī opens for Sudhana is called "the Gate of Universal Vision through the Light of Wisdom that Recollects the Realms of All Buddhas," and it unfolds in twenty-one sub-gates: the gate of buddha-recollection that universally illumines through the light of wisdom; that causes all sentient beings to recollect the buddhas; that abides in the Dharma; that abides through all kalpas; that abides in all lands; that abides in space … traversing the axis of time (abiding through all kalpas, through all times), the axis of space (abiding in all lands, in space), the axis of substance-and-function (cessation, supernatural transformation), and the axis of self-and-other (one's own karma, causing all sentient beings to recollect).
+The dharma-gate Meghaśrī opens for Sudhana is called "the Gate of Universal Vision through the Light of Wisdom that Recollects the Realms of All Buddhas"; he then lists, under "namely," the boundless wise and pure practice-gates of the great bodhisattvas that he professes himself unable to know—twenty-one gates in all: the gate of buddha-recollection that universally illumines through the light of wisdom; that causes all sentient beings to recollect the buddhas; that abides in the Dharma; that abides through all kalpas; that abides in all lands; that abides in space … traversing the axis of time (abiding through all kalpas, through all times), the axis of space (abiding in all lands, in space), the axis of substance-and-function (cessation, supernatural transformation), and the axis of self-and-other (one's own karma, causing all sentient beings to recollect).
 
 The dharma-realm-embracing sweep of these twenty-one gates can no longer be reduced to any single recitation method.
 
@@ -56,11 +56,11 @@ The forty-fascicle Avataṃsaka has a telling four-character addition in its nam
 
 ### "I Have Attained Only This" — the Four-Step Closing Structure
 
-Having listed the twenty-one gates, Meghaśrī goes on to say:
+Meghaśrī's closing words run as follows (the twenty-one gates are listed between "How could I know" and "How could I understand or speak"):
 
 > Good son! I have attained only this Gate of Universal Vision through the Light of Wisdom Recollecting the Realms of All Buddhas. How could I know the boundless wise and pure practice-gates of all the great bodhisattvas? … How could I understand or speak of their meritorious practice? Good son! **To the south is a country called Sāgaramukha, where there is a bhikṣu named Sāgaramegha. Go and inquire of him.**
 
-Meghaśrī lists his twenty-one gates of universal vision, yet he says he has "attained only this"—only this one dharma-gate. Then he hands Sudhana on to the next spiritual friend: Bhikṣu Sāgaramegha.
+The twenty-one gates Meghaśrī lists are the great bodhisattvas' gates, which he extols while professing himself unable to know them; he says he has "attained only this"—only this one dharma-gate. Then he hands Sudhana on to the next spiritual friend: Bhikṣu Sāgaramegha.
 
 **This structure is not one man's modesty.** Sudhana's first four spiritual friends—Meghaśrī, Sāgaramegha, Supratiṣṭhita, and Megha—all close with the same four-step structure. Set the four side by side, and the fact itself begins to speak:
 
@@ -91,7 +91,7 @@ This four-step structure leads directly to three layers of textual evidence for 
 
 **The second layer.** Sudhana's southward journey fulfills Samantabhadra's ninth vow on behalf of all the spiritual friends in the ten directions. For the ninth vow's "toward those afflicted by sickness, become a skilled physician" to land, there must be a sick person who walks up to one; for "for those who have lost their way, point out the right road" to land, there must be a lost traveler who comes asking the way. Sudhana, representing "all dharma-seeking sentient beings," visits the fifty-three spiritual friends in turn—which is to say he **fulfills each spiritual friend's vow of according with sentient beings on their behalf**. Without Sudhana coming to inquire, the spiritual friend's vow of according with sentient beings remains latent; with Sudhana coming to inquire, the vow turns into present activity. **The seeker is summoned by the vow-power, and at the same time comes to fulfill it.**
 
-**The third layer.** The "active referral" step of the four-step structure is the hard evidence for the two layers above. If the spiritual friend were merely a one-way teacher, the teaching would simply end when finished—there would be no reason he *must* refer to a next visit; and if the spiritual friend were a high and powerful transmitter of the Dharma, there would be still less reason for him to admit "I have attained only this." But the hard fact of the sūtra is this: every spiritual friend closes with the four-step "I have attained only this → the bodhisattvas are boundless → how could I speak of it → go inquire of the next one." This structure requires that the spiritual friend be **local, limited, and obligated to hand off**. Local, limited, obligated to hand off—this means precisely that the spiritual friend's "fulfillment" must depend on the student's continuing forward. **Sudhana's continuing southward journey is itself the fulfillment of the previous spiritual friend's identity as a spiritual friend.**
+**The third layer.** The "active referral" step of the four-step structure is the hard evidence for the two layers above. If the spiritual friend were merely a one-way teacher, the teaching would simply end when finished—there would be no reason he *must* refer to a next visit; and if the spiritual friend were a high and powerful transmitter of the Dharma, there would be still less reason for him to admit "I have attained only this." But the hard fact of the sūtra is this: apart from those whom Fazang's *Tanxuan ji*, fascicle 18, marks as "only the first one, and the last three, have neither a summing-up nor a deferral" (Mañjuśrī at the start; Maitreya, Mañjuśrī, and Samantabhadra at the end), the spiritual friends close with the four-step "I have attained only this → the bodhisattvas are boundless → how could I speak of it → go inquire of the next one." This structure requires that the spiritual friend be **local, limited, and obligated to hand off**. Local, limited, obligated to hand off—this means precisely that the spiritual friend's "fulfillment" must depend on the student's continuing forward. **Sudhana's continuing southward journey is itself the fulfillment of the previous spiritual friend's identity as a spiritual friend.**
 
 Return now to the closing four clauses of the ninth vow:
 
@@ -101,9 +101,9 @@ Return now to the closing four clauses of the ninth vow:
 
 ### The Gate of Revealing the Dharma through Phenomena: the Phenomenon Is the Dharma
 
-The profound gate this chapter corresponds to is called "the Gate of Revealing the Dharma through Reliance on Phenomena that Generates Understanding." Fazang, in fascicle 1 of the *Tanxuan ji*, gives the definition:
+The profound gate this chapter corresponds to is called "the Gate of Revealing the Dharma through Reliance on Phenomena that Generates Understanding." Fazang, in fascicle 1 of the *Tanxuan ji*, illustrates all ten profound gates through a single flower-leaf; the eighth reads:
 
-> As for the Gate of Revealing the Dharma through Reliance on Phenomena that Generates Understanding … it means: by relying on this phenomenon-aspect, that Dharma is immediately revealed. **It is not that, by relying on this, something else is being signified.**
+> Eighth: to see this flower-leaf is precisely to see the inexhaustible dharma-realm; **it is not that, by relying on this, something else is being signified.**
 
 "It is not that, by relying on this, something else is being signified"—this clause is the bright line that separates the gate of revealing-through-phenomena from any ordinary allegorical reading.
 
@@ -111,13 +111,13 @@ The profound gate this chapter corresponds to is called "the Gate of Revealing t
 
 **Positive formulation: the phenomenon is the present-moment presence of the Dharma.** The phenomenon of revealing-through-phenomena is not a bridge. The pyre is not an allegory of *prajñā*; **the pyre is the on-site self-disclosure of the non-discriminating wisdom of *prajñā***. There is no two-storey process of "first see the fire, then think of *prajñā*"—to see the pyre is to see *prajñā*, and the two are simultaneous. The whole weight of Fazang's clause "it is not that … something *else* is being signified" rests on that word "else": outside the phenomenon there is no "other" signified; **the phenomenon itself is the sole locus of what would be signified.**
 
-In fascicle 11 of the *Yanyi chao*, when Chengguan discusses this profound gate, he expressly cites Sudhana's twenty-seventh visit—the Brahmin Jayoṣmāyatana's pyre and sword-mountain—as his proof. Jayoṣmāyatana commands Sudhana to climb the sword-mountain and enter the pyre in order to certify the bodhisattva's practice. Sudhana wavers for a moment; only after the gods' urging does he climb and enter, whereupon he attains the bodhisattva samādhi of well-abiding.
+In fascicle 11 of the *Yanyi chao*, when Chengguan discusses this profound gate, he expressly cites Sudhana's ninth visit—the Brahmin Jayoṣmāyatana's pyre and sword-mountain—as his proof. Jayoṣmāyatana commands Sudhana to climb the sword-mountain and enter the pyre in order to certify the bodhisattva's practice. Sudhana wavers for a moment; only after the gods' urging does he climb and enter, whereupon he attains the bodhisattva samādhi of well-abiding.
 
 If the pyre were an allegory of *prajñā*, then Sudhana would only need to "think of" *prajñā* and would not have to truly climb the fire. But the phenomenon-structure of the sūtra is that **Sudhana must actually climb the fire in order to attain the samādhi**. The phenomenon is not a substitutable sign; the phenomenon is the Dharma's own present-moment locus.
 
 In fascicle 4 of the *Wujiao zhang*, Fazang has a doctrinal-classification formulation that puts this distinction most clearly:
 
-> The Three Vehicles rely on a different phenomenon-aspect to signify a different principle; in the One Vehicle, the phenomenon-aspect that is relied upon is the very principle that it manifests.
+> The Three Vehicles rely on a different phenomenon-aspect to signify a different principle; now, in this One Vehicle, the phenomenon-aspect that is relied upon is the very principle that it manifests.
 
 The hermeneutics of the Three Vehicles: phenomenon and principle stand in a two-storey relation (this and that, signifier and signified). The hermeneutics of the One Vehicle (the Huayan perfect-teaching): phenomenon and principle stand in a one-storey relation—the phenomenon *is* the principle.
 

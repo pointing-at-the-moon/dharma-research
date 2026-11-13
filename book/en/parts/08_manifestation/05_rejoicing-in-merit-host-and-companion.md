@@ -30,31 +30,31 @@ The *Cetanā-sūtra* of the *Madhyama-āgama* gives the most direct statement on
 
 "Performed with volition" means "performed with *cetanā*." Here the Buddha locks the very condition for karmic establishment onto a single Sanskrit word—*cetanā*, rendered into Chinese as "thought" or "volition," meaning will, decision, the active orientation of the inner mind. **Where there is volition, there is karma; where there is no volition, there is no karma.** A person who in sleep unconsciously kicks another has no volition, and no karma forms; a person who, awake and deliberately, kicks another has volition, and karma forms. The motion is the same; the quality of the karma is entirely different.
 
-Also in the *Madhyama-āgama*, the *Upāli-sūtra* records a debate. The Nirgrantha disciple Upāli (a common Indian name—this is not the same person as the Buddha's disciple, the Venerable Upāli) maintained that bodily punishment is the gravest. The Buddha replied plainly:
+Also in the *Madhyama-āgama*, the *Upāli-sūtra* records a debate. The Nirgrantha's disciples Dīrghatapasvin and the householder Upāli (a common Indian name—this is not the same person as the Buddha's disciple, the Venerable Upāli) in turn maintained that bodily punishment is the gravest; to Dīrghatapasvin the Buddha replied plainly:
 
-> Among these three karmas, which are similar in this respect, I designate mental karma as the gravest.
+> Tapasvin! Among these three karmas, which are similar in this respect, I designate mental karma as the gravest.
 
 Of the three karmas—bodily, verbal, mental—the Buddha alone judges **the mental as the gravest**. This is not an abstract ranking of values; it is a direct statement of karmic ontology: an outward act constitutes karma precisely because it carries an inner *cetanā*; remove the *cetanā*, and the act is merely physical motion, no karma at all.
 
 *Saṃyukta-āgama* 1288 carries this ontology further, into the scene of giving:
 
-> One who can give purely from little wealth, while another with great wealth cannot give. Giving practiced with a pure mind—such giving's reward is equal.
+> Supporting wife and children by the Dharma, giving with a pure mind from little wealth: the great assemblies of a hundred thousand sacrifices—whatever blessing and benefit they win, compared with the former, Dharma-accordant giving, does not reach one part in sixteen.
 
-Giving from little wealth with a pure mind, and giving from great wealth with a turbid mind, carry **equal merit**; indeed, little wealth with a pure mind even surpasses great wealth with a turbid mind. **Material quantity does not determine merit; the purity of mind determines merit.**
+Giving from little wealth with a pure mind, by one who supports a household by the Dharma, surpasses "the great assemblies of a hundred thousand sacrifices": whatever blessing those win, compared with Dharma-accordant giving, "does not reach one part in sixteen." **Material quantity does not determine merit; the purity of mind determines merit.**
 
 Taken together, these three passages give the Āgama ontology of karma: **the substance of karma is *cetanā*, not external form; the quality of mind determines the quality of karma, and material magnitude is irrelevant.**
 
 ### The Lay-Girl Muni: Neither Joy nor Giving Can Substitute for the Vow
 
-But if one were to infer from this that "merely feeling a moment of joy in the heart produces merit," the Buddha himself would object.
+But if one were to infer from this that "merely feeling a moment of joy in the heart produces merit," the Āgamas have their own measure to correct it.
 
 The *Ekottarika-āgama*, fascicle thirty-eight, records a crucial counter-case. The princess Muni hears that an elder bhikṣu is begging through the lanes for lamp-oil with which to make an offering to the Tathāgata Ratnagarbha, and at the mere hearing of the Buddha's name she is "filled with joyful exultation"—precisely the inner movement that the word "rejoicing" later names—and there and then gives him the whole of the sesame oil and lamp-wicks herself. Yet the elder bhikṣu who receives her gift and makes the vow receives the prediction of buddhahood, while she, having made no vow, does not. The Buddha then says:
 
 > If the elder bhikṣu does not make the vow, he will in the end not accomplish the buddha-path. The merit of vow-making cannot be calculated.
 
-In plain terms: **even when the gift is actually made**, joyful exultation, if not joined to vow-and-dedication, **does not accomplish the buddha-path**. The Buddha, in his own words, denies the reading "rejoicing alone is meritorious."
+In plain terms: **even when the gift is actually made** and there is joyful exultation, without the vow **one does not accomplish what one seeks**; and the elder bhikṣu too, had he made no vow, **would not accomplish the buddha-path**. The Buddha's verdict on one who keeps the fast but makes no vow is "though one obtains its merit, the merit is not worth speaking of"—there is merit, only not worth speaking of.
 
-This counter-case is decisive. Already at the Āgama level it distinguishes **true rejoicing** from **counterfeit rejoicing**: rejoicing in which *cetanā* genuinely arises and which is sealed by vow-and-dedication is true; joy that remains merely verbal or affective does not count.
+This counter-case is decisive. On this book's reading, already at the Āgama level it distinguishes **true rejoicing** from **counterfeit rejoicing**: rejoicing in which *cetanā* genuinely arises and which is sealed by vow-and-dedication is true; joy that remains merely verbal or affective, even if it has some merit, is merit "not worth speaking of."
 
 The Āgamas do not teach the simple proposition "rejoicing produces merit"; the Āgamas teach the ontology "the substance of karma is volition"—**and true rejoicing carries merit precisely because it falls within this ontology, not because it bypasses it**.
 
@@ -62,7 +62,7 @@ The structure of this section directly answers the first two questions raised at
 
 **The answer to the first question, "why should rejoicing carry merit"**: because the substance of merit is *cetanā*, not external form. The single thought of true rejoicing is the purest face of mental karma—*cetanā* genuinely resonating in the presence of another's wholesome act—and this thought lands directly upon the karmic ontology the Buddha himself defined, and lands upon the gravest of the three karmas, the mental.
 
-**The answer to the second question, "surely this is too easy"**: "easy" is the misreading of an ordinary person who looks only at outward form. True rejoicing is not easy. Joy without vow-and-dedication, without the genuine resonance of mental activity, is denied merit-status by the Buddha himself. This threshold is more interior than "the body performing a wholesome act," and harder to counterfeit—for its only witness is the practitioner's own mind in that very thought.
+**The answer to the second question, "surely this is too easy"**: "easy" is the misreading of an ordinary person who looks only at outward form. True rejoicing is not easy. Of joy without vow-and-dedication, without the genuine resonance of mental activity, the Buddha says "though one obtains its merit, the merit is not worth speaking of," and it never accomplishes the buddha-path. This threshold is more interior than "the body performing a wholesome act," and harder to counterfeit—for its only witness is the practitioner's own mind in that very thought.
 
 ### Huayan: The Gate of Host-and-Companion in Perfect Luminous Endowment
 
@@ -86,7 +86,7 @@ This absence of intermediation is precisely the scriptural origin of Huayan's "g
 
 Fazang, in his *Tànxuán jì* (Record of Searching Out the Profundities of the Avataṃsaka), defines this gate as follows:
 
-> Because in this perfect-teaching dharma-realm principle never arises in isolation, it must arise together with its retinue. … Hosts among hosts and companions among companions do not see each other, while host-turning-to-companion and companion-turning-to-host are perfect-luminous and complete in virtue.
+> In this perfect teaching, dharma-principle never arises in isolation; it must arise together with its retinue. … Hosts among hosts and companions among companions do not see each other, while host-turning-to-companion and companion-turning-to-host are perfect-luminous and complete in virtue.
 
 The definition has three layers, and must be unfolded in turn.
 
@@ -106,7 +106,7 @@ The single thought of rejoicing is exactly this "single dharma raised." In that 
 
 This is the literal realization, in rejoicing, of the four words "host and companion perfectly luminous."
 
-⚠️ A necessary correction here—from "consciousness-centered" to "dharma-realm-centered." In certain earlier classifications, one of the ten profound gates was called "the gate of mind-only reversal accomplishing goodness"—all things turn upon mind, and mind is the center. Fazang renamed this gate "the gate of host-and-companion in perfect luminous endowment," and his intent was this: there is no fixed center. Every dharma can be center, and every dharma can equally be retinue. Rejoicing is not "this heart of mine reaching out to embrace another" (a mind-only structure, in which mind remains the center); it is "the other and I being reciprocally host and companion within the dharma-realm" (a host-companion structure, with no fixed center). The former still smuggles in a self/other duality with its hierarchy of subordination; the latter dissolves that subordination root and branch.
+⚠️ A necessary correction here—from "consciousness-centered" to "dharma-realm-centered." In the old ten profound gates drawn up by Zhiyan and by Fazang in his early years, one gate was called "the gate of mind-only reversal accomplishing goodness"—all things turn upon mind, and mind is the center. Fazang renamed this gate "the gate of host-and-companion in perfect luminous endowment," and his intent was this: there is no fixed center. Every dharma can be center, and every dharma can equally be retinue. Rejoicing is not "this heart of mine reaching out to embrace another" (a mind-only structure, in which mind remains the center); it is "the other and I being reciprocally host and companion within the dharma-realm" (a host-companion structure, with no fixed center). The former still smuggles in a self/other duality with its hierarchy of subordination; the latter dissolves that subordination root and branch.
 
 Now the third question, raised at the opening, can be answered.
 

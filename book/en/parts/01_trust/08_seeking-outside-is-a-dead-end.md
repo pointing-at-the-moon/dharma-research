@@ -66,15 +66,15 @@ The Buddha spoke of it very directly. The *Saṃyuktāgama* contains a line that
 
 The mind runs outward by default—this is the ordinary person's preset state. The first step of practice is not to pursue some lofty realization, but to **pull that outward-running mind back in**.
 
-And what was the Buddha's final teaching to his disciples before he entered parinirvāṇa? Not any profound doctrine, but these few words:
+And what teaching did the Buddha leave his disciples in his last years, before he announced that he would enter parinirvāṇa three months later? Not any profound doctrine, but these few words:
 
 > Be your own lamp; take the Dharma as your lamp; do not rely on another. Take refuge in yourself; take refuge in the Dharma; do not take refuge in another.
 
-Be your own lamp, rely on yourself, rely on the Dharma, do not rely on anything else. The Buddha, at eighty, after more than forty years of teaching the Dharma, left behind these few lines.
+Be your own lamp, rely on yourself, rely on the Dharma, do not rely on anything else. The Buddha, at eighty, after more than forty years of teaching the Dharma, left these few lines to his disciples in his last years.
 
-From the Āgama's "be your own island, your own refuge," to the Avataṃsaka's "seek liberation within the afflictions, not from outside," to the Sixth Patriarch's "bodhi is sought only within the mind; why labor to seek the profound outside," to Linji's most precise diagnosis of all—
+From the Āgama's "be your own island, your own refuge," to the Kāśyapa Chapter as cited by Nāgārjuna in the *Daśabhūmika-vibhāṣā*, "seek liberation within the afflictions, not from outside," to the Sixth Patriarch's "bodhi is sought only within the mind; why labor to seek the profound outside," to Linji's most precise diagnosis of all—
 
-> The sickness lies in lack of self-trust. Because you do not trust yourself enough, you rush outward seeking.
+> The sickness lies in lack of self-trust. When self-trust falls short, one goes rushing after every circumstance.… Because students do not trust enough, they rush outward seeking.
 
 Twenty-five hundred years, a single unbroken thread, all saying the same thing. Linji dug the root right out: **the reason people keep seeking outside is, at bottom, that they do not believe they are already complete.** Not believing, they search desperately outside; and whatever they bring back cannot resolve that "not believing," so they keep searching. This is the engine of saṃsāra.
 

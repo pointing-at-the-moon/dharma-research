@@ -103,7 +103,7 @@ So: **carried to the extreme inward is completed outward; carried to the extreme
 
 Fazang, commenting in his *Record of Investigations into the Mysteries* on the "gate of defilement-and-purity" of the Nature-Arising Chapter, has a passage of decisive importance:
 
-> Sentient beings and their afflictions are all nature-arising. Why? Because they are what is to be saved, what is to be cut off, what is to be known.
+> Are sentient beings and their afflictions all nature-arising? Answer: They all are. Why? Because they are what is to be saved, what is to be cut off, what is to be known.
 
 To be saved is gathering-in, to be cut off is cutting, to be known is analysis. The three belong together to nature-arising—not three actions set side by side, but three facets of the same nature-arising structure. S3 is the complete demonstration of the "known" layer (the hundred dharmas are a hundred in order to be known down to the finest detail); S7 is the complete demonstration of the "saved" layer (the one buddha-vehicle is one in order to save in the widest extent). In Fazang's classification, both are gathered into nature-arising and cannot be separated.
 
@@ -117,13 +117,13 @@ But the very structure of the *Śūraṅgama Sūtra* is a demonstration of "inqu
 
 The seven places searched for the mind: the Buddha asks Ānanda "where is the mind?", and Ānanda answers seven times (the mind is inside the body, outside the body, hidden in the faculty, in the opening and closing, arising wherever there is conjunction, in the middle, nowhere at all), and the Buddha refutes each in turn. Every "inquiry" points toward a deeper "illumination," until, after the seventh, Ānanda discovers—the so-called "mind" is in none of the positions he is able to answer. That moment of "nowhere to answer" is exactly the starting point of "illumination."
 
-The central argument of the *Śūraṅgama*, the "twenty-five perfect penetrations," is structurally also twenty-five demonstrations of "inquiry → illumination"—each of twenty-five bodhisattvas starts from one sense-base (eye, ear, nose, tongue, body, mind; or form, sound, smell, taste, touch, dharma), interrogates the essence of that base, and at the limit of the interrogation turns back to recognize the self-nature. The most famous line of Avalokiteśvara's ear-base perfect penetration is:
+The central argument of the *Śūraṅgama*, the "twenty-five perfect penetrations," is structurally also twenty-five demonstrations of "inquiry → illumination"—each of the twenty-five great bodhisattvas and arhats beyond training starts from one gate (one of the six sense-bases, six sense-objects, six consciousnesses, and seven elements), interrogates the essence of that gate, and at the limit of the interrogation turns back to recognize the self-nature. The most famous line on Avalokiteśvara's ear-base perfect penetration comes from Mañjuśrī's verse selecting among the perfect penetrations:
 
 > Turning the hearing to hear the self-nature; the nature becomes the supreme Way.
 
 To turn the hearing is not to hear a fainter sound; it is to let **the structure of hearing itself speak**. When "the inquirer, the inquired, and the act of inquiry" are all placed within the question mark, the structure of inquiry collapses into illumination. Structurally, this line says exactly: **when inquiry returns to inquiry itself, it is illumination**.
 
-This is precisely the boundary that S4 keeps striking against in its handling of AI—AI pushes us to a place where "what is inquiry" and "who is the inquirer" return at the same time to the inquirer herself. Every discussion in S4 stops somewhere, and the place where it stops is "language reaches to here and no further"; this posture of stopping, and the word "look" when, in fascicle 2 of the *Śūraṅgama*, the Buddha says to Ānanda "look now upon this assembly," are the same action in two epochs.
+This is precisely the boundary that S4 keeps striking against in its handling of AI—AI pushes us to a place where "what is inquiry" and "who is the inquirer" return at the same time to the inquirer herself. Every discussion in S4 stops somewhere, and the place where it stops is "language reaches to here and no further"; this posture of stopping, and the word "look" when, in fascicle 2 of the *Śūraṅgama*, the Buddha says to Ānanda "let you and me now look at the palaces where the Four Heavenly Kings dwell," are the same action in two epochs.
 
 Inquiry and illumination were, in the context of Han-Chinese Buddhism, originally of a single source. The "illumination" of the *Śūraṅgama* is not the "silent illumination" of later Chan; it is a **seeing that carries a question with it**. Inquiry is the unconsummated form of illumination; illumination is the inquiry in which no question remains. The inquiries of S4 all became, in the end, illuminations of the S6 kind; the illuminations of S6 all began as inquiries of the S4 kind.
 
@@ -152,13 +152,13 @@ Now this chapter has one thing to do—to set down, formally, the last stroke of
 
 But before that marking, an ancient thread must first be connected. For the fact that "the discussion stops somewhere" is not the invention of this book, of the Huayan school, or of Han-Chinese Buddhism. In the oldest Āgama sutras, the Buddha himself had already drawn this line.
 
-The *Madhyama-āgama*'s *Sūtra on Omniscience* records a dialogue between the Buddha and King Pasenadi of Kosala. Pasenadi, trusting a rumor, had come to believe the Buddha claimed to be "one who knows all and sees all," and sought the Buddha's confirmation. The Buddha's answer came in two steps:
+The *Madhyama-āgama*'s *Sūtra on Omniscience* records a dialogue between the Buddha and King Pasenadi of Kosala. Pasenadi, trusting a rumor, had come to believe that the Buddha had said, "There has not been, there will not be, and there is not now, any other recluse or brahmin who knows all and sees all," and sought the Buddha's confirmation. The Buddha's answer came in two steps:
 
-First, the Buddha expressly denied ever having said "I know all and see all";
+First, the Buddha expressly denied ever having made the statement "any other recluse or brahmin who knows all and sees all"—"Great King! I do not recall having said any such thing";
 
 Second, the Buddha acknowledged having said something else: "There has not been, there will not be, and there is not now, any other recluse or brahmin who **knows all at one time, sees all at one time**"—this is impossible.
 
-Set the two statements side by side, and the Buddha's position is exceedingly clear: **he does not deny being "omniscient" (in principle capable of knowing all); what he denies is "knowing all in a single moment"—all knowledge made manifest at once in any single instant**. The completeness of omniscience is disclosed through time, through dependent arising, through what is asked; it is not a static totality already fully unfolded.
+Set the two statements side by side, and the Buddha's position is exceedingly clear: **he does not deny being "omniscient" (in principle capable of knowing all); what he denies is "knowing all in a single moment"—all knowledge made manifest at once in any single instant** (this is the author's interpretation). The completeness of omniscience is disclosed through time, through dependent arising, through what is asked; it is not a static totality already fully unfolded.
 
 This passage is the ancient-stratum legitimacy for the closing of this book's academic-treatise layer. The thirty-some chapters of the eight movements do not add up to "all of the Dharma," do not constitute a closed, omniscient system. For even the Buddha himself never said "knowing all at one time." The boundaries, failure-points, and unfinished places of Pointing-at-the-Moon are not the writer's incapacity; they are a faithfulness to the Āgama-stratum principle that "omniscient does not equal omniscient in a single moment." The closing of the pen carries no obligation to "finish saying everything"—because "finishing" was never, from the beginning, the Buddha's way of describing his own omniscience.
 

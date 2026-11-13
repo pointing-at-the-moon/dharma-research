@@ -16,19 +16,19 @@ The map he left behind is called the **thirty-seven factors of awakening**.
 
 If you had only three months left to live, you would say the most important things to the people closest to you.
 
-Three months before his parinirvāṇa, the Buddha gave his disciples one last complete instruction. He did not discourse on the subtleties of emptiness. He did not paint a grand cosmology. He did not prophesy the world to come. He taught the thirty-seven factors of awakening, from first to last, all seven categories, not one omitted:
+Three months before his parinirvāṇa, as he announced his passing, the Buddha gave his disciples a complete instruction. He did not discourse on the subtleties of emptiness. He did not paint a grand cosmology. He did not prophesy the world to come. He taught the thirty-seven factors of awakening, from first to last, all seven categories, not one omitted:
 
 > The thirty-seven factors of the path—namely the four foundations of mindfulness, the four right efforts, the four bases of spiritual power, the five faculties, the five powers, the seven factors of awakening, and the noble eightfold path—you should diligently practise and reflect upon them, for this Dharma can lead you to the place of liberation.
 
 Then he added a single line: "All conditioned phenomena are impermanent. Life is as precarious as a flash of lightning. You must not be negligent."
 
-A person's final words are the distillation of a lifetime. The Buddha chose to make the thirty-seven factors his last message to the world. That was no accident. This was what he regarded as **the methodology most worth leaving behind**.
+A person's final words are the distillation of a lifetime. In announcing his passing, the Buddha chose to make the thirty-seven factors his instruction to his disciples. That was no accident. This was what he regarded as **the methodology most worth leaving behind**.
 
 ### One Verse Contains All—37 Is Not 37 Separate Things
 
 The reader's first reaction is usually: 37 steps? Isn't that too many?
 
-Ānanda asked this on the reader's behalf too. Mahākāśyapa challenged him: "You say the *Ekottara Āgama* gives rise to all thirty-seven factors. How is that possible?" Ānanda's reply was striking:
+Mahākāśyapa asked this on the reader's behalf too. He challenged Ānanda: "You say the *Ekottara Āgama* gives rise to all thirty-seven factors. How is that possible?" Ānanda's reply was striking:
 
 > Within a single verse, all thirty-seven factors and all dharmas are born.
 
@@ -56,7 +56,7 @@ Take the thirty-seven factors apart, and the structure is perfectly clear:
 
 This sequence cannot be skipped. Without observation, action is blind flailing; without action, stabilization is empty talk; without stabilization, the roots cannot sink in; without deep enough roots, no strength comes out; if strength cannot turn into awakening, you are still merely straining; if awakening cannot be integrated into life, it is still merely an experience. Not one stage can be missed.
 
-In the Tang dynasty, Kuiji pointed out in his *Abbreviated Commentary on the Yogācārabhūmi-śāstra* that the four foundations of mindfulness through the four bases of spiritual power form the "path of accumulation" (the preparatory phase); the five faculties and five powers form the "path of application" (the turning phase); the seven factors of awakening form the "path of seeing" (the phase of qualitative change); and the noble eightfold path forms the "path of cultivation" (the phase of integration). The first three categories are still "straining"; from the fourth, roots begin to grow; from the sixth, things become "natural." **What comes before and what comes after are not the same kind of effort—it is a qualitative phase change.**
+The *Abhidharmasamuccaya-vyākhyā* (fasc. 10) assigns path-roles according to the sequence of the factors of awakening; following its alignment, this book groups them into four paths (this is the author's interpretation): the four foundations of mindfulness through the four bases of spiritual power form the "path of accumulation" (the preparatory phase); the five faculties and five powers form the "path of application" (the turning phase); the seven factors of awakening form the "path of seeing" (the phase of qualitative change); and the noble eightfold path forms the "path of cultivation" (the phase of integration). The first three categories are still "straining"; from the fourth, roots begin to grow; from the sixth, things become "natural." **What comes before and what comes after are not the same kind of effort—it is a qualitative phase change.**
 
 ### The Dual-Layer Thesis—One Method, Two Engineering Projects
 
@@ -68,9 +68,9 @@ But the very same seven categories can be taken, unchanged, and used for **world
 
 Why is this possible? Because what these seven categories capture is the universal structure of the very act of **changing yourself**. Whether what you are changing is craving, aversion, and delusion, or the habit of eating snacks, any responsible change must first observe (four foundations of mindfulness: what is the situation now?), then act (four right efforts: stop what is wrong, do what is right), then stabilize (four bases of spiritual power: let the new habit persist without leaning on willpower), then root (five faculties: this becomes part of who you are), then strengthen (five powers: adversity no longer knocks you back to where you started), then awaken (seven factors of awakening: you see how you have been driven by your old patterns), and finally integrate (noble eightfold path: your whole way of life realigns around this direction).
 
-In the Tang dynasty, Daoxuan made a precise judgement in his *Commentary on the Four-Part Vinaya*:
+In the Song dynasty, Yuanzhao made a precise judgement in his *Sifen Lü Xingshi Chao Zichi Ji*:
 
-> The thirty-seven factors—though the scale of the greater and lesser vehicles differs, the logic of practice is the same.
+> The thirty-seven factors of awakening and the myriad practices of the six perfections are the causes of the three vehicles, that is, supramundane cause and effect. Though the greater and lesser differ, the logic of practice is the same.
 
 The greater and lesser vehicles walk different roads, but the structure of this method's own "logic of practice" is the same one. The mind is the same mind, the mechanism of change is the same mechanism—only the aim differs, the depth differs, the level differs.
 
