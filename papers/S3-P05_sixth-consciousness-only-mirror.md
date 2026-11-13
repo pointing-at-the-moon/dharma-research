@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P05"
 paper_number: 5
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Sixth Consciousness: The Only Mind That Can Look in the Mirror
@@ -50,7 +50,7 @@ Three verses, three layers: the first describes its nature — what it is and wh
 
 Among the eight consciousnesses, why is only the sixth the subject of spiritual practice?
 
-The answer lies in a simple observation: you can become aware that "I am angry right now." This seems unremarkable, but within the architecture of the eight consciousnesses, it is a unique capacity. The ālaya-vijñāna stores all seeds but does not know it is storing. Manas ceaselessly grasps the seen-component (darśana-bhāga) of the ālaya-vijñāna as "self," but does not know it is grasping — as S3-P04 demonstrated, manas operates through "spontaneous arising, not through deliberate (conceptual) grasping of self and dharmas."[^5] The first five consciousnesses receive form, sound, scent, taste, and tangible objects, but they cannot reflexively observe "it is I who am seeing" — the first five "only discern their own objects" and "discern only a single moment."[^6]
+The answer lies in a simple observation: you can become aware that "I am angry right now." This seems unremarkable, but within the architecture of the eight consciousnesses, it is a unique capacity. The ālaya-vijñāna stores all seeds but does not know it is storing. Manas ceaselessly grasps the seen-component (darśana-bhāga) of the ālaya-vijñāna as "self," but does not know it is grasping — as S3-P04 demonstrated, manas operates through "spontaneous arising, not through deliberate [i.e., conceptual] grasping of self and dharmas."[^5] The first five consciousnesses receive form, sound, scent, taste, and tangible objects, but they cannot reflexively observe "it is I who am seeing" — the first five "only discern their own objects" and "discern only a single moment."[^6]
 
 Only the sixth consciousness can "turn around and look at itself" — it can discriminate, deliberate, and judge its own mental activities. This "looking in the mirror" capacity is the gateway to all practice. The precise Yogācāra positioning of S1-P06's "awareness as turning point" (覺察即轉向) is located here: awareness is a function of the sixth consciousness; turning is a choice made by the sixth consciousness.
 
@@ -84,7 +84,7 @@ Here, the "mental sense-base" (意入處, the mental faculty) and the "dharma se
 
 From the conjunction of mental faculty and dharma-objects to the arising of mental consciousness, to contact, feeling, and craving — this is the complete unfolding of dependent origination at the sixth consciousness.
 
-More critically, the Buddha rendered a definitive judgment on the primacy of mental karma. The *Ekottara Āgama* (增一阿含經) records a debate between the Nigaṇṭha sect and the Buddha on the relative weight of the three kinds of karma:
+More critically, the Buddha rendered a definitive judgment on the primacy of mental karma. The *Ekottara Āgama* (增一阿含經) records King Prasenajit (波斯匿王) asking the Buddha which of the three kinds of action is the weightiest:
 
 > "Among these three kinds of action, mental action is the weightiest; bodily and verbal action are scarcely worth mentioning."[^9]
 
@@ -128,7 +128,7 @@ The definition of "discrimination" is precise:
 
 Discrimination is the act of labeling things with verbal concepts — perceiving a creature, affixing the label "horse," and deciding "this is a horse and nothing else." This is the precise sūtra-level source for what Yogācāra terms "conceptual discrimination" (abhinirūpaṇā-vikalpa). The direction of practice is from discrimination to right wisdom:
 
-> "Right wisdom means observing that names and appearances are each other's guests, that the discriminating mind neither arises nor ceases, neither permanent nor impermanent, not falling into the positions of non-Buddhists or the Two Vehicles. This is called right wisdom. When the bodhisattva-mahāsattva, through right wisdom, observes names and appearances as neither existent nor non-existent, far from the harmful views of both extremes — when names, appearances, and consciousness fundamentally do not arise — I call this dharma suchness (tathatā)."[^18]
+> "Right wisdom means observing that names and appearances are each other's guests, that the discriminating mind neither arises nor ceases, neither permanent nor impermanent, not falling into the positions of non-Buddhists or the Two Vehicles. This is called right wisdom. Mahāmati! When the bodhisattva-mahāsattva, through right wisdom, observes names and appearances as neither existent nor non-existent, far from the harmful views of both extremes — when names, appearances, and consciousness fundamentally do not arise — I call this dharma suchness (tathatā)."[^18]
 
 Right wisdom — observing that name and appearance are "each other's guests" (neither is the other's essence), the discriminating mind no longer arising in delusion — this is the journey from "discrimination" to "right wisdom." When name, appearance, and consciousness "fundamentally do not arise," this is suchness — the perfected nature (pariniṣpanna-svabhāva).
 
@@ -249,7 +249,7 @@ The *Supplementary Annotations* explicitly states that the first five consciousn
 
 Consciousness is not a single mental state. The *Supplementary Annotations* classifies five modes:
 
-> "The sixth consciousness has five kinds: (1) the independent consciousness in meditative absorption, which cognizes meditative objects; (2) the independent scattered consciousness, cognizing form derived from reception and conceptually constructed dharma-realm forms; (3) the independent dream consciousness, cognizing dream-objects; (4) clear-and-distinct consciousness, co-cognizing the five sense-objects together with the five consciousnesses; (5) disordered consciousness — scattered consciousness that arises chaotically among the five sense-faculties, as when a fever patient sees blue as yellow."[^41]
+> "The sixth consciousness has five kinds: (1) the independent consciousness in meditative absorption, which cognizes meditative objects ... (2) the independent scattered consciousness, cognizing form derived from reception and conceptually constructed dharma-realm forms ... (3) the independent dream consciousness, cognizing dream-objects; (4) clear-and-distinct consciousness, co-cognizing the five sense-objects together with the five consciousnesses; (5) disordered consciousness — scattered consciousness that arises chaotically among the five sense-faculties, as when a fever patient sees blue as yellow."[^41]
 
 **Clear-and-distinct consciousness** (五俱意識) arises simultaneously with the five sensory consciousnesses, co-cognizing their objects. The *Cheng Weishi Lun* demonstrates its necessity: "If one does not permit the mental to be concomitant with the five, their apprehension of objects would lack clarity."[^44] It "assists the five in arising" and "apprehends with clarity"; hence the sacred teaching designates consciousness as "possessing discrimination" while the five consciousnesses are not so designated.[^45] It pervades three modes — "direct perception predominates; inference and non-veridical are minor."[^46]
 
@@ -295,7 +295,7 @@ The annotation's judgment is precise: "The sixth can create karma and receive it
 
 ### 3.7 Deliberative but Not Constant: The Existential Structure of the Five Interruptions
 
-Among the eight consciousnesses is the important "fourfold distinction of constancy and deliberation": "First, constant but not deliberative — the eighth consciousness. Second, deliberative but not constant — the sixth consciousness. Third, both constant and deliberative — the seventh consciousness. Fourth, neither constant nor deliberative — the first five consciousnesses."[^56]
+Among the eight consciousnesses is the important "fourfold distinction of constancy and deliberation": "First, constant but not deliberative — the eighth consciousness, because it does not grasp a self and is without interruption. Second, deliberative but not constant — the sixth consciousness, because it grasps a self but is interrupted. Third, both constant and deliberative — the seventh consciousness, because it grasps a self without interruption. Fourth, neither constant nor deliberative — the first five consciousnesses, because they do not grasp a self."[^56]
 
 The sixth consciousness is "deliberative but not constant" — it possesses the capacity for deliberation and judgment ("deliberative"), but is subject to interruption ("not constant"). The five states of interruption are:
 
@@ -327,7 +327,7 @@ The practice sequence: from the first through the fourth ground, innate afflicti
 
 "This consciousness, before the seventh ground, generates the outflow and non-outflow in alternation ... After this ground, it is purely non-outflow, because the innate obstructions of both types permanently cease to manifest, and it constantly abides in the gate of contemplation."[^71]
 
-The seventh ground (dūraṅgamā) is the decisive turning point — before it, contaminated and uncontaminated consciousness alternate; after it, consciousness is purely uncontaminated. At the eighth ground (acalā), "non-discriminating wisdom spontaneously continues without interruption; appearance-aspect and function-aspect afflictions cannot move it."[^72] The *Cheng Weishi Lun* states: "Before the seventh ground, outflow and non-outflow operate together; from the eighth ground onward, active manifestation is exclusively non-outflow."[^73]
+The seventh ground (dūraṅgamā) is the decisive turning point — before it, contaminated and uncontaminated consciousness alternate; after it, consciousness is purely uncontaminated. At the eighth ground (acalā), "non-discriminating wisdom spontaneously continues without interruption; appearance-aspect and function-aspect afflictions cannot move it."[^72] The *Cheng Weishi Lun* rules on the seeds and manifestations of the ten perfections: "In the stage of cultivation, up to the seventh ground, both seeds and manifestations are outflow and non-outflow; from the eighth ground onward, seeds are of both kinds, while manifestations are exclusively non-outflow."[^73]
 
 #### 3.8.4 Contemplation Wisdom, Perfectly Luminous, Illuminates the Great Chiliocosm
 
@@ -407,7 +407,7 @@ All parallels in §IV are strictly marked as heuristic. Metacognition research c
 
 The sixth consciousness is the primary battlefield of practice among the eight consciousnesses — the most functionally expansive, the widest in moral range, the strongest in karmic power, and the only one capable of reflexive self-illumination.
 
-Viewed across the full scope of the sūtras: the Āgamas established the original teaching that "mind is the forerunner" and "mental action is the weightiest"[^9][^10]; the *Saṃdhinirmocana Sūtra* revealed the secret skill that consciousness depends on the ālaya for arising and that śamatha-vipaśyanā practice takes consciousness as its vehicle[^12][^14]; the *Laṅkāvatāra Sūtra*, through the five dharmas and three self-natures, mapped the practice trajectory from "discrimination" to "right wisdom" to "suchness"[^17][^18]; the *Avataṃsaka Sūtra*, through "mind is like a master painter, there is no dharma it does not create,"[^21] proclaimed the constructive power of consciousness; the *Śūraṅgama Sūtra*, through "the mental sense-base is unreal,"[^23] exposed the empty nature of consciousness; the Heart Sūtra, through "no mind ... no dharma ... no mental-consciousness-element,"[^26] transcended all reified grasping at the twelve sense-bases.
+Viewed across the full scope of the sūtras: the Āgamas established the original teaching that "mind is the forerunner" and "mental action is the weightiest"[^9][^10]; the *Saṃdhinirmocana Sūtra* revealed the secret skill that consciousness depends on the ālaya for arising and that śamatha-vipaśyanā practice takes consciousness as its vehicle[^12][^14]; the *Laṅkāvatāra Sūtra*, through the five dharmas and three self-natures, mapped the practice trajectory from "discrimination" to "right wisdom" to "suchness"[^17][^18]; the *Avataṃsaka Sūtra*, through "mind is like a master painter ... there is no dharma it does not create,"[^21] proclaimed the constructive power of consciousness; the *Śūraṅgama Sūtra*, through "the mental sense-base is unreal,"[^23] exposed the empty nature of consciousness; the Heart Sūtra, through "no mind ... no dharma ... no mental-consciousness-element,"[^26] transcended all reified grasping at the twelve sense-bases.
 
 Viewed through the precise analysis of the Yogācāra treatises: consciousness "discerns objects as its nature and characteristic," pervading three natures, three modes, and three objects; it associates with all fifty-one mental factors, separately configured at each moment; it possesses three kinds of volition, "in activating body and speech alone supreme"; it transforms from the Joyful Ground through to contemplation wisdom perfectly illuminating the great chiliocosm.
 
@@ -456,7 +456,7 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 | 4 | Madhyama Āgama 中阿含經 | T1 | 26 | 58 |
 | 5 | Avataṃsaka Sūtra (80-fasc.) 華嚴經 | T10 | 279 | 19 |
 | 6 | Avataṃsaka Sūtra (60-fasc.) 華嚴經 | T9 | 278 | 10 |
-| 7 | Laṅkāvatāra Sūtra 入楞伽經 | T16 | 672 | 2, 5 |
+| 7 | Laṅkāvatāra Sūtra 大乘入楞伽經 | T16 | 672 | 2, 5 |
 | 8 | Śūraṅgama Sūtra 楞嚴經 | T19 | 945 | 1, 3, 4 |
 | 9 | Heart Sūtra 般若心經 | T8 | 251 | 1 |
 | 10 | Vimalakīrti Sūtra 維摩詰經 | T14 | 475 | 1 |
@@ -495,7 +495,7 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 [^2]: *Bāshí guījǔ bǔzhù*, fasc. 1, first verse on the sixth consciousness. *Taishō* vol. 45, No. 1865.
 [^3]: *Bāshí guījǔ bǔzhù*, fasc. 1, second verse on the sixth consciousness. *Taishō* vol. 45, No. 1865.
 [^4]: *Bāshí guījǔ bǔzhù*, fasc. 1, third verse on the sixth consciousness. *Taishō* vol. 45, No. 1865.
-[^5]: *Bāshí guījǔ bǔzhù*, fasc. 1, annotation on the seventh consciousness: "Not through deliberate grasping of self and dharmas — because it does not arise through forceful conceptual discrimination." *Taishō* vol. 45, No. 1865.
+[^5]: *Bāshí guījǔ bǔzhù*, fasc. 2, annotation on the seventh consciousness: "Not through deliberate grasping of self and dharmas — because it does not arise through forceful conceptual discrimination." *Taishō* vol. 45, No. 1865.
 [^6]: *Yogācārabhūmi*, fasc. 1, section on the five-consciousness ground: "Only discerning their own objects ... only discerning the present, only momentary discernment." *Taishō* vol. 30, No. 1579.
 [^7]: *Saṃyukta Āgama*, fasc. 13, Sūtra 304 (Six-Sets Sūtra): the six internal sense-bases, six external sense-bases, six consciousness-bodies. *Taishō* vol. 2, No. 99.
 [^8]: *Saṃyukta Āgama*, fasc. 3, Sūtra 68: "Conditioned by the mental faculty and dharma-objects, mental consciousness arises; the conjunction of these three produces contact." *Taishō* vol. 2, No. 99.
@@ -504,7 +504,7 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 [^11]: *Madhyama Āgama*, fasc. 58: "The five faculties differ in their actions and domains, each receiving its own domain ... but the mental faculty receives all their domains; the mental faculty is their support." *Taishō* vol. 1, No. 26.
 [^12]: *Saṃdhinirmocana Sūtra*, fasc. 1, chapter on mind-mentation-consciousness: "The ādāna consciousness serves as the support and foundation for the arising of the six consciousness-bodies." *Taishō* vol. 16, No. 676.
 [^13]: *Saṃdhinirmocana Sūtra*, fasc. 1, chapter on mind-mentation-consciousness: "Like a great torrent of water — when the conditions for one wave are present, one wave arises." *Taishō* vol. 16, No. 676.
-[^14]: *Saṃdhinirmocana Sūtra*, fasc. 3, chapter on yoga of discernment: "Four types of meditative objects." *Taishō* vol. 16, No. 676.
+[^14]: *Saṃdhinirmocana Sūtra*, fasc. 3, chapter on yoga of discernment: "Four kinds of objects: first, the object with discrimination-bearing images; second, the object with non-discriminating images; third, the object at the limit of things; fourth, the object of the accomplishment of what is to be done." *Taishō* vol. 16, No. 676.
 [^15]: *Saṃdhinirmocana Sūtra*, fasc. 3: "Because those images are nothing but consciousness. What I call the object of consciousness is only a manifestation of consciousness." *Taishō* vol. 16, No. 676.
 [^16]: *Saṃdhinirmocana Sūtra*, fasc. 3: "Penetrating the images encountered in samādhi as being nothing but consciousness; or, having penetrated this, further contemplating suchness." *Taishō* vol. 16, No. 676.
 [^17]: *Laṅkāvatāra Sūtra* (Śikṣānanda trans.), fasc. 5: "The five dharmas, self-natures, consciousnesses, and selflessness — namely: name, appearance, discrimination, right wisdom, suchness." *Taishō* vol. 16, No. 672.
@@ -532,8 +532,8 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 [^39]: *Cheng Weishi Lun*, fasc. 5: "Though all six consciousness-bodies turn in dependence on mentation, following its unique [faculty], it is named mental consciousness." *Taishō* vol. 31, No. 1585.
 [^40]: *Abhidharmasamuccaya-vyākhyā*, fasc. 1: "Forms included in the dharma-realm are briefly of five kinds." *Taishō* vol. 31, No. 1606.
 [^41]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The sixth consciousness has five kinds," section on the five modes. *Taishō* vol. 45, No. 1865.
-[^42]: *Bāshí guījǔ bǔzhù*, fasc. 2: "Without verbal designations and without deliberative mentation, it is called a real object." *Taishō* vol. 45, No. 1865.
-[^43]: *Bāshí guījǔ bǔzhù*, fasc. 2: "The first five consciousnesses possess recollective discrimination but lack conceptual discrimination." *Taishō* vol. 45, No. 1865.
+[^42]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Without verbal designations and without deliberative mentation, it is called a real object." *Taishō* vol. 45, No. 1865.
+[^43]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The first five consciousnesses possess recollective discrimination but lack conceptual discrimination." *Taishō* vol. 45, No. 1865.
 [^44]: *Cheng Weishi Lun*, fasc. 7: "If one does not permit the mental to be concomitant with the five, their apprehension of objects would lack clarity." *Taishō* vol. 31, No. 1585.
 [^45]: *Cheng Weishi Lun*, fasc. 7: "The five-concomitant consciousness assists the five in arising ... hence the sacred teaching designates mental consciousness as 'possessing discrimination'; the five consciousnesses are not so designated." *Taishō* vol. 31, No. 1585.
 [^46]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Consciousness in absorption is exclusively direct perception; the independent scattered consciousness is inferential and non-veridical; dream and disordered consciousness are exclusively non-veridical; clear-and-distinct consciousness pervades three modes — direct perception predominates." *Taishō* vol. 45, No. 1865.
@@ -563,7 +563,7 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 [^70]: *Cheng Weishi Lun*, fasc. 9, section on the fourth ground's permanent elimination of subtle afflictive manifestations. *Taishō* vol. 31, No. 1585.
 [^71]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Before the seventh ground, outflow and non-outflow arise in alternation ... after this ground, purely non-outflow ... In the first five grounds, contemplation with characteristics predominates." *Taishō* vol. 45, No. 1865.
 [^72]: *Cheng Weishi Lun*, fasc. 9: "Eighth, the Immovable Ground: non-discriminating wisdom spontaneously continues; appearance-aspect and function-aspect afflictions cannot move it." *Taishō* vol. 31, No. 1585.
-[^73]: *Cheng Weishi Lun*, fasc. 9: "Before the seventh ground, outflow and non-outflow operate together; from the eighth ground onward, active manifestation is exclusively non-outflow." *Taishō* vol. 31, No. 1585.
+[^73]: *Cheng Weishi Lun*, fasc. 9: "In the stage of cultivation, up to the seventh ground, both seeds and manifestations are outflow and non-outflow; from the eighth ground onward, seeds are of both kinds, while manifestations are exclusively non-outflow." *Taishō* vol. 31, No. 1585.
 [^74]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Traversing the Stainless, Light-Emitting, Blazing Wisdom, Hard-to-Conquer, and Manifest Grounds to this Far-Reaching Ground — innate obstructions permanently suppressed ... perfectly and luminously illuminating the great chiliocosm." *Taishō* vol. 45, No. 1865.
 [^75]: *Cheng Weishi Lun*, fasc. 10: "Wonderful contemplation wisdom and its associated mental functions: skillfully contemplating the self-characteristics and shared characteristics of all dharmas, operating without obstruction ... raining the great rain of Dharma, resolving all doubts, causing all sentient beings to obtain benefit and happiness." *Taishō* vol. 31, No. 1585.
 [^76]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Meditative objects include both principle and phenomena." *Taishō* vol. 45, No. 1865.

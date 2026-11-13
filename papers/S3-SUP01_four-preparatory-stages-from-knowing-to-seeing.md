@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-SUP01"
 paper_number: 1
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Four Preparatory Stages: From Knowing to Seeing
@@ -179,17 +179,17 @@ The core achievement of the patience stage is the confirmation of the "emptiness
 
 The logic: first, by recognizing that "consciousness exists" one comes to know that "objects do not [independently] exist" (emptiness of the apprehended). Then from "objects do not exist" one derives that "consciousness also does not [independently] exist" (emptiness of the apprehender) — because apprehender and apprehended are established in mutual dependence. Without an object being cognized, cognition itself loses its ground for independent existence.
 
-Patience is divided into three degrees: **lower patience** confirms the emptiness of the apprehended at the ultimate level; **middle patience** confirms the emptiness of the apprehended at the conventional level as well; **upper patience** begins to touch the edge of the emptiness of the apprehender.
+Patience is divided into three degrees. The *Cheng Weishi Lun*, fascicle 9, says: "When lower patience arises, it seals the characteristic of the emptiness of objects; as middle patience advances, regarding the apprehending consciousness, it assents with joyful acceptance that it is empty just as the object is; when upper patience arises, it seals the emptiness of the apprehender."[^14] Thus **lower patience** seals the emptiness of the apprehended; **middle patience** inclines toward the emptiness of the apprehender, accepting it without yet sealing it; **upper patience** seals the emptiness of the apprehender.
 
 The decisive significance of the patience stage: **from this point, there is no regression.** Once the realization of actuality arises, the practitioner will never revert to the ordinary cognitive mode.
 
 ### 2.5 Supreme Worldly Dharma (laukikāgradharma) — The Moment Before Subject and Object Both Dissolve
 
-Supreme worldly dharma: the most excellent among all worldly phenomena — because in the very next instant, it will transcend the worldly and enter the Path of Seeing. The practitioner, relying on the "uninterrupted concentration" (ānantarya-samādhi), extends the confirmation of the emptiness of the apprehended to further confirm the "emptiness of the apprehender" (grāhaka-śūnyatā).
+Supreme worldly dharma: the most excellent among all worldly phenomena — because in the very next instant, it will transcend the worldly and enter the Path of Seeing. Upper patience has already sealed the emptiness of the apprehender; now the practitioner, relying on the "uninterrupted concentration" (ānantarya-samādhi), seals the emptiness of the apprehended and the "emptiness of the apprehender" (grāhaka-śūnyatā) together.
 
 > "Relying on the uninterrupted concentration, one develops the higher realization of actuality, confirming the emptiness of both graspings — this is established as the supreme worldly dharma. The preceding upper patience confirms only the emptiness of the apprehender. Now the supreme worldly dharma doubly confirms the emptiness of both. Since from this point one must without interruption enter the Path of Seeing, it receives the name 'uninterrupted.' Since among all phenomena of ordinary beings this is the most excellent, it is named 'supreme worldly dharma.'"[^14]
 
-[^14]: *Cheng Weishi Lun* 《成唯識論》卷九，T31, No. 1585. 「依無間定，發上如實智，印二取空，立世第一法。謂前上忍唯印能取空，今世第一法二空雙印，從此無間必入見道故，立無間名，異生法中此最勝故，名世第一法。」
+[^14]: *Cheng Weishi Lun* 《成唯識論》卷九，T31, No. 1585. 「依無間定，發上如實智，印二取空，立世第一法。謂前上忍唯印能取空，今世第一法二空雙印，從此無間必入見道故，立無間名，異生法中此最勝故，名世第一法。」「下忍起時印境空相；中忍轉位，於能取識如境是空，順樂忍可；上忍起位印能取空」
 
 The *Yogācārabhūmi* describes the tension of this final moment with the fire-drilling metaphor:
 
@@ -208,8 +208,8 @@ The emptiness of the apprehender means: not only is "the apprehended object" emp
 This is the most subtle step of the Path of Preparation:
 
 - Warmth and summit: Observing that "the hundred dharmas being cognized" are conventional designations (apprehended progressively emptied)
-- Patience: Confirming the emptiness of the apprehended (object side dissolves)
-- Supreme worldly dharma: Confirming the emptiness of the apprehender (subject side also dissolves)
+- Patience: Confirming the emptiness of the apprehended (object side dissolves); at upper patience, the emptiness of the apprehender is also sealed
+- Supreme worldly dharma: Sealing both emptinesses together (subject side also dissolves)
 
 The *Cheng Weishi Lun* draws the boundary between the Path of Preparation and the Path of Seeing with a pair of contrasting verses:
 
@@ -220,7 +220,7 @@ The *Cheng Weishi Lun* draws the boundary between the Path of Preparation and th
 > "When the bodhisattva, regarding the object of contemplation, through non-discriminating wisdom has nothing whatsoever apprehended, not grasping at the various characteristics of conceptual proliferation — then and only then is it named truly abiding in the ultimate nature of consciousness-only. Wisdom and suchness become equal and identical, both having left behind the characteristics of apprehender and apprehended... When this wisdom arises without interruption from the intensified practice, directly experiencing suchness, it is named the Path of Penetration. Because it first illuminates the principle, it is also named the Path of Seeing."[^18]
 
 [^17]: *Triṃśikā-vijñaptimātratā* 《唯識三十論頌》，T31, No. 1586.
-[^18]: *Cheng Weishi Lun* 《成唯識論》卷九，T31, No. 1585. 「若時菩薩於所緣境，無分別智都無所得……即證真如智與真如平等平等，俱離能取、所取相故。加行無間此智生時，體會真如，名通達位；初照理故，亦名見道。」
+[^18]: *Cheng Weishi Lun* 《成唯識論》卷九，T31, No. 1585. 「若時菩薩於所緣境，無分別智都無所得……即證真如智與真如平等平等，俱離能取、所取相故。……加行無間此智生時，體會真如，名通達位；初照理故，亦名見道。」
 
 The supreme worldly dharma stage lasts only a single instant, because once the contemplative insight of the dual emptiness is complete, the very next instant necessarily passes without interruption into the true Path of Seeing — non-discriminating wisdom arises, and suchness is directly realized. The last residue of "having something apprehended" is utterly dissolved in that instant.
 
@@ -261,9 +261,9 @@ For modern practitioners, what matters is not "Am I qualified to practice the Fo
 
 The *Sandhinirmocana Sūtra* provides the foundational definition of the three natures, which also forms the doctrinal basis for the Four Preparatory Stages' mode of observation:
 
-> "The characteristics of all dharmas are, in brief, of three kinds: first, the imagined characteristic; second, the dependent characteristic; third, the consummated characteristic. What is the imagined characteristic of all dharmas? It is the conventional establishment of all dharmas through names and through self-nature and distinction — to the extent that it enables verbal expression. What is the dependent characteristic of all dharmas? It is the conditionally arisen nature of all dharmas — because this exists, that exists; because this arises, that arises. What is the consummated characteristic of all dharmas? It is the equal suchness of all dharmas."[^21]
+> "The characteristics of all dharmas are, in brief, of three kinds. What are the three? First, the imagined characteristic; second, the dependent characteristic; third, the consummated characteristic. What is the imagined characteristic of all dharmas? It is the conventional establishment of all dharmas through names and through self-nature and distinction — to the extent that it enables verbal expression. What is the dependent characteristic of all dharmas? It is the conditionally arisen nature of all dharmas — because this exists, that exists; because this arises, that arises; namely, ignorance conditions formations, up to the gathering of the entire great mass of suffering. What is the consummated characteristic of all dharmas? It is the equal suchness of all dharmas."[^21]
 
-[^21]: *Sandhinirmocana Sūtra* 《解深密經》卷二，T16, No. 676. 「謂諸法相略有三種：一者、遍計所執相；二者、依他起相；三者、圓成實相。」
+[^21]: *Sandhinirmocana Sūtra* 《解深密經》卷二，T16, No. 676. 「謂諸法相略有三種，何等為三？一者、遍計所執相；二者、依他起相；三者、圓成實相。」
 
 Note the definition of the imagined characteristic: "the conventional establishment of all dharmas through names and through self-nature and distinction." This is precisely the four objects examined by the four investigative contemplations (name, meaning, self-nature, distinction). The four contemplations are the concrete operational method for seeing through the imagined nature.
 
@@ -339,9 +339,9 @@ The supreme worldly dharma lasts only a single instant — yet this instant is t
 
 "Wisdom and suchness become equal and identical" — between the wisdom that cognizes and the suchness that is cognized, there is no longer any subject-object opposition. This is not "I see suchness" but "wisdom itself is the manifestation of suchness." The boundary between subject and object has dissolved. The *Yogācārabhūmi* describes this moment:
 
-> "This is the final boundary-limit of all worldly activities; therefore it is named the supreme worldly dharma. From this point onward, supramundane mind arises — no longer worldly mind."[^31]
+> "This is named the supreme worldly dharma. From this point onward, supramundane mind arises — no longer worldly mind. This is the final boundary-limit of all worldly activities; therefore it is named the supreme worldly dharma."[^31]
 
-[^31]: *Yogācārabhūmi* 《瑜伽師地論》卷三十四，T30, No. 1579. 「此是世間諸行最後界畔邊際，是故名為世第一法。從此已後，出世心生，非世間心。」
+[^31]: *Yogācārabhūmi* 《瑜伽師地論》卷三十四，T30, No. 1579. 「此即名為世第一法。從此已後，出世心生，非世間心。此是世間諸行最後界畔邊際，是故名為世第一法。」
 
 "Supramundane mind arises — no longer worldly mind." A completely different quality of mental activity is born. It is not an improved version of worldly cognition but an entirely new mode of knowing — non-discriminating wisdom.
 
@@ -395,11 +395,11 @@ The *Mahāyānasaṃgraha-bhāṣya* (by Asvabhāva) explicitly states that the 
 [^33]: *Mahāyānasaṃgraha-bhāṣya* (Asvabhāva) 《攝大乘論釋》卷六（無性造），T31, No. 1598. 「於加行時推求行見假有實無方便因相說名尋思……尋思此名唯意言性、唯假非實，不離意言名名尋思。」
 [^34]: *Mahāyānasaṃgraha-bhāṣya* (Asvabhāva) 《攝大乘論釋》卷六，T31, No. 1598.
 
-The *Treatise on the Hundred Dharmas* opens with the declaration "As the World-Honored One said: all dharmas are without self." The *Mahāyānasaṃgraha* directly connects "all dharmas are without self" to the observation of the imagined nature:
+The *Treatise on the Hundred Dharmas* opens with the declaration "As the World-Honored One said: all dharmas are without self." Vasubandhu's *Viṃśatikā* 《唯識二十論》 directly connects "all dharmas are without self" to the observation of the imagined nature:
 
 > "To penetrate the selflessness of dharmas as the self-nature and distinction imagined by ordinary beings — this is what is meant by entering the selflessness of dharmas. It is not because the dharma-nature beyond speech that is the domain of all Buddhas is altogether non-existent that it is called 'selflessness of dharmas'... For this reason, the teaching of consciousness-only is established, universally enabling entry into the selflessness of all dharmas — not because one repudiates all nature whatsoever."[^35]
 
-[^35]: *Mahāyānasaṃgraha* 《攝大乘論本》卷一，T31, No. 1594. 「然達愚夫遍計所執自性差別諸法無我，如是乃名入法無我……由此道理，說立唯識教，普令悟入一切法無我，非一切種撥有性故。」
+[^35]: *Viṃśatikā* 《唯識二十論》，T31, No. 1590. 「然達愚夫遍計所執自性差別諸法無我，如是乃名入法無我……由此道理，說立唯識教，普令悟入一切法無我，非一切種撥有性故。」
 
 ### 3.3 The Precise Meaning of "Consciousness-Only with Apprehension"
 
@@ -495,13 +495,13 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 - *Cheng Weishi Lun* 《成唯識論》, by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - *Triṃśikā-vijñaptimātratā* 《唯識三十論頌》, by Vasubandhu, trans. Xuanzang, T31, No. 1586.
 - *Yogācārabhūmi* 《瑜伽師地論》, by Maitreya, trans. Xuanzang, T30, No. 1579.
-- *Mahāyānasaṃgraha* 《攝大乘論》, by Asaṅga, trans. Buddhaśānta, T31, No. 1593.
-- *Mahāyānasaṃgraha* 《攝大乘論本》, by Asaṅga, trans. Xuanzang, T31, No. 1594.
+- *Mahāyānasaṃgraha* 《攝大乘論》, by Asaṅga, trans. Paramārtha, T31, No. 1593.
+- *Viṃśatikā* 《唯識二十論》, by Vasubandhu, trans. Xuanzang, T31, No. 1590.
 - *Mahāyānasaṃgraha-bhāṣya* 《攝大乘論釋》, by Asvabhāva, trans. Xuanzang, T31, No. 1598.
 - *Śatadharmaprakāśamukha-śāstra* 《大乘百法明門論》, by Vasubandhu, trans. Xuanzang, T31, No. 1614.
-- *Madhyāntavibhāga* 《辯中邊論》, by Maitreya, trans. Xuanzang, T31, No. 1600.
+- *Madhyāntavibhāga* 《辯中邊論》, by Vasubandhu, trans. Xuanzang, T31, No. 1600.
 - *Mahāyānasaṃgraha-bhāṣya* 《攝大乘論釋》, by Vasubandhu, trans. Paramārtha, T31, No. 1595.
-- *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》, by Maitreya, trans. Prabhākaramitra, T31, No. 1604.
+- *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》, by Asaṅga, trans. Prabhākaramitra, T31, No. 1604.
 - *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, by Sthiramati, trans. Xuanzang, T31, No. 1606.
 - *Sandhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, T16, No. 676.
 - *Abhidharmakośa* 《阿毘達磨俱舍論》, by Vasubandhu, trans. Xuanzang, T29, No. 1558.
@@ -523,7 +523,7 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 | Triṃśikā | T31, No. 1586 | Path of Preparation verse vs. Path of Seeing verse |
 | Yogācārabhūmi | T30, No. 1579 | Fasc. 29 fire-drilling metaphor; fasc. 34 supreme worldly dharma; fasc. 36 four contemplations and four realizations; fasc. 45 provisions of awakening |
 | Mahāyānasaṃgraha | T31, No. 1593 | Fasc. 2: Four contemplations entering consciousness-only; four samādhis; entering the three natures |
-| Mahāyānasaṃgraha (Xuanzang) | T31, No. 1594 | Fasc. 1: Imagined nature and selflessness of all dharmas |
+| Viṃśatikā | T31, No. 1590 | Imagined nature and selflessness of all dharmas |
 | Mahāyānasaṃgraha-bhāṣya (Asvabhāva) | T31, No. 1598 | Fasc. 6: Four contemplations examining the imagined nature |
 | Śatadharmaprakāśamukha | T31, No. 1614 | Five categories of hundred dharmas; all dharmas are without self |
 | Madhyāntavibhāga | T31, No. 1600 | Fasc. 1: Method of entering signlessness (emptying apprehended then apprehender) |

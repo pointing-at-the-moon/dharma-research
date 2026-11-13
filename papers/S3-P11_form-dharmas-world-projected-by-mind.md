@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P11"
 paper_number: 11
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Form Dharmas: The World Projected by Mind
@@ -65,7 +65,7 @@ The doctrinal starting point for form is the Buddha's foundational teaching on t
 
 This is the most concise definition of the form aggregate: **all form is nothing other than the four great elements (*mahābhūta*: earth, water, fire, wind) and their derivatives.** The four elements are the basic constituents of form — earth-element as solidity, water-element as fluidity, fire-element as warmth, wind-element as motility. Every experienceable material phenomenon is a different combination of these four and their derivatives.[^4]
 
-The *Madhyama Āgama*'s Elephant Footprint Simile Sūtra expands on the four elements concretely. The internal earth-element: "hair, body-hair, nails, teeth, coarse and fine skin, flesh, sinew, bone, heart, kidney, liver, lung, spleen, intestine, stomach, undigested food, feces, urine." The internal water-element: "brain, brain-membrane, tears, sweat, mucus, saliva, pus, blood, fat, marrow, bile, urine."[^5] The four elements are not an abstract elemental classification but a direct, unflinching observation of the body — the nearest portion of form.
+The *Madhyama Āgama*'s Elephant Footprint Simile Sūtra expands on the four elements concretely. The internal earth-element: "hair, body-hair, nails, teeth, coarse and fine skin, flesh, sinew, bone, heart, kidney, liver, lung, spleen, intestine, stomach, feces." The internal water-element: "brain, brain-membrane, tears, sweat, mucus, saliva, pus, blood, fat, marrow, drool, bile, urine."[^5] The four elements are not an abstract elemental classification but a direct, unflinching observation of the body — the nearest portion of form.
 
 The Buddha further employs the simile of foam to reveal the nature of the form aggregate:
 
@@ -77,21 +77,21 @@ An important doctrinal trajectory must be noted here: the Āgama definition of t
 
 #### 2.2 The Āgamas: The Six Sense-Bases — The Triadic Structure of Faculty, Object, and Consciousness
 
-Form in the Āgamas has another crucial dimension: the teaching on the six sense-bases (*ṣaḍ-āyatana*). In the "Six-by-Six" discourse, the Buddha teaches the triadic structure of faculty, object, and consciousness:
+Form in the Āgamas has another crucial dimension: the teaching on the six sense-bases (*ṣaḍ-āyatana*). In the "Six-by-Six" discourse (Sūtra 304) the Buddha enumerates the six sets of six, and in Sūtra 273 he teaches the triadic structure of faculty, object, and consciousness:
 
-> "What is the six-by-six teaching? The six internal sense-bases, the six external sense-bases, the six consciousness-bodies, the six contact-bodies, the six feeling-bodies, the six craving-bodies.… Dependent on the eye and form, eye-consciousness arises; the meeting of the three is contact; together with contact arise feeling, perception, and volition."[^7]
+> "What is the six-by-six teaching? The six internal sense-bases, the six external sense-bases, the six consciousness-bodies, the six contact-bodies, the six feeling-bodies, the six craving-bodies." "Dependent on the eye and form, eye-consciousness arises; the meeting of the three is contact; together with contact arise feeling, perception, and volition."[^7]
 
 The six internal bases (eye, ear, nose, tongue, body, mind faculties) and the six external bases (form, sound, smell, taste, touch, mental-objects) — faculty and object meet, and consciousness arises from this. The convergence of three — faculty, object, consciousness — is the complete structure of cognition. In this framework, form (the five faculties and five objects) is never discussed in isolation; it is always embedded in the causal network of faculty-object-consciousness.
 
 *Saṃyukta Āgama* Sūtra 322 provides the most explicit Āgama definition of the five material faculties:
 
-> "The eye is an internal sense-base, a refined materiality (*jìng sè* 淨色) derived from the four great elements, invisible, yet offering resistance. The ear, nose, tongue, and body internal sense-bases are likewise. The mind is an internal sense-base, non-material, invisible, offering no resistance."[^8]
+> "The eye is an internal sense-base, a refined materiality (*jìng sè* 淨色) derived from the four great elements, invisible, yet offering resistance. The ear, nose, tongue, and body internal sense-bases are likewise.… The mind internal sense-base: mind, mentation, and consciousness — non-material, invisible, offering no resistance; this is called the mind internal sense-base."[^8]
 
 Three layers of critical doctrine are embedded here. First, the five material faculties are "refined materiality derived from the four elements" — the term "refined" (*jìng* 淨) already distinguishes the subtle materiality that can produce consciousness (the dominant faculty, *vijñapti-indriya*) from the visible, gross organ (the supporting faculty). Second, the five material faculties are "invisible yet offering resistance" — "offering resistance" (*yǒu duì* 有對) means they have obstructive quality and can generate consciousness through contact with objects; "invisible" means this consciousness-producing refined materiality is not the gross organ visible to the naked eye. Third, the mind-faculty is "non-material, invisible, offering no resistance" — the fundamental difference between the mind-faculty and the five material faculties is that it is not form.[^9]
 
-Additionally, Sūtra 652 points out that the five faculties each have their own domain, but all ultimately converge in the mind-faculty:
+Additionally, in the *Madhyama Āgama*'s Mahākoṭṭhita Sūtra (大拘絺羅經), the Venerable Mahākoṭṭhita, answering Śāriputra's question, points out that the five faculties each have their own domain, but all ultimately converge in the mind-faculty:
 
-> "There are five faculties, each with distinct activities and distinct domains, each receiving its own domain. The eye-faculty, ear-, nose-, tongue-, and body-faculty — each with distinct activities and distinct domains, each receiving its own domain. What is their refuge and their culmination? The mind-faculty."[^10]
+> "The five faculties have distinct activities and distinct domains, each receiving its own domain — the eye-faculty, and the ear-, nose-, tongue-, and body-faculty. These five faculties have distinct activities and distinct domains, each receiving its own domain; mind fully receives their domains, mind is their support."[^10]
 
 The eye-faculty takes only form-objects, the ear-faculty takes only sound-objects — each faculty stays in its own lane. But all sensory experience ultimately converges in the mind-faculty, where the sixth consciousness performs integrated discernment. This Āgama teaching of "the five faculties converging in mind" is later deepened in Yogācāra as the theory of the five-accompanying mental consciousness (*wǔ jù yì shí* 五俱意識).
 
@@ -103,7 +103,7 @@ The Āgama's most essential practice teaching regarding form is the three-marks 
 
 Form is impermanent → the impermanent is suffering → suffering is not-self → not-self means not-mine — a four-link syllogism. Every phenomenon of form — your body, the material world you experience — is in moment-to-moment arising and ceasing. Since it arises and ceases moment to moment, it cannot provide lasting security (suffering); since it cannot be governed or made permanent, it is not "you" (not-self); since it is not you, how can you claim it "belongs to you" (not-mine)?
 
-Sūtra 11 argues from another angle:
+Sūtra 33 argues from another angle:
 
 > "Form is not-self. If form were self, there should not arise sickness and suffering in form. Nor should one be able to wish regarding form 'let it be thus' or 'let it not be thus.' Because form is not-self, therefore sickness and suffering arise in form."[^12]
 
@@ -111,7 +111,7 @@ If form were "self," you should be able to control it — to prevent it from fal
 
 Sūtra 289 offers a thought-provoking observation:
 
-> "Foolish, unlearned worldlings generate disenchantment toward the four-element body and seek liberation from it. Why? They observe the four-element body increasing and decreasing, being taken up and put down. But toward mind, mentation, and consciousness, they cannot generate disenchantment or seek liberation. Why? Because mind, mentation, and consciousness shift and change moment to moment, day and night, arising as one thing and perishing as another."[^13]
+> "Foolish, unlearned worldlings become disenchanted with, dispassionate toward, and turn away from the four-element body, but not consciousness. Why? They see the four-element body increasing and decreasing, being taken up and put down; but toward mind, mentation, and consciousness, foolish, unlearned worldlings cannot generate disenchantment, dispassion, or liberation.… That mind, mentation, and consciousness shift and change moment to moment, day and night, arising as one thing and perishing as another."[^13]
 
 This is the monkey simile: mind, mentation, and consciousness swing from branch to branch like monkeys, shifting moment to moment, arising and perishing differently — even less stable than the four-element body. Ordinary beings find it easier to become disenchanted with the body but fail to notice the moment-to-moment arising and ceasing of mind. From the Āgama perspective, this observation creates a productive tension: the material body *appears* more stable than the mind, and thus worldlings more easily practice "disenchantment with form" while ignoring the very thing that needs contemplation — the mind's ceaseless flux. Yogācāra's later response: the body *appears* stable precisely because the ālaya-vijñāna continuously projects the body-with-faculties through unbroken seed-manifestation, creating a false sense of permanence.
 
@@ -171,7 +171,7 @@ Foolish beings (unawakened sentient beings) cannot know that those images (the e
 
 The *Saṃdhinirmocana* simultaneously adjudicates the form aggregate through the three natures (*trisvabhāva*):
 
-> "When, within the dependent aspect that is the basis of the imagined character operating in discrimination, one posits by conventional designation a 'form aggregate'… this is the imagined character. That very dependent aspect which is the basis of the imagined character operating in discrimination — this is the other-dependent character. When, within this same dependent aspect, the imagined character is known to be unreal, and one thereby apprehends the suchness of the selflessness of dharmas as a pure object of cognition — this is the consummate character."[^23]
+> "When, within the dependent aspect that is the basis of the imagined character operating in discrimination, one posits by conventional designation a 'form aggregate'… this is the imagined character.… That very dependent aspect which is the basis of the imagined character operating in discrimination — this is the other-dependent character.… When, within this same dependent aspect, the imagined character is known to be unreal, and one thereby apprehends the suchness of the selflessness of dharmas as a pure object of cognition — this is the consummate character."[^23]
 
 The form aggregate within the three natures: designating the form aggregate as a substantially existing entity is the imagined character (*parikalpita-svabhāva*); the dependent arising and flow of the form aggregate itself is the other-dependent character (*paratantra-svabhāva*); within the other-dependent form aggregate, when the imagined character is known to be unreal and the suchness of dharma-selflessness is revealed, this is the consummate character (*pariniṣpanna-svabhāva*). Applying the three-nature contemplation to form means: not that "form does not exist," but that "form does not exist in the way you grasp it as existing."
 
@@ -339,17 +339,17 @@ Volume seven provides a summary verse:
 
 The seeing-portion is "the discriminating" — the active cognitive face. The aspect-portion is "the discriminated" — the cognized object-face. "Since thereby both are nonexistent, therefore all is consciousness-only" — neither the real self (grasped through the seeing-portion) nor the real dharma (grasped through the aspect-portion) exists apart from consciousness; therefore all is consciousness-only.
 
-Volume ten provides a crucial qualification:
+Among the several explanations of "consciousness-only" that volume ten lists, the first addresses the ontological status of aspect-portions:
 
 > "The aspect-portions and so forth depend on consciousness for their manifestation; they are not real within the other-dependent [nature] in the way that the consciousness-nature is."[^59]
 
-Aspect-portions depend on consciousness for their manifestation, but they are not "real" within the other-dependent nature in the same way that the consciousness-substance (the seeing-portion, self-awareness) is. This means form, ontologically, is "thinner" than mind by one layer — consciousness (the consciousness-substance) has its own reality within the other-dependent nature (it is not merely an imagined construct), but form (as aspect-portion) is entirely dependent on consciousness's transforming activity and possesses no independent substantial reality, not even within the other-dependent nature.
+Aspect-portions depend on consciousness for their manifestation, but they are not "real" within the other-dependent nature in the same way that the consciousness-substance (the seeing-portion, self-awareness) is. This means form, ontologically, is "thinner" than mind by one layer — consciousness (the consciousness-substance) has its own reality within the other-dependent nature (it is not merely an imagined construct), but form (as aspect-portion) is entirely dependent on consciousness's transforming activity and possesses no independent substantial reality, not even within the other-dependent nature. (This is the author's interpretation based on the first explanation; the treatise immediately lists other explanations — see n. 59.)
 
 #### 2.15 Yogācārabhūmi-śāstra: The Category and Common Characteristic of Form
 
 The *Yogācārabhūmi-śāstra*, as the upstream text of the Hundred Dharmas, provides the most comprehensive categorical definition of form. Volume 53:
 
-> "What is the intrinsic nature of form? In brief, there are eleven types: the ten form-bases such as the eye, and form subsumed under the mental realm. In summary there are two types: the four great elements and their derivatives. All of these share the common characteristic of offering resistance."[^60]
+> "Question: What is the intrinsic nature of form? Answer: In brief, there are eleven types: the ten form-bases such as the eye, and form subsumed under the mental realm. In summary there are two types: the four great elements and their derivatives. All of these share the common characteristic of offering resistance."[^60]
 
 What is the intrinsic nature of form? The eleven form-bases (five faculties, five objects, and form subsumed under the mental realm), summarized as four great elements and their derivatives. The common characteristic of all form is "**offering resistance**" (*biàn ài xiàng*) — being obstructable, having resistant quality. This is the fundamental characteristic distinguishing form from mind and factors dissociated from mind.[^61]
 
@@ -381,7 +381,7 @@ The four elements defined concisely and completely — solidity, fluidity, warmt
 
 > "What is form derived from the four great elements? Eye-faculty, ear-faculty, nose-faculty, tongue-faculty, body-faculty, form, sound, smell, taste, a portion of what is touched, and imperceptible form."[^66]
 
-Derived form includes the five faculties, five objects (touch taking only "a portion" — the four elements themselves do not count as derived form), and imperceptible form. The *Pañcaskandhaka*'s definition represents a transitional discourse between Abhidharma and Yogācāra — it retains the basic framework of "four elements and their derivatives" while incorporating Yogācāra-specific concepts such as "imperceptible form" and "refined materiality."
+Derived form includes the five faculties, five objects (touch taking only "a portion" — the four elements themselves do not count as derived form), and imperceptible form. The *Pañcaskandhaka*'s definition represents a transitional discourse between Abhidharma and Yogācāra — it retains the basic framework of "four elements and their derivatives" while incorporating concepts such as "imperceptible form" and "refined materiality" (both already established in the *Abhidharmakośa*, vol. 1; not specific to Yogācāra).
 
 ---
 
@@ -483,7 +483,7 @@ Form occupies the "exclusively object" position in the four-part structure — f
 
 The summary verse of volume seven — "All these are consciousness transforming — the discriminating and the discriminated. Since thereby both are nonexistent, therefore all is consciousness-only" — finds its concrete application to form here: the seeing-portion is "the discriminating" (because it apprehends characteristics); the aspect-portion is "the discriminated" (because it is what the seeing apprehends). All form, as "the discriminated," is the object apprehended by the seeing-portion. Without the seeing-portion's apprehending activity, the aspect-portion has no independent existence; yet the seeing-portion's apprehending activity necessarily entails the display of an aspect-portion — seeing-portion and aspect-portion are two faces of a single consciousness-transformation.[^90]
 
-But the qualification of volume ten must be noted: "The aspect-portions and so forth depend on consciousness for their manifestation; they are not real within the other-dependent [nature] in the way that the consciousness-nature is."[^91] Aspect-portions depend on consciousness for their manifestation, but they do not possess the same ontological weight within the other-dependent nature as consciousness-substance (seeing-portion, self-awareness). Form is ontologically "thinner" than mind by one layer: consciousness has its own reality within the other-dependent nature, but form, as aspect-portion, is entirely dependent on consciousness's transforming activity and possesses no independent substantial reality, not even within the other-dependent nature.
+But the first of the explanations of "consciousness-only" listed in volume ten must be noted: "The aspect-portions and so forth depend on consciousness for their manifestation; they are not real within the other-dependent [nature] in the way that the consciousness-nature is."[^91] (The treatise immediately lists other explanations, such as "Or, the aspect- and seeing-[portions] and so forth of consciousness arise from conditions; all are other-dependent, as real or unreal as consciousness.") Aspect-portions depend on consciousness for their manifestation, but they do not possess the same ontological weight within the other-dependent nature as consciousness-substance (seeing-portion, self-awareness). Form is ontologically "thinner" than mind by one layer: consciousness has its own reality within the other-dependent nature, but form, as aspect-portion, is entirely dependent on consciousness's transforming activity and possesses no independent substantial reality, not even within the other-dependent nature. (This is the author's interpretation based on the first explanation.)
 
 ### 3.8 The Structural Significance of Form within the Five-Category Hundred Dharmas
 
@@ -617,7 +617,7 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 12. *Pañcaskandhaka-prakaraṇa* (大乘五蘊論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1612.
 13. *Abhidharmasamuccaya* (大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1605.
 14. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), by Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
-15. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), by Master Mingchang, *Taishō* vol. 45, No. 1865.
+15. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai (Ming), *Taishō* vol. 45, No. 1865.
 16. *Daśabhūmika-sūtra-śāstra* (十地經論), by Vasubandhu, trans. Bodhiruci, *Taishō* vol. 26, No. 1522.
 
 ### II. Modern Scholarship
@@ -633,8 +633,8 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 | # | Text | Taishō Vol. | No. | Fascicles Cited |
 |---|------|------------|-----|-----------------|
-| 1 | Saṃyukta Āgama 雜阿含經 | T2 | 0099 | 1, 2, 3, 10, 12, 13, 26 |
-| 2 | Madhyama Āgama 中阿含經 | T1 | 0026 | 7 |
+| 1 | Saṃyukta Āgama 雜阿含經 | T2 | 0099 | 1, 2, 3, 10, 11, 12, 13 |
+| 2 | Madhyama Āgama 中阿含經 | T1 | 0026 | 7, 58 |
 | 3 | Laṅkāvatāra Sūtra 入楞伽經 | T16 | 0671 | 5 |
 | 4 | Mahāyāna-Laṅkāvatāra 大乘入楞伽經 | T16 | 0672 | 4, 5 |
 | 5 | Avataṃsaka Sūtra (80) 華嚴經 | T10 | 0279 | 19, 54 |
@@ -678,23 +678,23 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 [^4]: *Pañcaskandhaka-prakaraṇa*: "What are the four great elements? Earth-element, water-element, fire-element, wind-element. Earth-element: solidity. Water-element: fluidity. Fire-element: warmth. Wind-element: motility and lightness." The self-nature definitions of the four great elements. *Taishō* vol. 31, No. 1612.
 
-[^5]: *Madhyama Āgama* vol. 7, Elephant Footprint Simile Sūtra: "What is the internal earth-element? Within the body, what is solid, of solid nature, abiding within…" The four elements' internal manifestation. *Taishō* vol. 1, No. 0026.
+[^5]: *Madhyama Āgama* vol. 7, Elephant Footprint Simile Sūtra: "What is the internal earth-element? That which is within the body, internally included, solid, of solid nature, internally appropriated. What is this? Namely hair, body-hair, nails, teeth…" The four elements' internal manifestation. *Taishō* vol. 1, No. 0026.
 
-[^6]: *Saṃyukta Āgama* vol. 3 (alt. vol. 10), Sūtra 61: "Observe form as a lump of foam, feeling as a water-bubble, perception as a mirage, formations as a plantain trunk, consciousness as a magic show." The five-aggregate simile verses. *Taishō* vol. 2, No. 0099.
+[^6]: *Saṃyukta Āgama* vol. 10, Sūtra 265: "Observe form as a lump of foam, feeling as a water-bubble, perception as a mirage, formations as a plantain trunk, consciousness as a magic show." The five-aggregate simile verses. *Taishō* vol. 2, No. 0099.
 
-[^7]: *Saṃyukta Āgama* vol. 13, Sūtra 304: "What is the six-by-six teaching?… Dependent on eye and form, eye-consciousness arises; the meeting of the three is contact." The six-by-six discourse. *Taishō* vol. 2, No. 0099.
+[^7]: *Saṃyukta Āgama* vol. 13, Sūtra 304: "What is the six-by-six teaching? The six internal sense-bases, the six external sense-bases, the six consciousness-bodies…" The six-by-six discourse. "Dependent on eye and form, eye-consciousness arises; the meeting of the three is contact; together with contact arise feeling, perception, and volition" is from vol. 11, Sūtra 273. *Taishō* vol. 2, No. 0099.
 
 [^8]: *Saṃyukta Āgama* vol. 13, Sūtra 322: "The eye is an internal sense-base, a refined materiality derived from the four great elements, invisible, offering resistance." The definition of the five material faculties. *Taishō* vol. 2, No. 0099. This is the Āgamas' most explicit description of the "refined materiality" nature of the five faculties.
 
 [^9]: Ibid. The mind-faculty as "non-material, invisible, offering no resistance" — the fundamental distinction between the mind-faculty and the five material faculties. This distinction provides the Āgama foundation for the later Yogācāra theory of the sixth, seventh, and eighth consciousnesses.
 
-[^10]: *Saṃyukta Āgama* vol. 26, Sūtra 652: "What is their refuge and culmination? The mind-faculty." The five faculties converging in the mind-faculty. *Taishō* vol. 2, No. 0099.
+[^10]: *Madhyama Āgama* vol. 58, Sūtra 211, Mahākoṭṭhita Sūtra, the Venerable Mahākoṭṭhita answering Śāriputra: "Mind fully receives their domains; mind is their support." The five faculties converging in the mind-faculty. *Taishō* vol. 1, No. 0026.
 
 [^11]: *Saṃyukta Āgama* vol. 1, Sūtra 9: "Form is impermanent; impermanence is suffering; suffering is not-self." The three-marks syllogism. *Taishō* vol. 2, No. 0099. See also vol. 3, Sūtra 86, for a parallel version.
 
-[^12]: *Saṃyukta Āgama* vol. 1, Sūtra 11: "Form is not-self. If form were self, sickness and suffering should not arise in form." Arguing form's not-self nature from uncontrollability. *Taishō* vol. 2, No. 0099.
+[^12]: *Saṃyukta Āgama* vol. 2, Sūtra 33: "Form is not-self. If form were self, sickness and suffering should not arise in form." Arguing form's not-self nature from uncontrollability. *Taishō* vol. 2, No. 0099.
 
-[^13]: *Saṃyukta Āgama* vol. 12, Sūtra 289, the monkey simile: "Foolish, unlearned worldlings generate disenchantment toward the four-element body" — the body appears more stable than mind; worldlings more easily become disenchanted with form while ignoring mind. *Taishō* vol. 2, No. 0099.
+[^13]: *Saṃyukta Āgama* vol. 12, Sūtra 289, the monkey simile: "Foolish, unlearned worldlings become disenchanted with, dispassionate toward, and turn away from the four-element body, but not consciousness" — the body appears more stable than mind; worldlings more easily become disenchanted with form while ignoring mind. *Taishō* vol. 2, No. 0099.
 
 [^14]: *Mahāyāna-Laṅkāvatāra Sūtra* vol. 4: "If one understands all dharmas as seen only by mind, without external objects, all equally without characteristics." The consciousness-only, no-external-objects teaching. *Taishō* vol. 16, No. 0672.
 
@@ -724,7 +724,7 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 [^27]: *Śūraṅgama Sūtra* vol. 5. Form-object penetration (Upaniṣad), fragrance penetration (Gandhahastin), taste penetration (the Medicine Kings), touch penetration (Bhadrapāla) — each sense-object domain as a gateway to the path. *Taishō* vol. 19, No. 0945.
 
-[^28]: *Śūraṅgama Sūtra* vol. 6, Mañjuśrī's selection verse. The limitations of each sense-object penetration — "form binds through conceptual image," "fragrance requires contact, vanishes when separated," "taste depends on the moment of tasting," "touch requires contact, its nature not fixed" — culminating in the selection of the ear-faculty penetration. *Taishō* vol. 19, No. 0945.
+[^28]: *Śūraṅgama Sūtra* vol. 6, Mañjuśrī's selection verse. The limitations of each sense-object penetration — "form binds through conceptual image," "fragrance requires contact, vanishes when separated," "taste depends on the moment of tasting," "touch is made evident by what is touched, and without it there is no evident touch; in union and separation its nature is not fixed" — culminating in the selection of the ear-faculty penetration. *Taishō* vol. 19, No. 0945.
 
 [^29]: *Mahāprajñāpāramitā-śāstra* vol. 36: "Form is not different from emptiness, emptiness not different from form; form itself is emptiness, emptiness itself is form." Nāgārjuna's commentary on the Prajñā sūtra's four propositions on form and emptiness. *Taishō* vol. 25, No. 1509.
 
@@ -760,7 +760,7 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 [^45]: *Yogācārabhūmi-śāstra* vol. 3: "Form subsumed under the mental realm is of two types: form pertaining to discipline and non-discipline, and form that is the domain of samādhi." The two-type classification. *Taishō* vol. 30, No. 1579. The *Yogācārabhūmi*'s two types (discipline-form + meditation-form) and the Abhidharmasamuccaya's five types are different levels of subdivision within the same category.
 
-[^46]: *Yogācārabhūmi-śāstra* vol. 53: "What is the intrinsic nature of form?… All of these share the common characteristic of offering resistance." Form's intrinsic nature as "offering resistance." *Taishō* vol. 30, No. 1579. Form subsumed under the mental realm, though not apprehended by the first five consciousnesses, still possesses the resistant characteristic — experientially presenting as form with obstructive quality.
+[^46]: *Yogācārabhūmi-śāstra* vol. 53: "Question: What is the intrinsic nature of form? Answer: … All of these share the common characteristic of offering resistance." Form's intrinsic nature as "offering resistance." *Taishō* vol. 30, No. 1579. Form subsumed under the mental realm, though not apprehended by the first five consciousnesses, still possesses the resistant characteristic — experientially presenting as form with obstructive quality.
 
 [^47]: *Yogācārabhūmi-śāstra* vol. 1: "The eye is a refined materiality derived from the four great elements, the support of eye-consciousness, invisible, offering resistance." The definition of the eye-faculty. *Taishō* vol. 30, No. 1579. This definition is representative; the ear, nose, tongue, and body faculties share the same structure.
 
@@ -786,9 +786,9 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 [^58]: *Cheng Weishi Lun* vol. 7: "All these are consciousness transforming — the discriminating and the discriminated. Since thereby both are nonexistent, therefore all is consciousness-only." The most concise summary verse of Yogācāra doctrine. *Taishō* vol. 31, No. 1585.
 
-[^59]: *Cheng Weishi Lun* vol. 10: "The aspect-portions and so forth depend on consciousness for their manifestation; they are not real within the other-dependent [nature] in the way the consciousness-nature is." The ontological status of aspect-portions is lower than that of consciousness-substance. *Taishō* vol. 31, No. 1585.
+[^59]: *Cheng Weishi Lun* vol. 10: "The aspect-portions and so forth depend on consciousness for their manifestation; they are not real within the other-dependent [nature] in the way the consciousness-nature is." This is the first of the explanations of "consciousness-only" the treatise lists (it continues: "Or, the aspect- and seeing-[portions] and so forth of consciousness arise from conditions; all are other-dependent, as real or unreal as consciousness"); on this explanation, the ontological status of aspect-portions is lower than that of consciousness-substance. *Taishō* vol. 31, No. 1585.
 
-[^60]: *Yogācārabhūmi-śāstra* vol. 53: "What is the intrinsic nature of form? In brief, eleven types … the common characteristic of all being 'offering resistance.'" The intrinsic nature and common characteristic of form. *Taishō* vol. 30, No. 1579.
+[^60]: *Yogācārabhūmi-śāstra* vol. 53: "Question: What is the intrinsic nature of form? Answer: In brief, eleven types … the common characteristic of all being 'offering resistance.'" The intrinsic nature and common characteristic of form. *Taishō* vol. 30, No. 1579.
 
 [^61]: "Offering resistance" is the fundamental characteristic distinguishing form from mind and from factors dissociated from mind. Mind's nature is "discernment," mental factors' nature is "accompanying mind," dissociated factors' nature is "nominal positing," form's nature is "offering resistance" — being obstructable, having resistant quality. Even form subsumed under the mental realm (such as dream-images) retains this "seemingly resistant" characteristic in experience.
 
@@ -850,7 +850,7 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 [^90]: See n. 58. "The discriminating" (seeing-portion) and "the discriminated" (aspect-portion) are two faces of a single consciousness-transformation.
 
-[^91]: See n. 59. This qualification has important ontological implications for form: aspect-portions do not possess the same reality within the other-dependent nature as consciousness-substance — form's existence is entirely dependent on consciousness's transformation.
+[^91]: See n. 59. This explanation has important ontological implications for form: aspect-portions do not possess the same reality within the other-dependent nature as consciousness-substance — form's existence is entirely dependent on consciousness's transformation.
 
 [^92]: The five-category sequence of the Hundred Dharmas traces a path from "the active transformer among the conditioned" to "the transformed product" to "the unconditioned true nature." Form, as the third category, occupies the core "product" position — the material aspect projected by consciousness.
 

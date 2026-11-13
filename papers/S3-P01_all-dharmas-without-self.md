@@ -5,7 +5,7 @@ series_short: "S3"
 paper_id: "S3-P01"
 paper_number: 1
 date: "2026-03"
-version: "2.0"
+version: "2.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # All Dharmas Are Without Self: The Framework of the Hundred Dharmas
@@ -17,9 +17,9 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract 摘要
 
-Vasubandhu's *Śatadharmaprakāśamukha-śāstra* (大乘百法明門論) opens with "all dharmas are without self" and deconstructs mental activity into a precise architecture of one hundred dharmas in five categories. As the overture to the "Practice" series (S3), this paper argues that the Hundred Dharmas are not a glossary for memorization but a map for practice: the five-category sequence itself traces a contemplative path from consciousness to *tathatā*; the three transformations (*pariṇāma*) reveal the eight consciousnesses as a dynamic organic system; and the three-nature (*trisvabhāva*) teaching of the *Saṃdhinirmocana Sūtra* provides the methodological lens through which every dharma is examined. The treatise begins with "all dharmas are without self" and concludes with the twofold selflessness of persons and dharmas—722 characters that cover the complete cognitive map from ordinary being to Buddhahood.
+Vasubandhu's *Śatadharmaprakāśamukha-śāstra* (大乘百法明門論) opens with "all dharmas are without self" and deconstructs mental activity into a precise architecture of one hundred dharmas in five categories. As the overture to the "Practice" series (S3), this paper argues that the Hundred Dharmas are not a glossary for memorization but a map for practice: the five-category sequence itself traces a contemplative path from consciousness to *tathatā*; the three transformations (*pariṇāma*) reveal the eight consciousnesses as a dynamic organic system; and the three-nature (*trisvabhāva*) teaching of the *Saṃdhinirmocana Sūtra* provides the methodological lens through which every dharma is examined. The treatise begins with "all dharmas are without self" and concludes with the twofold selflessness of persons and dharmas—542 characters that cover the complete cognitive map from ordinary being to Buddhahood.
 
-天親菩薩的《大乘百法明門論》以「一切法無我」開宗，將心識活動解構為五位百法的精密架構。本文作為「行」系列（S3）的總綱，論證百法不是名相記誦的清單，而是一幅修行地圖：五位排列本身就是「從識到真如」的修行路徑；三能變揭示八識作為有機整體的動態結構；而解深密經所教示的三性觀法則提供觀照百法的方法論透鏡。百法從「一切法無我」起，以「補特伽羅無我、法無我」終——722字的短論，完整覆蓋了從凡夫到佛果的認知地圖。
+天親菩薩的《大乘百法明門論》以「一切法無我」開宗，將心識活動解構為五位百法的精密架構。本文作為「行」系列（S3）的總綱，論證百法不是名相記誦的清單，而是一幅修行地圖：五位排列本身就是「從識到真如」的修行路徑；三能變揭示八識作為有機整體的動態結構；而解深密經所教示的三性觀法則提供觀照百法的方法論透鏡。百法從「一切法無我」起，以「補特伽羅無我、法無我」終——542字的短論，完整覆蓋了從凡夫到佛果的認知地圖。
 
 **Keywords 關鍵詞:** *Śatadharmaprakāśamukha*, *anātman*, five categories, three transformations, *trisvabhāva*, *āśraya-parāvṛtti* / 百法明門論、一切法無我、五位百法、三能變、三性、轉依
 
@@ -35,11 +35,11 @@ You sit down to observe your "volition aggregate" (*saṃskāra-skandha*). Fine�
 
 Around the fourth or fifth century CE, a treatise-master named Vasubandhu solved this problem.[^1]
 
-His method was direct: disassemble the aggregates into finer components. Split "consciousness" into eight types (the eight consciousnesses). Split "volition" into fifty-one mental factors (*caitasika*) plus twenty-four conceptual constructs (factors dissociated from mind). Split "form" into eleven types. Add six unconditioned dharmas as the ultimate destination of practice.
+His method was direct: disassemble the aggregates into finer components. Split "consciousness" into eight types (the eight consciousnesses). Split "feeling," "perception," and "volition" into fifty-one mental factors (*caitasika*) plus twenty-four conceptual constructs (factors dissociated from mind). Split "form" into eleven types. Add six unconditioned dharmas as the ultimate destination of practice.
 
 One hundred dharmas in total.
 
-This is the *Śatadharmaprakāśamukha-śāstra*—the Treatise on the Doors Illuminated by a Hundred Dharmas—a text of only 722 Chinese characters, yet the entry key to the entire Yogācāra system. Its full title reveals its provenance: "A Summary Enumeration from the Section on Essential Topics"—it is an abridgement of the 660 dharmas found in Asaṅga's *Yogācārabhūmi-śāstra*.[^2] Six hundred and sixty was too many; one hundred is just right: precise enough to guide practice, compact enough to fit on a single page.
+This is the *Śatadharmaprakāśamukha-śāstra*—the Treatise on the Doors Illuminated by a Hundred Dharmas—a text whose main body runs to only 542 Chinese characters, yet the entry key to the entire Yogācāra system. Its full title reveals its provenance: "A Summary Enumeration from the Section on Essential Topics"—it is an abridgement of the 660 dharmas found in the *Yogācārabhūmi-śāstra* (spoken by Maitreya).[^2] Six hundred and sixty was too many; one hundred is just right: precise enough to guide practice, compact enough to fit on a single page.
 
 But this paper argues for more than "what the Hundred Dharmas are." Any Buddhist textbook can list a hundred terms. The argument here is threefold: **the sequence of the five categories is itself a path of practice; the three-nature teaching provides the methodological lens for examining every dharma; and "all dharmas are without self" is not a negative declaration but the starting point for the transformation of consciousness into wisdom.**
 
@@ -65,7 +65,7 @@ The treatise opens with two questions—"What are all dharmas? What is meant by 
 >
 > "Without self" is of two kinds: (1) the selflessness of persons (*pudgala-nairātmya*), and (2) the selflessness of dharmas (*dharma-nairātmya*).[^3]
 
-From "all dharmas are without self" to "the twofold selflessness"—722 characters complete a precise closed loop.
+From "all dharmas are without self" to "the twofold selflessness"—542 characters complete a precise closed loop.
 
 ### 2.2 The Āgama Root of "All Dharmas Are Without Self"
 
@@ -73,9 +73,9 @@ From "all dharmas are without self" to "the twofold selflessness"—722 characte
 
 The *Ekottarāgama* summarizes the essential framework of the Dharma in "four dharma foundations" (*catuḥ-dharma-pada*), the third of which is precisely this:
 
-> 一切行無常，是謂初法本。一切行苦，是謂第二法本。**一切法無我**，此第三法本。滅盡為涅槃，是謂第四法本。
+> 一切行無常，是謂初法本，當念修行。一切行苦，是謂第二法本，當共思惟。**一切法無我**，此第三法本，當共思惟。滅盡為涅槃，是謂第四法本，當共思惟。
 >
-> "All formations are impermanent"—this is the first dharma foundation. "All formations are suffering"—this is the second. "**All dharmas are without self**"—this is the third. "Cessation is nirvāṇa"—this is the fourth.[^4]
+> "All formations are impermanent"—this is the first dharma foundation; one should keep it in mind and practice it. "All formations are suffering"—this is the second; one should contemplate it together. "**All dharmas are without self**"—this is the third; one should contemplate it together. "Cessation is nirvāṇa"—this is the fourth; one should contemplate it together.[^4]
 
 "All dharmas are without self," as one of the four dharma seals, stands alongside "all formations are impermanent" and "all formations are suffering," yet its scope is broader—"formations" is limited to conditioned dharmas, while "dharmas" encompasses everything, including the unconditioned.
 
@@ -190,7 +190,7 @@ The Hundred Dharmas Treatise provides the skeleton; the *Cheng Weishi Lun* (*Vij
 
 This passage establishes the entire causal chain of Yogācāra practice: **confusion → understanding → severance → attainment.** Confused about what? The twofold emptiness. Understanding what? Consciousness-only. Severing what? The twofold obstruction. Attaining what? The twofold fruit (liberation and awakening). The classificatory work of the Hundred Dharmas serves the very first step of this chain—eliminating confusion about how "self" and "dharmas" actually operate.
 
-Immediately following, the *Cheng Weishi Lun* cites the opening verse of the *Triṃśikā* (Thirty Verses):
+Immediately following, the *Cheng Weishi Lun* cites the first verse and the first half of the second verse of the *Triṃśikā* (Thirty Verses):
 
 > 由假說我、法，有種種相轉。彼依識所變，此能變唯三：謂異熟、思量，及了別境識。
 >
@@ -426,7 +426,7 @@ S3's answer: **There are eight passengers in the car, but none of them is the dr
 | S1-P01 The Butterfly Effect of Initial Aspiration | S1-P01 asks "who is driving?"; S3-P01 begins to answer—the car has 100 parts, but no driver |
 | S1-P09 Preparing the Vessel | S1-P09 prepares the vessel; S3-P01 provides the toolkit—the Hundred Dharmas are the parts manual that follows the vessel |
 | S1-P10 The Thirty-Seven Factors of Awakening | S1-P10's thirty-seven factors are the methodology; S3's Hundred Dharmas are the object of that methodology—using the thirty-seven factors' awareness to examine the Hundred Dharmas |
-| S2-P03 Going Deep Inward into the Formations | S2-P03 illuminates the emptiness of the formations aggregate; S3-P01 disassembles it into 51 mental factors + 24 dissociated factors—from 1 aggregate to 75 dharmas |
+| S2-P03 Going Deep Inward into the Formations | S2-P03 illuminates the emptiness of the formations aggregate; S3-P01 disassembles it into 49 mental factors + 24 dissociated factors—from 1 aggregate to 73 dharmas |
 | S2-P04 Illuminating the Emptiness of the Five Aggregates | S2-P04 prajñā-observes emptiness + S3-P01 Yogācāra-observes dependent arising = complementary. Prajñā illuminates the five aggregates as empty; Yogācāra unfolds the conditioned structure of the Hundred Dharmas |
 | S3-P02–P08 | This paper serves as the map for the entire series; subsequent papers explore each region in depth |
 | S5-P10 From Hundred Dharmas to Diamond (preview) | S3 constructs the toolkit → S5 tells you the toolkit is entirely dependent nature. The Hundred Dharmas are elevated from "real tools" to "illusory designations" |
@@ -441,7 +441,7 @@ S3's answer: **There are eight passengers in the car, but none of them is the dr
 
 [^3]: *Śatadharmaprakāśamukha-śāstra* (《大乘百法明門論》), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, No. 1614.
 
-[^4]: *Ekottarāgama* (《增壹阿含經》), Fascicle 23: 「一切行無常，是謂初法本。一切行苦，是謂第二法本。一切法無我，此第三法本。滅盡為涅槃，是謂第四法本」"All formations are impermanent, this is the first dharma foundation. All formations are suffering, this is the second. All dharmas are without self, this is the third. Cessation is nirvāṇa, this is the fourth." The four dharma foundations (four dharma seals). Taishō vol. 2, No. 0125.
+[^4]: *Ekottarāgama* (《增壹阿含經》), Fascicle 23: 「一切行無常，是謂初法本，當念修行。一切行苦，是謂第二法本，當共思惟。一切法無我，此第三法本，當共思惟。滅盡為涅槃，是謂第四法本，當共思惟」"All formations are impermanent, this is the first dharma foundation; one should keep it in mind and practice it. All formations are suffering, this is the second; one should contemplate it together. All dharmas are without self, this is the third; one should contemplate it together. Cessation is nirvāṇa, this is the fourth; one should contemplate it together." The four dharma foundations (four dharma seals). Taishō vol. 2, No. 0125.
 
 [^5]: *Saṃyuktāgama* (《雜阿含經》), Fascicle 10, Sūtra 262 (Channada Sūtra): 「色無常，受、想、行、識無常，一切行無常，一切法無我，涅槃寂滅」"Form is impermanent; sensation, perception, volition, and consciousness are impermanent. All formations are impermanent. All dharmas are without self. Nirvāṇa is cessation and peace." Taishō vol. 2, No. 0099.
 
@@ -451,7 +451,7 @@ S3's answer: **There are eight passengers in the car, but none of them is the dr
 
 [^8]: *Avataṃsaka Sūtra* (《大方廣佛華嚴經》), 80-fascicle edition, Fascicle 37, Ten Stages chapter, Sixth Ground: 「三界所有，唯是一心。如來於此分別演說十二有支，皆依一心，如是而立」"All that exists in the three realms is only one mind. The Tathāgata analytically teaches the twelve links—all are established in dependence on one mind." Taishō vol. 10, No. 0279. 60-fascicle edition, Fascicle 25, Ten Stages chapter: 「三界虛妄但是心作」"The three realms are unreal—merely made by mind." Taishō vol. 9, No. 0278.
 
-[^9]: *Avataṃsaka Sūtra* (《大方廣佛華嚴經》), 80-fascicle edition, Fascicle 19, Verses in Yama Heaven chapter, Bodhisattva Juelin's verse: 「心如工畫師，能畫諸世間，五蘊悉從生，無法而不造」"Mind is like a master painter, painting the entire world; the five aggregates all arise from it, there is nothing it does not create." And: 「若人欲了知，三世一切佛，應觀法界性，一切唯心造」"If one wishes to know all Buddhas of the three times, one should contemplate the nature of the dharma-realm: all is made by mind alone." Taishō vol. 10, No. 0279. 60-fascicle edition, Fascicle 10: 「心如工畫師，畫種種五陰，一切世界中，無法而不造。如心佛亦爾，如佛眾生然，心佛及眾生，是三無差別」Taishō vol. 9, No. 0278.
+[^9]: *Avataṃsaka Sūtra* (《大方廣佛華嚴經》), 80-fascicle edition, Fascicle 19, Verses in Yama Heaven chapter, Bodhisattva Juelin's verse: 「心如工畫師，能畫諸世間，五蘊悉從生，無法而不造」"Mind is like a master painter, painting the entire world; the five aggregates all arise from it, there is nothing it does not create." And: 「若人欲了知，三世一切佛，應觀法界性，一切唯心造」"If one wishes to know all Buddhas of the three times, one should contemplate the nature of the dharma-realm: all is made by mind alone." Taishō vol. 10, No. 0279. 60-fascicle edition, Fascicle 10, chapter on the Bodhisattvas' Verses in the Yāma Heaven Palace, verse of Bodhisattva Rulailin (如來林): 「心如工畫師，畫種種五陰，一切世界中，無法而不造。如心佛亦爾，如佛眾生然，心佛及眾生，是三無差別」Taishō vol. 9, No. 0278.
 
 [^10]: The relationship between the *Avataṃsaka*'s "all is made by mind alone" (一切唯心造) and Yogācāra's "all dharmas are consciousness-only" (萬法唯識): the former is a sūtra-level proclamation; the latter is its systematic elaboration at the treatise level. The Hundred Dharmas Treatise's placement of "mind dharmas, because [mind] is supreme among all" (心法一切最勝故) in first position is precisely the implementation of the *Avataṃsaka*'s "mind-only" thesis as the first principle of classification. The two are fully consistent on the point that "consciousness is the fundamental basis of all dharmas," but the Hundred Dharmas proceed to ask: what is the internal structure of this "mind"?
 
@@ -465,7 +465,7 @@ S3's answer: **There are eight passengers in the car, but none of them is the dr
 
 [^15]: *Cheng Weishi Lun* (《成唯識論》), Fascicle 1, *Triṃśikā* Verses 1–2 and commentary: 「由假說我法，有種種相轉。彼依識所變，此能變唯三」"By the metaphorical designation of self and dharmas, various appearances arise. They depend on transformations of consciousness. These transformations are of three kinds only." Taishō vol. 31, No. 1585.
 
-[^16]: *Yogācārabhūmi-śāstra* (《瑜伽師地論》), Fascicle 3, *Maulī-bhūmi*, section on the five consciousness groups: 「如是若內若外六處所攝法，差別分別有六百六十」"Thus the dharmas comprised within the six internal and external bases, differentiated and distinguished, number six hundred and sixty." Taishō vol. 30, No. 1579.
+[^16]: *Yogācārabhūmi-śāstra* (《瑜伽師地論》), Fascicle 3, Fundamental Section (*Maulī-bhūmi*), the Stage of Mind (意地, the second stage), part 3: 「如是若內若外六處所攝法，差別分別有六百六十」"Thus the dharmas comprised within the six internal and external bases, differentiated and distinguished, number six hundred and sixty." Taishō vol. 30, No. 1579.
 
 [^17]: *Yogācārabhūmi-śāstra* (《瑜伽師地論》), Fascicle 100, *Vastusaṃgrahaṇī*: 「一切事以要言之，總有五事。一者、心事，二者、心所有法事，三者、色事，四者、心不相應行事，五者、無為事」"All entities, stated concisely, are of five kinds: (1) mind-entities, (2) mental-factor entities, (3) form-entities, (4) entities dissociated from mind, (5) unconditioned entities." Taishō vol. 30, No. 1579.
 

@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P10"
 paper_number: 10
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Subsidiary Afflictions: The Branches of Suffering
@@ -18,7 +18,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The twenty subsidiary afflictions (upakleśa) are not a checklist of twenty isolated bad habits but a three-tiered ecological system of mental contamination: the ten minor afflictions arise individually (each time only one, such as fury, resentment, or vexation), the two medium afflictions pervade every unwholesome mind (shamelessness and lack of propriety form the backdrop of all unwholesome states), and the eight major afflictions pervade every defiled mind (restlessness, torpor, and others pervade all defiled states including both unwholesome and morally indeterminate-yet-obscured mental states). This paper takes the twenty subsidiary affliction definitions in fascicle six of the *Cheng weishi lun* as its primary analytical engine, draws upon the *Saṃyuktāgama*, *Ekottarāgama*, *Saṃdhinirmocana Sūtra*, *Śūraṅgama Sūtra*, *Avataṃsaka Sūtra*, *Mahāprajñāpāramitā-śāstra*, *Yogācārabhūmi-śāstra*, *Pañcaskandhaka*, and *Bashi guiju buzhu* as supporting sources, and systematically unfolds the complete doctrinal architecture of subsidiary afflictions. §2 establishes scriptural foundations in two tiers: sūtras (Āgama prototypes, the ignorance–shamelessness–wrong-view causal chain, five hindrances and the fire simile of the seven awakening factors, heedlessness, the *Saṃdhinirmocana*'s cross-elimination model for śamatha-vipaśyanā, the *Śūraṅgama*'s fifty skandha-demons, the *Avataṃsaka*'s ten-stage obstacles, and the *Mahāprajñāpāramitā-śāstra*'s four-layer analysis of anger) and treatises (*Cheng weishi lun* definitions and classifications, *Yogācārabhūmi* eight entanglements and twenty-three natures, *Bashi guiju buzhu* verse commentaries, and *Pañcaskandhaka* definitions). §3 unfolds the core argument in ten layers: three-tier structure, developmental sequences of the minor ten, shamelessness and lack of propriety as the "entry pass" for unwholesome states, the dynamic balance of restlessness and torpor, the causal chain of faithlessness–laziness–heedlessness, deluded mindfulness–distraction–wrong knowing as corrupted forms of the object-specific factors, the real-versus-nominal ontological status, consciousness-specific configurations, the principle of "cut the root not the branches," and the three-paper closed loop (P08–P09–P10). §4 offers seven cross-disciplinary analogies (all marked ⚠️ heuristic): Yerkes-Dodson law, mind wandering, default mode network, Dunning-Kruger effect, moral disengagement, self-deception, and social comparison theory. §5 provides five Middle Way corrections.
+The twenty subsidiary afflictions (upakleśa) are not a checklist of twenty isolated bad habits but a three-tiered ecological system of mental contamination: the ten minor afflictions arise individually (each time only one, such as fury, resentment, or vexation), the two medium afflictions pervade every unwholesome mind (shamelessness and lack of propriety form the backdrop of all unwholesome states), and the eight major afflictions pervade every defiled mind (restlessness, torpor, and others pervade all defiled states including both unwholesome and morally indeterminate-yet-obscured mental states). This paper takes the twenty subsidiary affliction definitions in fascicle six of the *Cheng weishi lun* as its primary analytical engine, draws upon the *Saṃyuktāgama*, *Ekottarāgama*, *Saṃdhinirmocana Sūtra*, *Śūraṅgama Sūtra*, *Avataṃsaka Sūtra*, *Mahāprajñāpāramitā-śāstra*, *Yogācārabhūmi-śāstra*, *Pañcaskandhaka*, and *Bashi guiju buzhu* as supporting sources, and systematically unfolds the complete doctrinal architecture of subsidiary afflictions. §2 establishes scriptural foundations in two tiers: sūtras (Āgama prototypes, the ignorance–shamelessness–wrong-view causal chain, five hindrances and the fire simile of the seven awakening factors, heedlessness, the *Saṃdhinirmocana*'s cross-elimination model for śamatha-vipaśyanā, the *Śūraṅgama*'s fifty skandha-demons, the *Avataṃsaka*'s ten-stage obstacles, and the *Mahāprajñāpāramitā-śāstra*'s four-layer analysis of anger) and treatises (*Cheng weishi lun* definitions and classifications, *Yogācārabhūmi* eight entanglements and twenty-four natures, *Bashi guiju buzhu* verse commentaries, and *Pañcaskandhaka* definitions). §3 unfolds the core argument in ten layers: three-tier structure, developmental sequences of the minor ten, shamelessness and lack of propriety as the "entry pass" for unwholesome states, the dynamic balance of restlessness and torpor, the causal chain of faithlessness–laziness–heedlessness, deluded mindfulness–distraction–wrong knowing as corrupted forms of the object-specific factors, the real-versus-nominal ontological status, consciousness-specific configurations, the principle of "cut the root not the branches," and the three-paper closed loop (P08–P09–P10). §4 offers seven cross-disciplinary analogies (all marked ⚠️ heuristic): Yerkes-Dodson law, mind wandering, default mode network, Dunning-Kruger effect, moral disengagement, self-deception, and social comparison theory. §5 provides five Middle Way corrections.
 
 **Keywords:** subsidiary afflictions (upakleśa), minor afflictions, medium afflictions, major afflictions, restlessness (auddhatya), torpor (styāna), shamelessness (āhrīkya), lack of propriety (anapatrāpya), seven factors of awakening, śamatha-vipaśyanā balance, Śatadharmaprakāśamukha
 
@@ -32,7 +32,7 @@ S3-P08 unfolded the eleven wholesome mental factors — the fuel for practice. S
 
 If root afflictions are the core contaminants in the engine — ignorance, craving, aversion, pride, doubt, and wrong views — then subsidiary afflictions are the exhaust fumes and derivative malfunctions produced as the contaminated engine runs. Each of the twenty subsidiary afflictions can be traced back to one or more root afflictions as its essential nature. They are not independent new problems but positional variants and homogeneous outflows of the fundamental ones.[^1]
 
-The *Śatadharmaprakāśamukha* lists twenty subsidiary afflictions: fury, resentment, concealment, vexation, jealousy, miserliness, deceit, flattery, harmfulness, arrogance, shamelessness, lack of propriety, restlessness, torpor, faithlessness, laziness, heedlessness, deluded mindfulness, distraction, and wrong knowing.[^2] The *Cheng weishi lun* encapsulates them in a single verse:
+The *Śatadharmaprakāśamukha* lists twenty subsidiary afflictions: fury, resentment, vexation, concealment, deceit, flattery, arrogance, harmfulness, jealousy, miserliness, shamelessness, lack of propriety, faithlessness, laziness, heedlessness, torpor, restlessness, deluded mindfulness, wrong knowing, and distraction.[^2] The *Cheng weishi lun* encapsulates them in a single verse:
 
 > "Subsidiary afflictions are: fury, resentment, concealment, vexation, jealousy, miserliness, / deceit, flattery with harmfulness, arrogance, shamelessness and lack of propriety, / restlessness and torpor, faithlessness together with laziness, / heedlessness and deluded mindfulness, distraction and wrong knowing."[^3]
 
@@ -44,7 +44,7 @@ The commentary states:
 
 The *Verses on the Eight Consciousnesses* references subsidiary afflictions at three points regarding consciousness-specific configurations:
 
-The second verse on the first five consciousnesses: "Universal, object-specific, eleven wholesome, / **the two medium, eight major**, craving, aversion, delusion"[^5] — the first five consciousnesses associate only with the two medium and eight major subsidiary afflictions; the ten minor are too coarse and require discrimination to arise, which the first five cannot perform.
+The first verse on the first five consciousnesses: "Universal, object-specific, eleven wholesome, / **the two medium, eight major**, craving, aversion, delusion"[^5] — the first five consciousnesses associate only with the two medium and eight major subsidiary afflictions; the ten minor are too coarse and require discrimination to arise, which the first five cannot perform.
 
 The first verse on the seventh consciousness: "**Four afflictions and eight major** arise together"[^6] — manas associates only with the four root afflictions plus the eight major subsidiary afflictions; not even the medium two, because manas is morally obscured-but-indeterminate, not unwholesome, and shamelessness and lack of propriety pervade only unwholesome minds.
 
@@ -96,7 +96,7 @@ In the Āgamas, comprehensive lists of afflictions already appear. The *Saṃyuk
 
 The *Ekottarāgama* (fascicle 6) provides an independent classification in the form of "twenty-one fetters":
 
-> "Beings whose minds are stained by twenty-one fetters should be understood as destined for evil destinies: the fetter of anger, the fetter of harmful intent, the fetter of sleepiness, the fetter of excitement, the fetter of doubt, the fetter of wrath, the fetter of envy, the fetter of vexation... shamelessness, lack of propriety, deception, craftiness, falseness... arrogance, conceit, jealousy..."[^11]
+> "Beings whose minds are stained by twenty-one fetters should be understood as destined for evil destinies... the fetter of anger, the fetter of harmful intent, the fetter of sleepiness, the fetter of excitement, the fetter of doubt, the fetter of wrath, the fetter of envy, the fetter of vexation... shamelessness, lack of propriety, deception, craftiness, falseness... arrogance, conceit, jealousy..."[^11]
 
 Wrath (fury), envy (jealousy), vexation, shamelessness, lack of propriety, deception (deceit), craftiness and falseness (flattery), arrogance, excitement (restlessness-and-regret) — these directly correspond to items later formalized as subsidiary afflictions. The Āgama classification framework differs from the Hundred Dharmas, but the observed psychological facts are consistent.
 
@@ -170,7 +170,7 @@ Among the major subsidiary afflictions, heedlessness receives extraordinary peda
 
 > "Just as all grasses, herbs, and trees depend on the earth to grow, so all wholesome dharmas depend on non-heedlessness as their foundation... Just as the finest incense is red sandalwood, so among all wholesome dharmas, non-heedlessness is the root."[^25]
 
-> "Just as among all animal tracks, the elephant's is supreme, so among all wholesome dharmas, non-heedlessness is the most fundamental."[^26]
+> "Just as, monks, among all animal tracks, the elephant's is supreme, so among all wholesome dharmas, non-heedlessness is the most fundamental."[^26]
 
 Earth, sandalwood, elephant tracks, the ridgepole, Mount Sumeru, the finest gold, moonlight, a wheel-turning monarch, Indra, up to the Tathāgata himself — over thirty similes, all converging on one conclusion: non-heedlessness is the root of all wholesome dharmas.
 
@@ -333,9 +333,9 @@ The first five consciousnesses: the ten minor cannot arise (fury, resentment, je
 
 #### 2.14–2.16 Supporting Treatise Sources
 
-The *Yogācārabhūmi* (fascicle 8) lists the "eight entanglements" — shamelessness, lack of propriety, torpor, sleepiness, restlessness, regret, jealousy, and miserliness — selected by the criterion of "frequently arising in practice," cutting across the minor/medium/major classification.[^81] Fascicle 55 provides the full list of twenty-three subsidiary-affliction natures (three more than the *Cheng weishi lun*'s twenty), nine dependency-bases, correspondence rules, and the nominal-versus-substantial status of each.[^82]–[^84]
+The *Yogācārabhūmi* (fascicle 8) lists the "eight entanglements" — shamelessness, lack of propriety, torpor, sleepiness, restlessness, regret, jealousy, and miserliness — selected by the criterion of "frequently arising in practice," cutting across the minor/medium/major classification.[^81] Fascicle 55 provides the full list of twenty-four subsidiary-affliction natures (four more than the *Cheng weishi lun*'s twenty), nine dependency-bases, correspondence rules, and the nominal-versus-substantial status of each.[^82]–[^84]
 
-The *Bashi guiju buzhu* clarifies the three-characteristic (三義) framework: "Possessing all three characteristics — occurring together within class, pervading both moral polarities, pervading all defiled minds — is called 'major'; possessing one is 'medium'; possessing none is 'minor.'"[^85]
+The *Bashi guiju buzhu* clarifies the three-characteristic (三義) framework: "Possessing all three characteristics — occurring together within class, pervading both natures (the unwholesome and the obscured-indeterminate), pervading all defiled minds — is called 'major'; possessing one is 'medium'; possessing none is 'minor.'"[^85]
 
 The *Pañcaskandhaka* provides streamlined definitions of all twenty, with its characterization of wrong knowing being particularly notable: "not dwelling correctly within the present activity of body, speech, and mind" — emphasizing that wrong knowing is not merely theoretical misjudgment but incorrect operation in the very moment of bodily, verbal, and mental action.[^86]
 
@@ -571,11 +571,11 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 | 3 | Saṃdhinirmocana Sūtra 解深密經 | T16 | 0676 | 3 |
 | 4 | Śūraṅgama Sūtra 楞嚴經 | T19 | 0945 | 7, 9, 10 |
 | 5 | Avataṃsaka Sūtra 華嚴經 | T10 | 0279 | 35, 36, 37 |
-| 6 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 6, 13, 16, 17, 20, 22, 49, 73, 77, 81, 92, 94 |
+| 6 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 13, 16, 17, 20, 22, 30, 49, 73, 77, 81, 92, 94 |
 | 7 | Cheng weishi lun 成唯識論 | T31 | 1585 | 6, 9 |
 | 8 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30 | 1579 | 8, 55 |
 | 9 | Pañcaskandhaka 大乘五蘊論 | T31 | 1612 | Full |
-| 10 | Bashi guiju buzhu 八識規矩補註 | T45 | 1865 | Fascicle 1 |
+| 10 | Bashi guiju buzhu 八識規矩補註 | T45 | 1865 | Fascicles 1, 2 |
 
 ---
 
@@ -601,9 +601,9 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 [^2]: *Śatadharmaprakāśamukha* (大乘百法明門論), Vasubandhu, trans. Xuanzang. T31, No. 1614.
 [^3]: *Cheng weishi lun*, fascicle 6, subsidiary affliction verse. T31, No. 1585.
 [^4]: Ibid., commentary passage.
-[^5]: *Bashi guiju buzhu*, fascicle 1, second verse on the first five consciousnesses. T45, No. 1865.
-[^6]: Ibid., first verse on the seventh consciousness.
-[^7]: Ibid., second verse on the sixth consciousness.
+[^5]: *Bashi guiju buzhu*, fascicle 1, first verse on the first five consciousnesses. T45, No. 1865.
+[^6]: *Bashi guiju buzhu*, fascicle 2, first verse on the seventh consciousness. T45, No. 1865.
+[^7]: *Bashi guiju buzhu*, fascicle 1, second verse on the sixth consciousness. T45, No. 1865.
 [^8]: *Saṃyuktāgama*, fascicle 38, sūtra 1079 (Mound Simile). T02, No. 0099.
 [^9]: *Saṃyuktāgama*, fascicle 39, sūtra 1070 (Seed of Suffering Simile). T02, No. 0099.
 [^10]: *Saṃyuktāgama*, fascicle 7, sūtra 186, complete affliction listing. T02, No. 0099.
@@ -632,7 +632,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 [^33]: Ibid., five types of mental scattering — internal scattering.
 [^34]: *Śūraṅgama Sūtra*, fascicle 9, feeling-skandha demons, "sinking into memory" passage. T19, No. 0945.
 [^35]: Ibid., "mind fierce and sharp, aspiring to equal the Buddhas." T19, No. 0945.
-[^36]: Ibid., "denying cause and effect, empty mind appearing." T19, No. 0945.
+[^36]: Ibid., "denying cause and effect... empty mind appearing." T19, No. 0945.
 [^37]: The *Śūraṅgama*-to-Hundred-Dharmas mapping is Pointing at the Moon's analytical arrangement. The *Śūraṅgama* does not use Yogācāra classification terminology; this mapping is based on functional correspondence of descriptive language, not on traditional commentarial assignments.
 [^38]: *Avataṃsaka Sūtra*, fascicle 35, Ten Stages: Stage 2, "even in jest always speaks with deliberation — how much less would one utter words of distraction." T10, No. 0279.
 [^39]: Ibid., verse passage on non-heedlessness.
@@ -664,7 +664,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 [^88]: See [^46].
 [^89]: See [^57].
 [^90]: *Saṃyuktāgama*, fascicle 18, sūtra 490, nine fetters. T02, No. 0099.
-[^91]: *Mahāprajñāpāramitā-śāstra*, fascicle 6. T25, No. 1509.
+[^91]: *Mahāprajñāpāramitā-śāstra*, fascicle 30. T25, No. 1509.
 [^92]–[^96]: See respective earlier footnotes.
 [^97]: *Cheng weishi lun*, fascicle 6, faithlessness definition: "those who lack faith are mostly lazy." T31, No. 1585.
 [^99]: See [^67].

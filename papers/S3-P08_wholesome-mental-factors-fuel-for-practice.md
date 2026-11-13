@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P08"
 paper_number: 8
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Wholesome Mental Factors: Fuel for Practice
@@ -37,10 +37,10 @@ This paper enters the third of the six categories: the eleven wholesome mental f
 
 The *Śatadharmaprakāśamukha-śāstra* lists them:
 
-> "三善，謂信、慚、愧、無貪、無瞋、無癡、精進、輕安、不放逸、行捨、不害。"
-> "The third [category], wholesome, comprises: faith, conscience, shame, non-attachment, non-aversion, non-delusion, vigor, pliancy, non-negligence, equanimity, and non-harming."[^2]
+> "三善十一者，一信、二精進、三慚、四愧、五無貪、六無瞋、七無癡、八輕安、九不放逸、十行捨、十一不害。"
+> "The third, the wholesome, are eleven: first faith, second vigor, third conscience, fourth shame, fifth non-attachment, sixth non-aversion, seventh non-delusion, eighth pliancy, ninth non-negligence, tenth equanimity, eleventh non-harming."[^2]
 
-In the *Verses on the Eight Consciousnesses*, the wholesome factors appear at two key positions. The second verse for the first five consciousnesses:
+In the *Verses on the Eight Consciousnesses*, the wholesome factors appear at two key positions. The first verse for the first five consciousnesses:
 
 > "遍行別境善十一，中二大八貪瞋癡。"
 > "Universals, object-specifics, eleven wholesome, two intermediate, eight major, plus greed, aversion, delusion."[^3]
@@ -94,8 +94,8 @@ Faith opens the door; wisdom holds the structure together — faith and wisdom b
 
 Sūtra 691 expands the five faculties into seven powers, adding the powers of conscience and shame:
 
-> "何等為慚力？謂恥惡不善法。何等為愧力？於可愧事愧，愧起惡不善法。"
-> "What is the power of conscience? Being ashamed of unwholesome dharmas. What is the power of shame? Feeling shame at shameful acts, being ashamed of arising unwholesome dharmas."[^10]
+> "何等為慚力？謂恥惡不善法……何等為愧力？於可愧事愧，愧起惡不善法。"
+> "What is the power of conscience? Being ashamed of unwholesome dharmas... What is the power of shame? Feeling shame at shameful acts, being ashamed of arising unwholesome dharmas."[^10]
 
 Their independent listing among the seven powers shows that conscience and shame are not merely ordinary wholesome states but constitute "power" — the actual force that halts unwholesome dharmas. These two forces guard wholesome dharmas from within and without.
 
@@ -125,19 +125,19 @@ And characterizes them as inexhaustible:
 
 The *Ekottarikāgama* directly defines vigor through the four right efforts (*catvāri samyak-pradhānāni*):
 
-> "未生弊惡法，求方便令不生；已生弊惡法，求方便令不生；未生善法，求方便令生；已生善法，求方便令增多。"
-> "Unwholesome dharmas not yet arisen — one strives to prevent their arising. Unwholesome dharmas already arisen — one strives to abandon them. Wholesome dharmas not yet arisen — one strives to generate them. Wholesome dharmas already arisen — one strives to increase them."[^15]
+> "未生弊惡法，求方便令不生……已生弊惡法，求方便令不生……未生善法，求方便令生；已生善法，求方便令增多。"
+> "Unwholesome dharmas not yet arisen — one strives to prevent their arising... Unwholesome dharmas already arisen — one strives to abandon them... Wholesome dharmas not yet arisen — one strives to generate them. Wholesome dharmas already arisen — one strives to increase them."[^15]
 
 These four statements constitute the most concise formula for the entire dynamic of practice — practice always involves one of these four activities.
 
 **Non-Negligence: Root of All Wholesome Dharmas**
 
-Sūtra 882 of the *Saṃyuktāgama* is the most extensive Āgama teaching on non-negligence. The Buddha employs over twenty similes to reinforce a single proposition:
+Sūtra 882 of the *Saṃyuktāgama* is the most extensive Āgama teaching on non-negligence. The Buddha employs over thirty similes to reinforce a single proposition:
 
 > "譬如百草藥木，皆依於地而得生長；如是種種善法，皆依不放逸為本。"
 > "Just as all grasses, herbs, and trees depend on the earth to grow, so do all wholesome dharmas depend on non-negligence as their foundation."[^16]
 
-Earth, sandalwood, elephant tracks, Mount Sumeru, Garuḍa, the Wheel-Turning King, Śakra, Brahmā, the great ocean, moonlight, the Tathāgata — over twenty similes, each returning to the same conclusion: "All wholesome dharmas have non-negligence as their root." The *Ekottarikāgama* states directly in verse:
+Earth, sandalwood, elephant tracks, Mount Sumeru, Garuḍa, the Wheel-Turning King, Śakra, Brahmā, the great ocean, moonlight, the Tathāgata — over thirty similes, each returning to the same conclusion: "All wholesome dharmas have non-negligence as their root." The *Ekottarikāgama* states directly in verse:
 
 > "戒為甘露道，放逸為死徑。"
 > "Morality is the path of ambrosia; negligence is the road to death."[^17]
@@ -205,12 +205,12 @@ Fascicle 20 establishes great compassion's position in the entire Buddhist path 
 > "大悲是一切諸佛菩薩功德之根本，是般若波羅蜜之母，諸佛之祖母。"
 > "Great compassion is the root of all merit of all buddhas and bodhisattvas, the mother of prajñā-pāramitā, the grandmother of all buddhas."[^29]
 
-"Mother of prajñā, grandmother of all buddhas" — prajñā is the mother of buddhas (its standard epithet), and great compassion is the mother of prajñā. Compassion's position is more fundamental even than wisdom. Fascicle 27 unfolds three levels of compassion:
+"Mother of prajñā-pāramitā, grandmother of all buddhas" — prajñā is the mother of buddhas (its standard epithet), and great compassion is the mother of prajñā. Compassion's position is more fundamental even than wisdom. Fascicle 53 unfolds three levels of compassion:
 
 > "有三種悲：眾生緣、法緣、無緣。無緣悲從畢竟空生。"
 > "There are three kinds of compassion: sentient-being-conditioned, dharma-conditioned, and unconditioned. Unconditioned compassion arises from ultimate emptiness."[^30]
 
-The same fascicle distinguishes great from lesser compassion:
+Fascicle 27 distinguishes great from lesser compassion:
 
 > "小悲，名觀眾生種種身苦心苦，憐愍而已，不能令脫。……大悲，憐愍眾生苦，亦能令脫苦。"
 > "Lesser compassion means observing beings' various physical and mental sufferings and merely pitying them, without being able to liberate them... Great compassion means both pitying beings' suffering and being able to free them from it."[^31]
@@ -237,7 +237,7 @@ The commentary states: "唯善心俱，名善心所" — "Only those that accomp
 
 **Shame** (*apatrāpya*): "依世間力，輕拒暴惡為性" — "Based on the power of the world, its nature is to spurn the violent and evil."[^36]
 
-The two share "cessation of wrongdoing" as their function but differ in their source of force: conscience relies on "self and dharma" (one's own dignity and respect for the Dharma); shame relies on "worldly power" (social moral censure). The text clarifies: "自法名自，世間名他" — "Self and dharma constitute 'self'; the world constitutes 'other.'"[^37] Conscience is the self-awareness that "given who I am and what I know of the Dharma, how could I do evil?"[^38] Shame is the external restraint of knowing that "the world condemns and abhors such misdeeds."
+The two share "cessation of wrongdoing" as their function but differ in their source of force: conscience relies on "self and dharma" (one's own dignity and respect for the Dharma); shame relies on "worldly power" (social moral censure). The text clarifies: "自法名自，世間名他" — "Self and dharma constitute 'self'; the world constitutes 'other.'"[^37] Conscience is the self-awareness that "given who I am and what I know of the Dharma, how dare I do evil?"[^38] Shame is the external restraint of knowing that the world condemns and abhors such misdeeds.
 
 **Non-attachment** (*alobha*): "於有有具，無著為性" — "Non-clinging toward existence and the provisions of existence."
 
@@ -269,7 +269,7 @@ The *Yogācārabhūmi* concurs on the nominal status of three factors: "三世�
 
 #### 2.9 Bashi Guiju Buzhu: Verse Positioning
 
-The *Bashi Guiju Buzhu*'s commentary on the second verse of the first five consciousnesses — "遍行別境善十一" — provides annotations on each of the eleven wholesome factors one by one.[^56] It summarizes the real-nominal distinction: "前八法是實，後三是假" — "The first eight are real; the latter three are nominal."[^57]
+The *Bashi Guiju Buzhu*'s commentary on the first verse of the first five consciousnesses — "遍行別境善十一" — provides annotations on each of the eleven wholesome factors one by one.[^56] It summarizes the real-nominal distinction: "前八法是實，後三是假" — "The first eight are real; the latter three are nominal."[^57]
 
 The commentary on "根隨信等總相連" notes: "等者，等餘遍行別境及不定也" — "'And its kin' extends to the universals, object-specifics, and indeterminates" — meaning the sixth consciousness connects with all categories of mental factors, a mark of its vast functional scope.[^58]
 
@@ -331,13 +331,13 @@ Both are "nominally existent" — lacking independent substance, taking vigor an
 
 **Functional distinction:** Non-negligence "first removes defilement" (protective); equanimity "causes the mind to dwell in quiescence" (stabilizing).
 
-**Non-negligence's special status in the Āgamas** — Sūtra 882's twenty-plus similes declaring it "the root of all wholesome dharmas" — far exceeds the impression that the "nominally existent" designation might give. The Yogācāra analysis of substance and the Āgama analysis of function do not conflict: non-negligence's "lack of independent substance" precisely means it is not an additional thing but the *active state* of vigor and the three roots in operation. It is the marker of wholesome dharmas actually functioning.
+**Non-negligence's special status in the Āgamas** — Sūtra 882's thirty-plus similes declaring it "the root of all wholesome dharmas" — far exceeds the impression that the "nominally existent" designation might give. The Yogācāra analysis of substance and the Āgama analysis of function do not conflict: non-negligence's "lack of independent substance" precisely means it is not an additional thing but the *active state* of vigor and the three roots in operation. It is the marker of wholesome dharmas actually functioning.
 
 ### 3.8 Non-Harming: The Caitta Basis for Compassion
 
 Non-harming is the third nominally existent wholesome factor, established as a nominal subset of non-aversion.[^68]
 
-The distinction: non-aversion counters "killing anger"; non-harming counters "harming injury." Non-aversion's function is "bestowing happiness" (loving-kindness); non-harming's function is "removing suffering" (compassion). The *Mahāprajñāpāramitā-śāstra* calls great compassion "the mother of prajñā, the grandmother of all buddhas" — non-harming is this great compassion's caitta-level foundation. The *Cheng Weishi Lun* further cites the treatise's statement that "great compassion pertains to non-aversion and non-delusion" (*大悲無瞋癡攝*)[^52], and identifies three specific reasons for establishing non-harming as a distinct factor:
+The distinction: non-aversion counters "killing anger"; non-harming counters "harming injury." Non-aversion's function is "bestowing happiness" (loving-kindness); non-harming's function is "removing suffering" (compassion). The *Mahāprajñāpāramitā-śāstra* calls great compassion "the mother of prajñā-pāramitā, the grandmother of all buddhas" — non-harming is this great compassion's caitta-level foundation. The *Cheng Weishi Lun* further cites the treatise's statement that "great compassion pertains to non-aversion and non-delusion" (*大悲無瞋癡攝*)[^52], and identifies three specific reasons for establishing non-harming as a distinct factor:
 
 Non-harming deepens through three levels, corresponding to the three kinds of compassion: sentient-being-conditioned (not causing harm — negative), dharma-conditioned (actively removing suffering — positive), unconditioned (naturally benefiting all beings — effortless).[^69]
 
@@ -393,7 +393,7 @@ Correction: They are dynamic psychological functions that arise or do not arise 
 
 Common misreading: equating the Yogācāra category "wholesome" (*kuśala*) with everyday "niceness" or "being a good person."
 
-Correction: The Yogācāra definition is strict — "此世他世俱順益故，名為善" — "Benefiting both this life and future lives constitutes wholesomeness."[^73] A "nice person" acting from mere ignorant tolerance (without non-delusion present) does not meet the Yogācāra standard.
+Correction: The Yogācāra definition is strict — "能為此世、他世順益，故名為善" — "Benefiting both this life and future lives constitutes wholesomeness."[^73] A "nice person" acting from mere ignorant tolerance (without non-delusion present) does not meet the Yogācāra standard.
 
 ### 5.3 ⚠️ Nominally Existent ≠ Unimportant
 
@@ -429,7 +429,7 @@ Pliancy is the meditation foundation — the only wholesome factor that does not
 
 Non-negligence and equanimity are the Middle Way stabilizers — nominal in substance (taking vigor and the three roots as their basis), genuine in function: the former removes defilement, the latter establishes quiescence.
 
-Non-harming is the caitta basis for compassion — "Non-aversion bestows happiness; non-harming removes suffering." The *Mahāprajñāpāramitā-śāstra* calls great compassion "the mother of prajñā, the grandmother of all buddhas."
+Non-harming is the caitta basis for compassion — "Non-aversion bestows happiness; non-harming removes suffering." The *Mahāprajñāpāramitā-śāstra* calls great compassion "the mother of prajñā-pāramitā, the grandmother of all buddhas."
 
 The vehicle metaphor continues: P07's universals are the engine, the object-specifics the steering wheel. This paper's wholesome factors are the fuel — not one fuel but a precision-engineered compound. Next, we enter the fourth, fifth, and sixth categories of mental factors — the six fundamental afflictions and four indeterminate factors (S3-P09) — exploring the engine of saṃsāra: if wholesome factors are the fuel driving toward liberation, afflictive factors are the contaminants and pollutants. The transition from wholesome to afflictive will reveal why the same vehicle can be driven by two entirely opposite forces.
 
@@ -472,8 +472,8 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 | 4 | Avataṃsaka (60) 華嚴經 | T9 | 278 | 6 |
 | 5 | Saṃdhinirmocana 解深密經 | T16 | 676 | 3 |
 | 6 | Śūraṅgama 楞嚴經 | T19 | 945 | 2, 10 |
-| 7 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 13, 20, 27, 33 |
-| 8 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 6 |
+| 7 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 13, 20, 27, 33, 53 |
+| 8 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 5, 6 |
 | 9 | Yogācārabhūmi 瑜伽師地論 | T30 | 1579 | 55 |
 | 10 | Bashi Guiju Buzhu 八識規矩補註 | T45 | 1865 | 1 |
 | 11 | Pañcaskandhaka 大乘五蘊論 | T31 | 1612 | 1 |
@@ -504,8 +504,8 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 ## Footnotes
 
 [^1]: 《百法明門論》(Śatadharmaprakāśamukha-śāstra), "第二心所有法，略有五十一種，分為六位：一遍行有五，二別境有五，三善有十一……" (The second [category], mental factors, comprises fifty-one kinds in six subcategories: five universals, five object-specifics, eleven wholesome...), *Taishō* vol. 31, No. 1614.
-[^2]: 《百法明門論》, "三善，謂信、慚、愧、無貪、無瞋、無癡、精進、輕安、不放逸、行捨、不害" (The third, wholesome, comprises: faith, conscience, shame, non-attachment, non-aversion, non-delusion, vigor, pliancy, non-negligence, equanimity, non-harming), *Taishō* vol. 31, No. 1614.
-[^3]: 《八識規矩補註》(Bashi Guiju Buzhu), first five consciousnesses, second verse, *Taishō* vol. 45, No. 1865.
+[^2]: 《百法明門論》, "三善十一者，一信、二精進、三慚、四愧、五無貪、六無瞋、七無癡、八輕安、九不放逸、十行捨、十一不害" (The third, the wholesome, are eleven: first faith, second vigor, third conscience, fourth shame, fifth non-attachment, sixth non-aversion, seventh non-delusion, eighth pliancy, ninth non-negligence, tenth equanimity, eleventh non-harming), *Taishō* vol. 31, No. 1614.
+[^3]: 《八識規矩補註》(Bashi Guiju Buzhu), first five consciousnesses, first verse, *Taishō* vol. 45, No. 1865.
 [^4]: 《八識規矩補註》, sixth consciousness, second verse, *Taishō* vol. 45, No. 1865.
 [^5]: 《成唯識論》(Cheng Weishi Lun) fasc. 6, fourfold universality determination for wholesome factors, *Taishō* vol. 31, No. 1585.
 [^6]: 《成唯識論》fasc. 6, "此十一法，三是假有，謂不放逸、捨及不害……餘八實有，相用別故" (Of these eleven, three are nominally existent... the remaining eight are substantially real), *Taishō* vol. 31, No. 1585.
@@ -518,7 +518,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 [^13]: 《增一阿含經》fasc. 13, three wholesome roots leading to two favorable destinies and nirvāṇa, *Taishō* vol. 2, No. 125.
 [^14]: 《增一阿含經》fasc. 12, "有三善根，不可窮盡，漸至涅槃界" (Three wholesome roots, inexhaustible, gradually leading to the realm of nirvāṇa), *Taishō* vol. 2, No. 125.
 [^15]: 《增一阿含經》fasc. 18, Chapter on the Four Right Efforts (四意斷品), *Taishō* vol. 2, No. 125.
-[^16]: 《雜阿含經》fasc. 31, Sūtra 882, "一切善法，不放逸為根本" (All wholesome dharmas have non-negligence as their root), illustrated with over twenty similes, *Taishō* vol. 2, No. 99.
+[^16]: 《雜阿含經》fasc. 31, Sūtra 882, "一切善法，不放逸為根本" (All wholesome dharmas have non-negligence as their root), illustrated with over thirty similes, *Taishō* vol. 2, No. 99.
 [^17]: 《增一阿含經》fasc. 27, "戒為甘露道，放逸為死徑" (Morality is the path of ambrosia; negligence the road to death), *Taishō* vol. 2, No. 125.
 [^18]: CBETA reads 道元 ("origin"), not the commonly cited 道源 ("source"). 元 emphasizes faith as the primordial starting point.
 [^19]: 《大方廣佛華嚴經》fasc. 14, Xianshou chapter (賢首品), verses on faith, *Taishō* vol. 10, No. 279.
@@ -532,7 +532,7 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 [^27]: 《楞嚴經》fasc. 10, "如是十種禪那狂解，皆是行陰用心交互，故現斯悟" (All ten kinds of dhyāna derangement arise from the formation-aggregate's interactive mental activity), *Taishō* vol. 19, No. 945.
 [^28]: Zixuan, 《首楞嚴義疏注經》, fasc. 10a: 「想陰未盡猶引外魔，今想陰盡行陰明露，但於所覺境界別生異見，執此為是，故云心魔」 (While the perception-aggregate is not yet exhausted it still draws external demons; once it is exhausted and the formation-aggregate lies exposed, aberrant views arise toward what is realized and are grasped as right — hence "mind-demons"). *Taishō* vol. 39, No. 1799.
 [^29]: 《大智度論》fasc. 20, "大悲是一切諸佛菩薩功德之根本，是般若波羅蜜之母，諸佛之祖母" (Great compassion is the root of all buddhas' and bodhisattvas' merit, the mother of prajñā-pāramitā, the grandmother of all buddhas), *Taishō* vol. 25, No. 1509.
-[^30]: 《大智度論》fasc. 27, three kinds of compassion, *Taishō* vol. 25, No. 1509.
+[^30]: 《大智度論》fasc. 53, three kinds of compassion, *Taishō* vol. 25, No. 1509.
 [^31]: 《大智度論》fasc. 27, distinction between great and lesser compassion, *Taishō* vol. 25, No. 1509.
 [^32]: 《大智度論》fasc. 13, "諸功德中，不殺第一。世間中惜命為第一" (Among all virtues, non-killing is foremost. Among worldly things, cherishing life is foremost), *Taishō* vol. 25, No. 1509.
 [^33]: 《成唯識論》fasc. 6, summary verse for wholesome mental factors, *Taishō* vol. 31, No. 1585.

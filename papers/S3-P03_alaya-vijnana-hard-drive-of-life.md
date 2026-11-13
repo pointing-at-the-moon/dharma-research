@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P03"
 paper_number: 3
 date: "2026-03"
-version: "2.0"
+version: "2.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Ālaya-vijñāna: The Hard Drive of Life
@@ -20,7 +20,7 @@ license: "CC BY-NC-SA 4.0"
 
 The ālaya-vijñāna (storehouse consciousness) is the foundational basis of Yogācāra philosophy — the repository of all experiential seeds, the vehicle for karmic continuity, and the ground from which body and world are projected. This paper takes Xuanzang's three verses on the eighth consciousness from the *Verses on the Characteristics of the Eight Consciousnesses* (八識規矩頌) as its structural framework, unfolding the ālaya-vijñāna's complete doctrine with equal weight given to sūtra and treatise sources.
 
-§2 establishes the scriptural foundations in two parts: Part A (Sūtras) opens with the *Ghanavyūha Sūtra* (密嚴經) — the most comprehensive sūtra teaching on the ālaya-vijñāna — followed by the *Saṃdhinirmocana Sūtra*'s three-name teaching and torrent metaphor, the *Laṅkāvatāra Sūtra*'s storehouse-ocean and tathāgatagarbha, the *Avataṃsaka Sūtra*'s "three realms are mind-only," and the Āgamas' dependent origination and karmic continuity. Part B (Treatises) presents the *Cheng Weishi Lun*'s seven proofs and the *Mahāyānasaṃgraha*'s three aspects with learning-perfumation.
+§2 establishes the scriptural foundations in two parts: Part A (Sūtras) opens with the *Ghanavyūha Sūtra* (密嚴經) — the most comprehensive sūtra teaching on the ālaya-vijñāna — followed by the *Saṃdhinirmocana Sūtra*'s three-name teaching and torrent metaphor, the *Laṅkāvatāra Sūtra*'s storehouse-ocean and tathāgatagarbha, the *Avataṃsaka Sūtra*'s "three realms are mind-only," and the Āgamas' dependent origination and karmic continuity. Part B (Treatises) presents the *Cheng Weishi Lun*'s ten proofs and the *Mahāyānasaṃgraha*'s three aspects with learning-perfumation.
 
 §3 unfolds the core argument in six layers: (1) nature and associated mental factors via the first verse; (2) the three storehouse meanings and ocean-wave metaphor via the second verse; (3) the seed mechanism through the six characteristics and four perfumation conditions; (4) the three great functions — receiving perfumation, holding seeds, and projecting body-and-world; (5) the mechanism of birth and death; (6) the three stages of transformation with learning-perfumation as the active path and the three-school debate as doctrinal depth. §4 offers the "hard drive" as a heuristic cross-disciplinary analogy. §5 provides five middle-way corrections. §6 concludes.
 
@@ -80,7 +80,7 @@ The sūtra uses the torrent metaphor to describe the ālaya's dynamic operation:
 
 At the same time, the sūtra declares that this consciousness is "inherently luminous in nature" — although perfumed by habitual impressions, its nature remains pure: "The ālaya-vijñāna, though dwelling together with its perfumers, all mental dharmas, and all defiled and pure seeds, is inherently luminous in nature."[^6]
 
-The sūtra uses the maṇi-jewel to illustrate the relationship between seeds and the consciousness: "The storehouse-consciousness holds all seeds, / Wrapped in habitual impressions, / Like a maṇi jewel / That manifests various colors according to conditions. / Though dwelling in the body of sentient beings, / Its essence is pure and undefiled — / It is the definitive nature, / And also great nirvāṇa."[^7] The maṇi jewel displays various colors according to conditions while its substance remains pure. The ālaya holds all seeds and manifests all dharmas according to conditions, yet the consciousness-body itself is "pure and undefiled."
+The sūtra uses the maṇi-jewel to illustrate the relationship between seeds and the consciousness: "The storehouse-consciousness holds all seeds, / Wrapped in habitual impressions, / Like a maṇi jewel / That manifests various colors according to conditions. / Though dwelling in the body of sentient beings, / Like the goose-king, without stain — / It is the definitive nature, / And also great nirvāṇa."[^7] The maṇi jewel displays various colors according to conditions while its substance remains pure. The ālaya holds all seeds and manifests all dharmas according to conditions, yet the consciousness-body itself is, "like the goose-king, without stain."
 
 The sūtra's most crucial verse directly establishes the identity of tathāgatagarbha and ālaya-vijñāna:
 
@@ -104,7 +104,7 @@ Three names reveal three facets: ādāna (holding) is the functional dimension, 
 
 The same sūtra establishes the ālaya as the foundation upon which the six consciousnesses turn: "Taking the ādāna consciousness as basis and support, the six consciousness-bodies turn."[^13] This is the canonical root of the three-transformation architecture: the eighth consciousness as basis, the six consciousnesses turning upon it.
 
-The sūtra offers two metaphors: the torrent — "Like a great torrential flow, when the condition for one wave arises, only one wave turns" — showing that the consciousness-body flows continuously while consciousness-waves arise according to conditions; and the mirror — "Like a well-polished mirror surface, when the condition for one reflection arises, only one reflection appears; the mirror surface does not transform into the reflection" — showing that the consciousness-body is not altered by what it manifests.[^14]
+The sūtra offers two metaphors: the torrent — "Like a great torrential flow, when the condition for one wave arises, only one wave turns" — showing that the consciousness-body flows continuously while consciousness-waves arise according to conditions; and the mirror — "Like a well-polished mirror surface, when the condition for one reflection arises, only one reflection appears ... the mirror surface does not transform into the reflection" — showing that the consciousness-body is not altered by what it manifests.[^14]
 
 The Buddha further summarizes in verse: "The ādāna consciousness is extremely deep and subtle; / All seeds are like a torrential stream. / I do not teach this to the foolish and ignorant, / Lest they discriminate and cling to it as a self."[^15] The Buddha himself explains why he withholds this teaching from ordinary beings — they would mistake it for a self. This warning becomes the starting point for this paper's middle-way corrections.
 
@@ -128,7 +128,7 @@ The *Avataṃsaka Sūtra*'s chapter on the ten grounds establishes the fundament
 
 > "All that exists in the three realms is mind alone. The Tathāgata distinguishes and teaches the twelve links of dependent arising, all established in dependence on this one mind."[^22]
 
-Everything in the three realms is "one mind" — this "mind" in Yogācāra is the ālaya-vijñāna. The twelve links of dependent arising are all established in dependence on this single mind. The Juelinpusa verse further unfolds this: "Mind is like a master painter / That paints the entire world; / The five aggregates all arise from it — / There is no dharma it does not create. / As with mind, so with Buddha; / As with Buddha, so with sentient beings. / Mind, Buddha, and sentient beings — / These three are without difference."[^23] Mind can paint the entire world and generate all five aggregates, and "mind, Buddha, and sentient beings — these three are without difference." The ālaya-vijñāna as the fundamental basis of all dharmas finds its broadest canonical foundation in the *Avataṃsaka*.
+Everything in the three realms is "one mind" — this "mind" in Yogācāra is the ālaya-vijñāna. The twelve links of dependent arising are all established in dependence on this single mind. The verse of the Bodhisattva Rulailin (如來林) in the 60-fascicle *Avataṃsaka* further unfolds this: "Mind is like a master painter, / Painting the various five aggregates; / In all the worlds / There is no dharma it does not create. / As with mind, so with Buddha; / As with Buddha, so with sentient beings. / Mind, Buddha, and sentient beings — / These three are without difference."[^23] Mind paints the various five aggregates and creates every dharma in all worlds, and "mind, Buddha, and sentient beings — these three are without difference." The ālaya-vijñāna as the fundamental basis of all dharmas finds its broadest canonical foundation in the *Avataṃsaka*.
 
 ### 2.5 The Āgama Bridge — Dependent Origination and Karmic Continuity
 
@@ -142,7 +142,7 @@ The same collection's Kātyāyana Sūtra establishes the middle-way position of 
 
 ### Part B: The Treatise Masters' Systematization
 
-### 2.6 The Cheng Weishi Lun — Seven Proofs
+### 2.6 The Cheng Weishi Lun — Ten Proofs
 
 *Cheng Weishi Lun* (成唯識論), fascicle 3, begins with "sacred teaching and correct reasoning as definitive authority," citing a verse from the *Mahāyānābhidharma Sūtra*:
 
@@ -150,7 +150,7 @@ The same collection's Kātyāyana Sūtra establishes the middle-way position of 
 
 The treatise explains: "realm" (界) means cause, namely the seed-consciousness; "support" (依) means condition, namely the holding-consciousness. This consciousness serves as both cause (directly producing all dharmas) and condition (serving as their basis), enabling both saṃsāric wandering and the attainment of nirvāṇa.
 
-Following the scriptural proofs, fascicle 3 develops seven rational arguments proving the eighth consciousness must exist[^28]:
+Following the scriptural proofs, the *Cheng Weishi Lun* proves the eighth consciousness through ten rational arguments: fascicle 3 sets out the first seven, and fascicle 4 adds three more — nutriment of consciousness, the cessation attainment, and defilement-and-purification[^28]. The seven of fascicle 3 are summarized below:
 
 **1. Seed-holding mind.** The seeds of all defiled and pure dharmas require an uninterrupted consciousness to hold them. The turning consciousnesses (1–7) are interrupted and cannot hold seeds.
 
@@ -166,7 +166,7 @@ Following the scriptural proofs, fascicle 3 develops seven rational arguments pr
 
 **7. Consciousness conditions name-and-form.** The sūtra states that consciousness and name-and-form mutually condition each other "like two bundles of reeds." The turning consciousnesses, being intermittent, cannot perpetually serve as the condition for name-and-form.[^30]
 
-The logical structure is unified across all seven proofs: the turning consciousnesses are interrupted, changing, and non-continuous, and therefore cannot perform the functions of seed-holding, retribution, appropriation, or sustaining life. Hence there must be a continuous, extremely subtle eighth consciousness.
+The logical structure is unified across all ten proofs: the turning consciousnesses are interrupted, changing, and non-continuous, and therefore cannot perform the functions of seed-holding, retribution, appropriation, or sustaining life. Hence there must be a continuous, extremely subtle eighth consciousness.
 
 ### 2.7 The Mahāyānasaṃgraha — Three Aspects and Learning-Perfumation
 
@@ -186,7 +186,7 @@ More crucially, the *Mahāyānasaṃgraha* addresses the fundamental question: i
 
 The first verse: "Its nature is solely unobscured, with only the five universal factors; / It follows others' karma through realms and grounds; / The Two Vehicles fail to understand, confused by attachment; / Thus the masters of doctrine engage in debate."
 
-**Solely unobscured.** The ālaya-vijñāna is classified as unobscured and morally neutral (anivṛtāvyākṛta). "Unobscured" means it is not covered by afflictions — unlike manas, which is "obscured and morally neutral." "Morally neutral" means it is neither wholesome nor unwholesome — it does not directly create karma; it serves only as the foundational support for all dharmas. *Cheng Weishi Lun*, fascicle 3: "This consciousness has turned without beginning like a flowing stream; until the transformation of the basis, in all states it is constantly morally neutral."[^35]
+**Solely unobscured.** The ālaya-vijñāna is classified as unobscured and morally neutral (anivṛtāvyākṛta). "Unobscured" means it is not covered by afflictions — unlike manas, which is "obscured and morally neutral." "Morally neutral" means it is neither wholesome nor unwholesome — it does not directly create karma; it serves only as the foundational support for all dharmas. *Cheng Weishi Lun*, fascicle 3: "Under which class of dharmas is the ālaya-vijñāna included? This consciousness is solely unobscured and morally neutral, because it is of the nature of retribution (vipāka)."[^35]
 
 Precisely because it is neutral, it can receive perfumation — like a white cloth that can be dyed any color. If the ālaya-vijñāna were itself wholesome or unwholesome, it could not impartially receive seeds of both kinds. The *Ghanavyūha Sūtra*'s declaration that it is "inherently luminous in nature"[^6] accords with this principle — an inherently pure nature that can receive all defiled and pure seeds.
 
@@ -288,7 +288,7 @@ The third verse unfolds the ālaya-vijñāna's path from ordinary being to buddh
 
 **The active path: learning-perfumation.** Transformation does not begin only at the eighth bhūmi. The *Mahāyānasaṃgraha*'s learning-perfumation is the pure seed that ordinary beings can actively cultivate: hearing the true Dharma, right contemplation, practice — each instance perfumes undefiled seeds into the ālaya. From lower to middle to upper grades, "learning-perfumation should be understood as seeds of the dharma-body."[^34] The retributive consciousness (defiled) gradually decreases while learning-perfumation (undefiled) gradually increases — "the basis thus transforms."
 
-**The three-school debate on innate versus newly-perfumed seeds.** The origin of seeds is Yogācāra's deepest internal controversy. *Cheng Weishi Lun*, fascicle 2, records three positions. The first school (Śīlabhadra and others) holds that all seeds are innately present: "All sentient beings since beginningless time possess various realms, like a cluster of prickly ash fruits — present by nature." Perfumation only enhances innate seeds; it cannot generate new ones. The second school (Nanda and others) holds that seeds are exclusively newly perfumed: "Since seeds are just another name for habitual impressions, they must arise through perfumation, like the fragrance of sesame arising through contact with flowers." Dharmapāla's orthodox synthesis takes the third position: innate and newly arisen combined — "Seeds are of two kinds: first, innate... second, newly arisen."[^53]
+**The three-school debate on innate versus newly-perfumed seeds.** The origin of seeds is Yogācāra's deepest internal controversy. *Cheng Weishi Lun*, fascicle 2, records three positions. The first school (Candrapāla [護月] and others) holds that all seeds are innately present: "All sentient beings since beginningless time possess various realms, like a cluster of prickly ash fruits — present by nature." Perfumation only enhances innate seeds; it cannot generate new ones. The second school (Nanda and others) holds that seeds are exclusively newly perfumed: "Since seeds are just another name for habitual impressions, they must arise through perfumation, like the fragrance of sesame arising through contact with flowers." Dharmapāla's orthodox synthesis takes the third position: innate and newly arisen combined — "Seeds are of two kinds: first, innate... second, newly arisen."[^53]
 
 Dharmapāla's argument is precise: if seeds were only innate, the turning consciousnesses and the ālaya would not stand in a causal relationship — "how then could the turning consciousnesses and the ālaya have a cause-and-condition relationship?" If seeds were only newly perfumed, undefiled seeds would arise without cause — "undefiled conditioned dharmas, having no cause, should not be able to arise." Therefore both must coexist: innate seeds are present by nature, enhanced through perfumation; newly perfumed seeds are generated through repeated manifest activity — "innate seeds too must be enhanced through perfumation before they can produce results."[^54]
 
@@ -387,6 +387,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 2. *Mahāyānasaṃgraha* 攝大乘論. Composed by Asaṅga, translated by Paramārtha. *Taishō Tripiṭaka* vol. 31, No. 1593.
 3. *Śatadharmaprakāśamukha-śāstra* 百法明門論. Composed by Vasubandhu, translated by Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1614.
 4. *Bashi Guiju Buzhu* 八識規矩補註. Commentary by Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
+5. *Cheng Weishi Lun Shuji* 成唯識論述記. Composed by Kuiji. *Taishō Tripiṭaka* vol. 43, No. 1830.
 
 ### III. Modern Scholarship
 
@@ -401,13 +402,14 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 | 3 | Saṃdhinirmocana Sūtra 解深密經 | T16 | No. 676 | fasc. 1 |
 | 4 | Laṅkāvatāra Sūtra 楞伽阿跋多羅寶經 | T16 | No. 670 | fasc. 1, 4 |
 | 5 | Laṅkāvatāra Sūtra 大乘入楞伽經 | T16 | No. 672 | fasc. 1, 5, 6 |
-| 6 | Avataṃsaka Sūtra 華嚴經 (80-fasc.) | T10 | No. 279 | fasc. 19, 37 |
-| 7 | Avataṃsaka Sūtra 華嚴經 (60-fasc.) | T9 | No. 278 | fasc. 10, 25 |
+| 6 | Avataṃsaka Sūtra 華嚴經 (80-fasc.) | T10 | No. 279 | fasc. 37 |
+| 7 | Avataṃsaka Sūtra 華嚴經 (60-fasc.) | T9 | No. 278 | fasc. 10 |
 | 8 | Saṃyukta Āgama 雜阿含經 | T2 | No. 99 | fasc. 10, 12, 13 |
-| 9 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | fasc. 2, 3 |
+| 9 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | fasc. 2, 3, 4 |
 | 10 | Mahāyānasaṃgraha 攝大乘論 (Paramārtha) | T31 | No. 1593 | fasc. 1 |
 | 11 | Śatadharmaprakāśamukha-śāstra 百法明門論 | T31 | No. 1614 | full text |
 | 12 | Bashi Guiju Buzhu 八識規矩補註 | T45 | No. 1865 | fasc. lower |
+| 13 | Cheng Weishi Lun Shuji 成唯識論述記 | T43 | No. 1830 | fasc. 2B, 4A |
 
 ---
 
@@ -441,7 +443,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^6]: Ibid.: 「阿賴耶識雖與能熏及諸心法乃至一切染淨種子而同止住，性恒明潔。」"Though the ālaya-vijñāna dwells together with its perfumers, all mental dharmas, and all defiled and pure seeds, its nature is inherently luminous."
 
-[^7]: *Ghanavyūha Sūtra* (Amoghavajra trans.), upper fascicle: 「藏識一切種，習氣所纏覆，如彼摩尼珠，隨緣現眾色。雖住有情身，體淨而無垢，是決定種姓，亦為大涅槃。」"The storehouse consciousness holds all seeds, / Wrapped in habitual impressions, / Like a maṇi jewel / Manifesting various colors according to conditions. / Though dwelling in sentient beings' bodies, / Its essence is pure and undefiled — / It is the definitive nature, / And also great nirvāṇa." *Taishō* vol. 16, No. 682.
+[^7]: *Ghanavyūha Sūtra* (Amoghavajra trans.), upper fascicle: 「藏識一切種，習氣所纏覆，如彼摩尼珠，隨緣現眾色。雖住有情身，如鵝王無垢，是決定種性，亦為大涅槃。」"The storehouse consciousness holds all seeds, / Wrapped in habitual impressions, / Like a maṇi jewel / Manifesting various colors according to conditions. / Though dwelling in sentient beings' bodies, / Like the goose-king, without stain — / It is the definitive nature, / And also great nirvāṇa." *Taishō* vol. 16, No. 682.
 
 [^8]: *Ghanavyūha Sūtra* (Divākara trans.), lower fascicle: 「佛說如來藏，以為阿賴耶，惡慧不能知，藏即賴耶識。如來清淨藏，世間阿賴耶，如金與指環，展轉無差別。」"The Buddha teaches the tathāgatagarbha / As the ālaya-vijñāna. / Those of inferior wisdom cannot know / That the garbha is the ālaya. / The Tathāgata's pure treasury, / The world's ālaya-vijñāna — / Like gold and a gold ring, / There is ultimately no difference." *Taishō* vol. 16, No. 681. Parallel verse in Amoghavajra translation, same fascicle.
 
@@ -473,7 +475,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^22]: *Avataṃsaka Sūtra* (80-fasc., Śikṣānanda trans.), fasc. 37, Ten Grounds chapter, sixth ground: 「三界所有，唯是一心。如來於此分別演說十二有支，皆依一心，如是而立。」"All that exists in the three realms is mind alone. The Tathāgata distinguishes and teaches the twelve links, all established in dependence on this one mind." *Taishō* vol. 10, No. 279.
 
-[^23]: *Avataṃsaka Sūtra* (60-fasc., Buddhabhadra trans.), fasc. 10, Yāma Heaven chapter, Juelinpusa verse: 「心如工畫師，畫種種五陰，一切世界中，無法而不造。如心佛亦爾，如佛眾生然，心佛及眾生，是三無差別。」"Mind is like a master painter, painting the various five aggregates; in all worlds, there is no dharma it does not create. As with mind so with Buddha, as with Buddha so with sentient beings — mind, Buddha, and sentient beings, these three are without difference." *Taishō* vol. 9, No. 278.
+[^23]: *Avataṃsaka Sūtra* (60-fasc., Buddhabhadra trans.), fasc. 10, chapter on the Bodhisattvas' Verses in the Yāma Heaven Palace, verse of Bodhisattva Rulailin (如來林): 「心如工畫師，畫種種五陰，一切世界中，無法而不造。如心佛亦爾，如佛眾生然，心佛及眾生，是三無差別。」"Mind is like a master painter, painting the various five aggregates; in all worlds, there is no dharma it does not create. As with mind so with Buddha, as with Buddha so with sentient beings — mind, Buddha, and sentient beings, these three are without difference." *Taishō* vol. 9, No. 278.
 
 [^24]: *Saṃyukta Āgama*, fasc. 13, Sūtra 335 (Emptiness in the Ultimate Sense): 「有業報而無作者，此陰滅已，異陰相續，除俗數法。」"There is karmic retribution but no agent; when this aggregate ceases, a different aggregate continues — except for conventional designation." *Taishō* vol. 2, No. 99.
 
@@ -483,7 +485,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^27]: *Cheng Weishi Lun*, fasc. 3, citing the *Mahāyānābhidharma Sūtra*: 「無始時來界，一切法等依，由此有諸趣，及涅槃證得。」"Since beginningless time, the realm / Is the equal support of all dharmas; / Through it there are the destinies of rebirth / And the attainment of nirvāṇa." *Taishō* vol. 31, No. 1585.
 
-[^28]: *Cheng Weishi Lun*, fasc. 3, seven proofs passage, from 「云何應知此第八識離眼等識有別自體？」"How is it known that this eighth consciousness has a distinct substance apart from the eye-consciousness and others?" through 「故彼識言，顯第八識。」"Therefore the word 'consciousness' [in the sūtra] indicates the eighth consciousness." Ibid. These are conventionally called the "five great proofs," but fascicle 3 actually contains seven: seed-holding mind, vipāka mind, destinies-and-births, appropriation, lifespan-warmth-consciousness, birth-and-death mind, and consciousness-conditions-name-and-form.
+[^28]: *Cheng Weishi Lun*, fasc. 3, from 「云何應知此第八識離眼等識有別自體？」"How is it known that this eighth consciousness has a distinct substance apart from the eye-consciousness and others?" through 「故彼識言，顯第八識。」"Therefore the word 'consciousness' [in the sūtra] indicates the eighth consciousness." Ibid. Fascicle 3 sets out seven proofs: seed-holding mind, vipāka mind, destinies-and-births, appropriation, lifespan-warmth-consciousness, birth-and-death mind, and consciousness-conditions-name-and-form; fascicle 4 continues with nutriment of consciousness, the cessation attainment, and defilement-and-purification, ten in all. Kuiji's *Cheng Weishi Lun Shuji*, fasc. 4A: 「次下第二以五教十理證有本識」"Next, second, the root consciousness is proven by five scriptural passages and ten arguments." *Taishō* vol. 43, No. 1830.
 
 [^29]: *Cheng Weishi Lun*, fasc. 3: 「將死時，由善惡業，下上身分，冷觸漸起……唯異熟心，由先業力，恒遍相續執受身分。捨執受處，冷觸便生。」"At the time of death, due to wholesome or unwholesome karma, cold touch gradually arises from the lower or upper body... only the vipāka consciousness, driven by prior karma, continuously and pervasively appropriates the body. Where it releases its hold, cold touch arises." Ibid.
 
@@ -491,13 +493,13 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^31]: *Mahāyānasaṃgraha* (Paramārtha trans.), fasc. 1, chapter on characteristics: 「此相略說有三種：一立自相、二立因相、三立果相。」"These characteristics are briefly stated as three: first, the self-characteristic; second, the causal characteristic; third, the resultant characteristic." *Taishō* vol. 31, No. 1593.
 
-[^32]: Ibid.: 「阿黎耶識與雜染法互為因緣，如炷與焰展轉生燒，又如束蘆互相依住。」"The ālaya consciousness and defiled dharmas are mutually cause and condition, like wick and flame mutually generating and burning, or like bundles of reeds mutually supporting each other." This simile also appears in *Cheng Weishi Lun*, fasc. 2.
+[^32]: *Cheng Weishi Lun*, fasc. 2, citing the *Mahāyānasaṃgraha*: 「阿賴耶識與雜染法互為因緣，如炷與焰展轉生燒，又如束蘆互相依住。」"The ālaya consciousness and defiled dharmas are mutually cause and condition, like wick and flame mutually generating and burning, or like bundles of reeds mutually supporting each other." *Taishō* vol. 31, No. 1585. Paramārtha's translation of the *Mahāyānasaṃgraha*, fasc. 1, chapter on characteristics, reads: 「云何阿黎耶識與染污一時更互為因？譬如燈光與燈炷，生及燒燃一時更互為因。又如蘆束，一時相依持故得住立。」"How are the ālaya consciousness and defilement at one time mutually cause? Just as a lamp's flame and its wick are at one time mutually cause in arising and burning; and as a bundle of reeds stands because the reeds at one time support one another." *Taishō* vol. 31, No. 1593.
 
 [^33]: *Mahāyānasaṃgraha* (Paramārtha trans.), fasc. 1: 「最清淨法界所流正聞熏習為種子故，出世心得生。」"Taking as seed the learning-perfumation that flows from the supremely pure dharma-realm, the supramundane mind is born." Ibid.
 
 [^34]: Ibid.: 「是聞熏習若下中上品，應知是法身種子」"Whether in lower, middle, or upper grades, learning-perfumation should be understood as seeds of the dharma-body" and 「此聞熏習非阿黎耶識，屬法身及解脫身攝。」"This learning-perfumation does not belong to the ālaya; it belongs to the dharma-body and liberation-body."
 
-[^35]: *Cheng Weishi Lun*, fasc. 3: 「此識無始恒轉如流，乃至未轉依，於一切位恒無記性。」"This consciousness has turned without beginning like a flowing stream; until the transformation of the basis, in all states it is constantly morally neutral." *Taishō* vol. 31, No. 1585.
+[^35]: *Cheng Weishi Lun*, fasc. 3: 「阿賴耶識何法攝耶？此識唯是無覆無記，異熟性故。」"Under which class of dharmas is the ālaya-vijñāna included? This consciousness is solely unobscured and morally neutral, because it is of the nature of retribution (vipāka)." *Taishō* vol. 31, No. 1585.
 
 [^36]: *Ghanavyūha Sūtra* (Amoghavajra trans.), upper fascicle: 「末那緣藏識，如磁石吸鐵……染意亦如是，執取阿賴耶。」"Manas conditions the storehouse consciousness like a magnet attracting iron... the defiled intention thus grasps the ālaya." *Taishō* vol. 16, No. 682.
 
@@ -507,7 +509,7 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^39]: *Cheng Weishi Lun*, fasc. 2: 「謂本識中親生自果，功能差別。」"Within the root consciousness, the differential capacities that directly produce their own results." *Taishō* vol. 31, No. 1585.
 
-[^40]: *Cheng Weishi Lun*, fasc. 2: 「然種子義，略有六種：一剎那滅、二果俱有、三恒隨轉、四性決定、五待眾緣、六引自果。」"The meaning of 'seed' comprises six kinds: (1) momentary destruction, (2) co-presence with fruit, (3) constant accompaniment, (4) determined nature, (5) awaiting conditions, (6) producing own fruit." Ibid.
+[^40]: *Cheng Weishi Lun*, fasc. 2: 「然種子義，略有六種」：一剎那滅、二果俱有、三恒隨轉、四性決定、五待眾緣、六引自果。"The meaning of 'seed' comprises six kinds": (1) momentary destruction, (2) co-presence with fruit, (3) constant accompaniment, (4) determined nature, (5) awaiting conditions, (6) producing own fruit. Ibid.
 
 [^41]: Ibid.: 「唯本識中功能差別具斯六義，成種非餘。」"Only the differential capacities within the root consciousness possess all six characteristics and qualify as seeds; nothing else does."
 
@@ -533,9 +535,9 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 [^52]: *Cheng Weishi Lun*, fasc. 3: 「七地已前猶有俱生我見愛等，執藏此識為自內我，如何已捨阿賴耶名？」"Before the seventh ground, innate self-view and self-love still grasp this consciousness as one's inner self — how then could the ālaya name have been relinquished?" Ibid.
 
-[^53]: *Cheng Weishi Lun*, fasc. 2, three-school passage: innate-only position 「一切種子皆本性有，不從薰生」"all seeds are innately present by nature, not generated through perfumation"; newly-perfumed-only position 「種子皆薰故生」"seeds all arise through perfumation"; Dharmapāla's orthodox synthesis 「種子各有二類，一者本有……二者始起。」"Seeds are of two kinds: first, innate... second, newly arisen." *Taishō* vol. 31, No. 1585. The three schools are attributed to Śīlabhadra (innate-only), Nanda (newly-perfumed-only), and Dharmapāla (synthesis) in Kuiji's *Cheng Weishi Lun Shuji*.
+[^53]: *Cheng Weishi Lun*, fasc. 2, three-school passage: innate-only position 「一切種子皆本性有，不從薰生」"all seeds are innately present by nature, not generated through perfumation"; newly-perfumed-only position 「種子皆薰故生」"seeds all arise through perfumation"; Dharmapāla's orthodox synthesis 「種子各有二類，一者本有……二者始起。」"Seeds are of two kinds: first, innate... second, newly arisen." *Taishō* vol. 31, No. 1585. In Kuiji's *Cheng Weishi Lun Shuji*, fasc. 2B, the innate-only position is that of Candrapāla (護月) and others, the newly-perfumed-only position that of the patriarch Jayasena (勝軍) and the venerable Nanda (難陀), and the synthesis is Dharmapāla's own view (護法自意). *Taishō* vol. 43, No. 1830.
 
-[^54]: Ibid.: 「然本有種亦由薰習，令其增盛方能得果」"Innate seeds too must be enhanced through perfumation before they can produce results" and 「其聞薰習非唯有漏，聞正法時亦薰本有無漏種子，令漸增盛。」"Learning-perfumation is not solely defiled; when hearing the true Dharma, it also perfumes innate undefiled seeds, gradually enhancing them."
+[^54]: *Cheng Weishi Lun*, fasc. 2: 「然本有種亦由薰習，令其增盛方能得果」"Innate seeds too must be enhanced through perfumation before they can produce results" and 「其聞薰習非唯有漏，聞正法時亦薰本有無漏種子，令漸增盛。」"Learning-perfumation is not solely defiled; when hearing the true Dharma, it also perfumes innate undefiled seeds, gradually enhancing them." *Taishō* vol. 31, No. 1585.
 
 [^55]: *Cheng Weishi Lun*, fasc. 2: 「此與本識及所生果不一不異，體用因果理應爾故。」"This [seed] and the root consciousness and its produced results are neither identical nor different — substance, function, cause, and result are reasonably so." Ibid.
 

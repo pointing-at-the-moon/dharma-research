@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-SUP02"
 paper_number: 2
 date: "2026-06"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # 三科對機：為何佛說蘊處界三種
@@ -54,15 +54,15 @@ After studying the five aggregates, twelve bases, and eighteen elements, a sharp
 
 蘊相應裡，佛對執身心為常為我者，說五受陰無常、苦、非我：
 
-> 色非是我。若色是我者，不應於色病、苦生……以色無我故，於色有病、有苦生。受、想、行、識亦復如是。多聞聖弟子於此五受陰非我、非我所，如實觀察。[^1]
+> 色非是我。若色是我者，不應於色病、苦生……以色無我故，於色有病、有苦生……受、想、行、識亦復如是。比丘！多聞聖弟子於此五受陰非我、非我所，如實觀察。[^1]
 
 入處相應裡，佛對耽著六根門頭、逐境流轉者，從根境門說：
 
-> 緣眼、色，生眼識……如是耳、鼻、舌、身、意亦復如是。[^2]
+> 緣眼、色，生眼識……耳、鼻、舌、身、意亦復如是。[^2]
 
 界相應裡，佛則以諸界開示根、境、識之種種差別不可執：
 
-> 種種界故，生種種觸；種種觸故，生種種受。[^3]
+> 緣種種界生種種觸，緣種種觸生種種受，緣種種受生種種愛。[^3]
 
 換言之，**三科是三場不同的對話，不是一張三欄的表格**。佛沒有先驗地決定「身心應分作蘊、處、界三種」，再向眾生宣布；他面對一個個具體的人——這人卡在哪裡，就用哪一種解析度去鬆動。蘊、處、界，是三種應答，不是三種定義。巴利對應亦然：蘊相應（Khandha-saṃyutta, SN 22）、入處相應（Saḷāyatana-saṃyutta, SN 35）、界相應（Dhātu-saṃyutta, SN 14）三品分立，各有其機[^4]。漢巴二傳於此一致：三科的根，扎在說法的現場，而非論典的科判。
 
@@ -256,7 +256,7 @@ After studying the five aggregates, twelve bases, and eighteen elements, a sharp
 
 [^2]: 《雜阿含經》卷八·入處相應，「緣眼、色，生眼識」等，六內外入處之根境門說，《大正藏》第2冊，No. 0099。
 
-[^3]: 《雜阿含經》卷十六·界相應，「種種界故，生種種觸」，諸界差別緣生，《大正藏》第2冊，No. 0099。
+[^3]: 《雜阿含經》卷十六·界相應，「緣種種界生種種觸」，諸界差別緣生，《大正藏》第2冊，No. 0099。
 
 [^4]: 巴利對應：*Saṃyutta-nikāya*，Khandha-saṃyutta (SN 22)、Saḷāyatana-saṃyutta (SN 35)、Dhātu-saṃyutta (SN 14)。三相應分品與漢譯大體相當。
 
@@ -272,7 +272,7 @@ After studying the five aggregates, twelve bases, and eighteen elements, a sharp
 
 [^10]: 《成唯識論》，識變（一切色法為識所變現之相分）及八識展開之義，《大正藏》第31冊，No. 1585。
 
-[^11]: 苦諦定義，《雜阿含經》卷十三作「略說五受陰苦」（「五受陰」即玄奘譯系「五取蘊」之等義詞），《大正藏》第2冊，No. 0099；巴利對應 *Dhammacakkappavattana-sutta*（SN 56.11）"saṃkhittena pañcupādānakkhandhā dukkhā"。
+[^11]: 苦諦定義，《雜阿含經》卷十四作「略說五受陰苦」（「五受陰」即玄奘譯系「五取蘊」之等義詞），《大正藏》第2冊，No. 0099；巴利對應 *Dhammacakkappavattana-sutta*（SN 56.11）"saṃkhittena pañcupādānakkhandhā dukkhā"。
 
 ---
 

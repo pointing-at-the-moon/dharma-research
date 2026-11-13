@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The First Five Consciousnesses: Directness of Perception
@@ -80,7 +80,7 @@ The doctrinal roots of the five sense-consciousnesses are fully established in t
 
 "All dharmas" comprises nothing more than the six faculties, six objects, six consciousnesses, plus contact and feeling. Each of the five sense-consciousnesses occupies its own position within this framework.
 
-*Saṃyukta Āgama* Sūtra 306 (the Hand-Clap Simile Sūtra) illustrates the mechanism of conjunction through a vivid metaphor:
+*Saṃyukta Āgama* Sūtra 273 (the Hand-Clap Simile Sūtra) illustrates the mechanism of conjunction through a vivid metaphor:
 
 > "Just as two hands brought together produce a sound — so, conditioned by the eye and form, eye consciousness arises. The conjunction of these three produces contact, and together with contact arise feeling, perception, and volition. All these dharmas are not-self, impermanent — they are an impermanent self, not enduring, not stable, subject to change."[^8]
 
@@ -184,7 +184,7 @@ And Mañjuśrī's selection verse:
 
 #### 2.6 The Avataṃsaka Sūtra: Verses on Entering Samādhi through the Six Faculties
 
-The *Avataṃsaka Sūtra* (80-fascicle), Ten Abidings chapter, contains a remarkable set of verses describing the bodhisattva's capacity to enter and exit samādhi freely through each of the six faculties:
+The *Avataṃsaka Sūtra* (80-fascicle), Xianshou chapter, contains a remarkable set of verses describing the bodhisattva's capacity to enter and exit samādhi freely through each of the six faculties:
 
 > "Entering right samādhi within the eye-faculty, / emerging from samādhi within the form-realm, / revealing the inconceivable nature of form — / all devas and humans cannot fathom this. / Entering right samādhi within the form-realm, / arising from samādhi at the eye, mind undisturbed, / declaring that the eye is unborn and unarisen, / its nature empty, quiescent, without function."[^25]
 
@@ -476,7 +476,7 @@ There is a tendency to understand practice as "shutting down the senses" — not
 
 ### ❌ Correction 3: Direct Perception by the Five Consciousnesses Equals "Correct Cognition"
 
-Direct perception (pratyakṣa) does not equal "true" — it means only "direct." An ordinary person's five sense-consciousnesses are indeed direct perception, but they are conditioned by ignorance and habitual tendencies. What they present is still the image-component of dependent arising, not the suchness of the perfected nature. More critically, the five consciousnesses' direct perception is almost instantly overwritten by the sixth consciousness's discrimination — what you believe to be "pure seeing" already has consciousness's overlay. Genuinely pure direct perception is realized only in a sage's meditative concentration. Do not equate the ordinary person's "I directly saw it" with "I know it as it truly is."
+Direct perception (pratyakṣa) does not equal "true" — it means only "direct." An ordinary person's five sense-consciousnesses are indeed direct perception, but they are conditioned by ignorance and habitual tendencies. What they present is still the image-component of dependent arising, not the suchness of the perfected nature. More critically, the five consciousnesses' direct perception is almost instantly overwritten by the sixth consciousness's discrimination — what you believe to be "pure seeing" already has consciousness's overlay. Genuinely pure direct perception is realized only in a sage's meditative concentration. Do not equate the ordinary person's "I directly saw it" with "I know it as it truly is." (In fascicle 1 of the *Bāshí guījǔ bǔzhù*, the commentary on the verse line "real objects, direct perception" takes "non-discriminating wisdom correctly understanding mind and mental factors" as the substance of direct perception, and says the four kinds of direct perception "all truly realize their objects without discrimination"; this section's claim that direct perception is only "direct" argues from the side on which an ordinary person's five-consciousness direct perception is at once overlaid by mental discrimination — this is the author's interpretation.)
 
 ### ❌ Correction 4: The Five Sense-Consciousnesses Can Practice and Transform Independently
 
@@ -543,7 +543,7 @@ S3-P05 unfolded the translator — how the sixth consciousness receives signals 
 | 8 | Avataṃsaka Sūtra (80-fasc.) 華嚴經 | T10 | 279 | 15 |
 | 9 | Avataṃsaka Sūtra (60-fasc.) 華嚴經 | T9 | 278 | 7 |
 | 10 | Heart Sūtra 般若心經 | T8 | 251 | 1 |
-| 11 | Vimalakīrtinirdeśa 維摩詰所說經 | T14 | 475 | 1 |
+| 11 | Vimalakīrtinirdeśa 維摩詰所說經 | T14 | 475 | 3 |
 | 12 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | 46 |
 | 13 | Cheng Weishi Lun 成唯識論 | T31 | 1585 | 6, 7, 9, 10 |
 | 14 | Bāshí guījǔ bǔzhù 八識規矩補註 | T45 | 1865 | 1 |
@@ -581,11 +581,11 @@ S3-P05 unfolded the translator — how the sixth consciousness receives signals 
 [^5]: *Saṃyukta Āgama*, fasc. 8, Sūtra 218: "Conditioned by the eye and form, eye consciousness arises; the conjunction of these three produces contact; conditioned by contact, feeling; conditioned by feeling, craving." Path of suffering-accumulation. *Taishō* vol. 2, No. 99.
 [^6]: *Saṃyukta Āgama*, fasc. 11, Sūtra 275: Nanda's closing of the sense-gates — "When the eye sees form, he does not grasp at the sign, does not grasp at the secondary characteristics." *Taishō* vol. 2, No. 99.
 [^7]: *Saṃyukta Āgama*, fasc. 13, Sūtra 321: the Buddha defines "all dharmas" for the brahmin — "Eye and form, eye consciousness, eye-contact, and feeling born of eye-contact." *Taishō* vol. 2, No. 99.
-[^8]: *Saṃyukta Āgama*, fasc. 13, Sūtra 306 (Hand-Clap Simile): "Just as two hands brought together produce a sound — so, conditioned by the eye and form, eye consciousness arises; the conjunction of these three produces contact." *Taishō* vol. 2, No. 99.
+[^8]: *Saṃyukta Āgama*, fasc. 11, Sūtra 273 (Hand-Clap Simile): "Just as two hands brought together produce a sound — so, conditioned by the eye and form, eye consciousness arises; the conjunction of these three produces contact." *Taishō* vol. 2, No. 99.
 [^9]: *Saṃyukta Āgama*, fasc. 8, Sūtra 214: "There are two conditions for the arising of consciousness." *Taishō* vol. 2, No. 99.
 [^10]: *Saṃyukta Āgama*, fasc. 11, Sūtra 275: Nanda's closing of the sense-gates — full passage on generating restraint for the eye, ear, nose, tongue, body, and mental faculties. *Taishō* vol. 2, No. 99.
 [^11]: *Saṃyukta Āgama*, fasc. 9, Sūtra 241 (Red-Hot Copper Needle Simile): "It would be better to have their eyes pierced with a red-hot copper needle, blazing and burning, than to grasp at the sign of forms with eye consciousness." *Taishō* vol. 2, No. 99.
-[^12]: *Saṃyukta Āgama*, fasc. 43, Sūtra 1167 (Turtle Simile): "The turtle saw it coming and withdrew its six." *Taishō* vol. 2, No. 99.
+[^12]: *Saṃyukta Āgama*, fasc. 43, Sūtra 1167 (Turtle Simile): "The turtle saw it coming and withdrew its six."; "skillfully guarding the body, protecting the sense-gates" is found in fasc. 47, Sūtra 1259. *Taishō* vol. 2, No. 99.
 [^13]: *Saṃdhinirmocana Sūtra*, fasc. 1, chapter on mind-mentation-consciousness: "The ādāna consciousness serves as the support and foundation for the arising of the six consciousness-bodies." *Taishō* vol. 16, No. 676.
 [^14]: *Saṃdhinirmocana Sūtra*, fasc. 1, chapter on mind-mentation-consciousness: torrent-and-wave metaphor and mirror metaphor. *Taishō* vol. 16, No. 676.
 [^15]: *Saṃdhinirmocana Sūtra*, fasc. 1, chapter on mind-mentation-consciousness: "The ādāna consciousness is profoundly subtle; all seeds are like a torrent; I do not teach this to the foolish, lest they discriminate and grasp it as a self." Verse. *Taishō* vol. 16, No. 676.
@@ -598,18 +598,18 @@ S3-P05 unfolded the translator — how the sixth consciousness receives signals 
 [^22]: *Śūraṅgama Sūtra*, fasc. 5, Aniruddha's perfect penetration through the eye-faculty: "Without relying on the eye, I perceived the ten directions; the essential truth shone through clearly, like observing a fruit in my palm." *Taishō* vol. 19, No. 945.
 [^23]: *Śūraṅgama Sūtra*, fasc. 6, Avalokiteśvara's perfect penetration through the ear-faculty: "At first, within hearing I entered the stream and relinquished the object; the object of entry becoming quiescent, the two marks of motion and stillness clearly ceased to arise." *Taishō* vol. 19, No. 945.
 [^24]: *Śūraṅgama Sūtra*, fasc. 6, Mañjuśrī's selection verse: "In this land, the true essence of the teaching resides purely in hearing"; "The eye cannot perceive beyond barriers"; "Sound can be heard through walls; far and near alike can be perceived; the five faculties cannot match this." *Taishō* vol. 19, No. 945.
-[^25]: *Avataṃsaka Sūtra* (80-fasc.), fasc. 15, Ten Abidings chapter, verses on entering samādhi through the six faculties: "Entering right samādhi within the eye-faculty, emerging from samādhi within the form-realm; revealing the inconceivable nature of form." *Taishō* vol. 10, No. 279.
+[^25]: *Avataṃsaka Sūtra* (80-fasc.), fasc. 15, Xianshou chapter, verses on entering samādhi through the six faculties: "Entering right samādhi within the eye-faculty, emerging from samādhi within the form-realm; revealing the inconceivable nature of form." *Taishō* vol. 10, No. 279.
 [^26]: *Heart Sūtra*: "No eye, ear, nose, tongue, body, or mind; no form, sound, scent, taste, tangible, or dharma; no eye-element ... up to no mental-consciousness-element." *Taishō* vol. 8, No. 251.
 [^27]: *Heart Sūtra Lüeshu* by Fazang: "This says 'no' from the perspective of mutual negation; in truth, it does not destroy form and the rest — since they are empty of self-nature, one need not wait for their destruction." *Taishō* vol. 33, No. 1712.
 [^28]: *Mahāprajñāpāramitā-śāstra*, fasc. 46: "The eye — the eye is empty; neither permanent nor annihilated. Why? Its nature is simply thus." Section on inner emptiness. *Taishō* vol. 25, No. 1509.
-[^29]: *Vimalakīrtinirdeśa Sūtra*, fasc. 1, Seeing Akṣobhya Buddha chapter: "The six sense-bases are without accumulation; eye, ear, nose, tongue, body, and mind have been transcended." Section on contemplating the Tathāgata's true nature. *Taishō* vol. 14, No. 475.
+[^29]: *Vimalakīrtinirdeśa Sūtra*, fasc. 3, Seeing Akṣobhya Buddha chapter: "The six sense-bases are without accumulation; eye, ear, nose, tongue, body, and mind have been transcended." Section on contemplating the Tathāgata's true nature. *Taishō* vol. 14, No. 475.
 [^30]: *Cheng Weishi Lun*, fasc. 7: commentary on the verse "Relying on the root consciousness, the five consciousnesses appear according to conditions." *Taishō* vol. 31, No. 1585.
 [^31]: *Cheng Weishi Lun*, fasc. 7: "Because the five operational consciousnesses have coarse and active cognitive modes and their required conditions are frequently incomplete, they arise infrequently and cease frequently." Comparative analysis of four consciousness-groups' manifestation frequency. *Taishō* vol. 31, No. 1585.
 [^32]: *Cheng Weishi Lun*, fasc. 7: "The five consciousness-bodies cannot deliberate; they only operate through the external gate, require many conditions, and hence are interrupted frequently." *Taishō* vol. 31, No. 1585.
 [^33]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The first five consciousnesses, among the three objects, apprehend only real objects ... When mind and mental factors apprehend objects, free from obstruction and veiling, clearly and distinctly, grasping the object's own nature — this is called direct perception." Annotation on "real objects, direct perception." *Taishō* vol. 45, No. 1865.
 [^34]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The nine conditions are: space, illumination, faculty, object, attention, discriminating support, defiled/pure support, root support, and seed." And: "Eye consciousness arises from nine conditions; ear from only eight; nose-tongue-body from seven." Section on nine conditions. *Taishō* vol. 45, No. 1865.
 [^35]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Even the non-outflow five consciousnesses at the Buddha-fruit stage still cannot directly engage suchness." Annotation on "even at the fruit stage, they still cannot directly engage the real." *Taishō* vol. 45, No. 1865.
-[^36]: *Bāshí guījǔ bǔzhù*, fasc. 2: "Without verbal designations and without deliberative mentation — this is called a real object." *Taishō* vol. 45, No. 1865.
+[^36]: *Bāshí guījǔ bǔzhù*, fasc. 1: "Without verbal designations and without deliberative mentation — this is called a real object." *Taishō* vol. 45, No. 1865.
 [^37]: *Saṃyukta Āgama*, fasc. 8, Sūtra 218: path of suffering-accumulation and path of suffering-cessation. *Taishō* vol. 2, No. 99.
 [^38]: *Bāshí guījǔ bǔzhù*, fasc. 1: "When we say the eye and ear consciousnesses apprehend objects distant from their faculties, they have never departed from the transforming self-witnessing component. 'Distance and contact describe the faculty illuminating the object; consciousness-only describes the mind apprehending the object.'" Annotation on "three by contact, two at distance." *Taishō* vol. 45, No. 1865.
 [^39]: *Bāshí guījǔ bǔzhù*, fasc. 1: "The foolish ... do not know that faculty and consciousness each have their own seeds and manifest activity ... The faculty is form-dharma, the image-component of the eighth. Consciousness is mind-dharma, the seeing-component of the eighth ... The mind sees through the faculty, just as a person sees things by means of a lamp." Annotation on "the foolish find it hard to distinguish consciousness from faculty." *Taishō* vol. 45, No. 1865.

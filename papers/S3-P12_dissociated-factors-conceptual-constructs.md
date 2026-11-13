@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P12"
 paper_number: 12
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Dissociated Factors: Conceptual Constructs
@@ -19,7 +19,7 @@ Positional Designation and Yogācāra Deconstruction**
 
 ## Abstract
 
-The *citta-viprayukta-saṃskāra* (factors dissociated from mind) constitute the most "insubstantial" conditioned dharmas among the five categories of the Hundred Dharmas. They are neither mind (lacking discernment), nor mental factors (not arising with mind), nor form (lacking material resistance), but are "positionally designated" (*fen-wei jia-li* 分位假立): conceptual existences provisionally established based on positional differences among form, mind, and other dharmas. The *Cheng weishi lun* provides the core judgment: "Unlike form, mind, and mental factors whose essential characteristics can be apprehended, they are merely provisionally established based on positional differences of form, mind, and so forth." This paper systematically analyzes the twenty-four dharmas of the fourth category — acquisition (*prāpti*), life-faculty (*jīvitendriya*), species-similarity (*nikāya-sabhāga*), ordinary-being nature (*pṛthagjana-tva*), attainment of non-perception (*asaṃjñi-samāpatti*), cessation attainment (*nirodha-samāpatti*), non-perceptual reward (*asaṃjñi-sattva*), name-bodies (*nāma-kāya*), sentence-bodies (*pada-kāya*), syllable-bodies (*vyañjana-kāya*), arising (*jāti*), aging (*jarā*), abiding (*sthiti*), impermanence (*anityatā*), transmigration, fixed differentiation, correspondence, momentum, sequence, direction, time, number, conjunction, and disjunction — revealing that these twenty-four dharmas encompass humanity's most fundamental conceptual frameworks: time, space, quantity, causal sequence, language, life, and individuality. Yogācāra tells us that these seemingly most "objective" conceptual frameworks are entirely provisional products of consciousness-activity. From form dharmas (the material aspect of consciousness-projection) to dissociated factors (the conceptual aspect of consciousness-activity), the Hundred Dharmas are progressively moving from "being" toward "emptiness."
+The *citta-viprayukta-saṃskāra* (factors dissociated from mind) constitute the most "insubstantial" conditioned dharmas among the five categories of the Hundred Dharmas. They are neither mind (lacking discernment), nor mental factors (not arising with mind), nor form (lacking material resistance), but are "positionally designated" (*fen-wei jia-li* 分位假立): conceptual existences provisionally established based on positional differences among form, mind, and other dharmas. The *Cheng weishi lun* provides the core judgment: "Unlike form, mind, and mental factors whose essential characteristics can be apprehended … they are merely provisionally established based on positional differences of form and so forth." This paper systematically analyzes the twenty-four dharmas of the fourth category — acquisition (*prāpti*), life-faculty (*jīvitendriya*), species-similarity (*nikāya-sabhāga*), ordinary-being nature (*pṛthagjana-tva*), attainment of non-perception (*asaṃjñi-samāpatti*), cessation attainment (*nirodha-samāpatti*), non-perceptual reward (*asaṃjñi-sattva*), name-bodies (*nāma-kāya*), sentence-bodies (*pada-kāya*), syllable-bodies (*vyañjana-kāya*), arising (*jāti*), aging (*jarā*), abiding (*sthiti*), impermanence (*anityatā*), transmigration, fixed differentiation, correspondence, momentum, sequence, direction, time, number, conjunction, and disjunction — revealing that these twenty-four dharmas encompass humanity's most fundamental conceptual frameworks: time, space, quantity, causal sequence, language, life, and individuality. Yogācāra tells us that these seemingly most "objective" conceptual frameworks are entirely provisional products of consciousness-activity. From form dharmas (the material aspect of consciousness-projection) to dissociated factors (the conceptual aspect of consciousness-activity), the Hundred Dharmas are progressively moving from "being" toward "emptiness."
 
 心不相應行法是百法五位中最「虛」的有為法——它們不是心法（沒有了別性），不是心所有法（不隨心起），不是色法（沒有變礙相），而是「分位假立」的法。本文系統分析百法明門論第四位心不相應行法二十四法，揭示這二十四法涵蓋了人類認知中最基本的概念框架——時間、空間、數量、因果序列、語言、生命、個體性——唯識學告訴你，這些看起來最「客觀」的概念框架，全部是識活動的假立產物。
 
@@ -105,9 +105,9 @@ The *Saṃyukta Āgama* repeatedly teaches the arising-and-ceasing nature of the
 
 The distinction between ignorance and understanding is defined precisely through knowledge of arising and ceasing:
 
-> 「色生滅法，色生滅法如實不知……是名無明。色生滅法，色生滅法如實知……是名為明。」
+> 「色生滅法，色生滅法如實不知……是名無明。……色生滅法，色生滅法如實知……是名為明。」
 >
-> "Not knowing as they truly are that form is a dharma of arising and ceasing … this is called ignorance. Knowing as they truly are that form is a dharma of arising and ceasing … this is called understanding."[^7]
+> "Not knowing as they truly are that form is a dharma of arising and ceasing … this is called ignorance. … Knowing as they truly are that form is a dharma of arising and ceasing … this is called understanding."[^7]
 
 The Buddha further declares:
 
@@ -141,7 +141,7 @@ The Āgamas clearly mark the threshold of stream-entry (seeing the path):
 
 > 「斷三結，謂身見、戒取、疑，斷此三結，得須陀洹。」
 >
-> "Severing the three fetters — identity-view, attachment to rules and rituals, and doubt — one attains stream-entry."[^12]
+> "Severing the three fetters — identity-view, attachment to rules and rituals, and doubt — having severed these three fetters, one attains stream-entry."[^12]
 
 In the Yogācāra framework, seeing the path is precisely the severing of ordinary-being nature — the transformation from *pṛthagjana* (ordinary being) to *ārya* (noble one).
 
@@ -191,13 +191,13 @@ On time and space, the *Śūraṅgama* provides the most direct scriptural defin
 
 "World" is the provisional name for temporal flow; "realm" is the provisional name for spatial direction. "All sentient beings weave these through deluded mutual construction" — space-time is a conceptual structure woven from sentient beings' delusions, not an independently existing container.
 
-The Seven Locations for Seeking Mind further deconstructs the substantiality of spatial direction:
+The Seven Locations for Seeking Mind further deconstructs the substantiality of spatial direction. The Buddha refutes each proposed location of the mind — inside, outside, in between, and so on; at the seventh, Ānanda reports what the Buddha used to say:
 
 > 「覺知分別心性，既不在內，亦不在外，不在中間，俱無所在。」
 >
 > "The nature of the discriminating mind is neither inside, nor outside, nor in between — it is nowhere at all."[^20]
 
-If mind is not "in" any spatial direction, then "direction" cannot be mind's objective container — direction itself is a concept provisionally designated by consciousness.
+Ānanda takes this to mean that "non-attachment to everything" is the mind, and the Buddha refutes this too: "Therefore know that 'non-attachment to everything is called the knowing mind' cannot be right" (是故應知『一切無著名覺知心』，無有是處). All seven locations are refuted — if mind is not "in" any spatial direction, then "direction" cannot be mind's objective container — direction itself is a concept provisionally designated by consciousness.
 
 #### 2.6 The Avataṃsaka Sūtra — Time, Number, Direction, Sequence
 
@@ -227,7 +227,7 @@ Kalpas arise from mind — time is a provisional product of consciousness-activi
 
 The Gaṇḍavyūha chapter further illustrates subjective temporal dilation: Sudhana, entering Maitreya's tower, "in a short time, perceives immeasurable kalpas"[^24] — the same "objective" duration, experienced as vastly different "subjective" lengths.
 
-On number, the Asaṃkhyeya Chapter presents Buddhism's most systematic numerical progression — a complete 124-level system from *koṭi* to "ineffable-ineffable-turn," each level being the square of the previous.[^25] Yet even such inconceivably vast quantities:
+On number, the Asaṃkhyeya Chapter presents Buddhism's most systematic numerical progression — a system of 123 named levels from *koṭi* to "ineffable-ineffable-turn" (opening with "one hundred *lakṣas* make one *koṭi*"), each level from *koṭi* onward being the square of the previous.[^25] Yet even such inconceivably vast quantities:
 
 > 「不可說劫猶可盡，歎佛功德無能盡。」
 >
@@ -259,7 +259,7 @@ The *Mahāprajñāpāramitā-śāstra* systematizes this into three types of pro
 
 The *Mahāprajñāpāramitā-śāstra* further reveals through layered analysis that everything from gross to subtle is nominal:
 
-> 「頭、足、腹、脊和合故，假名為身；髮、眼、耳、鼻……假名為頭……是故微塵但有虛名……無有實定。」
+> 「頭、足、腹、脊和合故，假名為身；如髮、眼、耳、鼻……假名為頭……是故微塵但有虛名……無有實定。」
 >
 > "Head, feet, abdomen, and spine combine, and we nominally designate this 'body.' Hair, eyes, ears, nose … combine, and we nominally designate this 'head' … Therefore even atoms are merely empty names … nothing has real fixity."[^31]
 
@@ -389,23 +389,23 @@ Non-perceptual reward is the retribution-body born from cultivating the non-perc
 
 The debate on the two mindless attainments:
 
-> 「遮礙心何須實法，如堤塘等，假亦能遮。故此三法，亦非實有。」
+> 「遮礙心何須實法，如堤塘等，假亦能遮。……故此三法，亦非實有。」
 >
-> "Why would obstructing mind require a real dharma? Just as embankments and reservoirs — themselves provisional composites — can obstruct water. Therefore these three dharmas are also not real existences."[^57]
+> "Why would obstructing mind require a real dharma? Just as embankments and reservoirs — themselves provisional composites — can obstruct water. … Therefore these three dharmas are also not real existences."[^57]
 
 #### 2.14 Treatise Sources — Name-Bodies, Sentence-Bodies, Syllable-Bodies, and the Four Marks
 
 The complete definitions of name-bodies, sentence-bodies, and syllable-bodies appear in the *Abhidharmasamuccaya-vyākhyā*:
 
-> 「名身者，謂於諸法自性增言，假立名身。句身者，謂於諸法差別增言，假立句身。文身者，謂於彼二所依諸字，假立文身。」
+> 「名身者，謂於諸法自性增言，假立名身。……句身者，謂於諸法差別增言，假立句身。……文身者，謂於彼二所依諸字，假立文身。」
 >
-> "Name-bodies: augmented speech regarding the intrinsic nature of dharmas, provisionally established as name-bodies. Sentence-bodies: augmented speech regarding the distinctions of dharmas, provisionally established as sentence-bodies. Syllable-bodies: the letters on which the preceding two depend, provisionally established as syllable-bodies."[^58]
+> "Name-bodies: augmented speech regarding the intrinsic nature of dharmas, provisionally established as name-bodies. … Sentence-bodies: augmented speech regarding the distinctions of dharmas, provisionally established as sentence-bodies. … Syllable-bodies: the letters on which the preceding two depend, provisionally established as syllable-bodies."[^58]
 
 The four marks are defined in the *Abhidharmasamuccaya-vyākhyā*:
 
-> 「生者，謂於眾同分諸行本無今有性，假立為生。老者，謂於眾同分諸行相續變異性，假立為老。住者，謂於眾同分諸行相續不斷性，假立為住。無常者，謂於眾同分諸行相續變壞性，假立無常。」
+> 「生者，謂於眾同分諸行本無今有性，假立為生。……老者，謂於眾同分諸行相續變異性，假立為老。住者，謂於眾同分諸行相續不變壞性，假立為住。無常者，謂於眾同分諸行相續變壞性，假立無常。」
 >
-> "Arising: the nature of formations previously absent now becoming present within species-similarity — provisionally established as 'arising.' Aging: the nature of continuous change — provisionally established as 'aging.' Abiding: the nature of continuous non-interruption — provisionally established as 'abiding.' Impermanence: the nature of continuous deterioration — provisionally established as 'impermanence.'"[^60]
+> "Arising: the nature of formations previously absent now becoming present within species-similarity — provisionally established as 'arising.' … Aging: the nature of continuous change — provisionally established as 'aging.' Abiding: the nature of continuity not deteriorating — provisionally established as 'abiding.' Impermanence: the nature of continuous deterioration — provisionally established as 'impermanence.'"[^60]
 
 Four instances of "provisionally established" — the four marks are not four entities existing independently outside conditioned dharmas that "make" things arise, age, abide, or perish. They are characteristics appearing at different positions within conditioned dharmas' process, provisionally designated as "arising," "aging," "abiding," and "impermanence."
 
@@ -419,7 +419,7 @@ The *Yogācāra-bhūmi-śāstra* further subdivides each of the four marks into 
 
 #### 2.15 Treatise Sources — Transmigration through Disjunction: The Final Ten
 
-The complete definitions of the final ten dharmas appear in the *Abhidharmasamuccaya-vyākhyā* and the *Pañcaskandhaka-prakaraṇa*:
+The complete definitions of the final ten dharmas appear in the *Xianyang shengjiao lun* (the *Abhidharmasamuccaya-vyākhyā* gives parallel definitions):
 
 > 「流轉者，謂諸行因果相續不斷性。定異者，謂諸行因果各異性。相應者，謂諸行因果相稱性。勢速者，謂諸行流轉迅疾性。次第者，謂諸行一一次第流轉性。時者，謂諸行展轉新新生滅性。方者，謂諸色行遍分齊性。數者，謂諸行等各別相續體相流轉性。和合者，謂諸行緣會性。不和合者，謂諸行緣乖性。」[^63]
 
@@ -427,7 +427,7 @@ Note that every definition concludes with "the nature of formations …" — eac
 
 The *Abhidharmasamuccaya-vyākhyā*'s threefold division of "time" is particularly precise:
 
-> 「已生已滅立過去時，未生立未來時，已生未滅立現在時。」
+> 「已生已滅立過去時，此若未生立未來時，已生未滅立現在時。」
 >
 > "That which has arisen and ceased is established as past time; that which has not yet arisen is established as future time; that which has arisen and not yet ceased is established as present time."[^64]
 
@@ -443,9 +443,9 @@ Direction (spatial orientation) has meaning only in the context of form dharmas 
 
 The *Yogācāra-bhūmi-śāstra* (fascicle 100) proposes a systematic classification of "six types of provisional existence," with "positional provisional existence" directly applicable to dissociated factors:
 
-> 「分位假有者，謂生等諸心不相應行。即於諸行，由依前後、有及非有、同類、異類相續分位，假立生等；非此生等離諸行外，有真實體而別可得。」
+> 「分位假有者，謂生等諸心不相應行……即於諸行，由依前後、有及非有、同類、異類相續分位，假立生等；非此生等離諸行外，有真實體而別可得。」
 >
-> "Positional provisional existence: arising and such factors dissociated from mind. Based precisely on the positions of formations — before and after, present and absent, same-type and different-type continuity — 'arising' and so forth are provisionally established. These — arising and the rest — have no real substance separately apprehendable apart from formations."[^66]
+> "Positional provisional existence: arising and such factors dissociated from mind … Based precisely on the positions of formations — before and after, present and absent, same-type and different-type continuity — 'arising' and so forth are provisionally established. These — arising and the rest — have no real substance separately apprehendable apart from formations."[^66]
 
 #### 2.17 The Abhidharmasamuccaya-vyākhyā — Five-Gate Framework and Summary
 
@@ -463,7 +463,7 @@ The *Xianyang shengjiao lun* reinforces this assessment with a verse: "Know that
 
 #### 2.18 The Bashi guiju song — Indirect Connections
 
-The *Bashi guiju song* (Verses on the Eight Consciousnesses) contains no direct mention of "dissociated factors." However, several lines are indirectly related[^71]: the eighth consciousness's "departing last, arriving first, as master" relates to life-faculty; "receiving perfuming, maintaining seeds, body and world" relates to life-faculty's basis in the ālaya-vijñāna; and "wholesome karma cools from below, unwholesome from above" relates to the dispersal of the lifespan-warmth-consciousness triad at death.
+The *Bashi guiju song* (Verses on the Eight Consciousnesses) contains no direct mention of "dissociated factors." However, several lines are indirectly related[^71]: the eighth consciousness's "departing last, arriving first, as master" relates to life-faculty; "receiving perfuming, maintaining seeds, body and world" relates to life-faculty's basis in the ālaya-vijñāna; and a verse the *Buzhu* cites at that line, summarizing the sūtras and treatises — "wholesome karma cools from below, unwholesome from above" — relates to the dispersal of the lifespan-warmth-consciousness triad at death.
 
 ---
 
@@ -475,7 +475,7 @@ The ontological status of dissociated factors within the five categories can be 
 
 Mind dharmas have discernment — they cognize. Mental factors arise with mind — they influence the quality of cognition. Form dharmas have material resistance — they occupy space. Dissociated factors? They cannot cognize (not mind), they do not arise with mind (not mental factors), they do not occupy space (not form) — yet they are also not unconditioned (they are conditioned, dependent on causes).
 
-Kuiji's *Cheng weishi lun shuchao* provides a concise etymology:
+Dunlun's *Yuqie lunji* 《瑜伽論記》 provides a concise etymology:
 
 > 「具足應言非色不相應行。言非色者，即簡於色。不相應者，復簡於心，心是相應，以非心故名不相應，行簡無為。」
 >
@@ -519,7 +519,7 @@ The horizontal species-similarity and vertical ordinary-being nature together sk
 
 All three describe states where "mind and mental factors are not active," yet their natures are radically different.
 
-**Non-perception attainment**: an ordinary being's achievement. Entered through the mental attention of "aspiration for liberation" (attempting to escape perception), extinguishing the non-constantly-active mind and mental factors of the first six consciousnesses. The *Cheng weishi lun* determines: "not undertaken by noble ones."[^54] The non-perceptual reward is the heavenly rebirth lasting five hundred great kalpas (though some texts record sixteen kalpas[^73]). The *Śūraṅgama Sūtra* classifies the non-perception heaven as the erroneous path of "taking arising-and-ceasing as cause while seeking non-arising-and-non-ceasing."[^16] As the *Śūraṅgama* commentary clarifies: "Not understanding that delusion's nature is empty, grasping at the weariness of arising-ceasing, seeking non-arising-non-ceasing — this is not true nirvāṇa."[^74]
+**Non-perception attainment**: an ordinary being's achievement. Entered through the mental attention of "aspiration for liberation" (attempting to escape perception), extinguishing the non-constantly-active mind and mental factors of the first six consciousnesses. The *Cheng weishi lun* determines: "not undertaken by noble ones."[^54] The non-perceptual reward is the heavenly rebirth lasting five hundred great kalpas (though some texts record sixteen kalpas[^73]). The *Śūraṅgama Sūtra* classifies the non-perception heaven as the erroneous path of "taking arising-and-ceasing as cause while seeking non-arising-and-non-ceasing."[^16] As Zixuan's *Shoulengyan yishu zhujing* clarifies: "Not understanding that delusion's nature is empty, grasping at the weariness of arising-ceasing, seeking non-arising-non-ceasing … this is not true nirvāṇa."[^74]
 
 **Cessation attainment**: a noble one's achievement. Entered through the mental attention of "cessation of ideation," extinguishing not only the first six consciousnesses but also the afflicted aspect of the seventh. The *Cheng weishi lun* determines: "ordinary beings cannot [achieve this]."[^55] The *Dharmadinā Bhikṣunī Sūtra*'s precise description of the exit-mechanism: "due to this body, the six sense-bases, and the condition of life-faculty, one arises from the attainment"[^36] — life-faculty's continuation is the condition for emerging from cessation.
 
@@ -539,7 +539,7 @@ Name-sentence-syllable bodies hold a special position among dissociated factors:
 
 ### 3.6 The Four Marks — The Provisionally Designated Character of Conditioned Existence's Own Signatures
 
-Arising, aging, abiding, and impermanence are the four signatures of conditioned existence. Every conditioned dharma has arising (previously absent, now present), aging (continuous change), abiding (continuous non-interruption), and impermanence (continuous deterioration).[^60]
+Arising, aging, abiding, and impermanence are the four signatures of conditioned existence. Every conditioned dharma has arising (previously absent, now present), aging (continuous change), abiding (continuity not deteriorating), and impermanence (continuous deterioration).[^60]
 
 The problem: if the four marks are signatures of conditioned dharmas, then the marks themselves are also conditioned and should also have four marks — the "arising" of "arising" should have its own "arising," "abiding," and "impermanence" — leading to Nāgārjuna's infinite regress.[^39] The four marks, if real dharmas, are logically untenable.
 
@@ -551,13 +551,13 @@ The practice significance: "impermanence" in the Āgamas is the starting point o
 
 Time (*kāla*), direction (*deśa*), and number (*saṃkhyā*) are the three most basic coordinates of human cognition — time, space, quantity. Yogācāra tells us that these three seemingly most "objective" and "impossible to doubt" coordinates are entirely provisional products of consciousness-activity.
 
-**Time**: "Based on the continuous flow of causal results among formations, time is provisionally established. That which has arisen and ceased establishes past time; that which has not yet arisen establishes future time; that which has arisen and not yet ceased establishes present time."[^64]
+**Time**: "Based on the continuous flow of causal results among formations, time is provisionally established. … That which has arisen and ceased establishes past time; that which has not yet arisen establishes future time; that which has arisen and not yet ceased establishes present time."[^64]
 
 Past, present, and future are not three parallel rivers of time but three markers of consciousness's flow-states. The *Śūraṅgama*'s "world means temporal flow"[^19] — time is the nominal designation for "flowing." The *Avataṃsaka*'s "beginning from a single thought culminating in a kalpa, all arising dependent on beings' mental activity"[^23] — kalpas "arise dependent on mind." Sudhana's experience in Maitreya's tower — "in a short time, perceiving immeasurable kalpas"[^24] — and the samādhi state where practitioners pass through ineffable kalpas "without any awareness of time's length"[^75] both confirm that temporal experience is not fixed but consciousness-dependent. The interpenetration of thought-instant and kalpa — "ineffable kalpas equal a single thought-instant"[^22] — if time were objectively fixed, how could one instant equal ineffable kalpas?
 
 **Direction**: "Spoken only of causal results subsumed under form dharmas."[^65] — spatial direction has meaning only in the context of form dharmas. The *Śūraṅgama*'s Seven Locations for Seeking Mind[^20] denies that mind is "inside, outside, or in between" — if mind is not in any direction, direction is not mind's objective container. The *Avataṃsaka*'s "within a single fine hair-pore, ineffable lands enter in sequence"[^28] — mutual containment of great and small, foldable space — space is not a fixed framework.
 
-**Number**: described as "the nature of separate continuous flow of each formation's characteristics."[^63] Quantity is a provisional marker of "separateness." The *Avataṃsaka*'s Asaṃkhyeya Chapter[^25] displays a 124-level number system — yet "ineffable kalpas can still be exhausted, but praising the Buddha's merit can never be exhausted"[^26] — no matter how vast, numbers are finite, and only the Buddha's merit transcends quantitative limitation.
+**Number**: described as "the nature of separate continuous flow of each formation's characteristics."[^63] Quantity is a provisional marker of "separateness." The *Avataṃsaka*'s Asaṃkhyeya Chapter[^25] displays a 123-level number system — yet "ineffable kalpas can still be exhausted, but praising the Buddha's merit can never be exhausted"[^26] — no matter how vast, numbers are finite, and only the Buddha's merit transcends quantitative limitation.
 
 The provisionally designated nature of time, direction, and number is the easiest to overlook because they constitute our cognition's "operating system" — we can scarcely imagine a world without time, space, and quantity. But precisely for this reason, their provisional nature is also the most profound teaching: **your most "self-evident" cognitive frameworks — that time flows, space has directions, quantities are determinate — are entirely constructions of consciousness.** If you can see through these three provisional designations, you begin to approach the domain of non-discriminating wisdom.
 
@@ -703,13 +703,15 @@ The next step takes us into the fifth and final category — unconditioned dharm
 12. *Madhyama Āgama* 《中阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 1, No. 26.
 13. *Ekottara Āgama* 《增壹阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 2, No. 125.
 14. *Dīrgha Āgama* 《長阿含經》, trans. Buddhayaśas et al., *Taishō* vol. 1, No. 1.
-15. *Mahāparinirvāṇa Sūtra* 《大般涅槃經》 (Yóuxíng jīng), trans. Bai Fazhu, *Taishō* vol. 1, No. 7.
+15. *Mahāparinirvāṇa Sūtra* 《大般涅槃經》 (three-fascicle version), trans. Faxian (Eastern Jin), *Taishō* vol. 1, No. 7.
 16. *Qishi jing* 《起世經》, trans. Jñānagupta, *Taishō* vol. 1, No. 24.
 17. *Avataṃsaka Sūtra* (80-fasc.) 《大方廣佛華嚴經》, trans. Śikṣānanda, *Taishō* vol. 10, No. 279.
 18. *Avataṃsaka Sūtra* (60-fasc.) 《大方廣佛華嚴經》, trans. Buddhabhadra, *Taishō* vol. 9, No. 278.
 19. *Śūraṅgama Sūtra* 《大佛頂首楞嚴經》, trans. Pāramiti, *Taishō* vol. 19, No. 945.
 20. *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
 21. *Laṅkāvatāra Sūtra* 《大乘入楞伽經》, trans. Śikṣānanda, *Taishō* vol. 16, No. 672.
+22. *Yuqie lunji* 《瑜伽論記》, compiled by Dunlun (Tang), *Taishō* vol. 42, No. 1828.
+23. *Shoulengyan yishu zhujing* 《首楞嚴義疏注經》, compiled by Zixuan (Song), *Taishō* vol. 39, No. 1799.
 
 ### II. Modern Scholarship
 
@@ -726,24 +728,24 @@ The next step takes us into the fifth and final category — unconditioned dharm
 | 1 | Śatadharmaprakāśamukha-śāstra 百法明門論 | T31 | 1614 | Complete |
 | 2 | Cheng weishi lun 成唯識論 | T31 | 1585 | Fasc. 1, 7 |
 | 3 | Yogācāra-bhūmi-śāstra 瑜伽師地論 | T30 | 1579 | Fasc. 3, 16, 56, 100 |
-| 4 | Pañcaskandhaka 大乘五蘊論 | T31 | 1612 | Complete |
-| 5 | Abhidharmasamuccaya 大乘阿毘達磨集論 | T31 | 1605 | Fasc. 1 |
-| 6 | Abhidharmasamuccaya-vyākhyā 雜集論 | T31 | 1606 | Fasc. 2 |
-| 7 | Xianyang shengjiao lun 顯揚聖教論 | T31 | 1602 | Fasc. 1, 18 |
-| 8 | Bashi guiju buzhu 八識規矩補註 | T45 | 1865 | Fasc. 2 |
-| 9 | Cheng weishi lun shuji 述記 | T43 | 1830 | Fasc. 1 |
-| 10 | Saṃdhinirmocana Sūtra 解深密經 | T16 | 676 | Fasc. 1, 2 |
-| 11 | Saṃyukta Āgama 雜阿含經 | T2 | 99 | Fasc. 2, 3, 5, 6, 10, 17, 34, 41 |
-| 12 | Madhyama Āgama 中阿含經 | T1 | 26 | Fasc. 58 |
-| 13 | Ekottara Āgama 增壹阿含經 | T2 | 125 | Fasc. 11, 22, 34 |
-| 14 | Dīrgha Āgama 長阿含經 | T1 | 1 | Fasc. 20, 21 |
-| 15 | Mahāparinirvāṇa Sūtra 大般涅槃經 | T1 | 7 | Fasc. 3 |
-| 16 | Qishi jing 起世經 | T1 | 24 | Fasc. 1, 5, 7 |
-| 17 | Avataṃsaka Sūtra (80-fasc.) 華嚴經 | T10 | 279 | Fasc. 7, 17, 40, 42, 45, 62, 73, 79 |
-| 18 | Avataṃsaka Sūtra (60-fasc.) 華嚴經 | T9 | 278 | Fasc. 5, 25, 29, 48 |
-| 19 | Śūraṅgama Sūtra 楞嚴經 | T19 | 945 | Fasc. 1, 4, 7, 9, 10 |
-| 20 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | Fasc. 1, 6, 8, 15, 31, 35, 41, 42, 83, 89 |
-| 21 | Laṅkāvatāra Sūtra 大乘入楞伽經 | T16 | 672 | Fasc. 3 |
+| 4 | Abhidharmasamuccaya 大乘阿毘達磨集論 | T31 | 1605 | Fasc. 1 |
+| 5 | Abhidharmasamuccaya-vyākhyā 雜集論 | T31 | 1606 | Fasc. 2 |
+| 6 | Xianyang shengjiao lun 顯揚聖教論 | T31 | 1602 | Fasc. 1, 18 |
+| 7 | Bashi guiju buzhu 八識規矩補註 | T45 | 1865 | Fasc. 2 |
+| 8 | Yuqie lunji 瑜伽論記 | T42 | 1828 | Fasc. 13b |
+| 9 | Saṃdhinirmocana Sūtra 解深密經 | T16 | 676 | Fasc. 1, 2 |
+| 10 | Saṃyukta Āgama 雜阿含經 | T2 | 99 | Fasc. 2, 3, 5, 6, 10, 17, 22, 34, 41 |
+| 11 | Madhyama Āgama 中阿含經 | T1 | 26 | Fasc. 58 |
+| 12 | Ekottara Āgama 增壹阿含經 | T2 | 125 | Fasc. 11, 22, 34 |
+| 13 | Dīrgha Āgama 長阿含經 | T1 | 1 | Fasc. 20, 21 |
+| 14 | Mahāparinirvāṇa Sūtra 大般涅槃經 | T1 | 7 | Fasc. 3 |
+| 15 | Qishi jing 起世經 | T1 | 24 | Fasc. 1, 5, 7 |
+| 16 | Avataṃsaka Sūtra (80-fasc.) 華嚴經 | T10 | 279 | Fasc. 7, 17, 40, 42, 45, 62, 73, 79 |
+| 17 | Avataṃsaka Sūtra (60-fasc.) 華嚴經 | T9 | 278 | Fasc. 5, 25, 29, 48 |
+| 18 | Śūraṅgama Sūtra 楞嚴經 | T19 | 945 | Fasc. 1, 4, 7, 9, 10 |
+| 19 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | 1509 | Fasc. 1, 6, 8, 15, 31, 35, 41, 42, 83, 89 |
+| 20 | Laṅkāvatāra Sūtra 大乘入楞伽經 | T16 | 672 | Fasc. 3 |
+| 21 | Shoulengyan yishu zhujing 首楞嚴義疏注經 | T39 | 1799 | Fasc. 9 |
 
 ---
 
@@ -776,7 +778,7 @@ The next step takes us into the fifth and final category — unconditioned dharm
 [^9]: *Saṃyukta Āgama* 《雜阿含經》 fasc. 10 (sūtra 266), "譬如狗子繫柱……長夜輪迴順色而轉" (Like a dog tethered to a post … revolving through the long night, turning along with form), tethered-dog simile, *Taishō* vol. 2, No. 99.
 [^10]: *Ekottara Āgama* 《增壹阿含經》 fasc. 22, "皆共同類無有尊卑" (All share the same type without distinction of high and low), shame-and-conscience teaching touching on species-type, *Taishō* vol. 2, No. 125.
 [^11]: *Saṃyukta Āgama* 《雜阿含經》 fasc. 17 (sūtra 470), "愚癡無聞凡夫……凡夫聖人有何差別" (The foolish unlearned ordinary person … what is the difference between ordinary beings and noble ones?), two-arrow simile, *Taishō* vol. 2, No. 99.
-[^12]: *Saṃyukta Āgama* 《雜阿含經》 fasc. 34 (sūtra 956), "斷三結謂身見戒取疑得須陀洹" (Severing three fetters — identity-view, rule-attachment, doubt — one attains stream-entry), *Taishō* vol. 2, No. 99.
+[^12]: *Saṃyukta Āgama* 《雜阿含經》 fasc. 34 (sūtra 947), "斷三結謂身見戒取疑斷此三結得須陀洹" (Severing three fetters — identity-view, rule-attachment, doubt — having severed these three fetters, one attains stream-entry), *Taishō* vol. 2, No. 99.
 [^13]: *Saṃdhinirmocana Sūtra* 《解深密經》 fasc. 1, chapter on ultimate-truth characteristics, "言有為者乃是本師假施設句……假立名想謂之有為" (The term 'conditioned' is the Original Teacher's provisional designation … provisionally establishing the conceptual label 'conditioned'), *Taishō* vol. 16, No. 676.
 [^14]: *Saṃdhinirmocana Sūtra* 《解深密經》 fasc. 2, chapter on characteristics of all dharmas, "云何諸法遍計所執相？謂一切法名假安立自性差別" (What is the imagined characteristic? The nominal provisional establishment of intrinsic nature and distinctions), *Taishō* vol. 16, No. 676.
 [^15]: *Saṃdhinirmocana Sūtra* 《解深密經》 fasc. 2, chapter on absence of intrinsic nature, "此由假名安立為相非由自相安立為相" (Characteristics established through nominal designation, not through intrinsic characteristics), *Taishō* vol. 16, No. 676.
@@ -784,12 +786,12 @@ The next step takes us into the fifth and final category — unconditioned dharm
 [^17]: *Śūraṅgama Sūtra* 《楞嚴經》 fasc. 10, "圓虛無心成空亡果……無想天中諸舜若多成其伴侶" (Emptying mind into vacancy, achieving void extinction … non-perception heavenly beings become companions), *Taishō* vol. 19, No. 945.
 [^18]: *Śūraṅgama Sūtra* 《楞嚴經》 fasc. 4, "諸滅盡定得寂聲聞……久滅意根圓明了知不因心念" (Voice-hearers who attain the quiescence of cessation … long having extinguished the mind-faculty, they clearly know without relying on mental thought), *Taishō* vol. 19, No. 945.
 [^19]: *Śūraṅgama Sūtra* 《楞嚴經》 fasc. 4, "世為遷流界為方位……一切眾生織妄相成" (World means temporal flow, realm means spatial direction … all sentient beings weave these through deluded construction), *Taishō* vol. 19, No. 945.
-[^20]: *Śūraṅgama Sūtra* 《楞嚴經》 fasc. 1, "覺知分別心性既不在內亦不在外不在中間俱無所在" (The discriminating mind-nature is neither inside nor outside nor in between — it is nowhere), seven locations for seeking mind conclusion, *Taishō* vol. 19, No. 945.
+[^20]: *Śūraṅgama Sūtra* 《楞嚴經》 fasc. 1, "覺知分別心性既不在內亦不在外不在中間俱無所在" (The discriminating mind-nature is neither inside nor outside nor in between — it is nowhere), Ānanda reporting what the Buddha used to say and taking "non-attachment" as mind; the Buddha refutes it: "是故應知『一切無著名覺知心』，無有是處" (therefore know that "non-attachment to everything is called the knowing mind" cannot be right), the seventh of the seven locations, *Taishō* vol. 19, No. 945.
 [^21]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 45, Lifespan Chapter, "此娑婆世界釋迦牟尼佛剎一劫於極樂世界阿彌陀佛剎為一日一夜" (One kalpa in Śākyamuni's Sahā world equals one day-night in Amitābha's Sukhāvatī), cascading temporal relativity, *Taishō* vol. 10, No. 279.
 [^22]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 17, Chapter on Merit of Initial Aspiration, "不可說劫與一念平等一念與不可說劫平等" (Ineffable kalpas equal one thought-instant, one thought-instant equals ineffable kalpas), thought-kalpa interpenetration, *Taishō* vol. 10, No. 279.
 [^23]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 7, Jeweled Treasury Chapter, "始從一念終成劫悉依眾生心想生" (Beginning from one thought culminating in a kalpa, all arising dependent on beings' mental activity), *Taishō* vol. 10, No. 279.
 [^24]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 79, Maitreya's Tower in the Gaṇḍavyūha, "於少時間謂無量劫" (In a short time, perceiving immeasurable kalpas), subjective temporal dilation, *Taishō* vol. 10, No. 279.
-[^25]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 45, Asaṃkhyeya Chapter, the complete 124-level numerical progression from koṭi to "ineffable-ineffable-turn," *Taishō* vol. 10, No. 279.
+[^25]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 45, Asaṃkhyeya Chapter, "一百洛叉為一俱胝，俱胝俱胝為一阿庾多" (one hundred lakṣas make one koṭi; koṭi times koṭi make one ayuta), 123 named levels from koṭi to "ineffable-ineffable-turn," each the square of the previous, *Taishō* vol. 10, No. 279.
 [^26]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 45, Asaṃkhyeya Chapter verses, "不可說劫猶可盡歎佛功德無能盡" (Ineffable kalpas can still be exhausted, praising the Buddha's merit can never be exhausted), *Taishō* vol. 10, No. 279.
 [^27]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 45, Bodhisattva Dwelling-Places Chapter, the eight directional sacred mountains with their resident bodhisattvas, *Taishō* vol. 10, No. 279.
 [^28]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 45, "於一微細毛孔中不可說剎次第入" (Within one fine hair-pore, ineffable lands enter in sequence), mutual containment of great and small, *Taishō* vol. 10, No. 279.
@@ -821,24 +823,24 @@ The next step takes us into the fifth and final category — unconditioned dharm
 [^54]: *Cheng weishi lun* 《成唯識論》 fasc. 7, "無想定者謂有異生……由出離想作意為先令不恒行心心所滅……非聖所起" (Non-perception attainment: ordinary beings … with aspiration for liberation as preceding attention, causing non-constantly-active mind/mental factors to cease … not undertaken by noble ones), *Taishō* vol. 31, No. 1585.
 [^55]: *Cheng weishi lun* 《成唯識論》 fasc. 7, "滅盡定者謂有無學或有學聖……令不恒行恒行染污心心所滅……異生不能" (Cessation attainment: noble ones, learners or beyond-learners … causing both non-constantly-active and constantly-active afflicted mind/mental factors to cease … ordinary beings cannot), *Taishō* vol. 31, No. 1585.
 [^56]: *Cheng weishi lun* 《成唯識論》 fasc. 7, "無想天者謂修彼定厭麁想力生彼天中" (Non-perception heaven: those who cultivated that attainment, by the power of aversion to coarse ideation, are born in that heaven), *Taishō* vol. 31, No. 1585.
-[^57]: *Cheng weishi lun* 《成唯識論》 fasc. 1, "遮礙心何須實法如堤塘等假亦能遮故此三法亦非實有" (Why would obstructing mind require a real dharma? Just as embankments — themselves provisional composites — can obstruct. Therefore these three are also not real), *Taishō* vol. 31, No. 1585.
-[^58]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "名身者謂於諸法自性增言假立名身。句身者謂於諸法差別增言假立句身。文身者謂於彼二所依諸字假立文身" (Name-bodies: augmented speech regarding intrinsic nature, provisionally established. Sentence-bodies: augmented speech regarding distinctions, provisionally established. Syllable-bodies: the letters on which both depend, provisionally established), *Taishō* vol. 31, No. 1606.
+[^57]: *Cheng weishi lun* 《成唯識論》 fasc. 1, "遮礙心何須實法如堤塘等假亦能遮……故此三法亦非實有" (Why would obstructing mind require a real dharma? Just as embankments — themselves provisional composites — can obstruct. … Therefore these three are also not real), *Taishō* vol. 31, No. 1585.
+[^58]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "名身者謂於諸法自性增言假立名身。……句身者謂於諸法差別增言假立句身。……文身者謂於彼二所依諸字假立文身" (Name-bodies: augmented speech regarding intrinsic nature, provisionally established. … Sentence-bodies: augmented speech regarding distinctions, provisionally established. … Syllable-bodies: the letters on which both depend, provisionally established), *Taishō* vol. 31, No. 1606.
 [^59]: *Laṅkāvatāra Sūtra* 《大乘入楞伽經》 fasc. 3, "名身者謂依事立名……句身者謂能顯義決定究竟……文身者謂由於此能成名句" (Name-bodies designate things; sentence-bodies express meanings decisively; syllable-bodies form names and sentences), *Taishō* vol. 16, No. 672.
 [^60]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "生者謂於眾同分諸行本無今有性假立為生……" (Arising: the nature of formations previously absent now present, provisionally established as 'arising' …), four marks defined as provisional, *Taishō* vol. 31, No. 1606.
 [^61]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "當知此中依相續位建立生等不依剎那" (Know that arising etc. are established by continuity-position, not by instant), *Taishō* vol. 31, No. 1606.
 [^62]: *Yogācāra-bhūmi-śāstra* 《瑜伽師地論》 fasc. 56, each of the four marks subdivided into three types (e.g., arising: instantaneous arising, continuity arising, positional arising), *Taishō* vol. 30, No. 1579.
-[^63]: *Pañcaskandhaka* 《大乘五蘊論》, complete definitions of the final ten dharmas from transmigration through disjunction, *Taishō* vol. 31, No. 1612. Parallel definitions in *Abhidharmasamuccaya* 《集論》 fasc. 1 (T1605).
-[^64]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "於因果相續流轉假立為時。已生已滅立過去時未生立未來時已生未滅立現在時" (Time provisionally established based on continuous causal flow. Arisen-and-ceased = past; not-yet-arisen = future; arisen-and-not-ceased = present), *Taishō* vol. 31, No. 1606.
+[^63]: *Xianyang shengjiao lun* 《顯揚聖教論》 fasc. 1, complete definitions of the final ten dharmas from transmigration through disjunction, *Taishō* vol. 31, No. 1602. Parallel definitions (differently worded) in *Abhidharmasamuccaya* 《集論》 fasc. 1 (T1605) and *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2 (T1606).
+[^64]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "於因果相續流轉假立為時。……已生已滅立過去時此若未生立未來時已生未滅立現在時" (Time provisionally established based on continuous causal flow. … Arisen-and-ceased = past; not-yet-arisen = future; arisen-and-not-ceased = present), *Taishō* vol. 31, No. 1606.
 [^65]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, direction defined as "唯說色法所攝因果" (spoken only of causal results subsumed under form dharmas), *Taishō* vol. 31, No. 1606.
 [^66]: *Yogācāra-bhūmi-śāstra* 《瑜伽師地論》 fasc. 100, "分位假有者謂生等諸心不相應行……非此生等離諸行外有真實體而別可得" (Positional provisional existence: arising and such dissociated factors … having no real substance separately apprehendable apart from formations), six types of provisional existence, *Taishō* vol. 30, No. 1579.
 [^67]: *Yogācāra-bhūmi-śāstra* 《瑜伽師地論》 fasc. 16, "如說生時此誰之生……謂色之生……當知此處是假相有" (When speaking of arising — whose arising? The arising of form … know this is provisional-characteristic existence), belonging-to-master correlated discourse, *Taishō* vol. 30, No. 1579.
 [^68]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "如是心不相應行應以五門建立差別謂依處故自體故假立故作意故地故" (These dissociated factors should be established through five gates: basis, self-nature, provisional establishment, mental attention, and ground), *Taishō* vol. 31, No. 1606.
 [^69]: *Abhidharmasamuccaya-vyākhyā* 《雜集論》 fasc. 2, "如是等心不相應行法唯依分位差別而建立故當知皆是假有" (These dissociated factors, being established solely based on positional differences, should all be known as merely provisionally existent), summary classification mapping all 24 dharmas to eight types of positional difference, *Taishō* vol. 31, No. 1606.
 [^70]: *Xianyang shengjiao lun* 《顯揚聖教論》 fasc. 18, "當知不相應皆假施設有假有性六種彼皆二過故" (Know that all dissociated factors are provisionally designated existences, of six types of provisional nature, because both carry two faults), *Taishō* vol. 31, No. 1602.
-[^71]: The *Bashi guiju song* contains no direct mention of "dissociated factors." Indirectly related: the eighth consciousness's "去後來先作主公" (departing last, arriving first, as master) relates to life-faculty; "受熏持種根身器" (receiving perfuming, maintaining seeds, body and world) relates to life-faculty's basis; "善業從下冷惡業從上冷" (wholesome karma cools from below, unwholesome from above) relates to the dispersal of the lifespan-warmth-consciousness triad. See *Bashi guiju buzhu* 《八識規矩補註》 fasc. 2, *Taishō* vol. 45, No. 1865.
-[^72]: *Cheng weishi lun shuji* 《述記》 fasc. 1, "具足應言非色不相應行。言非色者即簡於色。不相應者復簡於心" (The complete designation is 'non-form dissociated formations.' 'Non-form' excludes form. 'Dissociated' excludes mind), etymology of dissociated factors, *Taishō* vol. 43, No. 1830.
-[^73]: Lifespan of the non-perception heaven varies across texts: *Qishi jing* 《起世經》 fasc. 7 records "non-perception beings, lifespan sixteen kalpas" (T1 No. 24); *Dīrgha Āgama* 《長阿含經》 fasc. 20 records "non-perception heaven lifespan five hundred kalpas" (T1 No. 1); *Cheng weishi lun* fasc. 7 records "five hundred kalpas." These differences may involve different measurement standards.
-[^74]: *Śūraṅgama* commentary (T1799 fasc. 7), "不了妄想體空乃執生滅勞累厭此生滅求不生滅……非真涅槃也" (Not understanding that delusion's nature is empty, grasping at the weariness of arising-ceasing, seeking non-arising-non-ceasing … this is not true nirvāṇa), assessment of non-perception attainment, *Taishō* vol. 39, No. 1799.
+[^71]: The *Bashi guiju song* contains no direct mention of "dissociated factors." Indirectly related: the eighth consciousness's "去後來先作主公" (departing last, arriving first, as master) relates to life-faculty; "受熏持種根身器" (receiving perfuming, maintaining seeds, body and world) relates to life-faculty's basis; "善業從下冷惡業從上冷" (wholesome karma cools from below, unwholesome from above; a verse cited in the *Buzhu*, not part of the *Bashi guiju song* itself) relates to the dispersal of the lifespan-warmth-consciousness triad. See *Bashi guiju buzhu* 《八識規矩補註》 fasc. 2, *Taishō* vol. 45, No. 1865.
+[^72]: Dunlun's *Yuqie lunji* 《瑜伽論記》 fasc. 13b (on *Yogācāra-bhūmi-śāstra* fasc. 52), "具足應言非色不相應行。言非色者即簡於色。不相應者復簡於心" (The complete designation is 'non-form dissociated formations.' 'Non-form' excludes form. 'Dissociated' excludes mind), etymology of dissociated factors, *Taishō* vol. 42, No. 1828.
+[^73]: Lifespan of the non-perception heaven varies across texts: *Qishi jing* 《起世經》 fasc. 7 records "non-perception beings, lifespan sixteen kalpas" (T1 No. 24); *Dīrgha Āgama* 《長阿含經》 fasc. 20 records "non-perception heaven lifespan five hundred kalpas" (T1 No. 1); *Śūraṅgama Sūtra* fasc. 9 records "mental activity congealed like ashes, for five hundred kalpas" (心慮灰凝，經五百劫; T19 No. 945). These differences may involve different measurement standards.
+[^74]: Zixuan's *Shoulengyan yishu zhujing* 《首楞嚴義疏注經》 fasc. 9a (T1799), "不了妄想體空乃執生滅勞累厭此生滅求不生滅……非真涅槃也" (Not understanding that delusion's nature is empty, grasping at the weariness of arising-ceasing, seeking non-arising-non-ceasing … this is not true nirvāṇa), assessment of non-perception attainment, *Taishō* vol. 39, No. 1799.
 [^75]: *Avataṃsaka Sūtra* (80-fasc.) 《華嚴經》 fasc. 42, "各經不可說不可說億那由他劫而不想念時節長短" (Each passing through ineffable nayutas of kalpas without any awareness of time's length), temporal perception dissolving in samādhi, *Taishō* vol. 10, No. 279.
 
 ---

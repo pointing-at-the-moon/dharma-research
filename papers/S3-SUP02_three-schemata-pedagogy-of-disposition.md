@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-SUP02"
 paper_number: 2
 date: "2026-06"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 translation_note: "English mirror of the Chinese v1.0 (B1: direct mirror). Canonical passages translated by the author unless noted; T-numbers and fascicles verified against the CBETA electronic Tripiṭaka per the Chinese edition."
 ---
@@ -54,15 +54,15 @@ Responsiveness to disposition is not an invention of the Abhidharma masters; it 
 
 In the Aggregates collection (Khandha-saṃyukta), to those who grasped body-mind as permanent and as self, the Buddha taught the five clinging-aggregates as impermanent, suffering, and not-self:
 
-> Form is not self. Were form the self, form would not yield to sickness and pain… Because form is without self, sickness and pain arise in form. So too with feeling, perception, formations, and consciousness. The well-instructed noble disciple contemplates these five clinging-aggregates as not-self and not-belonging-to-self, as they truly are.[^1] *(trans. mine)*
+> Form is not self. Were form the self, form would not yield to sickness and pain… Because form is without self, sickness and pain arise in form… So too with feeling, perception, formations, and consciousness. Bhikṣus, the well-instructed noble disciple contemplates these five clinging-aggregates as not-self and not-belonging-to-self, as they truly are.[^1] *(trans. mine)*
 
 In the Bases collection (Saḷāyatana-saṃyukta), to those entangled at the six sense-doors and flowing along after objects, he spoke through the gates of faculty and object:
 
-> Conditioned by eye and form, eye-consciousness arises… so likewise for ear, nose, tongue, body, and mind.[^2] *(trans. mine)*
+> Conditioned by eye and form, eye-consciousness arises… Ear, nose, tongue, body, and mind are likewise.[^2] *(trans. mine)*
 
 In the Elements collection (Dhātu-saṃyukta), he disclosed through the manifold elements that faculty, object, and consciousness cannot be grasped as self:
 
-> Because of the diversity of elements, diverse contacts arise; because of diverse contacts, diverse feelings arise.[^3] *(trans. mine)*
+> Dependent on diverse elements, diverse contacts arise; dependent on diverse contacts, diverse feelings arise; dependent on diverse feelings, diverse cravings arise.[^3] *(trans. mine)*
 
 In other words, **the three schemata are three distinct conversations, not a three-column table.** The Buddha did not decide a priori that body-mind "ought to be divided into aggregates, bases, and elements" and then announce it; he faced particular persons—wherever this one was stuck, he used that resolution to loosen it. Aggregates, bases, elements are three responses, not three definitions. The Pali corresponds: Khandha-saṃyutta (SN 22), Saḷāyatana-saṃyutta (SN 35), Dhātu-saṃyutta (SN 14) stand as separate divisions, each with its own occasion.[^4] On this, Chinese and Pali transmissions agree: the root of the three schemata is sunk in the scene of teaching, not in the topical outline of a treatise.
 
@@ -254,7 +254,7 @@ What is learned is not three sets of classification to memorize, but three ways 
 
 [^2]: *Saṃyukta-āgama*, fasc. 8, Saḷāyatana-saṃyukta, "conditioned by eye and form, eye-consciousness arises," etc.; the faculty-object gate of the six inner and outer bases, Taishō vol. 2, No. 0099.
 
-[^3]: *Saṃyukta-āgama*, fasc. 16, Dhātu-saṃyukta, "because of the diversity of elements, diverse contacts arise"; the conditioned arising of diverse elements, Taishō vol. 2, No. 0099.
+[^3]: *Saṃyukta-āgama*, fasc. 16, Dhātu-saṃyukta, "dependent on diverse elements, diverse contacts arise"; the conditioned arising of diverse elements, Taishō vol. 2, No. 0099.
 
 [^4]: Pali correspondence: *Saṃyutta-nikāya*, Khandha-saṃyutta (SN 22), Saḷāyatana-saṃyutta (SN 35), Dhātu-saṃyutta (SN 14). The threefold division broadly parallels the Chinese.
 
@@ -270,7 +270,7 @@ What is learned is not three sets of classification to memorize, but three ways 
 
 [^10]: *Cheng Weishi Lun*, the sense of consciousness-transformation (all form-dharmas being the perceived-aspect transformed by consciousness) and the unfolding of the eight consciousnesses, Taishō vol. 31, No. 1585.
 
-[^11]: The truth of suffering, "in brief, the five clinging-aggregates are suffering," *Saṃyukta-āgama*, fasc. 13 (Guṇabhadra's rendering reads 五受陰, the older equivalent of Xuanzang's 五取蘊), Taishō vol. 2, No. 0099; Pali correspondence *Dhammacakkappavattana-sutta* (SN 56.11), "saṃkhittena pañcupādānakkhandhā dukkhā."
+[^11]: The truth of suffering, "in brief, the five clinging-aggregates are suffering," *Saṃyukta-āgama*, fasc. 14 (Guṇabhadra's rendering reads 五受陰, the older equivalent of Xuanzang's 五取蘊), Taishō vol. 2, No. 0099; Pali correspondence *Dhammacakkappavattana-sutta* (SN 56.11), "saṃkhittena pañcupādānakkhandhā dukkhā."
 
 ---
 

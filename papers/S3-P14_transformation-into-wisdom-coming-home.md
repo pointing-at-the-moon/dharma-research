@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P14"
 paper_number: 14
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Transformation into Wisdom: Coming Home
@@ -69,11 +69,11 @@ And this path is not just S3's conclusion. It simultaneously closes the arc of S
 
 The technical term *āśraya-parāvṛtti* ("basis-transformation") does not appear in the Āgama collections, but the Āgama teachings on "liberation of mind and liberation by wisdom" (*cetovimutti* and *paññāvimutti*) already establish the prototype structure of transformation.
 
-> 若比丘於此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住。……是名比丘斷愛欲，轉諸結，止慢無間等，究竟苦邊。[^3]
+> 若彼比丘於此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住。……是名比丘斷愛欲，轉諸結，止慢無間等，究竟苦邊。[^3]
 
-> "When a bhikṣu, regarding this consciousness-body and all external phenomena, has no view of self or mine, no bondage of conceit, and abides in liberation of mind and liberation by wisdom, directly knowing and realizing for himself — this is called a bhikṣu who has severed craving, *transformed* the fetters, ended conceit without remainder, and reached the ultimate end of suffering."
+> "When that bhikṣu, regarding this consciousness-body and all external phenomena, has no view of self or mine, no bondage of conceit, and abides in liberation of mind and liberation by wisdom, directly knowing and realizing for himself — this is called a bhikṣu who has severed craving, *transformed* the fetters, ended conceit without remainder, and reached the ultimate end of suffering."
 
-The word "transform" (*zhuǎn* 轉) already appears in the Āgamas: "transformed the fetters" — fetters are not annihilated but *turned* from a state of binding to a state of non-binding. "Liberation of mind, liberation by wisdom" — mind liberated from craving, wisdom liberated from ignorance. This dual liberation is the Āgama prototype for the later Yogācāra formula: "transforming affliction yields mahānirvāṇa; transforming the cognitive obstruction yields mahābodhi."
+The word "transform" (*zhuǎn* 轉) already appears in the Āgamas: "transformed the fetters" — fetters are not annihilated but *turned* from a state of binding to a state of non-binding. "Liberation of mind, liberation by wisdom" — mind liberated from craving, wisdom liberated from ignorance. This dual liberation is the Āgama prototype for the later Yogācāra formula: "transforming affliction yields mahānirvāṇa; transforming the cognitive obstruction realizes unsurpassed awakening."
 
 The *Saṃyuktāgama* further reveals the core mechanism through the contrast between "turning with consciousness" and "not turning with consciousness":
 
@@ -331,7 +331,7 @@ The four wholesome roots (warmth, summit, patience, supreme worldly dharma) grad
 
 **The Path of Seeing (*darśana-mārga*)**:
 
-> 若時於所緣，智都無所得，爾時住唯識，離二取相故。加行無間此智生時，體會真如，名通達位。[^36]
+> 若時於所緣，智都無所得，爾時住唯識，離二取相故。……加行無間此智生時，體會真如，名通達位。[^36]
 
 The critical turn: "wisdom has nothing whatsoever to attain" — non-discriminating wisdom (*nirvikalpa-jñāna*) manifests, and all traces of the grasper-grasped duality depart. "Directly encountering suchness" — wisdom and suchness become "equal and equal" (*samā samā*).
 
@@ -423,7 +423,7 @@ The transformation verses — one for each group of consciousnesses — constitu
 
 **Eighth consciousness**: "Only before the Immovable Ground is the 'storehouse' name relinquished; after the vajra path, the maturation is emptied. The great mirror, stainless, arises simultaneously, universally illuminating ten directions of dust-mote lands." [^57]
 
-The temporal summary: "The sixth and seventh transform during the causal stage; the first five and eighth reach completion in the fruition stage." [^58]
+At the end of the note on the eighth-consciousness verse, Putai's annotations cite a further verse summarizing the temporal order: "The sixth and seventh transform during the causal stage; the first five and eighth reach completion in the fruition stage." [^58]
 
 #### 2.17 The Mahāyānasaṃgraha: Basis-Transformation and Hearing-Perfuming
 
@@ -431,7 +431,7 @@ The *Mahāyānasaṃgraha* uses the water-and-milk analogy:
 
 > 若本識與非本識共起共滅猶如水乳和合，云何本識滅、非本識不滅？譬如於水，鵝所飲乳。[^59]
 
-Defiled and pure seeds in the ālaya-vijñāna are mixed like water and milk. Transformation is like the *haṃsa* bird drinking only the milk from the water.
+The fundamental consciousness (the retribution-consciousness) and what is not the fundamental consciousness (hearing-perfuming) arise and cease together, mixed like water and milk. Transformation is like the *haṃsa* bird drinking the milk and leaving the water: the milk drunk away stands for the fundamental consciousness, which gradually diminishes until it is exhausted; the water that remains stands for hearing-perfuming, which gradually increases.
 
 Hearing-perfuming (*śruta-vāsanā*) is transformation's starting point:
 
@@ -497,7 +497,7 @@ The four wisdom–consciousness correspondences form a "transformation route-map
 
 **First five consciousnesses → Accomplishment Wisdom**: from passive sensory receptors to active instruments of benefit. P06's "direct perception of actual objects" — the directness remains, but the quality shifts from sense reactions driven by karma to manifold transformative activities for the benefit of beings.
 
-The temporal sequence — "sixth and seventh in the causal stage, first five and eighth in the fruition" — reveals an important practice logic: you can directly engage the sixth and seventh. The sixth consciousness participates in transformation through study, contemplation, the four preparatory stages, and calm-insight meditation. The seventh consciousness's self-grasping is gradually loosened through sustained observation (especially dharma-emptiness contemplation). The first five and eighth transform naturally when the sixth and seventh reach sufficient depth.
+The temporal sequence — in the verse Putai's annotations cite, "the sixth and seventh transform during the causal stage; the first five and eighth reach completion in the fruition stage" — reveals an important practice logic: you can directly engage the sixth and seventh. The sixth consciousness participates in transformation through study, contemplation, the four preparatory stages, and calm-insight meditation. The seventh consciousness's self-grasping is gradually loosened through sustained observation (especially dharma-emptiness contemplation). The first five and eighth transform naturally when the sixth and seventh reach sufficient depth.
 
 ### 3.3 The Five Stages: From Study to Direct Realization
 
@@ -695,8 +695,8 @@ Then start walking.
 - *Mahāprajñāpāramitā Śāstra* (大智度論), Nāgārjuna, trans. Kumārajīva, T25, No. 1509.
 - *Cheng Weishi Lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - *Dasheng Baifalun* (大乘百法明門論), Vasubandhu, trans. Xuanzang, T31, No. 1614.
-- *Bāshí Guījǔ Sòng* with annotations (八識規矩補註), Xuanzang (verses), Puguang (annotations), T45, No. 1865.
-- *Mahāyānasaṃgraha* (攝大乘論), Asaṅga, trans. Buddhaśānta, T31, No. 1593.
+- *Bāshí Guījǔ Sòng* with annotations (八識規矩補註), Xuanzang (verses, by tradition), Putai (Ming; annotations), T45, No. 1865.
+- *Mahāyānasaṃgraha* (攝大乘論), Asaṅga, trans. Paramārtha, T31, No. 1593.
 - *Yogācārabhūmi* (瑜伽師地論), Maitreya, trans. Xuanzang, T30, No. 1579.
 - *Zōngjìng Lù* (宗鏡錄), Yongming Yanshou, T48, No. 2016.
 - *Prajñāpāramitāhṛdaya Youzàn* (般若波羅蜜多心經幽贊), Kuiji, T33, No. 1710.
@@ -720,7 +720,7 @@ Then start walking.
 | 7 | Avataṃsaka 華嚴經 (80 fasc.) | T10 | 0279 | 34, 37, 38, 39, 80 |
 | 8 | Avataṃsaka 華嚴經 (60 fasc.) | T9 | 0278 | 8 |
 | 9 | Saddharmapuṇḍarīka 法華經 | T9 | 0262 | 1, 2, 3, 4 |
-| 10 | Vimalakīrtinirdeśa 維摩詰經 | T14 | 0475 | 1 |
+| 10 | Vimalakīrtinirdeśa 維摩詰經 | T14 | 0475 | 1, 2 |
 | 11 | Laṅkāvatāra 楞伽經 (Guṇabhadra) | T16 | 0670 | 1, 3, 4 |
 | 12 | Laṅkāvatāra 入楞伽經 (Bodhiruci) | T16 | 0671 | 7 |
 | 13 | Laṅkāvatāra 大乘入楞伽經 (Śikṣānanda) | T16 | 0672 | 1, 6, 7 |
@@ -802,7 +802,7 @@ Then start walking.
 
 [^21]: *Avataṃsaka Sūtra* (60 fasc.), fasc. 8, "At the moment of first aspiration, one already achieves perfect awakening," T9, No. 0278.
 
-[^22]: *Mahāprajñāpāramitā Śāstra* 大智度論, fasc. 71, "Prajñā leads to ultimate emptiness; skillful means leads out of it," T25, No. 1509.
+[^22]: *Mahāprajñāpāramitā Śāstra* 大智度論, fasc. 71, "Prajñāpāramitā can destroy all wrong views, afflictions, and conceptual proliferation, leading into ultimate emptiness; skillful means leads out of ultimate emptiness," T25, No. 1509.
 
 [^23]: *Mahāprajñāpāramitā Śāstra*, fasc. 27, "Like a great dragon, tail in the ocean, head in the sky," T25, No. 1509.
 
@@ -818,7 +818,7 @@ Then start walking.
 
 [^29]: *Saddharmapuṇḍarīka Sūtra*, fasc. 4, "This sūtra opens the gate of skillful means, revealing the true characteristic," T9, No. 0262.
 
-[^30]: *Vimalakīrtinirdeśa* 維摩詰經, fasc. 1 (Entering the Non-Dual Gate chapter), "Vimalakīrti remained silent," T14, No. 0475.
+[^30]: *Vimalakīrtinirdeśa* 維摩詰經, fasc. 2 (Entering the Non-Dual Gate chapter), "Vimalakīrti remained silent," T14, No. 0475.
 
 [^31]: *Vimalakīrtinirdeśa*, fasc. 1 (Bodhisattva chapter), "All afflictions are the awakening-site," T14, No. 0475.
 
@@ -874,7 +874,7 @@ Then start walking.
 
 [^57]: *Bāshí Guījǔ Bǔzhù*, fasc. 2, "Before the Immovable, the storehouse relinquished … great mirror stainless," eighth-consciousness transformation verse, T45, No. 1865.
 
-[^58]: *Bāshí Guījǔ Bǔzhù*, fasc. 2, "Sixth and seventh transform in the cause; first five and eighth complete in the fruit," temporal summary, T45, No. 1865.
+[^58]: *Bāshí Guījǔ Bǔzhù*, fasc. 2, verse cited in the annotations ("故頌云"), "Sixth and seventh transform in the cause; first five and eighth complete in the fruit," temporal summary; these two lines belong to the annotations, not to the *Bāshí Guījǔ Sòng* itself, T45, No. 1865.
 
 [^59]: *Mahāyānasaṃgraha* 攝大乘論, fasc. 1, "Like the haṃsa drinking milk from water," water-and-milk analogy, T31, No. 1593.
 
@@ -882,7 +882,7 @@ Then start walking.
 
 [^61]: *Mahāyānasaṃgraha*, fasc. 3, "Basis-transformation: when the antidote arises, on the dependent nature," transformation defined, T31, No. 1593.
 
-[^62]: *Mahāyānasaṃgraha*, fasc. 3, "Six kinds of transformation," including "expansive transformation" for bodhisattvas, T31, No. 1593.
+[^62]: *Mahāyānasaṃgraha*, fasc. 3, "This basis-transformation, briefly stated, is of six kinds," including "expansive transformation" for bodhisattvas, T31, No. 1593.
 
 [^63]: *Yogācārabhūmi* 瑜伽師地論, fasc. 36, "Conceptual proliferation ceasing, one realizes Mahāyāna mahāparinirvāṇa," four realizations' fruit, T30, No. 1579.
 

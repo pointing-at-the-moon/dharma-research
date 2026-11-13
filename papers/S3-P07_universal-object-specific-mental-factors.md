@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Universal and Object-Specific Mental Factors: The Psychological Engine
@@ -146,7 +146,7 @@ Mental action is weightiest — because "what a person does begins with mental i
 
 > "Mind is the forerunner of all dharmas; mind is chief, mind is maker. If with a corrupt mind one speaks or acts, suffering follows like the wheel follows the ox's hoof. If with a pure mind one speaks or acts, happiness follows like a shadow that never departs."[^17]
 
-This verse, consistent with the opening verse of the *Dhammapada*, establishes the Āgama authority for volition as the root of all wholesome and unwholesome karmic force.
+This verse, consistent with the opening verse of the Pairs chapter (雙要品) of the *Dhammapada*, establishes the Āgama authority for volition as the root of all wholesome and unwholesome karmic force.
 
 #### 2.5 Āgama: Attention — Right Thinking and Wrong Thinking
 
@@ -194,7 +194,7 @@ The criterion for the unified practice of śamatha and vipaśyanā receives a su
 
 The hallmark of unified calm-and-insight is "mind unified in a single object" — and its content is "penetrating that images are nothing but consciousness." This is the canonical authority for the Yogācāra observation: in concentration, one realizes that the object is merely a transformation of consciousness, not an external reality. The Buddha immediately confirms:
 
-> "Those images are nothing but consciousness. I declare that the object of consciousness is nothing but what consciousness projects."[^27]
+> "Those images are nothing but consciousness. Good son! I declare that the object of consciousness is nothing but what consciousness projects."[^27]
 
 The same chapter also reveals the obstacles to calm and insight:
 
@@ -310,7 +310,7 @@ The same fascicle uses the "four universalities" to distinguish the six groups:
 
 #### 2.12 Cheng Weishi Lun, Fascicle 1: Volition and the Three Types of Karma
 
-Fascicle 1, responding to the objection "the Buddha spoke of three types of karma — does rejecting bodily and verbal karma not contradict the sūtras?", provides the precise argument for volition as the substance of karma:
+Fascicle 1, responding to the objection "the Buddha spoke in the sūtras of three types of karma — does rejecting bodily and verbal karma not contradict the sūtras?", provides the precise argument for volition as the substance of karma:
 
 > "Volition that can move the body is called bodily karma. Volition that can produce speech is called verbal karma. The two [types of] volition — deliberative and decisive — being associated with the mental consciousness and activating the mental consciousness, are called mental karma."[^53]
 
@@ -322,7 +322,7 @@ The *Yogācārabhūmi* fascicle 3 provides a parallel set of definitions:
 
 Universals:
 
-> "How many arise in all mental states, all grounds, all times, all [consciousnesses]? Five — from attention through volition. Attention: the turning of mind. Contact: the meeting of three. Feeling: receiving. Perception: apprehending images. Volition: mental construction."[^54]
+> "How many arise in all mental states, all grounds, all times, all [consciousnesses]? Five — from attention through volition… Attention: the turning of mind. Contact: the meeting of three. Feeling: receiving. Perception: apprehending images. Volition: mental construction."[^54]
 
 And their functions:
 
@@ -354,7 +354,7 @@ The *Bashi Guiju Buzhu* provides the clearest panorama of how universals and obj
 
 Eighth consciousness: "Its nature is solely unobscured [neutrality] with the five universals" — only the five universals, "because the rest are mutually incompatible."[^60]
 
-Seventh consciousness: "Eight great [subsidiary afflictions], universals, wisdom from the object-specifics, desire, delusion, self-view, and pride accompany it" — the five universals plus only wisdom from the object-specifics, totaling eighteen. The remaining four object-specifics "do not associate because they are mutually incompatible."[^61]
+Seventh consciousness: "Eight great [subsidiary afflictions], universals, wisdom from the object-specifics, desire, delusion, self-view, and pride accompany it" — the five universals plus only wisdom from the object-specifics, totaling eighteen. The remaining four object-specifics do not associate "because they are mutually incompatible."[^61]
 
 First five consciousnesses: "Universals, object-specifics, eleven wholesome, two intermediate [subsidiaries], eight great [subsidiaries], desire, aversion, and delusion" — all five universals and all five object-specifics, plus more, totaling thirty-four.[^62]
 
@@ -463,11 +463,11 @@ This two-step mechanism is precisely the micro-genesis of imagined nature (parik
 
 But perception is not a bad thing. Without perception, you could not even understand the Dharma — "perception functions as causing the mind to produce various verbal designations regarding the object."[^81] The language of scripture is designation; the concepts of practice are designation; "imagined nature" itself is a designation. Perception's function is neutral — the problem is not perception itself but its "object" and "direction." When perception takes accurate images and designates accurate names under the guidance of wisdom — that is perception guided by right awareness. When perception takes distorted images and designates deluded names under the influence of ignorance — that is perception generating affliction.
 
-The Āgamas already warned: "unwholesome thoughts arise from perception" — sensual, malicious, and harmful perception.[^82] But equally, wholesome thoughts arise from perception. Perception is shared infrastructure for both cycling and liberation: practice does not mean eliminating perception (impossible — it is universal) but transforming the direction of what perception takes and names.
+The Āgamas already warned: "unwholesome thoughts… arise from perception" — sensual, malicious, and harmful perception.[^82] But equally, wholesome thoughts arise from perception. Perception is shared infrastructure for both cycling and liberation: practice does not mean eliminating perception (impossible — it is universal) but transforming the direction of what perception takes and names.
 
 #### 3.1.7 Volition: The Root of Karma — Three Types and Three Karmas
 
-Volition is the only universal factor directly equated with one of the five aggregates (formation aggregate = six bodies of volition).[^83] Its uniqueness: volition is the psychological root of karmic force, and every wholesome or unwholesome act is initiated by volition.
+Volition, like feeling and perception, is a universal factor directly equated with one of the five aggregates (formation aggregate = six bodies of volition).[^83] Its uniqueness: volition is the psychological root of karmic force, and every wholesome or unwholesome act is initiated by volition.
 
 The *Cheng Weishi Lun* fascicle 1 argues concisely: bodily karma is "volition that can move the body"; verbal karma is "volition that can produce speech"; mental karma is "deliberative volition" plus "decisive volition."[^84] All three types of karma have volition as their substance.
 
@@ -507,7 +507,7 @@ Desire (chanda) — "hoping for what is desired as its nature; serving as the ba
 
 Desire is the neutral function of "hoping": you hope to obtain a certain object. That object can be the five sense-pleasures (which makes it afflictive when combined with the craving mental factor) or the Dharma (which makes it wholesome when combined with wholesome factors). The *Cheng Weishi Lun* specifically notes that desire's function is "serving as the basis for diligence" — without desire (the aspiration for right Dharma), there is no diligence (sustained practice effort).
 
-The *Bashi Guiju Buzhu* further analyzes three types of desired objects: the delightful, the sought, and the wished-to-observe. The third — "wished-to-observe" — is most central: a meditator's wish to observe the breath, thoughts, or the nature of mind — this wish is the most fundamental motive force of practice.[^91]
+The *Bashi Guiju Buzhu* further analyzes three types of desired objects: the delightful, the sought, and the wished-to-observe — in fascicle 5 of the *Cheng Weishi Lun* these are three "some say" explanations of "what is delighted in," and the *Buzhu* judges "the third explanation correct." The third — "wished-to-observe" — is most central: a meditator's wish to observe the breath, thoughts, or the nature of mind — this wish is the most fundamental motive force of practice.[^91]
 
 One of the most common confusions among practitioners: "Doesn't Buddhism teach 'freedom from desire'? Why does practice need 'desire'?" The answer: what is to be freed from is afflictive desire (desire combined with root afflictions), not Dharma-desire (desire combined with wholesome factors). "Freedom from desire" does not mean eliminating the hoping function but transforming the direction of hope — from the five sense-pleasures to right Dharma.
 
@@ -661,7 +661,7 @@ The analogy's heuristic value: it helps modern readers grasp the basic insight t
 
 The most common misunderstanding would be to view the universals as "low-level" or "primitive" functions and the object-specifics as "advanced" or "evolved" ones.
 
-This completely departs from Yogācāra doctrine. Among the five universals, feeling and perception are each one of the five aggregates — they are not "lower" strata that can be transcended but fundamental structures constituting sentient existence. The Buddha devotes two full fascicles of the *Śūraṅgama Sūtra* to the practice dangers in the feeling-aggregate and perception-aggregate domains, demonstrating precisely that universals remain core objects of practice even in advanced meditation. Ignoring universals to pursue object-specific states (such as chasing concentration and wisdom without observing the subtle operations of contact-feeling-perception-volition) is a serious imbalance in practice.
+This completely departs from Yogācāra doctrine. Among the five universals, feeling and perception are each one of the five aggregates — they are not "lower" strata that can be transcended but fundamental structures constituting sentient existence. The Buddha devotes the latter half of fascicle 9 of the *Śūraṅgama Sūtra* to the practice dangers in the feeling-aggregate and perception-aggregate domains, demonstrating precisely that universals remain core objects of practice even in advanced meditation. Ignoring universals to pursue object-specific states (such as chasing concentration and wisdom without observing the subtle operations of contact-feeling-perception-volition) is a serious imbalance in practice.
 
 Conversely, object-specifics are not necessarily "wholesome" — wisdom pervades all three natures, and inappropriately drawn wisdom is wrong wisdom; concentration also pervades all three natures, and non-Buddhist wrong concentration is still the concentration mental factor at work. Object-specifics are "neutral tools," not "higher functions."
 
@@ -824,7 +824,7 @@ Lazarus, R. S., and S. Folkman. *Stress, Appraisal, and Coping*. New York: Sprin
 
 [^16]: 增一阿含經 *Ekottara Āgama* fasc. 51: King Prasenajit's question; 「意行最重」 "Mental action is weightiest." T2, No. 0125.
 
-[^17]: Ibid. 「心為法本，心尊心使」 "Mind is the forerunner of all dharmas; mind is chief, mind is maker." Consistent with the opening verse of the *Dhammapada*.
+[^17]: Ibid. 「心為法本，心尊心使」 "Mind is the forerunner of all dharmas; mind is chief, mind is maker." Consistent with the opening verse of the Pairs chapter (雙要品) of the *Dhammapada*.
 
 [^18]: Corpus-search finding: yoniso manasikāra (如理作意) does not appear in Chinese Āgama translations; it is a later Abhidharma term. The Āgama equivalent is "right thinking" (正思惟) / "wrong thinking" (不正思惟).
 
@@ -940,7 +940,7 @@ Lazarus, R. S., and S. Folkman. *Stress, Appraisal, and Coping*. New York: Sprin
 
 [^74]: 成唯識論 *Cheng Weishi Lun* fasc. 5: Three-feeling definitions. T31, No. 1585.
 
-[^75]: 成唯識論 *Cheng Weishi Lun* fasc. 5: 「五識相應說名身受，意識相應說名心受」 Bodily vs. mental feeling. T31, No. 1585.
+[^75]: 成唯識論 *Cheng Weishi Lun* fasc. 5: 「五識相應說名身受……意識相應說名心受」 Bodily vs. mental feeling. T31, No. 1585.
 
 [^76]: 成唯識論 *Cheng Weishi Lun* fasc. 5: Five-feeling definitions (suffering, pleasure, grief, joy, equanimity). T31, No. 1585.
 

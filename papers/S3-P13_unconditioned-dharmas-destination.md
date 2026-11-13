@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P13"
 paper_number: 13
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Unconditioned Dharmas: The Destination of the Hundred Dharmas
@@ -224,7 +224,7 @@ The *Śāstra* further discusses "the thusness of form" (*sè rú* 色如) as no
 
 The "thusness of form"—the true thusness of form dharmas—is already non-arising and non-ceasing. Form dharmas are the most "substantial" among conditioned dharmas (possessing resistance), yet their "thusness" is already non-arising and non-ceasing. This aligns perfectly with the arc of the Hundred Dharmas: one need not traverse all conditioned dharmas to "find" true thusness, because the "thusness" of every dharma already is true thusness. Ordinary beings, obscured by the thoroughly imagined, simply do not see that all dharmas are originally thus.
 
-The *Śāstra* also explicitly states the nonduality of nirvāṇa and the world:
+The *Jingangxian Lun* (金剛仙論; Vasubandhu's treatise as explained by the master Jingangxian) also explicitly states the nonduality of nirvāṇa and the world:
 
 > 「見涅槃即世間故。」[^28]
 >
@@ -250,7 +250,7 @@ The *Laṅkāvatāra*'s description of the tathāgatagarbha:
 
 "Ever-abiding, cool, and unchanging"—this is precisely the meaning of the name "true thusness": "True means real, indicating non-falsity; thus means ever-same, indicating non-changeability" (*Cheng Weishi Lun*, fascicle 9). The tathāgatagarbha's "ever-abiding" is true thusness's "ever-same."
 
-The *Laṅkāvatāra* further integrates the five dharmas, three natures, eight consciousnesses, and two selflessnesses into a unity:
+The *Ghanavyūha* and the *Laṅkāvatāra* further integrate the five dharmas, three natures, eight consciousnesses, and two selflessnesses into a unity:
 
 > 「五法三自性，八識二無我，得於如幻定，隨意所成身。」[^31]
 
@@ -298,7 +298,7 @@ The *Abhidharma-samuccaya* establishes a system of eight unconditioned dharmas:
 
 > 「此無為法復有八種，謂善法真如、不善法真如、無記法真如、虛空、非擇滅、擇滅、不動及想受滅。」[^37]
 
-The *Samuccaya* subdivides true thusness into three—the true thusness of wholesome dharmas, unwholesome dharmas, and neutral dharmas—not because true thusness itself has three different substances, but because the same true thusness exists equally in wholesome, unwholesome, and neutral dharmas. The *Abhidharma-samuccaya-vyākhyā* states explicitly: "True thusness is provisionally established as three by analytical division, not by virtue of its own nature."[^38]
+The *Samuccaya* subdivides true thusness into three—the true thusness of wholesome dharmas, unwholesome dharmas, and neutral dharmas—not because true thusness itself has three different substances, but because the same true thusness exists equally in wholesome, unwholesome, and neutral dharmas. The *Abhidharma-samuccaya-vyākhyā* states explicitly: "Among the eight unconditioned dharmas thus established, it should be understood that, because of differences of basis, true thusness is analytically divided and provisionally established as three, not by virtue of its own nature."[^38]
 
 The *Samuccaya*'s interpretation of true thusness is especially rich, revealing its multiple names through seven questions and answers:
 
@@ -316,7 +316,7 @@ The *Vyākhyā* provides definitions for the remaining unconditioned dharmas:
 > Immovability: "Having abandoned desire for the purity realm (*śubhakṛtsna*) but not yet abandoned desire for higher realms—the unconditioned cessation of suffering and pleasure."
 > Cessation of perception and feeling: "Having abandoned desire for the sphere of nothingness, preceded by the volition to cease mentation—the cessation of impermanent mind and mental factors together with one portion of the permanent ones—this is an unconditioned state."[^40]
 
-The *Cheng Weishi Lun Shuji*'s classification further clarifies:
+The classification in Dunlun's *Yuqie lunji* 《瑜伽論記》 further clarifies:
 
 > 「真如無為非滅諦攝，擇滅無為滅受相無為不動無為是滅諦攝。」[^41]
 >
@@ -343,7 +343,7 @@ The verse:
 > Ever abiding in its nature,
 > It is the real nature of consciousness-only."
 
-"The real nature of consciousness-only"—these four characters are the pivotal anchor of the entire series. True thusness is not something outside consciousness-only; it is "the real nature of consciousness-only"—the real nature of consciousness itself. All dharmas are transformations of consciousness (consciousness-only), and the real nature of consciousness is true thusness (real nature). The one hundred dharmas of the Hundred Dharmas are all different facets of consciousness, and the real nature of all one hundred is true thusness.
+"The real nature of consciousness-only"—these five characters are the pivotal anchor of the entire series. True thusness is not something outside consciousness-only; it is "the real nature of consciousness-only"—the real nature of consciousness itself. All dharmas are transformations of consciousness (consciousness-only), and the real nature of consciousness is true thusness (real nature). The one hundred dharmas of the Hundred Dharmas are all different facets of consciousness, and the real nature of all one hundred is true thusness.
 
 The *Cheng Weishi Lun* further establishes the meaning of "real nature" through a double distinction:
 
@@ -369,9 +369,9 @@ The most profound passage:
 
 Three key points: first, true thusness is the shared basis of both saṃsāra and nirvāṇa—not two different things, but the same true thusness in defiled and pure states; second, "thusness is intrinsically pure but its appearance is defiled"—the nature of true thusness is pure (intrinsically pure), but it presents a defiled appearance in the ordinary being's stage (appearance defiled); third, "when defilement is removed, purity is provisionally spoken of as 'new'"—the "new" purity is merely a provisional designation; true thusness itself has not undergone any change. This is the deep doctrinal ground of analytical cessation: practice does not create new purity but reveals intrinsic purity.
 
-#### 2.12 Cheng Weishi Lun, Fascicle 9 — Ten True Thusnesses and Revelation through the Two Emptinesses
+#### 2.12 Cheng Weishi Lun, Fascicles 9–10 — Ten True Thusnesses and Revelation through the Two Emptinesses
 
-Fascicle 9 discusses the ten true thusnesses realized across the ten stages:
+Fascicle 9 speaks of the ten stages as "realizing the ten true thusnesses"; fascicle 10 lists them one by one:
 
 > 「十真如者：一、遍行真如，謂此真如二空所顯，無有一法而不在故。」[^47]
 >
@@ -381,9 +381,9 @@ The ten true thusnesses are not ten different true thusnesses but the same true 
 
 "Revealed by the two emptinesses" is the key phrase: true thusness is "revealed" through the practice-realization of person-emptiness and dharma-emptiness. It is not created but disclosed once the obscurations (the two self-grasping) are removed.
 
-#### 2.13 Cheng Weishi Lun, Fascicle 10 — The Real Nature of Consciousness-Only and the Four Wisdoms
+#### 2.13 Cheng Weishi Lun, Fascicles 8 and 10 — The Real Nature of Consciousness-Only and the Four Wisdoms
 
-Fascicle 10 includes "consciousness-only true thusness" among the seven true thusnesses:
+Fascicle 8 includes "consciousness-only true thusness" among the seven true thusnesses:
 
 > 「七真如者：……三、唯識真如，謂染淨法，唯識實性。」[^48]
 >
@@ -429,9 +429,9 @@ The *Yogācārabhūmi-śāstra*'s treatment of the perfectly accomplished nature
 
 "One flavor throughout all domains"—true thusness is the same in all dharmas without differentiation.[^56] One cannot say that the true thusness of form dharmas differs from that of mind dharmas, or that the true thusness of wholesome dharmas differs from that of unwholesome dharmas—the true thusness of all dharmas is "one flavor." This is the Yogācāra-school basis for the six unconditioned dharmas being centered on true thusness.
 
-> 「圓成實自性，當言無所安住、無所依止。」[^55]
+> 「問：圓成實自性，當言何所依止？答：當言無所安住、無所依止。」[^55]
 >
-> "The perfectly accomplished nature should be said to have no basis and no support."
+> "Question: On what should the perfectly accomplished nature be said to depend? Answer: It should be said to have no basis and no support."
 
 The perfectly accomplished nature—true thusness—has "no basis and no support." This reveals a profound doctrinal point: the first four categories of the Hundred Dharmas (conditioned dharmas) all have supports—mental factors depend on mind dharmas, form dharmas depend on consciousness's transformation, dissociated factors depend on the positions of form and mind. But true thusness depends on nothing; it is the real nature of all dharmas, not their product.
 
@@ -613,7 +613,7 @@ The cessation of perception and feeling: the *Vyākhyā* defines it as the uncon
 
 The difference between the cessation of perception and feeling and the unconditioned of immovability lies in depth: the unconditioned of immovability involves the cessation of suffering and pleasure (fourth dhyāna and above); the cessation of perception and feeling involves the cessation of perception and feeling themselves (the cessation attainment)—even the deepest layers of mental activity, "perception" and "feeling," come to a complete halt.
 
-The *Cheng Weishi Lun*'s argument establishes: in the cessation attainment, "consciousness does not leave the body"—the eighth consciousness remains. This means the cessation of perception and feeling is not a void state where "all consciousness has vanished" but a domain where, with the fundamental support of consciousness (the eighth consciousness) still operating, the cessation of all coarse mental activity reveals a dimension of the "unconditioned." Notably, the Buddha himself emerged from the cessation attainment before entering final nirvāṇa, rather than remaining within it—indicating a distinction between the cessation of perception and feeling and ultimate liberation.[^80]
+The *Cheng Weishi Lun*'s argument establishes: in the cessation attainment, "consciousness does not leave the body"—the eighth consciousness remains. This means the cessation of perception and feeling is not a void state where "all consciousness has vanished" but a domain where, with the fundamental support of consciousness (the eighth consciousness) still operating, the cessation of all coarse mental activity reveals a dimension of the "unconditioned." Notably, the Buddha himself did not enter final nirvāṇa from within the cessation attainment: he emerged from it, descended back through the attainments to the first dhyāna, ascended again to the fourth dhyāna, and entered final nirvāṇa there—indicating a distinction between the cessation of perception and feeling and ultimate liberation.[^80]
 
 ✅ Core thesis: The unconditioned of immovability and the cessation of perception and feeling are temporary manifestations of true thusness in meditative absorption—not final liberation but important foundations for contemplating true thusness.
 
@@ -625,9 +625,9 @@ Space-like unconditioned: a designation of the absence of obstruction by form—
 
 The first five each have their context: space-like describes spatial non-obstruction, analytical cessation describes practice-based liberation, non-analytical cessation describes the absence of conditions, the unconditioned of immovability describes the equanimity of deep absorption, and the cessation of perception and feeling describes the stilling of the cessation attainment. True thusness unconditioned does not describe any particular "state"—it is the "real nature" of all of these.
 
-The *Pañcaskandhaka* defines true thusness as "dharma-nature, dharma-selflessness."[^81] The *Samuccaya* reveals its multiple facets through seven questions—selflessness, emptiness, signlessness, ultimate reality, supreme meaning, dharma-realm. The *Yogācārabhūmi* confirms that true thusness is "one flavor throughout all domains, without numerical distinctions."
+The *Pañcaskandhaka* defines true thusness as "dharma-nature, dharma-selflessness."[^81] The *Samuccaya* reveals its multiple facets through seven questions—selflessness, emptiness, signlessness, ultimate reality, supreme meaning, dharma-realm. The *Yogācārabhūmi* confirms: "Because it is of one flavor in all places, the perfectly accomplished nature has no established distinctions of category or number."
 
-The *Cheng Weishi Lun*'s classification brings this panorama to full integration: among the six unconditioned dharmas, the first five are "provisionally established"—different meanings designated upon true thusness; the sixth, true thusness unconditioned, is the sole real nature—"the real nature of consciousness-only is none other than true thusness."
+The *Cheng Weishi Lun*'s classification brings this panorama to full integration: among the six unconditioned dharmas, the first five are "provisionally established"—different meanings designated upon true thusness; the sixth, true thusness unconditioned, is the sole real nature—as the treatise's verse puts it, "it is also true thusness … it is the real nature of consciousness-only."
 
 An analogy: true thusness is like white light; the first five unconditioned dharmas are like the different colors refracted when white light passes through different prisms. Space-like unconditioned is white light's manifestation at "the absence of form," analytical cessation is its manifestation at "the elimination of afflictions," the unconditioned of immovability and the cessation of perception and feeling are its manifestations in "deep absorption," and non-analytical cessation is its manifestation at "the absence of conditions." The colors are real (other-dependently existent), but white light is the source (the perfectly accomplished nature).
 
@@ -705,7 +705,7 @@ But the difference remains important: Heidegger's "unconcealment" is a process t
 
 Axiomatic systems in mathematics have an interesting structural feature: axioms themselves are underivable (they do not depend on other propositions), yet all theorems are derived from axioms. Axioms are the "unmoving foundation"; theorems are the "variable derivations."
 
-True thusness unconditioned among the six unconditioned dharmas has a structural parallel with axioms: true thusness is "not fabricated" (*asaṃskṛta*), and all conditioned dharmas "depend on" true thusness for their real nature. True thusness is not derived from conditioned dharmas—"the perfectly accomplished nature has no basis and no support"—it is self-sufficient. But the real nature of all conditioned dharmas is true thusness—without true thusness, conditioned dharmas would have no "real nature."
+True thusness unconditioned among the six unconditioned dharmas has a structural parallel with axioms: true thusness is "not fabricated" (*asaṃskṛta*), and all conditioned dharmas "depend on" true thusness for their real nature. True thusness is not derived from conditioned dharmas—"the perfectly accomplished nature … should be said to have no basis and no support"—it is self-sufficient. But the real nature of all conditioned dharmas is true thusness—without true thusness, conditioned dharmas would have no "real nature."
 
 The first five unconditioned dharmas resemble the application of axioms in different theorem systems: the same true thusness (axiom), manifested as space-like unconditioned in the context of "absence of form," as analytical cessation in the context of "wisdom's elimination of afflictions," and as the unconditioned of immovability and the cessation of perception and feeling in the context of "meditative stilling"—just as the same axiom set finds different applications in different branches of mathematics.
 
@@ -729,7 +729,7 @@ If true thusness is understood as an independent entity, one has fallen into dha
 
 ### ❌ Correction 3: Six Unconditioned Dharmas ≠ Six Independent Unconditioned Entities
 
-The *Hundred Dharmas Treatise*'s listing of six unconditioned dharmas can be misunderstood as there being six different unconditioned "things" existing independently. But the *Samuccaya* and *Vyākhyā* have stated explicitly: "True thusness is provisionally established as three by analytical division, not by virtue of its own nature"—the classification of true thusness is a provisional designation, not a difference in true thusness's own nature.
+The *Hundred Dharmas Treatise*'s listing of six unconditioned dharmas can be misunderstood as there being six different unconditioned "things" existing independently. But the *Cheng Weishi Lun*, fascicle 2, has stated explicitly that space and the other four unconditioned dharmas "are all provisionally established on the basis of true thusness, and true thusness too is a provisionally designated name"—the division into six unconditioned dharmas is a provisional designation based on true thusness, not six different natures. The *Vyākhyā*, discussing the eight unconditioned dharmas, likewise says "true thusness is provisionally established as three by analytical division, not by virtue of its own nature"; this refers to the three kinds of true thusness distinguished by their basis, and extending it to the six unconditioned dharmas is the author's interpretation.
 
 The *Cheng Weishi Lun* fascicle 8's three-nature classification is even more thorough: all six unconditioned dharmas can be classified under the three natures; the first five are "provisionally established" upon true thusness. The six dharmas are not six independent entities but the same true thusness manifesting in different contexts—like the same mirror reflecting different light from different angles.
 
@@ -769,7 +769,7 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 
 *Saṃyuktāgama* (雜阿含經). Translated by Guṇabhadra. *Taishō* vol. 2, No. 0099.
 *Madhyamāgama* (中阿含經). Translated by Gautama Saṃghadeva. *Taishō* vol. 1, No. 0026.
-*Ekottarāgama* (別譯雜阿含經). Translator unknown. *Taishō* vol. 2, No. 0100.
+*Separately Translated Saṃyuktāgama* (別譯雜阿含經). Translator unknown. *Taishō* vol. 2, No. 0100.
 *Mahāparinirvāṇa Sūtra* (大般涅槃經). Translated by Faxian. *Taishō* vol. 1, No. 0007.
 *Prajñāpāramitā Hṛdaya Sūtra* (般若心經). Translated by Xuanzang. *Taishō* vol. 8, No. 0251.
 *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經). Translated by Xuanzang. *Taishō* vols. 5–7, No. 0220.
@@ -777,7 +777,7 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 *Śūraṅgama Sūtra* (楞嚴經). Translated by Pāramiti. *Taishō* vol. 19, No. 0945.
 *Laṅkāvatāra Sūtra* (入楞伽經). Translated by Bodhiruci. *Taishō* vol. 16, No. 0671.
 *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經). Translated by Guṇabhadra. *Taishō* vol. 16, No. 0670.
-*Ghanavyūha Sūtra* (大乘密嚴經). Translated by Divākara. *Taishō* vol. 16, No. 0682.
+*Ghanavyūha Sūtra* (大乘密嚴經). Translated by Amoghavajra. *Taishō* vol. 16, No. 0682.
 *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle). Translated by Śikṣānanda. *Taishō* vol. 10, No. 0279.
 *Śatadharmaprakāśamukha-śāstra* (百法明門論). By Vasubandhu. Translated by Xuanzang. *Taishō* vol. 31, No. 1614.
 *Cheng Weishi Lun* (成唯識論). By Dharmapāla et al. Translated by Xuanzang. *Taishō* vol. 31, No. 1585.
@@ -787,9 +787,9 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 *Abhidharma-samuccaya-vyākhyā* (大乘阿毘達磨雜集論). Compiled by Sthiramati. Translated by Xuanzang. *Taishō* vol. 31, No. 1606.
 *Mahāyāna-saṃgraha* (攝大乘論). By Asaṅga. Translated by Paramārtha. *Taishō* vol. 31, No. 1593.
 *Mahāprajñāpāramitā-śāstra* (大智度論). By Nāgārjuna. Translated by Kumārajīva. *Taishō* vol. 25, No. 1509.
-*Mahāprajñāpāramitā-śāstra* (大智度論). By Nāgārjuna. Translated by Kumārajīva. *Taishō* vol. 25, No. 1509.
+*Jingangxian Lun* (金剛仙論). By Vasubandhu; explained by the master Jingangxian. Translated by Bodhiruci. *Taishō* vol. 25, No. 1512.
 *Bā Shí Guī Jǔ Bǔ Zhù* (八識規矩補註). Annotated by Putai. *Taishō* vol. 45, No. 1865.
-*Cheng Weishi Lun Shuji* (成唯識論述記). By Kuiji. *Taishō* vol. 43, No. 1830.
+*Yuqie lunji* (瑜伽論記). Compiled by Dunlun. *Taishō* vol. 42, No. 1828.
 *Commentary on the Huayan Dharma-Realm Contemplation Gate* (注華嚴法界觀門). By Zongmi. *Taishō* vol. 45, No. 1884.
 *Huayan Dharma-Realm Dark Mirror* (華嚴法界玄鏡). By Chengguan. *Taishō* vol. 45, No. 1883.
 *Huayan Essay on Generating the Bodhi-Mind* (華嚴發菩提心章). By Fazang. *Taishō* vol. 45, No. 1878.
@@ -808,27 +808,27 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 |---|------|-------------|------|-----------------|
 | 1 | Saṃyuktāgama 雜阿含經 | T2 | No. 0099 | Fasc. 12, 13, 17, 31 |
 | 2 | Madhyamāgama 中阿含經 | T1 | No. 0026 | Fasc. 4 |
-| 3 | Ekottarāgama 別譯雜阿含經 | T2 | No. 0100 | Fasc. 1 |
+| 3 | Separately Translated Saṃyuktāgama 別譯雜阿含經 | T2 | No. 0100 | Fasc. 1 |
 | 4 | Mahāparinirvāṇa Sūtra 大般涅槃經 | T1 | No. 0007 | Fasc. 3 |
 | 5 | Prajñāpāramitā Hṛdaya 心經 | T8 | No. 0251 | Entire text |
 | 6 | Mahāprajñāpāramitā 大般若經 | T5–7 | No. 0220 | Fasc. 277, 337, 545, 570 |
 | 7 | Saṃdhinirmocana 解深密經 | T16 | No. 0676 | Fasc. 1, 2 |
-| 8 | Śūraṅgama 楞嚴經 | T19 | No. 0945 | Fasc. 2, 6 |
+| 8 | Śūraṅgama 楞嚴經 | T19 | No. 0945 | Fasc. 2, 3, 6, 9 |
 | 9 | Laṅkāvatāra 入楞伽經 | T16 | No. 0671 | Fasc. 8 |
 | 10 | Laṅkāvatāra 楞伽阿跋多羅寶經 | T16 | No. 0670 | Fasc. 2, 4 |
 | 11 | Ghanavyūha 大乘密嚴經 | T16 | No. 0682 | Fasc. 1 |
 | 12 | Avataṃsaka 華嚴經 (80) | T10 | No. 0279 | — |
 | 13 | Hundred Dharmas Treatise 百法明門論 | T31 | No. 1614 | Entire text |
-| 14 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | Fasc. 4, 5, 7, 8, 9, 10 |
+| 14 | Cheng Weishi Lun 成唯識論 | T31 | No. 1585 | Fasc. 2, 4, 5, 7, 8, 9, 10 |
 | 15 | Yogācārabhūmi 瑜伽師地論 | T30 | No. 1579 | Fasc. 13, 50, 51, 52, 74 |
 | 16 | Pañcaskandhaka 大乘五蘊論 | T31 | No. 1612 | Entire text |
 | 17 | Abhidharma-samuccaya 集論 | T31 | No. 1605 | Fasc. 1 |
 | 18 | Abhidharma-samuccaya-vyākhyā 雜集論 | T31 | No. 1606 | Fasc. 2 |
 | 19 | Mahāyāna-saṃgraha 攝大乘論 | T31 | No. 1593 | Fasc. 1 |
 | 20 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | No. 1509 | Fasc. 31, 89 |
-| 21 | Mahāprajñāpāramitā-śāstra 大智度論 | T25 | No. 1509 | Fasc. 10 |
+| 21 | Jingangxian Lun 金剛仙論 | T25 | No. 1512 | Fasc. 10 |
 | 22 | Bā Shí Guī Jǔ Bǔ Zhù 八識規矩補註 | T45 | No. 1865 | Fasc. 1, 2 |
-| 23 | Cheng Weishi Lun Shuji 述記 | T43 | No. 1830 | Fasc. 1 |
+| 23 | Yuqie lunji 瑜伽論記 | T42 | No. 1828 | Fasc. 19a |
 | 24 | Commentary on Huayan Dharma-Realm 注華嚴法界觀門 | T45 | No. 1884 | Fasc. 1 |
 | 25 | Huayan Dharma-Realm Dark Mirror 華嚴法界玄鏡 | T45 | No. 1883 | Fasc. 2 |
 | 26 | Huayan Bodhi-Mind Essay 華嚴發菩提心章 | T45 | No. 1878 | Fasc. 1 |
@@ -889,7 +889,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^18]: *Śūraṅgama Sūtra*, fasc. 2. The wondrous true thusness of the tathāgatagarbha. *Taishō* vol. 19, No. 0945.
 
-[^19]: *Śūraṅgama Sūtra*, fasc. 2. Repeated inquiry through aggregates, sense gates, bases, and elements. *Taishō* vol. 19, No. 0945.
+[^19]: *Śūraṅgama Sūtra*, fasc. 2–3 (aggregates in fasc. 2; sense gates, bases, and elements in fasc. 3). Repeated inquiry through aggregates, sense gates, bases, and elements. *Taishō* vol. 19, No. 0945.
 
 [^20]: The relationship between Yogācāra and tathāgatagarbha thought is a complex scholarly topic. The *Cheng Weishi Lun* subsumes the meaning of true thusness under the perfectly accomplished nature, avoiding the misunderstanding of "permanent, unchanging store-nature" that tathāgatagarbha thought can invite. The *Laṅkāvatāra* explicitly links the two: "ālaya-vijñāna is called tathāgatagarbha." This paper takes Yogācāra as its primary framework and notes the different expressive frameworks when citing tathāgatagarbha scriptures.
 
@@ -907,7 +907,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^27]: *Mahāprajñāpāramitā-śāstra*, fasc. 89. The thusness of form is non-arising and non-ceasing. *Taishō* vol. 25, No. 1509.
 
-[^28]: *Mahāprajñāpāramitā-śāstra*, fasc. 10. Nirvāṇa is the world. *Taishō* vol. 25, No. 1509.
+[^28]: *Jingangxian Lun*, fasc. 10. Nirvāṇa is the world. *Taishō* vol. 25, No. 1512.
 
 [^29]: *Laṅkāvatāra Sūtra* (T0671), fasc. 8. Tathāgatagarbha empty and not-empty. *Taishō* vol. 16, No. 0671.
 
@@ -927,13 +927,13 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^37]: *Abhidharma-samuccaya-vyākhyā*, fasc. 2. Eight unconditioned dharmas. *Taishō* vol. 31, No. 1606.
 
-[^38]: *Abhidharma-samuccaya-vyākhyā*, fasc. 2: 「分析真如假立三種，不由自性故」 Three types of true thusness are provisionally established, not by intrinsic nature. *Taishō* vol. 31, No. 1606.
+[^38]: *Abhidharma-samuccaya-vyākhyā*, fasc. 2: 「如是建立八無為中，當知所依差別故。分析真如假立三種，不由自性故」 Three types of true thusness are provisionally established by differences of basis, not by intrinsic nature. *Taishō* vol. 31, No. 1606.
 
 [^39]: *Abhidharma-samuccaya*, fasc. 1. True thusness's seven names. *Taishō* vol. 31, No. 1605.
 
 [^40]: *Abhidharma-samuccaya-vyākhyā*, fasc. 2. Definitions of the five unconditioned dharmas from space-like to cessation of perception and feeling. *Taishō* vol. 31, No. 1606.
 
-[^41]: *Cheng Weishi Lun Shuji*, fasc. 1. Four-truth classification of the six unconditioned dharmas. *Taishō* vol. 43, No. 1830.
+[^41]: Dunlun's *Yuqie lunji* 《瑜伽論記》, fasc. 19a. Four-truth classification of the six unconditioned dharmas. *Taishō* vol. 42, No. 1828.
 
 [^42]: *Cheng Weishi Lun*, fasc. 9. Exegesis of the name "true thusness." *Taishō* vol. 31, No. 1585.
 
@@ -945,7 +945,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^46]: *Cheng Weishi Lun*, fasc. 9: 「如雖性淨而相雜染」 True thusness intrinsically pure but appearing defiled. *Taishō* vol. 31, No. 1585.
 
-[^47]: *Cheng Weishi Lun*, fasc. 9. The ten true thusnesses. *Taishō* vol. 31, No. 1585.
+[^47]: *Cheng Weishi Lun*, fasc. 10. The ten true thusnesses. *Taishō* vol. 31, No. 1585.
 
 [^48]: *Cheng Weishi Lun*, fasc. 8. Consciousness-only true thusness among the seven true thusnesses. *Taishō* vol. 31, No. 1585. Cited twice.
 
@@ -1011,7 +1011,7 @@ Lusthaus, Dan. *Buddhist Phenomenology: A Philosophical Investigation of Yogāc�
 
 [^79]: The *Śūraṅgama Sūtra*, fasc. 9, classifies the realm of no-thought as a non-Buddhist path—mistaking meditative states for nirvāṇa. S3-P12 (§3.4) has already discussed the fundamental difference between the concentration of no-thought and the cessation attainment.
 
-[^80]: The Buddha's sequence of concentrations at parinirvāṇa: see the *Mahāparinirvāṇa Sūtra* [^11]. The Buddha emerged from the cessation attainment and then entered nirvāṇa, rather than remaining in the cessation attainment—suggesting a difference between the cessation of perception and feeling and ultimate nirvāṇa.
+[^80]: The Buddha's sequence of concentrations at parinirvāṇa: see the *Mahāparinirvāṇa Sūtra*, fasc. 3 [^11]: 「爾時，世尊出滅盡定，更還入於非想非非想處，乃至次第入於初禪。復出初禪，入第二禪。出於二禪，入第三禪。出於三禪，入第四禪，即於此地入般涅槃。」 "Then the World-Honored One emerged from the cessation attainment, entered again the sphere of neither-perception-nor-non-perception, and so on in order down to the first dhyāna; emerging from the first dhyāna he entered the second, from the second the third, from the third the fourth, and in that very stage entered parinirvāṇa." Having emerged from the cessation attainment, the Buddha entered parinirvāṇa from the fourth dhyāna, rather than remaining in the cessation attainment—suggesting a difference between the cessation of perception and feeling and ultimate nirvāṇa.
 
 [^81]: *Pañcaskandhaka*: 「云何真如？謂諸法法性、法無我性」 See [^36].
 

@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P09"
 paper_number: 9
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Fundamental Afflictions and Indeterminates: The Engine of Saṃsāra
@@ -107,7 +107,7 @@ Pride is the subtlest of the six root afflictions, and Khemaka's testimony is on
 
 "I do not say form is my self, nor that my self is other than form. … Yet regarding the five appropriated aggregates, self-conceit, self-desire, and self-tendency remain uncut, unknown, unabandoned, unvomited."
 
-Khemaka had correctly seen that the five aggregates are not self — no error of view. But "self-conceit, self-desire, self-tendency" persisted. He likened it to the fragrance of flowers remaining on a washed cloth. Finally, he described the remedy:
+Khemaka had correctly seen that the five aggregates are not self — no error of view. But "self-conceit, self-desire, self-tendency" persisted. He likened it to a nurse's garment: washed with lye, it still keeps a residual odor, which must be removed by perfuming it with various scents. Finally, he described the remedy:
 
 > 「然後於五受陰增進思惟，觀察生滅……我慢、我欲、我使，一切悉除，是名真實正觀。」[^11]
 
@@ -471,7 +471,7 @@ The five views have a strict genetic sequence: self-view → extreme views → w
 
 **Pride's** seven varieties (conceit, over-conceit, conceit-exceeding-conceit, self-conceit, superiority conceit, inferiority conceit, wrong conceit) display the many faces of self-exaltation. "Inferiority conceit" deserves special note — "deeming oneself only slightly inferior to the greatly superior" — seemingly humble, yet still comparing, still conceit.
 
-Khemaka's experience is pride's finest clinical case.[^88] The Śūraṅgama-sūtra's sensation-aggregate demons dramatize it further — "seven types of conceit erupting simultaneously, one's mind even looking down upon the Tathāgatas of the ten directions."[^89] From the Yogācāra perspective, Khemaka had severed discriminatively-arisen self-view (path of seeing) but not yet cleared innately-arisen self-conceit (the target of the path of cultivation).
+Khemaka's experience is pride's finest clinical case.[^88] The Śūraṅgama-sūtra's sensation-aggregate demons dramatize it further — seven types of conceit "erupting simultaneously, one's mind even looking down upon the Tathāgatas of the ten directions."[^89] From the Yogācāra perspective, Khemaka had severed discriminatively-arisen self-view (path of seeing) but not yet cleared innately-arisen self-conceit (the target of the path of cultivation).
 
 **Doubt** appears mild but is lethal. "Vacillation as its nature; its function is to obstruct wholesome qualities"[^90] — doubt's harm is not in doing wrong but in doing nothing. Wholesome qualities simply fail to arise.
 
@@ -575,7 +575,7 @@ Khemaka's experience is the best illustration: he had fully understood at the ex
 
 In Baddeley's working memory model, the "phonological loop" maintains and operates linguistically mediated internal representations — people "talk to themselves" when thinking.[^110]
 
-The definition of examination and investigation — "causing the mind to move hastily in the domain of internal speech (mano-jalpa), with coarse/fine movement as its nature" — directly addresses linguistically mediated inner thinking. Examination's coarse movement and investigation's fine movement correspond to the spectrum from rough thinking to careful deliberation in inner speech.
+The definition of examination and investigation — "causing the mind to move hastily in the domain of internal speech (mano-jalpa), with coarse movement as its nature" and "causing the mind to move hastily in the domain of internal speech, with fine movement as its nature" — directly addresses linguistically mediated inner thinking. Examination's coarse movement and investigation's fine movement correspond to the spectrum from rough thinking to careful deliberation in inner speech.
 
 Vygotsky's theory of "inner speech" further holds that inner speech is the internalization of external social speech — children first converse with others, then internalize dialogue as self-dialogue.[^111] This has a suggestive parallel with the Yogācāra determination that examination and investigation "use a portion of volition and wisdom as their substance" — they are not independent entities but the operations of volition (motivational-intentional) and wisdom (discriminative-judicative) in the linguistic dimension. ⚠️
 
@@ -742,7 +742,7 @@ Next, we turn to the fifth category of mental factors — the twenty subsidiary 
 [^52]: *Cheng Weishi Lun*, fasc. 6: affliction-consciousness correlations. *Taishō* Vol. 31, No. 1585.
 [^53]: *Bāshí Guījǔ Bǔzhù* 八識規矩補註, lower fasc.: the eighth consciousness does not accompany afflictions. *Taishō* Vol. 45, No. 1865.
 [^54]: *Cheng Weishi Lun*, fasc. 4: 「四煩惱常俱」 manas's permanent four afflictions. *Taishō* Vol. 31, No. 1585.
-[^55]: *Yogācārabhūmi* 瑜伽師地論, fasc. 8: 「十煩惱七唯意地，貪恚無明亦通五識」 *Taishō* Vol. 30, No. 1579.
+[^55]: *Yogācārabhūmi* 瑜伽師地論, fasc. 58: 「十煩惱七唯意地，貪恚無明亦通五識」 *Taishō* Vol. 30, No. 1579.
 [^56]: *Cheng Weishi Lun*, fasc. 6: moral-nature classification of afflictions. *Taishō* Vol. 31, No. 1585.
 [^57]: *Cheng Weishi Lun*, fasc. 6: 「瞋唯在欲，餘通三界」 realm-binding. *Taishō* Vol. 31, No. 1585.
 [^58]: *Cheng Weishi Lun*, fasc. 9: definition of the afflictive obstruction. *Taishō* Vol. 31, No. 1585.
@@ -756,7 +756,7 @@ Next, we turn to the fifth category of mental factors — the twenty subsidiary 
 [^66]: *Cheng Weishi Lun*, fasc. 7: definition of examination (vitarka) and investigation (vicāra). *Taishō* Vol. 31, No. 1585.
 [^67]: *Cheng Weishi Lun*, fasc. 7: realm-binding of the four indeterminates. *Taishō* Vol. 31, No. 1585.
 [^68]: *Cheng Weishi Lun*, fasc. 7: affliction-accompaniment of the four indeterminates. *Taishō* Vol. 31, No. 1585.
-[^69]: *Yogācārabhūmi*, fasc. 8: 「不寂靜起，不寂靜行相續而轉」 the nature of affliction as non-tranquility. *Taishō* Vol. 30, No. 1579.
+[^69]: *Yogācārabhūmi*, fasc. 8: 「不寂靜起；由彼起故，不寂靜行相續而轉」 the nature of affliction as non-tranquility. *Taishō* Vol. 30, No. 1579.
 [^70]: *Yogācārabhūmi*, fasc. 8: the six causes of affliction. *Taishō* Vol. 30, No. 1579.
 [^71]: *Yogācārabhūmi*, fasc. 8: the seven positions of affliction. *Taishō* Vol. 30, No. 1579.
 [^72]: *Bāshí Guījǔ Bǔzhù*, upper fasc.: first five consciousnesses — 「貪瞋癡者即根本煩惱六中之三」 *Taishō* Vol. 45, No. 1865.

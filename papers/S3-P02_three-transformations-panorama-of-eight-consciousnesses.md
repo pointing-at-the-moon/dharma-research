@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P02"
 paper_number: 2
 date: "2026-03"
-version: "2.0"
+version: "2.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Three Transformations: A Panorama of the Eight Consciousnesses
@@ -45,7 +45,7 @@ The eight-consciousness theory reaches its most precise systematization in the *
 
 #### 2.1 The Āgamas — The Original Teaching of the Six Consciousness-Bodies
 
-The eight-consciousness system was not constructed from nothing. The Āgamas' six-consciousness model — eye-consciousness through mind-consciousness — is Yogācāra's starting point. The *Saṃyuktāgama*'s "Sūtra on the Six Sixes" organizes all cognitive activity under twelve bases and six consciousness-bodies: "What are the six internal bases? The eye-base, ear-base, nose-base, tongue-base, body-base, and mind-base"; "Conditioned by eye and form, eye-consciousness arises; the meeting of the three is contact."[^41]
+The eight-consciousness system was not constructed from nothing. The Āgamas' six-consciousness model — eye-consciousness through mind-consciousness — is Yogācāra's starting point. The *Saṃyuktāgama*'s "Sūtra on the Six Sixes" organizes all cognitive activity under twelve bases and six consciousness-bodies: "What are the six internal bases? The eye-base, ear-base, nose-base, tongue-base, body-base, and mind-base"; and Sūtra 213 in fascicle 8 further says: "Conditioned by eye and form, eye-consciousness arises; the three meet, and conditioned by contact, feeling arises."[^41]
 
 The six-consciousness model precisely describes the basic structure of sensory cognition, but encounters difficulties in explaining certain phenomena: when a practitioner enters the attainment of cessation and all six consciousnesses cease, how does the sentient being differ from a corpse? How do karmic seeds maintain their continuity during the gap between conscious moments? Why do beings persistently grasp at self, even when the sixth consciousness's self-view has been temporarily suppressed? These difficulties provided the doctrinal impetus for Yogācāra's establishment of the seventh and eighth consciousnesses. The Āgamas' six-consciousness model was not rejected by Yogācāra but expanded: the six-consciousness observations are entirely valid; Yogācāra simply asks what lies behind them.[^42]
 
@@ -71,7 +71,7 @@ The *Laṅkāvatāra* further subsumes all Yogācāra doctrine under a single fo
 
 > "The five dharmas, self-natures, consciousnesses, and two no-selfs are distinguished as follows: name, appearance, conceptual projection, correct wisdom, and suchness... The three self-natures and eight consciousnesses, together with the two kinds of no-self, are all subsumed within the five dharmas."[^48]
 
-This passage explicitly places the eight consciousnesses within the larger framework of the five dharmas — name and appearance belong to the imagined nature (parikalpita); conditioned arising belongs to the dependent nature (paratantra); correct wisdom and suchness belong to the consummated nature (pariniṣpanna). The eight consciousnesses are dependent-nature functional presentations, not imagined-nature entities — providing canonical support for the Middle Way correction against "reifying the eight consciousnesses."
+This passage explicitly places the eight consciousnesses within the larger framework of the five dharmas — name and appearance belong to the imagined nature (parikalpita); the discrimination arising in dependence on them (mind and mental factors) belongs to the dependent nature (paratantra); correct wisdom and suchness belong to the consummated nature (pariniṣpanna). The eight consciousnesses are dependent-nature functional presentations, not imagined-nature entities — providing canonical support for the Middle Way correction against "reifying the eight consciousnesses."
 
 #### 2.4 The Avataṃsaka Sūtra — "All Three Realms Are Mind Alone" and "Mind Like a Painter"
 
@@ -81,7 +81,7 @@ The *Avataṃsaka Sūtra*, from the height of definitive Mahāyāna teaching, pr
 
 "All three realms are mind alone" — in Yogācāra exegesis, this "mind" is interpreted as the comprehensive function of the ālaya-vijñāna. The twelve links (dependent origination) are all established dependent on one mind — providing the most fundamental canonical support for the Three Transformations framework: the arising, continuation, and cessation of all conditioned phenomena pivot on consciousness.
 
-The Bodhisattva Juelin's verse in the Night of Yāma Palace chapter further unfolds this through the "mind like a painter" simile:
+The verse of the Bodhisattva Rulailin (如來林) in the chapter on the Bodhisattvas' Verses in the Yāma Heaven Palace (60-fascicle *Avataṃsaka*) further unfolds this through the "mind like a painter" simile:
 
 > "Mind is like a painter, painting all kinds of five aggregates; in all worlds, there is nothing it does not create. As is the mind, so is the Buddha; as is the Buddha, so are sentient beings. Mind, Buddha, and sentient beings — these three are without difference."[^50]
 
@@ -133,11 +133,11 @@ The *Cheng Weishi Lun*, fascicle 4, introduces manas:
 
 > "Next, the second transformation: this consciousness is named manas. It turns dependent on that [the eighth] and takes that as its object. Deliberation is both its nature and its activity. Four afflictions constantly accompany it: self-delusion, self-view, self-conceit, and self-love."[^8]
 
-"Deliberation as both nature and activity" reveals a double function.[^9] Kuiji further clarifies: "Deliberation is called 'manas'; among the consciousnesses, manas excels — it surpasses the others in constant and continuous deliberation."[^40]
+"Deliberation as both nature and activity" reveals a double function.[^9] Dunlun's *Yuqie lunji* (瑜伽論記) further clarifies: "Deliberation is called 'manas'; among the consciousnesses, manas excels — it surpasses the others in constant and continuous deliberation."[^40]
 
 The fourfold distinction of "constant" and "deliberating":
 
-> "Constant but not deliberating: the eighth consciousness. Deliberating but not constant: the sixth consciousness. Both constant and deliberating: the seventh consciousness. Neither constant nor deliberating: the first five consciousnesses."[^10]
+> "Constant but not deliberating: the eighth consciousness, because it does not grasp a self and is without interruption. Deliberating but not constant: the sixth consciousness, because it grasps a self but is interrupted. Both constant and deliberating: the seventh consciousness, because it grasps a self without interruption. Neither constant nor deliberating: the first five consciousnesses, because they do not grasp a self."[^10]
 
 In everyday language: the first five are like windows; the sixth is like a commentator who takes breaks; the seventh is like a security guard who never rests; the eighth is like a warehouse that never closes.
 
@@ -288,7 +288,7 @@ The "first, second, third" sequence of the Three Transformations is an analytica
 
 ### 5.4 ❌ Reifying the Four Aspects: They Are Not Four Puzzle Pieces
 
-The *Cheng Weishi Lun* explicitly states that the four aspects "can be condensed to three, to two, or even to one — since their substance is not distinct."[^39] The four aspects are four functional facets of a single consciousness-body, not four separable components. To reify the four aspects is like forcibly splitting the activity "I am looking at a flower" into four independent events: "the image of the flower," "the act of looking," "knowing I'm looking," and "confirming the knowing is genuine" — in reality, these are different descriptive angles of one and the same cognitive activity.
+The *Cheng Weishi Lun* explicitly states that the four aspects "can be condensed to three ... to two ... or even to one — since their substance is not distinct."[^39] The four aspects are four functional facets of a single consciousness-body, not four separable components. To reify the four aspects is like forcibly splitting the activity "I am looking at a flower" into four independent events: "the image of the flower," "the act of looking," "knowing I'm looking," and "confirming the knowing is genuine" — in reality, these are different descriptive angles of one and the same cognitive activity.
 
 ---
 
@@ -323,7 +323,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 2. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
 3. *Bashi Guiju Buzhu* (八識規矩補註), by Putai (Ming), *Taishō* vol. 45, No. 1865.
 4. *Zongjing Lu* (宗鏡錄), by Yongming Yanshou, *Taishō* vol. 48, No. 2016.
-5. *Cheng Weishi Lun Shuji* (成唯識論述記), by Kuiji, *Taishō* vol. 43, No. 1830.
+5. *Yuqie lunji* (瑜伽論記), compiled by Dunlun (Tang), *Taishō* vol. 42, No. 1828.
 
 ### III. Modern Scholarship
 
@@ -342,7 +342,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 | 5 | 楞伽阿跋多羅寶經 | T16 | No. 0670 | Fasc. 1 |
 | 6 | 入楞伽經 | T16 | No. 0671 | Fasc. 2 |
 | 7 | 宗鏡錄 | T48 | No. 2016 | Fasc. 88 |
-| 8 | 成唯識論述記 | T43 | No. 1830 | Fasc. 1 |
+| 8 | 瑜伽論記 | T42 | No. 1828 | Fasc. 1 (part 1) |
 | 9 | 雜阿含經 | T02 | No. 0099 | Fasc. 8, 11, 13 |
 | 10 | 解深密經 | T16 | No. 0676 | Fasc. 1 |
 | 11 | 大方廣佛華嚴經（60 fasc.） | T09 | No. 0278 | Fasc. 10, 25 |
@@ -440,9 +440,9 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 
 [^39]: *Cheng Weishi Lun*, fasc. 2, *Taishō* vol. 31, No. 1585.
 
-[^40]: *Cheng Weishi Lun Shuji*, fasc. 1: 「思量名意，末那中勝，恒審思量勝餘識故。」("Deliberation is called 'manas'; among the consciousnesses, manas excels — it surpasses the others in constant and continuous deliberation.") *Taishō* vol. 43, No. 1830.
+[^40]: *Yuqie lunji* (瑜伽論記, compiled by Dunlun), fasc. 1 (part 1): 「思量名意，末那中勝，恒審思量勝餘識故。」("Deliberation is called 'manas'; among the consciousnesses, manas excels — it surpasses the others in constant and continuous deliberation.") *Taishō* vol. 42, No. 1828.
 
-[^41]: *Saṃyuktāgama*, fasc. 13, Sūtra on the Six Sixes (Sūtra 304): 「何等為六內入處？謂眼入處、耳入處、鼻入處、舌入處、身入處、意入處。」("What are the six internal bases?...") *Taishō* vol. 2, No. 0099. Also fasc. 8, Sūtra 213: 「緣眼、色，眼識生，三事和合，緣觸觸生受。」("Conditioned by eye and form, eye-consciousness arises; the meeting of the three is contact.")
+[^41]: *Saṃyuktāgama*, fasc. 13, Sūtra on the Six Sixes (Sūtra 304): 「何等為六內入處？謂眼入處、耳入處、鼻入處、舌入處、身入處、意入處。」("What are the six internal bases?...") *Taishō* vol. 2, No. 0099. Also fasc. 8, Sūtra 213: 「緣眼、色，眼識生，三事和合，緣觸觸生受。」("Conditioned by eye and form, eye-consciousness arises; the three meet, and conditioned by contact, feeling arises.")
 
 [^42]: The Āgamas' six-consciousness model is Yogācāra's point of departure, not its target of refutation. The six-consciousness observations are entirely valid within their scope; Yogācāra asks what lies behind the six — what sustains life when the six cease, what drives the persistent self-grasping that outlasts the sixth consciousness's intermittent operations.
 
@@ -456,11 +456,11 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 
 [^47]: Ibid.: 「八識無別相，無能相所相。」
 
-[^48]: *Laṅkāvatāra Sūtra* (Guṇabhadra trans.), fasc. 4: 「五法、自性、識、二無我分別趣相者，謂名、相、妄想、正智、如如。……三種自性及八識、二種無有我，悉入五法。」("The five dharmas, self-natures, consciousnesses, and two no-selfs... the three self-natures and eight consciousnesses, together with the two kinds of no-self, are all subsumed within the five dharmas.") *Taishō* vol. 16, No. 0670. Cf. Śikṣānanda trans. (T0672) fasc. 5.
+[^48]: *Laṅkāvatāra Sūtra* (Guṇabhadra trans.), fasc. 4: 「五法、自性、識、二無我分別趣相者，謂名、相、妄想、正智、如如。……三種自性及八識、二種無我，悉入五法。」("The five dharmas, self-natures, consciousnesses, and two no-selfs... the three self-natures and eight consciousnesses, together with the two kinds of no-self, are all subsumed within the five dharmas.") *Taishō* vol. 16, No. 0670. Cf. Śikṣānanda trans. (T0672) fasc. 5.
 
 [^49]: *Avataṃsaka Sūtra* (80 fasc.), fasc. 37, Ten Grounds chapter, sixth ground: 「三界所有，唯是一心。如來於此分別演說十二有支，皆依一心，如是而立。」("All that exists in the three realms is mind alone...") *Taishō* vol. 10, No. 0279. Cf. 60-fasc. version, fasc. 25: 「三界虛妄但是心作。」 *Taishō* vol. 9, No. 0278.
 
-[^50]: *Avataṃsaka Sūtra* (60 fasc.), fasc. 10, Bodhisattva Juelin's verse: 「心如工畫師，畫種種五陰，一切世界中，無法而不造。如心佛亦爾，如佛眾生然，心佛及眾生，是三無差別。」("Mind is like a painter, painting all kinds of five aggregates...") *Taishō* vol. 9, No. 0278.
+[^50]: *Avataṃsaka Sūtra* (60 fasc.), fasc. 10, chapter 16 (Verses of the Bodhisattvas in the Yāma Heaven Palace), verse of Bodhisattva Rulailin (如來林): 「心如工畫師，畫種種五陰，一切世界中，無法而不造。如心佛亦爾，如佛眾生然，心佛及眾生，是三無差別。」("Mind is like a painter, painting all kinds of five aggregates...") *Taishō* vol. 9, No. 0278.
 
 [^51]: *Avataṃsaka Sūtra* (80 fasc.), fasc. 19: 「若人欲了知，三世一切佛，應觀法界性，一切唯心造。」("If one wishes to understand all Buddhas of the three times, one should contemplate the nature of the dharma-realm: all is created by mind alone.") *Taishō* vol. 10, No. 0279.
 
@@ -474,7 +474,7 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 
 [^56]: *Saṃdhinirmocana Sūtra*: 「阿陀那識甚深細，一切種子如瀑流」(note 44) — the canonical source for the first transformation's "all-seeds" (一切種) meaning. The *Cheng Weishi Lun*'s 「此能執持諸法種子令不失故名一切種」(note 5) is the treatise expansion of this sūtra verse.
 
-[^57]: This argument originates from an internal difficulty of the Āgama six-consciousness model (note 42). The Āgamas observed that the six consciousnesses are intermittent (e.g., in deep sleep, fainting); Yogācāra asks what sustains life during these interruptions and proposes the seventh and eighth consciousnesses as the answer. See S3-P03 for the seven arguments in detail.
+[^57]: This argument originates from an internal difficulty of the Āgama six-consciousness model (note 42). The Āgamas observed that the six consciousnesses are intermittent (e.g., in deep sleep, fainting); Yogācāra asks what sustains life during these interruptions and proposes the seventh and eighth consciousnesses as the answer. See S3-P03 for the ten arguments in detail.
 
 ---
 
