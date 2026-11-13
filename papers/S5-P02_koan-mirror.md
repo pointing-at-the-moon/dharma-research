@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P02"
 paper_number: 2
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra and the Zhǐyuè Method
@@ -46,7 +46,7 @@ This paper addresses the pedagogical effect: what does this structure do to the 
 
 S5-P01 gives you a map; S5-P02 tells you: the map is not the road. But without the map, you cannot even understand the sentence "the map is not the road" — which is why P01 had to be written first. And once you have read P01, P02 must immediately tell you: set the map down.
 
-The relationship between the two papers mirrors the first and second layers of vajra (emptiness/structure and illumination/mirror), and also mirrors the relationship between Kuiji's mapping (conceptual analysis) and the mirror mapping (direct illumination).
+The relationship between the two papers mirrors the first and second layers of vajra (emptiness/structure and illumination/mirror), and also mirrors the relationship between the listener mapping (conceptual analysis) and the mirror mapping (direct illumination).
 
 ---
 
@@ -62,7 +62,7 @@ The Fifth Patriarch Hongren asked his assembly to compose a verse to demonstrate
 
 [^1]: *The Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), Chapter 1 (行由品), T48, No. 2008. All Platform Sūtra citations in this section are from this chapter unless otherwise noted.
 
-The Fifth Patriarch's assessment was pointed: "You have arrived at the gate but have not yet entered." Shenxiu's verse was not wrong — "diligently polish it always" represents authentic practice, a stage most practitioners must pass through. But from the mirror's perspective, Shenxiu saw a mirror that needed wiping. He was still wrestling with the dust on the glass.
+The Fifth Patriarch's assessment was pointed: "In composing this verse you have not yet seen your original nature; you have only reached the outside of the gate and have not yet entered inside." Shenxiu's verse was not wrong — "diligently polish it always" represents authentic practice, a stage most practitioners must pass through. But from the mirror's perspective, Shenxiu saw a mirror that needed wiping. He was still wrestling with the dust on the glass.
 
 Huineng, upon hearing Shenxiu's verse, asked someone to write his own:
 
@@ -70,7 +70,7 @@ Huineng, upon hearing Shenxiu's verse, asked someone to write his own:
 
 Same mirror. Same prompt. Two entirely different people revealed. Shenxiu saw cultivation — sustained effort, gradual purification. Huineng saw original nature — not that the mirror had been cleaned, but that the mirror was always clean; there was never any dust to begin with.
 
-The Fifth Patriarch publicly declared "this also has not yet seen the nature" to protect Huineng, but the next day he secretly visited the threshing room and struck the mortar three times with his staff as a signal. Huineng understood. At the third watch, he entered the patriarch's chamber. The Fifth Patriarch did not explain the Diamond Sūtra to him — he read the Diamond Sūtra to him. Upon reaching "give rise to a mind that abides nowhere" (應無所住而生其心):
+The Fifth Patriarch publicly declared "this also has not yet seen the nature" to protect Huineng, but the next day he secretly visited the threshing room and struck the mortar three times with his staff as a signal. Huineng understood. At the third watch, he entered the patriarch's chamber. The Fifth Patriarch expounded the Diamond Sūtra to him (為說《金剛經》). Upon reaching "give rise to a mind that abides nowhere" (應無所住而生其心):
 
 > Huineng was instantly and completely awakened — all the ten thousand dharmas do not depart from one's own nature. He said to the Patriarch: "How unexpected that self-nature is originally pure! How unexpected that self-nature is originally neither born nor destroyed! How unexpected that self-nature is originally complete in itself! How unexpected that self-nature is originally without agitation! How unexpected that self-nature can give rise to the ten thousand dharmas!"
 
@@ -92,21 +92,21 @@ This is the complete definition of the kōan mirror: the same mirror reveals dif
 
 ### 2.3 Diamond Sūtra Echoes in the Platform Sūtra
 
-After his awakening, the Diamond Sūtra's teaching became the substrate of Huineng's entire pedagogical system. In the "Prajñā" chapter of the Platform Sūtra, Huineng directly cites the Diamond Sūtra to elucidate "formlessness":
+After his awakening, the Diamond Sūtra's teaching became the substrate of Huineng's entire pedagogical system. In the "Concentration and Wisdom" chapter of the Platform Sūtra, Huineng establishes "formlessness as the substance" (無相為體) and elucidates "formlessness":
 
-> "Good friends, what is called formlessness? Formlessness means: within forms, to be free of forms. ... All characteristics are illusory. If one sees that all characteristics are not characteristics, then one sees the Tathāgata."[^2]
+> "Formlessness means: within forms, to be free of forms. No-thought means: within thought, to be without thought."[^2]
 
-[^2]: *The Platform Sūtra of the Sixth Patriarch*, Prajñā Chapter (般若品), T48, No. 2008.
+[^2]: *The Platform Sūtra of the Sixth Patriarch*, Concentration and Wisdom Chapter (定慧品第四), T48, No. 2008, 0353a11–a18.
 
-"Within forms, to be free of forms" (於相而離相) — four characters that precisely articulate the lived operation of the jífēi formula: not the absence of forms, but freedom from bondage to forms while in their midst. This echoes S5-P01 §3.3's Pointing-at-the-Moon mapping — "is called X" is not the absence of X but the faithful knowing of X as a name while fully engaged with it.
+"Within forms, to be free of forms" (於相而離相) — five characters that precisely articulate the lived operation of the jífēi formula: not the absence of forms, but freedom from bondage to forms while in their midst. This echoes S5-P01 §3.3's Pointing-at-the-Moon mapping — "is called X" is not the absence of X but the faithful knowing of X as a name while fully engaged with it.
 
-Huineng also cites the Diamond Sūtra to explain "non-abiding":
+Huineng also explains "non-abiding":
 
-> "Good friends, in thought after thought, do not dwell on previous states. If past thought, present thought, and future thought follow each other in unbroken succession ... the past mind cannot be grasped, the present mind cannot be grasped, the future mind cannot be grasped."
+> "In thought after thought, do not dwell on previous states. If past thought, present thought, and future thought follow each other in unbroken succession, this is called bondage. If, toward all dharmas, thought after thought does not abide, there is no bondage. This is what taking non-abiding as the root means."
 
-The three minds that cannot be grasped — this is the jífēi formula deployed across the temporal dimension. Past mind, present mind, future mind: each is an object of "is not." The mind you thought you could seize is simply not there.
+Thought after thought not abiding may be read alongside the three minds that cannot be grasped in Diamond Sūtra §18 (this pairing is the author's interpretation): "the past mind cannot be grasped, the present mind cannot be grasped, the future mind cannot be grasped" (T08, No. 235, 0751b27–b28). The three minds that cannot be grasped — this is the jífēi formula deployed across the temporal dimension. Past mind, present mind, future mind: each is an object of "is not." The mind you thought you could seize is simply not there.
 
-Huineng further cites "If you seek me through form, if you seek me through sound, that person walks a deviant path and cannot see the Tathāgata" to dismantle the attachment of seeking the Buddha through appearances. In each of these citations, Huineng is not "explaining" the Diamond Sūtra — he is using it as a mirror to reflect back his listeners' attachments.
+In each of these echoes, Huineng is not "explaining" the Diamond Sūtra — he is using it as a mirror to reflect back his listeners' attachments.
 
 ### 2.4 The Diamond Sūtra's Own Mirror Structure
 
@@ -116,7 +116,7 @@ The Diamond Sūtra's textual architecture is itself a mirror device.
 
 [^3]: *Vajracchedikā Prajñāpāramitā Sūtra* §2 and §17, T08, No. 235.
 
-This folding structure is itself a mirror: the first half reflects the second, the second reflects the first. In §10, the reader believes they have grasped "the adornment of buddha-lands; it is not adornment; it is called adornment." After §17, they encounter "the Tathāgata speaks of the foremost pāramitā; it is not the foremost pāramitā; it is called the foremost pāramitā" — the object has escalated from "buddha-lands" to "pāramitā itself." The "emptiness" you thought you understood in the first half gets mirrored again in the second: your understanding itself becomes the object of "is not."
+This folding structure is itself a mirror: the first half reflects the second, the second reflects the first. In §10, the reader believes they have grasped "the adornment of buddha-lands; it is not adornment; it is called adornment." In §14, they encounter "the Tathāgata speaks of the foremost pāramitā; it is not the foremost pāramitā; it is called the foremost pāramitā" — the object has escalated from "buddha-lands" to "pāramitā itself." The "emptiness" you thought you had just understood gets mirrored again: your understanding itself becomes the object of "is not." (§14 still lies in the first half; the jífēi instances of the second half are being endowed with physical form §20, the teaching §21, and the composite unity §30. That the two halves mirror each other is the author's interpretation.)
 
 S5-P01 §3.6 already analyzed the functional difference between the first and second halves in terms of the Yogācāra two-obstruction theory (kleśāvaraṇa vs. jñeyāvaraṇa). From the kōan mirror perspective, this structure produces an even more direct pedagogical effect: the first half is the first mirror — revealing your attachment to external objects; the second half is the second mirror — revealing your attachment to your own understanding. The second mirror is always harder to face than the first.
 
@@ -170,7 +170,7 @@ The distance itself is not a bad thing. Seeing the distance is where practice be
 
 ### 3.4 Three Barriers and the Two Mappings
 
-S5-P01 discovered that Kuiji (T1700) and Pointing at the Moon offer two different trisvabhāva mappings of the jífēi formula. Kuiji maps "speaks of → parikalpita, is not → paratantra, is called → pariniṣpanna"; Pointing at the Moon maps "X → paratantra, is not → negation of parikalpita, is called → pariniṣpanna."[^4] Why the difference?
+S5-P01 proposes two different trisvabhāva mappings of the jífēi formula. The listener mapping reads "speaks of → parikalpita, is not → paratantra, is called → pariniṣpanna" (Kuiji's T1700 reads the sūtra through the three natures but contains no such three-segment correspondence; this is the author's interpretation); Pointing at the Moon maps "X → paratantra, is not → negation of parikalpita, is called → pariniṣpanna."[^4] Why the difference?
 
 [^4]: See Shi Huijing, "Diamond Prajñā: The Jífēi Tripartite Formula as Trisvabhāva Mapping," Pointing at the Moon S5-P01, §3.2–§3.4.
 
@@ -178,15 +178,15 @@ Because they speak to people at different levels.
 
 The Chan tradition marks three stages of practice with the framework of Three Barriers (三關): the Initial Barrier (breaking through initial delusions), the Deeper Barrier (profound illumination), and the Final Barrier (ultimate liberation). Borrowing this framework (without reifying it):
 
-**The Initial Barrier** corresponds to Kuiji's mapping. At this stage, the practitioner needs conceptual analysis — being told "speaks of = parikalpita" so they can identify what they are clinging to. Kuiji's mapping is a precise pedagogical tool: it proceeds from the listener's cognitive process, step by step dismantling the transformation from parikalpita through paratantra to pariniṣpanna. This is the path of "thinking it through."
+**The Initial Barrier** corresponds to the listener mapping. At this stage, the practitioner needs conceptual analysis — being told "speaks of = parikalpita" so they can identify what they are clinging to. The listener mapping is a precise pedagogical tool: it proceeds from the listener's cognitive process, step by step dismantling the transformation from parikalpita through paratantra to pariniṣpanna. This is the path of "thinking it through."
 
 **The Deeper Barrier** corresponds to mirror illumination. At this stage, the practitioner no longer needs conceptual analysis. They stand before the mirror and see directly — they do not need anyone to tell them "you are clinging"; they can see it themselves. The Pointing-at-the-Moon mapping proceeds from the object's ontological status not because it is "more correct," but because it no longer starts from the listener's confusion — it presupposes that you have already transcended the conceptual level and can see directly.
 
 **The Final Barrier** is the Diamond Sūtra itself. At this stage, even the mirror is set down. You do not need the "jífēi formula = trisvabhāva" framework, because you are illumination itself. At this level, the Diamond Sūtra is no longer a text — it is the direct manifestation of prajñā.
 
-The key insight: Kuiji's mapping is not "wrong"; the Pointing-at-the-Moon mapping is not "more right." They are images cast by the same mirror at different distances. The Initial Barrier needs Kuiji; the Deeper Barrier needs the mirror; the Final Barrier needs nothing — you are the mirror.
+The key insight: the listener mapping is not "wrong"; the Pointing-at-the-Moon mapping is not "more right." They are images cast by the same mirror at different distances. The Initial Barrier needs the listener mapping; the Deeper Barrier needs the mirror; the Final Barrier needs nothing — you are the mirror.
 
-Here, too, the jífēi structure appears: Kuiji's mapping is X; Pointing at the Moon says "is not" Kuiji's mapping — not negating Kuiji, but transcending the conceptual level; both are valid teachings: "is called" X.
+Here, too, the jífēi structure appears: the listener mapping is X; Pointing at the Moon says "is not" the listener mapping — not negating it, but transcending the conceptual level; both are valid teachings: "is called" X.
 
 ---
 
@@ -304,7 +304,7 @@ A mirror reflects but does not guide. A good teacher (kalyāṇamitra / 善知�
 
 The Diamond Sūtra as mirror can show you where you are, but it cannot tell you how to take the next step. You see the distance between knowledge and realization — and then what? The mirror does not answer this question.
 
-This is why, in the Chan kōan tradition, the master is indispensable. The kōan is the mirror, but the mirror requires a living person to adjust the angle — which mirror, at what moment, aimed at which student. That is the teacher's work. The Fifth Patriarch read the Diamond Sūtra to Huineng at the third watch, privately, rather than lecturing publicly in the dharma hall — the choice of timing, audience, and method was the teacher's judgment, not something the mirror can do on its own.
+This is why, in the Chan kōan tradition, the master is indispensable. The kōan is the mirror, but the mirror requires a living person to adjust the angle — which mirror, at what moment, aimed at which student. That is the teacher's work. The Fifth Patriarch expounded the Diamond Sūtra to Huineng at the third watch, privately, rather than lecturing publicly in the dharma hall — the choice of timing, audience, and method was the teacher's judgment, not something the mirror can do on its own.
 
 Academic papers are even less capable of replacing a living teacher. What Pointing at the Moon can provide is a precision mirror (doctrinal analysis) and a clear user's guide (methodological declaration), but the road of practice must be walked by the reader, and the teacher must be sought by the reader.
 
@@ -312,7 +312,7 @@ Academic papers are even less capable of replacing a living teacher. What Pointi
 
 The Initial Barrier / Deeper Barrier / Final Barrier framework in §3.4 is an explanatory tool, not a scorecard for self-assessment.
 
-"I have passed the Initial Barrier, so I no longer need Kuiji's conceptual analysis" — this very judgment is a fresh product of parikalpita. You are using practice stages to reinforce self-identity — which is precisely the "mark of self" (ātma-lakṣaṇa) that the Diamond Sūtra's first half is designed to dismantle.
+"I have passed the Initial Barrier, so I no longer need the listener mapping's conceptual analysis" — this very judgment is a fresh product of parikalpita. You are using practice stages to reinforce self-identity — which is precisely the "mark of self" (ātma-lakṣaṇa) that the Diamond Sūtra's first half is designed to dismantle.
 
 Using the Three Barriers to locate your own practice stage is as dangerous as using the merit comparisons to measure your own practice score — both turn a pedagogical device into a scoreboard (see S5-P05).
 
@@ -352,7 +352,7 @@ AI as the kōan mirror of the digital age — AI holds all knowledge but possess
 
 - *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
 - *The Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), T48, No. 2008.
-- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
+- Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700.
 
 ### II. Modern Scholarship
 
@@ -366,7 +366,7 @@ AI as the kōan mirror of the digital age — AI holds all knowledge but possess
 |------|------|--------|
 | Diamond Sūtra | Vajracchedikā Prajñāpāramitā Sūtra | T08, No. 235 |
 | Platform Sūtra | The Platform Sūtra of the Sixth Patriarch | T48, No. 2008 |
-| Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1700 |
+| Kuiji's Commentary | Jingang bore jing zanshu | T33, No. 1700 |
 
 ---
 

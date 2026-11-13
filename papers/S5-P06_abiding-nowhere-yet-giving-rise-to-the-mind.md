@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Abiding Nowhere, Yet Giving Rise to the Mind
@@ -20,7 +20,7 @@ license: "CC BY-NC-SA 4.0"
 
 Through the Yogācāra lens of *āśraya-parāvṛtti* (transformation of the basis), relinquishing *parikalpita* (non-abiding) and realizing *pariniṣpanna* (giving rise to the mind) are two aspects of one operation, with *paratantra* as the unchanging basis. The fundamental non-discriminating wisdom (*nirvikalpaka-jñāna*) and subsequently-attained wisdom (*pṛṣṭha-labdha-jñāna*) are "one in essence, differentiated in function"—precisely mirroring the simultaneity of non-abiding and giving rise to the mind.
 
-The paper further examines the *trisvabhāva* structure of §10's "adorning buddha-lands," the doctrinal link to Vimalakīrti's "when the mind is pure, the buddha-land is pure," the Śūraṅgama Sūtra's sevenfold examination as evidence that the mind has never abided anywhere, and the Sixth Patriarch's awakening as a demonstration of simultaneous non-abiding and mind-arising.
+The paper further examines the *trisvabhāva* structure of §10's "adorning buddha-lands," the doctrinal link to Vimalakīrti's "as the mind is pure, so the buddha-land is pure," the Śūraṅgama Sūtra's sevenfold examination as evidence that the mind has never abided anywhere, and the Sixth Patriarch's awakening as a demonstration of simultaneous non-abiding and mind-arising.
 
 **Keywords:** non-abiding mind, *āśraya-parāvṛtti*, *trisvabhāva*, *prajñā*, simultaneous operation, Diamond Sūtra §10
 
@@ -28,15 +28,15 @@ The paper further examines the *trisvabhāva* structure of §10's "adorning budd
 
 ## I. The Problem
 
-Of the Diamond Sūtra's roughly five thousand characters, ten are the most famous, the most cited, and the most misread: 應無所住而生其心—"one should give rise to a mind that abides nowhere."[^1]
+Of the Diamond Sūtra's roughly five thousand characters, eight are the most famous, the most cited, and the most misread: 應無所住而生其心—"one should give rise to a mind that abides nowhere."[^1]
 
-The Sixth Patriarch Huineng awakened upon hearing this line. The Platform Sūtra's account made these ten characters the most iconic moment of awakening in Chinese Buddhist history. But fame breeds distortion. Chan anthologies read them as a pithy mind-instruction. Modern self-help literature reads them as a relaxation technique. And the ambiguity of Chinese grammar leads countless readers to read them as a two-step practice formula: first achieve non-abiding, *then* give rise to the mind.
+The Sixth Patriarch Huineng awakened upon hearing this line. The Platform Sūtra's account made these eight characters the most iconic moment of awakening in Chinese Buddhist history. But fame breeds distortion. Chan anthologies read them as a pithy mind-instruction. Modern self-help literature reads them as a relaxation technique. And the ambiguity of Chinese grammar leads countless readers to read them as a two-step practice formula: first achieve non-abiding, *then* give rise to the mind.
 
 This paper's central thesis is that non-abiding and giving rise to the mind occur simultaneously, not sequentially. The Chinese conjunction 而 (*ér*) functions here as parallel coordination, not temporal succession. "Abiding nowhere" is not a prerequisite; "giving rise to the mind" is not a result.
 
 From the Yogācāra perspective, this simultaneity has a precise technical basis: *āśraya-parāvṛtti* (transformation of the basis)—relinquishing *parikalpita-svabhāva* (non-abiding) and realizing *pariniṣpanna-svabhāva* (giving rise to the mind) are two aspects of one operation, with *paratantra-svabhāva* as the unchanging basis. The Diamond Sūtra says in everyday language what the *Cheng weishi lun* says in technical language.
 
-§10, the "Adorning Pure Lands" chapter, is the core locus of this line. Structurally, §10 follows §9's dismantling of attachment to the four fruits (even *arhatship* cannot be clung to) and precedes §11's merit comparison (measuring the immeasurable against the measurable).[^2] That §10 places "adorning buddha-lands" and "abiding nowhere" in the same passage is not coincidental—the Vimalakīrti Sūtra's teaching that "when the mind is pure, the buddha-land is pure" is its doctrinal source. The pure land is not external construction; it is the mind's transformation of its basis.
+§10, the "Adorning Pure Lands" chapter, is the core locus of this line. Structurally, §10 follows §9's dismantling of attachment to the four fruits (even *arhatship* cannot be clung to) and precedes §11's merit comparison (measuring the immeasurable against the measurable).[^2] That §10 places "adorning buddha-lands" and "abiding nowhere" in the same passage is not coincidental—the Vimalakīrti Sūtra's teaching that "as the mind is pure, so the buddha-land is pure" is its doctrinal source. The pure land is not external construction; it is the mind's transformation of its basis.
 
 Within the S5 series, P06 follows P05's analysis of the merit-comparison pedagogical arc—§10's "giving without abiding in marks" is the heart-method underlying the merit comparisons—and is positioned within the dual-layer structure established by P07: §10 belongs to the first half (dismantling self-grasping / *kleśāvaraṇa*), but the concept of "non-abiding" undergoes deeper development in the second half, where even attachment to "non-abiding" is subjected to negation.[^3]
 
@@ -44,9 +44,9 @@ Within the S5 series, P06 follows P05's analysis of the merit-comparison pedagog
 
 ## II. Scriptural Foundations
 
-### 2.1 The Diamond Sūtra: Three Occurrences of "Abiding Nowhere"
+### 2.1 The Diamond Sūtra: Three Passages on "Abiding Nowhere"
 
-"Abiding nowhere, yet giving rise to the mind" appears three times in the Diamond Sūtra, each in a different context:
+The full line "abiding nowhere, yet giving rise to the mind" appears only once in the Diamond Sūtra (§10); related teachings on not abiding appear at §4 and §14—three passages in all, each in a different context:
 
 **§4 (Wondrous Practice of Non-Abiding)**—first occurrence, in the context of giving:
 
@@ -63,16 +63,16 @@ Within the S5 series, P06 follows P05's analysis of the merit-comparison pedagog
 > 應生無所住心。若心有住，則為非住。
 > One should give rise to a mind that abides nowhere. If the mind has something it abides in, that is precisely non-abiding.[^6]
 
-The three occurrences form a progressive structure: §4 introduces non-abiding in the concrete activity of giving; §10 unfolds the complete proposition within the *jífēi* (即非, "is not / is called") structure of adorning buddha-lands; §14 provides the logical self-negation—the opposite of "abiding" is not another kind of "abiding," but abiding's own self-cancellation.
+The three passages form a progressive structure: §4 introduces non-abiding in the concrete activity of giving; §10 unfolds the complete proposition within the *jífēi* (即非, "is not / is called") structure of adorning buddha-lands; §14 provides the logical self-negation—the opposite of "abiding" is not another kind of "abiding," but abiding's own self-cancellation.
 
 The character 住 ("abide") appears approximately twenty-one times across the entire sūtra, spanning four semantic categories: settled abiding ("how should one abide"), non-attachment ("not abiding in form"), attachment-generated ("a mind that abides in form"), and dialectical self-negation ("if the mind abides, it precisely does not abide").[^7] From §2's question "how should one abide?" to §10's answer "one should abide nowhere," the sūtra's semantic arc of "abiding" traces a complete pedagogical trajectory—the only way to abide is to not abide.
 
-### 2.2 The Vimalakīrti Sūtra: "From Non-Abiding as Root, All Dharmas Are Established" and "When the Mind Is Pure, the Buddha-Land Is Pure"
+### 2.2 The Vimalakīrti Sūtra: "From Non-Abiding as Root, All Dharmas Are Established" and "As the Mind Is Pure, So the Buddha-Land Is Pure"
 
 The Diamond Sūtra's "non-abiding" is not an isolated practice instruction. The Vimalakīrti Sūtra's "Contemplating Sentient Beings" chapter elevates non-abiding to an ontological declaration:
 
-> 顛倒想孰為本？——無住為本。——無住孰為本？——無住則無本。文殊師利！從無住本，立一切法。
-> What is the root of inverted thinking? — Non-abiding is the root. — What is the root of non-abiding? — Non-abiding has no root. Mañjuśrī, from non-abiding as root, all dharmas are established.[^8]
+> 又問：「顛倒想孰為本？」答曰：「無住為本。」又問：「無住孰為本？」答曰：「無住則無本。文殊師利！從無住本，立一切法。」
+> Again he asked: "What is the root of inverted thinking?" The answer: "Non-abiding is the root." Again he asked: "What is the root of non-abiding?" The answer: "Non-abiding has no root. Mañjuśrī, from non-abiding as root, all dharmas are established."[^8]
 
 All dharmas take non-abiding as their root, and non-abiding itself has no root—a more thoroughgoing metaphysical statement than the Diamond Sūtra's. The Diamond Sūtra says non-abiding is a practice method; the Vimalakīrti Sūtra says non-abiding is the ontological ground of all dharmas.
 
@@ -145,7 +145,7 @@ Zixuan reads this explicitly as a simultaneous middle-way structure: "The earlie
 
 ### 3.2 The Jífēi Structure of §10: Three-Nature Mapping of Adorning Buddha-Lands
 
-The text of §10 does not present "abiding nowhere, yet giving rise to the mind" in isolation. These ten characters appear within a complete *jífēi* (即非) structure:
+The text of §10 does not present "abiding nowhere, yet giving rise to the mind" in isolation. These eight characters appear within a complete *jífēi* (即非) structure:
 
 > "Adorning buddha-lands" is not adorning; it is called adorning. — Therefore, Subhūti, all bodhisattva-mahāsattvas should give rise to a pure mind in this way... abiding nowhere, yet giving rise to the mind.[^27]
 
@@ -197,7 +197,7 @@ The *Cheng weishi lun* (fascicle 10) offers a supremely concise summary:
 
 "One in essence, differentiated in function"—fundamental and subsequently-attained wisdom are not two separate wisdoms but two aspects of a single wisdom. When oriented toward *tathatā*: fundamental wisdom (non-abiding). When oriented toward differentiated objects of the world: subsequently-attained wisdom (giving rise to the mind). One in essence, two in function—this is the precise Yogācāra articulation of "abiding nowhere, yet giving rise to the mind."
 
-### 3.5 "When the Mind Is Pure, the Buddha-Land Is Pure": The Pure-Land Dimension of Āśraya-parāvṛtti
+### 3.5 "As the Mind Is Pure, So the Buddha-Land Is Pure": The Pure-Land Dimension of Āśraya-parāvṛtti
 
 That §10 places "adorning buddha-lands" and "abiding nowhere, yet giving rise to the mind" in the same passage is not accidental textual arrangement—it is doctrinal necessity.
 
@@ -209,7 +209,7 @@ Zixuan directly links these two threads: "The characteristics of body and land a
 
 "Free of existence" is non-abiding (not grasping marks as truly existent); "free of nothingness" is giving rise to the mind (not falling into annihilationist emptiness). Purifying the mind and purifying the buddha-land are not a causal chain in which the mind *changes* the land, but the middle way of the mind's *āśraya-parāvṛtti* revealing the buddha-land's original face.
 
-The Vimalakīrti Sūtra's Upāli chapter adds: "When the mind is defiled, beings are defiled; when the mind is pure, beings are pure. The mind is not inside, not outside, not in between."[^44] "Not inside, not outside, not in between"—this directly connects to the Śūraṅgama Sūtra's sevenfold examination in the next section.
+The Upāli section of the Vimalakīrti Sūtra's Disciples chapter adds: "When the mind is defiled, beings are defiled; when the mind is pure, beings are pure. The mind is not inside, not outside, not in between."[^44] "Not inside, not outside, not in between"—this directly connects to the Śūraṅgama Sūtra's sevenfold examination in the next section.
 
 ### 3.6 Sevenfold Examination of the Mind: The Mind Has Never Abided Anywhere
 
@@ -289,7 +289,7 @@ Csikszentmihalyi's flow state—total immersion in an activity, disappearance of
 
 ## V. Middle Way Corrections
 
-❌ **Nihilist reading: "Abiding nowhere" means doing nothing, the mind like dead ash.** This is the most common misreading. The complete text is ten characters, not five. "Yet giving rise to the mind" is the safety valve against nihilism. Non-abiding does not mean not giving rise to the mind—a non-arising mind is annihilationism, not prajñā. *Paratantra* is illusory yet existent, not nihilistically void. As Zixuan states: "The later instruction to give rise to the mind negates nothingness"[^52]—giving rise to the mind guards precisely against the danger of annihilationism.
+❌ **Nihilist reading: "Abiding nowhere" means doing nothing, the mind like dead ash.** This is the most common misreading. The complete text is eight characters, not four. "Yet giving rise to the mind" is the safety valve against nihilism. Non-abiding does not mean not giving rise to the mind—a non-arising mind is annihilationism, not prajñā. *Paratantra* is illusory yet existent, not nihilistically void. As Zixuan states: "The later instruction to give rise to the mind negates nothingness"[^52]—giving rise to the mind guards precisely against the danger of annihilationism.
 
 ❌ **Sequential misreading: first practice non-abiding, then give rise to the mind.** This is a grammatical trap created by the Chinese 而. Reading "non-abiding → giving rise to the mind" as two steps converts the Diamond Sūtra's sudden teaching into a gradualist formula. The Sixth Patriarch's awakening was not first achieving non-abiding and then giving rise to the mind, but both arriving at once in a single awakening. The *Cheng weishi lun*'s "one in essence, differentiated in function" confirms that fundamental and subsequently-attained wisdom are not sequential but two aspects of a single wisdom.
 
@@ -301,15 +301,15 @@ Csikszentmihalyi's flow state—total immersion in an activity, disappearance of
 
 ## VI. Conclusion
 
-"Abiding nowhere, yet giving rise to the mind" is the Diamond Sūtra's most concise and most profound practice instruction—ten characters, two aspects, one simultaneity.
+"Abiding nowhere, yet giving rise to the mind" is the Diamond Sūtra's most concise and most profound practice instruction—eight characters, two aspects, one simultaneity.
 
 The core argument of this paper can be distilled into three layers:
 
-First, the textual layer: 而 is simultaneous, not sequential. The three occurrences across §4, §10, and §14 form a progressive structure, with §14's "if the mind abides, it precisely does not abide" providing the definitive logical argument. The semantic spectrum of "abide" across the entire sūtra—from "how should one abide?" to "abide nowhere" to "abiding is precisely not abiding"—traces a complete pedagogical arc.
+First, the textual layer: 而 is simultaneous, not sequential. The three passages at §4, §10, and §14 form a progressive structure, with §14's "if the mind abides, it precisely does not abide" providing the definitive logical argument. The semantic spectrum of "abide" across the entire sūtra—from "how should one abide?" to "abide nowhere" to "abiding is precisely not abiding"—traces a complete pedagogical arc.
 
 Second, the mechanism layer: *āśraya-parāvṛtti* is the Yogācāra precise articulation of "non-abiding mind." Relinquishing *parikalpita* (non-abiding) and attaining *pariniṣpanna* (giving rise to the mind) are two aspects of one operation, with *paratantra* as the unchanging basis. Fundamental and subsequently-attained wisdom are "one in essence, differentiated in function"—non-abiding and giving rise to the mind are not two wisdoms but two aspects of one prajñā.
 
-Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as root, all dharmas are established" provides the metaphysical foundation; "when the mind is pure, the buddha-land is pure" explains why §10 places pure-land adornment and non-abiding in the same passage; the Śūraṅgama Sūtra's sevenfold examination argues from the reverse that the mind has never abided anywhere; and the Platform Sūtra's "instant awakening" and five "who would have thought" exclamations demonstrate the simultaneous arrival of non-abiding and giving rise to the mind.
+Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as root, all dharmas are established" provides the metaphysical foundation; "as the mind is pure, so the buddha-land is pure" explains why §10 places pure-land adornment and non-abiding in the same passage; the Śūraṅgama Sūtra's sevenfold examination argues from the reverse that the mind has never abided anywhere; and the Platform Sūtra's "instant awakening" and five "who would have thought" exclamations demonstrate the simultaneous arrival of non-abiding and giving rise to the mind.
 
 §10 is located in the Diamond Sūtra's first half (dismantling self-grasping / *kleśāvaraṇa*), but the teaching of non-abiding does not end here. In the second half (§17 onward), the Buddha will subject the teaching itself to the *jífēi* operation—even "dharma" cannot be abided in, even "non-abiding" cannot be abided in. "Abiding nowhere, yet giving rise to the mind" opens a door, and behind that door is a mirror: you believe you have understood "non-abiding"? The mirror will tell you whether the "non-abiding" you have understood has itself become another form of abiding.
 
@@ -340,10 +340,10 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 | # | Abbreviation | Full Title | Taishō Vol. | No. | Author/Translator | Fascicles Cited |
 |---|-------------|-----------|-------------|-----|-------------------|----------------|
 | 1 | Diamond Sūtra | Vajracchedikā Prajñāpāramitā Sūtra | T8 | 0235 | Kumārajīva | Fasc. 1 (§4, §10, §14) |
-| 2 | Vimalakīrti Sūtra | Vimalakīrtinirdeśa Sūtra | T14 | 0475 | Kumārajīva | Fasc. 1 |
+| 2 | Vimalakīrti Sūtra | Vimalakīrtinirdeśa Sūtra | T14 | 0475 | Kumārajīva | Fasc. 1, 2 |
 | 3 | Great Prajñāpāramitā | Mahāprajñāpāramitā Sūtra | T5–7 | 0220 | Xuanzang | Fasc. 570 |
 | 4 | Laṅkāvatāra (Liu Song) | Laṅkāvatāra Sūtra | T16 | 0670 | Guṇabhadra | Fasc. 1, 4 |
-| 5 | Laṅkāvatāra (N. Wei) | Laṅkāvatāra Sūtra | T16 | 0671 | Bodhiruci | Fasc. 4, 8, 9 |
+| 5 | Laṅkāvatāra (N. Wei) | Laṅkāvatāra Sūtra | T16 | 0671 | Bodhiruci | Fasc. 4, 8 |
 | 6 | Śūraṅgama Sūtra | Śūraṅgama Sūtra | T19 | 0945 | Paramiti | Fasc. 1 |
 | 7 | Saṃdhinirmocana | Saṃdhinirmocana Sūtra | T16 | 0676 | Xuanzang | Fasc. 2, 3, 5 |
 | 8 | Cheng weishi lun | Cheng weishi lun | T31 | 1585 | Dharmapāla / Xuanzang | Fasc. 9, 10 |
@@ -370,7 +370,7 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 
 ## Notes
 
-[^1]: *Vajracchedikā*, §10, 「應無所住而生其心」 "One should give rise to a mind that abides nowhere." T8, No. 0235. Also appears in §4 and §14.
+[^1]: *Vajracchedikā*, §10, 「應無所住而生其心」 "One should give rise to a mind that abides nowhere." T8, No. 0235. The full sentence occurs only here (0749c22–c23); §4 「菩薩於法應無所住行於布施」 (0749a12–a13) and §14 「應生無所住心」 (0750b23) are related passages.
 
 [^2]: §9–§11 structural arc: §9 dismantles attachment to the four fruits; §10 reveals the correct mental orientation; §11 confirms through merit comparison.
 

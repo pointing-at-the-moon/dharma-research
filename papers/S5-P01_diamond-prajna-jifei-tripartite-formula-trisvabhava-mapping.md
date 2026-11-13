@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Diamond Prajñā: The "Jífēi" Tripartite Formula as Trisvabhāva Mapping
@@ -16,11 +16,11 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Diamond Sūtra's pervasive formula — "The Buddha speaks of X; it is not X; it is called X" — has long been read as a rhetorical device expressing prajñā emptiness. This paper proposes that its tripartite structure can be illuminated through the Yogācāra framework of trisvabhāva (three natures). Kuiji (窺基, 632–682), in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), already offered an explicit mapping: "speaks of" reveals parikalpita (the imagined), "is not" reveals paratantra (the dependent), and "is called" reveals pariniṣpanna (the consummated). Building on this rediscovery, the present study proposes a complementary alternative mapping — "X" as paratantra (dependently arisen designation), "is not X" as negation of parikalpita (reified existence), and "is called X" as re-establishment within pariniṣpanna (the consummated). The two mappings illuminate the same structure from the listener's perspective and the object's perspective respectively, like two sides of a single mirror. Through textual analysis of Asaṅga's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1510b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511/T1512), this paper traces the interpretive lineage from the Buddha's structural design to its systematic Yogācāra elaboration. The cross-disciplinary section draws on Wittgenstein's ladder metaphor, Austin's speech act theory, and Derrida's *sous rature* as heuristic parallels. The Middle Way Correction section specifically notes: the trisvabhāva mapping is an interpretive tool, not — and must never become — a cage that domesticates the Diamond Sūtra.
+The Diamond Sūtra's pervasive formula — "The Buddha speaks of X; it is not X; it is called X" — has long been read as a rhetorical device expressing prajñā emptiness. This paper proposes that its tripartite structure can be illuminated through the Yogācāra framework of trisvabhāva (three natures). This paper first proposes a listener-perspective mapping: "speaks of" reveals parikalpita (the imagined), "is not" reveals paratantra (the dependent), and "is called" reveals pariniṣpanna (the consummated) — this is the author's interpretation; Kuiji's (窺基, 632–682) *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700) reads the sūtra through the three natures but contains no such three-segment correspondence. It then proposes a complementary alternative mapping — "X" as paratantra (dependently arisen designation), "is not X" as negation of parikalpita (reified existence), and "is called X" as re-establishment within pariniṣpanna (the consummated). The two mappings illuminate the same structure from the listener's perspective and the object's perspective respectively, like two sides of a single mirror. Through textual analysis of Asaṅga's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1510b), Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511) and the *Jingang xian lun* (T1512), this paper traces the interpretive lineage from the Buddha's structural design to its systematic Yogācāra elaboration. The cross-disciplinary section draws on Wittgenstein's ladder metaphor, Austin's speech act theory, and Derrida's *sous rature* as heuristic parallels. The Middle Way Correction section specifically notes: the trisvabhāva mapping is an interpretive tool, not — and must never become — a cage that domesticates the Diamond Sūtra.
 
 **摘要**
 
-金剛經貫穿全經的「佛說 X，即非 X，是名 X」公式，長期被視為般若空性的修辭表達。本文提出：此三段結構可以透過唯識三性（trisvabhāva）框架加以照見。窺基大師於《金剛般若波羅蜜經讚述》（T1700）中已做出明確映射：「說」顯遍計所執性，「即非」顯依他起性，「是名」顯圓成實性。本文在重新發現窺基映射的基礎上，提出一個替代性的互補映射——「X」指依他起性的緣起施設，「即非 X」否定遍計所執性的實有化，「是名 X」在圓成實性中重新安立名言——並論證兩種映射分別從聽者角度與對象角度照見同一結構，如鏡子的正反兩面。透過無著《金剛般若波羅蜜經論》（T1510b）與世親《金剛般若波羅蜜經論》（T1511/T1512）的文本分析，本文進一步追溯從佛陀的結構設計到唯識論師系統化詮釋的進程鏈。中道校正部分特別標記：三性映射是詮釋工具，不是也不應成為馴化金剛經的牢籠。
+金剛經貫穿全經的「佛說 X，即非 X，是名 X」公式，長期被視為般若空性的修辭表達。本文提出：此三段結構可以透過唯識三性（trisvabhāva）框架加以照見。本文先從聽者角度提出一種映射：「說」顯遍計所執性，「即非」顯依他起性，「是名」顯圓成實性（此為作者詮釋；窺基《金剛般若經讚述》（T1700）以三性釋經，然未見此三段配三性之文）。本文再提出一個替代性的互補映射——「X」指依他起性的緣起施設，「即非 X」否定遍計所執性的實有化，「是名 X」在圓成實性中重新安立名言——並論證兩種映射分別從聽者角度與對象角度照見同一結構，如鏡子的正反兩面。透過無著《金剛般若波羅蜜經論》（T1510b）、世親《金剛般若波羅蜜經論》（T1511）與《金剛仙論》（T1512）的文本分析，本文進一步追溯從佛陀的結構設計到唯識論師系統化詮釋的進程鏈。中道校正部分特別標記：三性映射是詮釋工具，不是也不應成為馴化金剛經的牢籠。
 
 **Keywords:** Diamond Sūtra, jífēi tripartite formula, trisvabhāva, parikalpita, paratantra, pariniṣpanna, Kuiji, Asaṅga, Vasubandhu, prajñā emptiness | 金剛經、即非三段式、唯識三性、遍計所執性、依他起性、圓成實性、窺基、無著、世親、般若空性
 
@@ -98,7 +98,7 @@ The title of the Diamond Sūtra has already foretold the entire teaching of the 
 
 The Diamond Sūtra is among the most widely circulated texts in East Asian Buddhism, yet it faces a fundamental interpretive impasse:
 
-The Mādhyamaka reading (the mainstream) treats the Diamond Sūtra as a direct expression of prajñā emptiness — the jífēi formula is understood as the linguistic articulation of dependent origination and emptiness of intrinsic nature. This reading has deep scriptural support and represents the dominant path in prajñāpāramitā studies throughout history. Yet another interpretive lineage has long been underestimated: Asaṅga's *Treatise on the Diamond Prajñā* (T1510a/b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511) already provided a Yogācāra interpretive framework. Kuiji went further in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), offering an explicit trisvabhāva mapping.
+The Mādhyamaka reading (the mainstream) treats the Diamond Sūtra as a direct expression of prajñā emptiness — the jífēi formula is understood as the linguistic articulation of dependent origination and emptiness of intrinsic nature. This reading has deep scriptural support and represents the dominant path in prajñāpāramitā studies throughout history. Yet another interpretive lineage has long been underestimated: Asaṅga's *Treatise on the Diamond Prajñā* (T1510a/b) and Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra* (T1511) already provided a Yogācāra interpretive framework. Kuiji went further in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700), reading the sūtra through the three natures (though no correspondence of the formula's three segments to the three natures is found there).
 
 This paper does not take sides. Instead, it asks a structural question: what does the internal structure of the recurring formula "is not X, is called X" map onto? If prajñā and Yogācāra are different facets of the same teaching — like the "emptiness" and "illumination" of vajra — can the trisvabhāva framework illuminate the operating mechanism of the jífēi formula?
 
@@ -108,7 +108,7 @@ This paper serves as the doctrinal foundation for the entire S5 series (The Cut:
 
 The companion paper S5-P02 addresses the Diamond Sūtra's kōan structure and pedagogical design; this paper focuses on the doctrinal argument. The relationship between the two mirrors the first and second layers of vajra: emptiness/structure and illumination/mirror.
 
-The scholarly lineage traced here is: the Buddha designed the jífēi formula (T235) → Asaṅga and Vasubandhu analyzed its doctrinal logic from a Yogācāra perspective (T1510b, T1511/T1512) without using trisvabhāva terminology → Kuiji explicitly proposed the trisvabhāva mapping (T1700) → this paper, having rediscovered Kuiji's mapping, proposes a complementary alternative and argues for the mutual illumination of both.
+The scholarly lineage traced here is: the Buddha designed the jífēi formula (T235) → Asaṅga and Vasubandhu analyzed its doctrinal logic from a Yogācāra perspective (T1510b, T1511; also the *Jingang xian lun*, T1512) without using trisvabhāva terminology → Kuiji read the sūtra through the three natures (T1700) → this paper proposes two mappings of the formula's three segments onto the three natures, from the listener's and the object's perspectives, and argues for the mutual illumination of both (this is the author's interpretation).
 
 ---
 
@@ -123,20 +123,20 @@ In Kumārajīva's translation of the Diamond Sūtra (T235), the "is not…is cal
 **Full tripartite instances** include at minimum:
 
 - §10: "The adornment of buddha-lands — it is not adornment; it is called adornment."
-- §13: "The Buddha speaks of prajñāpāramitā — it is not prajñāpāramitā; it is called prajñāpāramitā."
-- §17: "The Tathāgata speaks of the foremost pāramitā — it is not the foremost pāramitā; it is called the foremost pāramitā."
-- §17: "The patience pāramitā — the Tathāgata says it is not the patience pāramitā; it is called the patience pāramitā."
+- §14: "The Tathāgata speaks of the foremost pāramitā — it is not the foremost pāramitā; it is called the foremost pāramitā."
 - §20: "Endowed with physical form…it is not endowed with physical form; it is called endowed with physical form."
 - §21: "Speaking the dharma — there is no dharma to speak; it is called speaking the dharma."
-- §25: "Sentient beings, sentient beings — the Tathāgata says they are not sentient beings; they are called sentient beings."
-- §31: "A composite unity — it is not a composite unity; it is called a composite unity."
+- §21: "Sentient beings, sentient beings — the Tathāgata says they are not sentient beings; they are called sentient beings."
+- §30: "The Tathāgata speaks of a composite unity — it is not a composite unity; it is called a composite unity."
 
 **Abbreviated forms** (two segments only) include:
 
-- §13: "What is called buddha-dharma is not buddha-dharma." (Omitting "is called.")
-- §14: "If one sees that all characteristics are not characteristics, then one sees the Tathāgata." (A variant that skips affirmation and moves directly from negation to establishment.)
+- §8: "What is called buddha-dharma is not buddha-dharma." (Omitting "is called.")
+- §13: "The Buddha speaks of prajñāpāramitā — it is not prajñāpāramitā." (Omitting "is called.")
+- §14: "The patience pāramitā — the Tathāgata says it is not the patience pāramitā." (Omitting "is called.")
+- §5: "If one sees that all characteristics are not characteristics, then one sees the Tathāgata." (A variant that skips affirmation and moves directly from negation to establishment.)
 
-In terms of distribution, the formula clusters heavily after §10, reaching peak density in §13 and §17, and draws to a close across §25–§31. Notably, the objects of the formula in the first half (§1–16) tend to be concrete designations — buddha-lands, physical form, dust-motes and worlds — while the second half (§17–32) escalates to the teachings themselves: prajñāpāramitā, the patience pāramitā, and even buddha-dharma as such. This progression is analyzed further in §3.6.
+In terms of distribution, the formula clusters heavily after §10, reaching peak density in §13 and §17, and draws to a close across §25–§31. By the 32-section division, the instances whose object is the teaching itself — buddha-dharma (§8), prajñāpāramitā (§13), the foremost pāramitā and the patience pāramitā (§14) — all fall in the first half (§1–16); physical form (§20), speaking the dharma (§21) and composite unity (§30) fall in the second half (§17–32). The first-half/second-half division of function in §3.6 is the author's interpretation, not something the distribution of instances directly shows.
 
 ### 2.2 The Trisvabhāva Definition in the Saṃdhinirmocana Sūtra
 
@@ -168,47 +168,47 @@ These three definitions provide the doctrinal foundation for the mapping analysi
 
 ### 2.3 Asaṅga's *Treatise on the Ability to Sever the Diamond Prajñā*
 
-Asaṅga's commentary on the Diamond Sūtra is preserved in the *Jingang bore boluomi jing lun* (T1510b, translated by Dharmagupta) and the related commentary (T1513). When analyzing the "is not…is called…" formula, Asaṅga does engage with its dialectical logic, but without directly employing the terminology of parikalpita, paratantra, and pariniṣpanna.
+Asaṅga's commentary on the Diamond Sūtra is preserved in the *Jingang bore boluomi jing lun* (T1510b, translated by Dharmagupta) and in the *Nengduan jingang bore boluomiduo jing lun shi* (T1513), whose verses are by Asaṅga and whose prose commentary is by Vasubandhu. When analyzing the "is not…is called…" formula, Asaṅga does engage with its dialectical logic, but without directly employing the terminology of parikalpita, paratantra, and pariniṣpanna.
 
-Taking "endowed with marks" (具相) as an example, Asaṅga cites the sūtra — "The Tathāgata speaks of being endowed with marks; it is not being endowed with marks; therefore it is called being endowed with marks" — and provides the verse:
+Taking "endowed with marks" (具相) as an example, T1513 cites the sūtra — "The Tathāgata speaks of being endowed with marks; it is not being endowed with marks; therefore it is called being endowed with marks" — and gives Asaṅga's verse:
 
 > "Regarding the true dharmakāya, there is no perfection of minor marks; it is also not endowed with marks — one should know it is not of the nature of [physical] body."[^7]
 
-[^7]: *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), fascicle 2, T25, No. 1513. This is the commentary on Asaṅga's verses.
+[^7]: *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), fascicle 3 (卷下), verses by Asaṅga, prose commentary by Vasubandhu, trans. Yijing, T25, No. 1513, 0882a11–a14 (sūtra and verse), 0882a24–a26 (Vasubandhu's commentary).
 
-The treatise further explains:
+Vasubandhu's prose commentary further explains:
 
 > "The nature of the dharmakāya is not like this; for the dharmakāya is not of that intrinsic nature."
 
-Asaṅga's analytical path proceeds thus: the "endowed with marks" that the Tathāgata speaks of (the thirty-two marks of the physical body), viewed from the perspective of the dharmakāya, "is also not endowed with marks" — because the dharmakāya is without marks. Yet because the physical body is not separate from the dharmakāya, it can still be "called endowed with marks." This aligns perfectly with the logic of the jífēi formula: negating reification (not endowed with marks) while preserving conventional designation (therefore called endowed with marks).
+The analytical path of Asaṅga's verse and Vasubandhu's commentary proceeds thus: the "endowed with marks" that the Tathāgata speaks of (the thirty-two marks of the physical body), viewed from the perspective of the dharmakāya, "is also not endowed with marks" — because the dharmakāya is without marks. Yet because the physical body is not separate from the dharmakāya, it can still be "called endowed with marks." This aligns perfectly with the logic of the jífēi formula: negating reification (not endowed with marks) while preserving conventional designation (therefore called endowed with marks).
 
-Although Asaṅga does not use the trisvabhāva terminology by name, his analysis is substantively operating within trisvabhāva logic — "the dharmakāya is without marks" negates parikalpita; "the physical body is not separate from the dharmakāya" is the illusory existence of paratantra; "therefore called endowed with marks" is nominal re-establishment at the level of pariniṣpanna. The terminology is absent, but the logic is present — this is precisely the transitional link between the Buddha and Kuiji.
+Although Asaṅga's verse and Vasubandhu's commentary do not use the trisvabhāva terminology by name, their analysis is substantively operating within trisvabhāva logic — "the dharmakāya is without marks" negates parikalpita; "the physical body is not separate from the dharmakāya" is the illusory existence of paratantra; "therefore called endowed with marks" is nominal re-establishment at the level of pariniṣpanna. The terminology is absent, but the logic is present — this is precisely the transitional link between the Buddha and Kuiji.
 
 ### 2.4 Vasubandhu's *Treatise on the Diamond Prajñāpāramitā Sūtra*
 
-Vasubandhu's commentary on the Diamond Sūtra (T1511/T1512) employs "severing doubt" (斷疑) as the structural framework for the entire text. Vasubandhu divides the sūtra into multiple segments, each corresponding to a doubt arising in practice, which the Buddha systematically eliminates:[^8]
+Vasubandhu's commentary on the Diamond Sūtra (T1511) and its sub-commentary, the *Jingang xian lun* (T1512), employ "severing doubt" (斷疑) as the structural framework for the entire text, dividing the sūtra into multiple segments, each corresponding to a doubt arising in practice, which the Buddha systematically eliminates:[^8]
 
-[^8]: All citations below follow the *Jingang xian lun* (金剛仙論), by Vasubandhu, trans. Bodhiruci, T25, No. 1512.
+[^8]: All citations below follow the *Jingang xian lun* (金剛仙論), fascicle 9, trans. Bodhiruci, T25, No. 1512, 0860a11–a18. T1512 names no author at its head; the *Kaiyuan shijiao lu* (開元釋教錄), fascicle 12, describes it as a commentary on Vasubandhu's treatise composed by the Yuan-Wei Tripiṭaka master Bodhiruci (T55, No. 2154, 0607b18–b19) — it is not Vasubandhu's work.
 
 > "'Subhūti! All the Sumeru kings in the great trichiliocosm' — this is the tenth segment of the doubt-severing section. The trichiliocosm analogy has already appeared four times. Why does it recur without being redundant? Because the phrasing is similar but the meaning differs — therefore it is not redundant. It recurs because there is doubt."
 
-Vasubandhu here identifies a crucial textual phenomenon: the same merit comparison (filling a great trichiliocosm with the seven treasures as an offering) recurs at least four times in the Diamond Sūtra — "the phrasing is similar but the meaning differs." Each repetition is not redundancy but operates in a different context to sever a different layer of attachment — which is itself a manifestation of the jífēi formula at the level of pedagogical design.
+The *Jingang xian lun* here identifies a crucial textual phenomenon: the same merit comparison (filling a great trichiliocosm with the seven treasures as an offering) recurs at least four times in the Diamond Sūtra — "the phrasing is similar but the meaning differs." Each repetition is not redundancy but operates in a different context to sever a different layer of attachment — which is itself a manifestation of the jífēi formula at the level of pedagogical design.
 
-Vasubandhu also distinguishes between the nature of dharmakāya bodhi and the sambhogakāya's skillful means:
+The *Jingang xian lun* also distinguishes between the nature of dharmakāya bodhi and the sambhogakāya's skillful means:
 
 > "This clarifies the dharmakāya bodhi, the inherently pure nirvāṇa, whose original substance is complete and not something attained through cultivation. The latter passage clarifies the reward-body's skillful nirvāṇa, attained through the cultivation of all wholesome dharmas as conditions, making the dharmakāya functional — this is something attained through cultivation."
 
-The distinction between "original substance complete, not attained through cultivation" and "attained through cultivation of all wholesome dharmas" implicitly contains the structure of pariniṣpanna (the originally complete substance) and paratantra (conditionally cultivated), yet again without using trisvabhāva terminology. Vasubandhu's contribution lies in his precise structural analysis and pedagogical reading, laying the groundwork for Kuiji's explicit trisvabhāva mapping.
+The distinction between "original substance complete, not attained through cultivation" and "attained through cultivation of all wholesome dharmas" implicitly contains the structure of pariniṣpanna (the originally complete substance) and paratantra (conditionally cultivated), yet again without using trisvabhāva terminology. The contribution of Vasubandhu's treatise and the *Jingang xian lun* lies in their precise structural analysis and pedagogical reading, laying the groundwork for Kuiji's trisvabhāva reading of the sūtra (T1700).
 
 ### 2.5 Kuiji's *Commentary on the Diamond Prajñāpāramitā Sūtra*
 
-Kuiji (632–682), the foremost systematizer of the Yogācāra school under Xuanzang, produced the most explicit trisvabhāva mapping to date in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700):[^9]
+Kuiji (632–682), the foremost systematizer of the Yogācāra school under Xuanzang, reads the sūtra through the three natures in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (T1700) — for example, in explaining "not alarmed, not frightened, not afraid":[^9]
 
-[^9]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
+[^9]: Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700, lower fascicle (卷下), 0140b21 (the sūtra phrase cited), 0140c01–c04.
 
-> "The word 'speaks of' reveals parikalpita (the imagined); the phrase 'is not' reveals paratantra-svabhāva (the dependent nature); the phrase 'is called' reveals pariniṣpanna-svabhāva (the consummated nature)."
+> "Explanation: because the parikalpita has no substance or characteristic, one is not alarmed; because the paratantra has no self-arisen nature, one is not frightened; because in the pariniṣpanna there is none of the grasped person or dharmas, one is not afraid."
 
-This mapping is concise and powerful. Kuiji assigns each of the formula's three segments to one of the three natures:
+No correspondence of the formula's three segments ("speaks of / is not / is called") to the three natures is found in T1700. The three-segment correspondence below is this paper's mapping from the listener's perspective (this is the author's interpretation):
 
 1. **"Speaks of" reveals parikalpita** — When the Buddha "speaks of" a name (such as "the adornment of buddha-lands"), what it points to is a concept already present in the listener's mind. This concept is itself the product of parikalpita: upon hearing "adornment of buddha-lands," the listener's mind immediately generates a reified image of an inherently existing adorned buddha-land.
 
@@ -216,7 +216,7 @@ This mapping is concise and powerful. Kuiji assigns each of the formula's three 
 
 3. **"Is called" reveals pariniṣpanna-svabhāva** — "It is called adornment" re-establishes the name after the negation: you may still use the designation "adornment of buddha-lands," but this usage has now departed from parikalpita, seeing things as they truly are — this is the domain of pariniṣpanna.
 
-Kuiji's mapping represents a milestone in the history of Yogācāra thought. Asaṅga analyzed the dialectical logic of the jífēi formula but did not use trisvabhāva terminology; Vasubandhu built a precise structural analysis but likewise did not produce a trisvabhāva correspondence; Kuiji completed the explicit bridge from the language of prajñā to the vocabulary of Yogācāra.
+Asaṅga analyzed the dialectical logic of the jífēi formula but did not use trisvabhāva terminology; Vasubandhu built a precise structural analysis but likewise did not produce a trisvabhāva correspondence; Kuiji read the sūtra in trisvabhāva terms; explicitly assigning the formula's three segments to the three natures is this paper's interpretation.
 
 ---
 
@@ -226,11 +226,11 @@ Kuiji's mapping represents a milestone in the history of Yogācāra thought. Asa
 
 Based on the scriptural foundations above, the core thesis of this paper is: the Diamond Sūtra's tripartite formula "X; is not X; is called X" can be illuminated in its doctrinal mechanics through the Yogācāra trisvabhāva framework.
 
-However, the specific manner of mapping is not singular. Kuiji's mapping in T1700 (§2.5) is one reading; this paper proposes another on that foundation. The two do not contradict each other; they illuminate the same structure from different angles.
+However, the specific manner of mapping is not singular. The listener-perspective mapping (§2.5) is one reading; this paper also proposes another, from the object's perspective. The two do not contradict each other; they illuminate the same structure from different angles.
 
-### 3.2 Kuiji's Mapping: From the Listener's Perspective
+### 3.2 The Listener Mapping: From the Listener's Perspective
 
-Kuiji's mapping proceeds from the listener's cognitive process:
+The listener mapping proceeds from the listener's cognitive process:
 
 ```
 "Speaks of X"   → Parikalpita: listener hears the name, generates a reified image
@@ -240,7 +240,7 @@ Kuiji's mapping proceeds from the listener's cognitive process:
 
 The logic of this mapping is pedagogical: the Buddha first uses a name to bring the listener before a concept (parikalpita), then negates the concept's reified existence to reveal its dependently arisen nature (paratantra), and finally allows the listener to re-employ the original name within a transformed cognition (pariniṣpanna).
 
-The elegance of Kuiji's mapping lies in this: it describes the three cognitive stages the listener traverses upon hearing the jífēi formula. This is a temporal, dynamic process — you first cling, then release, and finally use words within non-clinging. It captures the jífēi formula's function as a pedagogical device.
+The elegance of the listener mapping lies in this: it describes the three cognitive stages the listener traverses upon hearing the jífēi formula. This is a temporal, dynamic process — you first cling, then release, and finally use words within non-clinging. It captures the jífēi formula's function as a pedagogical device.
 
 ### 3.3 The Pointing-at-the-Moon Mapping: From the Object's Perspective
 
@@ -264,9 +264,9 @@ The logic of this mapping is ontological: it describes not the listener's psycho
 
 ### 3.4 The Complementary Relationship Between the Two Mappings
 
-The key difference between Kuiji's mapping and the Pointing-at-the-Moon mapping lies in which of the three natures corresponds to "X" (or "speaks of"):
+The key difference between the listener mapping and the Pointing-at-the-Moon mapping lies in which of the three natures corresponds to "X" (or "speaks of"):
 
-| Jífēi Formula | Kuiji's Mapping (Listener) | Pointing-at-the-Moon Mapping (Object) |
+| Jífēi Formula | Listener Mapping (Listener) | Pointing-at-the-Moon Mapping (Object) |
 |----------------|---------------------------|---------------------------------------|
 | "Speaks of X" / X | Parikalpita | Paratantra |
 | "Is not X" | Paratantra | Negation of parikalpita |
@@ -274,25 +274,25 @@ The key difference between Kuiji's mapping and the Pointing-at-the-Moon mapping 
 
 The two mappings agree entirely on the third segment ("is called X" = pariniṣpanna). The divergence appears in the first two segments. But this divergence is not a contradiction — it arises from a difference in the angle of observation.
 
-Kuiji proceeds from the listener's perspective. When the listener hears the Buddha "speak of" X, what is the listener's first cognitive response? It is parikalpita — the listener immediately reifies X. So "speaks of" revealing parikalpita is an accurate description of the listener's cognitive reaction.
+The listener mapping proceeds from the listener's perspective. When the listener hears the Buddha "speak of" X, what is the listener's first cognitive response? It is parikalpita — the listener immediately reifies X. So "speaks of" revealing parikalpita is an accurate description of the listener's cognitive reaction.
 
 The Pointing-at-the-Moon mapping proceeds from the object's perspective. What is the X that the Buddha speaks of, in itself? It is paratantra — a provisionally designated dependently arisen phenomenon. As a dharma being spoken of, its ontological status is paratantra.
 
 The same X, seen from the listener's side, is parikalpita (because the listener immediately clings); seen from the object's side, it is paratantra (because it is a dependently arisen dharma). This precisely confirms a core tenet of trisvabhāva theory: parikalpita is not an independent "thing" — it is a mistaken cognition superimposed upon paratantra. Without paratantra, parikalpita has no locus of occurrence. The same paratantra dharma: the ordinary person sees parikalpita; the sage illuminates pariniṣpanna.
 
-The two mappings are like two sides of a mirror: Kuiji illuminates the listener's cognitive process (pedagogy); Pointing at the Moon illuminates the ontological structure of the dharma spoken of (doctrine). They are not two different theories but the same jífēi formula presenting itself under different angles of observation.
+The two mappings are like two sides of a mirror: the listener mapping illuminates the listener's cognitive process (pedagogy); Pointing at the Moon illuminates the ontological structure of the dharma spoken of (doctrine). They are not two different theories but the same jífēi formula presenting itself under different angles of observation.
 
 ### 3.5 Variant Classification of the Jífēi Formula
 
 The jífēi formula in the Diamond Sūtra is not uniform. By form, instances can be classified into four types:
 
-**Full form**: All three segments present. E.g., "The adornment of buddha-lands; it is not adornment; it is called adornment" (§10); "The Buddha speaks of prajñāpāramitā; it is not prajñāpāramitā; it is called prajñāpāramitā" (§13). The trisvabhāva mapping is clearest in this type.
+**Full form**: All three segments present. E.g., "The adornment of buddha-lands; it is not adornment; it is called adornment" (§10); "The Tathāgata speaks of being endowed with physical form; it is not being endowed with physical form; it is called being endowed with physical form" (§20). The trisvabhāva mapping is clearest in this type.
 
-**Abbreviated Type I**: The "is called" segment is omitted. E.g., "What is called buddha-dharma is not buddha-dharma" (§13). Only negation, no re-establishment. From the trisvabhāva perspective, this leaves the listener suspended in the oscillation of "is not" — you now know it is not what you thought, but the Buddha is in no hurry to tell you what it "is." The pedagogical effect is to compel the listener to see for themselves.
+**Abbreviated Type I**: The "is called" segment is omitted. E.g., "What is called buddha-dharma is not buddha-dharma" (§8). Only negation, no re-establishment. From the trisvabhāva perspective, this leaves the listener suspended in the oscillation of "is not" — you now know it is not what you thought, but the Buddha is in no hurry to tell you what it "is." The pedagogical effect is to compel the listener to see for themselves.
 
-**Abbreviated Type II**: The subject shifts to the Buddha. E.g., "The Tathāgata speaks of the foremost pāramitā; it is not the foremost pāramitā" (§17). This emphasizes the self-referentiality of the teaching — the Buddha is not merely negating the listener's attachment but negating the reified existence of his own teaching. This is the distinctive depth of the Diamond Sūtra's second half: the teaching negates itself.
+**Abbreviated Type II**: The subject shifts to the Buddha. E.g., "The patience pāramitā — the Tathāgata says it is not the patience pāramitā" (§14). This emphasizes the self-referentiality of the teaching — the Buddha is not merely negating the listener's attachment but negating the reified existence of his own teaching. Instances of this kind occur in the first half of the sūtra (§13–§14): the teaching negates itself.
 
-**Inverted form**: Skipping the affirmation, moving directly from negation to establishment. E.g., "If one sees that all characteristics are not characteristics, then one sees the Tathāgata" (§14). Here the initial affirmation of "X" is omitted, entering directly into the latter two segments: "not X → is [called] X." From a pedagogical design perspective, the inverted form presupposes that the listener has already passed through multiple iterations of the jífēi formula — no need to start from affirmation; one can leap directly from negation to illumination.
+**Inverted form**: Skipping the affirmation, moving directly from negation to establishment. E.g., "If one sees that all characteristics are not characteristics, then one sees the Tathāgata" (§5). Here the initial affirmation of "X" is omitted, entering directly into the latter two segments: "not X → is [called] X." From a pedagogical design perspective, the inverted form presupposes that the listener has already passed through multiple iterations of the jífēi formula — no need to start from affirmation; one can leap directly from negation to illumination (this sentence stands in §5, before the jífēi instances from §8 onward; this is the author's interpretation).
 
 The choice of variant is not arbitrary but reflects precise pedagogical design. Full forms introduce concepts; abbreviated forms accelerate training; inverted forms serve as verification — the Diamond Sūtra's sophistication in pedagogy matches its doctrinal depth perfectly.
 
@@ -302,11 +302,11 @@ The Diamond Sūtra pivots at §17, where Subhūti re-asks: "If good men and good
 
 The objects of the jífēi formula in the first half (§1–16) center on "self"-related attachments: the four marks (self, person, sentient being, life-span), merit, the Buddha's physical body. This corresponds to the kleśāvaraṇa (afflictive obstruction) in the Yogācāra two-obstruction theory — obstructions born from self-grasping. The function of the jífēi formula in the first half is to dismantle the practitioner's various projections of "I": I am adorning buddha-lands, I am making offerings, I can see the Buddha.
 
-The objects in the second half (§17–32) escalate: prajñāpāramitā itself, the patience pāramitā, buddha-dharma itself, the act of teaching dharma, composite unity. This corresponds to the jñeyāvaraṇa (cognitive obstruction) — attachment to dharmas themselves. The jífēi formula in the second half no longer merely severs "my attachment to dharmas" but severs "the reified existence of dharmas themselves." This is a fundamental dimensional upgrade — in the first half you learn not to cling to buddha-lands; in the second half you must learn not to cling to "non-clinging."
+The objects in the second half (§17–32) escalate: the act of teaching dharma (§21), composite unity (§30). (The jífēi sentences on prajñāpāramitā (§13), the patience pāramitā (§14) and buddha-dharma (§8) all fall in the first half; the division "first half dismantles self-grasping, second half dismantles dharma-grasping" is the author's interpretation.) This corresponds to the jñeyāvaraṇa (cognitive obstruction) — attachment to dharmas themselves. The jífēi formula in the second half no longer merely severs "my attachment to dharmas" but severs "the reified existence of dharmas themselves." This is a fundamental dimensional upgrade — in the first half you learn not to cling to buddha-lands; in the second half you must learn not to cling to "non-clinging."
 
 Viewed through the trisvabhāva mapping: the first half's jífēi formula works primarily between parikalpita and paratantra — helping listeners see through concrete designations (buddha-lands, physical form) to their paratantra nature, ceasing to superimpose parikalpita upon them. The second half enters the subtler territory between paratantra and pariniṣpanna — even the name "prajñā" cannot be grasped, because if prajñā could be grasped, it would not be prajñā.
 
-This precisely corresponds to the deep structure of the *Saṃdhinirmocana Sūtra*'s trisvabhāva definitions: parikalpita is "nominal designations and imputed differentiations" — the first half severs attachment to "differentiations"; pariniṣpanna is "the domain of noble wisdom" — the second half demands seeing-as-it-is at the level of noble wisdom. The first half is enrollment; the second half is graduation — and "graduation" means: you must release even the concept of "graduation."
+This precisely corresponds to the deep structure of the trisvabhāva definitions in the *Saṃdhinirmocana Sūtra* and the *Yogācārabhūmi-śāstra*: parikalpita is "nominal designations and imputed differentiations" — the first half severs attachment to "differentiations"; pariniṣpanna is "the domain of noble wisdom" (*Yogācārabhūmi-śāstra*, fascicle 73) — the second half demands seeing-as-it-is at the level of noble wisdom. The first half is enrollment; the second half is graduation — and "graduation" means: you must release even the concept of "graduation."
 
 ---
 
@@ -331,7 +331,7 @@ Jacques Derrida's concept of *sous rature* (under erasure) shares a structural r
 
 [^13]: Derrida, Jacques. *Of Grammatology*. Trans. Gayatri Chakravorty Spivak. Johns Hopkins University Press, 1976.
 
-"The Buddha speaks of prajñāpāramitā; it is not prajñāpāramitā; it is called prajñāpāramitā" — the "is not" is erasure at the level of language. The word "prajñāpāramitā" is written and then crossed out, then continues to be used in its crossed-out state. It is simultaneously negated and retained — it does not mean what you thought it meant, yet the word cannot be dispensed with.
+"The Buddha speaks of prajñāpāramitā; it is not prajñāpāramitā" — the "is not" is erasure at the level of language. The word "prajñāpāramitā" is written and then crossed out, then continues to be used in its crossed-out state. It is simultaneously negated and retained — it does not mean what you thought it meant, yet the word cannot be dispensed with.
 
 However, the resemblance ends here. Derrida's *différance* is a process without terminus — meaning is endlessly deferred, never arriving. The Diamond Sūtra's jífēi formula is different: "is called X" is not endlessly deferred meaning but a faithful re-establishment after illumination. Pariniṣpanna is attainable — "the domain of noble wisdom, the sphere of noble wisdom." This is the fundamental divergence between Buddhism and post-structuralism: Buddhism has realization (pratyātma-adhigama); post-structuralism has only writing.
 
@@ -353,7 +353,7 @@ In trisvabhāva terms: pariniṣpanna is not a synthesis of parikalpita and para
 
 The "jífēi = trisvabhāva" mapping proposed in this paper is a hermeneutical framework, not a claim that the Diamond Sūtra's author (or the Buddha) was employing Yogācāra terminology.
 
-The Diamond Sūtra's composition (ca. 2nd–3rd century) predates the systematization of trisvabhāva theory (4th–5th century). Historical sequence does not invalidate doctrinal analysis — but one must distinguish between "original meaning" (what the text originally meant) and "subsequent interpretation" (what the text can be read as meaning). Kuiji's mapping in T1700 and the mapping in this paper both belong to the latter.
+The Diamond Sūtra's composition (ca. 2nd–3rd century) predates the systematization of trisvabhāva theory (4th–5th century). Historical sequence does not invalidate doctrinal analysis — but one must distinguish between "original meaning" (what the text originally meant) and "subsequent interpretation" (what the text can be read as meaning). Kuiji's trisvabhāva reading in T1700 and the two mappings in this paper both belong to the latter.
 
 This paper's position: the trisvabhāva framework is an effective tool for illuminating the jífēi formula. "Effective tool" means it can explain the operating mechanism of the formula, not merely label it. But "tool" also means it is not the only tool — the Mādhyamaka two-truth framework can also effectively read the jífēi formula; it simply illuminates from a different angle.
 
@@ -389,11 +389,11 @@ The Hegelian analogy is the most strictly limited: thesis–antithesis–synthes
 
 The central argument of this paper can be summarized in four points.
 
-First, the Diamond Sūtra's "is not X, is called X" is a tripartite formula with a precise doctrinal structure that can be illuminated through the Yogācāra trisvabhāva framework. Kuiji in T1700 already produced an explicit mapping ("speaks of" reveals parikalpita, "is not" reveals paratantra, "is called" reveals pariniṣpanna). This paper proposes a complementary alternative (X = paratantra, "is not" = negation of parikalpita, "is called" = pariniṣpanna). The two illuminate the same structure from the listener's perspective and the object's perspective respectively.
+First, the Diamond Sūtra's "is not X, is called X" is a tripartite formula with a precise doctrinal structure that can be illuminated through the Yogācāra trisvabhāva framework. This paper proposes two complementary mappings: the listener mapping ("speaks of" reveals parikalpita, "is not" reveals paratantra, "is called" reveals pariniṣpanna — not found in T1700; this is the author's interpretation) and the Pointing-at-the-Moon mapping (X = paratantra, "is not" = negation of parikalpita, "is called" = pariniṣpanna). The two illuminate the same structure from the listener's perspective and the object's perspective respectively.
 
-Second, from the Buddha's structural design (T235), through Asaṅga's (T1510b) and Vasubandhu's (T1511/T1512) Yogācāra analyses (operating trisvabhāva logic without using trisvabhāva terminology), to Kuiji's explicit trisvabhāva mapping (T1700), a clear interpretive lineage emerges. This paper does not propose a novelty ex nihilo but adds a link to this existing chain.
+Second, from the Buddha's structural design (T235), through the Yogācāra analyses of Asaṅga (T1510b), Vasubandhu (T1511) and the *Jingang xian lun* (T1512) (operating trisvabhāva logic without using trisvabhāva terminology), to Kuiji's trisvabhāva reading of the sūtra (T1700), a clear interpretive lineage emerges. This paper does not propose a novelty ex nihilo but adds a link to this existing chain.
 
-Third, the distribution, variant forms, and functional differences of the jífēi formula across the Diamond Sūtra correspond to the Yogācāra two-obstruction theory — the first half (§1–16) dismantles self-grasping (kleśāvaraṇa), the second half (§17–32) dismantles dharma-grasping (jñeyāvaraṇa). The jífēi formula is not a static template but a dynamic pedagogical device whose complexity upgrades in lockstep with the depth of practice.
+Third, the distribution, variant forms, and functional differences of the jífēi formula across the Diamond Sūtra correspond to the Yogācāra two-obstruction theory — the first half (§1–16) dismantles self-grasping (kleśāvaraṇa), the second half (§17–32) dismantles dharma-grasping (jñeyāvaraṇa) (this is the author's interpretation). The jífēi formula is not a static template but a dynamic pedagogical device whose complexity upgrades in lockstep with the depth of practice.
 
 Fourth, the word "vajra" itself contains three progressive layers of meaning — nowhere to strike (emptiness), clear as crystal (illumination), neither born nor destroyed (indestructibility) — the title is already the teaching, foreshadowing the sūtra's entire structure.
 
@@ -421,9 +421,9 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 - *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti (般剌蜜帝), T19, No. 945.
 - *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Asaṅga, trans. Dharmagupta, T25, No. 1510b.
 - *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Vasubandhu, trans. Bodhiruci, T25, No. 1511.
-- *Jingang xian lun* (金剛仙論), Vasubandhu, trans. Bodhiruci, T25, No. 1512.
-- *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), Asaṅga (verses), T25, No. 1513.
-- Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
+- *Jingang xian lun* (金剛仙論), trans. Bodhiruci (no author named at the head of the text), T25, No. 1512.
+- *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), Asaṅga (verses), Vasubandhu (commentary), trans. Yijing, T25, No. 1513.
+- Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700.
 
 ### II. Modern Scholarship
 
@@ -441,10 +441,10 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 | Śūraṅgama Sūtra | Śūraṅgama Sūtra | T19, No. 945 |
 | Asaṅga's Treatise | Jingang bore boluomi jing lun | T25, No. 1510b |
 | Vasubandhu's Treatise | Jingang bore boluomi jing lun | T25, No. 1511 |
-| Jingang xian lun | Jingang xian lun (Vasubandhu) | T25, No. 1512 |
-| Asaṅga's Commentary | Nengduan jingang bore boluomiduo jing lun shi | T25, No. 1513 |
+| Jingang xian lun | Jingang xian lun (trans. Bodhiruci) | T25, No. 1512 |
+| Asaṅga–Vasubandhu Commentary | Nengduan jingang bore boluomiduo jing lun shi | T25, No. 1513 |
 | Yogācārabhūmi-śāstra | Yujia shidi lun 瑜伽師地論 | T30, No. 1579 |
-| Kuiji's Commentary | Jingang bore boluomi jing zanshu | T33, No. 1700 |
+| Kuiji's Commentary | Jingang bore jing zanshu | T33, No. 1700 |
 
 ---
 

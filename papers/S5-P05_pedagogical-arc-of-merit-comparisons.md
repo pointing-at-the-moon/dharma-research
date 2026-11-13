@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Pedagogical Arc of Merit Comparisons
@@ -16,7 +16,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The six merit comparisons running throughout the Diamond Sūtra (§4→§8→§11→§15→§24→§28→§32) are not a simple ranking of "dharma-offering surpasses material giving." This paper argues that the merit comparisons constitute a precise pedagogical recursion — each iteration escalates the scale of material giving (from jewels filling a trichiliocosm to jewels filling immeasurable asaṃkhyeya worlds), lowers the threshold of dharma-offering (from "upholding and reciting" down to merely "hearing with unwavering faith"), and repeats the same conclusion, until the final iteration (§32) dismantles the entire reward structure with six similes. Vasubandhu observes that the passages are "similar in phrasing but different in meaning" (T1511) — each repetition resolves a different doubt and cuts a different layer of attachment.
+The seven merit comparisons in the Diamond Sūtra examined here (§8→§11→§13→§15→§24→§28→§32; the comparison at §16, against offerings to buddhas before Dīpaṃkara, is treated in section 2.6) are not a simple ranking of "dharma-offering surpasses material giving." This paper argues that the merit comparisons constitute a precise pedagogical recursion — each iteration escalates the scale of material giving (from jewels filling a trichiliocosm to jewels filling immeasurable asaṃkhyeya worlds), lowers the threshold of dharma-offering (from "upholding and reciting" down to merely "hearing with unwavering faith"), and repeats the same conclusion, until the final iteration (§32) dismantles the entire reward structure with six similes. The *Jingang xian lun* observes that the passages are "similar in phrasing but different in meaning" (T1512) — each repetition resolves a different doubt and cuts a different layer of attachment.
 
 The Yogācāra entry point: the merit comparisons operate on the positive transformation of the mental factor of aspiration (*chanda*) — wholesome aspiration (*kuśala-chanda*). The Buddha uses "much merit" as a skillful lure to redirect ordinary desire from external objects (jewels) toward internal practice (upholding and reciting), and finally toward the emptiness of desire itself (the six similes). The *Cheng weishi lun* (T1585) defines wholesome aspiration as the entry condition for the accumulation stage — "giving rise to definitive, superior wholesome aspiration." The *Yogācārabhūmi* (T1579) further reveals that aspiration is both the root of cyclic existence and the root of cessation — the same mental factor, depending on its direction, yields radically different outcomes. The Yogācāra mechanism by which dharma-offering surpasses material giving lies in seed quality: material giving primarily perfumes karmic seeds (*upapatti-vāsanā*) that ripen as conditioned results within saṃsāra, while dharma-offering simultaneously perfumes conceptual seeds (*nāma-vāsanā*) and uncontaminated seeds — "when hearing the true dharma, one also perfumes the innate uncontaminated seeds, causing them to gradually increase until they eventually give rise to the supramundane mind" (T1585).
 
@@ -30,11 +30,11 @@ The Reward Paradox: the Diamond Sūtra simultaneously declares "much merit" and 
 
 The Diamond Sūtra contains a pedagogical device that appears again and again: the merit comparison. Every few sections, the Buddha asks Subhūti the same type of question — if someone were to fill the entire universe with the seven treasures and give them away, would their merit be great? Subhūti always answers "very great." Then the Buddha always delivers the same verdict: but if someone upholds even a four-line verse of this sūtra and explains it to others, the merit surpasses the former.
 
-This scenario begins at §4 and recurs at §8, §11, §15, §24, §28, and §32. Each time the scale of material giving escalates — from jewels filling a trichiliocosm, to jewels filling Ganges-sand-number trichiliocosms, to giving away one's body three times daily for immeasurable kalpas, to piles of jewels as tall as Mount Sumeru, to jewels filling immeasurable asaṃkhyeya worlds. The scale increases exponentially; the conclusion never wavers: dharma-offering prevails.
+This scenario begins at §8 and recurs at §11, §13, §15, §24, §28, and §32. Each time the scale of material giving escalates — from jewels filling a trichiliocosm, to jewels filling Ganges-sand-number trichiliocosms, to giving away one's body three times daily for immeasurable kalpas, to piles of jewels as tall as Mount Sumeru, to jewels filling immeasurable asaṃkhyeya worlds. The scale increases exponentially; the conclusion never wavers: dharma-offering prevails.
 
-First-time readers tend to read the merit comparisons as a ranking chart — "dharma-offering scores higher, so I should do more dharma-offering." But this is precisely the conceptual reification (*parikalpita*) that the merit comparisons are designed to dismantle. Vasubandhu already noted: "The phrasing is similar but the meaning differs — therefore it is not repetition"[^1] — each recurrence cuts a different layer of attachment in a different doctrinal context.
+First-time readers tend to read the merit comparisons as a ranking chart — "dharma-offering scores higher, so I should do more dharma-offering." But this is precisely the conceptual reification (*parikalpita*) that the merit comparisons are designed to dismantle. The *Jingang xian lun* already noted: "The phrasing is similar but the meaning differs — therefore it is not repetition"[^1] — each recurrence cuts a different layer of attachment in a different doctrinal context.
 
-This paper asks: if the six merit comparisons are not a simple ranking, what are they? What is their pedagogical logic? Why do they need to repeat six times? What doctrinal progression occurs between iterations? And why does the sequence ultimately dismantle itself?
+This paper asks: if the seven merit comparisons are not a simple ranking, what are they? What is their pedagogical logic? Why do they need to repeat seven times? What doctrinal progression occurs between iterations? And why does the sequence ultimately dismantle itself?
 
 S5-P04 established the "right use of paratantra" framework — giving is a raft, used for crossing the river (wholesome action) but not carried on one's back (attachment). This paper unfolds that framework specifically within the merit comparisons: jewel-giving is a concrete instance of the raft; "much merit" is the Buddha's skillful device for guiding practitioners onto the raft; and "this merit is precisely non-merit in nature" is the disclosure — after you board the raft — that the raft is not the destination. S5-P07 revealed the Diamond Sūtra's dual-layer structure (with §17 as pivot: the first half addresses afflictive obstruction, the second half cognitive obstruction). The merit comparisons are the only pedagogical device that spans both layers — their teaching function differs qualitatively between the two halves, and this difference itself confirms the dual-layer structure.
 
@@ -44,25 +44,25 @@ S5-P04 established the "right use of paratantra" framework — giving is a raft,
 
 ### A. Sūtra Sources
 
-#### 2.1 The Six Merit Comparisons: Full Text and Progression
+#### 2.1 The Seven Merit Comparisons: Full Text and Progression
 
-The Diamond Sūtra's merit comparisons are not isolated passages scattered throughout the text but a complete pedagogical arc. The following presents each of the six comparisons, marking the progression in giving-scale and dharma-offering threshold.
+The Diamond Sūtra's merit comparisons are not isolated passages scattered throughout the text but a complete pedagogical arc. The following presents each of the seven comparisons examined in this paper (the comparison at §16, against offerings to buddhas before Dīpaṃkara, is treated in section 2.6), marking the progression in giving-scale and dharma-offering threshold.
 
-**First comparison (§4)** — jewels filling a trichiliocosm vs. upholding a four-line verse:
+**First comparison (§8)** — jewels filling a trichiliocosm vs. upholding a four-line verse:
 
 > "Subhūti, what do you think? If someone filled a trichiliocosm with the seven treasures and gave them in charity, would the merit gained by this person be great?" Subhūti said: "Very great, World-Honored One. Why? This merit is precisely non-merit in nature; therefore the Tathāgata says the merit is great." "If someone, within this sūtra, upholds even a four-line verse and explains it to others, the merit surpasses the former. Why? Subhūti, all Buddhas and all Buddhas' *anuttarā samyaksaṃbodhi* dharma — all emerge from this sūtra. Subhūti, what is called Buddha-dharma is precisely non-Buddha-dharma."[^2]
 
 （「須菩提！於意云何？若人滿三千大千世界七寶以用布施，是人所得福德，寧為多不？」須菩提言：「甚多，世尊！何以故？是福德即非福德性，是故如來說福德多。」「若復有人，於此經中受持乃至四句偈等，為他人說，其福勝彼。何以故？須菩提！一切諸佛及諸佛阿耨多羅三藐三菩提法，皆從此經出。須菩提！所謂佛法者，即非佛法。」）
 
-The first comparison already contains a compressed preview of the entire pedagogical arc. Subhūti does not simply answer "very great" — he spontaneously responds with the *jífēi* structure: "This merit is precisely non-merit in nature; therefore the Tathāgata says the merit is great." Merit has no intrinsic nature; precisely because it lacks intrinsic nature can the Tathāgata conventionally designate it as "great." Kuiji interprets directly: "This merit is separate from the intrinsic nature of merit; therefore it is called great."[^3] Subhūti has already grasped the prajñā principle in the very first comparison — he is not speaking of the quantity of merit but of the fact that merit, being empty of self-nature, can only be conventionally designated as "great" by the Tathāgata.
+The first comparison already contains a compressed preview of the entire pedagogical arc. Subhūti does not simply answer "very great" — he spontaneously responds with the *jífēi* structure: "This merit is precisely non-merit in nature; therefore the Tathāgata says the merit is great." Merit has no intrinsic nature; precisely because it lacks intrinsic nature can the Tathāgata conventionally designate it as "great." Zongle and Ruqi interpret directly: "This merit is separate from the intrinsic nature of merit; therefore it is called great."[^3] Subhūti has already grasped the prajñā principle in the very first comparison — he is not speaking of the quantity of merit but of the fact that merit, being empty of self-nature, can only be conventionally designated as "great" by the Tathāgata.
 
 The closing statement reveals the fundamental reason dharma-offering prevails: "All Buddhas and all Buddhas' dharma of *anuttarā samyaksaṃbodhi* emerge from this sūtra" — this sūtra is the generative source of all Buddha-dharma.
 
-**Second comparison (§8)** — Ganges-sand-number trichiliocosms of jewels vs. upholding a four-line verse:
+**Second comparison (§11)** — Ganges-sand-number trichiliocosms of jewels vs. upholding a four-line verse:
 
 > "If a good man or woman filled Ganges-sand-number trichiliocosms with the seven treasures and gave them in charity, would the merit be great?" Subhūti said: "Very great, World-Honored One." The Buddha told Subhūti: "If a good man or woman, within this sūtra, upholds even a four-line verse and explains it to others, this merit surpasses the former."[^4]
 
-The giving-scale escalates from "a trichiliocosm" to "Ganges-sand-number trichiliocosms." But more noteworthy is the new element §8 introduces:
+The giving-scale escalates from "a trichiliocosm" to "Ganges-sand-number trichiliocosms." But more noteworthy is the new element §12 introduces:
 
 > "Wherever this sūtra is spoken, even a four-line verse, know that this place should be honored by all beings of the world — devas, humans, and asuras — as if it were a Buddha-stūpa. How much more so if someone can fully uphold and recite it? Subhūti, know that this person has accomplished the supreme, foremost, rarest dharma. Wherever this sūtra is found, there is the Buddha."[^5]
 
@@ -70,9 +70,9 @@ The giving-scale escalates from "a trichiliocosm" to "Ganges-sand-number trichil
 
 "As if a Buddha-stūpa," "there is the Buddha" — wherever the sūtra is spoken, the dharmakāya has found its conditions for manifestation. This is not ceremonial reverence but doctrinal judgment.
 
-**Third and fourth comparisons (§11, §15)** — the radical escalation to bodily sacrifice:
+**Third and fourth comparisons (§13, §15)** — the radical escalation to bodily sacrifice:
 
-§11 escalates from external wealth (jewels) to internal wealth (one's body-and-life):
+§13 escalates from external wealth (jewels) to internal wealth (one's body-and-life):
 
 > "If a good man or woman gave in charity bodies-and-lives as numerous as Ganges sands, and another person upheld even a four-line verse of this sūtra and explained it to others — the latter's merit is far greater."[^6]
 
@@ -94,7 +94,7 @@ Two critical shifts. First, the giving-scale has reached the limits of what lang
 
 （「若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此般若波羅蜜經，乃至四句偈等，受持、讀誦、為他人說，於前福德百分不及一，百千萬億分，乃至算數、譬喻所不能及。」）
 
-§24 falls after the §17 pivot — it belongs to the second half (S5-P07's positioning: the dharma-emptiness layer, addressing cognitive obstruction). A new rhetorical strategy appears: instead of simply stating "the latter surpasses the former," the sūtra quantifies the gap — "not a hundredth," "beyond calculation or analogy." This quantification itself carries pedagogical irony: on one hand using numbers to emphasize the magnitude of the gap, on the other hand those very numbers point toward immeasurability — the gap is so vast that neither arithmetic nor metaphor can express it.
+§24 falls after the §17 pivot — it belongs to the second half (S5-P07's positioning: the dharma-emptiness layer, addressing cognitive obstruction). A new rhetorical strategy appears: instead of simply stating "the latter surpasses the former," the sūtra quantifies the gap — "not a hundredth," "beyond calculation or analogy" (this quantifying formula already appears at §16, in the comparison against offerings to buddhas before Dīpaṃkara; among the seven comparisons treated here, it first appears at §24). This quantification itself carries pedagogical irony: on one hand using numbers to emphasize the magnitude of the gap, on the other hand those very numbers point toward immeasurability — the gap is so vast that neither arithmetic nor metaphor can express it.
 
 **Sixth comparison (§28)** — the climax and the Reward Paradox:
 
@@ -104,7 +104,7 @@ Two critical shifts. First, the giving-scale has reached the limits of what lang
 
 §28 represents the most radical qualitative shift in the entire merit-comparison sequence. What prevails is no longer "upholding a four-line verse" — an actionable behavior — but "knowing all dharmas are non-self and attaining patience" — an existential state. Bodhiruci's translation makes this explicit: "attaining the patience of non-arising of dharmas"[^11] (*anutpattika-dharma-kṣānti*). What prevails is not what one does but what one has become.
 
-More critically, the four words "bodhisattvas do not receive merit." Subhūti is confused — how can bodhisattvas not receive merit? The Buddha's reply is precise: "The merit a bodhisattva creates should not be clung to; therefore it is said they do not receive merit" — not that they do not act, but that they act without clinging. The one with the greatest merit is precisely the one who does not receive merit — this is the Reward Paradox: the reward is real (paratantra), but clinging to the reward invalidates it (parikalpita), and not clinging to the reward paradoxically actualizes the greatest reward (pariniṣpanna).
+More critically, the six characters "bodhisattvas do not receive merit" (菩薩不受福德). Subhūti is confused — how can bodhisattvas not receive merit? The Buddha's reply is precise: "The merit a bodhisattva creates should not be clung to; therefore it is said they do not receive merit" — not that they do not act, but that they act without clinging. The one with the greatest merit is precisely the one who does not receive merit — this is the Reward Paradox: the reward is real (paratantra), but clinging to the reward invalidates it (parikalpita), and not clinging to the reward paradoxically actualizes the greatest reward (pariniṣpanna).
 
 **Seventh comparison (§32)** — the final comparison and the self-dismantling device:
 
@@ -114,9 +114,9 @@ More critically, the four words "bodhisattvas do not receive merit." Subhūti is
 
 §32 is the final merit comparison and the final teaching. Three escalations merit attention.
 
-First, the giving-scale reaches its series maximum — "immeasurable asaṃkhyeya worlds." The jewel-giving scale has expanded from §4's "trichiliocosm" through six escalations to "immeasurable × asaṃkhyeya × worlds" — completely beyond the boundaries of mathematics or imagination.
+First, the giving-scale reaches its series maximum — "immeasurable asaṃkhyeya worlds." The jewel-giving scale has expanded from §8's "trichiliocosm" through six escalations to "immeasurable × asaṃkhyeya × worlds" — completely beyond the boundaries of mathematics or imagination.
 
-Second, the dharma-offering condition gains a new requirement: "one who has aroused the bodhisattva-mind." This is the first time in the merit-comparison sequence that bodhicitta is explicitly required as a prerequisite. §4–§15's dharma-offering subject is "a good man or woman"; §32 elevates this to "one who has aroused the bodhisattva-mind" — dharma-offering requires not just behavior (upholding and reciting) but aspiration (bodhicitta).
+Second, the dharma-offering condition gains a new requirement: "one who has aroused the bodhisattva-mind." This is the first time in the merit-comparison sequence that bodhicitta is explicitly required as a prerequisite. §8–§15's dharma-offering subject is mostly "if there is a person" (only §11 has "a good man or woman"); §32 elevates this to "one who has aroused the bodhisattva-mind" — dharma-offering requires not just behavior (upholding and reciting) but aspiration (bodhicitta).
 
 Third, "How should one explain it? Without grasping at marks, with suchness unmoving" — the manner of teaching matters more than the content. Then the six similes close the sūtra: "All conditioned phenomena are like dreams, illusions, bubbles, shadows, like dew and like lightning."
 
@@ -126,7 +126,7 @@ The six similes are the self-dismantling device. "All conditioned phenomena" inc
 
 The term "merit" (*fúdé* 福德) in the Diamond Sūtra is not confined to the comparative framework — it is itself subjected to the *jífēi* structure. Four key formulations constitute a complete cognitive-praxis cycle.[^2][^13][^10][^14]
 
-The positive *jífēi*: "This merit is precisely non-merit in nature; therefore the Tathāgata says the merit is great" (§4) — merit has no intrinsic merit-nature; precisely because it lacks intrinsic nature, the Tathāgata can conventionally designate it as "great."
+The positive *jífēi*: "This merit is precisely non-merit in nature; therefore the Tathāgata says the merit is great" (§8) — merit has no intrinsic merit-nature; precisely because it lacks intrinsic nature, the Tathāgata can conventionally designate it as "great."
 
 The contrapositive: "If merit had substance, the Tathāgata would not say the merit is great; because merit has no [substance], the Tathāgata says the merit is great"[^13] — if merit possessed intrinsic nature, it could not be described as "great" (since intrinsically existent dharmas neither increase nor decrease). Because it is empty of intrinsic nature, it can be conventionally designated as "great."
 
@@ -136,11 +136,11 @@ The precursor form: "If a bodhisattva gives without abiding in marks, the merit 
 
 #### 2.3 The Terminological Distinction Between *Fúdé* and *Gōngdé*
 
-Throughout the sūtra, *fúdé* (福德, puṇya, quantifiable merit) appears approximately sixteen times; *gōngdé* (功德, guṇa, qualitative virtue) approximately seven times. Their distribution reveals a three-phase pattern[^15]:
+Throughout the sūtra, *fúdé* (福德, puṇya, quantifiable merit) appears eighteen times; *gōngdé* (功德, guṇa, qualitative virtue) eight times. Their distribution reveals a three-phase pattern[^15]:
 
 The first half (§3–§13) uses exclusively *fúdé* in the comparative framework — oriented toward quantifiable karmic reward. The transitional segment (§14–§16) sees a dense cluster of *gōngdé* praising the scripture-upholder — oriented toward non-quantifiable inner quality, as in "accomplishing the foremost and rarest virtue" and "inconceivable, immeasurable, boundless virtue." The second half (§17–§32) returns to *fúdé* but adds deconstruction — "if merit had substance," "does not receive merit."
 
-The pattern: wherever the comparative framework appears, *fúdé*; wherever the sūtra directly praises the inner qualities of upholding, *gōngdé*. The transitional segment (§14–§16) is the only *gōngdé*-dense passage in the entire sūtra — the turning point from comparative framework to direct praise — and it falls just before the §17 pivot, corroborating P07's dual-layer structural analysis.
+The general pattern: the comparative framework mostly uses *fúdé*; direct praise of the inner qualities of upholding mostly uses *gōngdé*. The exceptions are two places where *gōngdé* appears within the comparative framework: §16, "the virtue obtained, compared with the virtue of my offerings to the buddhas, is not a hundredth part" (所得功德，於我所供養諸佛功德，百分不及一), and §28, "this bodhisattva surpasses the virtue obtained by the former bodhisattva" (此菩薩勝前菩薩所得功德). The transitional segment (§14–§16) is the only *gōngdé*-dense passage in the entire sūtra — the turning point from comparative framework to direct praise — and it falls just before the §17 pivot, corroborating P07's dual-layer structural analysis.
 
 ### B. Treatise Sources
 
@@ -148,13 +148,13 @@ The pattern: wherever the comparative framework appears, *fúdé*; wherever the 
 
 Vasubandhu uses "doubt-resolution" (*chinna-saṃśaya*) as the structural framework for the Diamond Sūtra, with each merit comparison resolving a specific "variant doubt."
 
-For the first comparison at §4, Vasubandhu proposes a cause/fruit bifurcation[^16]:
+For the first comparison at §8, Vasubandhu cites a verse proposing a cause/fruit bifurcation[^16]:
 
 > "Merit does not advance toward bodhi; these two can advance toward bodhi."
 
 （「福不趣菩提，二能趣菩提。」）
 
-"Merit" (the karmic reward of jewel-giving) does not advance toward great bodhi — it possesses only "accumulative meaning" (like bearing a heavy load) but lacks "progressive meaning" (advancing toward bodhi). "These two" (upholding and expounding) do advance toward great bodhi. Furthermore, Vasubandhu distinguishes revealing-cause (*liǎoyīn*) from generative-cause (*shēngyīn*):
+"Merit" (the karmic reward of jewel-giving) does not advance toward great bodhi — it possesses only "accumulative meaning" (like bearing a heavy load) but lacks "progressive meaning" (advancing toward bodhi). "These two" (upholding and expounding) do advance toward great bodhi. Furthermore, Vasubandhu cites a further verse distinguishing revealing-cause (*liǎoyīn*) from generative-cause (*shēngyīn*):
 
 > "For the real, it is a revealing-cause; for the rest, a generative-cause."
 
@@ -162,7 +162,7 @@ For the first comparison at §4, Vasubandhu proposes a cause/fruit bifurcation[^
 
 Upholding and expounding serve as the revealing-cause of the dharmakāya (the dharmakāya is originally complete; upholding reveals it) and the generative-cause of the reward-body (marks and adornments arise through cultivation). Jewel-giving can only serve as a generative-cause (ripening conditioned results) but never as a revealing-cause (it cannot reveal the dharmakāya). This is the root mechanism of dharma-offering's superiority.
 
-For §28's "the bodhisattva does not receive merit," Vasubandhu's analysis is especially precise[^17]:
+For §28's "the bodhisattva does not receive merit," Vasubandhu's analysis is especially precise; he explains it with a verse[^17]:
 
 > "Receiving but not grasping" (*shòu bù qǔ*) — "receiving" acknowledges that merit exists (conventional truth); "grasping" means acting with attachment (pursuing conditioned fruition). The bodhisattva receives but does not grasp.
 
@@ -172,7 +172,7 @@ Vasubandhu further judges jewel-giving as a "cause of defiled afflictions" — "
 
 #### 2.5 Asaṅga — Dharma-Body, Receiving Without Grasping, Three Kinds of Giving
 
-Asaṅga uses "eighteen abiding-places" as the structural framework for the Diamond Sūtra. The merit comparisons fall within the "merit-mark dharma-body abiding-place"[^19]:
+Asaṅga uses "eighteen abiding-places" as the structural framework for the Diamond Sūtra. The merit comparisons fall under the "merit-mark dharma-body" within the fourth abiding-place, the "abiding-place of seeking to attain the dharma-body"[^19]:
 
 > "How does it show that the verbal dharma-body gives rise to the Tathāgata's merit-mark dharma-body? Even speaking a single four-line verse generates much merit."
 
@@ -180,7 +180,7 @@ Asaṅga uses "eighteen abiding-places" as the structural framework for the Diam
 
 Asaṅga also establishes the mapping of three kinds of giving onto the six pāramitās[^20]: material giving = *dāna-pāramitā*; fearlessness-giving = *śīla* + *kṣānti pāramitā*; dharma-giving = *vīrya* + *dhyāna* + *prajñā pāramitā*. Dharma-giving requires all three of the latter pāramitās — it is not merely the act of "teaching" but the crystallization of vigor, concentration, and wisdom working in concert.
 
-For §28, Asaṅga's interpretation is especially critical[^21]:
+For §28, Asaṅga's interpretation is especially critical[^21]. The sūtra text it comments on reads:
 
 > "The bodhisattva receives merit, does not grasp merit; therefore the bodhisattva obtains merit."
 
@@ -188,11 +188,11 @@ For §28, Asaṅga's interpretation is especially critical[^21]:
 
 "Receiving" means acknowledging existence at the conventional level; "grasping" means pursuing with a contaminated mind. The bodhisattva's skillful means is "receiving through expedience without grasping" — operating within conventional truth (receiving) without attachment at the ultimate level (not grasping).
 
-#### 2.6 Kuiji — Five-Tier Calibration and the Dharma-Body Criterion
+#### 2.6 Zixuan — Five-Tier Calibration and the Dharma-Body Criterion
 
-Kuiji organizes the merit comparisons into a "five-tier calibration"[^22]: external wealth small (§4) → external wealth large (§8) → internal wealth small (§11) → internal wealth large (§15) → buddha-cause (§16). Post-tier comparisons (§24, §28, §32) are classified as "special-purpose doubt-resolutions"[^23] — no longer part of the formal progression but each serving a unique doctrinal purpose.
+Zixuan organizes the merit comparisons into a "five-round calibration"[^22]: external wealth small (§8) → external wealth large (§11) → internal wealth small (§13) → internal wealth large (§15) → buddha-cause (§16). Post-tier comparisons (§24, §28, §32) are classified as special-purpose doubt-resolutions[^23] — no longer part of the formal progression but each serving a unique doctrinal purpose.
 
-Kuiji locates the root reason for dharma-offering's superiority in the quality of cause and fruit[^24]:
+Zixuan locates the root reason for dharma-offering's superiority in the quality of cause and fruit[^24]:
 
 > "Because the cause of upholding is superior, the fruit attains the dharma-body. Because the cause of jewel-giving is inferior, the fruit attains the form-body."
 
@@ -200,7 +200,7 @@ Kuiji locates the root reason for dharma-offering's superiority in the quality o
 
 "The dharma-body is the unconditioned, true nature; the form-body is the conditioned, shadow-like appearance." The ultimate criterion: "The root of superiority lies in nothing other than this gate — the ability to accomplish the pure dharma-body."[^25]
 
-Kuiji further summarizes §28's twofold adornment of the bodhisattva[^26]: "Wisdom is the true body; merit is the response-body" — true bodhi requires both adornments complete. "Merit cultivated with a non-self mind surpasses merit cultivated with a self-referential mind, because the former ultimately adorns the dharma-body without loss."
+Zixuan further summarizes §28's twofold adornment of the bodhisattva[^26]: "Wisdom is the true body; merit is the response-body" — true bodhi requires both adornments complete. "Merit cultivated with a non-self mind surpasses merit cultivated with a self-referential mind, because the former ultimately adorns the dharma-body without loss."
 
 ### C. Yogācāra Doctrinal Foundations
 
@@ -252,7 +252,7 @@ Why does dharma-offering surpass material giving? The *Cheng weishi lun*'s seed 
 
 Seeds are of two types[^33]: innate seeds (*běnyǒu zhǒng*) — "present since beginningless time in the maturation consciousness, existing by the nature of dharma"; and newly acquired seeds (*shǐqǐ zhǒng*) — "arising through repeated manifestation and perfuming." The theoretical basis for dharma-hearing planting wholesome roots: hearing dharma → perfuming → newly acquired seeds → strengthening innate seeds.
 
-More critically, the special mechanism of *śrutavāsanā* (hearing-perfuming)[^34]:
+More critically, the special mechanism of *śrutavāsanā* (hearing-perfuming)[^34]. The two passages below come from different places: the first belongs to the view "some hold that all seeds arise from perfuming" (有義：種子皆熏故生), which the treatise goes on to refute; the second belongs to the view "seeds are each of two kinds" (種子各有二類), the position the treatise adopts:
 
 > "Uncontaminated seeds also arise through perfuming. They are called hearing-perfuming because they are perfumed into arising through hearing the true dharma that flows equally from the pure dharma-realm, and because they constitute the seed-nature of the supramundane mind."
 >
@@ -260,7 +260,7 @@ More critically, the special mechanism of *śrutavāsanā* (hearing-perfuming)[^
 
 （「聞正法時亦熏本有無漏種子，令漸增盛，展轉乃至生出世心。」）
 
-The dual function of *śrutavāsanā*: contaminated hearing-perfuming — "producing superior maturation results, serving as a dominant condition for supramundane dharma"; uncontaminated hearing-perfuming — "perfuming and increasing innate uncontaminated seeds until they eventually generate the supramundane mind." Dharma-offering plants uncontaminated causal seeds; material giving can only produce contaminated maturation results.
+The dual function of *śrutavāsanā*: contaminated hearing-perfuming — "producing superior maturation results, serving as a dominant condition for supramundane dharma"; uncontaminated hearing-perfuming — "also perfuming the innate uncontaminated seeds, causing them to gradually increase, until they eventually give rise to the supramundane mind." Dharma-offering plants uncontaminated causal seeds (this is the author's interpretation); material giving can only produce contaminated maturation results.
 
 The *Cheng weishi lun* further distinguishes three types of habitual tendencies[^35]: conceptual-designation tendencies (*nāma-vāsanā*, the direct-cause seeds of all conditioned dharmas), self-grasping tendencies, and existence-link tendencies (*upapatti-vāsanā*, karmic seeds determining rebirth). Material giving primarily perfumes existence-link tendencies — producing superior maturation results (better rebirth conditions) but still within the three realms. Dharma-offering, in addition to perfuming existence-link tendencies, simultaneously perfumes conceptual-designation tendencies (seeds at the level of conceptual cognition) and uncontaminated seeds — this is the fundamental difference in seed quality.
 
@@ -302,15 +302,15 @@ The simplest definition of the two kinds of offering[^42]: "Material offering: t
 
 ### 3.1 The Recursive Structure of Merit Comparisons ✅
 
-The six merit comparisons are not six independent comparisons but a recursive structure — the same proposition is restated, but with each repetition the context has shifted, so the same proposition bears different doctrinal weight.
+The seven merit comparisons are not seven independent comparisons but a recursive structure — the same proposition is restated, but with each repetition the context has shifted, so the same proposition bears different doctrinal weight.
 
 The recursive pattern: giving-scale increases × dharma-offering threshold decreases × conclusion remains constant.
 
 | Section | Giving-Scale (Increasing) | Dharma-Offering (Threshold Decreasing) |
 |---------|--------------------------|---------------------------------------|
-| §4 | Trichiliocosm of jewels | Uphold four-line verse, explain to others |
-| §8 | Ganges-sand trichiliocosms of jewels | Uphold four-line verse, explain to others |
-| §11 | Ganges-sand bodies-and-lives | Uphold four-line verse, explain to others |
+| §8 | Trichiliocosm of jewels | Uphold four-line verse, explain to others |
+| §11 | Ganges-sand trichiliocosms of jewels | Uphold four-line verse, explain to others |
+| §13 | Ganges-sand bodies-and-lives | Uphold four-line verse, explain to others |
 | §15 | 3× daily, Ganges-sand bodies × immeasurable kalpas | Hear sūtra, unwavering faith |
 | §24 | Sumeru-heaps of jewels | Uphold four-line verse, explain to others |
 | §28 | Ganges-sand worlds of jewels | Know all dharmas non-self, attain patience |
@@ -322,7 +322,7 @@ The giving-scale expands from finite (trichiliocosm) to infinite (immeasurable a
 
 S5-P07 revealed the Diamond Sūtra's dual-layer structure with §17 as pivot. The merit comparisons confirm this framework through their qualitative shift between the two halves.
 
-The first-half comparisons (§4, §8, §11, §15) use external scales — quantity of jewels, number of bodies, length of time. The teaching purpose is to guide practitioners at the afflictive-obstruction level: what you consider most valuable (jewels) is worth less than what you consider most trivial (speaking a four-line verse). This is the first cut against the conceptual reification "wealth = merit."
+The first-half comparisons (§8, §11, §13, §15) use external scales — quantity of jewels, number of bodies, length of time. The teaching purpose is to guide practitioners at the afflictive-obstruction level: what you consider most valuable (jewels) is worth less than what you consider most trivial (speaking a four-line verse). This is the first cut against the conceptual reification "wealth = merit."
 
 The second-half comparisons (§24, §28, §32) undergo a fundamental shift in comparison-object. §28's victor is no longer "upholding a four-line verse" but "knowing all dharmas are non-self, attaining patience" — from doing to being. §32 requires "arousing the bodhisattva-mind" — from action to aspiration. More critically, §28's "the bodhisattva does not receive merit" deconstructs not merely material giving but the very judgment of "surpassing" itself. If the bodhisattva does not receive merit, does "dharma-offering has more merit" still hold? It does — but only at the conventional-truth pedagogical level. At the ultimate-truth level, even "much merit" is itself a conventional designation.
 
@@ -336,9 +336,9 @@ S5-P01 established the *jífēi*–trisvabhāva mapping framework. Applying this
 "Tathāgata says great"    → Pariniṣpanna establishment: knowing merit lacks self-nature, using the name rightly
 ```
 
-Kuiji's interpretation is direct: "This merit is separate from the intrinsic nature of merit; therefore it is called great"[^3] — precisely because merit is free from fixed self-nature can it be described as "great." This echoes P01's Pointing-at-the-Moon mapping: "X" = paratantra (the thing's actual mode of existence), "precisely non-X" = negating parikalpita (the reified entity you imagine does not exist), "is named X" = pariniṣpanna establishment (the name no longer binds).
+Zongle and Ruqi's interpretation is direct: "This merit is separate from the intrinsic nature of merit; therefore it is called great"[^3] — precisely because merit is free from fixed self-nature can it be described as "great." This echoes P01's Pointing-at-the-Moon mapping: "X" = paratantra (the thing's actual mode of existence), "precisely non-X" = negating parikalpita (the reified entity you imagine does not exist), "is named X" = pariniṣpanna establishment (the name no longer binds).
 
-The *jífēi* structure of merit has a particularly refined feature: it itself recurses. §4's *jífēi* ("this merit is precisely non-merit in nature") is epistemological — informing you that merit lacks self-nature. §28's *jífēi* ("does not receive merit") is praxiological — requiring you to act without attachment. §32's six similes are ontological — all conditioned dharmas (including merit) are like dreams, illusions, bubbles, shadows. Epistemology → praxis → ontology: the *jífēi* structure completes three levels of progression on the theme of merit.
+The *jífēi* structure of merit has a particularly refined feature: it itself recurses. §8's *jífēi* ("this merit is precisely non-merit in nature") is epistemological — informing you that merit lacks self-nature. §28's *jífēi* ("does not receive merit") is praxiological — requiring you to act without attachment. §32's six similes are ontological — all conditioned dharmas (including merit) are like dreams, illusions, bubbles, shadows. Epistemology → praxis → ontology: the *jífēi* structure completes three levels of progression on the theme of merit.
 
 ### 3.4 The Positive Transformation of *Chanda*: From Ordinary Desire to Wholesome Aspiration to the Emptiness of Aspiration
 
@@ -356,7 +356,7 @@ Stage three: the emptiness of aspiration itself. The six similes close the arc �
 
 ### 3.5 The Yogācāra Mechanism: Seed Quality Difference Between Material and Dharma Giving
 
-Why does dharma-offering surpass material giving? Vasubandhu answers from the fruit perspective: "merit does not advance toward bodhi"[^16]. Kuiji answers from the cause perspective: "the cause of upholding is superior, hence the fruit attains the dharma-body"[^24]. But neither deploys seed theory for a precise mechanistic explanation.
+Why does dharma-offering surpass material giving? Vasubandhu, citing a verse, answers from the fruit perspective: "merit does not advance toward bodhi"[^16]. Zixuan answers from the cause perspective: "the cause of upholding is superior, hence the fruit attains the dharma-body"[^24]. But neither deploys seed theory for a precise mechanistic explanation.
 
 The *Cheng weishi lun*'s seed theory provides this explanation. The three types of habitual tendencies[^35] — conceptual-designation, self-grasping, and existence-link — constitute the seed-classification of all conditioned dharmas. Material giving primarily perfumes existence-link tendencies (karmic seeds), producing maturation results within the three realms — better rebirth conditions, more material resources — but still within saṃsāra, still fuel for the cycle. Vasubandhu's judgment that jewel-giving is "a cause of defiled afflictions"[^18] is precisely because its maturation results sustain the field in which afflictions operate.
 
@@ -378,7 +378,7 @@ The *Avataṃsaka Sūtra* lists "observing that sentient beings lack wholesome a
 
 §28 is the most tension-laden passage in the entire merit-comparison sequence. It manufactures a paradox: the one with the greatest merit (the bodhisattva who knows all dharmas are non-self) is precisely the one who does not receive merit.
 
-The Reward Paradox works as follows: The Buddha repeatedly says "much merit," guiding practitioners to generate wholesome aspiration. This is the first layer of teaching — using reward to guide behavior. But at §28, the Buddha reveals the second layer: the one who genuinely attains the greatest "merit" is precisely the one who does not care about merit. Vasubandhu's "receiving without grasping"[^17] precisely disassembles this paradox: "receiving" = acknowledging merit's existence (conventional truth); "grasping" = acting with attachment (parikalpita). The bodhisattva receives without grasping — rightly using the reward mechanism within conventional truth (paratantra) while not attaching to the reward at the ultimate level (pariniṣpanna).
+The Reward Paradox works as follows: The Buddha repeatedly says "much merit," guiding practitioners to generate wholesome aspiration. This is the first layer of teaching — using reward to guide behavior. But at §28, the Buddha reveals the second layer: the one who genuinely attains the greatest "merit" is precisely the one who does not care about merit. The verse Vasubandhu cites — "receiving without grasping"[^17] — precisely disassembles this paradox: "receiving" = acknowledging merit's existence (conventional truth); "grasping" = acting with attachment (parikalpita). The bodhisattva receives without grasping — rightly using the reward mechanism within conventional truth (paratantra) while not attaching to the reward at the ultimate level (pariniṣpanna).
 
 The Reward Paradox functions as self-calibration. If upon reading §28 you think, "Good, I too shall achieve non-receiving of merit" — this very "wanting to not-receive" is itself parikalpita. P02's kōan-mirror operates here again: your reaction upon reading "does not receive merit" is the self-portrait you hand to the mirror. You want to "imitate" non-receiving — the mirror reveals you remain at the parikalpita level. Whether you receive or not is not something you can decide — it is a cognitive transformation that occurs naturally when practice matures.
 
@@ -422,7 +422,7 @@ Gamification is a common strategy in modern learning design — using points, ba
 
 The Diamond Sūtra's pedagogical arc is structurally similar to a gamification system with a built-in self-dismantling mechanism: six comparisons = six point notifications ("Much merit!"); §32 six similes = system self-destruct ("All conditioned phenomena are like dreams and illusions" = even the points system is part of the game).
 
-Boundaries of this analogy ⚠️: gamification design aims to build "autonomous behavior," presupposing the agent's "autonomy" as the ultimate goal. The Diamond Sūtra's teaching goal is not to build an "autonomous practitioner" — what it ultimately deconstructs is precisely the self-identity "I am a practitioner" (P07, Vasubandhu: "harboring 'I am a bodhisattva' — this itself obstructs the mind"). Gamification stops at "good player"; the Diamond Sūtra's goal is "releasing even the player-identity."
+Boundaries of this analogy ⚠️: gamification design aims to build "autonomous behavior," presupposing the agent's "autonomy" as the ultimate goal. The Diamond Sūtra's teaching goal is not to build an "autonomous practitioner" — what it ultimately deconstructs is precisely the self-identity "I am a practitioner" (P07: the verse recorded in the T1511 treatise, "harboring 'I am a bodhisattva' — this itself obstructs the mind," ascribed to Asaṅga in T1513/T1514). Gamification stops at "good player"; the Diamond Sūtra's goal is "releasing even the player-identity."
 
 ---
 
@@ -462,7 +462,7 @@ If you are still in the water (still attached to jewels as the ultimate value), 
 
 This paper's argument can be summarized in five points.
 
-First, the six merit comparisons throughout the Diamond Sūtra constitute a recursive structure — giving-scale increases, dharma-offering threshold decreases, conclusion remains constant — each repetition cutting a different layer of attachment in a different context. Vasubandhu's "similar in phrasing but different in meaning" is the most precise description of this structure.
+First, the seven merit comparisons of the Diamond Sūtra examined here constitute a recursive structure — giving-scale increases, dharma-offering threshold decreases, conclusion remains constant — each repetition cutting a different layer of attachment in a different context. The *Jingang xian lun*'s "similar in phrasing but different in meaning" is the most precise description of this structure.
 
 Second, the merit comparisons serve different teaching functions in P07's dual-layer structure: the first half uses external scales (quantity of jewels) to guide at the afflictive-obstruction level — cutting the conceptual reification "wealth = merit"; the second half uses internal scales (non-self patience, bodhicitta) to guide at the cognitive-obstruction level — cutting the conceptual reification "dharma-offering scores higher." The merit comparisons are the dashboard measuring the entire sūtra's pedagogical progress.
 
@@ -476,7 +476,7 @@ Fifth, §28's "the bodhisattva does not receive merit" constitutes the climax of
 
 This paper has extracted from the merit comparisons' pedagogical arc two threads — "wholesome aspiration transformation" and "the Reward Paradox" — leaving open questions for subsequent papers.
 
-S5-P06 will analyze "abiding nowhere, yet giving rise to the mind" (§10) — "giving without abiding in marks" is precisely the heart-practice foundation of the merit comparisons, and "non-abiding" is the daily-life operation of "not receiving merit." §10 appears in the merit-comparison context (§10's "adorning the buddha-land" section immediately follows §8's merit comparison), and their relationship warrants further investigation.
+S5-P06 will analyze "abiding nowhere, yet giving rise to the mind" (§10) — "giving without abiding in marks" is precisely the heart-practice foundation of the merit comparisons, and "non-abiding" is the daily-life operation of "not receiving merit." §10 appears in the merit-comparison context (§10's "adorning the buddha-land" section follows §8's merit comparison, with §9 "one mark, no mark" in between), and their relationship warrants further investigation.
 
 S5-P09 will analyze the §32 six similes — this paper has touched on the similes' function as a self-dismantling device; P09 will unfold the similes' own doctrinal structure. The six similes are not merely the merit comparisons' closure but the entire sūtra's closure — their full significance as the sūtra's self-dismantling device extends beyond the scope of merit comparisons alone.
 
@@ -492,10 +492,11 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 - *Avataṃsaka Sūtra* (大方廣佛華嚴經), trans. Śikṣānanda, T10, No. 279.
 - *Vajracchedikā-prajñāpāramitopadeśa* (金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, T25, No. 1511.
 - *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), by Asaṅga, trans. Dharmagupta, T25, No. 1510b.
+- *Jingang xian lun* (金剛仙論), trans. Bodhiruci (no author named at the head of the text), T25, No. 1512.
 - *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
 - *Vijñaptimātratāsiddhi-śāstra* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
 - Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
-- Kuiji, *Vajracchedikā-prajñāpāramitā-sūtra-praśastā* (金剛般若經贊述), T33, No. 1700.
+- Zongle and Ruqi, *Jingang bore boluomi jing zhujie* (金剛般若波羅蜜經註解), T33, No. 1703.
 
 ### II. Sūtra & Śāstra Index
 
@@ -510,7 +511,8 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 | 7 | Yogācārabhūmi | Yogācārabhūmi-śāstra | T30, No. 1579 | Fasc. 21, 44, 68, 70, 88 |
 | 8 | Cheng weishi lun | Vijñaptimātratāsiddhi | T31, No. 1585 | Fasc. 2, 5, 7, 8, 9 |
 | 9 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fasc. 4, 5, 7 |
-| 10 | Kuiji's Praśastā | Vajracchedikā Praśastā | T33, No. 1700 | Fasc. 1 |
+| 10 | Zongle & Ruqi's Commentary | Jingang bore boluomi jing zhujie | T33, No. 1703 | Fasc. 1 |
+| 11 | Jingang xian lun | Jingang xian lun (trans. Bodhiruci) | T25, No. 1512 | Fasc. 9 |
 
 ---
 
@@ -531,17 +533,17 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 
 ## Footnotes
 
-[^1]: *Vajracchedikā-upadeśa*, fasc. 2, "The phrasing is similar but the meaning differs; therefore it is not repetition" (此乃文句相似而義有別，故非重也), Vasubandhu's analysis of the recurring merit comparisons, T25, No. 1511.
+[^1]: *Jingang xian lun* (金剛仙論), fasc. 9, "The phrasing is similar but the meaning differs; therefore it is not repetition" (此乃文句相似而義有別，故非重也) (0860a13–a14), on the recurring merit comparisons, trans. Bodhiruci, T25, No. 1512. T1512 names no author at its head; the *Kaiyuan shijiao lu* (開元釋教錄), fascicle 12, describes it as a commentary on Vasubandhu's treatise composed by the Yuan-Wei Tripiṭaka master Bodhiruci (T55, No. 2154, 0607b18–b19) — it is not Vasubandhu's work.
 
-[^2]: *Vajracchedikā Sūtra* §4, first merit comparison — trichiliocosm of jewels vs. upholding a four-line verse (若人滿三千大千世界七寶以用布施……是福德即非福德性……一切諸佛及諸佛阿耨多羅三藐三菩提法皆從此經出), T08, No. 235.
+[^2]: *Vajracchedikā Sūtra* §8, first merit comparison — trichiliocosm of jewels vs. upholding a four-line verse (若人滿三千大千世界七寶以用布施……是福德即非福德性……一切諸佛及諸佛阿耨多羅三藐三菩提法皆從此經出), T08, No. 235.
 
-[^3]: Kuiji, *Vajracchedikā Praśastā*, fasc. 1, "This merit is separate from the intrinsic nature of merit; therefore it is called great" (蓋此福德離福德自性，故言多也), T33, No. 1700.
+[^3]: Zongle and Ruqi, *Jingang bore boluomi jing zhujie* (金剛般若波羅蜜經註解), fasc. 1, "This merit is separate from the intrinsic nature of merit; therefore it is called great" (蓋此福德離福德自性，故言多也) (0230c13–c14), T33, No. 1703.
 
-[^4]: *Vajracchedikā Sūtra* §8, second merit comparison — Ganges-sand trichiliocosms of jewels vs. upholding a four-line verse, T08, No. 235.
+[^4]: *Vajracchedikā Sūtra* §11, second merit comparison — Ganges-sand trichiliocosms of jewels vs. upholding a four-line verse, T08, No. 235.
 
-[^5]: *Vajracchedikā Sūtra* §8, "Wherever this sūtra is spoken… there is the Buddha" (隨說是經……則為有佛), T08, No. 235.
+[^5]: *Vajracchedikā Sūtra* §12, "Wherever this sūtra is spoken… there is the Buddha" (隨說是經……則為有佛), T08, No. 235.
 
-[^6]: *Vajracchedikā Sūtra* §11, third merit comparison — Ganges-sand bodies-and-lives vs. upholding a four-line verse, T08, No. 235.
+[^6]: *Vajracchedikā Sūtra* §13, third merit comparison — Ganges-sand bodies-and-lives vs. upholding a four-line verse, T08, No. 235.
 
 [^7]: *Vajracchedikā Sūtra* §15, fourth merit comparison — three-times-daily Ganges-sand bodily giving for immeasurable kalpas vs. unwavering faith, T08, No. 235.
 
@@ -559,19 +561,19 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 
 [^14]: *Vajracchedikā Sūtra* §4, "If a bodhisattva gives without abiding in marks, the merit is immeasurable" (不住相布施，其福德不可思量), space analogy, T08, No. 235.
 
-[^15]: Statistical analysis and three-phase distribution of *fúdé* (~16 occurrences) and *gōngdé* (~7 occurrences) based on line-by-line marking of T08, No. 235.
+[^15]: Statistical analysis and three-phase distribution of *fúdé* (18 occurrences) and *gōngdé* (8 occurrences) based on line-by-line marking of T08, No. 235.
 
-[^16]: *Vajracchedikā-upadeśa*, fasc. 1, "Merit does not advance toward bodhi; these two can advance toward bodhi" (福不趣菩提，二能趣菩提); "For the real, a revealing-cause; for the rest, a generative-cause" (於實名了因，亦為餘生因), T25, No. 1511.
+[^16]: *Vajracchedikā-upadeśa*, fasc. 1, "Merit does not advance toward bodhi; these two can advance toward bodhi" (福不趣菩提，二能趣菩提); "For the real, a revealing-cause; for the rest, a generative-cause" (於實名了因，亦為餘生因) — verses recorded in the treatise (ascribed to Asaṅga in T1513/T1514), T25, No. 1511.
 
-[^17]: *Vajracchedikā-upadeśa*, fasc. 3, "Not losing the cause of merit, nor its superior fruition… this merit has no [conditioned] reward — thus receiving without grasping" (是福德無報，如是受不取), T25, No. 1511.
+[^17]: *Vajracchedikā-upadeśa*, fasc. 3, "Not losing the cause of merit, nor its superior fruition… this merit has no [conditioned] reward — thus receiving without grasping" (是福德無報，如是受不取) — a verse recorded in the treatise (ascribed to Asaṅga in T1513/T1514), T25, No. 1511.
 
 [^18]: *Vajracchedikā-upadeśa*, fasc. 2, "The merit from jewel-giving is a cause of defiled afflictions, because it can sustain the conditions for afflictions" (彼珍寶布施福德是染煩惱因，以能成就煩惱事故), T25, No. 1511.
 
-[^19]: *Vajracchedikā-śāstra* (Asaṅga), fasc. 1, "merit-mark dharma-body abiding-place" (福相法身住處), T25, No. 1510b.
+[^19]: *Vajracchedikā-śāstra* (Asaṅga), fasc. 1, "below is the fourth, the abiding-place of seeking to attain the dharma-body" (此下第四為欲得法身住處) (0770a09); "below is the merit-mark dharma-body: for the sake of the abiding-place of attaining the dharma-body through the merit-mark" (此下福相法身。為欲得福相至得法身住處故) (0771a18–a19), the placement of the merit comparisons within Asaṅga's eighteen abiding-places, T25, No. 1510b.
 
 [^20]: *Vajracchedikā-śāstra* (Asaṅga), fasc. 1, three kinds of giving mapped onto six pāramitās (檀那有三種：一資生施……三法施者，謂毘梨耶波羅蜜、禪那波羅蜜、般若波羅蜜等), T25, No. 1510b.
 
-[^21]: *Vajracchedikā-śāstra* (Asaṅga), fasc. 3, "The bodhisattva receives merit, does not grasp merit; therefore the bodhisattva obtains merit" (菩薩受福德，不取福德，是故菩薩取福德); "receiving through expedience without grasping" (以方便應受，而不應取), T25, No. 1510b.
+[^21]: *Vajracchedikā-śāstra* (Asaṅga), fasc. 3, the sūtra text the treatise cites, "The bodhisattva receives merit, does not grasp merit; therefore the bodhisattva obtains merit" (菩薩受福德，不取福德，是故菩薩取福德) (0779b18; the same in T08, No. 236a, 0756c06–c07); the treatise's own comment, "receiving through expedience without grasping" (以方便應受，而不應取) (0779c12), T25, No. 1510b.
 
 [^22]: Zixuan, *Jingang jing zuanyao kanding ji*, fasc. 5, "Five-tier calibration: external wealth twice, internal wealth twice, buddha-cause once" (始自第三乃至第十，邐迤次第五度校量，謂外財兩度、內財兩度、佛因一度), T33, No. 1702.
 
@@ -597,7 +599,7 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 
 [^33]: *Cheng weishi lun*, fasc. 2, innate seeds and newly acquired seeds — "existing by the nature of dharma" vs. "arising through repeated manifestation and perfuming" (法爾而有 vs. 數數現行熏習而有), T31, No. 1585.
 
-[^34]: *Cheng weishi lun*, fasc. 2, "When hearing the true dharma, one also perfumes innate uncontaminated seeds, causing them to gradually increase until they eventually generate the supramundane mind" (聞正法時亦熏本有無漏種子，令漸增盛，展轉乃至生出世心), T31, No. 1585.
+[^34]: *Cheng weishi lun*, fasc. 2. The first passage, "Uncontaminated seeds also arise through perfuming … the seed-nature of the supramundane mind" (無漏種生亦由熏習……是出世心種子性故) (0008b13–b15), belongs to the view "some hold that all seeds arise from perfuming" (有義：種子皆熏故生) (0008b06–b07), which the treatise refutes (0008c15–c16: 若唯始起，有為無漏無因緣故，應不得生); the second, "When hearing the true dharma, one also perfumes innate uncontaminated seeds, causing them to gradually increase until they eventually generate the supramundane mind" (聞正法時亦熏本有無漏種子，令漸增盛，展轉乃至生出世心) (0009a14–a16), belongs to the view "seeds are each of two kinds" (種子各有二類) (0008b23), T31, No. 1585.
 
 [^35]: *Cheng weishi lun*, fasc. 8, three types of habitual tendencies — conceptual-designation, self-grasping, and existence-link tendencies (名言習氣、我執習氣、有支習氣), T31, No. 1585.
 

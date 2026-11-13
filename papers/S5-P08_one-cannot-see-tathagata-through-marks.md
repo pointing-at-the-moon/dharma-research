@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P08"
 paper_number: 8
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # One Cannot See the Tathāgata Through Marks
@@ -16,7 +16,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Diamond Sūtra asks four times whether the Tathāgata can be seen through marks, and each time the Buddha negates at a different level. This paper focuses on the reductio ad absurdum of §26 — "if one could observe the Tathāgata through the thirty-two marks, then a wheel-turning sage king would be a Tathāgata" — arguing it delivers the sūtra's sharpest cut: even the Buddha's thirty-two excellent marks cannot serve as the basis for seeing the Tathāgata. Yet the Diamond Sūtra does not stop at negation. §5's positive thesis — "if one sees that all marks are non-marks, then one sees the Tathāgata" — reveals that seeing the Tathāgata is not perceiving a form-body with the eyes but realizing the true nature of all dharmas through prajñā wisdom. Drawing on the *Cheng weishi lun*'s (T1585) trikāya doctrine and "five dharmas as nature," this paper demonstrates that the dharma-body is "apart from marks, quiescent, beyond all discursive elaboration, and cannot be spoken of as form or mind." Cross-sūtra evidence from the *Śūraṅgama Sūtra*'s (T0945) "when seeing sees seeing, that seeing is not seeing" and the *Vimalakīrti Sūtra*'s (T0475) "I observe the Tathāgata with no observation whatsoever — such is true observation" confirms the epistemological structure: the nature of seeing cannot be reached by what is seen. Kuiji's *Zànshù* (T1700) identifies the thirty-two marks as reflections projected by mirror-wisdom — conditioned images subject to the four marks of impermanence. Vasubandhu's *Vajracchedikā-śāstra* (T1511) further refutes the subtle dharma-attachment of inferring the dharma-body through observed marks. This paper locates the theme within S5-P07's dual-layer structure: §5/§20 in the first half deconstructs the form-body (coarse), §26 in the second half deconstructs the thirty-two marks (subtle) — the same thesis unfolded at two depths, calling back to S1-P02's argument that the dharma-body transcends the three times.
+The Diamond Sūtra asks four times whether the Tathāgata can be seen through marks, and each time the Buddha negates at a different level. This paper focuses on the reductio ad absurdum of §26 — "if one could observe the Tathāgata through the thirty-two marks, then a wheel-turning sage king would be a Tathāgata" — arguing it delivers the sūtra's sharpest cut: even the Buddha's thirty-two excellent marks cannot serve as the basis for seeing the Tathāgata. Yet the Diamond Sūtra does not stop at negation. §5's positive thesis — "if one sees that all marks are non-marks, then one sees the Tathāgata" — reveals that seeing the Tathāgata is not perceiving a form-body with the eyes but realizing the true nature of all dharmas through prajñā wisdom. Drawing on the *Cheng weishi lun*'s (T1585) trikāya doctrine and "five dharmas as nature," this paper demonstrates that the dharma-body is "apart from marks, quiescent, beyond all discursive elaboration ... cannot be spoken of as form or mind." Cross-sūtra evidence from the *Śūraṅgama Sūtra*'s (T0945) "when seeing sees seeing, that seeing is not seeing" and the *Vimalakīrti Sūtra*'s Xuanzang translation (T0476) "I observe the Tathāgata with no observation whatsoever — such is true observation" confirms the epistemological structure: the nature of seeing cannot be reached by what is seen. Zixuan's *Kāndìng jì* (T1702) identifies the thirty-two marks as reflections projected by mirror-wisdom — conditioned images subject to the four marks of impermanence. Vasubandhu's *Vajracchedikā-śāstra* (T1511) further refutes the subtle dharma-attachment of inferring the Tathāgata's dharma-body through observed marks. This paper locates the theme within S5-P07's dual-layer structure: §5 in the first half deconstructs the form-body (coarse), §26 in the second half deconstructs the thirty-two marks (subtle; §20 also falls in the second half) — the same thesis unfolded at two depths, calling back to S1-P02's argument that the dharma-body transcends the three times.
 
 **Keywords:** Diamond Sūtra, thirty-two marks, dharmakāya, reductio ad absurdum, prajñā realization, trikāya, five dharmas as nature, seeing-nature is not seeing, non-duality | 金剛經、三十二相、法身、歸謬法、般若證見、三身論、五法為性、見性非見、不二法門
 
@@ -30,7 +30,7 @@ S5-P06 demonstrated how to generate mind without abiding in marks (*yīng wú su
 
 The Diamond Sūtra gives an unequivocal answer: you see the Tathāgata. But not through the kind of "seeing" that involves eyes.
 
-This question runs through the entire sūtra. The Buddha asks Subhūti four times whether the Tathāgata can be seen through marks, and each time the context, object, and level of negation differ. Kuiji, in his *Commentary on the Diamond Prajñāpāramitā Sūtra* (*Zànshù*), provides a precise summary[^1]:
+This question runs through the entire sūtra. The Buddha asks Subhūti four times whether the Tathāgata can be seen through marks, and each time the context, object, and level of negation differ. Zixuan, in his *Kāndìng jì*, provides a precise summary[^1]:
 
 > 第一第七第十七及此一段，皆云不以相見如來者，義意皆別。初以對果疑因，次明感果離相，次說依真現假，後明約假求真。
 >
@@ -38,7 +38,7 @@ This question runs through the entire sūtra. The Buddha asks Subhūti four time
 
 Four passes, four levels of depth — from "seeing the fruit and doubting the cause" to "using provisional marks to infer the real dharma-body." This paper focuses on the fourth level: the reductio of §26. If one can observe the Tathāgata through the thirty-two marks, then a wheel-turning sage king — who also possesses the thirty-two marks — would be a Tathāgata. This is the sūtra's sharpest and most unexpected cut.
 
-Unexpected because Subhūti gets it wrong.
+Unexpected because Subhūti gets it wrong (reading this answer as a mistake is the author's interpretation).
 
 In §13, asked the same question, Subhūti answers correctly: "No, World-Honored One."[^8] In §26, the same question returns, and Subhūti answers: "Yes, yes — one may observe the Tathāgata through the thirty-two marks."[^2] A great arhat who has listened to twenty-five sections of teaching — why does he stumble here?
 
@@ -53,11 +53,11 @@ This is the eighth paper in the S5 series. Together with S5-P03 ("All marks are 
 Within P07's dual-layer framework, this paper's sūtra anchors span both halves:
 
 - **First half**: §5 — "All marks are illusory; if one sees that all marks are non-marks, then one sees the Tathāgata" — deconstructing the form-body, positive thesis
-- **First half**: §20 — "The Tathāgata should not be seen through the complete form-body… should not be seen through complete marks" — direct negation
+- **Second half**: §20 — "The Tathāgata should not be seen through the complete form-body… should not be seen through complete marks" — direct negation
 - **Second half**: §26 — "If one observed the Tathāgata through the thirty-two marks, a wheel-turning sage king would be a Tathāgata" — reductio
 - **Second half**: §26 verse — "If one sees me through form, seeks me through sound, this person walks a deviant path and cannot see the Tathāgata" — final negation
 
-The first half deconstructs "seeing the Buddha through the form-body" (coarse); the second half deconstructs "seeing the Buddha through the thirty-two marks" (subtle). The latter is more insidious, because the thirty-two marks are the Buddha's distinctive excellences — not ordinary form — yet they are still marks.
+The first half deconstructs "seeing the Buddha through the form-body" (coarse); the second half deconstructs "seeing the Buddha through the thirty-two marks" (subtle). The latter is more insidious, because the thirty-two marks are the Buddha's excellent marks (which a wheel-turning king also possesses) — not ordinary form — yet they are still marks.
 
 ---
 
@@ -73,7 +73,7 @@ The complete exchange in §26, the "Section on the Dharma-Body Being Beyond Mark
 >
 > "Subhūti, what do you think — can one observe the Tathāgata through the thirty-two marks?" Subhūti said: "Yes, yes — through the thirty-two marks one observes the Tathāgata." The Buddha said: "Subhūti, if one could observe the Tathāgata through the thirty-two marks, then a wheel-turning sage king would be a Tathāgata." Subhūti addressed the Buddha: "World-Honored One, as I understand the meaning of what you have spoken, one should not observe the Tathāgata through the thirty-two marks."
 
-Subhūti first answers incorrectly ("yes"), then the Buddha corrects through reductio: if premise P (the Tathāgata can be observed through the thirty-two marks) holds, then conclusion C (a wheel-turning sage king would be a Tathāgata) must also hold — but C is manifestly absurd, so P is falsified. Subhūti immediately revises his position.
+Subhūti first answers incorrectly ("yes"), then the Buddha corrects through reductio: if premise P (the Tathāgata can be observed through the thirty-two marks) holds, then conclusion C (a wheel-turning sage king would be a Tathāgata) must also hold — but C is manifestly absurd, so P is falsified. Subhūti immediately revises his position. (Reading this answer as a mistake is the author's interpretation.)
 
 The Buddha then delivers the concluding verse[^3]:
 
@@ -109,13 +109,13 @@ The negation extends from the thirty-two marks to all form and sound — any att
 
 #### 2.3 §20 and §13 — First-Half and Second-Half Parallels
 
-§20, in the first half, poses a question parallel to §26 but deploys the *jífēi* tripartite formula[^6]:
+§20, in the second half, poses a question parallel to §26 but deploys the *jífēi* tripartite formula[^6]:
 
 > 佛可以具足色身見不？」「不也，世尊！如來不應以具足色身見。何以故？如來說具足色身，即非具足色身，是名具足色身。
 >
 > "Can the Buddha be seen through the complete form-body?" "No, World-Honored One. The Tathāgata should not be seen through the complete form-body. Why? What the Tathāgata calls the 'complete form-body' is precisely not the complete form-body — it is called 'the complete form-body.'"
 
-§13 handles "body-marks" (*shēn xiāng*) with a two-part formula — without the third "is called" element[^7]:
+§5 handles "body-marks" (*shēn xiāng*) with a two-part formula — without the third "is called" element[^7]:
 
 > 如來所說身相，即非身相。
 >
@@ -123,7 +123,7 @@ The negation extends from the thirty-two marks to all form and sound — any att
 
 This is the *jífēi* structure applied directly to "body-marks," as analyzed in S5-P01. The absence of the "is called" third segment leaves the listener suspended in negation — the Buddha does not rush to say what body-marks *are*.
 
-And in §13, Subhūti answers "No" correctly when asked whether the Tathāgata can be seen through the thirty-two marks[^8]. In §26, faced with the same question, he answers "Yes" — incorrectly. The contrast between the two responses maps precisely onto P07's dual-layer structure: the first-half understanding (marks ≠ Tathāgata) is easy; what the second half must deconstruct is the subtler attachment that persists *after* understanding.
+In §13, Subhūti answers "No" correctly when asked whether the Tathāgata can be seen through the thirty-two marks[^8]. In §26, faced with the same question, he answers "Yes" — incorrectly. The contrast between the two responses maps precisely onto P07's dual-layer structure: the first-half understanding (marks ≠ Tathāgata) is easy; what the second half must deconstruct is the subtler attachment that persists *after* understanding.
 
 #### 2.4 The Śūraṅgama Sūtra — Seeing-Nature Is Not Seeing
 
@@ -153,9 +153,9 @@ Further, the Buddha states[^11]:
 
 The seeing-essence does not age with the face. What wrinkles is phenomena; what does not wrinkle is the nature. This resonates perfectly with the dharma-body thesis: the thirty-two marks change (conditioned, subject to the four marks of impermanence), but the dharma-body does not change (unconditioned, beyond the three times).
 
-#### 2.5 The Vimalakīrti Sūtra — Observing the Tathāgata
+#### 2.5 The Vimalakīrti Sūtra — Seeing Akṣobhya Buddha
 
-In the "Observing the Tathāgata" chapter of the *Vimalakīrti Nirdeśa Sūtra*, the Buddha asks Vimalakīrti how he observes the Tathāgata. Vimalakīrti responds[^12]:
+In the "Seeing Akṣobhya Buddha" chapter of the *Vimalakīrti Nirdeśa Sūtra*, the Buddha asks Vimalakīrti how he observes the Tathāgata. Vimalakīrti responds[^12]:
 
 > 如自觀身實相，觀佛亦然。我觀如來前際不來，後際不去，今則不住；不觀色……不可以智知，不可以識識……無生無滅……作如是觀，以斯觀者，名為正觀；若他觀者，名為邪觀。
 >
@@ -201,7 +201,7 @@ The same sūtra's fascicle 4 clarifies the cognitive basis through the five dhar
 >
 > "Through this right wisdom, one does not establish names and marks… Knowing that names and marks do not arise — this is called suchness."
 
-Name, mark, and false discrimination constitute the structure of the imagined nature. Right wisdom (*samyag-jñāna*) and suchness (*tathatā*) constitute the perfected nature. "Seeing the Tathāgata" does not proceed through names and marks but through right wisdom and suchness.
+Name and mark the sūtra classes as the nature of false discrimination (the imagined nature); the mind and mental factors arising in dependence on false discrimination it classes as the dependently arisen nature; right wisdom (*samyag-jñāna*) and suchness (*tathatā*), being indestructible, constitute the perfected nature. "Seeing the Tathāgata" does not proceed through names and marks but through right wisdom and suchness.
 
 ### B. Treatise Sources
 
@@ -221,7 +221,7 @@ The trikāya distinction is critical[^18]:
 >
 > "The self-nature dharma-body, though possessing truly real and boundless merits, being unconditioned, *cannot be spoken of as form, mind, or any such thing*. Among the four wisdoms' genuine merits: mirror-wisdom gives rise to the constant, pervasive form-body — subsumed under self-enjoyment. Equality-wisdom manifests Buddha-bodies — subsumed under other-enjoyment. Accomplishing-wisdom manifests various bodies according to type — subsumed under the transformation-body."
 
-The key phrase is "cannot be spoken of as form, mind, or any such thing" (*bù kě shuō wéi sè xīn děng wù*). The dharma-body is neither form-dharma (*rūpa*) nor mind-dharma (*citta*). It falls outside every category in the Yogācāra taxonomy of one hundred dharmas. The thirty-two marks are merely reflections "given rise to by mirror-wisdom" — conditioned form-bodies in the domain of the enjoyment-body or transformation-body, not the dharma-body.
+The key phrase is "cannot be spoken of as form, mind, or any such thing" (*bù kě shuō wéi sè xīn děng wù*). The dharma-body is neither form-dharma (*rūpa*) nor mind-dharma (*citta*). It falls outside the conditioned categories of the Yogācāra taxonomy of one hundred dharmas (whose fifth class, the unconditioned, lists "suchness unconditioned"). The thirty-two marks are merely reflections "given rise to by mirror-wisdom" — conditioned form-bodies in the domain of the enjoyment-body or transformation-body, not the dharma-body.
 
 The four wisdoms are defined respectively[^19]: great mirror-wisdom (*ādarśa-jñāna*) is free from all discrimination and "can manifest and generate reflections of bodies, lands, and wisdoms"; equality-wisdom (*samatā-jñāna*) observes all dharmas and beings as equal; profound-observation-wisdom (*pratyavekṣaṇā-jñāna*) skillfully observes the specific and shared marks of all dharmas; accomplishing-wisdom (*kṛtyānuṣṭhāna-jñāna*) manifests various transformative activities across the ten directions. The four wisdoms are the fruit of the turning of the basis (*āśraya-parāvṛtti*) — not products of form-marks.
 
@@ -269,9 +269,9 @@ At the level of liberation, all noble beings are equal — all have eliminated t
 
 ### C. Commentary Sources
 
-#### 2.10 Kuiji's Zànshù — Mirror-Wisdom Reflection Theory
+#### 2.10 Zixuan's Kāndìng jì — Mirror-Wisdom Reflection Theory
 
-Kuiji provides this paper's most important Yogācāra analytic framework in his *Zànshù*[^24]:
+Zixuan's *Kāndìng jì* contains a passage that this paper adopts as its most important Yogācāra analytic framework (this is the author's interpretation)[^24]:
 
 > 三十二相蓋是鏡智之上所現影像，既墮有為之數，故當四相所遷，況對機宜有無不定，焉可將此而為法身。
 >
@@ -281,7 +281,7 @@ The thirty-two marks are reflections projected by great mirror-wisdom. Reflectio
 
 This is like images in a mirror: the images depend on what stands before the mirror, but regardless of how the images change, the mirror itself does not change. You cannot know the mirror's nature by observing its reflections — what you see is always the reflection, never the mirror itself[^25].
 
-Kuiji further quotes a verse attributed to Maitreya[^26]:
+Zixuan further quotes a verse attributed to Maitreya[^26]:
 
 > 應化非真佛，亦非說法者。
 >
@@ -289,7 +289,7 @@ Kuiji further quotes a verse attributed to Maitreya[^26]:
 
 The response-body and transformation-body are not the true Buddha. The true Buddha — the dharma-body — is "apart from marks, quiescent," beyond sensory apprehension.
 
-Regarding §5's "all marks are illusory; if one sees that all marks are non-marks, then one sees the Tathāgata," Kuiji explains[^27]:
+Regarding §5's "all marks are illusory; if one sees that all marks are non-marks, then one sees the Tathāgata," Zixuan explains[^27]:
 
 > 夫一切相皆從妄念而生，是故佛相亦是虛妄，若分別不起，相自無生，即見非相，諸相既亡唯是覺體，名見如來。
 >
@@ -297,13 +297,13 @@ Regarding §5's "all marks are illusory; if one sees that all marks are non-mark
 
 Not that marks are annihilated — but that when discrimination ceases, marks are no longer reified. What remains is the awakened nature itself. The awakened nature *is* the Tathāgata.
 
-Kuiji's mirror analogy extends the point[^28]:
+Zixuan's mirror analogy extends the point[^28]:
 
 > 譬如鏡中現一人像兼現餘物，不唯人像空處是鏡，餘物空處亦皆是鏡，合法可知。
 >
-> "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is absent is it the mirror; where the other objects appear, too, it is all the mirror. Apply this to the dharma and the meaning is clear."
+> "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is empty is it the mirror; where the other objects are empty, too, it is all the mirror. Apply this to the dharma and the meaning is clear."
 
-The mirror is not only the mirror where there are no reflections — it is also the mirror where there *are* reflections. Applied to the dharma: the dharma-body is not only present in the absence of the thirty-two marks — it is present precisely *where the marks appear*. The problem is not that marks exist, but that you mistake the reflection for the mirror.
+The mirror is not only the mirror where there are no reflections — it is also the mirror where there *are* reflections. Applied to the dharma: the dharma-body is not only present in the absence of the thirty-two marks — it is present precisely *where the marks appear*. The problem is not that marks exist, but that you mistake the reflection for the mirror. In Zixuan's context the simile glosses the sūtra's word "all" (the person's image corresponding to the Buddha's bodily marks, the other objects to marks beyond the Buddha's body); reading it as with marks versus without marks is the author's interpretation.
 
 #### 2.11 Vasubandhu's Śāstra — Refuting Inferential Knowledge
 
@@ -315,7 +315,7 @@ Vasubandhu's analysis of §26 in the *Vajracchedikā-śāstra* reveals a subtlet
 
 What Vasubandhu deconstructs is not the naive equation of marks with the Tathāgata — §13 already handled that. §26 targets a subtler dharma-attachment: "I know that form-marks are not the dharma-body, but I can *infer* the dharma-body's nature from what I see of the marks." This is attachment at the level of inference (*anumāna*) rather than direct perception (*pratyakṣa*): not identifying the form-body with the dharma-body, but using form-body data to construct a theory about the dharma-body.
 
-Vasubandhu's verse eliminates this backdoor[^30]:
+The verse Vasubandhu cites eliminates this backdoor[^30]:
 
 > 非是色身相，可比知如來；諸佛唯法身，轉輪王非佛。
 >
@@ -327,7 +327,7 @@ Vasubandhu's verse eliminates this backdoor[^30]:
 
 The dharma-body is a "wisdom-nature body" — its essence is the four wisdoms, not form-marks. The thirty-two marks are a "different-nature body" — a body of a completely different category, arising from merit. You cannot infer from form-marks to wisdom-nature, just as you cannot infer a mirror's composition from its reflections.
 
-Vasubandhu's commentary on the verse "if one sees me through form, seeks me through sound" is equally decisive[^31]:
+The verse Vasubandhu cites in commenting on the sūtra verse "if one sees me through form, seeks me through sound" is equally decisive[^31]:
 
 > 唯見色聞聲，是人不知佛；以真如法身，非是識境故。
 >
@@ -350,7 +350,7 @@ C is manifestly absurd (wheel-turning sage kings are not Buddhas), therefore P i
 
 The Buddha does not simply announce that "marks do not equal the Tathāgata" — that would be too easy, and §13 already established it. §26's teaching strategy first allows Subhūti to answer incorrectly, then uses the reductio to let him discover the error himself. This is more powerful than direct negation, because it forces the listener to walk through the entire inferential chain and personally experience the absurdity of attachment to marks.
 
-Kuiji's commentary identifies the precise nature of the error[^32]:
+Zixuan's commentary identifies the precise nature of the error (this is the author's interpretation)[^32]:
 
 > 法身無為真實性故，色身有為影像相故。
 >
@@ -368,14 +368,14 @@ Identical form-marks do not make a Buddha. What makes a Buddha is not the marks 
 |------|----------|--------------|------------------------|
 | §5: body-marks are non-body-marks | First half | Form-body | Coarse: form-body ≠ Tathāgata |
 | §13: thirty-two marks are non-marks | First half | Thirty-two marks | Medium: marks ≠ Tathāgata (*jífēi* formula) |
-| §20: complete form-body / complete marks | First half | Form-body + marks | Medium: *jífēi* formula applied twice |
+| §20: complete form-body / complete marks | Second half | Form-body + marks | Medium: *jífēi* formula applied twice |
 | §26: thirty-two marks for observing the Tathāgata | Second half | Thirty-two marks | Subtle: reductio — even *observing* through marks fails |
 
 The difference between coarse and subtle lies not in the object — both involve the thirty-two marks — but in the cognitive mode. The first half deconstructs the direct identification of marks with the Tathāgata (*parikalpita*'s immediate reification). The second half deconstructs the inferential use of marks to "know" the Tathāgata (*anumāna*'s indirect reasoning). The former is an ordinary person's error; the latter is a practitioner's error.
 
 This maps precisely onto P07's dual-layer architecture: the first half addresses afflictive obstruction (self-grasping — "I see the Buddha's marks, therefore I see the Buddha"); the second half addresses cognitive obstruction (dharma-grasping — "I know marks aren't the Buddha, but I use mark-data to infer the dharma-body").
 
-### 3.3 §13's Body-Marks — Trisvabhāva Mapping
+### 3.3 §5's Body-Marks — Trisvabhāva Mapping
 
 §5's "what the Tathāgata calls body-marks are precisely non-body-marks" directly applies the *jífēi* structure to "body-marks," following S5-P01's mapping framework:
 
@@ -398,13 +398,13 @@ In Yogācāra translation: when prajñā wisdom realizes that all dependent-natu
 
 This is not a special mystical experience but a fundamental epistemological reorientation: from the imagined nature's cognitive mode (treating marks as inherently real) to the perfected nature's cognitive mode (seeing suchness within the dependent). What turns is not the object — marks remain as they are — but the mode of cognition.
 
-Kuiji's explanation echoes this reading: "If discrimination does not arise, marks naturally do not arise… what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata.'" Not that marks disappear — but that when the discriminating mind ceases, what remains is the awakened nature itself.
+Zixuan's explanation echoes this reading: "If discrimination does not arise, marks naturally do not arise… what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata.'" Not that marks disappear — but that when the discriminating mind ceases, what remains is the awakened nature itself.
 
 ### 3.5 The Dharma-Body Is Neither Form nor Mind — The Core of Trikāya Doctrine
 
 Why can the dharma-body not be seen through marks? Because the dharma-body is neither form (*rūpa*) nor mind (*citta*).
 
-The *Cheng weishi lun* is explicit: the self-nature dharma-body "cannot be spoken of as form, mind, or any such thing." This means the dharma-body does not fit into any category of the Yogācāra one hundred dharmas — not among the eleven form-dharmas, not among the eight consciousnesses, not among the fifty-one mental factors, not among the twenty-four factors not associated with mind, nor even among the six unconditioned dharmas taken as conceptual labels. The dharma-body is the "pure dharma-realm" — another name for suchness — plus the uncontaminated merits of the four wisdoms.
+The *Cheng weishi lun* is explicit: the self-nature dharma-body "cannot be spoken of as form, mind, or any such thing." This means the dharma-body does not fit into any conditioned category of the Yogācāra one hundred dharmas — not among the eleven form-dharmas, not among the eight consciousnesses, not among the fifty-one mental factors, not among the twenty-four factors not associated with mind, nor even among the six unconditioned dharmas taken as conceptual labels (the last of the six unconditioned is "suchness unconditioned"). The dharma-body is the "pure dharma-realm" — another name for suchness — plus the uncontaminated merits of the four wisdoms.
 
 The trikāya distinction clarifies the fundamental error in "seeing the Tathāgata through marks":
 
@@ -416,7 +416,7 @@ The "Buddha" you encounter in sūtras as a form-body is the transformation-body 
 
 The story of Bhikṣuṇī Utpalavarṇā provides the most vivid illustration[^33]:
 
-> The Buddha once ascended to Trāyastriṃśa heaven for three months to teach his mother. When he returned to Jambudvīpa, Bhikṣuṇī Utpalavarṇā, eager to be first to see the Buddha, transformed herself into a wheel-turning king with a full retinue and went before the Buddha. The Buddha rebuked her. At the same time, Subhūti, in his mountain dwelling, also wished to see the Buddha — but then reflected: "The principle of emptiness and marklessness is the true dharma-body. What need is there to see a form-body?" Having thought thus, he sat back down and did not go.
+> The Buddha once ascended to Trāyastriṃśa heaven for three months to teach his mother. When he returned to Jambudvīpa, Bhikṣuṇī Utpalavarṇā, eager to be first to see the Buddha, transformed herself into a wheel-turning king with a full retinue and went before the Buddha. The Buddha rebuked her, setting forth the matter above in full. At the same time, Subhūti, in his mountain dwelling, also wished to see the Buddha — but then reflected: "The principle of emptiness and marklessness is the true dharma-body. What need is there to see a form-body?" Having thought thus, he sat back down and did not go.
 
 Two attitudes — one rushing to see the form-body (even disguising as a wheel-turning king, which only deepens the irony given §26's argument), one realizing that the dharma-body is seen through the principle of emptiness, not through form. The Buddha rebuked the former. The latter is the Diamond Sūtra's way.
 
@@ -528,7 +528,7 @@ The Diamond Sūtra asks four times whether the Tathāgata can be seen through ma
 
 But this is not nihilism. "If one sees that all marks are non-marks, then one sees the Tathāgata." To see, within all marks, that marks are not inherently real — that is seeing the Tathāgata. The dharma-body is not the opposite of marks (that would be nihilism) but the true face of marks — the perfected nature. You do not need to find a "place without marks" to see the Tathāgata. You need prajñā — and within the place where marks appear, you see suchness.
 
-Kuiji's mirror analogy captures this best: there are reflections in the mirror, but it is not only where reflections are absent that the mirror exists — where reflections appear, too, that is the mirror. You do not need to annihilate the thirty-two marks to see the dharma-body. You need to stop mistaking the reflection for the mirror itself.
+Zixuan's mirror analogy captures this best (this reading is the author's interpretation; see 2.10): there are reflections in the mirror, but it is not only where reflections are absent that the mirror exists — where reflections appear, too, that is the mirror. You do not need to annihilate the thirty-two marks to see the dharma-body. You need to stop mistaking the reflection for the mirror itself.
 
 This paper and S5-P03 form a deconstruction–reconstruction pair: P03's "all marks are illusory" is the deconstruction — marks cannot be clung to. P08's "if one sees non-marks, one sees the Tathāgata" is the reconstruction — after marks are deconstructed, what you see is not nothingness, but the Tathāgata.
 
@@ -547,7 +547,7 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 5. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra, *Taishō* vol. 16, No. 670.
 6. *Cheng weishi lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
 7. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, *Taishō* vol. 16, No. 676.
-8. Kuiji, *Jīngāng bōrě bōluómì jīng zànshù* (金剛般若波羅蜜經讚述), *Taishō* vol. 33, No. 1700.
+8. Kuiji, *Jīngāng bōrě jīng zànshù* (金剛般若經讚述), *Taishō* vol. 33, No. 1700.
 9. Vasubandhu, *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), trans. Bodhiruci, *Taishō* vol. 25, No. 1511.
 10. Zixuan, *Jīngāng jīng zuǎnyào kāndìng jì* (金剛經纂要刊定記), *Taishō* vol. 33, No. 1702.
 
@@ -562,15 +562,15 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 | # | Text | Taishō Vol. | No. | Fascicle/Section Cited |
 |---|------|-------------|-----|----------------------|
 | 1 | Vajracchedikā Prajñāpāramitā Sūtra | T8 | No. 235 | §5, §13, §14, §20, §26 |
-| 2 | Śūraṅgama Sūtra | T19 | No. 945 | Fasc. 1, 2 |
-| 3 | Vimalakīrti Nirdeśa Sūtra (Kumārajīva) | T14 | No. 475 | Observing the Tathāgata; Non-Duality |
+| 2 | Śūraṅgama Sūtra | T19 | No. 945 | Fasc. 2 |
+| 3 | Vimalakīrti Nirdeśa Sūtra (Kumārajīva) | T14 | No. 475 | Seeing Akṣobhya Buddha; Non-Duality |
 | 4 | Vimalakīrti Nirdeśa Sūtra (Xuanzang) | T14 | No. 476 | Fasc. 6 |
 | 5 | Laṅkāvatāra Sūtra | T16 | No. 670 | Fasc. 2, 4 |
 | 6 | Cheng weishi lun | T31 | No. 1585 | Fasc. 10 |
 | 7 | Saṃdhinirmocana Sūtra | T16 | No. 676 | Fasc. 5 |
-| 8 | Jīngāng bōrě zànshù (Kuiji) | T33 | No. 1700 | Fasc. 2 |
+| 8 | Jīngāng bōrě zànshù (Kuiji) | T33 | No. 1700 | Fasc. 1 |
 | 9 | Vajracchedikā-śāstra (Vasubandhu) | T25 | No. 1511 | Fasc. 3 |
-| 10 | Jīngāng jīng zuǎnyào kāndìng jì (Zixuan) | T33 | No. 1702 | Fasc. 3, 4, 5, 6 |
+| 10 | Jīngāng jīng zuǎnyào kāndìng jì (Zixuan) | T33 | No. 1702 | Fasc. 2, 3, 4, 5, 6 |
 
 ---
 
@@ -578,13 +578,13 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 | Paper | Relationship to This Paper |
 |-------|---------------------------|
-| S5-P01: The *Jífēi* Formula Maps to Trisvabhāva | P01 established the trisvabhāva mapping framework. P08 applies it to §13's "body-marks are precisely non-body-marks" and §20's "complete form-body — precisely not the complete form-body — is called the complete form-body" |
+| S5-P01: The *Jífēi* Formula Maps to Trisvabhāva | P01 established the trisvabhāva mapping framework. P08 applies it to §5's "body-marks are precisely non-body-marks" and §20's "complete form-body — precisely not the complete form-body — is called the complete form-body" |
 | S5-P02: The Kōan-Mirror | P02's know/realize distinction applies directly: do you *know* "one cannot see the Tathāgata through marks" or have you *realized* it? When you read this, what arises in your mind? If "a Tathāgata that cannot be seen through marks" arises — you are constructing marks again |
 | S5-P03: All Marks Are Illusory | Deconstruction–reconstruction pair: P03 deconstructs all marks (illusory); P08 reconstructs — after deconstruction, what you see is not nothingness but the Tathāgata |
 | S5-P04: Even the Dharma Should Be Abandoned | The thirty-two marks are the Buddha's form-body in the dependent nature — illusory-yet-functional, but not the dharma-body. Grasping marks to see the Tathāgata = grasping the raft as the shore |
 | S5-P05: The Merit Paradox | The merit comparison's "four-line verse surpasses seven treasures" = dharma-offering surpasses material offering = dharma-body surpasses form-body. P08 explains through trikāya doctrine why the dharma-body surpasses the form-body |
 | S5-P06: Generate Mind Without Abiding | P06→P08 transition: not abiding in marks → what do you see? P06 teaches how to generate mind without abiding; P08 asks what you see when not abiding — the dharma-body |
-| S5-P07: The Diamond Sūtra's Self-Replay | P07's dual-layer structure is P08's positioning framework: §5/§20 in the first half (deconstructing form-body marks), §26 in the second half (deconstructing the thirty-two marks) — the same thesis at two depths |
+| S5-P07: The Diamond Sūtra's Self-Replay | P07's dual-layer structure is P08's positioning framework: §5 in the first half (deconstructing form-body marks), §26 in the second half (deconstructing the thirty-two marks; §20 also falls in the second half) — the same thesis at two depths |
 | S5-P09: All Conditioned Phenomena Are Like Dreams | P08 negates seeing the Tathāgata through particular marks (specific negation); P09 negates the inherent reality of all conditioned phenomena (general negation) |
 | S1-P02: Bodhicitta and the Dharma Stream | P08 calls back to S1-P02's "dharma-body transcends the three times" — without arising or ceasing, not in past, present, or future. Re-opened within the S5 framework |
 | S6: Śūraṅgama Sūtra Series (forthcoming) | The Śūraṅgama's "seeing-nature is not seeing" is cited in P08 from one angle only; S6 will unfold the complete analysis of "seeing" — seven locations for probing the mind, twenty-five perfect penetrations |
@@ -615,7 +615,7 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 [^11]: *Śūraṅgama Sūtra*, fasc. 2, "Your face may wrinkle, but the nature of seeing-essence has never wrinkled" and "What changes undergoes destruction; what does not change is originally without arising or ceasing," T19, No. 945.
 
-[^12]: *Vimalakīrti Nirdeśa Sūtra* (維摩詰所說經), "Observing the Tathāgata" chapter, "I observe the Tathāgata — not coming from the past, not going to the future, not abiding in the present… not knowable through cognition, not recognizable through consciousness… To observe thus is right observation; any other is deviant observation," T14, No. 475.
+[^12]: *Vimalakīrti Nirdeśa Sūtra* (維摩詰所說經), "Seeing Akṣobhya Buddha" chapter, "I observe the Tathāgata — not coming from the past, not going to the future, not abiding in the present… not knowable through cognition, not recognizable through consciousness… To observe thus is right observation; any other is deviant observation," T14, No. 475.
 
 [^13]: *Vimalakīrti Nirdeśa Sūtra* (說無垢稱經), fasc. 6, "I observe the Tathāgata with no observation whatsoever — such is how I observe," T14, No. 476.
 
@@ -641,19 +641,19 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 [^24]: Zixuan, *Kāndìng jì*, fasc. 4, "The thirty-two marks are nothing but reflections manifested upon mirror-wisdom. Since they fall within the category of the conditioned, they are subject to the four marks of impermanence… how could one take these as the dharma-body," mirror-wisdom reflection theory, T33, No. 1702.
 
-[^25]: Zixuan, *Kāndìng jì*, fasc. 4, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image," T33, No. 1702.
+[^25]: Zixuan, *Kāndìng jì*, fasc. 5, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image," T33, No. 1702.
 
-[^26]: Kuiji, *Zànshù*, fasc. 2, quoting Maitreya's verse: "The response-body and transformation-body are not the true Buddha, nor are they the Dharma-speaker" and commenting "these marks are merely reflected images manifested within the true body… since they are called reflections, they are known to be not real," T33, No. 1700.
+[^26]: Zixuan, *Kāndìng jì*, fasc. 2, quoting Maitreya's verse: "The response-body and transformation-body are not the true Buddha, nor are they the Dharma-speaker" and commenting "these marks are merely reflected images manifested within the true body… since they are called reflections, they are known to be not real," T33, No. 1702. Kuiji's *Zànshù*, fasc. 1, also quotes these two lines, introducing them as "the treatise says," T33, No. 1700.
 
 [^27]: Zixuan, *Kāndìng jì*, fasc. 4, "All marks arise from deluded thought; therefore even the Buddha's marks are illusory. If discrimination does not arise, marks naturally do not arise — one then sees non-marks. When all marks have subsided, what remains is nothing but the awakened nature — this is called 'seeing the Tathāgata,'" T33, No. 1702.
 
-[^28]: Zixuan, *Kāndìng jì*, fasc. 4, "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is absent is it the mirror; where the other objects appear, too, it is all the mirror. Apply this to the dharma and the meaning is clear," mirror analogy, T33, No. 1702.
+[^28]: Zixuan, *Kāndìng jì*, fasc. 4, "It is like a mirror that reflects the image of a person along with other objects — not only where the person's image is empty is it the mirror; where the other objects are empty, too, it is all the mirror. Apply this to the dharma and the meaning is clear," mirror analogy, T33, No. 1702.
 
 [^29]: Vasubandhu, *Vajracchedikā-śāstra* (金剛般若波羅蜜經論), fasc. 3, "A further doubt arises… yet one might inferentially know the dharma-body through seeing the accomplished marks," §26 doubt-severing passage, T25, No. 1511.
 
-[^30]: Vasubandhu, *Vajracchedikā-śāstra*, fasc. 3, "It is not through form-body marks that the Tathāgata can be inferentially known; all Buddhas are the dharma-body alone; the wheel-turning king is not a Buddha" and "The dharma-body is the wisdom-nature body; merit-marks constitute a different-nature body," T25, No. 1511.
+[^30]: Vasubandhu, *Vajracchedikā-śāstra*, fasc. 3, "It is not through form-body marks that the Tathāgata can be inferentially known; all Buddhas are the dharma-body alone; the wheel-turning king is not a Buddha" and "The dharma-body is the wisdom-nature body; merit-marks constitute a different-nature body" (the first is a verse recorded in the treatise, ascribed to Asaṅga in T1513/T1514), T25, No. 1511.
 
-[^31]: Vasubandhu, *Vajracchedikā-śāstra*, fasc. 3, "One who merely sees form and hears sound does not know the Buddha — because the suchness dharma-body is not a domain of consciousness," verse commentary, T25, No. 1511.
+[^31]: Vasubandhu, *Vajracchedikā-śāstra*, fasc. 3, "One who merely sees form and hears sound does not know the Buddha — because the suchness dharma-body is not a domain of consciousness," verse commentary (a verse recorded in the treatise, ascribed to Asaṅga in T1513/T1514), T25, No. 1511.
 
 [^32]: Zixuan, *Kāndìng jì*, fasc. 5, "The dharma-body, being unconditioned, is truly real; the form-body, being conditioned, is a reflected image" and "Even possessing the thirty-two marks, one is merely a wheel-turning king… If one can uphold and expound this sūtra, wisdom arises in fullness… Only then can these thirty-two marks be called those of a Buddha," T33, No. 1702.
 

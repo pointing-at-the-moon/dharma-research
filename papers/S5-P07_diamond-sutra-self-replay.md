@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Diamond Sūtra's Self-Replay
@@ -16,9 +16,9 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-In §17 of the Diamond Sūtra — the "Section on Ultimate Non-Self" — Subhūti re-asks virtually the same question he posed in §2, yet the Buddha responds at an entirely different level. This paper argues that this is not literary repetition but the sūtra's structural pivot: the text folds into a dual-layer architecture where the first half (§1–16) addresses person-emptiness (*pudgala-śūnyatā*), deconstructs the four "marks" (*xiāng* 相), and counters afflictive obstruction (*kleśāvaraṇa* 煩惱障), while the second half (§17–32) addresses dharma-emptiness (*dharma-śūnyatā*), deconstructs the four "views" (*jiàn* 見), and counters cognitive obstruction (*jñeyāvaraṇa* 所知障).
+In §17 of the Diamond Sūtra — the "Section on Ultimate Non-Self" — Subhūti re-asks virtually the same question he posed in §2, yet the Buddha responds at an entirely different level (this is the author's interpretation). This paper argues that this is not literary repetition but the sūtra's structural pivot: the text folds into a dual-layer architecture where the first half (§1–16) addresses person-emptiness (*pudgala-śūnyatā*), deconstructs the four "marks" (*xiāng* 相), and counters afflictive obstruction (*kleśāvaraṇa* 煩惱障), while the second half (§17–32) addresses dharma-emptiness (*dharma-śūnyatā*), deconstructs the four "views" (*jiàn* 見), and counters cognitive obstruction (*jñeyāvaraṇa* 所知障).
 
-Three text-internal evidences confirm this progression: the subtle word-order shift between the two questions, the upgrade from four "marks" to four "views," and the shift in *jífēi* objects from external referents to the teaching itself. The mapping is then grounded in the two-obstruction definitions from the *Cheng weishi lun* (成唯識論, T1585), the obstruction-sequence from the *Saṃdhinirmocana Sūtra* (解深密經, T0676), and Kuiji's dual-attachment framework in the *Zànshù* (讚述, T1700). Vasubandhu's pivotal verse in the *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論, T1511) — "harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding" (於內心修行，存我為菩薩，此即障於心，違於不住道) — provides the most critical textual evidence.
+Three text-internal evidences confirm this progression: the subtle word-order shift between the two questions, the upgrade from four "marks" to four "views," and the shift in *jífēi* objects from external referents to the teaching itself (this is the author's interpretation). The mapping is then grounded in the two-obstruction definitions from the *Cheng weishi lun* (成唯識論, T1585), the obstruction-sequence from the *Saṃdhinirmocana Sūtra* (解深密經, T0676), and Zixuan's dual-attachment framework in the *Kanding ji* (刊定記, T1702). The pivotal verse recorded in the *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論, T1511; ascribed to Asaṅga in T1513/T1514) — "harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding" (於內心修行，存我為菩薩，此即障於心，違於不住道) — provides the most critical textual evidence.
 
 This paper serves as the structural map for the entire S5 series: every subsequent paper analyzing individual passages must first locate that passage in the first or second half and identify whether it cuts self-attachment or dharma-attachment.
 
@@ -66,9 +66,9 @@ The Buddha answers for fifteen sections. Then, in §17, Subhūti opens his mouth
 
 > "Good men and good women who have generated the mind of *anuttara-samyak-saṃbodhi* — **how** should they abide? How should they subdue their minds?" (善男子善女人，發阿耨多羅三藐三菩提心，云何**應**住？云何降伏其心？)
 
-[^2]: *Vajracchedikā Prajñāpāramitā Sūtra* §17, T08, No. 235. Note the word-order shift: §2 reads "*yīng* yún hé zhù" (應云何住), §17 reads "yún hé *yīng* zhù" (云何應住).
+[^2]: *Vajracchedikā Prajñāpāramitā Sūtra* §17, T08, No. 235. Note the word-order shift: §2 reads "*yīng* yún hé zhù" (應云何住), §17 reads "yún hé *yīng* zhù" (云何應住). At §2 the Ming edition reads 云何應 for 應云何 (collation note at 0748c28).
 
-The two questions are nearly identical — but with a subtle word-order difference. In §2, the character *yīng* (應, "should") leads the phrase; in §17, it shifts to mid-position. This is unlikely to be a casual translation variation from Kumārajīva, one of the most precise translators in Chinese Buddhist history. More importantly, the Buddha's answers to the two questions differ fundamentally in depth — if the question had not changed, the answer would not have shifted so radically. The word-order adjustment signals that the questioner's consciousness has itself progressed.
+The two questions are nearly identical — but with a subtle word-order difference. In §2, the character *yīng* (應, "should") leads the phrase; in §17, it shifts to mid-position. This is unlikely to be a casual translation variation from Kumārajīva, one of the most precise translators in Chinese Buddhist history. More importantly, the Buddha's answers to the two questions differ fundamentally in depth — if the question had not changed, the answer would not have shifted so radically. The word-order adjustment signals that the questioner's consciousness has itself progressed. (§17's answer first restates the skeleton of §3 — "I should liberate all sentient beings; having liberated all sentient beings, not a single sentient being has actually been liberated" — and then adds one further layer, "there is truly no dharma of setting forth toward *anuttara-samyak-saṃbodhi*"; the Ming edition also reads 云何應住 at §2, see note 2. That the two answers differ fundamentally, and that the word order signals progression, are the author's interpretation.)
 
 §2's phrasing emphasizes "should" — *what should I do?* This is the practitioner's quest for external norms, the typical question of a beginner.
 
@@ -86,7 +86,7 @@ Everything in the first half — non-abiding generosity, "all marks are illusory
 
 The answer to §17 enters an entirely different plane:[^4]
 
-> "There is truly no dharma called *anuttara-samyak-saṃbodhi*." (實無有法發阿耨多羅三藐三菩提者。)
+> "There is truly no dharma of setting forth toward *anuttara-samyak-saṃbodhi*." (實無有法發阿耨多羅三藐三菩提者。)
 
 > "The Tathāgata means the suchness of all dharmas." (如來者，即諸法如義。)
 
@@ -94,15 +94,15 @@ The answer to §17 enters an entirely different plane:[^4]
 
 [^4]: *Vajracchedikā* §17, T08, No. 235.
 
-The first half says "a bodhisattva should not cling to the mark of self" — it negates the practitioner's self-identification. The second half says "there is truly no dharma called bodhi" and "all dharmas are buddha-dharma yet not all dharmas" — it negates the substantiality of the teaching itself. This is a fundamental upgrade in dimension: from deconstructing person to deconstructing dharma.
+The first half says that a bodhisattva should not cling to the mark of self — it negates the practitioner's self-identification. The second half says "there is truly no dharma of setting forth toward *anuttara-samyak-saṃbodhi*" and "all dharmas are buddha-dharma yet not all dharmas" — it negates the substantiality of the teaching itself. This is a fundamental upgrade in dimension: from deconstructing person to deconstructing dharma.
 
 #### 2.3 The Language Upgrade: From Four "Marks" to Four "Views"
 
-The expression "mark of self, mark of person, mark of sentient being, mark of life-span" appears six times across the sūtra, revealing a clear linguistic progression:[^5]
+The expression "mark of self, mark of person, mark of sentient being, mark of life-span" appears in six sections of the sūtra (*wǒ xiāng* 我相 occurs eight times, *wǒ jiàn* 我見 five times), revealing a clear linguistic progression:[^5]
 
 [^5]: Statistical analysis based on the complete text of *Vajracchedikā*, T08, No. 235. First half: §3 (L39), §6 (L63), §14 (L155) use 相 (*xiāng*, "mark"); §15 (L197) first introduces 見 (*jiàn*, "view") at the boundary; §17 (L222) reverts to 相 for continuity; §31 (L346-347) uses 見 with the full *jífēi* structure.
 
-In the first half (§1–§16), the term used three times is *xiāng* (相, "mark"): §3, §6, §14.
+In three first-half sections (§1–§16), the term used is *xiāng* (相, "mark"): §3, §6, §14 (§14 alone has 我相 five times).
 
 At §15 — the boundary zone — the character *jiàn* (見, "view") appears for the first time: "clinging to self-**view**, person-**view**, sentient-being-**view**, life-span-**view**."
 
@@ -124,7 +124,7 @@ The first half (§1–§16) contains approximately eight *jífēi* instances, fo
 
 [^7]: First-half *jífēi* instances from T08, No. 235: §10 "adorning is not adorning, it is called adorning" (L108); §10 "not-body is called the great body" (L113); §13 "not atoms, called atoms; not world, called world" (L137); §13 "not marks, called thirty-two marks" (L141), among others.
 
-The second half (§17–§32) contains over eleven instances, upgraded to the teaching itself:[^8] all dharmas, mind, the complete form-body, the act of teaching, sentient beings, wholesome dharmas, *bodhi*, the dharma-mark, the four views. The second-half *jífēi* cuts not just names but *dharma-categories* — prajñāpāramitā itself, all dharmas, wholesome dharmas, *bodhi*, the very act of teaching the dharma. This is not the first half's operation repeated at the same level, but a recursive structure operating at a deeper dimension. The first half cuts your attachment to external objects; the second half cuts your attachment to the tools of practice.
+The second half (§17–§32) contains over eleven instances, upgraded to the teaching itself:[^8] all dharmas, mind, the complete form-body, the act of teaching, sentient beings, wholesome dharmas, *bodhi*, the dharma-mark, the four views. The second-half *jífēi* cuts not just names but *dharma-categories* — all dharmas, wholesome dharmas, *bodhi*, the very act of teaching the dharma (the *jífēi* sentence on prajñāpāramitā is in §13, in the first half; this division of objects between the two halves is the author's interpretation). This is not the first half's operation repeated at the same level, but a recursive structure operating at a deeper dimension. The first half cuts your attachment to external objects; the second half cuts your attachment to the tools of practice.
 
 [^8]: Second-half *jífēi* instances from T08, No. 235 include: §17 "not all dharmas, therefore called all dharmas" (L241); §18 "not mind, called mind" (L264); §20 "not complete form-body, called complete form-body" (L275-276); §21 "no dharma to teach, called teaching" (L283); §22 "not sentient beings, called sentient beings" (L287); §23 "not wholesome dharmas, called wholesome dharmas" (L295); §31 four views *jífēi* (L346-347); §31 "not dharma-mark, called dharma-mark" (L351), among others.
 
@@ -188,17 +188,17 @@ Fascicle 9 also distinguishes three kinds of prajñā:[^15]
 
 The first half's prajñā leans toward person-emptiness non-discriminating wisdom; the second half's prajñā leans toward dharma-emptiness non-discriminating wisdom; the sūtra read as a whole embodies both-emptinesses non-discriminating wisdom. The three kinds of prajñā unfold sequentially across the Diamond Sūtra's dual-layer architecture.
 
-#### 2.7 Vasubandhu's Pivotal Verse — The Key Evidence
+#### 2.7 The Pivotal Verse Recorded in T1511 — The Key Evidence
 
-In his *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論, T1511), Vasubandhu uses "cutting doubt" (*duàn yí* 斷疑) as the structural principle for the entire sūtra. When analyzing the §17 re-questioning, he delivers the treatise's most critical verse:[^16]
+In his *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論, T1511), Vasubandhu uses "cutting doubt" (*duàn yí* 斷疑) as the structural principle for the entire sūtra. When analyzing the §17 re-questioning, the treatise brings forth its most critical verse (ascribed to Asaṅga in T1513/T1514; see note 16):[^16]
 
 > "Cultivating within the mind, / Harboring 'I am a bodhisattva' — / This itself obstructs the mind, / Violating the path of non-abiding." (於內心修行，存我為菩薩，此即障於心，違於不住道。)
 
-[^16]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, T25, No. 1511. Vasubandhu's verse analyzing the §17 re-questioning.
+[^16]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2 (0790c15–c16), T25, No. 1511. The core verse recorded in the treatise's analysis of the §17 re-questioning; Yijing's translation of the same verse (T25, No. 1513, fasc. 2, 0880c14–c15; T25, No. 1514, 0886a03–a04) is ascribed to Asaṅga.
 
-Vasubandhu explains: the first half's teaching cuts external practices — "not abiding in objects when practicing generosity." But after learning non-abiding, the practitioner may retain a more covert attachment — "I abide in the great bodhisattva vehicle, I practice in this way, I subdue my mind in this way, I liberate sentient beings."
+Vasubandhu explains: the first half's teaching cuts external practices — "not abiding in objects when practicing generosity" (fasc. 1, 0782b11). But after learning non-abiding, the practitioner may retain a more covert attachment — "I abide in the great bodhisattva vehicle, I practice in this way, I subdue my mind in this way" (fasc. 2, 0790c18–c19).
 
-This is the doctrinal rationale for §17's existence. Subhūti did not fail to understand the first half. On the contrary — he understood it. But understanding itself generated a new problem: "I am a bodhisattva who understands prajñā" — this self-identification is itself dharma-attachment. Vasubandhu's four characters *cún wǒ wéi púsà* (存我為菩薩, "harboring 'I am a bodhisattva'") diagnose the covert pathology with surgical precision.
+This is the doctrinal rationale for §17's existence. Subhūti did not fail to understand the first half. On the contrary — he understood it. But understanding itself generated a new problem: "I am a bodhisattva who understands prajñā" — this self-identification is itself dharma-attachment. The verse's five characters *cún wǒ wéi púsà* (存我為菩薩, "harboring 'I am a bodhisattva'") diagnose the covert pathology with surgical precision.
 
 #### 2.8 Asaṅga's Structural Analysis
 
@@ -208,19 +208,19 @@ Asaṅga's commentary (T1510a/b) uses "seven meaning-gates" and "eighteen abidin
 
 > If the bodhisattva still harbors notions of sentient beings, this reveals either active self-grasping or latent tendencies.
 
-[^17]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, T25, No. 1510b.
+[^17]: *Jingang bore lun* (金剛般若論), fasc. 2 (0763c21–c22, 0763c25), T25, No. 1510a.
 
-Asaṅga confirms Vasubandhu's analysis: the second half targets the practitioner's attachment to their own practice — "I am practicing" is itself the obstruction. Notably, Asaṅga does not use the paired terminology "two obstructions" (*èr zhàng* 二障), instead employing "discrimination" (*fēnbié* 分別, Skt. *vikalpa*) as the core obstruction-concept. But the substance fully corresponds: the first half deconstructs the *objects* of discrimination; the second half deconstructs the *mind* that discriminates.
+Asaṅga confirms Vasubandhu's analysis: the second half targets the practitioner's attachment to their own practice — "I am practicing" is itself the obstruction. Notably, Asaṅga does not build his account on the paired terminology "two obstructions" (*èr zhàng* 二障; afflictive and cognitive obstruction, 煩惱障、智障, are named together only once, fasc. 2, 0763b20), instead employing "discrimination" (*fēnbié* 分別, Skt. *vikalpa*) as the core obstruction-concept. But the substance fully corresponds: the first half deconstructs the *objects* of discrimination; the second half deconstructs the *mind* that discriminates.
 
-#### 2.9 Kuiji's Dual-Attachment Framework
+#### 2.9 Zixuan's Dual-Attachment Framework
 
-Kuiji (窺基, 632–682), in his *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述, T1700), provides the most systematic Yogācāra doctrinal assessment.
+Zixuan (子璿), in his *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記, T1702), provides the most systematic Yogācāra doctrinal assessment.
 
 Fascicle 1 establishes the logical relationship between self-grasping and dharma-grasping:[^18]
 
 > "Ordinary beings who have self-grasping necessarily also have dharma-grasping; the two vehicles have dharma-grasping but do not necessarily have self-grasping. Moreover, the two vehicles without self-grasping do not necessarily lack dharma-grasping; bodhisattvas without dharma-grasping necessarily lack self-grasping." (凡夫有我執必兼有法執；二乘有法執不必具我執。又二乘無我執則未必無法執；菩薩無法執則必無我執。)
 
-[^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, T33, No. 1700.
+[^18]: Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), fasc. 1 (0175b16–b18), T33, No. 1702.
 
 These four propositions form a tight logical matrix: self-grasping entails dharma-grasping, but dharma-grasping does not entail self-grasping. Removing dharma-grasping is more fundamental — once dharma-grasping is eliminated, self-grasping necessarily vanishes.
 
@@ -228,18 +228,18 @@ Fascicle 2 further establishes the causal structure of the two obstructions:[^19
 
 > "The two graspings of self and dharma — when these two graspings are eliminated, the two obstructions are removed." (我法二執，二執若遣二障即除。)
 
-> "No mark of self, person, sentient being, or life-span = eliminating self-grasping. No dharma-mark and no non-dharma-mark = eliminating dharma-grasping." (無我相人相眾生相壽者相 = 除我執；無法相亦無非法相 = 除法執。)
+> "'No mark of self, mark of person, mark of sentient being, mark of life-span': this is eliminating self-grasping. No dharma-mark and also no non-dharma-mark: this is eliminating dharma-grasping." (『無我相、人相、眾生相、壽者相』，是除我執也。無法相亦無非法相，是除法執也。)
 
-[^19]: Kuiji, *Zànshù*, fasc. 2, T33, No. 1700.
+[^19]: Zixuan, *Kanding ji*, fasc. 2 (0180b18, 0180b23–b24), T33, No. 1702.
 
-This is the Yogācāra doctrinal assessment of the Diamond Sūtra: the four marks correspond to self-grasping (afflictive obstruction); the dharma-mark and non-dharma-mark correspond to dharma-grasping (cognitive obstruction). Kuiji in fascicle 2 also establishes a four-fold distinction:[^20]
+This is the Yogācāra doctrinal assessment of the Diamond Sūtra: the four marks correspond to self-grasping (afflictive obstruction); the dharma-mark and non-dharma-mark correspond to dharma-grasping (cognitive obstruction). Zixuan in fascicle 2 also establishes a four-fold distinction:[^20]
 
 - Mind-liberated, wisdom-not-liberated = two vehicles (afflictive obstruction severed, cognitive obstruction remaining)
 - Mind-not-liberated, wisdom-liberated = great-compassion bodhisattvas
 - Both liberated = buddhas
 - Neither liberated = ordinary beings
 
-[^20]: Kuiji, *Zànshù*, fasc. 2, T33, No. 1700. The four-fold classification of liberation.
+[^20]: Zixuan, *Kanding ji*, fasc. 2 (0180b14–b16), T33, No. 1702. The four-fold classification of liberation.
 
 The first half moves the practitioner from "neither liberated" toward "mind-liberated" — a level attainable even by the śrāvaka vehicle. The second half pushes toward "both liberated" — the depth unique to the bodhisattva path.
 
@@ -262,15 +262,15 @@ The *Yogācārabhūmi-śāstra* (瑜伽師地論), fascicle 36, establishes an e
 
 [^22]: *Yogācārabhūmi-śāstra* (瑜伽師地論), fasc. 36, T30, No. 1579.
 
-Fascicle 48 uses the metaphor of skin/flesh/marrow for the three vehicles' progressive severance of obstructions:[^23]
+Fascicle 73 distinguishes three kinds of coarse heaviness — in the skin, in the flesh, in the mind — by whose severance the final vehicle "must pass through three incalculable eons" to realization:[^23]
 
 - Skin = coarse heaviness of evil-destiny dispositions
 - Flesh = coarse heaviness of afflictive obstruction
-- Marrow = coarse heaviness of cognitive obstruction
+- Mind = coarse heaviness of cognitive obstruction
 
-[^23]: *Yogācārabhūmi-śāstra*, fasc. 48, T30, No. 1579.
+[^23]: *Yogācārabhūmi-śāstra*, fasc. 73 (0701c28–c29, 0702a01–a05), T30, No. 1579.
 
-Skin is shed first, flesh next, marrow last. Cognitive obstruction is like bone marrow — deeply hidden. Not because it is intrinsically "harder," but because it is covert: you may not even know you have it. The second half of the Diamond Sūtra is necessary precisely because cognitive obstruction hides within "I understand the dharma."
+Skin is shed first, flesh next, the mind last. Cognitive obstruction is like bone marrow — deeply hidden (the treatise says "in the mind"; the bone-marrow image is the author's interpretation). Not because it is intrinsically "harder," but because it is covert: you may not even know you have it. The second half of the Diamond Sūtra is necessary precisely because cognitive obstruction hides within "I understand the dharma."
 
 ---
 
@@ -286,11 +286,11 @@ The argument unfolds across three dimensions.
 
 This paper does not rely on external theory to "discover" the Diamond Sūtra's dual-layer structure. The text itself provides three independent internal evidences:
 
-**Evidence 1: Word-order shift.** §2's "*yīng* yún hé zhù" → §17's "yún hé *yīng* zhù." This signals the questioner's consciousness has progressed — from "what should I do?" to "what does it really mean to abide?" The Buddha's response to the first question spans fifteen sections; his response to the second opens an entirely new dimension.
+**Evidence 1: Word-order shift.** §2's "*yīng* yún hé zhù" → §17's "yún hé *yīng* zhù." This signals the questioner's consciousness has progressed — from "what should I do?" to "what does it really mean to abide?" The Buddha's response to the first question spans fifteen sections; his response to the second opens an entirely new dimension. (Taking the word order as evidence of progression, and reading the second answer as an entirely new dimension rather than a repetition, are the author's interpretation; §17's answer first restates the skeleton of §3 — see §2.1.)
 
 **Evidence 2: "Marks" → "Views."** The first half uses *wǒ xiāng* 我相 (mark of self — the object of cognition); the second half upgrades to *wǒ jiàn* 我見 (view of self — the subject's mode of cognition). §31 applies the full *jífēi* structure to the four "views." The transition from *xiāng* to *jiàn* is the transition from deconstructing the grasped to deconstructing the grasping — from person-emptiness to dharma-emptiness.
 
-**Evidence 3: Upgrade in *jífēi* objects.** The first half's *jífēi* cuts "dharma-names" — buddha-fields, form-bodies, atoms, worlds. The second half's *jífēi* cuts "dharma-categories" — prajñāpāramitā, all dharmas, wholesome dharmas, *bodhi*, the act of teaching itself. The recursive structure operates at a deeper dimension in the second half: not only are individual concepts deconstructed, but the tools of deconstruction themselves are deconstructed.
+**Evidence 3: Upgrade in *jífēi* objects.** The first half's *jífēi* cuts "dharma-names" — buddha-fields, form-bodies, atoms, worlds. The second half's *jífēi* cuts "dharma-categories" — all dharmas, wholesome dharmas, *bodhi*, the act of teaching itself (the *jífēi* sentence on prajñāpāramitā is in §13, in the first half; this assignment of objects to the two halves is the author's interpretation). The recursive structure operates at a deeper dimension in the second half: not only are individual concepts deconstructed, but the tools of deconstruction themselves are deconstructed.
 
 Three evidences converge on a single conclusion: the Diamond Sūtra undergoes a qualitative progression at §17, not a quantitative repetition.
 
@@ -300,13 +300,13 @@ The Diamond Sūtra's dual-layer structure corresponds to the two-obstruction doc
 
 **First half (§1–§16) = Afflictive obstruction layer.** Objects deconstructed: four "marks" (self, person, sentient being, life-span). Root cause: grasping the imagined nature as a real "self" (*satkāya-dṛṣṭi* as chief). Counter-measure: non-abiding generosity, transcending all marks. Attainment: penetrating person-emptiness suchness, severing afflictive seeds. Corresponding realization: attainable by śrāvakas and pratyekabuddhas (mind-liberation).
 
-**Second half (§17–§32) = Cognitive obstruction layer.** Objects deconstructed: four "views," dharma-marks, non-dharma-marks. Root cause: grasping the imagined nature as a real "dharma." Counter-measure: "there is truly no dharma called *bodhi*," "no dharma to teach, called teaching," "all dharmas are buddha-dharma yet not all dharmas." Attainment: penetrating dharma-emptiness suchness, severing both obstruction-seeds simultaneously. Corresponding realization: attainable only by bodhisattvas and buddhas (both-liberation).
+**Second half (§17–§32) = Cognitive obstruction layer.** Objects deconstructed: four "views," dharma-marks, non-dharma-marks. Root cause: grasping the imagined nature as a real "dharma." Counter-measure: "there is truly no dharma of setting forth toward *bodhi*," "no dharma to teach, called teaching," "all dharmas are buddha-dharma yet not all dharmas." Attainment: penetrating dharma-emptiness suchness, severing both obstruction-seeds simultaneously. Corresponding realization: attainable only by bodhisattvas and buddhas (both-liberation).
 
-Kuiji's fascicle 2 assessment — "no marks of self through life-span = eliminating self-grasping; no dharma-mark and no non-dharma-mark = eliminating dharma-grasping" — is the most direct classical expression of this mapping.
+Zixuan's fascicle 2 assessment — "'No mark of self, mark of person, mark of sentient being, mark of life-span': this is eliminating self-grasping; no dharma-mark and also no non-dharma-mark: this is eliminating dharma-grasping" — is the most direct classical expression of this mapping.
 
-### 3.4 Third Dimension: Vasubandhu's "Harboring 'I Am a Bodhisattva'" — Diagnosing the Root
+### 3.4 Third Dimension: "Harboring 'I Am a Bodhisattva'" — Diagnosing the Root
 
-Vasubandhu's verse — "Harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding" — is the most critical text for understanding the §17 pivot.
+The re-questioning verse recorded in T1511 (ascribed to Asaṅga in T1513/T1514) — "Harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding" — is the most critical text for understanding the §17 pivot.
 
 The first half's practitioner has learned non-abiding generosity and transcendence of the four marks. But precisely this "having learned" manufactures a new problem:
 
@@ -314,7 +314,7 @@ The first half's practitioner has learned non-abiding generosity and transcenden
 - I am a bodhisattva who practices prajñā. → Metamorphosis of self-attachment.
 - My practice is deeper than others'. → Classic symptom of cognitive obstruction.
 
-Vasubandhu pinpoints it with four characters: *cún wǒ wéi púsà* — not that you have a mark of self (the first half already cut that), but that you have a subtler self-identification: "I am a practitioner." This identification is itself the obstruction — and it is more covert than "I am an ordinary being," because it wears the clothing of the dharma.
+The verse pinpoints it with five characters: *cún wǒ wéi púsà* — not that you have a mark of self (the first half already cut that), but that you have a subtler self-identification: "I am a practitioner." This identification is itself the obstruction — and it is more covert than "I am an ordinary being," because it wears the clothing of the dharma.
 
 This is why §17 must exist. If the Diamond Sūtra had only the first half, practitioners would rest in the self-satisfaction of "I have already transcended marks" — and that self-satisfaction is precisely cognitive obstruction. Subhūti's re-questioning represents not confusion but awakening: he recognizes that the first half's teaching is not yet sufficient — a deeper layer needs to be opened.
 
@@ -336,7 +336,7 @@ S5-P01 revealed the micro-level recursion of the *jífēi* formula — each "not
 
 Micro-recursion operates at the concept level (each *jífēi* cuts one designation); macro-recursion operates at the structural level (the entire sūtra's teaching repeats itself at different depths). The two are isomorphic in logic: continuously taking itself as the object of its own cutting.
 
-This also explains why the second half's *jífēi* formulations are more radical than the first half's. The first half cuts individual concepts' imagined nature (buddha-fields, form-bodies); the second half turns the cutting tools themselves — prajñā, wholesome dharmas, *bodhi* — into objects of *jífēi*. By the second half, the recursive structure has incorporated its own instruments into its cutting field.
+This also explains why the second half's *jífēi* formulations are more radical than the first half's. The first half cuts individual concepts' imagined nature (buddha-fields, form-bodies); the second half turns the cutting tools themselves — wholesome dharmas, *bodhi* — into objects of *jífēi* (the *jífēi* sentence on prajñāpāramitā is in §13, in the first half; this is the author's interpretation). By the second half, the recursive structure has incorporated its own instruments into its cutting field.
 
 ---
 
@@ -390,7 +390,7 @@ It is not negation but upgrading in dimension. The first half's teaching is enti
 
 ### 5.3 ❌ "Pretending Non-Attachment" — Claiming Non-Attachment While Attached to the Self-Image of Non-Attachment
 
-This is P07's primary correction battlefield. Vasubandhu's verse — "harboring 'I am a bodhisattva,' this itself obstructs the mind" — diagnoses this condition precisely.
+This is P07's primary correction battlefield. The verse recorded in T1511 — "harboring 'I am a bodhisattva,' this itself obstructs the mind" — diagnoses this condition precisely.
 
 The covertness of cognitive obstruction lies in this: knowing you have afflictive obstruction is easy — you are angry, and you know you are angry. Knowing you have cognitive obstruction is nearly impossible — because cognitive obstruction hides within "I understand the dharma." A person says "I have already transcended the four marks" — that statement itself is a new version of a "mark." A person says "I am not attached" — "non-attachment" has become their deepest attachment.
 
@@ -412,11 +412,11 @@ The Diamond Sūtra's dual-layer structure is a pedagogical design — it separat
 
 This paper's argument can be summarized in four points.
 
-First, the Diamond Sūtra's §17 is the structural pivot of the entire text. Subhūti's re-asking of the same question and the Buddha's response at an entirely different depth fold the sūtra into a dual-layer structure: first half addressing person-emptiness, second half addressing dharma-emptiness. Three text-internal evidences — word-order shift, upgrade from four "marks" to four "views," and upgrade of *jífēi* objects from external referents to the teaching itself — independently confirm this progression.
+First, the Diamond Sūtra's §17 is the structural pivot of the entire text. Subhūti's re-asking of the same question and the Buddha's response at an entirely different depth fold the sūtra into a dual-layer structure: first half addressing person-emptiness, second half addressing dharma-emptiness. Three text-internal evidences — word-order shift, upgrade from four "marks" to four "views," and upgrade of *jífēi* objects from external referents to the teaching itself — independently confirm this progression (this is the author's interpretation).
 
-Second, this dual-layer structure precisely maps the Yogācāra two-obstruction doctrine. The first half deconstructs self-grasping (afflictive obstruction), countering the practitioner's attachment to "self"; the second half deconstructs dharma-grasping (cognitive obstruction), countering the practitioner's attachment to "the teaching." Kuiji's assessment — "no marks of self through life-span = eliminating self-grasping; no dharma-mark and no non-dharma-mark = eliminating dharma-grasping" — is the most direct classical expression of this mapping.
+Second, this dual-layer structure precisely maps the Yogācāra two-obstruction doctrine. The first half deconstructs self-grasping (afflictive obstruction), countering the practitioner's attachment to "self"; the second half deconstructs dharma-grasping (cognitive obstruction), countering the practitioner's attachment to "the teaching." Zixuan's assessment — "'No mark of self, mark of person, mark of sentient being, mark of life-span': this is eliminating self-grasping; no dharma-mark and also no non-dharma-mark: this is eliminating dharma-grasping" — is the most direct classical expression of this mapping.
 
-Third, Vasubandhu's verse — "harboring 'I am a bodhisattva,' this itself obstructs the mind, violating the path of non-abiding" — provides the most critical textual evidence for the §17 pivot's doctrinal necessity. After the first half's teaching succeeds, "I am a practitioner" as a residual self-identification is precisely the typical form of cognitive obstruction. §17 exists not for repetition but to counter the more covert obstruction generated by the success of practice itself.
+Third, the verse recorded in T1511 (ascribed to Asaṅga in T1513/T1514) — "harboring 'I am a bodhisattva,' this itself obstructs the mind, violating the path of non-abiding" — provides the most critical textual evidence for the §17 pivot's doctrinal necessity. After the first half's teaching succeeds, "I am a practitioner" as a residual self-identification is precisely the typical form of cognitive obstruction. §17 exists not for repetition but to counter the more covert obstruction generated by the success of practice itself.
 
 Fourth, S5-P01 reveals *jífēi* = trisvabhāva mapping (micro-structure); this paper reveals dual-layer = two-obstruction mapping (macro-structure). Together they constitute the complete Yogācāra hermeneutic framework for the Diamond Sūtra — at the micro-level, each *jífēi* formula is a compressed expression of the three natures; at the macro-level, the sūtra's dual-layer architecture is the canonical mapping of the two obstructions.
 
@@ -443,10 +443,10 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 - *Vajracchedikā Prajñāpāramitā Sūtra* 金剛般若波羅蜜經, trans. Kumārajīva, T08, No. 235.
 - *Saṃdhinirmocana Sūtra* 解深密經, trans. Xuanzang, T16, No. 676.
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Vasubandhu), trans. Bodhiruci, T25, No. 1511.
+- *Jingang bore lun* 金剛般若論 (Asaṅga), trans. Dharmagupta, T25, No. 1510a.
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Asaṅga), trans. Dharmagupta, T25, No. 1510b.
 - *Cheng weishi lun* 成唯識論 (Dharmapāla et al.), trans. Xuanzang, T31, No. 1585.
 - *Yogācārabhūmi-śāstra* 瑜伽師地論 (Maitreya), trans. Xuanzang, T30, No. 1579.
-- Kuiji 窺基, *Jingang bore boluomi jing zanshu* 金剛般若波羅蜜經讚述, T33, No. 1700.
 - Zixuan 子璿, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, T33, No. 1702.
 
 ### II. Modern Scholarship
@@ -461,11 +461,10 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 | Diamond Sūtra 金剛經 | Vajracchedikā Prajñāpāramitā Sūtra 金剛般若波羅蜜經 | T08, No. 235 | entire text |
 | Saṃdhinirmocana Sūtra 解深密經 | Saṃdhinirmocana Sūtra 解深密經 | T16, No. 676 | fasc. 2, 4 |
 | Vasubandhu's Commentary 金剛般若經論 | Jingang bore boluomi jing lun 金剛般若波羅蜜經論 | T25, No. 1511 | fasc. 2 |
-| Asaṅga's Commentary 金剛般若論 | Jingang bore boluomi jing lun 金剛般若波羅蜜經論 | T25, No. 1510b | fasc. 2 |
-| Yogācārabhūmi 瑜伽師地論 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30, No. 1579 | fasc. 36, 48 |
+| Asaṅga's Commentary 金剛般若論 | Jingang bore lun 金剛般若論 | T25, No. 1510a | fasc. 2 |
+| Yogācārabhūmi 瑜伽師地論 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30, No. 1579 | fasc. 36, 73 |
 | Cheng weishi lun 成唯識論 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | fasc. 9, 10 |
-| Kuiji's Zànshù 金剛經讚述 | Jingang bore boluomi jing zanshu 金剛般若波羅蜜經讚述 | T33, No. 1700 | fasc. 1, 2 |
-| Zixuan's Kanding ji 金剛經刊定記 | Jingang jing zuanyao kanding ji 金剛經纂要刊定記 | T33, No. 1702 | fasc. 7 |
+| Zixuan's Kanding ji 金剛經刊定記 | Jingang jing zuanyao kanding ji 金剛經纂要刊定記 | T33, No. 1702 | fasc. 1, 2, 7 |
 
 ---
 
@@ -489,11 +488,11 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 [^1]: *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經) §2, "應云何住？云何降伏其心？" (How should they abide? How should they subdue their minds?), T08, No. 235.
 
-[^2]: *Vajracchedikā* §17, "云何應住？云何降伏其心？" (How should they abide? How should they subdue their minds?), T08, No. 235. Note the word-order difference: §2 reads "應云何住" (*yīng* yún hé zhù), §17 reads "云何應住" (yún hé *yīng* zhù).
+[^2]: *Vajracchedikā* §17, "云何應住？云何降伏其心？" (How should they abide? How should they subdue their minds?), T08, No. 235. Note the word-order difference: §2 reads "應云何住" (*yīng* yún hé zhù), §17 reads "云何應住" (yún hé *yīng* zhù). At §2 the Ming edition reads 云何應 for 應云何 (collation note at 0748c28).
 
 [^3]: *Vajracchedikā* §3, "若菩薩有我相人相眾生相壽者相，即非菩薩" (If a bodhisattva has a mark of self, person, sentient being, or life-span, they are not a bodhisattva), T08, No. 235.
 
-[^4]: *Vajracchedikā* §17, "實無有法發阿耨多羅三藐三菩提者" (There is truly no dharma called anuttara-samyak-saṃbodhi)… "於是中無實無虛" (In this there is neither reality nor unreality)… "即非一切法是故名一切法" (Not all dharmas, therefore called all dharmas), T08, No. 235.
+[^4]: *Vajracchedikā* §17, "實無有法發阿耨多羅三藐三菩提者" (There is truly no dharma of setting forth toward anuttara-samyak-saṃbodhi)… "於是中無實無虛" (In this there is neither reality nor unreality)… "即非一切法是故名一切法" (Not all dharmas, therefore called all dharmas), T08, No. 235.
 
 [^5]: Statistical analysis of four marks/views across the complete *Vajracchedikā*, T08, No. 235. §3 (L39), §6 (L63), §14 (L155) use 相 (*xiāng*, "mark"); §15 (L197) first introduces 見 (*jiàn*, "view"); §17 (L222) uses 相; §31 (L346-347) uses 見 with the full *jífēi* structure.
 
@@ -517,21 +516,21 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 [^15]: *Cheng weishi lun*, fasc. 9, "般若有三種謂生空無分別慧法空無分別慧俱空無分別慧" (Prajñā has three kinds: person-emptiness non-discriminating wisdom, dharma-emptiness non-discriminating wisdom, and both-emptinesses non-discriminating wisdom), T31, No. 1585.
 
-[^16]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, "於內心修行，存我為菩薩，此即障於心，違於不住道" (Cultivating within the mind, harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding), Vasubandhu's verse analyzing the §17 re-questioning, T25, No. 1511.
+[^16]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, "於內心修行，存我為菩薩，此即障於心，違於不住道" (Cultivating within the mind, harboring 'I am a bodhisattva' — this itself obstructs the mind, violating the path of non-abiding) (0790c15–c16), the core verse recorded in the treatise's analysis of the §17 re-questioning, T25, No. 1511. Yijing renders the same verse "由自身行時，將己為菩薩，說名為心障，違於無住心" (T25, No. 1513, fasc. 2, 0880c14–c15), whose fascicle 2 is headed "無著菩薩造頌　世親菩薩釋" (verses by Asaṅga, commentary by Vasubandhu; 0878b05); T25, No. 1514 (0886a03–a04, reading 已 for 己) is headed "無著菩薩造" (composed by Asaṅga; 0885a06).
 
-[^17]: *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), fasc. 2, Asaṅga's analysis of the §17 re-questioning: the bodhisattva's attachment to seeing themselves as having attained a superior position, T25, No. 1510b.
+[^17]: *Jingang bore lun* (金剛般若論), fasc. 2, Asaṅga's analysis of the §17 re-questioning: the bodhisattva's attachment to seeing themselves as having attained a superior position (0763c21–c22, 0763c25), T25, No. 1510a.
 
-[^18]: Kuiji, *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), fasc. 1, "凡夫有我執必兼有法執……菩薩無法執則必無我執" (Ordinary beings with self-grasping necessarily also have dharma-grasping… bodhisattvas without dharma-grasping necessarily lack self-grasping), the four-proposition logical relationship between self-grasping and dharma-grasping, T33, No. 1700.
+[^18]: Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), fasc. 1, "凡夫有我執必兼有法執……菩薩無法執則必無我執" (Ordinary beings with self-grasping necessarily also have dharma-grasping… bodhisattvas without dharma-grasping necessarily lack self-grasping) (0175b16–b18), the four-proposition logical relationship between self-grasping and dharma-grasping, T33, No. 1702.
 
-[^19]: Kuiji, *Zànshù*, fasc. 2, "我法二執，二執若遣二障即除" (The two graspings of self and dharma — when eliminated, the two obstructions are removed), "無我相人相眾生相壽者相 = 除我執，無法相亦無非法相 = 除法執" (No marks of self through life-span = eliminating self-grasping; no dharma-mark and no non-dharma-mark = eliminating dharma-grasping), T33, No. 1700.
+[^19]: Zixuan, *Kanding ji*, fasc. 2, "我法二執，二執若遣二障即除" (The two graspings of self and dharma — when eliminated, the two obstructions are removed) (0180b18), "『無我相、人相、眾生相、壽者相』，是除我執也。無法相亦無非法相，是除法執也" ('No mark of self, mark of person, mark of sentient being, mark of life-span': this is eliminating self-grasping. No dharma-mark and also no non-dharma-mark: this is eliminating dharma-grasping) (0180b23–b24), T33, No. 1702.
 
-[^20]: Kuiji, *Zànshù*, fasc. 2, four-fold classification: mind-liberated/wisdom-liberated/both-liberated/neither-liberated, T33, No. 1700.
+[^20]: Zixuan, *Kanding ji*, fasc. 2, four-fold classification: mind-liberated/wisdom-liberated/both-liberated/neither-liberated (0180b14–b16), T33, No. 1702.
 
 [^21]: Zixuan, *Kanding ji*, fasc. 7, "前破我法所緣之境令知不實，今破能緣我法見心" (Previously deconstructing the objects of self- and dharma-grasping to reveal their unreality; now deconstructing the mind that grasps self and dharma)… "非無二得道，遠離於我法" (It is not without both [emptinesses] that one attains the path — by distancing from self and dharma), T33, No. 1702.
 
 [^22]: *Yogācārabhūmi-śāstra* (瑜伽師地論), fasc. 36, four kinds of reality: afflictive-obstruction-purified wisdom cognizes the Four Noble Truths and person-selflessness; cognitive-obstruction-purified wisdom cognizes dharma-selflessness, beyond verbal expression, cognizable only by bodhisattvas and buddhas, T30, No. 1579.
 
-[^23]: *Yogācārabhūmi-śāstra*, fasc. 48, the thirteen abiding-stages' progressive severance of obstructions using the skin/flesh/marrow metaphor: skin = coarse heaviness of evil-destiny dispositions; flesh = afflictive obstruction; marrow = cognitive obstruction, T30, No. 1579.
+[^23]: *Yogācārabhūmi-śāstra*, fasc. 73, "一、惡趣不樂品在皮麁重……二、煩惱障品在肉麁重……三、所知障品在心麁重" (First, the coarse heaviness in the skin, of the class of the evil destinies and displeasure… second, the coarse heaviness in the flesh, of the class of afflictive obstruction… third, the coarse heaviness in the mind, of the class of cognitive obstruction) (0702a01–a05); the final vehicle "要經三種無數大劫方可證得，依斷三種麁重別故" (must pass through three incalculable eons to be realized, by severing these three distinct kinds of coarse heaviness) (0701c28–c29), T30, No. 1579.
 
 [^24]: Kegan, Robert. *The Evolving Self: Problem and Process in Human Development*. Harvard University Press, 1982.
 

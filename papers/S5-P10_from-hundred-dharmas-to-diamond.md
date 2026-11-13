@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P10"
 paper_number: 10
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # From the Hundred Dharmas to the Diamond: Construction and Dimensional Ascent
@@ -80,11 +80,11 @@ Diamond Sūtra §17 directly responds to the *Śatadharmaprakāśamukha*'s gover
 
 In the same section, the Buddha further declares:
 
-> 是故，佛說：「一切法無我、無人、無眾生、無壽者。」須菩提！若菩薩通達無我、法者，如來說名真是菩薩。
+> 是故，佛說：「一切法無我、無人、無眾生、無壽者。」……須菩提！若菩薩通達無我、法者，如來說名真是菩薩。
 >
-> "Therefore the Buddha says: 'All dharmas are without self, without person, without sentient being, without life-span.' Subhūti, if a bodhisattva penetrates selflessness and dharma-selflessness, the Tathāgata calls this one a true bodhisattva."
+> "Therefore the Buddha says: 'All dharmas are without self, without person, without sentient being, without life-span.' ... Subhūti, if a bodhisattva penetrates selflessness and dharma-selflessness, the Tathāgata calls this one a true bodhisattva."
 
-"All dharmas are without self" — these four characters appear in both the opening of the *Śatadharmaprakāśamukha* and §17 of the Diamond Sūtra. The hundred dharmas arrive there through analytical method: dismantling all dharmas into one hundred components and finding no "self" in any of them. The Diamond Sūtra arrives through prajñā method: *jífēi*-negating all dharmas, revealing that no dharma possesses substantial selfhood. Two paths, one destination.
+"All dharmas are without self" — these five characters appear in both the opening of the *Śatadharmaprakāśamukha* and §17 of the Diamond Sūtra. The hundred dharmas arrive there through analytical method: dismantling all dharmas into one hundred components and finding no "self" in any of them. The Diamond Sūtra arrives through prajñā method: *jífēi*-negating all dharmas, revealing that no dharma possesses substantial selfhood. Two paths, one destination.
 
 §28 further specifies:[^4]
 
@@ -98,9 +98,9 @@ In the same section, the Buddha further declares:
 
 The *Saṃdhinirmocana Sūtra* provides the crucial framework for understanding the nature of the hundred-dharma classification. The three natures are defined as follows:[^5]
 
-> 云何諸法遍計所執相？謂一切法名假安立自性差別，乃至為令隨起言說。云何諸法依他起相？謂一切法緣生自性。云何諸法圓成實相？謂一切法平等真如。
+> 云何諸法遍計所執相？謂一切法名假安立自性差別，乃至為令隨起言說。云何諸法依他起相？謂一切法緣生自性……云何諸法圓成實相？謂一切法平等真如。
 >
-> "What is the imagined character of all dharmas? It is the nominal designation of self-nature and distinction in all dharmas, established so that discourse may arise. What is the dependent character? It is the conditioned-arising nature of all dharmas. What is the consummated character? It is the equal suchness of all dharmas."
+> "What is the imagined character of all dharmas? It is the nominal designation of self-nature and distinction in all dharmas, established so that discourse may arise. What is the dependent character? It is the conditioned-arising nature of all dharmas. ... What is the consummated character? It is the equal suchness of all dharmas."
 
 The classificatory operation of the hundred dharmas — naming all dharmas (mind, mental factors, form…) and identifying their distinctions — is precisely the process of superimposing *parikalpita* upon *paratantra*. Classification is a necessary designation ("so that discourse may arise"), but it is not an intrinsic self-nature.
 
@@ -147,7 +147,7 @@ Notably, the four investigative contemplations (*catvāri paryeṣaṇāni*) of 
 
 #### 2.5 The Diamond Sūtra's Complete *Jífēi* Structure
 
-The Diamond Sūtra contains thirty-five instances of the "is not X… is called X" or "not X… is called X" formula, covering virtually every category — physical marks, merit, Buddhadharma, atoms, worlds, all dharmas, sentient beings, mind, material body, wholesome dharmas, ordinary beings, dharma-marks.[^11]
+The Diamond Sūtra repeatedly uses the "is not X… is called X" or "not X… is called X" formula, covering virtually every category — physical marks, merit, Buddhadharma, atoms, worlds, all dharmas, sentient beings, mind, material body, wholesome dharmas, ordinary beings, dharma-marks.[^11]
 
 What does this mean? Every category of the hundred dharmas — mind dharmas, mental factors, form dharmas, dharmas not associated with mind — can be *jífēi*-negated:
 
@@ -167,7 +167,7 @@ The *Cheng weishi lun* provides a precise real/provisional analysis of paratantr
 >
 > "Paratantra includes both real and provisional: aggregates, continuities, and positional natures are said to be provisionally existent; mind, mental factors, and form, arising from conditions, are said to be really existent."
 
-This means paratantra within the hundred dharmas has two levels: the mind-kings (eight consciousnesses) and mental factors are real paratantra — they arise from conditions and possess individual characteristics. Form dharmas and dharmas not associated with mind are provisional paratantra — they are positional designations established upon the basis of real dharmas.[^13]
+This means paratantra within the hundred dharmas has two levels: the mind-kings (eight consciousnesses), mental factors, and form dharmas are real paratantra — they arise from conditions and possess individual characteristics. Dharmas not associated with mind are provisional paratantra — they are positional designations established upon the basis of real dharmas.[^13]
 
 But whether real or provisional, they are all paratantra — all conditioned, all illusory-yet-real. The *Cheng weishi lun* states explicitly:[^14]
 
@@ -191,7 +191,7 @@ Every word in this passage points to the S3-to-S5 bridge:
 
 What drives the transformation? "Repeated cultivation of non-discriminative wisdom" — prajñā. Diamond prajñā does not arrive from outside the hundred dharmas to destroy them; it illuminates the hundred dharmas' true face from within.
 
-Among the six stages of basis-transformation,[^16] the most relevant are "cultivation transformation" (through repeated cultivation of the ten grounds) and "fruit-consummation transformation" (when the vajra-like samādhi arises and one permanently severs all coarse-and-heavy seeds). S3's learning belongs to "weakening-and-strengthening transformation" (the first two stages), while S5's contemplation belongs to "penetration transformation" and "cultivation transformation."
+Among the six stages of basis-transformation,[^16] the most relevant are "cultivation transformation" (through repeated cultivation of the ten grounds) and "fruit-consummation transformation" (when the vajra-like samādhi arises and one permanently severs all coarse-and-heavy seeds). S3's learning belongs to "weakening-and-strengthening transformation" (the first two stages), while S5's contemplation belongs to "penetration transformation" and "cultivation transformation" (this stage correspondence is the author's interpretation).
 
 The fruit of basis-transformation is the four wisdoms — great mirror wisdom, equality wisdom, wondrous observation wisdom, and accomplishment wisdom.[^17] The sixth consciousness's discriminative contemplation (S3's hundred-dharma analysis) transforms into wondrous observation wisdom (S5's prajñā contemplation); the seventh consciousness's self-grasping transforms into equality wisdom. S3-P14 detailed this mechanism; this paper confirms: converting consciousness into wisdom is not discarding consciousness, but seeing wisdom within consciousness. Hundred-dharma analysis does not disappear — it transforms into prajñā contemplation.
 
@@ -227,7 +227,7 @@ Suchness too is "a provisionally designated name" — it is not a substantial en
 
 #### 2.9 Vasubandhu's *Vajracchedikā Treatise*: The Doubt-Severing Structure
 
-Vasubandhu structured the entire Diamond Sūtra as "three questions and three answers" plus "twenty-four doubt-severings."[^21] Among these, the sixth doubt — "The bodhisattva adorns the buddha-field; how can this be non-graspable?" — receives a verse of extraordinary significance:
+Vasubandhu's treatise resolves a series of doubts throughout the entire Diamond Sūtra; Zongmi's *Zuanyao*, following it, counts "twenty-seven doubts severed."[^21] Among these, the sixth doubt — in the treatise's words, "this dharma cannot be grasped and cannot be spoken of; how then do bodhisattvas take up the adornment of pure buddha-lands?" — is answered with a verse Vasubandhu cites (a verse recorded in the treatise, ascribed to Asaṅga in T1513/T1514), of extraordinary significance:
 
 > 智習唯識通，如是取淨土。
 >
@@ -237,9 +237,9 @@ Kuiji glosses this in the *Zànshù*:[^22] "'Wisdom-practice' means cultivating 
 
 These five characters — "wisdom-practice, consciousness-only, penetration" — are precisely the bridging formula for S3→S5: "wisdom" is prajñā (S5), "practice" is cultivation (S3's hundred-dharma study), "consciousness-only" is the contemplative framework (S3's toolkit), and "penetration" is reaching true reality (S5's prajñā arriving at *pariniṣpanna*). Not "first consciousness-only, then wisdom," but "wisdom-practice-consciousness-only-penetration" — the cultivation of prajñā uses consciousness-only as its medium to penetrate reality.
 
-#### 2.10 Kuiji's *Zànshù* and Zixuan's *Kanding ji*: Reading the Diamond Sūtra Through Yogācāra
+#### 2.10 Zixuan's *Kanding ji*: Reading the Diamond Sūtra Through Yogācāra
 
-Kuiji systematically interprets the Diamond Sūtra through the Yogācāra framework. The most essential passage:[^23]
+Zixuan, in his *Kanding ji*, interprets through the three natures the secret meaning of prajñā that Zongmi's commentary brings out. The most essential passage:[^23]
 
 > 心之所現名曰依他，執之為實乃名遍計，依計既泯即是圓成。如繩依麻有蛇託繩生，繩蛇既亡則麻著矣！
 >
@@ -257,11 +257,11 @@ Zixuan's two-truth interpretation of the "is not… is called" structure:[^24]
 
 Zixuan further positions the Diamond Sūtra within the "dharma-mark-deconstructing school" (*pòxiāng zōng*):[^25]
 
-> 般若宗於破相。
+> 既般若宗於破相，今說有為，喻以夢幻泡影，則妙符宗旨也。
 >
-> "The Prajñā [tradition] belongs to the mark-deconstructing school."
+> "Since the Prajñā [tradition] belongs to the mark-deconstructing school, speaking now of the conditioned through the similes of dream, illusion, bubble, and shadow wonderfully accords with its doctrinal aim."
 
-But immediately clarifies that the purpose of deconstructing marks is not to negate everything:[^26]
+Yet earlier, before this passage, Zixuan has already made clear that the purpose of deconstructing marks is not to negate everything:[^26]
 
 > 大意皆破眾生遍計情執。
 >
@@ -295,7 +295,7 @@ The five-category classification of the hundred dharmas is a precise structure:
 |----------|------|-------|--------|--------------------------|
 | I | Mind dharmas | 8 | Conditioned; real paratantra | Like dreams, illusions... |
 | II | Mental factors | 51 | Conditioned; real/provisional paratantra | Like dreams, illusions... |
-| III | Form dharmas | 11 | Conditioned; provisional paratantra | Like dreams, illusions... |
+| III | Form dharmas | 11 | Conditioned; real paratantra | Like dreams, illusions... |
 | IV | Dharmas not associated with mind | 24 | Conditioned; provisional paratantra | Like dreams, illusions... |
 | V | Unconditioned dharmas | 6 | Unconditioned; pariniṣpanna-side | Outside the scope of the six similes |
 
@@ -307,13 +307,13 @@ But the fifth category — six unconditioned dharmas — falls outside this scop
 
 S5-P01 established the trisvabhāva mapping of the *jífēi* structure: "X" refers to paratantra (conditionally arisen designation), "is not X" negates *parikalpita* (reification), and "is called X" re-establishes conventional naming within *pariniṣpanna*.[^29]
 
-Applying this framework systematically to all five categories:
+Applying this framework systematically to all five categories (the five "The Buddha speaks of …" sentences below are the author's constructions on the *jífēi* pattern, not sūtra text):
 
 **Mind dharmas:** "The Buddha speaks of mind dharmas; they are not mind dharmas; they are called mind dharmas." The eight consciousnesses are dependently arisen contemplative categories — they help you see the operations of mind. But if you believe the eight consciousnesses are eight really existing "things" running inside your head, that is *parikalpita*. Knowing that the eight consciousnesses are contemplative designations, and continuing to use the eight-consciousness framework without attachment, is establishment within *pariniṣpanna*.
 
 **Mental factors:** "The Buddha speaks of mental factors; they are not mental factors; they are called mental factors." The fifty-one mental factors are tools for observing mental states — you use the label "craving" to identify a certain psychological tendency, the label "mindfulness" to identify another. But believing "craving" is an independently existing entity residing inside your mind is *parikalpita*. Mental factors are windows for contemplation, not components of mind.
 
-**Form dharmas:** "The Buddha speaks of form dharmas; they are not form dharmas; they are called form dharmas." All eleven form dharmas are provisionally existent paratantra — they are "reflections" of mind-kings and mental factors (the *Śatadharmaprakāśamukha*'s ordering rationale: "because they are the reflected images of the first two"). They are useful as contemplative objects but are not entities existing independently of mind.
+**Form dharmas:** "The Buddha speaks of form dharmas; they are not form dharmas; they are called form dharmas." All eleven form dharmas are paratantra — they are "reflections" of mind-kings and mental factors (the *Śatadharmaprakāśamukha*'s ordering rationale: "because they are the reflected images of the first two"). They are useful as contemplative objects but are not entities existing independently of mind.
 
 **Dharmas not associated with mind:** "The Buddha speaks of dharmas not associated with mind; they are not dharmas not associated with mind; they are called dharmas not associated with mind." The twenty-four dharmas not associated with mind are the most "provisional" of the conditioned dharmas — positionally designated, lacking even their own substance. Acquisition, life-faculty, species-similarity, birth, aging, abiding, impermanence — all are concepts designated upon the basis of mind and form dharmas. Precisely because they are pure designations, they most clearly display the nature of "classification as designation" — it is easiest to see *jífēi* at work in the dharmas not associated with mind.
 
@@ -397,7 +397,7 @@ The *Śatadharmaprakāśamukha* reveals this through an easily overlooked orderi
 
 S3 used fourteen papers to contemplate the structure of conditioned dharmas — dismantling the bricks of the wall. S5 used nine papers to illuminate the illusory nature of conditioned dharmas — discovering that each brick is not as solid as you thought. Then space appears. Not because you did something special, but because the obstruction is no longer there.
 
-The *Cheng weishi lun* states:[^34] "Fully achieved as revealed by the twofold emptiness, the true nature of all dharmas is called pariniṣpanna. This is the suchness — upon paratantra, permanently freed from the preceding parikalpita — revealed by the twofold emptiness."
+The *Cheng weishi lun* states:[^34] "Fully achieved as revealed by the twofold emptiness, the true nature of all dharmas is called pariniṣpanna. ... This is the suchness — upon paratantra, permanently freed from the preceding parikalpita — revealed by the twofold emptiness."
 
 *Pariniṣpanna* is not a new thing — it is the suchness "revealed" upon paratantra once *parikalpita* has been cleared away. Hundred-dharma contemplation (S3) + prajñā cutting (S5) = clearing away *parikalpita* = *pariniṣpanna* revealed. This is the ultimate meaning of "construction and dimensional ascent": not building a structure and then demolishing it, but building a structure and then discovering — the structure has always stood upon the ground, and the ground is suchness.
 
@@ -483,17 +483,17 @@ S3 and S5 are not a strict sequential order in practice — they operate simulta
 
 The Pointing at the Moon octology's numbering (S3→S4→S5) is the pedagogical order of exposition, not a strict practice sequence. At any given moment, a practitioner is simultaneously constructing and contemplating — the emphasis merely shifts at different stages.
 
-However, "not a strict sequence" also does not mean "skip the foundations." The path of accumulation in the five Yogācāra stages — hearing-and-reflection wisdom, moral discipline and meditative stability, the genuine arising of bodhicitta and renunciation — is the fuel that ignites the contemplative wisdom of the preparatory path. Without a stable foundation in the hundred-dharma study-and-reflection, the four investigative contemplations are mere conceptual spinning; without the practical foundation of discipline and meditative stability, contemplating emptiness remains philosophical speculation. The three discouragements and three forms of tempering that S3-SUP01 discussed (discouragement upon hearing how vast bodhi is, how difficult the six perfections are, how remote basis-transformation seems) are the psychological passages that practitioners must traverse during the path of accumulation. "Not a strict sequence" means S3 and S5 can be interwoven, not that you can skip S3 and proceed directly to S5.
+However, "not a strict sequence" also does not mean "skip the foundations." The path of accumulation in the five Yogācāra stages — hearing-and-reflection wisdom, moral discipline and meditative stability, the genuine arising of bodhicitta and renunciation — is the fuel that ignites the contemplative wisdom of the preparatory path. Without a stable foundation in the hundred-dharma study-and-reflection, the four investigative contemplations are mere conceptual spinning; without the practical foundation of discipline and meditative stability, contemplating emptiness remains philosophical speculation. The three discouragements and three forms of tempering that S3-SUP01 discussed (discouragement upon hearing how vast bodhi is, how difficult the six perfections are, how remote basis-transformation seems) are the psychological passages that practitioners must traverse during the path of accumulation. "Not a strict sequence" means S3 and S5 can be interwoven, not that you can skip S3 and proceed directly to S5 (this is the author's interpretation).
 
 ### ❌ Misreading Three: "The hundred dharmas are Hīnayāna, the Diamond Sūtra is Mahāyāna"
 
 The *Śatadharmaprakāśamukha* is a Mahāyāna treatise — composed by Vasubandhu Bodhisattva, governed by "all dharmas are without self," including dharma-selflessness (not merely person-selflessness). The Diamond Sūtra is a Mahāyāna sūtra — centered on prajñā, oriented toward the bodhisattva path. Both are different facets of the same practice system — analysis and contemplation, construction and deconstruction, consciousness and wisdom.
 
-The doctrinal classification in Zixuan's *Kanding ji* already indicated:[^35] the dharma-mark school (*Saṃdhinirmocana*, *Yogācāra*, *Vijñaptimātra*) and the mark-deconstructing school (*Prajñā*, *Madhyamaka*, *Śata*) differ in approach, yet "the overarching intent is simply to deconstruct sentient beings' *parikalpita*-based emotional grasping." S3 deconstructs *parikalpita* through analytical method; S5 deconstructs *parikalpita* through prajñā method — different methods, same objective.
+Zixuan's *Kanding ji* already indicated:[^35] whatever the sūtra or treatise, "though their doctrinal aims differ, the overarching intent is simply to deconstruct sentient beings' *parikalpita*-based emotional grasping" — and the dharma-mark school (*Saṃdhinirmocana*, *Yogācāra*, *Vijñaptimātra*) and the mark-deconstructing school (*Prajñā*, *Madhyamaka*, *Śata*, *Dvādaśamukha*) listed in the same fascicle's doctrinal classification both fall within this. S3 deconstructs *parikalpita* through analytical method; S5 deconstructs *parikalpita* through prajñā method — different methods, same objective.
 
 ### ❌ Misreading Four: "I no longer need the hundred dharmas"
 
-This is the most covert form of dharma-grasping — the belief that having transcended tools, one no longer needs them. S5-P07 cited Vasubandhu's warning: "Harboring 'I am a bodhisattva' — this itself obstructs the mind."[^36] Believing "I no longer need the hundred dharmas" is "harboring 'I am one who has transcended'" — another self-image acquired.
+This is the most covert form of dharma-grasping — the belief that having transcended tools, one no longer needs them. S5-P07 cited the warning of the verse recorded in the T1511 treatise: "Harboring 'I am a bodhisattva' — this itself obstructs the mind" (ascribed to Asaṅga in T1513/T1514).[^36] Believing "I no longer need the hundred dharmas" is "harboring 'I am one who has transcended'" — another self-image acquired.
 
 Bodhisattvas walk the path within illusion and continue to use illusory tools. Letting go of the raft does not mean forgetting the raft — you place it by the riverbank for those who come after. You do not carry the raft on your back, but neither do you burn it.
 
@@ -541,8 +541,8 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 6. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., tr. Xuanzang, T31, No. 1585.
 7. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, tr. Xuanzang, T30, No. 1579.
 8. *Vajracchedikā-prajñāpāramitā-sūtra-śāstra* (金剛般若波羅蜜經論), by Vasubandhu, tr. Bodhiruci, T25, No. 1511.
-9. *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), by Kuiji, T33, No. 1700.
-10. *Jingang bore jing zanshu* (金剛般若經贊述), by Kuiji, T33, No. 1700.
+9. *Jingang bore jing zanshu* (金剛般若經讚述), by Kuiji, T33, No. 1700.
+10. *Jingang bore jing shu lun zuanyao* (金剛般若經疏論纂要), by Zongmi, ed. Zixuan, T33, No. 1701.
 11. *Cheng weishi lun shuji* (成唯識論述記), by Kuiji et al., T43, No. 1830.
 12. *Triṃśikā-vijñaptimātratā* (唯識三十論頌), by Vasubandhu, tr. Xuanzang, T31, No. 1586.
 13. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
@@ -566,9 +566,9 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 | 7 | Yogācārabhūmi | T30 | No. 1579 | Fasc. 1, 3, 29 |
 | 8 | Vajracchedikā-śāstra (Vasubandhu) | T25 | No. 1511 | Doubt-severing structure |
 | 9 | Zànshù (Kuiji) | T33 | No. 1700 | Fasc. 1 |
-| 10 | Zànshù (Kuiji) | T33 | No. 1700 | Fasc. 1, 2 |
+| 10 | Zuanyao (Zongmi) | T33 | No. 1701 | Fasc. 1 |
 | 11 | Triṃśikā-vijñaptimātratā | T31 | No. 1586 | Preparatory-stage & penetration-stage verses |
-| 12 | Kanding ji (Zixuan) | T33 | No. 1702 | Fasc. 3, 7 |
+| 12 | Kanding ji (Zixuan) | T33 | No. 1702 | Fasc. 1, 3, 7 |
 
 ---
 
@@ -583,7 +583,7 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 | **S5-P05** Merit Comparisons | The "dharma-joy" of studying the hundred dharmas itself needs transformation — from "I have mastered Yogācāra" to "all dharmas are without self" |
 | **S5-P06** Giving Rise to Mind Without Abiding | Contemplating mind through the hundred dharmas without abiding in the contemplation — non-abiding in the hundred dharmas, giving rise to prajñā-mind |
 | **S5-P07** The Diamond Sūtra's Self-Replay | P07's two-obstruction mapping directly supports P10: S3 = first half (proper use of paratantra), S5 = second half (not even attached to tools) |
-| **S5-P08** The Tathāgata Cannot Be Seen Through Marks | The hundred dharmas are a mind-form classification; the Dharma-body transcends mind and form. Hundred-dharma contemplation at its limit points beyond the hundred dharmas to the unconditioned |
+| **S5-P08** The Tathāgata Cannot Be Seen Through Marks | The first four categories of the hundred dharmas are conditioned dharmas such as mind and form; the Dharma-body transcends mind and form. Hundred-dharma contemplation at its limit points to the unconditioned — suchness unconditioned, in the hundred dharmas' fifth category |
 | **S5-P09** Six Similes of Illusion | P09 declares all ninety-four conditioned dharmas illusory; P10 asks: can the illusory hundred dharmas still be used? Answer: yes |
 | **S3-P01** All Dharmas Without Self — General Outline | S3-P01's "all dharmas are without self" is the hundred-dharma governing principle. P10 returns to it: the Diamond Sūtra's "all dharmas are not all dharmas" is the prajñā version of "all dharmas are without self" |
 | **S3-P05** The Sixth Consciousness — The Only Mirror-Capable Consciousness | S3's contemplative subject (the sixth consciousness) transforms in P10 into prajñā wisdom (wondrous observation wisdom) |
@@ -614,7 +614,7 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 
 [^10]: 《金剛般若波羅蜜經》§17, 「如來者，即諸法如義」, suchness unmoved, T8, No. 0235.
 
-[^11]: Complete catalogue of the Diamond Sūtra's *jífēi* structure, thirty-five instances; see §2.5 of this paper and S5-P01 §2.1.
+[^11]: Complete catalogue of the Diamond Sūtra's *jífēi* structure; see §2.5 of this paper and S5-P01 §2.1.
 
 [^12]: 《成唯識論》fasc. 8, 「依他起性有實有假」, real/provisional analysis, T31, No. 1585.
 
@@ -634,11 +634,11 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 
 [^20]: 《成唯識論》fasc. 2, 「遮撥為無故說為有，遮執為有故說為空」, suchness as neither superimposed nor denied, T31, No. 1585.
 
-[^21]: 《金剛般若波羅蜜經論》(Vasubandhu), three questions and three answers plus twenty-four doubt-severings, T25, No. 1511.
+[^21]: 《金剛般若波羅蜜經論》(Vasubandhu) fasc. 1, 「是法不可取、不可說；云何諸菩薩取莊嚴淨佛國土？」, T25, No. 1511. Zongmi, 《金剛般若經疏論纂要》fasc. 1, 「斷二十七疑」; the sixth doubt is 「斷嚴土違於不取疑」, T33, No. 1701.
 
 [^22]: 《金剛般若經贊述》fasc. 1, 「智習謂修習無分別智，唯識謂智相應淨識，通者謂達真理」, T33, No. 1700.
 
-[^23]: 《金剛般若波羅蜜經讚述》fasc. 1, 「心之所現名曰依他，執之為實乃名遍計，依計既泯即是圓成」, the rope-snake analogy, T33, No. 1700.
+[^23]: 《金剛經纂要刊定記》fasc. 1, 「心之所現名曰依他，執之為實乃名遍計，依計既泯即是圓成」, the rope-snake analogy, T33, No. 1702.
 
 [^24]: 《金剛經纂要刊定記》fasc. 3, 「即非佛法是勝義諦遮增益邊，是名佛法是世俗諦遮損減邊」, two-truth interpretation of *jífēi* / *shìmíng*, T33, No. 1702.
 
@@ -662,9 +662,9 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 
 [^34]: 《成唯識論》fasc. 8, 「二空所顯圓滿成就，諸法實性，名圓成實」, definition of pariniṣpanna, T31, No. 1585.
 
-[^35]: 《金剛經纂要刊定記》fasc. 7, three Mahāyāna schools doctrinal classification, T33, No. 1702.
+[^35]: 《金剛經纂要刊定記》fasc. 7, 「隨何經論宗趣雖殊，大意皆破眾生遍計情執」, and the three Mahāyāna schools doctrinal classification, T33, No. 1702.
 
-[^36]: 《金剛般若波羅蜜經論》(Vasubandhu), 「存我為菩薩，此即障於心，違於不住道」, the re-questioning verse, T25, No. 1511.
+[^36]: 《金剛般若波羅蜜經論》(Vasubandhu) fasc. 2, 「存我為菩薩，此即障於心，違於不住道」 (0790c15–c16), the re-questioning verse recorded in the treatise, T25, No. 1511. Yijing's translations of the same verse ascribe it to Asaṅga: T25, No. 1513, fasc. 2 headed 「無著菩薩造頌　世親菩薩釋」 (0878b05; verse at 0880c14–c15); T25, No. 1514 headed 「無著菩薩造」 (0885a06; verse at 0886a03–a04).
 
 [^37]: 《唯識三十論頌》, preparatory-stage verse and penetration-stage verse, T31, No. 1586. 《成唯識論》fasc. 9, commentary on 「現前立少物」and 「若時於所緣智都無所得」, T31, No. 1585. See S3-SUP01, "The Four Preparatory Stages: From Knowing to Seeing."
 

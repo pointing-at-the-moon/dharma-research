@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # Dharma Should Still Be Let Go
@@ -16,7 +16,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The Diamond Sūtra §6 raft analogy — "dharma should still be let go, how much more so non-dharma" (法尚應捨，何況非法) — is the most commonly misread passage in the entire sūtra. Popular readings interpret "dharma should be let go" as meaning "Buddhist teachings are unimportant" or even "practice is unnecessary," sliding directly into nihilism. This paper argues that the doctrinal core of the raft analogy is not "abandoning dharma" but the "right use" of paratantra (dependent nature): the raft is paratantra (dependently arisen, genuinely useful); clinging to the raft as a destination becomes parikalpita (the imagined turns the tool into a prison); setting it down after crossing reveals pariniṣpanna (the raft remains in the water, but you have reached the shore). Through the raft analogy's prototype in the Madhyama Āgama's Alagaddūpama Sutta (T0026) — the paired snake-and-raft teaching — this paper traces the analogy's pedagogical design: not "dharma is unimportant" but "how you learn dharma determines its efficacy." Using the Saṃdhinirmocana Sūtra's (T0676) "neither superimposing nor diminishing," the Cheng weishi lun's (T1585) āśraya-parāvṛtti mechanism and post-attainment cognition, and the Yogācārabhūmi's (T1579) upāya-kauśalya pāramitā as Yogācāra evidence, the paper establishes the raft analogy's trisvabhāva mapping and practice sequence. Vasubandhu's verse — "not abiding, in accordance, attaining wisdom within dharma, like a person releasing a raft" — confirms the analogy's precise operation: not abandoning dharma itself ("not discarding dharma"), but "non-abiding." Zixuan's gloss — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way" — positions the raft analogy as the core teaching of Middle Way praxis.
+The Diamond Sūtra §6 raft analogy — "dharma should still be let go, how much more so non-dharma" (法尚應捨，何況非法) — is the most commonly misread passage in the entire sūtra. Popular readings interpret "dharma should be let go" as meaning "Buddhist teachings are unimportant" or even "practice is unnecessary," sliding directly into nihilism. This paper argues that the doctrinal core of the raft analogy is not "abandoning dharma" but the "right use" of paratantra (dependent nature): the raft is paratantra (dependently arisen, genuinely useful); clinging to the raft as a destination becomes parikalpita (the imagined turns the tool into a prison); setting it down after crossing reveals pariniṣpanna (the raft remains in the water, but you have reached the shore). Through the raft analogy's prototype in the Madhyama Āgama's Alagaddūpama Sutta (T0026) — the paired snake-and-raft teaching — this paper traces the analogy's pedagogical design: not "dharma is unimportant" but "how you learn dharma determines its efficacy." Using the Saṃdhinirmocana Sūtra's (T0676) "neither superimposing nor diminishing," the Cheng weishi lun's (T1585) āśraya-parāvṛtti mechanism and post-attainment cognition, and the Yogācārabhūmi's (T1579) upāya-kauśalya pāramitā as Yogācāra evidence, the paper establishes the raft analogy's trisvabhāva mapping and practice sequence. The verse recorded in the T1511 treatise (ascribed to Asaṅga in T1513/T1514) — "not abiding, in accordance, attaining wisdom within dharma, like a person releasing a raft" — confirms the analogy's precise operation: not abandoning dharma itself ("not discarding dharma"; this is the author's interpretation), but "non-abiding." Zixuan's gloss — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence; departing both, one returns to the Middle Way" — positions the raft analogy as the core teaching of Middle Way praxis.
 
 **Keywords:** Diamond Sūtra, raft analogy, dharma should be let go, paratantra, right use, trisvabhāva mapping, āśraya-parāvṛtti, pṛṣṭha-labdha-jñāna, upāya-kauśalya, Middle Way
 
@@ -138,17 +138,17 @@ What "dharma" does the raft analogy ask us to release? The character 法 in the 
 
 ### B. Treatise Sources
 
-#### 2.6 Vasubandhu: "Non-Abiding in Accordance" — Before Reaching Shore, Take the Raft; After, Do Not Abide in Dharma
+#### 2.6 Vasubandhu's Cited Verse: "Non-Abiding in Accordance" — Before Reaching Shore, Take the Raft; After, Do Not Abide in Dharma
 
-Vasubandhu in the *Jingang bore boluomi jing lun* (T1511) provides the most precise operational definition for the raft analogy. First, he cites a crucial variant of the sūtra passage: "This dharma should be let go — not that dharma itself is discarded" (是法應捨，非捨法故).[^10] The phrase "not discarding dharma itself" is the cornerstone of Vasubandhu's interpretation: dharma should be released, but what is released is not "dharma itself" — it is "abiding in dharma."
+Vasubandhu in the *Jingang bore boluomi jing lun* (T1511) provides the most precise operational definition for the raft analogy. First, he cites a crucial variant of the sūtra passage: "This dharma should be let go — not that dharma itself is discarded" (是法應捨，非捨法故).[^10] The phrase "not discarding dharma itself" (非捨法者, the form in which the treatise's commentary cites the passage) is the cornerstone of Vasubandhu's interpretation: dharma should be released, but what is released is not "dharma itself" — it is "abiding in dharma" (this is the author's interpretation; the treatise's prose states plainly that "having attained realization-wisdom one releases dharma, as one releases the raft on reaching the far shore," 以得證智捨法故，如到彼岸捨栰故).
 
 Vasubandhu further explains "one should not grasp dharma, nor should one not grasp dharma":[^11]
 
 > "Should not grasp dharma" means one should not grasp dharma as mere sound. "Nor should one not grasp dharma" means grasping in accordance with ultimate truth-wisdom, correctly spoken thus.
 
-"Should not grasp dharma as mere sound" — do not seize the surface level of words. "In accordance with ultimate truth-wisdom, correctly grasp" — grasp through first-meaning wisdom, as things truly are. It is not "do not grasp" but "grasp correctly" — the mode of grasping transforms.
+"Should not grasp dharma as mere sound" — do not seize the surface level of words. "In accordance with ultimate truth-wisdom, correctly spoken thus, grasp" — grasp through first-meaning wisdom, as things truly are. It is not "do not grasp" but "grasp correctly" — the mode of grasping transforms.
 
-Vasubandhu's verse is the raft analogy's most complete doctrinal compression:[^12]
+The verse recorded in the T1511 treatise (ascribed to Asaṅga in T1513/T1514) is the raft analogy's most complete doctrinal compression:[^12]
 
 > Not abiding, in accordance, / Attaining wisdom within dharma, / Like a person releasing a raft — / So too with the meaning within dharma.
 
@@ -168,9 +168,9 @@ Asaṅga in the *Jingang bore lun* (T1510a/T1510b) approaches the raft analogy f
 
 Asaṅga further proposes the "five types of wrong grasping" framework:[^14] non-Buddhists' self-notions, Buddhist worldlings' and śrāvakas' dharma-mark turning, overconfident bodhisattvas' non-pure-notion turning (which still constitutes dharma-grasping), mundane shared-notion samādhi, and no-notion samādhi. The raft analogy counters all five — not merely one particular error, but every form of "grasping."
 
-#### 2.8 Kuiji and Zixuan: "Departing Both Existence and Non-Existence, One Returns to the Middle Way"
+#### 2.8 Kuiji and Zixuan: "Having Departed Both Existence and Non-Existence, One Returns to the Middle Way"
 
-Kuiji's *Jingang bore boluomi jing zanshu* (T1700) and Zixuan's *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記, T1702) read the raft analogy through multiple layers.
+Kuiji's *Jingang bore jing zanshu* (T1700) and Zixuan's *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記, T1702) read the raft analogy through multiple layers.
 
 On the positioning of dharma-grasping, Zixuan states explicitly in fascicle 2:[^15]
 
@@ -208,7 +208,7 @@ About to realize truth — one needs language (the raft). At the moment of reali
 
 The raft analogy's two great misreadings — "dharma is unimportant" (diminishing) and "dharma is the answer" (superimposing) — find their most precise doctrinal basis in the Saṃdhinirmocana Sūtra.
 
-The sūtra's fascicle 2 uses the sphaṭika (crystal) analogy to establish the three-nature framework: the pure crystal = paratantra, the colors seen on the crystal = parikalpita, taking the crystal to be a gem = superimposition on paratantra.[^20]
+The sūtra's fascicle 2 uses the sphaṭika (crystal) analogy to establish the three-nature framework: the pure crystal = paratantra; the dye-colors adhering to the crystal = the verbal habit-energy of parikalpita upon paratantra; mistakenly grasping the crystal as sapphire, great-blue gem, amber, emerald, or gold = the grasping of parikalpita upon paratantra (which this paper treats as superimposition on paratantra).[^20]
 
 The core operational instruction:[^21]
 
@@ -384,7 +384,7 @@ A third person: falls ill, takes medicine, recovers, stops. Neither thanking the
 
 The dharma is a prescription. When the illness (affliction/ignorance) is cured (realizing tathatā), the medicine (dharma) has fulfilled its function. Continuing to take medicine = carrying the raft on your head. Throwing away the prescription = throwing the raft away in the river. Using it and then stopping = the Middle Way.
 
-Vasubandhu's "harboring 'I am a bodhisattva' — this itself obstructs the mind" (P07 §3.4) unfolds within this analogy as: "I am someone who knows how to prescribe medicine," "I am someone who has already recovered" — these self-identifications are symptoms arising after the illness has been cured. You believe you have recovered, but the thought "I have recovered" is itself evidence that recovery is not yet complete.
+The verse recorded in the T1511 treatise (ascribed to Asaṅga in T1513/T1514), "harboring 'I am a bodhisattva' — this itself obstructs the mind" (P07 §3.4), unfolds within this analogy as: "I am someone who knows how to prescribe medicine," "I am someone who has already recovered" — these self-identifications are symptoms arising after the illness has been cured. You believe you have recovered, but the thought "I have recovered" is itself evidence that recovery is not yet complete.
 
 ---
 
@@ -420,15 +420,15 @@ This is the raft analogy's greatest pedagogical danger. If you "let go of dharma
 
 ### ❌ The Raft Analogy Is Not Relativism
 
-"Dharma should be let go, how much more so non-dharma" does not mean "dharma and non-dharma are equally valid" or "anything goes." The raft is necessary while crossing the river — you cannot cross with a "non-raft" (a stone, a pile of mud). Zixuan's Middle Way analysis — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence" — makes clear: not grasping dharma and not grasping non-dharma are simultaneous, not an assertion that dharma and non-dharma are interchangeable. The Saṃdhinirmocana Sūtra's warning is more direct: "If a dharma truly exists, know it as truly existing; if a dharma truly does not exist, know it as truly not existing" — faithful knowing is the key, not "it's all the same anyway."
+"Dharma should be let go, how much more so non-dharma" does not mean "dharma and non-dharma are equally valid" or "anything goes." The raft is necessary while crossing the river — you cannot cross with a "non-raft" (a stone, a pile of mud). Zixuan's Middle Way analysis — "not grasping dharma departs from existence; not grasping non-dharma departs from non-existence" — makes clear: not grasping dharma and not grasping non-dharma are simultaneous, not an assertion that dharma and non-dharma are interchangeable. The Yogācārabhūmi's warning is more direct: "If a dharma truly exists, know it as truly existing; if a dharma truly does not exist, know it as truly not existing" — faithful knowing is the key, not "it's all the same anyway."
 
 ### ❌ "Letting Go" Presupposes "Having Taken Up"
 
 A person who has never crossed the river says "I have already let go of the raft" — they have not let go; they have never taken up. Letting go is an action with a prerequisite: you once practiced earnestly, genuinely used these tools, weathered storms on the river, and finally reached shore — then you let go. Speaking of letting go without having ever taken up is a classic symptom of verbal prajñā. S5-P02's knowing-versus-realization distinction applies directly here: "knowing" about letting go is knowing; "accomplishing" letting go is realization — being able to discourse eloquently to others does not count.
 
-### ❌ "I Have Already Let Go of the Raft" = The Raft-Analogy Version of Vasubandhu's "Harboring 'I Am a Bodhisattva'"
+### ❌ "I Have Already Let Go of the Raft" = The Raft-Analogy Version of the T1511 Verse "Harboring 'I Am a Bodhisattva'"
 
-S5-P07 §3.4 analyzed Vasubandhu's "harboring 'I am a bodhisattva' — this itself obstructs the mind" — the identification "I am a practitioner" is itself an obstruction. In the raft analogy, this illness takes a specific form: "I have already let go."
+S5-P07 §3.4 analyzed the T1511 verse "harboring 'I am a bodhisattva' — this itself obstructs the mind" — the identification "I am a practitioner" is itself an obstruction. In the raft analogy, this illness takes a specific form: "I have already let go."
 
 "I have already let go" — submit this statement to S5-P02's mirror. What does the mirror reveal? It reveals a "self" announcing its own "letting go." "Letting go" has become a new achievement; "I have already let go" has become a new self-portrait. You believe you have released the raft — but simultaneously you have picked up something more hidden: "the self that released the raft."
 
@@ -446,7 +446,7 @@ First, the doctrinal core of the raft analogy is not "abandoning dharma" but the
 
 Second, the Madhyama Āgama's prototype teaching (paired snake-and-raft analogies) reveals the raft analogy's complete structure: the correctness of one's learning method matters more than whether one learns (snake analogy); after learning correctly, one must still release the tool at the appropriate time (raft analogy). The Diamond Sūtra compresses this into eight characters — "dharma should be let go, how much more so non-dharma" — yet the pedagogical logic is fully preserved.
 
-Third, Vasubandhu's "not discarding dharma itself" and "non-abiding in accordance," Asaṅga's "because right cognition has arisen," and Zixuan's "departing both existence and non-existence, one returns to the Middle Way" — the treatise masters and the commentator confirm from different angles: the raft analogy teaches "non-abiding," not "negation"; the Middle Way, not nihilism.
+Third, Vasubandhu's "not discarding dharma itself" and the verse he cites, "non-abiding in accordance," Asaṅga's "because right cognition has arisen," and Zixuan's "having departed both existence and non-existence, one returns to the Middle Way" — the treatise masters and the commentator confirm from different angles: the raft analogy teaches "non-abiding," not "negation"; the Middle Way, not nihilism.
 
 Fourth, the Cheng weishi lun's āśraya-parāvṛtti mechanism provides precise Yogācāra translation for the raft analogy: the basis (paratantra) is not destroyed; what is abandoned is the parikalpita superimposed upon paratantra; what is attained is the pariniṣpanna within paratantra. The raft remains in the water, but you have reached shore — your relationship with the raft has changed; the raft itself has not.
 
@@ -476,7 +476,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 - *Jingang bore lun* (金剛般若論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), T25, No. 1510a.
 - *Yuqie shidi lun* (瑜伽師地論), by Maitreya (彌勒菩薩), trans. Xuanzang (唐玄奘), T30, No. 1579.
 - *Cheng weishi lun* (成唯識論), by Dharmapāla et al. (護法等菩薩), trans. Xuanzang (唐玄奘), T31, No. 1585.
-- Kuiji (窺基), *Jingang bore boluomi jing zanshu* (金剛般若波羅蜜經讚述), T33, No. 1700.
+- Kuiji (窺基), *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700.
 - Zixuan (子璿), *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
 
 ### II. Modern Scholarship
@@ -496,7 +496,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 | Asaṅga's Diamond Treatise (Dharmagupta) | Jingang bore lun | T25, No. 1510a | Fascicle 1 |
 | Yogācārabhūmi | Yuqie shidi lun | T30, No. 1579 | Fascicles 45, 48, 49 |
 | Cheng weishi lun | Cheng weishi lun | T31, No. 1585 | Fascicles 8, 9, 10 |
-| Kuiji's Zànshù | Jingang bore boluomi jing zanshu | T33, No. 1700 | Fascicle 1 |
+| Kuiji's Zànshù | Jingang bore jing zanshu | T33, No. 1700 | Fascicle 1 |
 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33, No. 1702 | Fascicles 2, 3, 4 |
 
 ---
@@ -508,7 +508,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 | S5-P01 The Jífēi Structure and Trisvabhāva | P01's Pointing-at-the-Moon mapping (X=paratantra, is-not=negates parikalpita, is-called=pariniṣpanna) directly applied to the raft analogy's trisvabhāva mapping |
 | S5-P02 The Kōan Mirror | The knowing/realization distinction provides criteria for judging whether "letting go" is genuine: "knowing" about letting go ≠ "accomplishing" letting go. "I have already let go" = a new self-portrait submitted to the mirror |
 | S5-P03 All Marks Are Illusory | P03 = first cut (cutting marks), P04 = preview of the second cut (cutting dharma). §5→§6 is direct sūtra sequencing |
-| S5-P07 The Diamond Sūtra's Self-Replay | P07 reveals §6's special position in the dual-layer structure: the first half's prophecy, the second half's entrance. Vasubandhu's "harboring 'I am a bodhisattva'" = the precise diagnosis of carrying the raft while walking |
+| S5-P07 The Diamond Sūtra's Self-Replay | P07 reveals §6's special position in the dual-layer structure: the first half's prophecy, the second half's entrance. The T1511 verse "harboring 'I am a bodhisattva'" = the precise diagnosis of carrying the raft while walking |
 | S5-P05 Merit Comparisons | Giving is a specific instance of the raft — in merit comparisons, giving is wholesome activity (right use of paratantra); clinging to the merit of giving is carrying the raft (parikalpita) |
 | S5-P06 Abide Nowhere Yet Give Rise to Mind | "Abide nowhere yet give rise to mind" = the inner-heart version of the raft analogy — non-abiding = not carrying the raft; giving rise to mind = continuing to walk and ferry beings |
 | S5-P09 All Conditioned Dharmas Are Like a Dream | §32's six similes = the final act of letting go — even similes themselves are rafts |
@@ -538,11 +538,11 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^9]: *Jingang bore boluomi jing*, entire text: over ten semantic uses of 法 ("dharma/dharmas") catalogued, T08, No. 235. See §2.5 of this paper and retrieval log Q2.
 
-[^10]: *Jingang bore boluomi jing lun*, fascicle 1: 「如來常說筏喻法門，是法應捨，非捨法故」 — "The Tathāgata always teaches the raft-analogy dharma-gate: this dharma should be let go — not that dharma itself is discarded," Vasubandhu's version, T25, No. 1511. Note: 「非捨法故」 = not discarding dharma itself.
+[^10]: *Jingang bore boluomi jing lun*, fascicle 1: 「如來常說筏喻法門，是法應捨，非捨法故」 — "The Tathāgata always teaches the raft-analogy dharma-gate: this dharma should be let go — not that dharma itself is discarded," Vasubandhu's version (0783a26–a27, the sūtra text as embedded in the treatise), T25, No. 1511. The treatise's commentary cites it as 「是法應捨，非捨法者」 (0784a26–a27). Note: 「非捨法故」 = not discarding dharma itself (this is the author's interpretation).
 
 [^11]: *Jingang bore boluomi jing lun*, fascicle 1: 「不應如聲取法……隨順第一義智正說如是取」 — "Should not grasp dharma as mere sound... in accordance with ultimate truth-wisdom, correctly grasp thus," Vasubandhu's gloss on "should not grasp dharma, nor should one not grasp dharma," T25, No. 1511.
 
-[^12]: *Jingang bore boluomi jing lun*, fascicle 1: 「彼不住隨順，於法中證智，如人捨船栰，法中義亦然」 — "Not abiding, in accordance, / attaining wisdom within dharma, / like a person releasing a raft — / so too with the meaning within dharma," Vasubandhu's raft-analogy verse, T25, No. 1511.
+[^12]: *Jingang bore boluomi jing lun*, fascicle 1: 「彼不住隨順，於法中證智，如人捨船栰，法中義亦然」 — "Not abiding, in accordance, / attaining wisdom within dharma, / like a person releasing a raft — / so too with the meaning within dharma" (0784a28–a29), the raft-analogy verse recorded in the T1511 treatise, T25, No. 1511. Yijing's translation of the same verse, *Neng duan jingang bore boluomiduo jing lun song* (能斷金剛般若波羅蜜多經論頌), reads 「證不住於法，為是隨順故」 (T25, No. 1514, 0885b05) and is headed 「無著菩薩造」 (composed by Asaṅga); T25, No. 1513 is headed 「無著菩薩造頌　世親菩薩釋」 (verses by Asaṅga, commentary by Vasubandhu).
 
 [^13]: *Jingang bore boluomi jing lun*, fascicle 1: 「法尚應捨，實想生故；何況非法者，理不應故」 — "Dharma should still be let go — because right cognition has arisen; how much more so non-dharma — because it does not accord with principle," Asaṅga's raft-analogy gloss, T25, No. 1510b.
 
@@ -556,13 +556,13 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^18]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「未除細執者，謂二執俱生任運起者」 — "Those who have not yet removed the subtle grasping — the innate, spontaneously arising forms of the two graspings," T33, No. 1702.
 
-[^19]: Kuiji, *Jingang bore boluomi jing zanshu*, fascicle 1: 「將欲證真，必因言說；及其正證，即不假言，如筏至岸，即無所用也」 — "When one is about to realize truth, one necessarily relies on verbal teaching; at the moment of true realization, words are no longer needed — like a raft that, upon reaching shore, has no further use," T33, No. 1700.
+[^19]: Kuiji, *Jingang bore jing zanshu*, fascicle 1: 「將欲證真，必因言說；及其正證，即不假言，如筏至岸，即無所用也」 — "When one is about to realize truth, one necessarily relies on verbal teaching; at the moment of true realization, words are no longer needed — like a raft that, upon reaching shore, has no further use," T33, No. 1700.
 
-[^20]: *Jie shenmi jing*, fascicle 2: sphaṭika (crystal) analogy — 「如彼清淨頗胝迦上所有染色相應，依他起相上遍計所執相言說習氣，當知亦爾」 — "Just as the colors appearing on the pure crystal correspond to verbal habituation of the parikalpita upon the paratantra," T16, No. 676.
+[^20]: *Jie shenmi jing*, fascicle 2: sphaṭika (crystal) analogy — 「如彼清淨頗胝迦上所有染色相應，依他起相上遍計所執相言說習氣，當知亦爾。如彼清淨頗胝迦上所有帝青、大青、琥珀、末羅羯多、金等邪執，依他起相上遍計所執相執，當知亦爾」 — "Just as the colors appearing on the pure crystal correspond to verbal habituation of the parikalpita upon the paratantra. Just as on the pure crystal there is the mistaken grasping of sapphire, great-blue gem, amber, emerald, gold and so on, so too is the grasping of parikalpita upon paratantra" (0693b10–b14), T16, No. 676.
 
 [^21]: *Jie shenmi jing*, fascicle 2: 「若諸菩薩能於諸法依他起相上，如實了知遍計所執相，即能如實了知一切無相之法」 — "If bodhisattvas can, upon the paratantra-nature of all dharmas, truly understand the parikalpita, they can truly understand all markless dharmas," T16, No. 676.
 
-[^22]: *Jie shenmi jing*, fascicle 2: 「於一切法決定皆無自性……誹撥三相……是起廣大業障方便」 — "'All dharmas decidedly have no self-nature'... repudiating all three natures... creates the means for vast karmic obstruction," T16, No. 676.
+[^22]: *Jie shenmi jing*, fascicle 2: 「謂一切法決定皆無自性……誹撥三相……是起廣大業障方便」 — "'All dharmas decidedly have no self-nature'... repudiating all three natures... creates the means for vast karmic obstruction," T16, No. 676.
 
 [^23]: *Cheng weishi lun*, fascicle 9: 「無得不思議，是出世間智，捨二麁重故，便證得轉依」 — "Without attainment, inconceivable, this is supramundane wisdom; by abandoning the two kinds of grossness, one thereby attains the transformation of the basis," T31, No. 1585.
 
@@ -576,13 +576,13 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 [^28]: *Yuqie shidi lun*, fascicle 45: 「此經不說一切諸法都無所有」 — "This sūtra does not say that all dharmas are completely nonexistent," the section on skillful-means harmonization, T30, No. 1579.
 
-[^29]: *Yuqie shidi lun*, fascicle 45: 「不取少分，不捨少分，不作損減，不作增益。若法實有，知為實有；若法實無，知為實無」 — "Neither taking up a fraction, nor discarding a fraction; neither diminishing nor superimposing. If a dharma truly exists, know it as truly existing; if truly nonexistent, know it as truly nonexistent," T30, No. 1579.
+[^29]: *Yuqie shidi lun*, fascicle 45: 「不取少分，不捨少分，不作損減，不作增益……若法實有，知為實有；若法實無，知為實無」 — "Neither taking up a fraction, nor discarding a fraction; neither diminishing nor superimposing... If a dharma truly exists, know it as truly existing; if truly nonexistent, know it as truly nonexistent," T30, No. 1579.
 
 [^30]: *Yuqie shidi lun*, fascicle 48: 「於一切世間行無染而行……住而不住」 — "Conducting oneself in all worldly activities without defilement... abiding yet not abiding," T30, No. 1579.
 
 [^31]: Zixuan, *Jingang jing zuanyao kanding ji*, fascicle 4: 「實相法尚不可得，況離實相外一切法耶。除諸法實相，餘皆魔事」 — "The dharma of true reality is itself unobtainable — how much less all dharmas outside true reality? Apart from the true reality of all dharmas, everything else is the work of Māra," T33, No. 1702.
 
-[^32]: *Jie shenmi jing*, fascicle 2: 「言說熏習心故、言說隨覺故、言說隨眠故，於依他起自性及圓成實自性中，執著遍計所執自性」 — "Through verbal habituation of the mind, verbal awakening, and verbal dormancy, upon paratantra and pariniṣpanna one grasps the parikalpita," T16, No. 676.
+[^32]: *Jie shenmi jing*, fascicle 2: 「由言說熏習心故、由言說隨覺故、由言說隨眠故，於依他起自性及圓成實自性中，執著遍計所執自性相」 — "Through verbal habituation of the mind, verbal awakening, and verbal dormancy, upon paratantra and pariniṣpanna one grasps the parikalpita," T16, No. 676.
 
 [^33]: *Yuqie shidi lun*, fascicle 45: 「若法實有，知為實有；若法實無，知為實無；如其所知，如是開示」 — "If a dharma truly exists, know it as truly existing; if truly nonexistent, know it as truly nonexistent; as one knows, so one teaches," T30, No. 1579.
 
