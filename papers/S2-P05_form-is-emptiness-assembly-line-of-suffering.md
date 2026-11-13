@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.3"
+version: "1.4"
 license: "CC BY-NC-SA 4.0"
 ---
 # Form Is Emptiness: The Assembly Line of Suffering
@@ -400,7 +400,7 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 ## Footnotes
 
-[^1]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2 (T33n1710 0536c09–c11). The passage falls within the speech of the proponent of superior emptiness (勝空者言, 0536c08–c21), citing the original text of the *Mahāprajñāpāramitā Sūtra*.
+[^1]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710, fascicle 2 (卷下, T33n1710 0536c09–c11). The passage falls within the speech of the proponent of superior emptiness (勝空者言, 0536c08–c21), citing the original text of the *Mahāprajñāpāramitā Sūtra*.
 
 [^2]: *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099, fascicle 2. The Buddha and the bhikṣus discuss form-aggregate as impermanent, therefore suffering, therefore not-self. See also fascicle 3, sūtra 86 for a parallel version.
 

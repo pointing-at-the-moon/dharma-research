@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P04"
 paper_number: 4
 date: "2026-03"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Illuminating the Emptiness of the Five Aggregates: An Insight Already Within
@@ -15,7 +15,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-「照見五蘊皆空，度一切苦厄」— these fourteen characters at the heart of the *Heart Sūtra* answer two fundamental questions: What exactly does prajñā "see"? And once it sees, how is suffering transcended?
+「照見五蘊皆空，度一切苦厄」— these eleven characters at the heart of the *Heart Sūtra* answer two fundamental questions: What exactly does prajñā "see"? And once it sees, how is suffering transcended?
 
 Drawing on the Āgama sūtras as its foundation and Yogācāra as its interpretive framework, this paper argues three propositions. First, "illuminating insight" (zhàojiàn 照見) is not a new capacity unlocked through practice, but rather a case of *innate cause, cultivated fruition* (yīn běnyǒu, guǒ xiūdé 因本有、果修得): the innate uncontaminated seeds (anāsrava-bīja) represent the latent potential, while study, reflection, and meditative cultivation (śruta-cintā-bhāvanā) are the effort required to bring them into actuality. Second, "emptiness" (śūnyatā) here refers specifically to the emptiness of the thoroughly imagined nature (parikalpita): the other-dependent (paratantra) and the perfectly accomplished (pariniṣpanna) are not empty — the three natures are neither wholly empty nor wholly non-empty. Third, "transcending all suffering" (dù yīqiè kǔ'è 度一切苦厄) is the natural output of illuminating insight: suffering arises from the sense of "self" (ātman); illuminating insight dissolves self-grasping; suffering is thereby transcended — this is āśraya-parāvṛtti (the transformation of the basis).
 
@@ -67,9 +67,9 @@ Truly observing the five appropriated aggregates as not-self leads to non-graspi
 
 Even more critically, the Buddha reveals the direct causal relationship between knowing-as-it-is and the cessation of suffering:
 
-> 「多聞聖弟子於色集、色滅、色味、色患、色離如實知；如實知故，於彼色不起愛樂、讚歎、攝受、染著；不愛樂故，色愛則滅，愛滅則取滅，取滅則有滅，有滅則生滅，生滅則老、病、死、憂、悲、苦、惱滅，如是純大苦聚滅。」[^4]
+> 「多聞聖弟子於色集、色滅、色味、色患、色離如實知；如實知故，於彼色不起愛樂、讚歎、攝受、染著；不愛樂、讚歎、攝受、染著故，色愛則滅，愛滅則取滅，取滅則有滅，有滅則生滅，生滅則老、病、死、憂、悲、苦、惱滅，如是純大苦聚滅。」[^4]
 >
-> "The learned noble disciple knows as it truly is the arising, cessation, gratification, danger, and escape with respect to form. Because of this true knowing, no delight, praise, appropriation, or attachment arises toward form. Without delight, craving for form ceases; with craving's cessation, grasping ceases; with grasping's cessation, becoming ceases; with becoming's cessation, birth ceases; with birth's cessation, aging, illness, death, grief, sorrow, suffering, and distress cease — thus the entire mass of suffering ceases."
+> "The learned noble disciple knows as it truly is the arising, cessation, gratification, danger, and escape with respect to form. Because of this true knowing, no delight, praise, appropriation, or attachment arises toward form. Without delight, praise, appropriation, or attachment, craving for form ceases; with craving's cessation, grasping ceases; with grasping's cessation, becoming ceases; with becoming's cessation, birth ceases; with birth's cessation, aging, illness, death, grief, sorrow, suffering, and distress cease — thus the entire mass of suffering ceases."
 
 Knowing-as-it-is → no delight → no grasping → cessation of becoming → cessation of birth and death → cessation of suffering. The reversal sequence of the twelve links of dependent origination has "knowing-as-it-is" at its core — complete clarity regarding the gratification, danger, and escape of the five aggregates. This is the causal chain linking illuminating insight to the transcendence of suffering.
 
@@ -105,9 +105,9 @@ The *Madhyama Āgama*'s *Discourse on the Analysis of the Noble Truths* unfolds 
 
 Where is the root of suffering? The Buddha's answer is clear: it lies in "self."
 
-> 「諸沙門、婆羅門計有我，一切皆於此五受陰計有我。……如是愚癡無聞凡夫，計我、無明、分別如是觀，不離我所；不離我所者，入於諸根；入於諸根已，而生於觸；六觸入所觸，愚癡無聞凡夫生苦樂，從是生此等及餘。」[^8]
+> 「若沙門、婆羅門計有我，一切皆於此五受陰計有我。……如是愚癡無聞凡夫，計我、無明、分別如是觀，不離我所；不離我所者，入於諸根；入於諸根已，而生於觸；六觸入所觸，愚癡無聞凡夫生苦樂，從是生此等及餘。」[^8]
 >
-> "All recluses and brahmins who impute a self, all impute it upon these five appropriated aggregates. ... Thus the ignorant unlearned worldling, imputing a self through ignorance and discrimination, does not separate from 'mine'; not separating from 'mine,' one enters into the sense faculties; having entered, contact arises; touched by the six sense bases, the ignorant worldling generates suffering and pleasure — from this arise all these and the rest."
+> "If recluses or brahmins impute a self, they all impute it upon these five appropriated aggregates. ... Thus the ignorant unlearned worldling, imputing a self through ignorance and discrimination, does not separate from 'mine'; not separating from 'mine,' one enters into the sense faculties; having entered, contact arises; touched by the six sense bases, the ignorant worldling generates suffering and pleasure — from this arise all these and the rest."
 
 The causal chain is perfectly clear: imputing a self → not separating from "mine" → entering the sense faculties → contact → suffering and pleasure. Where there is "self," there is birth, aging, illness, and death. The Buddha continues:
 
@@ -139,9 +139,9 @@ How, then, is suffering transcended?
 
 In the scriptures, the Buddha repeatedly employs the metaphor of crossing a river. The *Saṃyukta Āgama* compares saṃsāra to a river in violent flood:
 
-> 「譬如河水從山㵎出，彼水深駛，其流激注……眾人涉渡，多為水所漂，隨流沒溺，遇浪近岸，手援草木，草木復斷，還隨水漂。如是，比丘！若凡愚眾生不如實知色、色集、色滅，不如實知故，樂著於色，言色是我，彼色隨斷。……若多聞聖弟子如實知色，如實知故，不樂著於色。」[^12]
+> 「譬如河水從山㵎出，彼水深駛，其流激注……眾人涉渡，多為水所漂，隨流沒溺，遇浪近岸，手援草木，草木復斷，還隨水漂。如是，比丘！若凡愚眾生不如實知色、色集、色滅、色味、色患、色離，不如實知故，樂著於色，言色是我，彼色隨斷。……若多聞聖弟子如實知色、色集、色滅、色味、色患、色離，如實知故，不樂著於色。」[^12]
 >
-> "Suppose river water rushes from a mountain gorge — deep, swift, its current torrential ... Many people try to ford it, but most are swept away by the water, carried along and drowned. Encountering waves near the bank, they grab at grasses and branches, but the grasses break and they are swept away again. Just so, bhikṣus! When ignorant worldlings do not know form as it truly is, they delight in and attach to form, claiming 'form is my self' — and that form breaks apart. ... But the learned noble disciple knows form as it truly is, and therefore does not delight in or attach to form."
+> "Suppose river water rushes from a mountain gorge — deep, swift, its current torrential ... Many people try to ford it, but most are swept away by the water, carried along and drowned. Encountering waves near the bank, they grab at grasses and branches, but the grasses break and they are swept away again. Just so, bhikṣus! When ignorant worldlings do not know as they truly are form, its arising, cessation, gratification, danger, and escape, they delight in and attach to form, claiming 'form is my self' — and that form breaks apart. ... But the learned noble disciple knows as they truly are form, its arising, cessation, gratification, danger, and escape, and therefore does not delight in or attach to form."
 
 Those who cling to the five aggregates (the grasses and branches) are swept away by the flood; those who know the five aggregates as they truly are can cross safely. The core of transcending suffering is not to annihilate suffering, but to know-as-it-is.
 
@@ -295,7 +295,7 @@ More precisely, transcending suffering is āśraya-parāvṛtti — the transfor
 
 At this point, the awakening circuit completes its closure: Avalokiteśvara (the initial aspiration toward freedom) → deep prajñāpāramitā (transformation at the level of the saṃskāra-skandha) → illuminating the emptiness of the five aggregates (knowing-as-it-is that the parikalpita upon the aggregates is empty) → transcending all suffering (āśraya-parāvṛtti). And the default state after this transformation is precisely "Avalokiteśvara" — self-mastery, not because one has controlled something, but because the cause of suffering has been uprooted.
 
-The endpoint returns to the starting point. This is the complete structure of the *Heart Sūtra*'s opening fourteen characters.
+The endpoint returns to the starting point. This is the complete structure of the *Heart Sūtra*'s opening twenty-five characters.
 
 ---
 
@@ -339,7 +339,7 @@ A common misunderstanding: "If I save others, I myself will be saved." The Buddh
 
 ## 6. Conclusion
 
-「照見五蘊皆空，度一切苦厄」— fourteen characters, a complete path of awakening:
+「照見五蘊皆空，度一切苦厄」— eleven characters, a complete path of awakening:
 
 First, **illuminating insight is recognition, not acquisition.** Innate uncontaminated seeds are the potential; study, reflection, and cultivation are the labor of wiping the mirror. You are not installing a new function — you are removing obstructions so that an innate capacity can manifest.
 
@@ -447,9 +447,9 @@ Hohwy, J. *The Predictive Mind*. Oxford University Press, 2013.
 
 [^16]: *Madhyama Āgama* fascicle 54, *Ariṣṭa Sūtra*, the raft simile: "Even the Dharma should be relinquished, how much more so what is not-Dharma." 《大正藏》第1冊，No. 0026。
 
-[^17]: *Vajracchedikā Prajñāpāramitā Sūtra*: "Liberating all sentient beings, yet in truth no sentient being is liberated." 《大正藏》第8冊，No. 0235。
+[^17]: *Vajracchedikā Prajñāpāramitā Sūtra*: "Thus liberating immeasurable, countless, boundless sentient beings, yet in truth no sentient being attains liberation." 《大正藏》第8冊，No. 0235。
 
-[^18]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, the five kinds of vision and the four stages of illuminating insight: "The wisdom-eye penetrates emptiness — clearly gazing and observing — hence the name 'illuminating insight.'" 《大正藏》第33冊，No. 1710。
+[^18]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2 (卷下), the five kinds of vision and the four stages of illuminating insight: "The wisdom-eye penetrates emptiness — clearly gazing and observing — hence the name 'illuminating insight.'" 《大正藏》第33冊，No. 1710。
 
 [^19]: *Saṃyukta Āgama* fascicle 26 (sūtra 647): "What is the wisdom-faculty? When a bhikṣu knows the Noble Truth of Suffering as it truly is." 《大正藏》第2冊，No. 0099。
 

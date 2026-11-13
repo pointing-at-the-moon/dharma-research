@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P02"
 paper_number: 2
 date: "2026-03"
-version: "1.3"
+version: "1.4"
 license: "CC BY-NC-SA 4.0"
 ---
 # Avalokiteśvara: The Four Links of the Awakening Loop
@@ -17,7 +17,7 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The opening sentence of the Heart Sūtra — "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he illuminated the emptiness of the five aggregates and transcended all suffering" — is typically read as narrative preamble, merely establishing who did what and when. This paper argues that the sentence constitutes the sūtra's master program: a self-contained awakening loop comprising four links — Subject (*avalokiteśvara*) → Method (*gambhīrā prajñāpāramitā*) → Insight (*vyavalokayati sma pañca-skandhāḥ*) → Fruit (*sarvaduhkha-atikaraṇa*) — whose endpoint circles back to its origin, embodying the Tathāgata's "neither coming nor going."
+The opening sentence of the Heart Sūtra — "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he illuminated the emptiness of the five aggregates and transcended all suffering" — is typically read as narrative preamble, merely establishing who did what and when. This paper argues that the sentence constitutes the sūtra's master program: a self-contained awakening loop comprising four links — Subject (*avalokiteśvara*) → Method (*gambhīrā prajñāpāramitā*) → Insight (*vyavalokayati sma pañca-skandhāḥ*) → Fruit (*sarvaduhkha-atikaraṇa*) — whose endpoint circles back to its origin, embodying the Tathāgata's "neither coming from anywhere nor going anywhere."
 
 Drawing primarily on Kuiji's *Youzan* (T1710), Woncheuk's *Heart Sūtra Commentary* (T1711), the *Cheng weishi lun* (T1585), and the *Mahāprajñāpāramitā-śāstra* (T1509), the paper demonstrates: (1) "Avalokiteśvara" possesses dual valence — Kuiji explicates it through compassion-wisdom unity and ten sovereign freedoms, this paper, building on Woncheuk's four-wisdom framework, through the *pratyavekṣaṇā-jñāna* (wondrous contemplative wisdom) — with both fruition-level and causal-level meanings that are mutually non-contradictory; (2) "deep practice" has two classical dimensions (practice-depth and object-depth per Woncheuk) plus an original third dimension concerning transformation at the *saṃskāra* level of the aggregates; (3) "illumination" is *yogic pratyakṣa* (direct perception in meditative equipoise), and "emptiness" specifically means the emptiness of *parikalpita* (the imagined nature), not the emptiness of all phenomena; (4) the four links form a closed loop that mirrors the ultimate meaning of Tathāgata as "one who has neither come from anywhere nor gone anywhere."
 
@@ -35,7 +35,7 @@ In most commentarial traditions, this sentence is treated as the sūtra's *nidā
 
 This paper proposes a different reading: **the opening sentence is not a preamble but a program.** Its four links — subject, method, insight, fruit — constitute a complete awakening loop. Every subsequent passage in the Heart Sūtra expands, deepens, or verifies a node within this loop.
 
-More importantly, the loop is **closed**: the fruit of transcending suffering is the full disclosure of what was sought at the beginning — the capacity to observe and be free. The endpoint returns to the starting point. This is not circular reasoning but the ultimate structure of the Tathāgata's "neither coming nor going."
+More importantly, the loop is **closed**: the fruit of transcending suffering is the full disclosure of what was sought at the beginning — the capacity to observe and be free. The endpoint returns to the starting point. This is not circular reasoning but the ultimate structure of the Tathāgata's "neither coming from anywhere nor going anywhere."
 
 ---
 
@@ -77,7 +77,7 @@ Shihui's *Lüeshu lianzhuji* 《般若心經略疏連珠記》 (T1713) explains 
 
 > The popular name "Observer of the World's Sounds" is because the function of verbal karma is prominent and response comes easily. The sūtra takes the meaning that is complete, hence "Avalokiteśvara."[^6]
 
-"Avalokitasvara" emphasizes compassionate rescue (observing beings' cries and going to save them); "Avalokiteśvara" emphasizes sovereign freedom within prajñā-wisdom. Xuanzang chose "Avalokiteśvara" for the Heart Sūtra precisely because the sūtra's theme is prajñā, not compassionate rescue — the four characters "the sūtra takes the complete meaning" (*jīng qǔ yì yuán*) illuminate the translator's doctrinal deliberation.
+"Avalokitasvara" emphasizes compassionate rescue (observing beings' cries and going to save them); "Avalokiteśvara" emphasizes sovereign freedom within prajñā-wisdom. Xuanzang chose "Avalokiteśvara" for the Heart Sūtra precisely because the sūtra's theme is prajñā, not compassionate rescue — this is the author's interpretation. In the *Lianzhuji*, the sentence just before reads: "In that sūtra, first, verbal karma — calling the name — removes the seven calamities; second, bodily karma — worship — fulfills the two wishes; third, mental karma — keeping in mind — purifies the three poisons. This is the meaning of sovereignty." The "complete meaning" in "the sūtra takes the complete meaning" (*jīng qǔ yì yuán*) is this sovereignty fulfilled through all three karmas, not a contrast between prajñā and compassion.
 
 ### 2.4 The Two Dimensions of Depth
 
@@ -129,13 +129,13 @@ This passage is the key to understanding "emptiness" in Yogācāra: "empty" spec
 
 ### 2.8 The Root of Suffering and the Meaning of Transcendence
 
-Kuiji's *Youzan* identifies the root of suffering in the preface to fascicle one:
+Kuiji's *Youzan* identifies the root of suffering in the preface to fascicle 1 (卷上):
 
 > Because sentient beings, deluded about the true nature of dharmas, generate afflictions and create karma.[^16]
 
 > Now, for sentient beings shrouded by the fetters of habitual tendencies, who respectfully receive heterodox teachings, who slander the Mahāyāna ...[^17]
 
-The commentary on "removing all suffering" in the second fascicle:
+The commentary on "removing all suffering" in fascicle 2 (卷下):
 
 > Through faith, study, realization, and exposition, all suffering is removed. Therefore the Great Sūtra says: those who practice the ten dharma-activities with respect to this sūtra cannot be stained by any obstruction, and even if they have committed the most grave evil karma, they can transcend all evil destinies.[^18]
 
@@ -197,7 +197,7 @@ That thought is the seed of *bodhicitta*. The person who generates it is, in the
 
 Woncheuk's two dimensions — practice-depth and object-depth — address the contemplating wisdom and the contemplated object, respectively.
 
-**Practice-depth**: non-discriminating wisdom internally realizes the twofold emptiness, free from all discriminations. Even the appearance of "I am practicing" has been transcended. The *Mahāprajñāpāramitā-sūtra* states: "Not seeing practice, not seeing non-practice — this is the bodhisattva's deep practice of prajñā."
+**Practice-depth**: non-discriminating wisdom internally realizes the twofold emptiness, free from all discriminations. Even the appearance of "I am practicing" has been transcended. Woncheuk cites the *Mahāprajñāpāramitā-sūtra*: "Not seeing practice, not seeing non-practice — this is the bodhisattva's deep practice of prajñā."
 
 **Object-depth**: the twofold emptiness as suchness transcends the characteristics of existence and non-existence, beyond all conceptual elaboration. The object is not something that can be grasped conceptually — it is *dharmatā* itself, beyond all *prapañca*.
 
@@ -270,7 +270,7 @@ The *Cheng weishi lun*, fascicle 10, describes the dharma-body:
 
 "Neither coming from anywhere nor going anywhere" — the causal-level "Avalokiteśvara" (longing for the capacity to observe and be free) and the fruition-level "Avalokiteśvara" (*pratyavekṣaṇā-jñāna* and the ten sovereign freedoms) point to the same mind-ground. The difference lies in the amount of dust, not in the mirror itself. Having walked this loop — aspiration, deep practice, illumination, transcendence — one arrives not at a new place but at the recognition of where one has never left.
 
-✅ **Doctrinal assessment:** The closed-loop structure is supported by three layers of scriptural evidence — the *Vajracchedikā*'s "neither coming nor going," the *Mahāprajñāpāramitā-śāstra*'s "the suchness of the Tathāgata is identical to the suchness of all dharmas," and the *Cheng weishi lun*'s dharma-body as "without arising, without ceasing, free from characteristics, utterly quiescent." Cause and fruit as the same ground, neither coming nor going — this is the ultimate meaning of prajñā and the deep structure of the Heart Sūtra's opening sentence as "master program."
+✅ **Doctrinal assessment:** The closed-loop structure is supported by three layers of scriptural evidence — the *Vajracchedikā*'s "neither coming from anywhere nor going anywhere," the *Mahāprajñāpāramitā-śāstra*'s "the suchness of the Tathāgata is identical to the suchness of all dharmas," and the *Cheng weishi lun*'s dharma-body as "without arising, without ceasing, free from characteristics, utterly quiescent." Cause and fruit as the same ground, neither coming nor going — this is the ultimate meaning of prajñā and the deep structure of the Heart Sūtra's opening sentence as "master program."
 
 ---
 
@@ -308,7 +308,7 @@ The phenomena of suffering do not disappear. "Transcending" (*dù*) means crossi
 
 ### ❌ 5.4 Misconception: The Awakening Loop Is a One-Time Epiphany
 
-"Illuminating the emptiness of the five aggregates" is not a once-and-for-all event. The five stages explicitly indicate that the penetration stage is the moment of non-discriminating wisdom's "first illumination of principle" — but between the penetration stage and the ultimate stage lies the cultivation stage (*bhāvanā-mārga*), potentially spanning three great incalculable eons. Each cycle of "deep practice → illumination" is an incremental process: defiled seeds in the *ālayavijñāna* weaken by one degree, undefiled seeds strengthen by one degree. The loop runs continuously; each cycle goes deeper.
+"Illuminating the emptiness of the five aggregates" is not a once-and-for-all event. The five stages explicitly indicate that the penetration stage is the moment of non-discriminating wisdom's "first illumination of principle" — but between the penetration stage and the ultimate stage lies the cultivation stage (*bhāvanā-mārga*), potentially spanning the second and third great incalculable eons. Each cycle of "deep practice → illumination" is an incremental process: defiled seeds in the *ālayavijñāna* weaken by one degree, undefiled seeds strengthen by one degree. The loop runs continuously; each cycle goes deeper.
 
 ---
 
@@ -399,7 +399,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 [^5]: Dunlun, *Yujia lunji*, fasc. 21, T42, No. 1828. This passage directly identifies the older translation "Avalokitasvara" as a translation error.
 
-[^6]: Shihui, *Lüeshu lianzhuji* 《般若心經略疏連珠記》, fasc. 2, T33, No. 1713. "The sūtra takes the complete meaning" — since the Heart Sūtra's theme is prajñā (wisdom), Xuanzang selected the term emphasizing wisdom-sovereignty rather than compassionate rescue.
+[^6]: Shihui, *Lüeshu lianzhuji* 《般若心經略疏連珠記》, fasc. 2, T33, No. 1713, 0562a01–04. "The sūtra takes the complete meaning" follows the preceding account of verbal, bodily, and mental karma — "this is the meaning of sovereignty"; contrasting the two names as prajñā versus compassion is the author's interpretation.
 
 [^7]: Woncheuk, *Heart Sūtra Commentary*, fasc. 1, T33, No. 1711. The determination of "two kinds of depth" — practice-depth refers to the depth of the contemplating wisdom (non-discriminating wisdom free from all action-characteristics), object-depth to the depth of the contemplated object (twofold emptiness beyond all conceptual elaboration).
 

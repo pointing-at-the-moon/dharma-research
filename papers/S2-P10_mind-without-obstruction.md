@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P10"
 paper_number: 10
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Mind Without Obstruction: Traversing Terror to Ultimate Nirvāṇa
@@ -31,7 +31,7 @@ The Heart Sūtra passage "The bodhisattva, relying on prajñāpāramitā, has a 
 
 ### 1.1 Textual Position
 
-S2-P09 reached the sharpest edge of prajñā's emptiness contemplation — even the path of practice was emptied, even prajñā-wisdom itself could not be attained. The four characters "because there is nothing to attain" (以無所得故) reclaimed the last tool from the practitioner's hands.
+S2-P09 reached the sharpest edge of prajñā's emptiness contemplation — even the path of practice was emptied, even prajñā-wisdom itself could not be attained. The five characters "because there is nothing to attain" (以無所得故) reclaimed the last tool from the practitioner's hands.
 
 And then?
 
@@ -123,8 +123,8 @@ After enlightenment, the Buddha did not enter nirvāṇa. He taught and collecte
 
 Kuiji's commentary on the *Vajracchedikā* offers a precise reading of the three characters "in sequence" (次第乞):
 
-> 從一巷至一巷，從一家至一家，為顯於一一法皆遍證至無相理。
-> "From one lane to the next, from one household to the next — to demonstrate that in each and every dharma one realizes the principle of signlessness throughout."[^11]
+> 從一巷至一巷，從一家至一家等，為顯於一一法皆遍證至無相理。
+> "From one lane to the next, from one household to the next, and so on — to demonstrate that in each and every dharma one realizes the principle of signlessness throughout."[^11]
 
 "In sequence" means without selection — not favoring the wealthy, not skipping the poor. This is not a performance of humility; it is the bodily and verbal manifestation of equality wisdom (samatā-jñāna). Jizang's commentary further explains: alms nourish the physical body, while expounding prajñā benefits the dharma body; alms demonstrate the Tathāgata's contentment with little, manifest the Buddha's compassion, and shatter the mind of arrogance.[^12]
 
@@ -152,7 +152,7 @@ Then the Buddha asks three times whether any disciple has doubts — "the bhik�
 > 此則是我最後教也。我般涅槃，其時已至。
 > "This is my final teaching. My parinirvāṇa — the time has come."[^17]
 
-Elsewhere in the same tradition, the Buddha's final word is even more concise:
+Elsewhere in the Youxing Jing of the *Dīrghāgama*, the Buddha's final word is even more concise:
 
 > 無為放逸，我以不放逸故，自致正覺……此是如來末後所說。
 > "Do not be heedless. It is through heedfulness that I myself attained perfect awakening… This is the Tathāgata's last utterance."[^18]
@@ -201,7 +201,7 @@ The mechanism for traversing terror is, in Yogācāra terms, the transformation 
 
 Manas operates in three modes: in ordinary beings, associated with pudgala-ātma-dṛṣṭi (personal self-view — the defiled mode); when the fruit of dharma-emptiness wisdom has not yet manifested, associated with dharma-ātma-dṛṣṭi; in the Tathāgata and in bodhisattvas during the path of seeing and cultivation when the fruit of dharma-emptiness wisdom is manifest, associated with samatā-jñāna.[^29]
 
-The key lies in the transformation mechanism. The *Bashi guiju buzhu* (Supplement to the Eight Consciousnesses Verse) notes: "Manas itself has no power to sever afflictions; it relies entirely on the sixth consciousness." Only when the sixth consciousness enters the twofold emptiness contemplation does manas's dual grasping return to its seed state, and samatā-jñāna can manifest.[^30] The timeline: first manifest at the initial moment of the first bhūmi (path of seeing); still intermittent below the seventh bhūmi; from the eighth bhūmi onward, personal self-grasping is permanently subdued; continuous only after the tenth bhūmi.
+The key lies in the transformation mechanism. The *Bashi guiju buzhu* (Supplement to the Eight Consciousnesses Verse) notes: "That is, the seventh consciousness has no power to sever afflictions; [the severing of] its grasping relies entirely on the sixth consciousness." Only when the sixth consciousness enters the twofold emptiness contemplation does manas's dual grasping return to its seed state, and samatā-jñāna can manifest.[^30] The timeline: first manifest at the initial moment of the first bhūmi (path of seeing); still intermittent below the seventh bhūmi; from the eighth bhūmi onward, personal self-grasping is permanently subdued; continuous only after the tenth bhūmi.
 
 Asvabhāva directly connects this line to apratiṣṭhita-nirvāṇa in his *Mahāyānasaṃgrahabhāṣya*:
 
@@ -216,8 +216,8 @@ The "inversions" in "far from inverted dream-thinking" are defined in the *Yogā
 
 The *Mahāyānasaṃgrahabhāṣya* further reveals the relationship between the four inversions and parikalpita-svabhāva (the imagined nature):
 
-> 無量行相意識遍計顛倒生相，故名遍計所執。顛倒生相者，謂是能生虛妄顛倒所緣境相。
-> "Because the mano-vijñāna, through limitless modes of activity, projects the characteristics that generate inversions, it is called 'the imagined.' The 'characteristics that generate inversions' means those objective appearances that produce false inversions."[^33]
+> 無量行相意識遍計顛倒生相，故名遍計所執。……顛倒生相者，謂是能生虛妄顛倒所緣境相。
+> "Because the mano-vijñāna, through limitless modes of activity, projects the characteristics that generate inversions, it is called 'the imagined.' … The 'characteristics that generate inversions' means those objective appearances that produce false inversions."[^33]
 
 "Characteristics that generate inversions" IS the definition of parikalpita itself — the four inversions are not one aspect of parikalpita; they are its core operating mechanism.
 
@@ -296,9 +296,9 @@ The Buddha's life runs in precise parallel with the Heart Sūtra's awakening arc
 
 Subduing Māra, within this paper's doctrinal framework, is the process of traversing manas's final counter-assault. Māra's ten armies — desire, worry, hunger, craving, sloth, terror, doubt, malice, profit-seeking, arrogance — are not ten external enemies but ten afflictions projected by manas through the stage of the sixth consciousness.[^9] The sixth army is precisely "terror." The Buddha's response: "remaining silent… I hold my mind without any fear."[^5] Not confrontation but stillness. Māra's army was not "defeated"; it dissipated of its own accord in the Buddha's immovability.
 
-The earth-touching gesture (bhūmisparśa-mudrā) seals the traversal. The Buddha "extends his right hand and presses the earth"[^7] — not calling upon heaven for help, but asking the earth to bear witness. The earth deity rises and testifies. What the earth witnesses is not the Buddha's "power" but the fact that in the face of terror, he did not waver.
+The earth-touching gesture (bhūmisparśa-mudrā) seals the traversal. The Buddha "extends his right hand and presses the earth"[^7] — not calling upon heaven for help, but asking the earth to bear witness. The earth deity rises and testifies. In the sūtra, what the earth bears witness to is the merit the Buddha had made ("the merit I have made, the earth bears witness to it"); reading it as a witness to his not wavering in the face of terror is the author's interpretation.
 
-**Living out apratiṣṭhita-nirvāṇa → Ultimate nirvāṇa.** After enlightenment, the Buddha did not leave. He remained in the world for forty-five years, every day donning his robe, taking up his bowl, entering the city for alms, going from house to house in sequence, returning to his place.[^10] This daily narrative contains what Kuiji saw in "going in sequence": "from one lane to the next, from one household to the next, to demonstrate that in each and every dharma one realizes the principle of signlessness."[^11] Every step, every door — equality wisdom made manifest. No selection, no skipping; not begging an extra bowl from the wealthy, not passing over the poor.
+**Living out apratiṣṭhita-nirvāṇa → Ultimate nirvāṇa.** After enlightenment, the Buddha did not leave. He remained in the world for forty-five years, every day donning his robe, taking up his bowl, entering the city for alms, going from house to house in sequence, returning to his place.[^10] This daily narrative contains what Kuiji saw in "going in sequence": "from one lane to the next, from one household to the next, and so on, to demonstrate that in each and every dharma one realizes the principle of signlessness."[^11] Every step, every door — equality wisdom made manifest. No selection, no skipping; not begging an extra bowl from the wealthy, not passing over the poor.
 
 Forty-five years of alms-rounds: the daily demonstration of "active yet always quiescent."[^26]
 
@@ -537,15 +537,15 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 [^8]: *Mahāprajñāpāramitopadeśa*, fasc. 3, "Seated on the vajra-seat, he made this vow: 'I shall not uncross these legs until I attain omniscience; without attaining omniscience, I shall never rise,'" T25, No. 1509.
 [^9]: *Mahāprajñāpāramitopadeśa*, fasc. 5, Māra's ten armies: "desire, worry, hunger-and-thirst, craving, sloth, terror (怖畏), doubt, malice, pursuit of gain and false fame, arrogance and contempt for others." The sixth army is precisely "terror," T25, No. 1509.
 [^10]: *Vajracchedikā Prajñāpāramitā Sūtra*, fasc. 1, "Then the World-Honored One, at mealtime, put on his robe, took up his bowl, and entered the great city of Śrāvastī to beg for food. Within the city, going from house to house in sequence, he finished his round and returned to his place," opening daily passage, T8, No. 0235.
-[^11]: *Jingang bore jing zanshu*, Kuiji, "From one lane to the next, from one household to the next — to demonstrate that in each and every dharma one realizes the principle of signlessness throughout," commentary on "in sequence" (次第乞), T33, No. 1700.
-[^12]: *Jingang bore shu*, Jizang, "Alms nourish the physical body; expounding prajñā benefits the dharma body." "Alms demonstrate the Tathāgata's contentment with little; alms manifest the Buddha's compassion; alms shatter the mind of arrogance," T33, No. 1699.
+[^11]: *Jingang bore jing zanshu*, Kuiji, "From one lane to the next, from one household to the next, and so on — to demonstrate that in each and every dharma one realizes the principle of signlessness throughout," commentary on "in sequence" (次第乞), T33, No. 1700.
+[^12]: *Jingang bore shu*, Jizang, "Alms nourish the physical body; afterward, expounding prajñā is precisely what benefits the dharma body." "Alms demonstrate the Tathāgata's contentment with little … alms manifest the Buddha's compassion … alms shatter the mind of arrogance," T33, No. 1699.
 [^13]: *Dīrghāgama*, fasc. 2, Youxing Jing, "Be your own lamp; make the Dharma your lamp. Do not seek another lamp. Take refuge in yourself; take refuge in the Dharma. Do not take refuge in anything else," the Buddha's teaching before parinirvāṇa at age eighty, T1, No. 0001.
 [^14]: *Dīrghāgama*, fasc. 2, Youxing Jing, "A bhikṣu observes the inner body with diligence and without negligence, mindful and without forgetfulness, removing worldly craving and worry," the four foundations of mindfulness as the final practice method; "After my passing, whoever can practice this method — that person is truly my disciple, foremost among learners," T1, No. 0001.
 [^15]: *Mahāparinirvāṇa Sūtra*, fasc. 3, "I have established for the bhikṣus the precepts of the Prātimokṣa and all the various subtle dharmas I have spoken — these are your great teacher. As if I were still in the world, there is no difference," the "take the precepts as your teacher" passage, T1, No. 0007.
 [^16]: *Mahāparinirvāṇa Sūtra*, fasc. 3, "All formations are impermanent — this is the dharma of arising and ceasing. When arising and ceasing cease, quiescent cessation is bliss," the Buddha's parinirvāṇa verse, T1, No. 0007.
 [^17]: *Mahāparinirvāṇa Sūtra*, fasc. 3, "This is my final teaching. My parinirvāṇa — the time has come," the Buddha's final words, T1, No. 0007.
 [^18]: *Dīrghāgama*, fasc. 4, "Do not be heedless. It is through heedfulness that I myself attained perfect awakening… This is the Tathāgata's last utterance," T1, No. 0001.
-[^19]: *Bore boluomiduo xinjing youzan*, fasc. 2, "obstruction" (罣) = kleśāvaraṇa (because it blocks nirvāṇa); "hindrance" (礙) = jñeyāvaraṇa (because it blocks bodhi), the "as-it-is" (如應者) reading, T33, No. 1710.
+[^19]: *Bore boluomiduo xinjing youzan*, fasc. 2 (卷下), "obstruction" (罣) = kleśāvaraṇa (because it blocks nirvāṇa); "hindrance" (礙) = jñeyāvaraṇa (because it blocks bodhi), the "as-it-is" (如應者) reading, T33, No. 1710.
 [^20]: *Bore boluomiduo xinjing youzan*, fasc. 2, "Not having awakened to true wisdom, one perpetually dwells in a dream; therefore the Buddha speaks of the long night of saṃsāra," glossing "dream-thinking" as vikalpa, T33, No. 1710.
 [^21]: *Bore boluomiduo xinjing youzan*, fasc. 2, five-path mapping: mind without obstruction = stages of resolute understanding through the path of preparation; no terror = path of seeing; far from inverted dream-thinking = path of cultivation; ultimate nirvāṇa = path of no-more-learning, T33, No. 1710.
 [^22]: *Bore boluomiduo xinjing youzan*, fasc. 2, ten-bhūmi mapping: mind without obstruction = first bhūmi, Stage of Joy (skin-level coarseness permanently severed); no terror = eighth bhūmi, Stage of Effortless Non-Conceptuality (flesh-level coarseness permanently severed); far from inverted dream-thinking = tenth bhūmi, Supreme Fulfilled Stage (bone-level coarseness permanently severed), the "three levels of coarseness" metaphor, T33, No. 1710.
@@ -556,10 +556,10 @@ Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Ro
 [^27]: *Vijñaptimātratāsiddhi*, fasc. 10, "All sentient beings possess the first; śrāvakas and pratyekabuddhas at the stage of no-more-learning may possess the first three; only our World-Honored One can be said to possess all four," the four nirvāṇas, T31, No. 1585.
 [^28]: *Vijñaptimātratāsiddhi*, fasc. 10, "The mental assembly associated with samatā-jñāna: this mental assembly observes all dharmas, self and other sentient beings, as entirely equal. Great compassion and the like are perpetually associated with it," T31, No. 1585.
 [^29]: *Vijñaptimātratāsiddhi*, fasc. 5, the three modes of manas: pudgala-ātma-dṛṣṭi association (ordinary defiled mode), dharma-ātma-dṛṣṭi association, samatā-jñāna association, T31, No. 1585.
-[^30]: *Bashi guiju buzhu*, "Manas itself has no power to sever afflictions; it relies entirely on the sixth consciousness." "When dual grasping of manas returns to its seed state, samatā-jñāna manifests" — manas's transformation depends on the sixth consciousness entering the twofold emptiness contemplation, T45, No. 1865.
+[^30]: *Bashi guiju buzhu*, "That is, the seventh consciousness has no power to sever afflictions; [the severing of] its grasping relies entirely on the sixth consciousness." "When dual grasping of manas returns to its seed state, samatā-jñāna manifests" (cited in the *Buzhu* as "the treatise says") — manas's transformation depends on the sixth consciousness entering the twofold emptiness contemplation, T45, No. 1865.
 [^31]: *Mahāyānasaṃgrahabhāṣya* (Asvabhāva), fasc. 9, "By transforming the defiled manas, one attains samatā-jñāna. At the initial direct perception, it has already been realized; during the path of cultivation, it becomes further purified. Thereby one abides in apratiṣṭhita-nirvāṇa," the complete passage manas → samatā-jñāna → apratiṣṭhita-nirvāṇa, T31, No. 1598.
 [^32]: *Yogācārabhūmi-śāstra*, fasc. 8, inversion of perception (discriminative conceptualization), inversion of view (grasping with approval and attachment), inversion of mind (afflictions such as greed) — the three-layer definition of the four inversions, T30, No. 1579.
-[^33]: *Mahāyānasaṃgrahabhāṣya* (Vasubandhu), fasc. 4, "Because the mano-vijñāna, through limitless modes of activity, projects the characteristics that generate inversions, it is called 'the imagined.' The 'characteristics that generate inversions' means those objective appearances that produce false inversions," the four inversions as the core mechanism of parikalpita-svabhāva, T31, No. 1597.
+[^33]: *Mahāyānasaṃgrahabhāṣya* (Vasubandhu), fasc. 4, "Because the mano-vijñāna, through limitless modes of activity, projects the characteristics that generate inversions, it is called 'the imagined.' … The 'characteristics that generate inversions' means those objective appearances that produce false inversions" (the first sentence is the root text being commented on, the second Vasubandhu's commentary), the four inversions as the core mechanism of parikalpita-svabhāva, T31, No. 1597.
 [^34]: *Madhyāntavibhāga-ṭīkā* (辯中邊論述記), citing the root treatise: permanence-inversion from "similar continuous flow," pleasure-inversion from "imagined antidote," purity-inversion from "habituation," self-inversion from "aggregate-grasping" — the cognitive roots of each inversion. T44, No. 1835.
 [^35]: *Mahāprajñāpāramitopadeśa*, fasc. 19, "Body-contemplation is taught to counter the purity-inversion; feeling-contemplation to counter the pleasure-inversion; mind-contemplation to counter the permanence-inversion; dharma-contemplation to counter the self-inversion," the four foundations of mindfulness countering the four inversions, T25, No. 1509.
 [^36]: *Ratnagotravibhāga*, fasc. 3, citing *Śrīmālādevī Sūtra*: "That śrāvakas and pratyekabuddhas attain nirvāṇa — this is the Buddha's skillful means… for them to rest, he conjured a phantom city," the śrāvaka's nirvāṇa as expedient means, T31, No. 1611.

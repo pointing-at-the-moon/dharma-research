@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P07"
 paper_number: 7
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # In Emptiness There Is No Form: Awareness of Sense-Bases, Objects, and Consciousness
@@ -117,7 +117,7 @@ The doctrinal precision of the torrent metaphor is remarkable. The ādāna-vijñ
 
 Most critically, the Buddha adds: "I do not explain this to the ordinary and foolish, lest they discriminate and grasp it as a self." The Buddha knows that the ādāna-vijñāna exists, but chooses not to reveal it to those of insufficient capacity — because they would seize upon consciousness as "self." The Heart Sūtra's "no consciousness-realm" is the prajñā expression of precisely this intent: not a negation of consciousness's existence, but a prevention of attachment to consciousness. Prajñā's "no" and Yogācāra's "existence" are not contradictory — they are the same teaching deployed at different levels.
 
-The same sūtra extends the mirror metaphor: "the mirror-surface does not transform into reflections, nor is it diminished by them" — the mirror manifests images but is neither transformed into those images nor diminished by the manifesting.[^6] This metaphor clarifies that consciousness constructs the world through vijñapti (manifestation), not utpādana (fabrication). The world before you is an image manifested by consciousness, but consciousness itself is neither consumed nor altered by the manifesting.
+The same sūtra extends the mirror metaphor: "yet the mirror surface does not transform into the images, nor can any diminishing or exhaustion of its function be found" — the mirror manifests images but is neither transformed into those images nor diminished by the manifesting.[^6] This metaphor clarifies that consciousness constructs the world through vijñapti (manifestation), not utpādana (fabrication). The world before you is an image manifested by consciousness, but consciousness itself is neither consumed nor altered by the manifesting.
 
 ### 2.4 The Śūraṅgama Sūtra: Deconstructing the Illusion of Perception
 
@@ -145,7 +145,7 @@ The four tiers of scriptural evidence above establish the doctrinal foundation f
 
 The *Abhidharmakośabhāṣya*, fascicle 1, establishes the basic definitions of the three classifications (skandha, āyatana, dhātu):
 
-> "Skandha means aggregate; āyatana means gate of generation; dhātu means lineage."[^8]
+> "The meaning of the aggregation of conditioned dharmas is the meaning of skandha … the meaning of the gate of generation and growth for mind and mental factors is the meaning of āyatana … the meaning of the lineage of dharmas is the meaning of dhātu."[^8]
 
 It further illustrates the "lineage" meaning of dhātu with a mineral metaphor:
 
@@ -157,11 +157,11 @@ Vasubandhu also explains why the Buddha taught the three classifications:
 
 > "Because of the three — delusion, faculties, and inclination."
 
-The three frameworks address three kinds of capacity: for beings deluded about form (grasping materiality), the five skandhas are taught to dismantle form's seeming substantiality; for beings deluded about mind (not understanding mind's structure), the twelve āyatanas are taught to reveal the generative gates of six sense-bases and six sense-objects; for beings deluded about both form and mind (not even clear about the relationship of root, object, and consciousness), the eighteen dhātus are taught — the finest-grained analysis.
+The three frameworks address three kinds of capacity: for beings deluded about mental factors (grasping them collectively as a self), the five skandhas are taught to dismantle this collective grasping of mental factors; for beings deluded only about form (grasping materiality), the twelve āyatanas are taught to reveal the generative gates of six sense-bases and six sense-objects; for beings deluded about both form and mind (not even clear about the relationship of root, object, and consciousness), the eighteen dhātus are taught — the finest-grained analysis.
 
 #### 2.5.2 Kuiji's Youzan: The Yogācāra Core Interpretation
 
-Kuiji's treatment of the eighteen dhātus in *Youzan*, fascicle 2, constitutes one of the most rigorous dialectical analyses in the entire Yogācāra tradition.[^9] He unfolds the argument as a dialogue between two positions:
+Kuiji's treatment of the eighteen dhātus in *Youzan*, fascicle 2 (卷下), constitutes one of the most rigorous dialectical analyses in the entire Yogācāra tradition.[^9] He unfolds the argument as a dialogue between two positions:
 
 **Superior Emptiness** holds:
 
@@ -193,9 +193,9 @@ Woncheuk further cites the *Yogācārabhūmi*, fascicle 36: eight kinds of discr
 
 #### 2.5.4 Abhidharmasamuccaya: Mahāyāna Seven Consciousness-Dhātus
 
-The *Abhidharmasamuccaya*, fascicle 2, provides another important correction:[^11]
+The *Abhidharmasamuccaya*, fascicle 1, provides another important correction:[^11]
 
-The Sarvāstivāda's eighteen dhātus cover only the six consciousnesses, excluding the seventh manas and the eighth ālaya. The *Abhidharmasamuccaya* expands the scope of "manas-āyatana" to include seven consciousness-dhātus — adding the seventh manas. The doctrinal significance is that the manas-dhātu is not merely "what remains of the six consciousnesses" but a continuously operating self-center: manas constantly deliberates, taking the seen-portion (darśana-bhāga) of the eighth consciousness as its intentional object and misapprehending it as "self."
+The Sarvāstivāda's eighteen dhātus cover only the six consciousnesses, excluding the seventh manas and the eighth ālaya. The *Abhidharmasamuccaya* likewise takes the aggregate of consciousness as "seven consciousness-dhātus, namely the six consciousness-dhātus of the eye and so on, and the manas-dhātu"; but its "manas," besides the one by which "for the six consciousnesses, the consciousness that has just ceased is manas," also includes that which "at all times takes the ālaya-vijñāna as its object, with deliberation as its nature" — namely the seventh, manas. The doctrinal significance is that the manas-dhātu is not merely "what remains of the six consciousnesses" but a continuously operating self-center: manas constantly deliberates, taking the seen-portion (darśana-bhāga) of the eighth consciousness as its intentional object and misapprehending it as "self."
 
 The *Abhidharmasamuccaya* further states that both "real existence" and "nominal existence" contemplations serve the purpose of "abandoning grasping." This echoes the fundamental stance of the Prajñāpāramitā: all analysis serves not the acquisition of more precise knowledge, but letting go.
 
@@ -253,9 +253,9 @@ Having established the doctrinal logic of the three-stage deconstruction, we mus
 
 **The eighth consciousness (ālaya-vijñāna): holding seeds and receiving impressions — waves and water.** All seeds — wholesome, unwholesome, indeterminate — are stored in the ālaya-vijñāna, like the relationship between waves and water. Water is the substance of the ālaya; waves are the actualization of seeds. Waves rise and fall, but the water has never departed; seeds actualize, receive impressions, and are stored again, the ālaya continuing as an unceasing torrent.
 
-The *Saṃdhinirmocana Sūtra*'s torrent metaphor here receives its full application. The eighteen dhātus — six bases, six objects, six consciousnesses — are all "waves" within the great torrent of the ālaya. Waves have form and characteristics and can be analyzed as eighteen "dhātus," but the nature of waves is water — apart from water, waves cannot independently exist. The Heart Sūtra's "no eye-realm up to no consciousness-realm" is precisely the seeing that these waves have no independent self-nature apart from water.
+The *Saṃdhinirmocana Sūtra*'s torrent metaphor here receives its full application. The eighteen dhātus — six bases, six objects, six consciousnesses — are all "waves" within the great torrent of the ālaya (in the sūtra, the torrent metaphor illustrates the arising of one eye-consciousness up to the five consciousness-bodies "with the torrent-like ādāna-vijñāna as support and foundation"; it does not extend to the sense-bases or objects — extending it to all eighteen dhātus as waves is the author's interpretation). Waves have form and characteristics and can be analyzed as eighteen "dhātus," but the nature of waves is water — apart from water, waves cannot independently exist. The Heart Sūtra's "no eye-realm up to no consciousness-realm" is precisely the seeing that these waves have no independent self-nature apart from water.
 
-The mirror metaphor applies with equal precision: "the mirror-surface does not transform into reflections, nor is it diminished" — consciousness constructs the world (manifests images), but consciousness itself is not thereby altered. Your world is the reflection of consciousness, but consciousness is not your world.
+The mirror metaphor applies with equal precision: "yet the mirror surface does not transform into the images, nor can any diminishing or exhaustion of its function be found" — consciousness constructs the world (manifests images), but consciousness itself is not thereby altered. Your world is the reflection of consciousness, but consciousness is not your world.
 
 ### 3.3 The Yogācāra Five-Layer Contemplation Applied to the Eighteen Dhātus
 
@@ -442,7 +442,7 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 | Mahāyānasaṃgrahabhāṣya 攝大乘論釋 | T31, No. 1597 | fasc. 1 |
 | Abhidharmakośabhāṣya 俱舍論 | T29, No. 1558 | fasc. 1 |
 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | — |
-| Abhidharmasamuccaya 集論 | T31, No. 1605 | fasc. 2 |
+| Abhidharmasamuccaya 集論 | T31, No. 1605 | fasc. 1, 2 |
 | Youzan 幽贊 (Kuiji) | T33, No. 1710 | fasc. 2 |
 | Xinjing zan 心經贊 (Woncheuk) | T33, No. 1711 | fasc. 1 |
 | Zongjing lu 宗鏡錄 | T48, No. 2016 | fasc. 41 |
@@ -479,13 +479,13 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 
 [^7]: *Śūraṅgama Sūtra* (大佛頂首楞嚴經), "pull out any one root; the adhesion loosens inward…," cited via *Zongjing lu* fasc. 41, T19, No. 945; T48, No. 2016.
 
-[^8]: *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), fasc. 1, "skandha means aggregate; āyatana means gate of generation; dhātu means lineage," T29, No. 1558.
+[^8]: *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), fasc. 1, "the meaning of the aggregation of conditioned dharmas is the meaning of skandha … the meaning of the gate of generation and growth for mind and mental factors is the meaning of āyatana … the meaning of the lineage of dharmas is the meaning of dhātu," T29, No. 1558.
 
 [^9]: *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), fasc. 2, T33, No. 1710. All subsequent Kuiji citations from this fascicle.
 
 [^10]: *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), fasc. 1, T33, No. 1711.
 
-[^11]: *Abhidharmasamuccaya* (大乘阿毘達磨集論), fasc. 2, seven consciousness-dhātus, T31, No. 1605.
+[^11]: *Abhidharmasamuccaya* (大乘阿毘達磨集論), fasc. 1, the aggregate of consciousness as seven consciousness-dhātus and the two senses of manas (0666a06–19); for "real existence" and "nominal existence" both serving "abandoning grasping," see fasc. 2 (0667a16–a18 ff.), T31, No. 1605.
 
 [^12]: Donald D. Hoffman, *The Case Against Reality* (W.W. Norton, 2019) argues via mathematical models that perception is not a veridical presentation. The thesis is structurally proximate to Yogācāra, but its physicalist ontological presupposition is fundamentally different from the consciousness-ontology of Yogācāra.
 

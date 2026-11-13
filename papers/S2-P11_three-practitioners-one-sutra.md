@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P11"
 paper_number: 11
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Three Practitioners, One Sūtra: The Unity of Exoteric and Esoteric in the Heart Sūtra
@@ -83,7 +83,7 @@ Section II presents scriptural foundations in six subsections: prajñā as mothe
 
 "All Buddhas of the three times, relying on prajñāpāramitā, attain anuttara-samyak-saṃbodhi" — the doctrinal foundation for this passage receives its fullest treatment in the *Mahāprajñāpāramitāśāstra* (*Dàzhìdù Lùn*). Nāgārjuna does not merely call prajñā a "mother"; he explains why this metaphor is chosen.
 
-Fascicle 34 directly answers the challenge "Why teach only prajñā?":
+Fascicle 34 directly answers the challenge "Why does it say only 'one should study prajñāpāramitā'?":
 
 > "Prajñāpāramitā is the mother of all Buddhas. Among parents, the mother's merit is greatest. Therefore the Buddha takes prajñā as the mother and the pratyutpanna-samādhi as the father. Samādhi can only collect the scattered mind and enable wisdom to mature, but it cannot contemplate the true marks of all dharmas. Prajñāpāramitā can comprehensively contemplate all dharmas and discern their true marks — there is nothing it cannot reach, nothing it cannot accomplish. Because its merit is the greatest, it is called 'the mother.'"[^5]
 
@@ -129,13 +129,13 @@ Kuiji cites the Diamond Sūtra as proof: "All Buddhas emerge from this sūtra; a
 
 The Heart Sūtra calls prajñā "the great spirit mantra, the great illumination mantra, the unsurpassed mantra, the unequalled mantra." Kuiji's *Youzan* provides two layers of interpretation.
 
-The first layer (Dharmapāla lineage) offers functional descriptions:
+The first layer (the proponent of superior emptiness, 勝空者言) offers functional descriptions:
 
 > "Marvelous functioning without limit is called 'spirit'; illuminating even the most hidden is called 'bright'; supreme and first is called 'unsurpassed'; nothing comparable to compare with is called 'unequalled.'"[^12]
 
 The great spirit mantra — prajñā's function is inconceivable and boundless. The great illumination mantra — prajñā's seeing penetrates even the most concealed. The unsurpassed mantra — nothing surpasses prajñā. The unequalled mantra — nothing can even be compared with it.
 
-The second layer (dhāraṇī classification) carries greater scholastic weight. Kuiji notes that the Sanskrit "dhāraṇī" means "total retention" and comes in four kinds: dharma-dhāraṇī (condensing extensive teaching into brief formulas), artha-dhāraṇī (condensing extensive meaning into brief formulas), pratibhāna-dhāraṇī (attaining the bodhisattva's patience of non-arising), and mantra-dhāraṇī (secret speech).[^13] The Heart Sūtra's transition from prose prajñā (dharma-retention and meaning-retention) to the gate-gate mantra (mantra-retention) completes the full spectrum of dhāraṇī.
+The second layer (in the voice of the proponent of the fitting teaching, 如應者言: dhāraṇī classification) carries greater scholastic weight. Kuiji notes that the Sanskrit "dhāraṇī" means "total retention" and comes in four kinds: dharma-dhāraṇī (condensing extensive teaching into brief formulas), artha-dhāraṇī (condensing extensive meaning into brief formulas), pratibhāna-dhāraṇī (attaining the bodhisattva's patience of non-arising), and mantra-dhāraṇī (secret speech).[^13] The Heart Sūtra's transition from prose prajñā (dharma-retention and meaning-retention) to the gate-gate mantra (mantra-retention) completes the full spectrum of dhāraṇī.
 
 Kuiji also offers an alternative reading: prajñā is not "called" the great spirit mantra, etc., but rather is the mantra "spoken by" the great spirit, the great bright one, the unsurpassed one, the unequalled one — i.e., the Buddha.[^14] This reading shifts emphasis from prajñā's nature to the authority of the speaker.
 
@@ -201,7 +201,7 @@ The *Cheng Weishi Lun* offers Dharmapāla's synthetic position: innate uncontami
 
 Each instance of right hearing irrigates the innate uncontaminated seeds. The seeds already exist; hearing-perfuming causes them to grow. When a beginner recites the Heart Sūtra — the sound of correct Dharma vibrating through the ear-consciousness, engaging the mental consciousness — irrigation is occurring.
 
-Asvabhāva's *Mahāyānasaṃgrahabhāṣya* cites a moving precedent: when Rāhula asked the Buddha to teach him direct realization, the Buddha replied, "You should first receive and retain the Dharma treasury."[^29] Hear first, then realize. Asvabhāva adds: "One who has heard little has no capacity to enter direct realization." Without sufficient hearing, contemplative insight is simply impossible.
+Asvabhāva's *Mahāyānasaṃgrahabhāṣya* cites a moving precedent: when Rāhula asked the Buddha to teach him direct realization, the Buddha replied, "You should first receive and retain the Dharma treasury."[^29] Hear first, then realize. Asvabhāva adds: "One who has heard little has no capacity to enter this direct realization." Without sufficient hearing, contemplative insight is simply impossible.
 
 Asvabhāva also delivers a crucial judgment: "Although the listener may have distorted views, because hearing-perfuming perfumes their mental continuum, they gradually and progressively become free of distortion."[^30] Even if the one who hears still holds inverted views, hearing-perfuming will work on their continuum, gradually leading them away from inversion. You do not need to understand at the outset. The hearing-perfuming itself is already doing its work.
 
@@ -209,7 +209,7 @@ Asvabhāva also delivers a crucial judgment: "Although the listener may have dis
 
 The Diamond Sūtra contains eight progressively escalating merit comparisons that constitute the most robust scriptural foundation for the dharma-eye metaphor.[^31]
 
-The scale of escalation is staggering: seven treasures filling the trichiliocosm → seven treasures filling Ganges-sand-number trichiliocosms → bodily sacrifice equal to the sands of the Ganges → bodily sacrifice three times daily for immeasurable hundreds of thousands of millions of billions of kalpas → seven-treasure piles the size of all Mount Sumerus → seven treasures filling immeasurable asaṃkhyeya worlds. Each comparison reaches the same conclusion: it does not match receiving and retaining even four lines of this sūtra and explaining them to others.
+The scale of escalation is staggering: seven treasures filling the trichiliocosm → seven treasures filling Ganges-sand-number trichiliocosms → bodily sacrifice equal to the sands of the Ganges → bodily sacrifice three times daily for immeasurable hundreds of thousands of millions of billions of kalpas → seven-treasure piles the size of all Mount Sumerus → seven treasures filling immeasurable asaṃkhyeya worlds. Most comparisons reach the same conclusion: it does not match receiving and retaining even four lines of this sūtra and explaining them to others (the comparison with bodily giving three times a day instead favors "hearing this sūtra with a mind of faith that does not turn against it," and the comparison with seven treasures filling worlds as many as the Ganges sands favors "knowing that all dharmas are without self and attaining patience").
 
 The pivotal turn comes in the fifth comparison, where the Buddha reveals the empty nature of merit itself:
 
@@ -255,7 +255,7 @@ The intermediate practitioner's hearing-perfuming has progressed from the lower 
 
 The advanced practitioner no longer "uses" the Heart Sūtra but "lives" it. When they recite "Avalokiteśvara Bodhisattva," contemplation is already happening. When they recite "practicing deep prajñāpāramitā," prajñā is already operating within the formations-aggregate. When they recite "illuminated the emptiness of the five aggregates," illumination is occurring in that very moment. Each recitation is a clearing of dust from the mirror's surface — not removing something foreign, but allowing what has always been pure to appear.
 
-The advanced practitioner's hearing-perfuming is of the upper grade (cultivation-wisdom). Vasubandhu's commentary describes the progression: "As hearing-perfuming of the lower, middle, and upper grades progressively increases, so the resultant-maturation consciousness progressively decreases — this is the turning of the basis."[^37] Hearing-perfuming increases, the contaminated consciousness decreases — pure forces grow, defiled forces recede. This is āśraya-parāvṛtti, the turning of the basis. The advanced practitioner is in the process of turning.
+The advanced practitioner's hearing-perfuming is of the upper grade (cultivation-wisdom). The *Mahāyānasaṃgraha* (Xuanzang's translation) describes the progression: "As hearing-perfuming of the lower, middle, and upper grades progressively increases, so the resultant-maturation consciousness progressively decreases — this is the turning of the basis."[^37] Hearing-perfuming increases, the contaminated consciousness decreases — pure forces grow, defiled forces recede. This is āśraya-parāvṛtti, the turning of the basis. The advanced practitioner is in the process of turning.
 
 What is the common starting point for all three practitioners? Generating the mind of awakening (bodhicitta). S1-P01 demonstrated the butterfly effect of initial aspiration — when the first thought at the causal ground is correctly directed, the Dharma-stream will find you.[^38] S1-P02 demonstrated the dharmakāya's trans-temporal blessing — the one who generates the aspiration is received by the Dharma-stream, not through one's own power but through prajñā itself extending its welcome.[^39] From beginner to advanced practitioner, the seed of prajñā and the fruit of prajñā are the same thing — only the degree of purity differs.
 
@@ -309,7 +309,7 @@ The Diamond Sūtra's fourth comparison is the most extreme: sacrificing Ganges-s
 
 Why? Because irreversible faith is the dharma-eye beginning to open. Trusting that there exists a path to seeing reality as it is means your eyes are beginning to focus. This trust is not blind faith — its precondition is having "heard this sūtra," meaning hearing-perfuming is already at work. This aligns perfectly with the beginner framework among the three practitioners — recitation plants seeds, faith is the beginning.
 
-The *Vajracchedikā-ṭīkā* says it most directly: "Seven-treasure merit is the cause of affliction-stained [karma], because it can bring about affliction-laden results."[^48] Seven-treasure charity, if accompanied by the mark-grasping mind — "I am doing a good deed; I have merit" — has that very "I" as an affliction-cause. Mark-grasping merit is conditioned; it circulates within saṃsāra and does not lead out. Prajñā's four-line verse is "merit without mark-grasping" — it does not accumulate within saṃsāra but points directly to the exit.
+The treatise text commented on in the *Vajracchedikā-ṭīkā* says it most directly: "The merit of giving those precious treasures is a cause of affliction-stained [karma], because it can bring about affliction-laden results."[^48] Seven-treasure charity, if accompanied by the mark-grasping mind — "I am doing a good deed; I have merit" — has that very "I" as an affliction-cause. Mark-grasping merit is conditioned; it circulates within saṃsāra and does not lead out. Prajñā's four-line verse is "merit without mark-grasping" — it does not accumulate within saṃsāra but points directly to the exit.
 
 The dharma-eye metaphor ultimately returns to the *Mahāprajñāpāramitāśāstra*'s judgment: when prajñā is present, the Buddha is present.[^8] Because prajñā is the dharma-eye itself. As long as someone is reciting the Heart Sūtra, hearing prajñā, contemplating emptiness — the dharma-eye remains in the world. The three practitioners — beginner, intermediate, advanced — are all bearers of the dharma-eye. They see to different depths, but the direction of their seeing is the same: from suffering toward liberation, from darkness toward illumination, from saṃsāra toward nirvāṇa, and from nirvāṇa toward the bodhi that does not abide in nirvāṇa.
 
@@ -345,7 +345,7 @@ The hearing-perfuming doctrine does affirm that "recitation plants seeds," but s
 
 ### ❌ Correction 2: Exoteric and esoteric are not hierarchically ranked
 
-Fazang states that "explicit prajñā extinguishes the affliction-obstruction; secret prajñā extinguishes the karmic-offense-obstruction" — this is functional complementarity, not a ranking that places esoteric above exoteric. Some readers, upon encountering the mantra section, conclude that "esoteric practice is the real practice" and that the preceding doctrinal analysis was merely preliminary. This is a misreading. Kuiji's four kinds of dhāraṇī clearly show that dharma-retention, meaning-retention, and mantra-retention are different faces of the same prajñā. Without the preceding doctrine (exoteric), the mantra (esoteric) becomes groundless sound. Without the mantra's total retention, doctrine remains at the conceptual level, unable to penetrate deeper into the mind. The two condition each other.
+Fazang states that "explicit speech generates wisdom-understanding and extinguishes the affliction-obstruction; secret speech, through recitation, generates merit and extinguishes the karmic-offense-obstruction" — this is functional complementarity, not a ranking that places esoteric above exoteric. Some readers, upon encountering the mantra section, conclude that "esoteric practice is the real practice" and that the preceding doctrinal analysis was merely preliminary. This is a misreading. Kuiji's four kinds of dhāraṇī clearly show that dharma-retention, meaning-retention, and mantra-retention are different faces of the same prajñā. Without the preceding doctrine (exoteric), the mantra (esoteric) becomes groundless sound. Without the mantra's total retention, doctrine remains at the conceptual level, unable to penetrate deeper into the mind. The two condition each other.
 
 ### ❌ Correction 3: Mantras are not magic
 
@@ -492,10 +492,10 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^6]: *Mahāprajñāpāramitāśāstra*, fasc. 18: "Prajñā is their mother, giving birth and nourishing. The Buddha is the father of sentient beings; prajñā gives birth to the Buddha — thus it is the grandmother of all sentient beings." *Taishō* vol. 25, no. 1509.
 [^7]: *Mahāprajñāpāramitāśāstra*, fasc. 58: "Prajñāpāramitā is the mother of all Buddhas in the ten directions, and it is also the teacher of all Buddhas." *Taishō* vol. 25, no. 1509.
 [^8]: *Mahāprajñāpāramitāśāstra*, fasc. 100: "When prajñā exists in the world, it is as if the Buddha exists ... When the teacher is present and the mother is present, one cannot say that benefit is lost. Why? Because the root of benefit is present." Exhortation chapter. *Taishō* vol. 25, no. 1509.
-[^9]: *Youzan*, fasc. 2: "The above praises the causal reliance — the benefit of severing obstructive defilements. Below it praises the fruition reliance — the benefit of attaining bodhi." Kuiji's distinction between causal and fruition reliance. *Taishō* vol. 33, no. 1710.
+[^9]: *Youzan*, fasc. 2 (卷下): "The above praises the causal reliance — the benefit of severing obstructive defilements. Below it praises the fruition reliance — the benefit of attaining bodhi." Kuiji's distinction between causal and fruition reliance. *Taishō* vol. 33, no. 1710.
 [^10]: *Youzan*, fasc. 2: "This manifests the five dharmas: first, the pure dharma-realm ... the remaining four wisdoms are conditioned merits." *Taishō* vol. 33, no. 1710.
 [^11]: *Youzan*, fasc. 2, citing the *Vajracchedikā*: "All Buddhas emerge from this sūtra," and the *Prajñā Liqu-fen*. *Taishō* vol. 33, no. 1710.
-[^12]: *Youzan*, fasc. 2. Dharmapāla-lineage reading: "Marvelous functioning without limit is 'spirit'; illuminating even the most hidden is 'bright'; supreme and first is 'unsurpassed'; nothing comparable to compare with is 'unequalled.'" *Taishō* vol. 33, no. 1710.
+[^12]: *Youzan*, fasc. 2. In the voice of the proponent of superior emptiness (勝空者言): "Marvelous functioning without limit is 'spirit'; illuminating even the most hidden is 'bright'; supreme and first is 'unsurpassed'; nothing comparable to compare with is 'unequalled.'" *Taishō* vol. 33, no. 1710.
 [^13]: *Youzan*, fasc. 2. Four kinds of dhāraṇī: dharma (condensing extensive teaching), meaning (condensing extensive meaning), capacity (attaining non-arising patience), mantra (secret speech). *Taishō* vol. 33, no. 1710.
 [^14]: *Youzan*, fasc. 2. Alternative reading: "This prajñā is the mantra spoken by the great spirit ... the unequalled ones." *Taishō* vol. 33, no. 1710.
 [^15]: Woncheuk's *Heart Sūtra Commentary*, fasc. 1: "Unfathomable spiritual function is the great spirit mantra; dispelling darkness and removing delusion is the great illumination mantra; surpassing the two vehicles is 'unsurpassed'; transcending bodhisattvas, equal to the Buddha's wisdom — hence 'unequalled.'" *Taishō* vol. 33, no. 1711.
@@ -512,7 +512,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^26]: *Mahāyānasaṃgraha* (Paramārtha trans.), fasc. 1: "The hearing-perfuming of lower, middle, and upper grades should be known as dharmakāya seeds." *Taishō* vol. 31, no. 1593.
 [^27]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha trans.), fasc. 3: "The initial-practice bodhisattva's attainment, though a worldly dharma, belongs to the dharmakāya because it serves as the cause for the dharmakāya." *Taishō* vol. 31, no. 1595.
 [^28]: *Vijñaptimātratāsiddhi*, fasc. 2: "When hearing the correct Dharma, it also perfumes the innate uncontaminated seeds, causing them to gradually increase until they ultimately give rise to the supramundane mind." Dharmapāla's synthetic position. *Taishō* vol. 31, no. 1585.
-[^29]: *Mahāyānasaṃgrahabhāṣya* (Asvabhāva trans.), fasc. 6. Citing the Rāhula sūtra: the Buddha told Rāhula, "You should first receive and retain the Dharma treasury." Also: "One who has heard little has no capacity to enter direct realization." *Taishō* vol. 31, no. 1598.
+[^29]: *Mahāyānasaṃgrahabhāṣya* (Asvabhāva trans.), fasc. 6. Citing the Rāhula sūtra: the Buddha told Rāhula, "You should first receive and retain the Dharma treasury." Also: "One who has heard little has no capacity to enter this direct realization." *Taishō* vol. 31, no. 1598.
 [^30]: *Mahāyānasaṃgrahabhāṣya* (Asvabhāva trans.), fasc. 6: "Although the listener may have distorted views, because hearing-perfuming perfumes their mental continuum, they gradually become free of distortion." *Taishō* vol. 31, no. 1598.
 [^31]: *Vajracchedikā-sūtra*, fasc. 1. Eight progressively escalating merit comparisons, from seven treasures filling the trichiliocosm to immeasurable asaṃkhyeya worlds. *Taishō* vol. 8, no. 0235.
 [^32]: *Vajracchedikā-sūtra*, fasc. 1. Fifth comparison: "If merit had substantial reality, the Tathāgata would not say merit is great; it is because merit is without [substantial reality] that the Tathāgata says merit is great." *Taishō* vol. 8, no. 0235.
@@ -520,7 +520,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^34]: *Vajracchedikā-ṭīkā*, fasc. 4: "Whether verse or prose, anything that adequately expresses the principle of the dharmakāya constitutes a 'four-line verse.'" *Taishō* vol. 25, no. 1512.
 [^35]: *Vajracchedikā-nirgrantha-śāstra*, fasc. 2: "If one upholds the correct Dharma and generates the mind of awakening, it does not equal understanding emptiness — not even one-sixteenth." Guṇamati's verse. *Taishō* vol. 25, no. 1515.
 [^36]: *Mahāyānasaṃgraha* (Xuanzang trans.), fasc. 1: "These right hearing-perfuming seeds of lower, middle, and upper grades should be known as dharmakāya seeds ... though worldly, they are the seed-nature of the supramundane mind." *Taishō* vol. 31, no. 1594.
-[^37]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha trans.), fasc. 3: "As hearing-perfuming progressively increases through lower, middle, and upper grades, the resultant-maturation consciousness progressively decreases — this is the turning of the basis." *Taishō* vol. 31, no. 1595.
+[^37]: *Mahāyānasaṃgraha* (Xuanzang trans.), fasc. 1: "As hearing-perfuming progressively increases through lower, middle, and upper grades, the resultant-maturation consciousness progressively decreases — this is the turning of the basis." *Taishō* vol. 31, no. 1594.
 [^38]: Cross-reference: S1-P01, *The Butterfly Effect of Initial Aspiration* — initial aspiration, like an initial condition in a chaotic system, becomes an irreversible trajectory of awakening through causal amplification.
 [^39]: Cross-reference: S1-P02, *Bodhicitta and the Dharma-Stream* — the dharmakāya transcends the three times; the Dharma-stream receives those who generate aspiration without limitation by time or space.
 [^40]: See note [^9].
@@ -531,7 +531,7 @@ Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Proce
 [^45]: *Mahāprajñāpāramitāśāstra*, fasc. 40: "Buddhas are called 'the unequalled'; prajñāpāramitā gives birth to the Buddhas; therefore it is called 'the unequalled-equalling pāramitā.'" *Taishō* vol. 25, no. 1509.
 [^46]: Fazang's *Brief Commentary*, fasc. 1. Twofold division: "Explicit speech generates wisdom-understanding and extinguishes the affliction-obstruction; secret speech, through recitation, generates merit and extinguishes the karmic-offense-obstruction. To extinguish the two obstructions and accomplish the two adornments, these two sections are taught." *Taishō* vol. 33, no. 1712.
 [^47]: *Vajracchedikā-sūtra*, fasc. 1. Fourth comparison: bodily sacrifice three times daily for immeasurable kalpas does not match "hearing this sūtra with irreversible faith." *Taishō* vol. 8, no. 0235.
-[^48]: *Vajracchedikā-ṭīkā*, fasc. 5: "Seven-treasure merit is the cause of affliction-stained [karma], because it can bring about affliction-laden results." Mark-grasping merit is conditioned. *Taishō* vol. 25, no. 1512.
+[^48]: *Vajracchedikā-śāstra* (Bodhiruci trans.), fasc. 2 (0787a13–15), treatise text cited and commented on in the *Vajracchedikā-ṭīkā*, fasc. 5 (0832b26–28): "The merit of giving those precious treasures is a cause of affliction-stained [karma], because it can bring about affliction-laden results." Mark-grasping merit is conditioned. *Taishō* vol. 25, nos. 1511, 1512.
 [^49]: Vygotsky, Lev S. *Mind in Society: The Development of Higher Psychological Processes*. Ed. Michael Cole et al. Cambridge, MA: Harvard University Press, 1978. Chapter 6, "Interaction between Learning and Development." ZPD theory and the scaffolding concept.
 [^50]: *Mahāyānasaṃgrahabhāṣya* (Paramārtha trans.), fasc. 3: "Right hearing means hearing with focused reverence and without distortion." *Taishō* vol. 31, no. 1595.
 [^51]: *Youzan*, fasc. 2. Citing Maitreya's verse on the ten dharma practices: "Copying, making offerings, giving to others, listening, reading, retaining, correctly expounding, chanting, reflecting, cultivating." *Taishō* vol. 33, no. 1710.

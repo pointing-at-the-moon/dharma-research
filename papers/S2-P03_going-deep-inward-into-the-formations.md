@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P03"
 paper_number: 3
 date: "2026-03"
-version: "1.3"
+version: "1.4"
 license: "CC BY-NC-SA 4.0"
 ---
 # Going Deep: Inward, Into the Formations
@@ -20,7 +20,7 @@ license: "CC BY-NC-SA 4.0"
 
 The Heart Sūtra phrase "practicing the profound prajñāpāramitā" (*xíng shēn bōrě bōluómìduō shí* 行深般若波羅蜜多時) receives from Woncheuk's *Bore boluomiduo xinjing zan* commentary a twofold analysis of "depth" — practice-depth (*nirvikalpaka-jñāna* realizing twofold emptiness) and object-depth (twofold emptiness transcending existence and non-existence). This paper proposes a third dimension: **transformation-depth** — prajñā descending from the saṃjñā-skandha level of conceptual understanding into the saṃskāra-skandha level of instinctive transformation. Only when prajñā becomes the practitioner's "firmware" rather than "application software" does practice truly go deep.
 
-Using compassion as a concrete thread throughout, the paper traces the complete transformation arc from ordinary being to eighth-bhūmi bodhisattva: "I want to be compassionate" (saṃjñā-prajñā, deliberately initiated) → "I use everyone to prove I am compassionate" (manas hijacking wholesome dharmas) → a mother's instinctive love (conventional-truth saṃskāra transformation) → "I don't feel like I'm doing compassion" (eighth-bhūmi effortless action). According to the *Avataṃsaka Sūtra*'s Ten Stages, the first-bhūmi bodhisattva "sees beings trapped in masses of suffering and thereupon gives rise to great compassion" — compassion still triggered by cognition. By the eighth bhūmi, Acalā, "all effortful practice is relinquished, effortless dharma is attained, activities of body, speech, and mind all cease, and one abides in retributive action" — compassion has shifted from deliberate generation to natural outflow. According to the *Śūraṅgama Sūtra*'s chapter on Avalokiteśvara's ear-faculty perfect penetration, Avalokiteśvara "above, merges with the fundamental, wondrous awakened mind of all Tathāgatas of the ten directions, sharing the same power of compassion; below, merges with all beings of the six destinies in the ten directions, sharing the same longing of compassion" — compassion is no longer enacted behavior but ontological unity.
+Using compassion as a concrete thread throughout, the paper traces the complete transformation arc from ordinary being to eighth-bhūmi bodhisattva: "I want to be compassionate" (saṃjñā-prajñā, deliberately initiated) → "I use everyone to prove I am compassionate" (manas hijacking wholesome dharmas) → a mother's instinctive love (conventional-truth saṃskāra transformation) → "I don't feel like I'm doing compassion" (eighth-bhūmi effortless action). According to the *Avataṃsaka Sūtra*'s Ten Stages, the first-bhūmi bodhisattva "sees that beings cannot escape these masses of suffering, and thereupon gives rise to great compassionate wisdom" — compassion still triggered by cognition. By the eighth bhūmi, Acalā, "all effortful practice is relinquished, effortless dharma is attained, activities of body, speech, and mind all cease, and one abides in retributive action" — compassion has shifted from deliberate generation to natural outflow. According to the *Śūraṅgama Sūtra*'s chapter on Avalokiteśvara's ear-faculty perfect penetration, Avalokiteśvara "above, merges with the fundamental, wondrous awakened mind of all Tathāgatas of the ten directions, sharing the same power of compassion; below, merges with all beings of the six destinies in the ten directions, sharing the same longing of compassion" — compassion is no longer enacted behavior but ontological unity.
 
 The precise mechanism of this transformation has clear scriptural grounding in Yogācāra: the saṃskāra-skandha is governed by cetanā (the mental factor of volition), whose nature is "causing the mind to act"; uncontaminated seeds (*anāsrava-bīja*) are inherently present but dormant, and "hearing the correct Dharma also perfumes the inherently present uncontaminated seeds, causing them to gradually increase"; the six types of *āśraya-parāvṛtti* from the accumulation stage to the ultimate stage reveal the gradual mechanism of "diminishing contaminated seeds and strengthening pure seeds." Cross-disciplinary dialogue engages Kahneman's dual-process theory, Ericsson's deliberate practice framework, and neuroplasticity research (⚠️ strictly as structural analogies), with Middle Way corrections guarding against asceticism, sudden-enlightenment illusion, computationalism, and the confusion of "automaticity" with "ignorance."
 
@@ -50,7 +50,7 @@ Avalokiteśvara Bodhisattva, in the *Śūraṅgama Sūtra*, describes his state 
 
 From "I want to be compassionate" to "I don't feel like I'm doing compassion" — how far is this road?
 
-Kuiji's answer in the *Youzan* is: three incalculable great aeons.[^2] This is not rhetoric. The first incalculable aeon spans from initial aspiration to the first bhūmi; the second spans from the first bhūmi to the eighth — and the eighth bhūmi is precisely the Acalā (Immovable) ground where "all effortful practice is relinquished and effortless dharma is attained,"[^3] the tipping point where compassion shifts from deliberate generation to natural outflow.
+Kuiji's answer in the *Youzan* is: two incalculable great aeons (of the three required for buddhahood).[^2] This is not rhetoric. The first incalculable aeon spans from initial aspiration to the first bhūmi; the second spans from the first bhūmi to the eighth — and the eighth bhūmi is precisely the Acalā (Immovable) ground where "all effortful practice is relinquished and effortless dharma is attained,"[^3] the tipping point where compassion shifts from deliberate generation to natural outflow.
 
 The question of this paper is: **How does this transformation happen according to the scriptures?** Beyond the practice-depth (depth of the observing wisdom) and object-depth (depth of the observed reality) that Woncheuk has already identified in the word "deep" (*shēn* 深), is there a third dimension — prajñā descending from saṃjñā-level understanding to saṃskāra-level instinct? What is the precise mechanism of this descent? From ordinary being to eighth bhūmi, what qualitative changes does compassion undergo at each stage?
 
@@ -100,7 +100,7 @@ This bears directly on our thesis: compassion is the same. Compassion without pr
 
 ### 2.4 "Time" — The Practice Stages of Three Incalculable Great Aeons
 
-Kuiji's gloss of the character "time" (*shí* 時) in fascicle 2 of the *Youzan* directly links "going deep" to the temporal structure of the five-stage path:
+Kuiji's gloss of the character "time" (*shí* 時) in fascicle 2 (卷下) of the *Youzan* directly links "going deep" to the temporal structure of the five-stage path:
 
 > Supreme bodhi is vast and profound; it cannot be realized through meager accumulation of causes... Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding [first bhūmi]. Through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding [eighth bhūmi], with pure intention and resolute vigor. Through the third incalculable great aeon, one cultivates all practices within all practices, realizing the Tathāgata Abiding.[^12]
 
@@ -232,7 +232,7 @@ First, **diminishing-power-enhancing-capacity revolution** — accumulation and 
 
 Second, **penetrating revolution** — the path of seeing. "By the power of the seeing-path, one penetrates *tathatā*, severing the coarse-and-heavy aspects of the two obstacles born from discrimination." *Nirvikalpaka-jñāna* first manifests, but only severs discriminatively arisen obstacles; innately arisen obstacles (*sahaja*) remain.
 
-Third, **cultivation revolution** — the path of cultivation (first through tenth bhūmis). "Through repeatedly cultivating the practices of the ten bhūmis, one gradually severs the coarse-and-heavy aspects of the two innately arisen obstacles, gradually attaining true basis-revolution." This is the longest stage. The *Mahāyānasaṃgraha* further divides: the first six bhūmis alternate between signless and signful contemplation; the last four maintain "pure signless contemplation for extended periods."[^43] The eighth bhūmi is precisely the turning point from "alternating manifestation" to "pure signless contemplation."
+Third, **cultivation revolution** — the path of cultivation (first through tenth bhūmis). "Through repeatedly cultivating the practices of the ten bhūmis, one gradually severs the coarse-and-heavy aspects of the two innately arisen obstacles, gradually attaining true basis-revolution." This is the longest stage. The *Cheng weishi lun*, citing the *Mahāyānasaṃgraha*, further divides: the first six bhūmis alternate between signless and signful contemplation; the last four maintain "pure signless contemplation for extended periods."[^43] The seventh bhūmi is precisely the turning point from "alternating manifestation" to "pure signless contemplation."
 
 Fourth, **fruit-perfecting revolution** — the ultimate stage. "When the vajra-like samādhi manifests in the present, all coarse-and-heavy aspects from beginningless time are permanently severed, and complete Buddhahood basis-revolution is suddenly realized."
 
@@ -393,7 +393,7 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 [^1]: *Śūraṅgama Sūtra*, fascicle 6, T19, No. 0945. Avalokiteśvara Bodhisattva's ear-faculty perfect penetration chapter.
 [^2]: Kuiji, *Youzan*, fascicle 2, T33, No. 1710. "Through the first incalculable great aeon, one cultivates one practice within one practice, thereby realizing the Joyful Abiding; through the second incalculable great aeon, one cultivates all practices within one practice, realizing the Effortless, Signless Abiding."
 [^3]: *Avataṃsaka Sūtra*, fascicle 38, Ten Stages — Eighth Bhūmi, T10, No. 0279.
-[^4]: Kuiji, *Youzan*, fascicle 1, T33, No. 1710. The Śūnyatā-absolutist's interpretation of "practice."
+[^4]: Kuiji, *Youzan*, fascicle 1 (卷上), T33, No. 1710. The Śūnyatā-absolutist's interpretation of "practice."
 [^5]: Ibid. The As-Appropriate interpretation of "practice."
 [^6]: Ibid. The As-Appropriate rebuttal: "If there were no practice yet also nothing not practiced, then the ignorance of sentient beings would be nothing not illuminated, and from beginningless time all should already be illuminated — but who was the one previously unilluminated and now illuminated?"
 [^7]: Ibid. "One must possess the two types of Mahāyāna lineage and be able to cultivate gradually through the five stages."

@@ -5,7 +5,7 @@ series_short: "S2"
 paper_id: "S2-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.3"
+version: "1.4"
 license: "CC BY-NC-SA 4.0"
 ---
 # Prajñā · Heart · Sūtra — The Title IS the Teaching
@@ -134,7 +134,7 @@ The *Madhyāntavibhāga* offers a definitive formulation:
 
 *"Neither defiled nor not-defiled, neither pure nor not-pure—because the nature of mind is originally pure, it is defiled only by adventitious defilements."*
 
-Kuiji in the *Youzan*, fascicle 2, also cites this verse, using space as an analogy: "Just as in space there are forms, defiled and pure, yet the nature of space is not thus—so too, though dharmas have defilement and purity, the nature of emptiness has none."[^10]
+Kuiji in the *Youzan*, fascicle 2 (卷下), also cites this verse, using space as an analogy: "Just as in space there are forms, defiled and pure, yet the nature of space is not thus—so too, though dharmas have defilement and purity, the nature of emptiness has none."[^10]
 
 The reflective capacity of a mirror is never affected by dust—the empty nature of space is never altered by clouds. Your mind is the same. Prajñāpāramitā is not forging a new mirror; it is wiping away dust that never belonged to the mirror, so that the inherent capacity to reflect can re-manifest.
 
@@ -144,7 +144,7 @@ If practice is "recognition" rather than "arrival," then why is the awakened one
 
 The *Vajracchedikā* answers: "**The Tathāgata has nowhere from which he comes, and nowhere to which he goes** — therefore he is called Tathāgata."[^11] And further: "**Tathāgata means 'the suchness of all dharmas.'**"[^12] The Tathāgata is not a traveler who has finally reached the other shore; "Tathāgata" means the suchness of all dharmas — it has always been right here.
 
-Nāgārjuna pushes this to its ultimate: "**With mind one sees the Buddha; with mind one becomes the Buddha. Mind itself is the Buddha; mind itself is my body. Yet the mind does not know itself, nor does it see itself.**"[^13] The Buddha is not somewhere outside waiting for you to arrive; the Buddha is your own mind — the only problem is that "the mind does not know itself." The Sixth Patriarch Huineng's great awakening — five exclamations of "who would have thought that self-nature..."[^14] — is precisely the structure of recognition: not "I have finally reached a new state," but "I never realized this was here all along."
+Nāgārjuna pushes this to its ultimate: "**With mind one sees the Buddha; with mind one becomes the Buddha. Mind itself is the Buddha; mind itself is my body. Yet the mind does not know itself, nor does it see itself.**"[^13] The Buddha is not somewhere outside waiting for you to arrive; the Buddha is your own mind — the only problem is that "the mind does not know itself" (the treatise continues directly: "If one grasps the characteristics of mind, all is without wisdom; the mind too is false and deceptive, all arising from ignorance. By way of these characteristics of mind, one enters the true mark of all dharmas, namely constant emptiness." Taking "the mind does not know itself" as the crux of the problem is the author's interpretation). The Sixth Patriarch Huineng's great awakening — five exclamations of "who would have thought that self-nature..."[^14] — is precisely the structure of recognition: not "I have finally reached a new state," but "I never realized this was here all along."
 
 The doctrinal meaning of "neither coming nor going" receives its complete structural unfolding in the Heart Sūtra's opening sentence — "When Avalokiteśvara Bodhisattva was practicing the profound prajñāpāramitā, he illuminated the emptiness of the five aggregates and transcended all suffering" — which constitutes a closed awakening loop whose endpoint returns to its origin: the causal-level "Avalokiteśvara" is the original face of the fruition-level "Avalokiteśvara." For the full argument with scriptural evidence, see S2-P02.
 
@@ -184,9 +184,9 @@ This paper emphasizes that awakening is "recognition" rather than "arrival," but
 
 Merely knowing that the mirror is inherently clean is not enough; you still have to pick up the cloth and wipe. But the purity that is revealed is not newly created—the *Cheng Weishi Lun* states this with the utmost precision:
 
-> 本來自性清淨涅槃……雖有客染而本性淨……真聖道生，斷彼障故，令其相顯，名得涅槃。此雖**本來自性清淨**，而由客障覆令不顯。[^17]
+> 此雖**本來自性清淨**，而由客障覆令不顯。真聖道生，斷彼障故，令其相顯，名得涅槃。……本來自性清淨涅槃……雖有客染而本性淨。[^17]
 
-*"Nirvāṇa that is originally pure by nature ... although there are adventitious defilements, the nature is pure ... when the true noble path arises and severs those obstructions, causing its characteristics to manifest, this is called 'attaining nirvāṇa.' Although it has always been pure by nature, adventitious obstructions have covered it and prevented its manifestation."*
+*"Although it has always been pure by nature, adventitious obstructions have covered it and prevented its manifestation; when the true noble path arises and severs those obstructions, causing its characteristics to manifest, this is called 'attaining nirvāṇa.' ... Nirvāṇa that is originally pure by nature ... although there are adventitious defilements, the nature is pure."*
 
 Nirvāṇa is "revealed" (所顯得), not "manufactured" (所造得). The act of wiping is real and necessary; but the purity that emerges was there all along.
 
@@ -257,7 +257,7 @@ The Tathāgata has nowhere from which he comes and nowhere to which he goes. You
 
 ## Footnotes
 
-[^1]: *Bore boluomiduo xinjing youzan*, fascicle 1, "心者，堅實妙最之稱", *Taishō* vol. 33, No. 1710.
+[^1]: *Bore boluomiduo xinjing youzan*, fascicle 1 (卷上), "心者，堅實妙最之稱", *Taishō* vol. 33, No. 1710.
 [^2]: *Bore boluomiduo xinjing youzan*, fascicle 1, "慧性、慧資，皆名般若", five meanings of prajñā, *Taishō* vol. 33, No. 1710.
 [^3]: *Bore boluomiduo xinjing youzan*, fascicle 1, five meanings of pāramitā: jñeya, teaching, principle, practice, fruit, *Taishō* vol. 33, No. 1710.
 [^4]: *Bore boluomiduo xinjing youzan*, fascicle 1, "事雖萬像，統即色而為空，道縱千門，貫無智而兼得", gloss on "heart", *Taishō* vol. 33, No. 1710.

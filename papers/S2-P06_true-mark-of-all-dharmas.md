@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P06"
 paper_number: 6
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The True Mark of All Dharmas: This Mind Is Unborn and Unceasing
@@ -17,11 +17,11 @@ license: "CC BY-NC-SA 4.0"
 
 ## Abstract
 
-The eighteen characters of the Heart Sūtra's passage — "The true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease" — constitute the highest concentration of doctrinal meaning in the entire text. This paper proposes that these six negations are not abstract philosophical categories but the Buddha's direct pointing to the nature of mind itself. "Empty mark" (空相, śūnya-lakṣaṇa) refers to the true mark of all dharmas, i.e. tathatā (suchness). "No arising, no ceasing" points to the unconditioned nature of tathatā — the dharma-realm itself was never fabricated. "No defilement, no purity" indicates that the essence of tathatā transcends the polarity of purity and impurity — defilement and purity are functional states of consciousness, not the nature of mind. "No increase, no decrease" indicates that mind is not material and therefore unlimited — its essence neither grows through awakening nor diminishes through delusion. The paper builds its doctrinal framework on three layers: the Buddha's own words as sūtras (the *Mahāprajñāpāramitā Sūtra*, the *Anūnatvāpūrṇatva-nirdeśa*, the *Śrīmālādevī-siṃhanāda Sūtra*, and the *Śūraṅgama Sūtra*), bodhisattva treatises as warp (*Ratnagotravibhāga* and *Cheng weishi lun*), and patriarchal commentaries as verification (Kuiji's *Youzan* and Fazang's *Lüeshu*). Special attention is given to Kuiji's dialectical treatment of the six negations using the ākāśa (space) and mirage analogies, and Fazang's threefold exposition — by stage, by dharma, and by contemplative practice — which maps the six negations onto the three-natures-three-no-natures framework. The cross-disciplinary section offers conservation of energy and the triple point of water as heuristic analogies. The Middle Way Correction section cites the Buddha's own refutation of Ānanda's lapis lazuli analogy, and strictly distinguishes the Dharmapāla-Xuanzang position ("tathatā does not condition-follow") from the *Awakening of Faith* position ("tathatā follows conditions").
+The seventeen characters of the Heart Sūtra's passage — "The true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease" — constitute the highest concentration of doctrinal meaning in the entire text. This paper proposes that these six negations are not abstract philosophical categories but the Buddha's direct pointing to the nature of mind itself. "Empty mark" (空相, śūnya-lakṣaṇa) refers to the true mark of all dharmas, i.e. tathatā (suchness). "No arising, no ceasing" points to the unconditioned nature of tathatā — the dharma-realm itself was never fabricated. "No defilement, no purity" indicates that the essence of tathatā transcends the polarity of purity and impurity — defilement and purity are functional states of consciousness, not the nature of mind. "No increase, no decrease" indicates that mind is not material and therefore unlimited — its essence neither grows through awakening nor diminishes through delusion. The paper builds its doctrinal framework on three layers: the Buddha's own words as sūtras (the *Mahāprajñāpāramitā Sūtra*, the *Anūnatvāpūrṇatva-nirdeśa*, the *Śrīmālādevī-siṃhanāda Sūtra*, and the *Śūraṅgama Sūtra*), bodhisattva treatises as warp (*Ratnagotravibhāga* and *Cheng weishi lun*), and patriarchal commentaries as verification (Kuiji's *Youzan* and Fazang's *Lüeshu*). Special attention is given to Kuiji's dialectical treatment of the six negations using the ākāśa (space) and mirage analogies, and Fazang's threefold exposition — by stage, by dharma, and by contemplative practice — which maps the six negations onto the three-natures-three-no-natures framework. The cross-disciplinary section offers conservation of energy and the triple point of water as heuristic analogies. The Middle Way Correction section cites the Buddha's own refutation of Ānanda's lapis lazuli analogy, and strictly distinguishes the Dharmapāla-Xuanzang position ("tathatā does not condition-follow") from the *Awakening of Faith* position ("tathatā follows conditions").
 
 **摘要**
 
-心經「是諸法空相，不生不滅，不垢不淨，不增不減」十八字，是整部心經義理密度最高的段落。本文提出：此六不描述不是哲學概念的抽象界定，而是佛陀對心體本質的直接指陳。以經為主（般若經、不增不減經、勝鬘經、楞嚴經），論為輔（寶性論、成唯識論），疏為證（窺基幽贊、法藏略疏），三層交織建立義理架構。中道校正引佛陀破斥阿難瑠璃椀喻，嚴格區分護法-玄奘系「真如不隨緣」與起信論系「真如隨緣」的分歧。
+心經「是諸法空相，不生不滅，不垢不淨，不增不減」十七字，是整部心經義理密度最高的段落。本文提出：此六不描述不是哲學概念的抽象界定，而是佛陀對心體本質的直接指陳。以經為主（般若經、不增不減經、勝鬘經、楞嚴經），論為輔（寶性論、成唯識論），疏為證（窺基幽贊、法藏略疏），三層交織建立義理架構。中道校正引佛陀破斥阿難瑠璃椀喻，嚴格區分護法-玄奘系「真如不隨緣」與起信論系「真如隨緣」的分歧。
 
 **Keywords:** Heart Sūtra, true mark of dharmas, six negations, tathatā, amalā-vijñāna, āśraya-parāvṛtti, Kuiji, Fazang, tathāgatagarbha, self-nature purity of mind | 般若心經、諸法空相、六不、真如、無垢識、轉依、窺基、法藏、如來藏、自性清淨心
 
@@ -43,7 +43,7 @@ Here the Heart Sūtra pivots. The sūtra calls out Śāriputra's name — in the
 
 > Śāriputra, the true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease.
 
-Six negations, three pairs, eighteen characters. These eighteen characters are not describing a philosophical concept. They are pointing directly at the nature of your mind.
+Six negations, three pairs, seventeen characters. These seventeen characters are not describing a philosophical concept. They are pointing directly at the nature of your mind.
 
 ### 1.2 Research Questions
 
@@ -111,7 +111,7 @@ This provides the most explicit canonical anchor for the Heart Sūtra's "no incr
 
 ### 2.3 The Śrīmālādevī Sūtra: The Self-Nature Purity of Mind and Adventitious Defilements
 
-The sūtra-level basis for "no defilement, no purity" appears most precisely in the *Śrīmālādevī-siṃhanāda Sūtra*. The *Ratnagotravibhāga* cites Queen Śrīmālā's words, affirmed by the Buddha:
+The sūtra-level basis for "no defilement, no purity" appears most precisely in the *Śrīmālādevī-siṃhanāda Sūtra*. The *Ratnagotravibhāga* cites the Buddha's words to Queen Śrīmālā in the *Śrīmālā Sūtra*:
 
 > "Goddess! The self-nature-pure mind yet possessing defilement — this is difficult to know. Two dharmas are difficult to know: the self-nature-pure mind is difficult to know, and that this mind is defiled by afflictions is also difficult to know. Goddess! Only you and bodhisattva-mahāsattvas who have accomplished great Dharma can accept this teaching. All other śrāvakas and pratyekabuddhas can only believe these two dharmas by relying on the Buddha's words."[^6]
 
@@ -142,7 +142,7 @@ Fascicle ten at the exhaustion of the consciousness-aggregate confirms again: "T
 
 The "empty mark" (空相) in "the true mark of all dharmas is empty" is easily misread as "the appearance of emptiness" — as if emptiness has a look, and the Buddha is telling you what it looks like.
 
-Kuiji in the *Youzan* (幽贊), fascicle two, precisely corrects this misreading. He cites a verse from the *Madhyāntavibhāga* (辯中邊論, T1600):
+Kuiji in the *Youzan* (幽贊), fascicle 2 (卷下), precisely corrects this misreading. He cites a verse from the *Madhyāntavibhāga* (辯中邊論, T1600):
 
 > "Because there is no duality yet there is its absence, it is neither existent nor non-existent, neither different nor identical — this is called the empty mark."[^10]
 
@@ -315,7 +315,7 @@ This paper's citations of the *Śrīmālādevī Sūtra*'s "self-nature-pure mind
 
 In the orthodox Yogācāra position of Dharmapāla-Xuanzang, tathatā does not produce dharmas. Dependently arisen form-dharmas arise from the actualization of seeds in the ālaya-vijñāna, not from tathatā "flowing forth" or "magically manifesting." Tathatā is disclosed, not generative. This is the most critical dividing line between Yogācāra and the tathāgatagarbha system.[^23]
 
-[^23]: The core text for this divergence is the section on "tathatā as the unconditioned" in *Cheng weishi lun*, fascicle 2, T31, No. 1585.
+[^23]: The core text for this divergence is the passage on tathatā as the unconditioned in *Cheng weishi lun*, fascicle 2 (0006c05–20), T31, No. 1585.
 
 The *Dasheng qixin lun* (大乘起信論, *Awakening of Faith*) system holds that "tathatā follows conditions" — tathatā follows defiled conditions to become saṃsāric dharmas, and follows pure conditions to manifest as awakening. This position has been enormously influential in East Asian Buddhism (Huayan, Tiantai, and Chan all bear its mark), but it is not accepted within the strict Dharmapāla-Xuanzang system.
 
@@ -335,7 +335,7 @@ Third, the "simultaneous coexistence" of the triple point cannot be extended to 
 
 ## VI. Conclusion
 
-The Heart Sūtra's eighteen characters — "The true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease" — constitute the pivotal turn of the entire sūtra, from deconstruction (illuminating that the five aggregates are empty) to direct pointing (the nature of mind has always been thus).
+The Heart Sūtra's seventeen characters — "The true mark of all dharmas is: no arising, no ceasing; no defilement, no purity; no increase, no decrease" — constitute the pivotal turn of the entire sūtra, from deconstruction (illuminating that the five aggregates are empty) to direct pointing (the nature of mind has always been thus).
 
 The doctrinal conclusions of this paper are as follows:
 
