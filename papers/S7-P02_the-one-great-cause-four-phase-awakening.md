@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P02"
 paper_number: 2
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The One Great Cause, the Four-Phase Awakening, and the Convergence of the Three Vehicles
@@ -119,7 +119,7 @@ This section sketches the four commentarial sources whose detailed analysis is r
 
 These four meanings map directly onto the four verbs *open, reveal, awaken, enter*. Crucially — and this is the structural finding S7-P01 had already established — Vasubandhu's framework here is *dharma-body equality*, not the three-natures framework of his other works. There is no mention of *parikalpita*, *paratantra*, or *pariniṣpanna* in the *Saddharmapuṇḍarīka-upadeśa*. The use of "*dharma-body equality*" rather than "three natures" is a deliberate *register-selection* on Vasubandhu's part — he selects different doctrinal vocabularies for different scriptural contexts — and this selection itself becomes a key piece of evidence for the three-tier genealogy thesis.
 
-**Zhiyi, *Fahua xuanyi*** (T1716) and ***Fahua wenju*** (T1718). Tiantai's treatment of the "one great matter" passage is the richest in the entire commentarial history. In *Fahua xuanyi* fascicle 1, Zhiyi makes "destroying the discardable expedient and opening to the true buddha-knowledge-and-vision" the doctrinal pivot of the Lotus[^11]. In *Fahua wenju* fascicle 2, Zhiyi develops a *fourfold gloss* of *open, reveal, awaken, enter* (by stage, by wisdom, by gate, by contemplation) that is, structurally, the most fine-grained analysis of the four verbs in any Buddhist commentary[^12]. Zhiyi's teacher Huisi (慧思) had already proposed a *four-position gloss* — "*open* the buddha-knowledge-and-vision is the ten dwellings; *reveal* is the ten practices; *awaken to* is the ten dedications; *enter into* is the ten grounds and the stage of equal awakening"[^13] — which became the foundation of Tiantai's doctrinal-staging schema.
+**Zhiyi, *Fahua xuanyi*** (T1716) and ***Fahua wenju*** (T1718). Tiantai's treatment of the "one great matter" passage is the richest in the entire commentarial history. In *Fahua xuanyi* fascicle 9, Zhiyi makes "destroying the discardable expedient and opening to the true buddha-knowledge-and-vision" the doctrinal pivot of the Lotus[^11]. In *Fahua wenju* fascicle 4, Zhiyi develops a *fourfold gloss* of *open, reveal, awaken, enter* (by stage, by wisdom, by gate, by contemplation) that is, structurally, the most fine-grained analysis of the four verbs in any Buddhist commentary[^12]. Zhiyi's teacher Huisi (慧思) had already proposed a *four-position gloss* — "*open* the buddha-knowledge-and-vision is the ten dwellings; *reveal* is the ten practices; *awaken to* is the ten dedications; *enter into* is the ten grounds and the stage of equal awakening"[^13] — which became the foundation of Tiantai's doctrinal-staging schema.
 
 **Kuiji, *Fahua xuanzan*** (T1723). The Tang Dynasty Faxiang school's Yogācāra reading of the *Lotus*. §3.5 will demonstrate that Kuiji not only inherits Vasubandhu's fourfold-meaning framework but also, in *Fahua xuanzan* fascicle 4b, explicitly reads the "one vehicle" through the structural lens of the three natures: "Now, the [pure portion of] the *paratantra* is awakening, and the *pariniṣpanna* is nirvāṇa — together they constitute the one vehicle."[^14] This is the strongest text-anchored support that the three-tier genealogy thesis I established in S7-P01 receives anywhere in the Lotus commentarial tradition.
 
@@ -151,13 +151,13 @@ The four verbs *kāi* (開), *shì* (示), *wù* (悟), *rù* (入) are extraord
 
 **Open** (*kāi*) — to remove a covering, to make accessible what was previously enclosed. The buddha-knowledge-and-vision is, for sentient beings as they ordinarily exist, covered over by ignorance, by karma, by the cognitive obstruction. The Buddha's first action is to *uncover* this covering, allowing what was already there to come into view. Note carefully: the object of "opening" is not something *given* to sentient beings; it is something *already in them* that is being *unveiled*. The use of the verb *kāi* therefore already presupposes a doctrinal commitment — that sentient beings *intrinsically possess* the buddha-knowledge-and-vision in some sense. Kuiji glosses *open* in his *Fahua xuanzan* fascicle 3b as follows: "The buddhas appear in the world wishing to cause sentient beings to sever the obstruction-of-the-knowable along with the karmic actions and karmic results that follow from it, and to fully realize *bodhi*, opening the *appearance* of the knowledge-and-vision so that they obtain purity."[^17] The content of "opening" is the severing of the obstruction-of-the-knowable; the *direction* of opening is from coveredness toward purity.
 
-**Reveal** (*shì*) — to *display* the contents of what has been opened to a viewer. *Open* and *reveal* may at first glance seem to collapse into the same operation, but there is a crucial difference: *opening* can be silent and structural (as one might silently draw back a curtain), whereas *revealing* must be *displayed-to-someone* — there must be both an object that is displayed and a subject who beholds the display. Vasubandhu glosses *reveal* as the *meaning of sameness*: "namely, that the dharma-bodies of the śrāvakas, pratyekabuddhas, and buddhas are equal. The dharma-bodies are equal because the buddha-nature and the dharma-body know no differentiation."[^18] What the Buddha *displays* in this phase is not something the sentient being lacks; it is the *equal dharma-body* that all three vehicles have always possessed. The Buddha shows you what you have always already had, but did not know you had.
+**Reveal** (*shì*) — to *display* the contents of what has been opened to a viewer. *Open* and *reveal* may at first glance seem to collapse into the same operation, but there is a crucial difference: *opening* can be silent and structural (as one might silently draw back a curtain), whereas *revealing* must be *displayed-to-someone* — there must be both an object that is displayed and a subject who beholds the display. Vasubandhu glosses *reveal* as the *meaning of sameness*: "namely, that the dharma-bodies of the śrāvakas, pratyekabuddhas, and buddhas are equal. … The dharma-bodies are equal because the buddha-nature and the dharma-body know no differentiation."[^18] What the Buddha *displays* in this phase is not something the sentient being lacks; it is the *equal dharma-body* that all three vehicles have always possessed. The Buddha shows you what you have always already had, but did not know you had.
 
 **Awaken to** (*wù*) — the subject *recognizes* what is being shown. The first two verbs were the Buddha's actions; with the third verb, the locus of agency begins to migrate to the practitioner. Vasubandhu glosses *awaken to* as the *meaning of not-knowing*: "namely, that all the *śrāvakas* and *pratyekabuddhas* cannot know its true place. To 'not know its true place' means: not to know that there is, in the end, only the one buddha-vehicle."[^19] The problem the verb *awaken to* addresses is not that sentient beings *fail to see* something — they may already see it — but that they *fail to recognize what they are seeing*. They see the buddha-knowledge-and-vision and mistake it for the *śrāvaka*'s liberation; they see the one buddha-vehicle and mistake it for one vehicle among three. *Awaken to* is precisely the verb of *recognition* — of seeing-as.
 
 **Enter** (*rù*) — to actively step into, to take up and carry. With the first three verbs we are still in the order of *knowing*: open the covering, display the content, recognize what is displayed. With *enter*, the action moves from knowing to *doing*: the practitioner does not simply receive information about the buddha-knowledge-and-vision but *takes that content as part of her own existence*. Vasubandhu glosses *enter* as *causing them to attain the stage of non-retrogression, displaying the wish to bestow on them the karma of immeasurable wisdom*.[^20] The "stage of non-retrogression" (*avaivartika*) is the structurally pivotal stage of the bodhisattva path (the first ground and beyond), at which the practitioner cannot fall back to the two vehicles or to the worldling. The mark of *entering* is the *irreversibility* of what has been undertaken.
 
-**The four verbs together constitute a closed circuit, not a linear ladder.** Why a circuit? Because the last verb, *enter*, is not a terminal endpoint at which the practitioner stops; it is the entry into a new vantage point from which the *first* verb, *open*, immediately acquires new content. A practitioner who has just entered the first ground will, in working her way to the second, third, and tenth grounds, repeat the entire *open–reveal–awaken–enter* circuit on every successive layer of refinement. Zhiyi's *Fahua wenju* fascicle 1 makes this explicit with a striking simile drawn from the *Mahāprajñāpāramitāśāstra*: "Just as the [Sanskrit] letter *a* at the beginning [of the alphabet] possesses the merit of all forty-one letters, so too the letter *ṭha* at the end possesses the merit of all the others, and the letters in the middle likewise; the letters are equal, the words are equal, the merits are equal."[^21] A bodhisattva at the *first* dwelling already possesses *all* the merits of the stage of equal awakening; conversely, a bodhisattva at equal awakening is still doing the *same* operation as the bodhisattva at the first dwelling. The progression through stages is not the addition of new content but the *more refined repetition of the same circuit*.
+**The four verbs together constitute a closed circuit, not a linear ladder.** Why a circuit? Because the last verb, *enter*, is not a terminal endpoint at which the practitioner stops; it is the entry into a new vantage point from which the *first* verb, *open*, immediately acquires new content. A practitioner who has just entered the first ground will, in working her way to the second, third, and tenth grounds, repeat the entire *open–reveal–awaken–enter* circuit on every successive layer of refinement. Zhiyi's *Fahua wenju* fascicle 2 makes this explicit with a striking simile drawn from the *Larger Prajñāpāramitā-sūtra*: "Just as the [Sanskrit] letter *a* at the beginning [of the alphabet] possesses the merit of all forty-one letters, so too the letter *ṭha* at the end possesses the merit of all the others, and the letters in the middle likewise; the letters are equal, the words are equal, the merits are equal."[^21] A bodhisattva at the *first* dwelling already possesses *all* the merits of the stage of equal awakening; conversely, a bodhisattva at equal awakening is still doing the *same* operation as the bodhisattva at the first dwelling. The progression through stages is not the addition of new content but the *more refined repetition of the same circuit*.
 
 This loop structure is *structurally identical* to the four-phase contemplative loop that S2-P02 identified in the *Heart Sūtra*'s Avalokiteśvara verse: *illuminate the five aggregates as empty → examine → enter deeply into prajñā → liberate from all suffering*. The two structures map onto each other cleanly:
 
@@ -170,7 +170,7 @@ This loop structure is *structurally identical* to the four-phase contemplative 
 
 The two structures are structurally identical not because the *Lotus* borrowed from the *Prajñāpāramitā* literature, nor because the *Prajñāpāramitā* anticipated the *Lotus*, but because *both are describing the same thing — the internal structure of the awakening event*. Awakening is not a one-time occurrence but a closed loop; the loop has four phases, none of which can be omitted; and the four phases occur in a definite order (uncover → display → recognize → take up). The Lotus's version amplifies this loop to the cosmological scale of *every buddha appearing in every world*; the *Heart Sūtra*'s version contracts the same loop to the moment-by-moment scale of *a meditator practicing the perfection of wisdom*. One contemplative loop, two scales.
 
-Zhiyi's *Fahua wenju* fascicle 2 develops the structure even further with his *fourfold gloss* of *open, reveal, awaken, enter*: by stage (位), by wisdom (智), by gate (門), and by contemplation (觀). His conclusion is the dense formula: ***seeing the principle depends on the stage; the stage is established by wisdom; wisdom unfolds through the gate; the gate becomes accessible through contemplation.***[^22] The four glosses are not parallel alternatives; they are four orthogonal slices of the same loop. *Stage* gives us the temporal ordering of the bodhisattva's progress; *wisdom* gives us the cognitive capacity at each phase; *gate* gives us the entry points provided by different teachings; *contemplation* gives us the immediate first-person practice. Four dimensions, mutually supporting, reading the same circuit.
+Zhiyi's *Fahua wenju* fascicle 4 develops the structure even further with his *fourfold gloss* of *open, reveal, awaken, enter*: by stage (位), by wisdom (智), by gate (門), and by contemplation (觀). His conclusion is the dense formula: ***seeing the principle depends on the stage; the stage is established by wisdom; wisdom unfolds through the gate; the gate becomes accessible through contemplation.***[^22] The four glosses are not parallel alternatives; they are four orthogonal slices of the same loop. *Stage* gives us the temporal ordering of the bodhisattva's progress; *wisdom* gives us the cognitive capacity at each phase; *gate* gives us the entry points provided by different teachings; *contemplation* gives us the immediate first-person practice. Four dimensions, mutually supporting, reading the same circuit.
 
 ### 3.3 The argumentative structure of "merging the three vehicles into one"
 
@@ -269,7 +269,7 @@ The four-meaning architecture Vasubandhu provides becomes the foundational frame
 
 #### 3.5.2 Zhiyi's *Fahua wenju*: the fourfold gloss
 
-Zhiyi's treatment of *open, reveal, awaken, enter* in *Fahua wenju* fascicle 2 first criticizes earlier "partial glosses" of the four verbs, then accepts Vasubandhu's four meanings as the basic frame, and then adds his own *fourfold gloss* under four orthogonal categories: *by stage, by wisdom, by gate, by contemplation*. Each category produces a new four-step parallel:
+Zhiyi's treatment of *open, reveal, awaken, enter* in *Fahua wenju* fascicle 4 first criticizes earlier "partial glosses" of the four verbs, then accepts Vasubandhu's four meanings as the basic frame, and then adds his own *fourfold gloss* under four orthogonal categories: *by stage, by wisdom, by gate, by contemplation*. Each category produces a new four-step parallel:
 
 - **By stage**: *open* = the ten dwellings (*shízhù*, breaking ignorance and opening the *tathāgatagarbha*); *reveal* = the ten practices (the various merits of the *dharmadhātu* are displayed); *awaken to* = the ten dedications (event and principle merge); *enter* = the ten grounds (sovereign self-flowing).
 - **By wisdom**: *open* = path-wisdom (*dào huì*); *reveal* = path-species wisdom (*dào zhǒng huì*); *awaken to* = the all-knowing wisdom (*yī qiè zhì*); *enter* = the all-knowing-of-all-aspects wisdom (*yī qiè zhǒng zhì*).
@@ -282,7 +282,7 @@ Zhiyi's teacher Huisi had already proposed the simpler *four-position gloss*: "*
 
 Two key differences from Vasubandhu deserve attention. First, Zhiyi uses *staging language* — he assigns the four verbs to specific bodhisattva stages (the ten dwellings, ten practices, etc.). Vasubandhu's four meanings are abstract doctrinal judgments; Zhiyi's four positions are concrete progress-markers along the bodhisattva path. Second, Zhiyi uses *multiple slicing* — the same four-verb structure can be cut by stage, by wisdom, by gate, or by contemplation. Each slicing is complete on its own terms but they are all complementary. This is the characteristic Tiantai methodology of *yuán róng* (perfect interfusion).
 
-But Zhiyi is himself careful to insist that the four positions, four wisdoms, four gates, and four contemplations are *not* a linear ladder. In *Fahua wenju* fascicle 1 he says explicitly: "A bodhisattva at the first dwelling can divide his body into a hundred world-systems and become a buddha there… A bodhisattva at the first dwelling, having opened the buddha-knowledge-and-vision, has knowledge-and-vision the same as that of the buddhas, and is therefore praised by the buddhas."[^27] At the *first* dwelling — the very moment of "opening" — the bodhisattva's knowledge-and-vision is *already the same as the buddhas'*. The subsequent stages of ten practices, ten dedications, and ten grounds are not "places not yet reached"; they are "the same single circuit unfolding at progressively finer layers." This is exactly the loop-not-ladder reading of §3.2.
+But Zhiyi is himself careful to insist that the four positions, four wisdoms, four gates, and four contemplations are *not* a linear ladder. In *Fahua wenju* fascicle 2 he says explicitly: "A bodhisattva at the first dwelling can divide his body into a hundred world-systems and become a buddha there… A bodhisattva at the first dwelling, having opened the buddha-knowledge-and-vision, has knowledge-and-vision the same as that of the buddhas, and is therefore praised by the buddhas."[^27] At the *first* dwelling — the very moment of "opening" — the bodhisattva's knowledge-and-vision is *already the same as the buddhas'*. The subsequent stages of ten practices, ten dedications, and ten grounds are not "places not yet reached"; they are "the same single circuit unfolding at progressively finer layers." This is exactly the loop-not-ladder reading of §3.2.
 
 #### 3.5.3 Kuiji's *Fahua xuanzan*: reading the one vehicle through the three natures
 
@@ -384,7 +384,7 @@ Three layers of fundamental difference must, however, be flagged immediately.
 
 **❌ Correction 1: The one buddha-vehicle ≠ Lotus sectarian supremacy.**
 
-The Lotus's "there is no other vehicle, neither two nor three" has been read, throughout history, as "the *Lotus* is the king of all sūtras, and all other sūtras are merely the second and third vehicles serving as preparation." This is a structural misreading. The Lotus's "one" is "*one*" in the sense of *pedagogical function* — pointing to the one root purpose of all buddha-pedagogy (causing sentient beings to *open, reveal, awaken, enter* the buddha-knowledge-and-vision). It is *not* "*one*" in the sense of *ranking sūtras higher and lower*. As S7's planning document has already argued, the seven major sūtras (Prajñāpāramitā, *Avataṃsaka*, *Śūraṅgama*, *Lotus*, *Saṃdhinirmocana*, *Laṅkāvatāra*, *Mahāparinirvāṇa*) each carry distinct pedagogical functions; the *Lotus*'s "convergence" (攝) is not a hierarchical superiority but a functional gathering. To read "no other vehicle" as "Lotus is higher than the other sūtras" is precisely to commit the very error the Lotus is itself trying to correct — what Vasubandhu in his analysis of the seven topsy-turvy graspings names "the conceited overestimation of having actual merit."[^30]
+The Lotus's "there is no other vehicle, neither two nor three" has been read, throughout history, as "the *Lotus* is the king of all sūtras, and all other sūtras are merely the second and third vehicles serving as preparation." This is a structural misreading. The Lotus's "one" is "*one*" in the sense of *pedagogical function* — pointing to the one root purpose of all buddha-pedagogy (causing sentient beings to *open, reveal, awaken, enter* the buddha-knowledge-and-vision). It is *not* "*one*" in the sense of *ranking sūtras higher and lower*. As S7's planning document has already argued, the seven major sūtras (Prajñāpāramitā, *Avataṃsaka*, *Śūraṅgama*, *Lotus*, *Saṃdhinirmocana*, *Laṅkāvatāra*, *Mahāparinirvāṇa*) each carry distinct pedagogical functions; the *Lotus*'s "convergence" (攝) is not a hierarchical superiority but a functional gathering. To read "no other vehicle" as "Lotus is higher than the other sūtras" is precisely to commit the very error the Lotus is itself trying to correct — what Vasubandhu in his analysis of the seven topsy-turvy graspings names "the conceited overestimation of having actual merit."[^30] Mapping this misreading onto that grasping is the author's interpretation.
 
 **❌ Correction 2: *Open, reveal, awaken, enter* ≠ a linear ladder.**
 
@@ -400,7 +400,7 @@ S7-P01 had already argued: Vasubandhu in the *Saddharmapuṇḍarīka-upadeśa* 
 
 **❌ Correction 5: "Appearing in the world" ≠ a creationist or theistic incarnation.**
 
-The *Lotus*'s "the Buddhas, the World-Honored Ones, appear in the world only for the sake of one great matter and cause" can, in the hands of certain modern readers, generate a misreading: the "appearing in the world" gets read as "*the descent of a deity*," as if the Buddha were an envoy dispatched from some higher reality and summoned by an external "great matter." This is an interpretive framework imported from Christian or Hindu mythology and *does not belong to Buddhism*. *Saṃyukta-āgama* 299's "*dharmadhātu* ever-abiding" is precisely the doctrinal shield against this slide: dependent arising is *not made by me, nor by anyone else*; the tathāgata's appearance does *not create* any new *dharma*; he merely "*self-awakens to this Dharma, and for the sake of sentient beings discriminates and expounds, opens up and reveals it.*" The tathāgata's appearance is a *pedagogical event*, not an *ontological event*; it is the meeting-point of compassion and capacity at a particular historical moment, not the descent of a higher being. To read "one great matter and cause" as "sacred summons" is to misalign the entire doctrinal structure of the *Upāyakauśalya* chapter — and the correct reading is that "one great matter" *is* the inherent weight of the very fact of *sentient beings' awakening*; it is not external to the buddha, nor external to sentient beings.
+The *Lotus*'s "the Buddhas, the World-Honored Ones, appear in the world only for the sake of one great matter and cause" can, in the hands of certain modern readers, generate a misreading: the "appearing in the world" gets read as "*the descent of a deity*," as if the Buddha were an envoy dispatched from some higher reality and summoned by an external "great matter." This is an interpretive framework imported from Christian or Hindu mythology and *does not belong to Buddhism*. *Saṃyukta-āgama* 299's "*dharmadhātu* ever-abiding" is precisely the doctrinal shield against this slide: dependent arising is *not made by me, nor by anyone else*; the tathāgata's appearance does *not create* any new *dharma*; he merely "*self-awakens to this Dharma, attains complete and perfect awakening, and for the sake of sentient beings discriminates and expounds, opens up and reveals it.*" The tathāgata's appearance is a *pedagogical event*, not an *ontological event*; it is the meeting-point of compassion and capacity at a particular historical moment, not the descent of a higher being. To read "one great matter and cause" as "sacred summons" is to misalign the entire doctrinal structure of the *Upāyakauśalya* chapter — and the correct reading is that "one great matter" *is* the inherent weight of the very fact of *sentient beings' awakening*; it is not external to the buddha, nor external to sentient beings.
 
 ---
 
@@ -449,10 +449,10 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 | 5 | *Dīrgha-āgama* | T1 | 0001 | fasc. 2 (self-refuge), fasc. 4 (last words) |
 | 6 | *Saddharmapuṇḍarīka-upadeśa* (Bodhiruci) | T26 | 1519 | fasc. 2 |
 | 7 | *Saddharmapuṇḍarīka-upadeśa* (Ratnamati) | T26 | 1520 | fasc. 1 |
-| 8 | *Fahua xuanyi* | T33 | 1716 | fasc. 1 |
-| 9 | *Fahua wenju* | T34 | 1718 | fasc. 1, 2 |
+| 8 | *Fahua xuanyi* | T33 | 1716 | fasc. 5, 9 |
+| 9 | *Fahua wenju* | T34 | 1718 | fasc. 2, 4 |
 | 10 | *Fahua yishu* | T34 | 1721 | fasc. 3 |
-| 11 | *Fahua xuanzan* | T34 | 1723 | fasc. 1b, 3b, 4b |
+| 11 | *Fahua xuanzan* | T34 | 1723 | fasc. 3b, 4b |
 
 ---
 
@@ -491,11 +491,11 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 
 [^10]: 《妙法蓮華經憂波提舍》卷二: "『一大事』者,依四種義應當善知……一者無上義……二者同義……三者不知義……四者令證不退轉地。" Vasubandhu's *Saddharmapuṇḍarīka-upadeśa*, fasc. 2, *Taishō* vol. 26, no. 1519.
 
-[^11]: 《法華玄義》卷一(下): "此經始從〈序品〉訖〈安樂行品〉,破廢方便,開顯真實佛之知見。" Zhiyi, *Fahua xuanyi*, fasc. 1b, *Taishō* vol. 33, no. 1716.
+[^11]: 《法華玄義》卷九(下): "此經始從〈序品〉訖〈安樂行品〉,破廢方便,開顯真實佛之知見。" Zhiyi, *Fahua xuanyi*, fasc. 9b, *Taishō* vol. 33, no. 1716.
 
-[^12]: 《法華文句》卷二, on Zhiyi's fourfold gloss of *open, reveal, awaken, enter*: by stage, by wisdom, by gate, by contemplation. *Taishō* vol. 34, no. 1718.
+[^12]: 《法華文句》卷四, on Zhiyi's fourfold gloss of *open, reveal, awaken, enter*: by stage, by wisdom, by gate, by contemplation. *Taishō* vol. 34, no. 1718.
 
-[^13]: 《法華玄義》卷三: "南岳師解云:『開佛知見是十住位;示佛知見是十行位;悟佛知見是十迴向位;入佛知見是十地等覺位。』" Zhiyi cites his teacher Huisi (the "Master of Nanyue") in *Fahua xuanyi*, fasc. 3, *Taishō* vol. 33, no. 1716.
+[^13]: 《法華玄義》卷五: "南岳師解云:『開佛知見是十住位;示佛知見是十行位;悟佛知見是十迴向位;入佛知見是十地等覺位。』" Zhiyi cites his teacher Huisi (the "Master of Nanyue") in *Fahua xuanyi*, fasc. 5, *Taishō* vol. 33, no. 1716.
 
 [^14]: 《妙法蓮華經玄贊》卷四(下): "今此依他即菩提、圓成即涅槃合成一乘,圓成勝故獨名一乘。" Kuiji, *Fahua xuanzan*, fasc. 4b, *Taishō* vol. 34, no. 1723. The core text-anchored support for command-thesis I.
 
@@ -505,31 +505,31 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 
 [^17]: 《妙法蓮華經玄贊》卷三(下): "諸佛出世欲令眾生斷所知障及所發業并所得果……開知見相使得清淨。" Kuiji on the verb *open*. *Taishō* vol. 34, no. 1723.
 
-[^18]: 《妙法蓮華經憂波提舍》卷二: "示者明同義,謂諸聲聞、辟支佛、佛法身平等。法身平等者,佛性、法身無差別故。" Vasubandhu's gloss of *reveal*. *Taishō* vol. 26, no. 1519.
+[^18]: 《妙法蓮華經憂波提舍》卷二: "二者同義,謂諸聲聞、辟支佛、佛法身平等……法身平等者,佛性、法身無差別故。" Vasubandhu's gloss of *reveal*. *Taishō* vol. 26, no. 1519.
 
-[^19]: 《妙法蓮華經憂波提舍》卷二: "悟者明不知義,謂諸聲聞、辟支佛等不能知彼真實處故。此言不知真實處者,不知究竟唯一佛乘故。" Vasubandhu's gloss of *awaken to*. *Taishō* vol. 26, no. 1519.
+[^19]: 《妙法蓮華經憂波提舍》卷二: "三者不知義,謂諸聲聞、辟支佛等不能知彼真實處故。此言不知真實處者,不知究竟唯一佛乘故。" Vasubandhu's gloss of *awaken to*. *Taishō* vol. 26, no. 1519.
 
-[^20]: 《妙法蓮華經憂波提舍》卷二: "入者令證不退轉地,示現欲與無量智業故。" Vasubandhu's gloss of *enter*. *Taishō* vol. 26, no. 1519.
+[^20]: 《妙法蓮華經憂波提舍》卷二: "四者令證不退轉地,示現欲與無量智業故。" Vasubandhu's gloss of *enter*. *Taishō* vol. 26, no. 1519.
 
-[^21]: 《法華文句》卷一(下): "初阿字門,具四十一字功德,後茶亦具諸字功德,中間亦爾,字等、語等、功德亦等。" Zhiyi citing the *Mahāprajñāpāramitāśāstra*'s simile of the alphabetic letters. *Taishō* vol. 34, no. 1718.
+[^21]: 《法華文句》卷二(上): "初阿字門,具四十一字功德,後茶亦具諸字功德,中間亦爾,字等、語等、功德亦等。" Zhiyi citing the *Larger Prajñāpāramitā-sūtra*'s simile of the alphabetic letters. *Taishō* vol. 34, no. 1718.
 
-[^22]: 《法華文句》卷二: "見理由位,位立由智,智發由門,門通由觀。" Zhiyi's conclusion to the fourfold gloss. *Taishō* vol. 34, no. 1718.
+[^22]: 《法華文句》卷四: "見理由位,位立由智,智發由門,門通由觀。" Zhiyi's conclusion to the fourfold gloss. *Taishō* vol. 34, no. 1718.
 
 [^23]: 《妙法蓮華經憂波提舍》卷二, full passage of the four-meaning gloss. *Taishō* vol. 26, no. 1519. Primary citation for §3.5.1.
 
-[^24]: 《法華文句》卷二, full passage of Zhiyi's fourfold gloss (by stage, by wisdom, by gate, by contemplation). *Taishō* vol. 34, no. 1718. Primary citation for §3.5.2.
+[^24]: 《法華文句》卷四, full passage of Zhiyi's fourfold gloss (by stage, by wisdom, by gate, by contemplation). *Taishō* vol. 34, no. 1718. Primary citation for §3.5.2.
 
-[^25]: 《法華文句》卷二: "見理由位,位立由智,智發由門,門通由觀。" Same passage as [^22], cited again as the structural conclusion of §3.5.2.
+[^25]: 《法華文句》卷四: "見理由位,位立由智,智發由門,門通由觀。" Same passage as [^22], cited again as the structural conclusion of §3.5.2.
 
-[^26]: 《法華玄義》卷三, the four-position gloss attributed to Huisi: "開佛知見是十住位……入佛知見是十地等覺位。" *Taishō* vol. 33, no. 1716.
+[^26]: 《法華玄義》卷五, the four-position gloss attributed to Huisi: "開佛知見是十住位……入佛知見是十地等覺位。" *Taishō* vol. 33, no. 1716.
 
-[^27]: 《法華文句》卷一(下): "初住能分身百世界作佛……初住開佛知見,知見已法與諸佛同,故為佛之所稱歎。" Zhiyi on the equality of the first dwelling with the buddhas in respect to "opening." *Taishō* vol. 34, no. 1718.
+[^27]: 《法華文句》卷二(上): "初住能分身百世界作佛……初住開佛知見,知見已法與諸佛同,故為佛之所稱歎。" Zhiyi on the equality of the first dwelling with the buddhas in respect to "opening." *Taishō* vol. 34, no. 1718.
 
 [^28]: 《妙法蓮華經玄贊》卷四(下), full passage of Kuiji's three-natures reading: "真如妙理體性常住……由斷有漏依他起性,遣遍計所執,證此二果。" *Taishō* vol. 34, no. 1723. Primary citation for §3.5.3.
 
 [^29]: 《妙法蓮華經》卷一,方便品第二偈頌: "諸佛兩足尊,知法常無性,佛種從緣起,是故說一乘。" *Saddharmapuṇḍarīka-sūtra* fasc. 1, *Upāyakauśalya* chapter (verse section), *Taishō* vol. 9, no. 0262.
 
-[^30]: 《妙法蓮華經憂波提舍》卷二, on the seven topsy-turvy graspings (七種倒取): the conceited overestimation of having actual merit (*shí yǒu gōngdé zēngshàng màn xīn* 實有功德增上慢心) is one of the seven, "聞大乘法取非大乘,如是倒取" — hearing the Mahāyāna teaching and grasping it as non-Mahāyāna. *Taishō* vol. 26, no. 1519. Vasubandhu lists clinging to "the actual merit" of the Mahāyāna as one of the seven topsy-turvy graspings the Lotus parables are designed to dissolve.
+[^30]: 《妙法蓮華經憂波提舍》卷二, on the seven topsy-turvy graspings (七種倒取): the conceited overestimation of having actual merit (*shí yǒu gōngdé zēngshàng màn xīn* 實有功德增上慢心) is one of the seven, "聞大乘法取非大乘,如是倒取" — hearing the Mahāyāna teaching and grasping it as non-Mahāyāna. *Taishō* vol. 26, no. 1519. Vasubandhu lists this conceit, which hears the Mahāyāna teaching and grasps it as non-Mahāyāna, as the sixth of the seven topsy-turvy graspings the Lotus parables are designed to dissolve.
 
 ---
 

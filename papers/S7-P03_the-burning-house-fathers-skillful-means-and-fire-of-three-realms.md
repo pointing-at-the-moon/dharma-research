@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P03"
 paper_number: 3
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Burning House: The Father's Skillful Means and the Fire of the Three Realms
@@ -44,7 +44,7 @@ Three structural features deserve marking. **First**, the Buddha's "all is burni
 
 The historical depth of this conversion is preserved in a verse from the *Aitareya Saṃyukta* (*Bieyi-zayan-han*, T0100), where Kāśyapa himself confesses: "I was once exceedingly foolish, not recognizing the truth; I performed fire-sacrifices and ascetic torments, and called these the cause of liberation. Like a man born blind who cannot see the path of liberation."[^5] His former practice — fire-worship — is described as the blindness that mistakes the cause for the cure. True liberation, the verse implies, lies precisely in seeing that *one is oneself the fire*.
 
-The "all is burning" metaphor is not isolated within the early canon. The series of sūtras 175–185 of the seventh fascicle of the *Saṃyukta-āgama* — the so-called "Hair-on-Fire" group — uses the figure "as a man whose hair and clothes have caught fire, what should he do?" as the opening trope, and applies it sequentially to the four foundations of mindfulness, the four right efforts, the five faculties, the five powers, the seven factors of awakening, the noble eightfold path, and the four noble truths. Each is presented as urgent precisely because of "the fire of impermanence."[^6] Sūtra 286 of fascicle twelve develops the image of "the fire of accumulating fuel," directly linking the twelve-link chain of dependent arising — "craving conditions clinging, clinging conditions becoming" — to "fire continuing to blaze through the long night."[^7] Fascicle thirty-one lists among the synonyms of nirvāṇa "free of blazing flame, free of burning."[^8] This last is structurally important: the literal meaning of *nirvāṇa* is *the extinguishing of fire*. Fire is not a literary flourish in the early canon; it is the core metaphor for the nature of saṃsāric existence itself.
+The "all is burning" metaphor is not isolated within the early canon. The series of sūtras 175–185 of the seventh fascicle of the *Saṃyukta-āgama* — the so-called "Hair-on-Fire" group — uses the figure "as a man whose hair and clothes have caught fire, what should he do?" as the opening trope, and applies it sequentially to the four foundations of mindfulness, the four right efforts, the five faculties, the five powers, the seven factors of awakening, the noble eightfold path, and the four noble truths. Each is presented as urgent precisely because of "the fire of impermanence."[^6] Sūtra 286 of fascicle twelve develops the image of a great fire heaped with ever more dry grass and firewood, directly linking the twelve-link chain of dependent arising — "craving conditions clinging, clinging conditions becoming" — to "fire continuing to blaze through the long night."[^7] Fascicle thirty-one lists among the synonyms of nirvāṇa "free of blazing flame, free of burning."[^8] This last is structurally important: the literal meaning of *nirvāṇa* is *the extinguishing of fire*. Fire is not a literary flourish in the early canon; it is the core metaphor for the nature of saṃsāric existence itself.
 
 From this vantage, the Lotus Sūtra's "burning house" is not a Mahāyāna invention. It is the dramatic completion of an ancient line: from individual meditative observation of the burning at the six sense-doors, the same insight is enlarged into a cosmic-scale narrative of a great house, a group of children, a father, a rescue.
 
@@ -64,7 +64,7 @@ The Burning House parable proper occurs in Chapter Three of Kumārajīva's trans
 
 The Buddha then applies the parable: "So too, Śāriputra, the Tathāgata is the father of all the world. ... He produces beings within the burning house of the three realms in order to save them from the fires of birth, aging, sickness, death, sorrow, suffering, ignorance, and the three poisons." The cosmic image of the *three-realm burning house* is here formally established. The verse section that follows gives one of the most famous lines in all of Mahāyāna literature: "*The three realms know no peace; they are like a burning house. They are filled with every suffering, supremely fearful. There are always birth, aging, sickness, death, and grief — fires like these, ceaselessly blazing.*"[^10]
 
-Dharmarakṣa's earlier translation, the *Zhengfahua jing* (T0263, 286 CE), provides an interesting variant.[^11] In Dharmarakṣa's version, the three carts are not goat / deer / ox but **goat / horse / elephant** (with a fourth "music-cart" added as a lure). The final great cart is drawn by "a pure white great elephant" rather than a white ox. The bodhisattva-vehicle in Dharmarakṣa is symbolized by the elephant; in Kumārajīva, by the ox. The doctrinal significance is unaffected: the difference belongs to the level of cultural-translational choice. What matters is the structural sequence of *three vehicles → one vehicle*, not the species of animal.
+Dharmarakṣa's earlier translation, the *Zhengfahua jing* (T0263, 286 CE), provides an interesting variant.[^11] In Dharmarakṣa's version, the three carts are not goat / deer / ox but **goat / horse / elephant** (with a fourth "music-cart" added as a lure). The final great cart is drawn by an elephant "of great strength, pure white like a flower" rather than a white ox. The bodhisattva-vehicle in Dharmarakṣa is symbolized by the elephant; in Kumārajīva, by the ox. The doctrinal significance is unaffected: the difference belongs to the level of cultural-translational choice. What matters is the structural sequence of *three vehicles → one vehicle*, not the species of animal.
 
 #### 2.1.3 Vasubandhu's Treatise
 
@@ -84,7 +84,7 @@ The Chinese commentarial tradition on the Lotus Sūtra is exceptionally rich, an
 
 **Jizang** (吉藏, 549–623), the systematizer of the Sanlun (Mādhyamika) school, wrote the *Fahua yishu* (T1721). His reading is governed by a "four-tier provisional / true" structure typical of his school's *fourfold-twofold-truth* method, and he gives a famously sharp judgment on the three carts: they are **a verbal skillful means — the father announces three carts when there are none — outside the door there is, and was, no cart at all**.[^16]
 
-**Kuiji** (窺基, 632–682), the disciple of Xuanzang and the systematizer of the Faxiang (East-Asian Yogācāra) school, wrote the *Fahua xuanzan* (T1723). His reading is governed by the three-natures (*trisvabhāva*) system and the three-period doctrinal classification (*tri-paryāya*). On the question of the three carts, Kuiji's verdict converges remarkably with Jizang's: the three carts are *empty designations* — they have a name, but cannot be seen and cannot be ridden.[^17]
+**Kuiji** (窺基, 632–682), the disciple of Xuanzang and the systematizer of the Faxiang (East-Asian Yogācāra) school, wrote the *Fahua xuanzan* (T1723). His reading is governed by the three-natures (*trisvabhāva*) system and the three-period doctrinal classification (*tri-paryāya*). On the question of the three carts, Kuiji's verdict converges remarkably with Jizang's: the goat- and deer-carts are *empty designations* — they have a name, but cannot be seen and cannot be ridden.[^17]
 
 The convergence between Jizang and Kuiji on this single point — across the otherwise sharp divide between Mādhyamika and Yogācāra — is the topic of section 3.5.
 
@@ -96,7 +96,7 @@ The Burning House parable resolves into a three-part narrative arc: *crisis — 
 
 **The crisis section**: the great house, the children, the fire, the father's discovery. The central tension here is not the fire itself (the fire is a brute fact); it is the gap between the fact of the fire and the children's awareness of it. *They are in the fire and do not know they are in the fire.* Zhiyi's gloss on the four-character phrase 樂著嬉戲 ("absorbed in playful enjoyment") is exceptionally precise: "Attached to wrong views is *xi* (delight); attached to craving is *xi* (play). Or: indulgence in the four wrong views is *xi*; the futile loss of one's effort is *xi*. Indulgence in the five sense-objects is *xi*; gaining nothing thereby is *xi*. They live emptily and die uselessly with no thought of departure, like little children at play." Zhiyi then maps the same passage onto the five turbidities: "The play (*xi*) corresponds to the turbidity of views; the games (*xi*) correspond to the turbidity of defilements; the not-knowing-and-not-fearing corresponds to the turbidity of beings; the fire pressing upon the body corresponds to the turbidity of life-span; the absence of disgust and the absence of any wish for escape correspond to the turbidity of the kalpa."[^18] The "playing children" passage, in other words, is not a moral indictment. It is a clinical diagnosis. The text is describing an epistemological blindspot with surgical precision.
 
-**The skillful-means section**: the father's two failed attempts (direct extraction and direct verbal warning), followed by the third strategy (the announcement of the three carts), followed by the children's spontaneous flight. The crucial fact about this section is the presence of the two failures. They are not narrative filler; they are the textual foundation for everything that follows. Had the father succeeded by simply carrying the children out, no skillful means would have been needed. Had he succeeded by simply naming the danger, the three carts would have been redundant. By placing both failures explicitly in the narrative, the sūtra is preemptively grounding *upāya* in necessity rather than choice. The father did not choose deception over clarity; clarity was attempted and failed. Skillful means is what remains when direct speech has been demonstrated to be incommunicable.
+**The skillful-means section**: the father's two failed attempts (direct extraction — in the sūtra only considered and at once dropped, the door being single and narrow; and direct verbal warning, which the children would not believe), followed by the third strategy (the announcement of the three carts), followed by the children's spontaneous flight. The crucial fact about this section is the presence of the two failures. They are not narrative filler; they are the textual foundation for everything that follows. Had the father succeeded by simply carrying the children out, no skillful means would have been needed. Had he succeeded by simply naming the danger, the three carts would have been redundant. By placing both failures explicitly in the narrative, the sūtra is preemptively grounding *upāya* in necessity rather than choice. The father did not choose deception over clarity; clarity was attempted and failed. Skillful means is what remains when direct speech has been demonstrated to be incommunicable. Counting the first plan, dropped while still a thought, as a failure is the author's interpretation.
 
 **The revelation section**: the children outside the house, their request for the three carts, the father's gift of the single great cart, Śāriputra's confirmation. Narratively this looks like an upgrade — the children get something better than what they asked for. Doctrinally it is not an upgrade but a *revelation*: what the children were really pursuing all along (the truly desirable thing) was the great cart itself, which they did not yet have the conceptual equipment to recognize under that name. Section 3.5 below treats this distinction in detail.
 
@@ -174,9 +174,9 @@ Section 3.4 used Jizang's "no three carts outside the door" judgment as the firs
 
 **Kuiji's verdict.** In the *Fahua xuanzan* fascicle five, Kuiji gives an extremely fine analysis of the "cart-body" of the three carts:
 
-> Here we definitively take *the differentiating omniscient cognition* as the body of the cart; hence the sūtra repeatedly says "ultimately leading them to attain the all-knowing wisdom." This is what makes [the great vehicle] a cart, and what makes it great. ... For the third sense — that the dwelling place is between turbulence and quiet — *the goat- and deer-carts are merely names that have been set up; they cannot be seen, and one cannot board them*. They take as their body the small and middling omniscient cognitions of the two vehicles; if their body were nirvāṇa they would be the magic city instead. ... Therefore one knows that *the contaminated post-attainment cognition and worldly samādhi obtained by the two vehicles are merely called "omniscient cognition" by way of empty designation — they serve as the bodies of the two carts. They are named but not seen, and not boarded — for they cannot truly differentiate and witness the dharmas*.[^28]
+> For the third sense — that the dwelling place is between turbulence and quiet — *the goat- and deer-carts are merely names that have been set up; they cannot be seen, and one cannot board them*. They take as their body the small and middling omniscient cognitions of the two vehicles; if their body were nirvāṇa they would be the magic city instead. ... Therefore one knows that *the contaminated post-attainment cognition and worldly samādhi obtained by the two vehicles are merely called "omniscient cognition" by way of empty designation — they serve as the bodies of the two carts. They are named but not seen, and not boarded — for they cannot truly differentiate and witness the dharmas*. ... Here we definitively take *the differentiating omniscient cognition* as the body of the cart; hence the sūtra repeatedly says "ultimately leading them to attain the all-knowing wisdom." This is what makes [the great vehicle] a cart, and what makes it great.[^28]
 
-Kuiji's verdict, in Yogācāra technical terms: the three carts are *empty designations*. They have a name (*śabda-prajñapti*), but no actual carriage-body that one can sit in and ride. The genuine cart-body — the actually-functional vehicle that can carry beings to liberation — exists only at one level: the all-knowing wisdom (*sarvajña-jñāna*) of the Buddha-vehicle, represented by the great white-ox cart.
+Kuiji's verdict, in Yogācāra technical terms: the goat- and deer-carts are *empty designations*. They have a name (*śabda-prajñapti*), but no actual carriage-body that one can sit in and ride. The genuine cart-body — the actually-functional vehicle that can carry beings to liberation — exists only at one level: the all-knowing wisdom (*sarvajña-jñāna*) of the Buddha-vehicle, represented by the great white-ox cart. Kuiji's own wording confines this verdict to the goat- and deer-carts, and fascicle 6 adds that "the ox-cart is made the body, the goat- and deer-carts are made names" (p. 762b); extending the verdict to all three carts and setting it beside Jizang's is the author's interpretation.
 
 **Jizang's verdict** (already cited above): "outside the door, if there really had been three carts, the children upon emerging would have seen them and would not have asked for them. The fact that they ask proves that there were no three carts outside the door."
 
@@ -192,7 +192,7 @@ When these two verdicts are placed side by side, the structural agreement is str
 
 The technical vocabularies differ — Kuiji uses *omniscient cognition*, *paratantra*, *pariniṣpanna*; Jizang uses *Middle Way*, *provisional*, *true* — but the conclusions are identical: *the three carts are pure linguistic devices, and there were never any three carts outside the door*. The historical reason for this convergence is probably that, whether one approaches the question via the Madhyamaka principle "all dharmas are empty, therefore *upāya* speaks of the existent" or via the Yogācāra principle "contaminated post-attainment cognition is an empty designation while uncontaminated all-knowing cognition is the only real vehicle," the conclusion can only go one way. The convergence reflects a deeper fact: *as soon as the concept of skillful means is taken seriously, only one conclusion is structurally available*.
 
-A structural corollary follows from this verdict: **the proper location of the three-natures mapping in the Lotus Sūtra is not inside the parable, but at the level of the entire teaching system that the parable enacts.** Kuiji's analysis of the three natures in the *Fahua xuanzan* fascicle four maps them onto the *three-period doctrinal classification* — not onto the three carts. He writes: "the *Āgama* phase is the pure-existence teaching that corrects the misreading of *paratantra* as real; the *Prajñāpāramitā* phase is the pure-emptiness teaching that removes the *parikalpita*; the Lotus phase is the *three-natures-fully-taught* teaching, and is therefore called the truth."[^29] The mapping is between *historical teaching phases* and *the three natures as a corrective program*, not between the goat / deer / ox carts as separate objects and the three natures as separate substances. (Section 3.5 of S7-P02 has already given the full analysis of this passage.)
+A structural corollary follows from this verdict: **the proper location of the three-natures mapping in the Lotus Sūtra is not inside the parable, but at the level of the entire teaching system that the parable enacts.** Kuiji's analysis of the three natures in the *Fahua xuanzan* fascicle four maps them onto the *three-period doctrinal classification* — not onto the three carts. He writes: "Because [the Buddha] understood the dependent and the imagined natures, he first taught the *Āgamas* and then the *Prajñāpāramitā*; these teachings of pure existence and pure emptiness are called expedient. Now all three are taught together, and therefore it is called true."[^29] Reading the *Āgama* phase as correcting the misreading of *paratantra* as real, and the *Prajñāpāramitā* phase as removing the *parikalpita*, is the author's interpretation. The mapping is between *historical teaching phases* and *the three natures as a corrective program*, not between the goat / deer / ox carts as separate objects and the three natures as separate substances. (Section 3.5 of S7-P02 has already given the full analysis of this passage.)
 
 This means that the Lotus's *upāya–reality* correspondence and the Yogācāra *trisvabhāva* mapping are both performed at the meta-level: the entire Lotus Sūtra is itself the "three-natures-fully-taught" teaching, and the Burning House parable is that teaching's narrative enactment. Inside the parable, the carts are not allegories of separate natures; they are the dramatic figure for "the way the previous teaching system spoke," contrasted with the great cart, which is the dramatic figure for "the way the Lotus teaching itself speaks." This avoids the common interpretive error that maps goat = *parikalpita*, deer = *paratantra*, ox = *pariniṣpanna*. Such a mapping has no support in any of the major commentaries, and on closer inspection it produces nonsense — what would the great cart then represent? *Pariniṣpanna of pariniṣpanna*?
 
@@ -231,7 +231,7 @@ Contemporary disaster psychology has a core concept called *normalcy bias*. It d
 
 The mechanism of normalcy bias is roughly this: human cognition relies heavily on the *continuity of past experience* to assess the nature of present circumstances. When an event exceeds the range of past experience, the default response of the cognitive system is not "initiate emergency protocol" but "force the event back into a familiar category" — *this must be just a drill; the fire won't reach this floor; it has never happened before, so probably nothing this time either*. This mechanism is evolutionarily functional (it prevents the organism from over-reacting to every minor variation in its environment), but in genuinely critical situations, it kills.
 
-Place this mechanism beside the parable's "children playing, unaware, unalarmed, unafraid," and the precision of the four-character description is remarkable — almost a mirror of contemporary cognitive science. *Why did the father's direct warning fail?* Because for children who have never experienced fire, the words *fire*, *burning*, and *house in danger* are merely abstract vocabulary — they cannot connect them to any present sensory experience. The sūtra is explicit: "they did not even know what 'fire' was, what 'house' meant, what 'destruction' could refer to." This is not low intelligence. It is a *fundamental rupture between concept and experience*. Where this rupture exists, any direct warning is automatically normalized: *this can't be real*, *father is just trying to scare us*, *let us continue playing*.
+Place this mechanism beside the parable's "children ... within the burning house, absorbed in their play, unaware, unalarmed, unfrightened," and the precision of this description is remarkable — almost a mirror of contemporary cognitive science. *Why did the father's direct warning fail?* Because for children who have never experienced fire, the words *fire*, *burning*, and *house in danger* are merely abstract vocabulary — they cannot connect them to any present sensory experience. The sūtra is explicit: "they did not even know what 'fire' was, what 'house' meant, what 'destruction' could refer to." This is not low intelligence. It is a *fundamental rupture between concept and experience*. Where this rupture exists, any direct warning is automatically normalized: *this can't be real*, *father is just trying to scare us*, *let us continue playing*.
 
 It is precisely because of this cognitive rupture that "establishing skillful means" becomes the only available option. The father cannot use the word "fire" because the word has no purchase on the children's cognitive system. He must use something the children can immediately connect to — *toys*. The sentence "outside there is something better to play with" bypasses conceptual identification entirely and addresses the children's already-functional motivational system. This is not "lowered truth"; this is *the only possible channel for truth-transmission given the cognitive rupture*.
 
@@ -309,7 +309,7 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 ### Cross-Series Index
 
 - **S2-P02** (Avalokiteśvara's Awakening Loop): The four-phase loop structure mapped onto the cosmic-scale loop of the Burning House in §3.5.
-- **S2-P04** (Illuminating the Emptiness of the Five Aggregates): Individual-scale correlate of the "playing children, unaware and unafraid" diagnosis.
+- **S2-P04** (Illuminating the Emptiness of the Five Aggregates): Individual-scale correlate of the "absorbed in their play, unaware" diagnosis.
 - **S4-P07** (The Living Eye): Structural homology between the father's *upāya* and the *kalyāṇa-mitra*'s recognition of capacity.
 - **S5-P01** (Diamond Prajñā and the *jifei* Tripartite Formula): Negative formulation of the same "skillful means is not deception" point.
 - **S6-P13** (Five Delusive Thinkings and the Path of Cessation): The "not-knowing-not-fearing" paralleled in the fifty skandha-māras' "lacking self-awareness."
@@ -320,7 +320,7 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 
 ## Footnotes
 
-[^1]: *Saddharmapuṇḍarīka-sūtra*, fascicle 2, Chapter Three "Parable," T. 9, no. 0262, p. 12c.
+[^1]: *Saddharmapuṇḍarīka-sūtra*, fascicle 2, Chapter Three "Parable," T. 9, no. 0262, p. 13a.
 
 [^2]: Pali parallel: *Saṃyutta Nikāya* 35.28 *Ādittapariyāya-sutta*. The Western title "Fire Sermon" became famous in the twentieth century in part through T. S. Eliot's invocation of it in *The Waste Land*; in academic Buddhist studies it is one of the most commonly discussed texts of the early canon.
 
@@ -332,7 +332,7 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 
 [^6]: *Saṃyukta-āgama*, fascicle 7, sūtras 175–185, T. 2, no. 0099, pp. 46–47. The "hair-on-fire" series links the urgency of practice — across the four foundations of mindfulness, the four right efforts, the five faculties, the five powers, the seven factors of awakening, the noble eightfold path, and the four noble truths — to "the fire of impermanence."
 
-[^7]: *Saṃyukta-āgama*, fascicle 12, sūtra 286, T. 2, no. 0099, p. 80a.
+[^7]: *Saṃyukta-āgama*, fascicle 12, sūtra 286, T. 2, no. 0099, p. 80b.
 
 [^8]: *Saṃyukta-āgama*, fascicle 31, T. 2, no. 0099. Among the synonyms for nirvāṇa: "free of blazing flame, free of burning."
 
@@ -340,45 +340,45 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 
 [^10]: Ibid., p. 14c. The verse "the three realms know no peace, like a burning house" is among the most frequently cited passages of the entire sūtra.
 
-[^11]: *Zhengfahua jing*, fascicle 2, T. 9, no. 0263, pp. 78–80. Dharmarakṣa's translation (286 CE) gives the three carts as goat / horse / elephant, with an added "music-cart" as a lure; the final great cart is drawn by "a pure white great elephant." Kumārajīva's translation (406 CE) gives goat / deer / ox, with the final cart drawn by "a great white ox." The difference is a matter of cultural-translational choice and does not affect the doctrinal structure.
+[^11]: *Zhengfahua jing*, fascicle 2, T. 9, no. 0263, pp. 75b–77c. Dharmarakṣa's translation (286 CE) gives the three carts as goat / horse / elephant, with an added "music-cart" as a lure; the final great cart is drawn by an elephant "pure white like a flower." Kumārajīva's translation (406 CE) gives goat / deer / ox, with the final cart drawn by "a great white ox." The difference is a matter of cultural-translational choice and does not affect the doctrinal structure.
 
 [^12]: T1519 was translated by Bodhiruci, T1520 by Ratnamati. The two translations are largely parallel; this paper cites primarily T1519.
 
-[^13]: *Saddharmapuṇḍarīka-upadeśa*, fascicle 2, T. 26, no. 1519, p. 8a.
+[^13]: *Saddharmapuṇḍarīka-upadeśa*, fascicle 2, T. 26, no. 1519, p. 8b.
 
 [^14]: Ibid., p. 8b.
 
 [^15]: See S7-P02 §3.6 for the complete treatment of Vasubandhu's seven inverted graspings.
 
-[^16]: *Fahua yishu*, fascicle 3, T. 34, no. 1721, p. 478a.
+[^16]: *Fahua yishu*, fascicle 3, T. 34, no. 1721, p. 482c.
 
-[^17]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 729a.
+[^17]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 749a.
 
-[^18]: *Fahua wenju*, fascicle 5, T. 34, no. 1718, p. 65b.
+[^18]: *Fahua wenju*, fascicle 5, T. 34, no. 1718, pp. 67c–68a.
 
-[^19]: Ibid., p. 64c.
+[^19]: Ibid., p. 66a.
 
 [^20]: *Saddharmapuṇḍarīka-sūtra*, fascicle 2, T. 9, no. 0262, p. 13a.
 
-[^21]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 736a.
+[^21]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 754b.
 
-[^22]: *Fahua yishu*, fascicle 6, T. 34, no. 1721, p. 530b.
+[^22]: *Fahua yishu*, fascicle 6, T. 34, no. 1721, p. 527a.
 
-[^23]: *Fahua yishu*, fascicle 3, T. 34, no. 1721, p. 477c. *Kou-fangbian* (vocal *upāya*) is the second of Jizang's three categories of skillful means: bodily, vocal, and mental.
+[^23]: *Fahua yishu*, fascicle 3, T. 34, no. 1721, p. 482c. *Kou-fangbian* (vocal *upāya*) is the second of Jizang's three categories of skillful means: bodily, vocal, and mental.
 
-[^24]: *Fahua wenju*, fascicle 5, T. 34, no. 1718, p. 73a.
+[^24]: *Fahua wenju*, fascicle 5, T. 34, no. 1718, p. 74b.
 
-[^25]: Ibid., p. 67b.
+[^25]: Ibid., p. 63a.
 
-[^26]: *Cheng weishi lun*, fascicle 8, T. 31, no. 1585, p. 46c. Post-attainment cognition (*pṛṣṭha-labdha-jñāna*, literally "the cognition obtained after [realization]") is the Yogācāra technical term for the wisdom that operates in the phenomenal realm after the direct realization of suchness.
+[^26]: *Cheng weishi lun*, fascicle 8, T. 31, no. 1585, pp. 46b–c. Post-attainment cognition (*pṛṣṭha-labdha-jñāna*, literally "the cognition obtained after [realization]") is the Yogācāra technical term for the wisdom that operates in the phenomenal realm after the direct realization of suchness.
 
-[^27]: *Cheng weishi lun*, fascicle 9, T. 31, no. 1585, p. 51b.
+[^27]: *Cheng weishi lun*, fascicle 9, T. 31, no. 1585, p. 52a.
 
-[^28]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 729a.
+[^28]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, pp. 748c–749a.
 
-[^29]: *Fahua xuanzan*, fascicle 4, T. 34, no. 1723, pp. 723a–b.
+[^29]: *Fahua xuanzan*, fascicle 4, T. 34, no. 1723, p. 728a.
 
-[^30]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 718c.
+[^30]: *Fahua xuanzan*, fascicle 5, T. 34, no. 1723, p. 735a.
 
 [^31]: For the contemporary research on normalcy bias and 9/11 evacuation behavior, see Amanda Ripley, *The Unthinkable: Who Survives When Disaster Strikes — and Why* (New York: Crown Publishers, 2008), chapters 1–3. Ripley interviewed numerous survivors and documented the average "milling time" before evacuation began.
 

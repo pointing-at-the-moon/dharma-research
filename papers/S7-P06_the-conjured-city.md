@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Conjured City
@@ -74,13 +74,13 @@ The chapter opens with a cosmic time narrative: "In the distant past, beyond inc
 
 This Buddha had sixteen princely sons before his renunciation; the sixteenth, the present speaker says, "is I, Śākyamuni, who attained *anuttarā-samyak-sambodhi* in this Sahā world." Śākyamuni here names himself as having been a prince under that ancient Buddha, having once taught Mahāyāna in that assembly, having already formed karmic bonds with the countless beings now gathered before him in the Lotus assembly.
 
-From the standpoint of Tiantai doctrinal classification, this passage belongs to the *trace gate* (*jìmén*, 迹門) category of "forming ancient bonds" (*jiéyuán jiǔyuǎn*), foreshadowing the greater "ancient realization" (*jiǔyuǎn shíchéng*) time structure of the *origin gate* (*běnmén*, 本門) in Chapter 16 (the "Lifespan" chapter). Following the series-plan notes principle, this paper treats the Mahābhijñā narrative only as **structural scaffolding** and reserves the formal analysis for S7-P11. Three points deserve marking here: (i) this is the first time in the Lotus that the category "ancient time" (*jiǔyuǎn*) is positively unfolded; (ii) the sixteen-prince genealogy establishes an ancient-bond lineage background, so that the conjured city parable is not a free-standing figure but the dramatic climax of that lineage; (iii) the "three-thousand motes" of the trace gate and the "five-hundred-thousand *koṭi-nayuta* motes" of the Lifespan chapter form a *double mote structure*, to be developed in P11 through the trace/origin distinction.
+From the standpoint of Tiantai doctrinal classification, this passage belongs to the *trace gate* (*jìmén*, 迹門) category of "forming ancient bonds" (*jiéyuán jiǔyuǎn*), foreshadowing the greater "ancient realization" (*jiǔyuǎn shíchéng*) time structure of the *origin gate* (*běnmén*, 本門) in Chapter 16 (the "Lifespan" chapter). Following the series-plan notes principle, this paper treats the Mahābhijñā narrative only as **structural scaffolding** and reserves the formal analysis for S7-P11. Three points deserve marking here: (i) this is the first time in the Lotus that the category "ancient time" (*jiǔyuǎn*) is positively unfolded through a mote-measure of kalpas; (ii) the sixteen-prince genealogy establishes an ancient-bond lineage background, so that the conjured city parable is not a free-standing figure but the dramatic climax of that lineage; (iii) the "three-thousand motes" of the trace gate and the "five-hundred-thousand *koṭi-nayuta* motes" of the Lifespan chapter form a *double mote structure*, to be developed in P11 through the trace/origin distinction.
 
 ##### A2.2 The Conjured City Parable (Main Analytical Focus)
 
 The parable proper reads:
 
-> "Bhikṣus! Suppose there is a dangerous, deserted road of five hundred *yojanas*, empty, without people, a place of terror. A great company wishes to cross this road to reach a place of treasure. There is a guide, intelligent, discerning, who knows well the passable and impassable signs of the dangerous road, and who will lead these people across. The people he leads, however, grow weary at mid-journey and say to the guide: 'We are exhausted, and we are afraid; we cannot go further. The road ahead is still long. We wish to turn back.' The guide, skilled in many expedients, reflects: 'How pitiable they are! How can they abandon the great treasure and wish to turn back?' Having thought thus, by the power of expedient means, at the three-hundred-*yojana* mark on the dangerous road, he conjures a great city and tells the company: 'Do not be afraid; do not turn back. Here now is a great city where you may rest and do as you please. If you enter this city, you will swiftly find ease. If you are able to go forward to the place of treasure, you may also depart.' At that moment the exhausted company rejoices greatly, marveling: 'We are now delivered from this evil road; we have swiftly found ease.' They then enter the conjured city, giving rise to the perception *we have crossed over* and the perception *we are safe*. At that time the guide, knowing the company has rested and is no longer weary, dissolves the conjured city and tells them: 'Come, let us go. The place of treasure is near. The great city you saw, I conjured it, only for your rest.'"[^10]
+> "Suppose there is a dangerous, deserted road of five hundred *yojanas*, empty, without people, a place of terror. A great company wishes to cross this road to reach a place of treasure. There is a guide, intelligent, discerning, who knows well the passable and impassable signs of the dangerous road, and who will lead these people across. The people he leads, however, grow weary at mid-journey and say to the guide: 'We are exhausted, and we are afraid; we cannot go further. The road ahead is still long. We wish to turn back.' The guide, skilled in many expedients, reflects: 'How pitiable they are! How can they abandon the great treasure and wish to turn back?' Having thought thus, by the power of expedient means, at the three-hundred-*yojana* mark on the dangerous road, he conjures a great city and tells the company: 'Do not be afraid; do not turn back. Here now is a great city where you may rest and do as you please. If you enter this city, you will swiftly find ease. If you are able to go forward to the place of treasure, you may also depart.' At that moment the exhausted company rejoices greatly, marveling: 'We are now delivered from this evil road; we have swiftly found ease.' They then enter the conjured city, giving rise to the perception *we have crossed over* and the perception *we are safe*. At that time the guide, knowing the company has rested and is no longer weary, dissolves the conjured city and tells them: 'Come, let us go. The place of treasure is near. The great city you saw, I conjured it, only for your rest.'"[^10]
 
 The verse-prose explanation then maps each element of the parable onto the Lotus's central thesis:
 
@@ -118,13 +118,13 @@ In his *Fahua wenju* (*Commentary on the Text of the Lotus*), fascicles 7–8, Z
 
 | *Yojana* segment | Spatial (fruit) | Afflictive (cause) | Contemplative gate |
 |---|---|---|---|
-| 300 | Three-realm retributive place | View-delusions + five lower fetters | Emptiness contemplation |
+| 300 | Three-realm retributive place | View-delusions + five lower fetters + five higher fetters | Emptiness contemplation |
 | 400 | Land-with-remainder | Dust-sands delusions | Provisional contemplation |
 | 500 | Land of real reward | Ignorance delusions | Middle contemplation |[^15]
 
 This reads the journey simultaneously as three layers of space (the three realms, the land-with-remainder, the land of real reward), three layers of affliction (view, dust-sands, ignorance), and three contemplative gates (emptiness, provisional, middle). The conjured city is set at the three-hundred-*yojana* mark — the entrance to the land-with-remainder — corresponding to "the two-vehicle fruit of cutting off view-and-thought delusions."
 
-On the term "conjured city" itself, Zhiyi offers a philological gloss: "'Conjured' (*huà*) means 'made by supernatural power'; because it is made by supernatural power, it is 'nonexistent yet suddenly there' — hence 'conjured.' 'City' (*chéng*) is that which wards off danger and repels enemies. Internally it corresponds to the two-vehicle *nirvāṇa*, made by provisional wisdom. **Because it is a provisional expedient establishment, it is called 'conjured city.'**"[^16] In Zhiyi's system, the conjured city refers primarily to the *nirvāṇas* of the *śrāvaka* and *pratyekabuddha* vehicles (with and without remainder), and its nature is "provisional expedient establishment."
+On the term "conjured city" itself, Zhiyi offers a philological gloss: "'Conjured' (*huà*) means 'made by supernatural power'; because it is made by supernatural power, it is 'nonexistent yet suddenly there' — hence 'conjured.' 'City' (*chéng*) is that which wards off danger and repels enemies. Internally it corresponds to the two-vehicle *nirvāṇa*, made by provisional wisdom. … **Because it is a provisional expedient establishment, it is called 'conjured city.'**"[^16] In Zhiyi's system, the conjured city refers primarily to the *nirvāṇas* of the *śrāvaka* and *pratyekabuddha* vehicles (with and without remainder), and its nature is "provisional expedient establishment."
 
 Zhiyi's boldest declaration is to classify the conjured city chapter as the *only one* among the "five sites of opening the three to reveal the one" (*wǔ chù kāisān xiǎnyī*) that operates at the level of **principle** (*lǐ*):
 
@@ -316,7 +316,7 @@ The burning house's expedient is "pointing"; the medicinal herbs' is "pouring"; 
 
 ### 4.3 Preparing P11 (Lifespan Chapter): From Trace-Gate Ancient Time to Origin-Gate Ancient Time
 
-The front half of the conjured city chapter is the Lotus's first positive unfolding of the category "ancient time" — Mahābhijñā-jñānābhibhū's "three-thousand motes" *kalpas*. This is *trace-gate* ancient-bond-formation; in Chapter 16 (the Lifespan Chapter), the Buddha will display, within the *origin gate*, an even vaster time structure: the "five-hundred-thousand *koṭi-nayuta asaṃkhyeya*" motes of "ancient realization." The two form a **double-mote structure** across trace and origin. This paper marks the line structurally and reserves the formal treatment for P11.
+The front half of the conjured city chapter is the Lotus's first positive unfolding, through a mote-measure of kalpas, of the category "ancient time" — Mahābhijñā-jñānābhibhū's "three-thousand motes" *kalpas*. This is *trace-gate* ancient-bond-formation; in Chapter 16 (the Lifespan Chapter), the Buddha will display, within the *origin gate*, an even vaster time structure: the "five-hundred-thousand *koṭi-nayuta asaṃkhyeya*" motes of "ancient realization." The two form a **double-mote structure** across trace and origin. This paper marks the line structurally and reserves the formal treatment for P11.
 
 ### 4.4 Resonance with the Diamond Sūtra Series
 
@@ -360,8 +360,8 @@ This is the slide into personalist theism — reading the Buddha as a subject wh
 
 - *Saddharmapuṇḍarīka-sūtra* (*Miàofǎ liánhuá jīng*), tr. Kumārajīva (Yao Qin). *Taishō* Vol. 9, No. 262.
 - *Zhèngfǎhuá jīng*, tr. Dharmarakṣa (Western Jin). *Taishō* Vol. 9, No. 263.
-- *Saddharmapuṇḍarīka-upadeśa* (*Miàofǎ liánhuá jīng lùn yōubōtíshè*), by Vasubandhu, tr. Ratnamati (Later Wei). *Taishō* Vol. 26, No. 1519.
-- *Miàofǎ liánhuá jīng yōubōtíshè*, by Vasubandhu, tr. Bodhiruci et al. (Later Wei). *Taishō* Vol. 26, No. 1520.
+- *Saddharmapuṇḍarīka-upadeśa* (*Miàofǎ liánhuá jīng lùn yōubōtíshè*), by Vasubandhu, tr. Ratnamati (Later Wei). *Taishō* Vol. 26, No. 1520.
+- *Miàofǎ liánhuá jīng yōubōtíshè*, by Vasubandhu, tr. Bodhiruci et al. (Later Wei). *Taishō* Vol. 26, No. 1519.
 - *Fǎhuá wénjù* (Commentary on the Text of the Lotus), by Zhiyi (Sui). *Taishō* Vol. 34, No. 1718.
 - *Fǎhuá wénjù jì*, by Zhanran (Tang). *Taishō* Vol. 34, No. 1719.
 - *Fǎhuá yìshū*, by Jizang (Sui). *Taishō* Vol. 34, No. 1721.
@@ -384,8 +384,8 @@ This paper does not rely on modern scholarship as citational support; all argume
 |---|---|---|---|
 | Lotus Sūtra | Miàofǎ liánhuá jīng | T0262 | Kumārajīva |
 | Dharmarakṣa Lotus | Zhèngfǎhuá jīng | T0263 | Dharmarakṣa |
-| Lotus-śāstra (Ratnamati) | Miàofǎ liánhuá jīng lùn yōubōtíshè | T1519 | Vasubandhu / Ratnamati |
-| Lotus-śāstra (Bodhiruci) | Miàofǎ liánhuá jīng yōubōtíshè | T1520 | Vasubandhu / Bodhiruci |
+| Lotus-śāstra (Ratnamati) | Miàofǎ liánhuá jīng lùn yōubōtíshè | T1520 | Vasubandhu / Ratnamati |
+| Lotus-śāstra (Bodhiruci) | Miàofǎ liánhuá jīng yōubōtíshè | T1519 | Vasubandhu / Bodhiruci |
 | Fǎhuá wénjù | Fǎhuá wénjù | T1718 | Zhiyi |
 | Fǎhuá wénjù jì | Fǎhuá wénjù jì | T1719 | Zhanran |
 | Fǎhuá yìshū | Fǎhuá yìshū | T1721 | Jizang |
@@ -437,7 +437,7 @@ This paper does not rely on modern scholarship as citational support; all argume
 
 [^9]: *Saddharmapuṇḍarīka-sūtra*, fasc. 3, Chapter 7: "In the distant past, beyond incalculable, boundless, inconceivable *asaṃkhyeya kalpas*, there was a Buddha named Mahābhijñā-jñānābhibhū Tathāgata… grind all the ground-material of a three-thousandfold great-thousand world into ink, pass a thousand worlds eastward and lay down one dot the size of a mote." Three-thousand-mote-*kalpa* narrative. *Taishō* Vol. 9, No. 262.
 
-[^10]: *Saddharmapuṇḍarīka-sūtra*, fasc. 3, Chapter 7: full text of the conjured city parable, "Bhikṣus! Suppose there is a dangerous, deserted road of five hundred *yojanas*… the great city you saw, I conjured it, only for your rest." *Taishō* Vol. 9, No. 262.
+[^10]: *Saddharmapuṇḍarīka-sūtra*, fasc. 3, Chapter 7: full text of the conjured city parable, "Suppose there is a dangerous, deserted road of five hundred *yojanas*… the great city you saw, I conjured it, only for your rest." *Taishō* Vol. 9, No. 262.
 
 [^11]: *Saddharmapuṇḍarīka-sūtra*, fasc. 3, Chapter 7, verse-prose explanation: "Bhikṣus! The Tathāgata is likewise… by the power of expedient means, for the sake of rest on the middle way, he speaks of two *nirvāṇas*… this city is not real, I conjured it." *Taishō* Vol. 9, No. 262.
 
@@ -467,7 +467,7 @@ This paper does not rely on modern scholarship as citational support; all argume
 
 [^24]: *Miàofǎ liánhuá jīng xuánzàn*, fasc. 8, Conjured City commentary: "'Having passed three hundred *yojanas*'… the birth-death of distinctions has delusion, karma, and suffering; to depart from these three is to pass the three hundred *yojanas*." Yogācāra reading of the "five hundred *yojanas*." *Taishō* Vol. 34, No. 1723.
 
-[^25]: *Saddharmapuṇḍarīka-upadeśa*, fasc. 2: the corresponding structure of seven beings, seven conceits, and seven parables, *Taishō* Vol. 26, No. 1519; and the parallel passage in the Bodhiruci translation, fasc. 1, *Taishō* Vol. 26, No. 1520.
+[^25]: *Saddharmapuṇḍarīka-upadeśa*, fasc. 2: the corresponding structure of seven beings, seven conceits, and seven parables, *Taishō* Vol. 26, No. 1519; and the parallel passage in the Ratnamati translation, fasc. 1, *Taishō* Vol. 26, No. 1520.
 
 [^26]: Same as [^18].
 

@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P01"
 paper_number: 1
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The True Mark of All Dharmas and the Ten Suchnesses
@@ -45,9 +45,9 @@ The paper advances three propositions:
 
 **Proposition 3** (auxiliary): The seven parables of the Lotus Sūtra are not Mahāyāna inventions *ex nihilo* but the dramatic completion of seeds already present in the Āgama literature. This present paper focuses on Proposition 1; the systematic Āgama-seed work begins with S7-P03 (the parable of the burning house) and unfolds paper by paper.
 
-> **【Retrospective Note from S7-P08 · Upgrade of Proposition 1】**: The three-register lineage established in this paper is structurally upgraded in S7-P08 "Non-Self-Existent Prophecy Displayed at Both Ends" §6.2. Re-reading the three registers — Vasubandhu's dharma-body equality (devotional register) / Jizang's tathāgatagarbha (ontological register) / Kuiji's trisvabhāva analysis (analytical register) — the first two (Vasubandhu's "dharma-body equality" plus Jizang's "body of the tathāgatagarbha dharma-body") in fact constitute the ***tathāgatagarbha* track**, while the third (Kuiji's *ālayavijñāna*-based three-nature system) constitutes the **Yogācāra track**. Paratantra as the common pivot is precisely the first convergence point of the two tracks in the history of Lotus exegesis. Proposition 1 is therefore formally upgraded: **the Lotus is the first confluence of the *tathāgatagarbha* track and the Yogācāra track**. The *tathāgatagarbha* track (dharma-body equality + *Mahāparinirvāṇa* T0374 + Lotus's fundamental-gate) carries the metaphysical basis of dharma-body equality, primordial buddhahood, and directional reversal; the Yogācāra track (Vasubandhu's six prophecy-types + Kuiji's seed doctrine) carries the pragmatic mechanism of seed-perfuming, gradual manifestation, and prophecy-as-statement. The full display of this dual-track confluence occurs in the Devadatta Chapter (see S7-P08 §3, §6). This paper's three-register lineage is the early articulation of the dual-track structure in the "one great cause" passage of *Skillful Means*; S7-P08 completes the dual-track confluence argument on the two wings of the Devadatta Chapter.
+> **【Retrospective Note from S7-P08 · Upgrade of Proposition 1】**: The three-register lineage established in this paper is structurally upgraded in S7-P08 "Non-Self-Existent Prophecy Displayed at Both Ends" §6.2. Re-reading the three registers — Vasubandhu's dharma-body equality (devotional register) / Jizang's tathāgatagarbha (ontological register) / Kuiji's trisvabhāva analysis (analytical register) — the first two (Vasubandhu's "dharma-body equality" plus Jizang's "body of the tathāgatagarbha dharma-body") in fact constitute the ***tathāgatagarbha* track**, while the third (Kuiji's *ālayavijñāna*-based three-nature system) constitutes the **Yogācāra track**. Paratantra as the common pivot is precisely the first convergence point of the two tracks in the history of Lotus exegesis. Proposition 1 is therefore formally upgraded: **the Lotus is the first confluence of the *tathāgatagarbha* track and the Yogācāra track** (this is the author's interpretation; the phrase "body of the tathāgatagarbha dharma-body" already stands in Vasubandhu's *Upadeśa*, fasc. 2). The *tathāgatagarbha* track (dharma-body equality + *Mahāparinirvāṇa* T0374 + Lotus's fundamental-gate) carries the metaphysical basis of dharma-body equality, primordial buddhahood, and directional reversal; the Yogācāra track (Vasubandhu's six prophecy-types + Kuiji's seed doctrine) carries the pragmatic mechanism of seed-perfuming, gradual manifestation, and prophecy-as-statement. The full display of this dual-track confluence occurs in the Devadatta Chapter (see S7-P08 §3, §6). This paper's three-register lineage is the early articulation of the dual-track structure in the "one great cause" passage of *Skillful Means*; S7-P08 completes the dual-track confluence argument on the two wings of the Devadatta Chapter.
 
-Before entering the argument, one unexpected finding deserves preliminary announcement. This research originally expected that Vasubandhu's *Saddharmapuṇḍarīkopadeśa* (T1519) would interpret the ten suchnesses through trisvabhāva language—after all, Vasubandhu is among the founding figures of Yogācāra. Systematic string searches across the full *Upadeśa*, however, returned zero hits for all core trisvabhāva terms: *zhūfǎ shíxiàng*, *rúshì xiàng*, *sān xìng* (three natures), *biànjì* (parikalpita), *yītā* (paratantra), *yuánchéng* (pariniṣpanna). The word "seed" (種子) appears only once, in a parable context referring to wholesome-root seeds in a non-technical sense.[^9] This is not an oversight—Vasubandhu's interpretive framework in the *Upadeśa* is demonstrably something else: *dharma-body equality*, *correction of seven inverted graspings through seven parables*, and *three equalities* (of vehicle, of saṃsāra-nirvāṇa, of body). The question becomes: *why does the founding figure of Yogācāra systematically avoid trisvabhāva language when commenting on the Lotus?* The three-register lineage proposed in this paper is the author's answer.
+Before entering the argument, one unexpected finding deserves preliminary announcement. This research originally expected that Vasubandhu's *Saddharmapuṇḍarīkopadeśa* (T1519) would interpret the ten suchnesses through trisvabhāva language—after all, Vasubandhu is among the founding figures of Yogācāra. Systematic string searches across the full *Upadeśa*, however, returned zero hits for all core trisvabhāva terms: *zhūfǎ shíxiàng*, *rúshì xiàng*, *sān xìng* (three natures), *biànjì* (parikalpita), *yītā* (paratantra), *yuánchéng* (pariniṣpanna). The word "seed" (種子) appears only twice, both in the rain-parable context, referring to wholesome-root seeds in a non-technical sense.[^9] This is not an oversight—Vasubandhu's interpretive framework in the *Upadeśa* is demonstrably something else: *dharma-body equality*, *correction of seven inverted graspings through seven parables*, and *three equalities* (of vehicle, of saṃsāra-nirvāṇa, of body). The question becomes: *why does the founding figure of Yogācāra systematically avoid trisvabhāva language when commenting on the Lotus?* The three-register lineage proposed in this paper is the author's answer.
 
 ---
 
@@ -75,7 +75,7 @@ This does not imply that the Sanskrit *Saddharmapuṇḍarīka* lacks the releva
 
 #### 2.1.3 The Saṃdhinirmocana Sūtra (T0676) on Trisvabhāva
 
-The *Saṃdhinirmocana Sūtra*, in Chapter 6 (*Lakṣaṇa-parivarta*, "Chapter on Characteristics of All Dharmas"), provides the most authoritative sūtra-level definition of the three natures:
+The *Saṃdhinirmocana Sūtra*, in Chapter 4 (*Lakṣaṇa-parivarta*, "Chapter on Characteristics of All Dharmas"), provides the most authoritative sūtra-level definition of the three natures:
 
 > "The characteristics of all dharmas are briefly of three kinds. What three? First, the imagined characteristic (*parikalpita-lakṣaṇa*); second, the dependent characteristic (*paratantra-lakṣaṇa*); third, the perfected characteristic (*pariniṣpanna-lakṣaṇa*). What is the imagined characteristic? It is that which consists in the conventional designation of own-being and differences in all dharmas, down to the conditions that give rise to verbal expression. What is the dependent characteristic? It is the arising of dharmas through conditions—this being present, that arises; this arising, that arises—from ignorance as condition for volitional formations, up to the arising of the entire aggregate of suffering. What is the perfected characteristic? It is the equality suchness (*samatā tathatā*) of all dharmas."[^4]
 
@@ -113,13 +113,13 @@ This is the unexpected discovery of the present research. Jizang (吉藏, 549–
 
 > "As for 'the true mark of all dharmas' (*zhūfǎ shíxiàng*): the *Upadeśa on the Dharma Flower* states that it means 'the unchanging substance of the tathāgatagarbha dharma-body' (*rúláizàng fǎshēn zhī tǐ bùbiàn*). Therefore it is also called the true mark and also called Buddha-nature. 'Correct dharma' is another name for correct contemplation."[^10]
 
-Jizang explains *zhūfǎ shíxiàng* as "the unchanging substance of the tathāgatagarbha dharma-body." Whether this definition is a verbatim quotation from Vasubandhu's *Upadeśa* itself is uncertain: direct searches of T1519 and T1520 do not return "tathāgatagarbha" (*rúláizàng*) as a core term. Yet Jizang explicitly attributes the definition to the *Upadeśa*.
+Jizang explains *zhūfǎ shíxiàng* as "the unchanging substance of the tathāgatagarbha dharma-body." The definition does stand in Vasubandhu's *Upadeśa* itself: glossing the sūtra's "ultimate true mark," T1519, fascicle 2, says "the true mark means the unchanging substance of the tathāgatagarbha dharma-body" (*Taishō* 26: 6a12–13), and T1520 reads the same (26: 15b18–19); "tathāgatagarbha" (*rúláizàng*) occurs four times in each version. For the substance of the one vehicle, Vasubandhu's formulation is rather "the equal dharma-body of all Tathāgatas." Only Jizang's following clause, "therefore it is also called the true mark and also called Buddha-nature," has no counterpart in either version.
 
-Whether this is direct citation or interpretive paraphrase, it constitutes a precious witness to the **Chinese reception history** of Vasubandhu's framework. By the Sui dynasty (late 6th to early 7th century), Vasubandhu's "dharma-body equality" framework was being read by Chinese commentators through a tathāgatagarbha lens. The shift from "equal dharma-body" to "the unchanging substance of the tathāgatagarbha dharma-body" introduces two elements not prominent in Vasubandhu's original: *tathāgatagarbha* and *unchangingness*. These add significantly stronger ontological weight to what in Vasubandhu is a relational claim about the non-differentiation of all Buddhas' dharma-bodies.
+This citation constitutes a precious witness to the **Chinese reception history** of Vasubandhu's framework. By the Sui dynasty (late 6th to early 7th century), Vasubandhu's "dharma-body equality" framework was being read by Chinese commentators through a tathāgatagarbha lens—this is the author's interpretation. The shift from "equal dharma-body" to "the unchanging substance of the tathāgatagarbha dharma-body" foregrounds two elements that stand in Vasubandhu's gloss on the true mark but not in his definition of the one vehicle: *tathāgatagarbha* and *unchangingness*. These add significantly stronger ontological weight to what in Vasubandhu is a relational claim about the non-differentiation of all Buddhas' dharma-bodies.
 
 Jizang also offers his own distinctive four-stage dialectic of provisional and real:
 
-> "First, the three [vehicles] are provisional and the one is real, in order to make beings abandon the three and enter the one vehicle. Second, both the three and the one are provisional; neither-three-nor-one is called real. Third, duality and non-duality are both provisional; neither-duality-nor-non-duality is real. Fourth, these four options still fail to escape verbal designation, and so are all called provisional; 'the quiescent mark of all dharmas which cannot be proclaimed in words'—this alone is real."[^11]
+> "First, … the three [vehicles] are provisional and the one is real, in order to make beings abandon the three and enter the one vehicle. Second, … both the three and the one are provisional; neither-three-nor-one is called real. Third, … duality and non-duality are both provisional; neither-duality-nor-non-duality is real. Fourth, these four options still fail to escape verbal designation, and so are all called provisional; 'the quiescent mark of all dharmas which cannot be proclaimed in words'—this alone is real."[^11]
 
 Each stage re-classifies the previous stage's "real" as yet another provisional, eventually arriving at the wordless quiescent mark of all dharmas as the sole unconditioned real. This is a paradigmatic Madhyamaka gesture: employing recursive linguistic negation to approach what language cannot reach. The present paper will argue in §3 that Jizang's four-stage dialectic, Vasubandhu's equal-dharma-body framework, and Kuiji's trisvabhāva mapping are all engaged with the same "true mark of all dharmas" but operate in three different registers.
 
@@ -135,6 +135,8 @@ This passage is the central Chinese reference for Proposition 1. Kuiji unambiguo
 - **Perfected nature** (*pariniṣpanna*) = nirvāṇa (the ultimate fruit)
 - **Expulsion of imagined grasping** (*parikalpita*) = condition of liberation
 - **The one vehicle** = "all three spoken together, therefore called real"
+
+Kuiji's own wording treats bodhi and nirvāṇa alike as "these two fruits," realized "by severing the contaminated dependent nature and expelling the imagined grasping"; the gloss of bodhi as "the path of cultivation" above is the author's interpretation.
 
 "All three spoken together" is the crucial phrase. The one vehicle is not constituted by any single nature alone—not by the dependent, not by the perfected, not by the imagined—but by the *simultaneous and integral articulation of all three*. This is Kuiji's precise Yogācāra definition of the one Buddha-vehicle.
 
@@ -213,11 +215,11 @@ The Lotus Sūtra's own register is devotional—it deploys extensive parables, m
 
 ### 3.3 Layer Two: Jizang's Tathāgatagarbha Mediation
 
-Between Vasubandhu and Kuiji lie several centuries. In this middle zone, Jizang leaves a pivotal trace: citing Vasubandhu's *Upadeśa* in his *Lotus Commentary* to define "the true mark of all dharmas" as "the unchanging substance of the tathāgatagarbha dharma-body."[^10]
+Between Vasubandhu and Kuiji lie several centuries. In this middle zone, Jizang leaves a pivotal trace: citing Vasubandhu's *Upadeśa* in his *Lotus Commentary* to define "the true mark of all dharmas" as "the unchanging substance of the tathāgatagarbha dharma-body."[^10] The phrase itself stands in the *Upadeśa* (T1519, fasc. 2, 6a12–13); reading Jizang's choice of it as a passage from the devotional into the ontological register is the author's interpretation.
 
-This step is more important than it first appears. Vasubandhu said "equal dharma-body"; Jizang extends the formulation to "unchanging substance of the tathāgatagarbha dharma-body," adding two elements:
+This step is more important than it first appears. For the substance of the one vehicle Vasubandhu said "equal dharma-body"; Jizang defines the true mark by Vasubandhu's own gloss, "unchanging substance of the tathāgatagarbha dharma-body," which foregrounds two elements:
 
-1. **tathāgatagarbha**: the buddha-nature intrinsic to sentient beings, the latent potential for buddhahood. The term does not figure prominently as a core concept in Vasubandhu's *Upadeśa* itself.
+1. **tathāgatagarbha**: the buddha-nature intrinsic to sentient beings, the latent potential for buddhahood. In Vasubandhu's *Upadeśa* itself the term occurs four times, once in this very gloss on the true mark, though it is not the work's axis, which is dharma-body equality.
 2. **unchangingness** (*bùbiàn*): a strong ontological claim about the stability of the dharma-body's substance.
 
 Together these elements transform "equal dharma-body" from a *devotional proclamation* into an *ontological thesis*. Originally, Vasubandhu's "the equal dharma-body of all Tathāgatas" was a relational claim: all Buddhas share one dharma-body. Jizang's reading advances it to "each sentient being has an unchanging tathāgatagarbha dharma-body substance"—a substantial claim about intrinsic being.
@@ -400,7 +402,7 @@ This paper has returned from the Pointing-at-the-Moon series' signature imprint�
 |-----|-------|-------------|------------|-----------------|
 | 1 | *Saddharmapuṇḍarīka Sūtra* (Kumārajīva) | T09 | 262 | fasc. 1 (ch. 2) |
 | 2 | *Saddharmapuṇḍarīka Sūtra* (Dharmarakṣa) | T09 | 263 | fasc. 1 |
-| 3 | *Saṃdhinirmocana Sūtra* | T16 | 676 | fasc. 2 (ch. 6) |
+| 3 | *Saṃdhinirmocana Sūtra* | T16 | 676 | fasc. 2 (ch. 4) |
 | 4 | *Avataṃsaka Sūtra* (80 fasc.) | T10 | 279 | fasc. 3, 7, 19, 53 |
 | 5 | Vasubandhu, *Upadeśa* (Bodhiruci) | T26 | 1519 | fasc. 2 |
 | 6 | Vasubandhu, *Upadeśa* (Ratnamati) | T26 | 1520 | fasc. 1 |
@@ -443,13 +445,13 @@ This paper has returned from the Pointing-at-the-Moon series' signature imprint�
 
 [^8]: *Miàofǎ liánhuá jīng yōubōtíshě*, fasc. 2: "一者示現種子無上故，說雨譬喻。汝等所行是菩薩道者，謂發菩提心退已還發者，前所修行善根不滅、同後得果故" — Vasubandhu's exegesis of the rain parable (medicinal herbs). Taishō 26, no. 1519.
 
-[^9]: This claim is based on a systematic string-level search of the complete *Miàofǎ liánhuá jīng yōubōtíshě* (T1519): *諸法實相* | *如是相* | *三性* | *遍計* | *依他* | *圓成* — all returned zero hits. The term *種子* ("seed") appears once (fasc. 2, in the parable context noted in footnote 8). Search executed by the present research project in April 2026.
+[^9]: This claim is based on a systematic string-level search of the complete *Miàofǎ liánhuá jīng yōubōtíshě* (T1519): *諸法實相* | *如是相* | *三性* | *遍計* | *依他* | *圓成* — all returned zero hits. The term *種子* ("seed") appears twice (both in fasc. 2, in the rain-parable context; see footnote 8). Search executed by the present research project in April 2026.
 
 [^10]: *Fǎhuá yìshū*, fasc. 3: "『諸法實相』者，《法華論》云『謂如來藏法身之體不變，故此亦名實相亦名佛性』" — Jizang's citation of Vasubandhu's *Upadeśa* to define "the true mark of all dharmas." Taishō 34, no. 1721.
 
-[^11]: *Fǎhuá yìshū*, fasc. 3, Jizang's four-stage provisional-real dialectic: "一者三是方便、一為真實……二者三之與一皆是方便、非三非一乃稱為實……三者二與不二皆是方便、非二非不二乃是為真實……四者……諸法寂滅相不可以言宣乃為真實也." Taishō 34, no. 1721.
+[^11]: *Fǎhuá yìshū*, fasc. 3, Jizang's four-stage provisional-real dialectic: "一、……三是方便、一為真實……二者……三之與一皆是方便、非三非一乃稱為實……三者……二與不二皆是方便、非二非不二乃是為真實……四者……諸法寂滅相不可以言宣乃為真實也." Taishō 34, no. 1721.
 
-[^12]: *Miàofǎ liánhuá jīng xuánzàn*, fasc. 4b: "今此依他即菩提、圓成即涅槃合成一乘，圓成勝故獨名一乘。由斷有漏依他起性，遣遍計所執，證此二果。由了依他、所執……方便。今三俱說，故名真實。三性之義如別章" — Kuiji's trisvabhāva analysis of the one vehicle. Taishō 34, no. 1723.
+[^12]: *Miàofǎ liánhuá jīng xuánzàn*, fasc. 4b: "今此依他即菩提、圓成即涅槃合成一乘，圓成勝故獨名一乘。由斷有漏依他起性，遣遍計所執，證此二果。由了依他、所執……方便。今三俱說，故名真實。三性之義如別章說" — Kuiji's trisvabhāva analysis of the one vehicle. Taishō 34, no. 1723.
 
 [^13]: *Miàofǎ liánhuá jīng xuányì*, fasc. 2a: "天台師云：依義讀文，凡有三轉。一云：是相如、是性如……即空義也。若作如是相、如是性者……即假義也。若作相如是者，如於中道實相之是，即中義也" — Zhiyi's three-turn reading of the ten suchnesses. Taishō 33, no. 1716.
 

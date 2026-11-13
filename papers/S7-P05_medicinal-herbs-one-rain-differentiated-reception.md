@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.0"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Medicinal Herbs: One Rain, Differentiated Reception
@@ -84,7 +84,7 @@ A final formal feature: unlike the burning-house and prodigal-son parables, the 
 
 ### 2.3 Sanskrit Comparison: The Expanded Section in Dharmarakṣa's Recension
 
-Dharmarakṣa's *Zheng fahua jing* (T263), translated some seventy years before Kumārajīva's recension, contains an "Medicinal Herbs" chapter roughly twice the length of Kumārajīva's. The additional material includes a sun-light parable, a potter's-clay parable, a dialogue between Mahākāśyapa and the Buddha, and a complete "born-blind man meets a great physician" narrative with attached verses.[^16] The potter's-clay parable says "the clay is originally one, but when made into vessels they differ in what they hold" — another figural expression of "one teaching, differentiated capacities." Mahākāśyapa explicitly asks: "If there are no three vehicles, why are there bodhisattvas, pratyekabuddhas, and śrāvakas? Are they ultimately united or not?" The Buddha answers: "They will be united." This direct exchange on the unity of three vehicles is entirely absent from Kumārajīva's version.
+Dharmarakṣa's *Zheng fahua jing* (T263), translated some seventy years before Kumārajīva's recension, contains an "Medicinal Herbs" chapter roughly twice the length of Kumārajīva's. The additional material includes a sun-light parable, a potter's-clay parable, a dialogue between Mahākāśyapa and the Buddha, and a complete "born-blind man meets a great physician" narrative with attached verses.[^16] The potter's-clay parable says "the clay is originally one, but when made into vessels they differ in what they hold" — another figural expression of "one teaching, differentiated capacities." Mahākāśyapa explicitly asks: "If there are no three vehicles, why are there bodhisattvas, pratyekabuddhas, and śrāvakas? ... Even if they differ, are they ultimately united or not?" The Buddha answers: "They will be united." This direct exchange on the unity of three vehicles is entirely absent from Kumārajīva's version.
 
 The most doctrinally significant of these additions is the "born-blind man" narrative. A man born blind is treated by a great physician who travels to the snow mountains to gather four medicinal herbs named "Brilliant, Excellent, Bright, and Peaceful," corresponding to the three gates of liberation (śūnyatā, animitta, apraṇihita) plus the gate to nirvāṇa. The blind man recovers his sight but then becomes proud of his recovery; a five-superknowledge sage points out that he still has five remaining limitations and teaches him to enter the mountains for further meditation, after which he attains the five superknowledges.[^17] This expansion carries a three-tier soteriological argument: equal teaching (cloud and rain) → progressive treatment (medical) → ultimate awakening (superknowledges).
 
@@ -148,7 +148,7 @@ Kuiji explicitly inherits Vasubandhu's antidote-structure. But he goes a decisiv
 
 "Because there really are determinate śrāvakas and pratyekabuddhas" — this is Kuiji's distinctively Faxiang position: the doctrine of "five distinct gotras" (五性各別) is not a pedagogical device but a description of really existing determinate two-vehicle gotras. The differentiation of the three grasses and two trees is read by Kuiji as "the substantially differentiated seeds of the five vehicles."[^33] In the verse-commentary, Kuiji explicitly maps the three grasses and two trees onto the five gotras:
 
-> [The "soils" mentioned] are the agotra-state, the two-vehicle gotra, and the Mahāyāna gotra — each named "earth" according to its station. ... The agotra person, granted only the pleasures of humans and gods, is named the small herb. ... The seven preparatory practices are inferior, the two vehicles are middle, the bodhisattvas are superior. ... Within the great-herb category, two further divisions: the pre-stages are small tree, ... the ten stages are large tree.[^34]
+> [The "soils" mentioned] are the agotra-state, the two-vehicle gotra, and the Mahāyāna gotra — each named "earth" according to its station. ... The agotra person, granted only the pleasures of humans and gods, is named the small herb. ... The seven preparatory practices are also named the small herb, the two vehicles are middle, the bodhisattvas are superior. ... Within the great-herb category, two further divisions: the pre-stages are small tree, ... the ten stages are large tree.[^34]
 
 It is worth noting that Kuiji, in his *Mahāyāna Dharma Garden Forest of Meaning Chapters* (大乘法苑義林章), treats the same parable along an entirely different axis. There he distributes the four major Lotus images across four interpretive dimensions — teaching (教), principle (理), practice (行), result (果):
 
@@ -158,7 +158,7 @@ In this *Yilin zhang* system, the medicinal-herbs parable corresponds to "teachi
 
 The same author, the same parable, treated in two different ways across two different works: in the *Xuanzan*'s direct commentary, he explicitly uses the parable to argue for the five distinct gotras and maps the three grasses and two trees onto the five gotras; in the *Yilin zhang*, he assigns the parable to the teaching-dimension and gives the gotra-argument to other texts entirely. This contrast deserves close treatment, which I undertake in §3.3.
 
-There is also a continuity with Kuiji's treatment of the prodigal-son parable in S7-P04. He states explicitly at the end of the medicinal-herbs commentary: "Therefore, in principle, to teach 'one' is provisional and to teach 'four' is real. ... But in the present assembly, most are of regressive nature, and so 'one is real, two are provisional' is taught."[^36] "In the present assembly, most are of regressive nature" — that is, the audience of the Lotus assembly consists mostly of "those who, having regressed, now re-arise [their bodhisattva intent]" — the indeterminate gotra subset of śrāvakas. Kuiji's restriction of the prodigal-son parable to indeterminate gotra is not modified at all in the medicinal-herbs commentary; it is in fact further reinforced, with the medicinal-herbs commentary now adding the explicit category of *agotra* (those without any liberative seeds) as the small herb, with "no supramundane seeds" as the ontological warrant.[^37]
+There is also a continuity with Kuiji's treatment of the prodigal-son parable in S7-P04. He states explicitly in the commentary on the Conjured City chapter: "Therefore, in principle, to teach 'one' is provisional and to teach 'four' is real. ... But in the present assembly, most are of regressive nature, and so 'one is real, two are provisional' is taught."[^36] "In the present assembly, most are of regressive nature" — that is, the audience of the Lotus assembly consists mostly of "those who, having regressed, now re-arise [their bodhisattva intent]" — the indeterminate gotra subset of śrāvakas. Kuiji's restriction of the prodigal-son parable to indeterminate gotra is not modified at all in the medicinal-herbs commentary; it is in fact further reinforced, with the medicinal-herbs commentary now adding the explicit category of *agotra* (those without any liberative seeds) as the small herb, with "no supramundane seeds" as the ontological warrant.[^37]
 
 The shape of the four-way commentarial dialogue is now in place: Vasubandhu provides the original statement of the paired structure; Zhiyi treats the parable through "differentiated and undifferentiated showing provisional and real"; Jizang treats it through "to gain the real and lose the provisional is to lose both" and "gradations without gradations"; Kuiji treats it through the double structure of "same teaching, different capacities" and "the substantially differentiated seeds of the five vehicles." The differences among the four are not differences of correctness but of legitimate operations within distinct systems. This is what the next section unpacks.
 
@@ -211,7 +211,7 @@ The *Mahāyānasaṃgraha* further treats the case of "indeterminate śrāvakas"
 
 > Indeterminate śrāvakas, along with the various other bodhisattvas, are drawn into the Mahāyāna; for the determinate, the one vehicle is taught [with intentional sense]. Because the dharma-non-self liberation is equal, but their natures differ, they obtain a two-fold intentional nirvāṇa; ultimately, the one vehicle is taught.[^41]
 
-Indeterminate śrāvakas can be "drawn in" to the Mahāyāna — proving that gotra is not absolutely fixed. For the determinate, "teaching one vehicle" is "intentional" (with reservation), but "ultimately the one vehicle is taught" indicates that even this fixity is pedagogical and provisional, not absolute ontological fact.
+Indeterminate śrāvakas can be "drawn in" to the Mahāyāna — proving that gotra is not absolutely fixed. In Vasubandhu's commentary as translated by Paramārtha (fascicle 15), "the determinate" of "for the determinate, the one vehicle is taught" are bodhisattvas "whose Mahāyāna faculty-nature is already fixed." As for determinate śrāvakas, "teaching one vehicle" is "intentional" (with reservation), but "ultimately the one vehicle is taught" indicates that even this fixity is pedagogical and provisional, not absolute ontological fact — this is the author's interpretation.
 
 ⚠️ A cross-system caveat: the *Awakening of Faith* and the *Mahāyānasaṃgraha* are *not* direct arguments for the medicinal-herbs parable; they are structurally isomorphic resonances from a different system. When invoked in this paper, I mark them frankly as "analogical correspondences" rather than "direct evidence." The medicinal-herbs parable is sūtra; the *Awakening of Faith* and the *Mahāyānasaṃgraha* are śāstras of different lineages. The questions they answer — "why does universal perfuming yield differential faith?" and "why does equally outflowing hearing-perfuming yield differential vehicles?" — are structurally isomorphic to the question of the parable, but they are not direct deductions within the same argumentative system.
 
@@ -219,11 +219,11 @@ Indeterminate śrāvakas can be "drawn in" to the Mahāyāna — proving that go
 
 Kuiji's reading of "each receives according to its portion" in the *Fahua xuanzan* is sharply different from that of the *Awakening of Faith* and the *Mahāyānasaṃgraha*. He reads it explicitly as ontological gotra:
 
-> The seeds of the five vehicles are substantially differentiated in their categories — as in "kinds many in number." ... The three roots are fundamentally distinct, and from receiving the teaching they constitute the three vehicles.[^42]
+> The three roots are fundamentally distinct, and from receiving the teaching they constitute the three vehicles. ... The seeds of the five vehicles are substantially differentiated in their categories — as in "kinds many in number."[^42]
 >
 > This is the small herb, the agotra person ... because they have no supramundane seeds.[^43]
 
-Kuiji's argument has three pillars. First, the *Lotus Treatise* explicitly identifies "the antidote against the Mahāyānist's unidirectional conceit who says 'there are no separate two vehicles'" as the very purpose of this parable — and reading it as functional gotra would weaken that antidote-purpose. Second, "the substantially differentiated seeds of the five vehicles" is an internal demand of Faxiang seed-doctrine: a seed-theory that cannot uphold the five distinct gotras would compromise the internal consistency of the entire system. Third, he cites the *Bodhisattva Stage Sūtra* (*Pusa shanjie jing*) on "the agotra person, who is matured only by means of human and divine wholesome roots" as scriptural warrant for the existence of beings with no liberative seeds at all.
+Kuiji's argument has three pillars. First, the *Lotus Treatise* explicitly identifies the antidote against "the Mahāyāna fixed conceit of unidirectional certainty, which thinks: there is no separate śrāvaka or pratyekabuddha vehicle" as the very purpose of this parable — and reading it as functional gotra would weaken that antidote-purpose. Second, "the substantially differentiated seeds of the five vehicles" is an internal demand of Faxiang seed-doctrine: a seed-theory that cannot uphold the five distinct gotras would compromise the internal consistency of the entire system. Third, he cites the *Bodhisattva Stage Sūtra* (*Pusa shanjie jing*) on "the agotra person, who is matured only by means of human and divine wholesome roots" as scriptural warrant for the existence of beings with no liberative seeds at all.
 
 Kuiji's reading is not a misreading; it is a legitimate operation within his system. Faxiang takes the seeds in the ālayavijñāna as the root cause of all manifestations, and the substantial differentiation of seed-categories is the foundational structure of that system. If the *Awakening of Faith* and *Mahāyānasaṃgraha* read the parable as "describing differences in cultivation states," Kuiji reads it as "describing differences in inherent seed-categories." Both readings have textual warrant, both have śāstric support, both are internally coherent within their respective systems.
 
@@ -231,7 +231,7 @@ Kuiji's reading is not a misreading; it is a legitimate operation within his sys
 
 The methodological position of this paper, in continuity with S7-P04 on the prodigal son, is to refuse to flatten the disagreement between these two systems. The *Awakening of Faith* and the *Mahāyānasaṃgraha* are answering one question: "What kind of differentiation can coexist with the equality of buddha-nature?" Their answer: functional differentiation. Kuiji is answering a different question: "Within the Yogācāra-Faxiang argumentative project, how do we account for the actuality of the five-vehicle phenomenon?" His answer: substantial seed-differentiation. The questions are different, so the answers are different — but this does not mean one is wrong.
 
-A more refined integrative possibility: the *Awakening of Faith* and the *Mahāyānasaṃgraha* are describing "the equality face" (all beings inherently possess suchness; the hearing-perfuming flows out equally), while Kuiji is describing "the difference face" (in the actuality of the five-vehicle phenomenon, seed-categories really do differ). The two faces need not exclude each other — the *Mahāyānasaṃgraha*'s twofold structure of "drawing in the indeterminate, intentionally teaching the one vehicle to the determinate" is precisely the embryonic form of this integration: present functional state and ultimate possibility can both be true simultaneously.
+A more refined integrative possibility: the *Awakening of Faith* and the *Mahāyānasaṃgraha* are describing "the equality face" (all beings inherently possess suchness; the hearing-perfuming flows out equally), while Kuiji is describing "the difference face" (in the actuality of the five-vehicle phenomenon, seed-categories really do differ). The two faces need not exclude each other — the *Mahāyānasaṃgraha*'s twofold structure of "indeterminate śrāvakas ... are drawn into the Mahāyāna; for the determinate, the one vehicle is taught" is precisely the embryonic form of this integration: present functional state and ultimate possibility can both be true simultaneously.
 
 But this paper refuses to declare such an integration as "the final answer." Hermeneutic divergence is a historical fact, not a defect to be repaired — different commentators, working on different argumentative tasks, give legitimately different readings of the same scripture. The contribution of this study is to present the divergence honestly rather than to elevate one system or to force a reconciliation. Readers may, depending on their own stage of practice and argumentative needs, select whichever reading serves them best.
 
@@ -268,7 +268,7 @@ S7-P03 on the burning house first tested the applicability of the S2-P02 Avaloki
 | Practise deeply (deep practice of prajñā) | Adapt to capacity (teaching according to what each can bear) |
 | Cross suffering (crossing all suffering) | Mature (each grows, blossoms, bears fruit) |
 
-The scale of the medicinal-herbs loop differs from those of the burning house and the Heart Sūtra. The burning-house loop's scale is "one father's concrete rescue of five hundred children." The Heart Sūtra's scale is "one practitioner's interior contemplation of his or her own five aggregates." The medicinal-herbs loop's scale is "the Tathāgata's holistic adaptive teaching to all beings of the trichiliocosm." All three scales are isomorphic — the closed-loop structure from "seeing" to "responding" to "acting" to "completing" obtains at all three. This cross-scale isomorphism is itself evidence for the loop thesis: the awakening loop is not the structure of one particular situation but the common skeleton of all awakening events.
+The scale of the medicinal-herbs loop differs from those of the burning house and the Heart Sūtra. The burning-house loop's scale is "one father's concrete rescue of ten, twenty, or up to thirty children." The Heart Sūtra's scale is "one practitioner's interior contemplation of his or her own five aggregates." The medicinal-herbs loop's scale is "the Tathāgata's holistic adaptive teaching to all beings of the trichiliocosm." All three scales are isomorphic — the closed-loop structure from "seeing" to "responding" to "acting" to "completing" obtains at all three. This cross-scale isomorphism is itself evidence for the loop thesis: the awakening loop is not the structure of one particular situation but the common skeleton of all awakening events.
 
 The medicinal-herbs loop has one distinctive feature: its "adapt to capacity" stage is not a single action but a *parallel* response to countless capacities at once. The one cloud and one rain act on small herb, middle herb, superior herb, small tree, and large tree all at once, with no sequence. This parallelism is unique to this parable — the burning-house parable shows a father trying again and again to call out his children, the prodigal-son parable shows a long apprenticeship of progressive education, the medicinal-herbs parable shows an instant of comprehensive equal reach. This parallelism also illuminates the meaning of "embrace": true embrace is not gathering one being at a time, but the simultaneous holding of an entire field.
 
@@ -308,7 +308,7 @@ The therapy: the *Awakening of Faith*'s observation that "the fire-nature within
 
 This pushes Kuiji's ontological gotra position to a fatalistic extreme. Hearing "agotra persons," one concludes that some beings are permanently shut out from liberation — which contradicts the parable's verses' explicit promise of "all shall become buddhas," and also contradicts the *Mahāyānasaṃgraha*'s twofold structure of "ultimately teaching the one vehicle [even to the determinate]."
 
-The therapy: the *Mahāyānasaṃgraha*'s "drawing in indeterminate śrāvakas" combined with "ultimately teaching the one vehicle even to the determinate."[^46] Even for determinate śrāvakas, "ultimately the one vehicle is taught" indicates that the fixity is pedagogical and provisional, not an absolute ontological fact. Kuiji's ontological reading describes the present functional state, not a declaration of permanent impossibility.
+The therapy: the *Mahāyānasaṃgraha*'s "indeterminate śrāvakas ... are drawn into the Mahāyāna" combined with "for the determinate, the one vehicle is taught."[^46] Even for determinate śrāvakas, "ultimately the one vehicle is taught" indicates that the fixity is pedagogical and provisional, not an absolute ontological fact (this is the author's interpretation). Kuiji's ontological reading describes the present functional state, not a declaration of permanent impossibility.
 
 ### ❌ Correction Three: "Three grasses and two trees = a hierarchical ranking of capacities"
 
@@ -350,12 +350,13 @@ The next paper takes up the conjured city. The conjured city is an expedient nir
 | 6 | *Bieyi Saṃyukta-āgama* (別譯雜阿含經) | T2 | 0100 | juan 4, sūtra 68 |
 | 7 | *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍) | T26 | 1519 | juan 2 |
 | 8 | *Saddharmapuṇḍarīka-upadeśa* (Ratnamati) (妙法蓮華經論優波提舍) | T26 | 1520 | juan 1 |
-| 9 | *Miaofa lianhua jing wenju* (妙法蓮華經文句) | T34 | 1718 | juan 7b |
+| 9 | *Miaofa lianhua jing wenju* (妙法蓮華經文句) | T34 | 1718 | juan 7a, 7b |
 | 10 | *Fahua yishu* (法華義疏) | T34 | 1721 | juan 8 |
 | 11 | *Miaofa lianhua jing xuanzan* (妙法蓮華經玄贊) | T34 | 1723 | juan 7a, 8a |
 | 12 | *Dasheng fayuan yilin zhang* (大乘法苑義林章) | T45 | 1861 | juan 1 |
 | 13 | *Mahāyāna-śraddhotpāda-śāstra* (大乘起信論) | T32 | 1666 | *tathatā*-perfumation passage |
 | 14 | *Mahāyānasaṃgraha* (攝大乘論) | T31 | 1593 | juan 1, 3 |
+| 15 | *Mahāyānasaṃgraha-bhāṣya* (攝大乘論釋) | T31 | 1595 | juan 15 (gloss on "for the determinate, the one vehicle is taught") |
 
 ---
 
@@ -379,13 +380,13 @@ The next paper takes up the conjured city. The conjured city is an expedient nir
 
 [^3]: See §2.4 for the analysis of Vasubandhu's seven-parable system.
 
-[^4]: *Ekottarika-āgama*, trans. Gautama Saṃghadeva, T125, vol. 2, p. 752c.
+[^4]: *Ekottarika-āgama*, trans. Gautama Saṃghadeva, T125, vol. 2, pp. 753a-b.
 
-[^5]: *Madhyama-āgama*, juan 8, trans. Gautama Saṃghadeva, T26, vol. 1, p. 476a.
+[^5]: *Madhyama-āgama*, juan 8, trans. Gautama Saṃghadeva, T26, vol. 1, p. 476c.
 
 [^6]: *Saṃyukta-āgama*, juan 20, sūtra 548 (Madhura Sūtra), trans. Guṇabhadra, T99, vol. 2, p. 142b: 「四種姓者，皆悉平等，無有勝如差別之異……世間言說為差別耳，乃至依業，真實無差別也。」
 
-[^7]: *Bieyi Saṃyukta-āgama*, juan 4, sūtra 68 (translator unknown), T100, vol. 2, p. 396b.
+[^7]: *Bieyi Saṃyukta-āgama*, juan 4, sūtra 68 (translator unknown), T100, vol. 2, p. 397c.
 
 [^8]: *Saddharmapuṇḍarīka-sūtra*, juan 3, "Medicinal Herbs" chapter, trans. Kumārajīva, T262, vol. 9, p. 19b.
 
@@ -393,77 +394,77 @@ The next paper takes up the conjured city. The conjured city is an expedient nir
 
 [^10]: T262, vol. 9, p. 19a.
 
-[^11]: T262, vol. 9, p. 19b.
+[^11]: T262, vol. 9, pp. 19a–b.
 
-[^12]: T262, vol. 9, p. 19c.
+[^12]: T262, vol. 9, p. 19b.
 
-[^13]: Same source.
+[^13]: T262, vol. 9, pp. 19b–c.
 
 [^14]: T262, vol. 9, p. 20a-b (the verses giving the explicit five-fold mapping of three grasses and two trees).
 
 [^15]: T262, vol. 9, p. 20b.
 
-[^16]: *Zheng fahua jing* (*Saddharmapuṇḍarīka-sūtra* in Dharmarakṣa's recension), juan 3, "Medicinal Herbs" chapter, trans. Dharmarakṣa, T263, vol. 9, pp. 84–87. For the full comparison, see retrieval log Q02.
+[^16]: *Zheng fahua jing* (*Saddharmapuṇḍarīka-sūtra* in Dharmarakṣa's recension), juan 3, "Medicinal Herbs" chapter, trans. Dharmarakṣa, T263, vol. 9, pp. 83b–86b. For the full comparison, see retrieval log Q02.
 
-[^17]: T263, vol. 9, pp. 86–87 (the born-blind narrative). The four medicinal names "Brilliant, Excellent, Bright, Peaceful" correspond to "śūnyatā, animitta, apraṇihita, the gate to nirvāṇa."
+[^17]: T263, vol. 9, pp. 85b–86a (the born-blind narrative). The four medicinal names "Brilliant, Excellent, Bright, Peaceful" correspond to "śūnyatā, animitta, apraṇihita, the gate to nirvāṇa."
 
 [^18]: A full search across T1718 (Zhiyi), T1721 (Jizang), and T1723 (Kuiji) (retrieval log Q12) found no commentarial reference to the expanded section in Dharmarakṣa's recension.
 
-[^19]: Vasubandhu, *Saddharmapuṇḍarīka-upadeśa*, juan 2, trans. Bodhiruci, T1519, vol. 26, p. 9a.
+[^19]: Vasubandhu, *Saddharmapuṇḍarīka-upadeśa*, juan 2, trans. Bodhiruci, T1519, vol. 26, p. 8b.
 
-[^20]: Vasubandhu, *Saddharmapuṇḍarīka-upadeśa*, juan 1, trans. Ratnamati, T1520, vol. 26, p. 4b.
+[^20]: Vasubandhu, *Saddharmapuṇḍarīka-upadeśa*, juan 1, trans. Ratnamati, T1520, vol. 26, p. 17c.
 
-[^21]: T1519, vol. 26, p. 9b; T1520's parallel reads 「令知種種乘諸佛如來平等說法，隨眾生善根種子生芽故」.
+[^21]: T1519, vol. 26, p. 8c; T1520's parallel reads 「令知種種乘諸佛如來平等說法，隨眾生善根種子生芽故」.
 
 [^22]: T1519, juan 2, presents the second and third parables in parallel form within a single section.
 
-[^23]: Zhiyi, *Miaofa lianhua jing wenju*, juan 7b, T1718, vol. 34, p. 94a.
+[^23]: Zhiyi, *Miaofa lianhua jing wenju*, juan 7a, T1718, vol. 34, p. 96b.
 
-[^24]: T1718, vol. 34, pp. 94a-b.
+[^24]: T1718, vol. 34, p. 96b.
 
-[^25]: T1718, vol. 34, p. 93b.
+[^25]: T1718, vol. 34, p. 94a.
 
-[^26]: T1718, vol. 34, p. 95c.
+[^26]: Zhiyi, *Miaofa lianhua jing wenju*, juan 7b, T1718, vol. 34, p. 103b.
 
-[^27]: Jizang, *Fahua yishu*, juan 8, T1721, vol. 34, p. 566c.
+[^27]: Jizang, *Fahua yishu*, juan 8, T1721, vol. 34, p. 558b.
 
 [^28]: Same source.
 
-[^29]: T1721, vol. 34, p. 564a.
+[^29]: T1721, vol. 34, p. 560c.
 
-[^30]: T1721, vol. 34, p. 572b.
+[^30]: T1721, vol. 34, p. 564a.
 
-[^31]: Kuiji, *Miaofa lianhua jing xuanzan*, juan 7a, T1723, vol. 34, pp. 778a-b.
+[^31]: Kuiji, *Miaofa lianhua jing xuanzan*, juan 7a, T1723, vol. 34, p. 781a.
 
-[^32]: T1723, vol. 34, p. 778b.
+[^32]: T1723, vol. 34, p. 781a.
 
-[^33]: T1723, vol. 34, p. 781a.
+[^33]: T1723, vol. 34, p. 782c.
 
-[^34]: T1723, vol. 34, pp. 788c–789a.
+[^34]: T1723, vol. 34, p. 786a.
 
-[^35]: Kuiji, *Dasheng fayuan yilin zhang*, juan 1, T1861, vol. 45, p. 265a.
+[^35]: Kuiji, *Dasheng fayuan yilin zhang*, juan 1, T1861, vol. 45, p. 267c.
 
-[^36]: Kuiji, *Miaofa lianhua jing xuanzan*, juan 8a, T1723, vol. 34, p. 793a.
+[^36]: Kuiji, *Miaofa lianhua jing xuanzan*, juan 8a, T1723, vol. 34, p. 799a.
 
-[^37]: T1723, vol. 34, p. 785c, citing the *Pusa shanjie jing*: 「無種姓人但以人天善根而成熟之.」
+[^37]: T1723, vol. 34, p. 785b, citing the *Pusa shanjie jing* (p. 786a): 「無種姓人但以人天善根而成熟之.」
 
 [^38]: *Mahāyāna-śraddhotpāda-śāstra* (*Awakening of Faith in the Mahāyāna*), trans. Paramārtha, T1666, vol. 32, p. 578b.
 
 [^39]: Same source.
 
-[^40]: *Mahāyānasaṃgraha*, juan 1, trans. Paramārtha, T1593, vol. 31, pp. 115a-b.
+[^40]: *Mahāyānasaṃgraha*, juan 1, trans. Paramārtha, T1593, vol. 31, p. 117a.
 
-[^41]: *Mahāyānasaṃgraha*, juan 3, trans. Paramārtha, T1593, vol. 31, p. 131a.
+[^41]: *Mahāyānasaṃgraha*, juan 3, trans. Paramārtha, T1593, vol. 31, p. 132a. Vasubandhu's commentary: *Mahāyānasaṃgraha-bhāṣya*, juan 15, trans. Paramārtha, T1595, vol. 31, p. 265c: 「論曰：定性說一乘。釋曰：有諸菩薩於大乘根性已定，無退異意，為此菩薩故說一乘。」
 
-[^42]: Kuiji, *Miaofa lianhua jing xuanzan*, juan 7a, T1723, vol. 34, p. 781a.
+[^42]: Kuiji, *Miaofa lianhua jing xuanzan*, juan 7a, T1723, vol. 34, pp. 781b–782c.
 
-[^43]: T1723, vol. 34, p. 785c.
+[^43]: T1723, vol. 34, p. 785b.
 
-[^44]: Kuiji, *Dasheng fayuan yilin zhang*, juan 1, "Various Vehicles," T1861, vol. 45, p. 265a.
+[^44]: Kuiji, *Dasheng fayuan yilin zhang*, juan 1, "Various Vehicles," T1861, vol. 45, p. 267c.
 
-[^45]: *Mahāyāna-śraddhotpāda-śāstra*, trans. Paramārtha, T1666, vol. 32, p. 578b.
+[^45]: *Mahāyāna-śraddhotpāda-śāstra*, trans. Paramārtha, T1666, vol. 32, p. 578c.
 
-[^46]: *Mahāyānasaṃgraha*, juan 3, trans. Paramārtha, T1593, vol. 31, p. 131a.
+[^46]: *Mahāyānasaṃgraha*, juan 3, trans. Paramārtha, T1593, vol. 31, p. 132a.
 
 [^47]: *Saddharmapuṇḍarīka-sūtra*, juan 3, "Medicinal Herbs" chapter, trans. Kumārajīva, T262, vol. 9, p. 20b.
 

@@ -6,7 +6,7 @@ series_short: "S7"
 paper_id: "S7-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Prodigal Son
@@ -76,7 +76,7 @@ This paper is the fourth in the S7 Lotus series, following S7-P03 on the Burning
 
 #### 2.1.1 The Five-Stage Narrative in the *Faith and Understanding* Chapter
 
-The Prodigal Son parable is initiated by the four great disciples (Subhūti, Kātyāyana, Kāśyapa, Maudgalyāyana) immediately after the Burning House parable. They tell the Buddha that hearing this rare and unprecedented dharma fills them with joy and understanding, and they declare: "Today we are truly *śrāvakas*, causing all to hear the voice of the Buddha-path; today we are truly *arhats*."[^2] This declaration is itself the parable's trigger: they become aware that their previous identification as *śrāvakas* was not the final station, and they cast this awareness into a parable.
+The Prodigal Son parable is initiated by the four great disciples (Subhūti, Kātyāyana, Kāśyapa, Maudgalyāyana) immediately after the Burning House parable. They tell the Buddha that hearing this rare and unprecedented dharma fills them with joy and understanding, and they declare: "Now we are truly *śrāvakas*, causing all to hear the voice of the Buddha-path; now we are truly *arhats*."[^2] This declaration is itself the parable's trigger: they become aware that their previous identification as *śrāvakas* was not the final station, and they cast this awareness into a parable.
 
 The narrative unfolds in five stages.[^3]
 
@@ -92,7 +92,7 @@ The father, in that instant, "sees his son and recognizes him, and his heart fil
 
 The father's stratagem has three layers. First, **the men sent must be haggard and undignified** — they must be people the son can identify as his own kind, so he will not feel the same distance that triggered his earlier flight. Second, **double wages** — a material attractor above market rate. Third, **the work must be removing excrement** — the lowest-status work imaginable, which the son's self-identification ("I am low-status labor") can accept. "We will work alongside you" — the messengers will be his peers, not supervisors. All three layers are calibrated to keep the gap between *the son's self-judged position* and *the actual position into which he is being drawn* small enough to avoid another panic-flight.
 
-Then the father intervenes personally. "Looking again through a window, he saw his son emaciated and gaunt, smeared with dust and filth. He removed his necklaces, his fine outer garments, and his ornaments, put on coarse and soiled clothing, smeared dust on his body, took up a dung-collecting tool, and **assumed the manner of one who is afraid**." The phrase *assumed the manner of one who is afraid* (狀有所畏) is critical. The father deliberately performs a posture of timidity that matches his son's, to erase any felt power-differential between them.
+Then the father intervenes personally. "On another day, looking through a window, he saw his son emaciated and gaunt, smeared with dust and filth. He removed his necklaces, his fine outer garments, and his ornaments, put on coarse and soiled clothing, smeared dust on his body, took up a dung-collecting tool, and **assumed the manner of one who is afraid**." The phrase *assumed the manner of one who is afraid* (狀有所畏) is critical. The father deliberately performs a posture of timidity that matches his son's, to erase any felt power-differential between them.
 
 The father says: "Hey, fellow! Stay and work here, do not go elsewhere, and I will increase your wages. Whatever you need — earthen vessels, rice, flour, salt, vinegar — do not hesitate to ask. There is even an old servant here you can call on. Be at ease in your mind. I am like a father to you; do not worry. I am old and you are young — I have watched you work, and you show none of the deceit, sloth, anger, or complaint of the other laborers. From now on, you are like a son born to me." Then the father formally gives him a name: "*Thus the elder gave him a new name and called him 'son'.*"
 
@@ -253,15 +253,17 @@ How are the *Lotus*'s "gathering three into one" and Yogācāra's "five distinct
 
 **Route One: The *Saṃgraha* bridge — using the indeterminate-lineage as the connecting point.** The *Mahāyānasaṃgraha* gives the foundational verse:[^19]
 
-> For the indeterminate-lineage *śrāvakas* and the other bodhisattvas, the One Vehicle is taught to draw them into the Mahāyāna; for the determinate-lineage, the One Vehicle is taught only in the ultimate sense (because dharma, no-self, and liberation are equal) — this is the doctrine of the One Vehicle in the ultimate.
+> For the indeterminate-lineage *śrāvakas* and the other bodhisattvas, the One Vehicle is taught to draw them into the Mahāyāna; for the determinate, the One Vehicle is taught. Because dharma, no-self, and liberation are equal, because natures differ, because the two intentions are attained, because of nirvāṇa, and because it is ultimate, the One Vehicle is taught.
+
+In Vasubandhu's commentary as translated by Paramārtha (fascicle 15), "the determinate" of the first verse are bodhisattvas "whose Mahāyāna faculty-nature is already fixed"; that for the determinate-lineage *śrāvakas* the One Vehicle is taught only in the ultimate sense (because dharma, no-self, and liberation are equal), not to turn them into bodhisattvas, is the author's interpretation; under "the two intentions are attained," the same commentary also says that the Buddha conjured śrāvakas such as Śāriputra and gave them predictions, "wishing to make śrāvakas whose faculty-nature is already fixed train their faculties further and become bodhisattvas" (欲令已定根性聲聞更練根為菩薩; T1595, fasc. 15, p. 266a), which should be weighed alongside this reading.
 
 Kuiji presses this position to its sharpest formulation in the *Dasheng Fayuan Yilin Zhang*: "The *Lotus* assembly addresses the indeterminate; the two-vehicle teachings are expedient, the One Vehicle is real... and the *Lotus*'s One Vehicle, taught only in dependence on lineage-possessing beings, is itself expedient [for that audience]; the *Śrīmālā Sūtra*'s One Vehicle, which depends even on those without lineage, is the real."[^20] Kuiji thus *demotes* the *Lotus* from a universalist instrument that gathers all sentient beings into a more restricted vehicle directed at the indeterminate lineage.
 
 **Route Two: Fazang's mediation — the two-tier reading of conventional and real teachings.** Fazang's *Dasheng Qixin Lun Yiji* (*Commentary on the Awakening of Mahāyāna Faith*), fascicle 1 (卷上), offers the alternative:[^21]
 
-> The audience of this teaching has two modes. First, under the conventional teaching, it concerns the bodhisattva-lineage and the indeterminate, but not the other three (since they have no part) — as the *Yogācārabhūmi* and others say. Second, under the real teaching, all sentient beings are its audience, since none will fail ultimately to attain bodhi.
+> The audience of this teaching has two modes. First, under the conventional teaching, among the five lineages the bodhisattva-lineage and the indeterminate are its audience, but not the other three (since they have no part) — as the *Yogācārabhūmi* and others say. Second, under the real teaching, all sentient beings are its audience, since none will fail ultimately to attain bodhi.
 
-Fazang reads "five distinct lineages" as a *conventional* judgment, applicable to currently-classifiable capacities. *In the real teaching*, all sentient beings will ultimately attain bodhi. He cites the *Buddha-Nature Treatise*'s claim that "saying there are some without lineage permanently is non-ultimate teaching" and argues that the determinate-lineage *śrāvaka* "must enter the remainderless before he can turn his mind" — i.e., even after entering the remainderless nirvāṇa, he still has the "three remainders" (the abode of ignorance, uncontaminated karma, the mind-made body), and he eventually turns toward the great.[^22]
+Fazang reads "five distinct lineages" as a *conventional* judgment, applicable to currently-classifiable capacities. *In the real teaching*, all sentient beings will ultimately attain bodhi. He cites the judgment "in the second fascicle of the *Buddha-Nature Treatise*, the doctrine that some lack buddha-nature is judged non-ultimate teaching," concludes from it that "'permanent absence of lineage' is not a statement of ultimate principle," and argues that the determinate-lineage *śrāvaka* "must enter the remainderless before he can turn his mind" — i.e., even after entering the remainderless nirvāṇa, he still has the "three remainders" (the abode of ignorance, uncontaminated karma, the mind-made body), and he eventually turns toward the great.[^22]
 
 Together, the two routes provide a workable mediation: the prodigal can be read as **the indeterminate lineage** (the *Saṃgraha* route), or as **the determinate lineage who will eventually turn after entering the remainderless** (Fazang's route). Either way, the *Lotus*'s "gathering three into one" can coexist with Yogācāra's "five distinct lineages."
 
@@ -319,7 +321,7 @@ But this recognition is not easy. It involves twenty years of removing excrement
 
 For daily practice: do not affix lineage labels to yourself (whether "determinate" or "indeterminate"); do not suppress or affirm the mind of low station, only see it; do not expect rapid awakening, accept that twenty years is a reasonable order of magnitude; do not romanticize the removing of excrement, but do not abandon it because it is unromantic. The father is waiting.
 
-**Preview of S7-P05 — Medicinal Herbs Parable.** The Burning House handled skillful means (treating one as three), the Prodigal Son handled faith and understanding (treating three as one). The Medicinal Herbs Parable will handle a different dimension — *the differences within universal moistening*. One cloud rains, and great trees and small grasses each receive what they need: "the moistening pervades all; herbs, trees, and forests each receive their share." The core question of Medicinal Herbs is: **why does the same teaching produce different effects in different capacities? Is the difference a problem of the teaching or a problem of the capacity?** This question will push the lineage tension of §3.4 to a further level and open new space for treatment.
+**Preview of S7-P05 — Medicinal Herbs Parable.** The Burning House handled skillful means (treating one as three), the Prodigal Son handled faith and understanding (treating three as one). The Medicinal Herbs Parable will handle a different dimension — *the differences within universal moistening*. One cloud rains, and great trees and small grasses each receive what they need: "the moistening pervades all; herbs, trees, and forests... each receive their share." The core question of Medicinal Herbs is: **why does the same teaching produce different effects in different capacities? Is the difference a problem of the teaching or a problem of the capacity?** This question will push the lineage tension of §3.4 to a further level and open new space for treatment.
 
 ---
 
@@ -345,6 +347,7 @@ For daily practice: do not affix lineage labels to yourself (whether "determinat
 - *Cheng weishi lun* 成唯識論 (*Vijñaptimātratāsiddhi*), Dharmapāla et al., trans. Xuanzang. Taishō vol. 31, no. 1585.
 - *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), trans. Xuanzang. Taishō vol. 30, no. 1579.
 - *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), Asaṅga, trans. Paramārtha. Taishō vol. 31, no. 1593.
+- *Mahāyānasaṃgraha-bhāṣya* (*She dasheng lun shi* 攝大乘論釋), Vasubandhu, trans. Paramārtha. Taishō vol. 31, no. 1595.
 - *Dasheng fayuan yilin zhang* 大乘法苑義林章, Kuiji. Taishō vol. 45, no. 1861.
 
 ***Tathāgatagarbha* Texts:**
@@ -371,8 +374,8 @@ This paper does not cite modern secondary interpretive works.
 | 3 | *Lotus Treatise* (Bodhiruci) | T26 | 1519 | 2 |
 | 4 | *Lotus Treatise* (Ratnamati) | T26 | 1520 | 1 |
 | 5 | *Lotus Wenju* (Zhiyi) | T34 | 1718 | 6 |
-| 6 | *Lotus Xuanyi* (Zhiyi) | T33 | 1716 | 1 |
-| 7 | *Lotus Yishu* (Jizang) | T34 | 1721 | 7 |
+| 6 | *Lotus Xuanyi* (Zhiyi) | T33 | 1716 | 10 |
+| 7 | *Lotus Yishu* (Jizang) | T34 | 1721 | 3, 7 |
 | 8 | *Lotus Xuanzan* (Kuiji) | T34 | 1723 | 3, 6 |
 | 9 | *Cheng weishi lun* | T31 | 1585 | 10 |
 | 10 | *Yogācārabhūmi* | T30 | 1579 | 35 (*Lineage Chapter*) |
@@ -385,6 +388,7 @@ This paper does not cite modern secondary interpretive works.
 | 17 | *Awakening of Faith* | T32 | 1666 | (whole) |
 | 18 | *Dasheng Qixin Lun Yiji* (Fazang) | T44 | 1846 | 1 |
 | 19 | *Mahāparinirvāṇa-sūtra* | T12 | 0374 | *Tathāgata Nature* (via commentarial citations) |
+| 20 | *Mahāyānasaṃgraha-bhāṣya* (Vasubandhu, trans. Paramārtha) | T31 | 1595 | 15 (gloss on "for the determinate, the One Vehicle is taught") |
 
 ---
 
@@ -404,7 +408,7 @@ This paper does not cite modern secondary interpretive works.
 
 [^1]: *Saddharmapuṇḍarīkopadeśa*, fascicle 2, "the second is to be cured by the Prodigal Son parable: treating three as one, leading them into the Mahāyāna" (以三為一，令入大乘). Taishō vol. 26, no. 1519.
 
-[^2]: *Saddharmapuṇḍarīka*, fascicle 2, *Faith and Understanding* chapter, "we are today truly *śrāvakas*, causing all to hear the voice of the Buddha-path; we are today truly *arhats*" (我等今日真是聲聞，以佛道聲令一切聞). Taishō vol. 9, no. 0262. The four great disciples' self-disclosure that triggers the parable.
+[^2]: *Saddharmapuṇḍarīka*, fascicle 2, *Faith and Understanding* chapter, "we are now truly *śrāvakas*, causing all to hear the voice of the Buddha-path; we are now truly *arhats*" (我等今者真是聲聞，以佛道聲令一切聞). Taishō vol. 9, no. 0262. The four great disciples' self-disclosure that triggers the parable.
 
 [^3]: *Saddharmapuṇḍarīka*, fascicle 2, *Faith and Understanding* chapter, the complete five-stage narrative from "suppose there were a man who, while still young, abandoned his father and ran away" to "all that I now possess belongs to my son." Taishō vol. 9, no. 0262. All Prodigal Son citations in §2.1.1 are drawn from this passage.
 
@@ -418,7 +422,7 @@ This paper does not cite modern secondary interpretive works.
 
 [^8]: *Mahāparinirvāṇa-sūtra*, *Tathāgata Nature* chapter, complete Poor Woman's Treasure passage, "like a poor woman in whose house there is much pure gold, but neither she nor anyone in her household knows of it... the skillful one is the Tathāgata, the poor woman is all immeasurable sentient beings, and the gold treasure is buddha-nature" (善方便者即是如來，貧女即是一切無量眾生，真金藏者即佛性也). Taishō vol. 12, no. 0374. Cited via Kuiji, *Lotus Xuanzan*, fascicle 3 (T34, no. 1723), with cross-verification through Zhiyi's *Lotus Wenju* and Jizang's *Lotus Yishu*.
 
-[^9]: *Mahāparinirvāṇa-sūtra*, *Tathāgata Nature* chapter, complete Warrior's Forehead Jewel passage, "suppose there were a great warrior of the king's house with a diamond jewel in his forehead... the physician held up a mirror, and the warrior saw the jewel for himself" (醫令執鏡，乃自見珠). Taishō vol. 12, no. 0374. Cited via Fayun's *Fahua yiji*, fascicle 9 (T33, no. 1715) and Chengguan's *Huayan jing shuchao*, fascicle 79 (T36, no. 1736).
+[^9]: *Mahāparinirvāṇa-sūtra*, *Tathāgata Nature* chapter, complete Warrior's Forehead Jewel passage, "suppose there were a great warrior of the king's house with a diamond jewel in his forehead... the physician held up a mirror, and the warrior saw the jewel for himself" (醫令執鏡，乃自見珠). Taishō vol. 12, no. 0374. Cited via Zhanran's *Fahua xuanyi shiqian*, fascicle 9 (T33, no. 1717).
 
 [^10]: *Laṅkāvatāra-sūtra*, fascicle 2, "the *tathāgatagarbha*, intrinsically pure, possessing the thirty-two marks, enters into the bodies of all sentient beings — like a great priceless jewel wrapped in filthy garments" (如來藏自性清淨，轉三十二相，入於一切眾生身中，如大價寶，垢衣所纏). Taishō vol. 16, no. 0670; with parallel passage in *Ru lengqie jing* fascicle 3 (T16, no. 0671).
 
@@ -426,7 +430,7 @@ This paper does not cite modern secondary interpretive works.
 
 [^12]: Same as note 11.
 
-[^13]: *Miaofa lianhua jing wenju*, fascicle 6 (corresponding to fascicle 1 pt3–pt4), the five-subdivision structure and Five Flavors mapping. Taishō vol. 34, no. 1718. Cf. *Miaofa lianhua jing xuanyi*, fascicle 1, "great teaching tested on the son, the capacity is stunned... committing the family business to him, the destitute son rejoices and obtains what he had never had before" (T33, no. 1716).
+[^13]: *Miaofa lianhua jing wenju*, fascicle 6 (corresponding to fascicle 1 pt3–pt4), the five-subdivision structure and Five Flavors mapping. Taishō vol. 34, no. 1718. Cf. *Miaofa lianhua jing xuanyi*, fascicle 10, "great teaching tested on the son, the capacity is stunned... committing the family business to him, the destitute son rejoices and obtains what he had never had before" (T33, no. 1716).
 
 [^14]: *Fahua yishu*, fascicle 7, "the Burning House parable cures ordinary beings; the Prodigal Son parable rebukes the two-vehicle attachment" (火宅譬破於凡夫，明窮子譬斥二乘人執), and "the [father] sending the messenger represents the One Vehicle real teaching; the secret sending of the two represents the expedient teaching... the elder on the lion throne represents the original body; the removal of fine garments and donning of filthy clothing represents the apparitional body" — the two-teachings, two-bodies analysis. Taishō vol. 34, no. 1721.
 
@@ -436,9 +440,9 @@ This paper does not cite modern secondary interpretive works.
 
 [^17]: *Miaofa lianhua jing xuanzan*, fascicle 6, the twenty years mapped to the preparatory and uninterrupted paths; "growing up" mapped to the maturing of the practice-lineage; the technical Yogācāra mappings. Taishō vol. 34, no. 1723.
 
-[^18]: *Miaofa lianhua jing xuanzan*, fascicle 3, "the *Mahāparinirvāṇa* says: by excavating the gold-treasure, [the Buddha] reveals to all sentient beings the treasure of awakening" (《涅槃》云：掘出金藏故，普示眾生諸覺寶藏). Kuiji's cross-citation linking the Prodigal Son and the Poor Woman's Treasure. Taishō vol. 34, no. 1723.
+[^18]: *Fahua yishu*, fascicle 3, "as the *Nirvāṇa* says, 'by excavating the gold-treasure, [the Buddha] reveals to all sentient beings the treasure of awakening'; therefore it is called showing" (如《涅槃》云『掘出金藏故，普示眾生諸覺寶藏』，故名示也). Jizang cites the *Mahāparinirvāṇa*'s Poor Woman's Treasure while glossing "showing" in "opening, showing, awakening, entering"; reading this citation as a link between the Prodigal Son and the Poor Woman's Treasure is the author's interpretation. Taishō vol. 34, no. 1721.
 
-[^19]: *Mahāyānasaṃgraha* (Paramārtha), fascicle 3, the One Vehicle verse: "for the indeterminate *śrāvakas* and the other bodhisattvas, the One Vehicle is taught to draw them into the Mahāyāna; for the determinate, the One Vehicle is taught only in the ultimate sense" (未定性聲聞，及諸餘菩薩，於大乘引攝，定性說一乘). Taishō vol. 31, no. 1593.
+[^19]: *Mahāyānasaṃgraha* (Paramārtha), fascicle 3, the One Vehicle verse: "for the indeterminate *śrāvakas* and the other bodhisattvas, the One Vehicle is taught to draw them into the Mahāyāna; for the determinate, the One Vehicle is taught" (未定性聲聞，及諸餘菩薩，於大乘引攝，定性說一乘). Taishō vol. 31, no. 1593. Vasubandhu's commentary, trans. Paramārtha, fascicle 15: "The treatise says: for the determinate, the One Vehicle is taught. The commentary says: there are bodhisattvas whose Mahāyāna faculty-nature is already fixed, with no thought of regressing or turning elsewhere; for these bodhisattvas the One Vehicle is taught" (論曰：定性說一乘。釋曰：有諸菩薩於大乘根性已定，無退異意，為此菩薩故說一乘). Taishō vol. 31, no. 1595.
 
 [^20]: *Dasheng fayuan yilin zhang*, fascicle 1 (*Vehicles Chapter*), "the *Lotus* assembly addresses the indeterminate, with the two-vehicles as expedient and the One Vehicle as real... the *Lotus*'s One Vehicle, taught only in dependence on those with lineage, is itself expedient" (法花一會對不定機，以二為方便，一乘為真實……又法花一乘唯談有性為依，故是方便). Kuiji's classification of the *Lotus* as "expedient teaching to the indeterminate audience." Taishō vol. 45, no. 1861.
 
