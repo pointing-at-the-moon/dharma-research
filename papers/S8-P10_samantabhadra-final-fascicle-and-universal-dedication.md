@@ -242,13 +242,13 @@ The table below is fully synchronized with S8-P11 §3.11.乙, and functions as t
 |---|---|---|---|
 | 1 | Reverence to all Buddhas | Simultaneous Complete Correspondence | A single prostration is at once a prostration to all Buddhas of the ten directions and the three times |
 | 2 | Praise of the Tathāgatas | Unobstructed Freedom of Broad and Narrow | A single phrase of praise gathers boundless merit |
-| 3 | Extensive Offerings | Mutual Inclusion of One and Many | A single stick of incense is every stick of incense; a single flower is every flower |
-| 4 | Repentance of Karmic Obstructions | Mutual Identity and Freedom of All Dharmas | The nature of transgression is empty; karmic obstruction is bodhi |
-| 5 | Rejoicing in Merit | Hidden and Manifest Jointly Establishing | Self's merit and others' merit mutually hide and reveal, yet are established simultaneously |
-| 6 | Requesting the Turning of the Dharma-Wheel | Subtle Mutual Containment and Establishment | A single request gathers every turning of the Dharma-wheel across the three times |
-| 7 | Requesting the Buddhas to Remain in the World | The Realm of Indra's Net | The Buddhas inter-contain and inter-penetrate — one abiding is every abiding |
-| 8 | Constantly Following the Buddha's Learning | Revealing Dharma through Phenomena | Following a single event, a single practice, the whole of Buddha-virtue is seen |
-| 9 | Ever Accord with Sentient Beings | Host and Retinue Perfectly Illuminating All Virtues | Every sentient being is a fully perfect node in the host-retinue mutual inclusion |
+| 3 | Extensive Offerings | Mutual Identity and Freedom of All Dharmas | A single stick of incense is every offering |
+| 4 | Repentance of Karmic Obstructions | Hidden and Manifest Jointly Establishing | The nature of obstruction is empty, the phenomenal mark vivid, both established |
+| 5 | Rejoicing in Merit | Host and Retinue Perfectly Illuminating All Virtues | The one who rejoices is at once complete in the full virtue of the one rejoiced in |
+| 6 | Requesting the Turning of the Dharma-Wheel | The Realm of Indra's Net | A single request gathers every request across the ten directions |
+| 7 | Requesting the Buddhas to Remain in the World | Subtle Mutual Containment and Establishment | Thought after thought, a Buddha is always attaining perfect awakening |
+| 8 | Constantly Following the Buddha's Learning | Mutual Inclusion of One and Many | Learning from one Buddha is learning from all Buddhas |
+| 9 | Ever Accord with Sentient Beings | Revealing Dharma through Phenomena | Every encounter is the dharma-realm disclosing itself |
 | 10 | Universal Dedication | Distinct Completion of Dharmas Across the Ten Times | The three times fold into a single thought; the directional sense of dedication dissolves |
 
 All ten interlock. Not one requires a forced pairing, and not one is left over.

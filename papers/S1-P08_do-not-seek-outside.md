@@ -185,7 +185,7 @@ This teaching is not the idiosyncratic view of one school or one tradition. From
 | Kāśyapa Chapter 迦葉品 (cited by Nāgārjuna) | Seek liberation within the afflictions, not from outside[^13] |
 | Chan (Sixth Patriarch) | Bodhi is sought only within the mind; why labor to seek the profound outside?[^14] |
 | Chan (Mazu) | The very one who is asking me right now—that is your treasury. Everything is already complete; why seek externally?[^15] |
-| Chan (Linji) | The sickness lies in lack of self-trust; because you do not trust yourself enough, you rush outward seeking[^16] |
+| Chan (Linji) | The sickness lies in lack of self-trust … when students do not trust enough, they rush outward seeking[^16] |
 
 Linji's diagnosis is the most precise: the root cause of seeking externally is **lack of self-trust**—you do not believe that you are already complete, so you go looking outside.
 
