@@ -250,7 +250,7 @@ This paper has demonstrated the positive path of skillful use. But does skillful
 7. *Yogācārabhūmi Śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, tr. Xuanzang, Taishō vol. 30, no. 1579.
 8. *Vijñaptimātratāsiddhi* / *Cheng Weishi Lun* (《成唯識論》), by Dharmapāla et al., tr. Xuanzang, Taishō vol. 31, no. 1585.
 9. *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), by Asaṅga, tr. Buddhaśānta, Taishō vol. 31, no. 1592.
-10. *Jǐngdé Chuándēng Lù* (《景德傳燈錄》), comp. Daoyuan, Taishō vol. 51, no. 2076.
+10. *Jingde Chuandeng Lu* (《景德傳燈錄》), comp. Daoyuan, Taishō vol. 51, no. 2076.
 
 ### II. Sūtra & Śāstra Index
 

@@ -443,11 +443,11 @@ If your answer has changed from before you read this paper — the paper has ser
 
 ### I. Primary Buddhist Sources
 
-1. *Dà Fódǐng Shǒuléngyán Jīng* 大佛頂首楞嚴經 (*Śūraṅgama Sūtra*). Trans. Pāramiti (般剌蜜帝). Taishō vol. 19, no. 0945.
-2. *Shǒuléngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (*Śūraṅgama Commentary*). Zixuan 子璿. Taishō vol. 39, no. 1799.
-3. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (*True Pulse Commentary*). Jiaokuang Zhenjian 交光真鑑. X12, No. 0275.
-4. *Chéng Wéishí Lùn* 成唯識論 (*Vijñaptimātratāsiddhi*). Dharmapāla et al., trans. Xuanzang 玄奘. Taishō vol. 31, no. 1585.
-5. *Liùzǔ Dàshī Fǎbǎo Tán Jīng* 六祖大師法寶壇經 (*Platform Sūtra*). Ed. Zongbao 宗寶. Taishō vol. 48, no. 2008.
+1. *Da Foding Shoulengyan Jing* 大佛頂首楞嚴經 (*Śūraṅgama Sūtra*). Trans. Pāramiti (般剌蜜帝). Taishō vol. 19, no. 0945.
+2. *Shoulengyan Yishu Zhujing* 首楞嚴義疏注經 (*Śūraṅgama Commentary*). Zixuan 子璿. Taishō vol. 39, no. 1799.
+3. *Da Foding Shoulengyan Jing Zhengmai Shu* 大佛頂首楞嚴經正脈疏 (*True Pulse Commentary*). Jiaokuang Zhenjian 交光真鑑. X12, No. 0275.
+4. *Cheng Weishi Lun* 成唯識論 (*Vijñaptimātratāsiddhi*). Dharmapāla et al., trans. Xuanzang 玄奘. Taishō vol. 31, no. 1585.
+5. *Liuzu Dashi Fabao Tan Jing* 六祖大師法寶壇經 (*Platform Sūtra*). Ed. Zongbao 宗寶. Taishō vol. 48, no. 2008.
 
 ### II. Modern Scholarship
 

@@ -433,11 +433,11 @@ Cross. Ferry others across. To the other shore. Everyone together to the other s
 
 *Prajñāpāramitāhṛdaya-sūtra Youzan* (*Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊). By Kuiji. Taishō vol. 33, no. 1710.
 
-*Prajñāhṛdaya-sūtra-zàn* (*Bore xinjing zan* 般若心經贊). By Woncheuk. Taishō vol. 33, no. 1711.
+*Prajñāhṛdaya-sūtra-zan* (*Bore xinjing zan* 般若心經贊). By Woncheuk. Taishō vol. 33, no. 1711.
 
-*Prajñāpāramitāhṛdaya-sūtra Lüèshū* (*Bore boluomiduo xinjing lüeshu* 般若波羅蜜多心經略疏). By Fazang. Taishō vol. 33, no. 1712.
+*Prajñāpāramitāhṛdaya-sūtra Lüeshu* (*Bore boluomiduo xinjing lüeshu* 般若波羅蜜多心經略疏). By Fazang. Taishō vol. 33, no. 1712.
 
-*Xīnjīng Zhùjiě* (心經註解). Taishō vol. 33, no. 1714.
+*Xinjing Zhujie* (心經註解). Taishō vol. 33, no. 1714.
 
 ### III. Modern Scholarship
 

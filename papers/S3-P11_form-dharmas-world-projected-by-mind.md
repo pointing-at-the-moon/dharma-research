@@ -289,7 +289,7 @@ The Yogācāra definition of the five faculties centers on the "refined material
 
 > "The eye is a refined materiality derived from the four great elements, the support of eye-consciousness, invisible, offering resistance."[^47]
 
-The *Pañcaskandhaka-prakaraṇa* (*Dàchéng Wǔyùn Lùn*) provides an even more concise, uniform definition for all five:
+The *Pañcaskandhaka-prakaraṇa* (*Dàshèng Wǔyùn Lùn*) provides an even more concise, uniform definition for all five:
 
 > "What is the eye-faculty? Form-as-object refined materiality. What is the ear-faculty? Sound-as-object refined materiality. What is the nose-faculty? Fragrance-as-object refined materiality. What is the tongue-faculty? Taste-as-object refined materiality. What is the body-faculty? Touch-as-object refined materiality."[^48]
 
@@ -617,7 +617,7 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 12. *Pañcaskandhaka-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1612.
 13. *Abhidharmasamuccaya* (*Dasheng apidamo ji lun* 大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, Taishō vol. 31, no. 1605.
 14. *Abhidharmasamuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論), by Sthiramati, trans. Xuanzang, Taishō vol. 31, no. 1606.
-15. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai (Ming), Taishō vol. 45, no. 1865.
+15. *Bashi Guiju Buzhu* (八識規矩補註), annotated by Putai (Ming), Taishō vol. 45, no. 1865.
 16. *Daśabhūmika-sūtra-śāstra* (*Shidi jing lun* 十地經論), by Vasubandhu, trans. Bodhiruci, Taishō vol. 26, no. 1522.
 
 ### II. Modern Scholarship

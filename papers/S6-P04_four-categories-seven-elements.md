@@ -363,13 +363,13 @@ The way home is not a single road. Twenty-five great ones each found their own d
 
 ### I. Primary Buddhist Sources
 
-1. *Dà Fódǐng Shǒuléngyán Jīng* 大佛頂首楞嚴經 (Śūraṅgama Sūtra), trans. Pāramiti (般剌蜜帝), Taishō vol. 19, no. 0945.
-2. *Shǒuléngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (Commentary on the Śūraṅgama), Zǐxuán 子璿, Taishō vol. 39, no. 1799.
-3. *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 大佛頂首楞嚴經正脈疏 (Orthodox Lineage Commentary on the Śūraṅgama), Jiāoguāng Zhēnjiàn 交光真鑑, X12, No. 275.
-4. *Bōrě Bōluómìduō Xīnjīng* 般若波羅蜜多心經 (Heart Sūtra), trans. Xuánzàng 玄奘, Taishō vol. 8, no. 0251.
-5. *Rù Lèngqié Jīng* 入楞伽經 (Laṅkāvatāra Sūtra), trans. Bodhiruci (菩提流支), Taishō vol. 16, no. 0671.
-6. *Lèngqié Ābáduōluó Bǎo Jīng* 楞伽阿跋多羅寶經 (Laṅkāvatāra Sūtra), trans. Guṇabhadra (求那跋陀羅), Taishō vol. 16, no. 0670.
-7. *Dà Fāngguǎng Fó Huáyán Jīng* 大方廣佛華嚴經 (Avataṃsaka Sūtra, 80 fasc.), trans. Śikṣānanda (實叉難陀), Taishō vol. 10, no. 0279.
+1. *Da Foding Shoulengyan Jing* 大佛頂首楞嚴經 (Śūraṅgama Sūtra), trans. Pāramiti (般剌蜜帝), Taishō vol. 19, no. 0945.
+2. *Shoulengyan Yishu Zhujing* 首楞嚴義疏注經 (Commentary on the Śūraṅgama), Zixuan 子璿, Taishō vol. 39, no. 1799.
+3. *Da Foding Shoulengyan Jing Zhengmai Shu* 大佛頂首楞嚴經正脈疏 (Orthodox Lineage Commentary on the Śūraṅgama), Jiaoguang Zhenjian 交光真鑑, X12, No. 275.
+4. *Bore Boluomiduo Xinjing* 般若波羅蜜多心經 (Heart Sūtra), trans. Xuanzang 玄奘, Taishō vol. 8, no. 0251.
+5. *Ru Lengqie Jing* 入楞伽經 (Laṅkāvatāra Sūtra), trans. Bodhiruci (菩提流支), Taishō vol. 16, no. 0671.
+6. *Lengqie Abaduoluo Bao Jing* 楞伽阿跋多羅寶經 (Laṅkāvatāra Sūtra), trans. Guṇabhadra (求那跋陀羅), Taishō vol. 16, no. 0670.
+7. *Da Fangguang Fo Huayan Jing* 大方廣佛華嚴經 (Avataṃsaka Sūtra, 80 fasc.), trans. Śikṣānanda (實叉難陀), Taishō vol. 10, no. 0279.
 
 ### II. Modern Scholarship
 

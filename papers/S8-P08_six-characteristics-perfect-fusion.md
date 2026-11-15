@@ -166,7 +166,7 @@ On the respective sources of the Ten Profound Gates and the six characteristics 
 
 Fazang (法藏, 643–712), the third patriarch of the Huayan school, known as Master Xianshou (賢首), treats the six characteristics in three works:
 
-- The *Huáyán yī chéng jiào yì fēn qí zhāng* 華嚴一乘教義分齊章 (commonly cited as the *Huáyán wǔjiào zhāng* 華嚴五教章), T1866 fascicle four, "the fourth: the meaning of the six characteristics in perfect fusion"—the principal source for §3.3, containing the complete three-gate structure (enumeration of the names with brief glosses; statement of the discursive intention; question-and-answer exposition), the house-and-rafter parable, the eternalism-and-nihilism exclusion procedure, the eight-line summary verse, the culminating "first-aspiration-equals-enlightenment" sentence, and the foundational "six meanings rest on self-nature; six characteristics rest on modal-aspect" distinction.
+- The *Huáyán yī shèng jiào yì fēn qí zhāng* 華嚴一乘教義分齊章 (commonly cited as the *Huáyán wǔjiào zhāng* 華嚴五教章), T1866 fascicle four, "the fourth: the meaning of the six characteristics in perfect fusion"—the principal source for §3.3, containing the complete three-gate structure (enumeration of the names with brief glosses; statement of the discursive intention; question-and-answer exposition), the house-and-rafter parable, the eternalism-and-nihilism exclusion procedure, the eight-line summary verse, the culminating "first-aspiration-equals-enlightenment" sentence, and the foundational "six meanings rest on self-nature; six characteristics rest on modal-aspect" distinction.
 - The *Huáyán jīng tànxuán jì* 華嚴經探玄記 T1733 fascicles three and nine—a six-gate structural exegesis of the six characteristics, including the distinctive placement of the six characteristics as one of three kinds of skillful means (the *gathering-and-establishing skillful means*, *jí chéng fāng biàn* 集成方便, alongside the *initiating skillful means* and the *non-abiding skillful means*).
 - The *Huáyán jīn shīzi zhāng* 華嚴金師子章 T1880, fascicle one—the golden-lion parable as the most concise demonstration of the six characteristics, paired with the house-and-rafter parable in T1866 to form the two classic demonstrations. (The *Huáyán jīng yìhǎi bǎi mén* 華嚴經義海百門 T1875 treats the six characteristics separately, in its "revealing the six characteristics" gate, through the *dust-mote* rather than the golden lion; see [^28].)
 
@@ -239,7 +239,7 @@ In other words, "formation" and "decay" in Vasubandhu are not the *temporal oppo
 
 ### 3.2 The Sui-Tang Transition: Zhiyan's Application-Layer Treatment
 
-Zhiyan is the second patriarch of the Huayan school (602–668), the bridge between Du Shun and Fazang and the pivotal mediating figure as the school's doctrine moved from inception to maturity. Zhiyan's principal work is on the Ten Profound Gates—he composed the *Huáyán yī chéng shíxuán mén* 華嚴一乘十玄門 (T1868), completing the systematization of the school's most central doctrinal channel. With respect to the six characteristics, however, Zhiyan's treatment remains at the application layer rather than the construction layer.
+Zhiyan is the second patriarch of the Huayan school (602–668), the bridge between Du Shun and Fazang and the pivotal mediating figure as the school's doctrine moved from inception to maturity. Zhiyan's principal work is on the Ten Profound Gates—he composed the *Huáyán yī shèng shíxuán mén* 華嚴一乘十玄門 (T1868), completing the systematization of the school's most central doctrinal channel. With respect to the six characteristics, however, Zhiyan's treatment remains at the application layer rather than the construction layer.
 
 #### 3.2.1 Documentary Evidence: How Zhiyan Uses the Six Characteristics
 
@@ -864,7 +864,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 [^18]: 《華嚴經金師子章雲間類解》T1880 fascicle 1. Same as footnote [^11]; here cited for the fuller context of the historical verdict.
 
-[^19]: 《華嚴一乘教義分齊章》, *Huáyán yī chéng jiào yì fēn qí zhāng* (commonly cited as the *Huáyán wǔjiào zhāng* 華嚴五教章), composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1866, fascicle 4. The opening passage of the house-and-rafter parable in the "question-and-answer exposition" gate of the "Six Characteristics in Perfect Fusion" chapter.
+[^19]: 《華嚴一乘教義分齊章》, *Huáyán yī shèng jiào yì fēn qí zhāng* (commonly cited as the *Huáyán wǔjiào zhāng* 華嚴五教章), composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1866, fascicle 4. The opening passage of the house-and-rafter parable in the "question-and-answer exposition" gate of the "Six Characteristics in Perfect Fusion" chapter.
 
 [^20]: Ibid., T1866 fascicle 4, distinction passage.
 
@@ -902,7 +902,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 #### Sūtras
 
-- 《大方廣佛華嚴經》(eighty-fascicle *Avataṃsaka*), *Dà fāng guǎng fó huáyán jīng*, translated by Śikṣānanda of Khotan during the Tang dynasty, Taishō vol. 10, no. 0279.
+- 《大方廣佛華嚴經》(eighty-fascicle *Avataṃsaka*), *Da fang guang fo huayan jing*, translated by Śikṣānanda of Khotan during the Tang dynasty, Taishō vol. 10, no. 0279.
 - 《大方廣佛華嚴經》(sixty-fascicle *Avataṃsaka*), translated by Buddhabhadra of India during the Eastern Jin dynasty, Taishō vol. 9, no. 0278.
 - 《十地經》, *Daśabhūmika-sūtra* (Sanskrit; the Chinese version is preserved within the scriptural portion of Taishō vol. 26, no. 1522).
 #### Indian Commentaries
@@ -911,7 +911,7 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 #### Chinese Patriarchal Commentaries
 
-- 《華嚴一乘教義分齊章》(*Huáyán wǔjiào zhāng*), composed by Fazang of the Tang dynasty, Taishō vol. 45, no. 1866.
+- 《華嚴一乘教義分齊章》(*Huayan wujiao zhang*), composed by Fazang of the Tang dynasty, Taishō vol. 45, no. 1866.
 - 《華嚴經探玄記》, composed by Fazang of the Tang dynasty, Taishō vol. 35, no. 1733.
 - 《華嚴金師子章》, composed by Fazang of the Tang dynasty, Taishō vol. 45, no. 1880.
 - 《華嚴經金師子章註》, composed by Fazang of the Tang dynasty, annotated by Chengqian of the Song dynasty, Taishō vol. 45, no. 1881.
@@ -937,7 +937,7 @@ The present paper is grounded primarily in the primary sources and does not draw
 | *Huáyán jīng shū* | 華嚴經疏 | T1735 | composed by Chengguan |
 | *Yǎnyì chāo* | 華嚴經隨疏演義鈔 | T1736 | composed by Chengguan |
 | *Wǔjiào zhāng* | 華嚴一乘教義分齊章 | T1866 | composed by Fazang |
-| *Yī chéng shíxuán mén* | 華嚴一乘十玄門 | T1868 | attributed to Du Shun and Zhiyan |
+| *Yī shèng shíxuán mén* | 華嚴一乘十玄門 | T1868 | attributed to Du Shun and Zhiyan |
 | *Huáyán jīng wèndá* | 華嚴經問答 | T1873 | Taishō byline: Fazang; attributed by this paper to Zhiyan |
 | *Jīn shīzi zhāng* | 華嚴金師子章 (no independent Taishō number; carried in T1880/T1881) | T1880 | composed by Fazang |
 | *Jīn shīzi zhāng zhù* | 華嚴經金師子章註 | T1881 | Fazang, annotated by Chengqian |

@@ -410,11 +410,11 @@ The present paper closes here.
 
 ### Treatises and Commentaries
 
-- Fazang, *Huayan yīshèng jiàoyì fēnqí zhāng* (*Wǔjiào zhāng*), Taishō vol. 45, no. 1866.
-- Fazang, *Huayan jīng tànxuán jì*, Taishō vol. 35, no. 1733.
-- Fazang, *Xiū huayan àozhǐ wàngjǐn huányuán guān*, Taishō vol. 45, no. 1876.
-- Chengguan, *Dàfāngguǎng fó huayan jīng suí shū yǎnyì chāo*, Taishō vol. 36, no. 1736.
-- Jingyuan, *Jīn shīzǐ zhāng yúnjiān lèijiě*, Taishō vol. 45, no. 1880.
+- Fazang, *Huayan yisheng jiaoyi fenqi zhang* (*Wujiao zhang*), Taishō vol. 45, no. 1866.
+- Fazang, *Huayan jing tanxuan ji*, Taishō vol. 35, no. 1733.
+- Fazang, *Xiu huayan aozhi wangjin huanyuan guan*, Taishō vol. 45, no. 1876.
+- Chengguan, *Dafangguang fo huayan jing sui shu yanyi chao*, Taishō vol. 36, no. 1736.
+- Jingyuan, *Jin shizi zhang yunjian leijie*, Taishō vol. 45, no. 1880.
 
 ---
 

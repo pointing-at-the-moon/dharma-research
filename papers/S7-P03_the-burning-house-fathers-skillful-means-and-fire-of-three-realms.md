@@ -42,7 +42,7 @@ The Burning House metaphor does not begin with the Mahāyāna. Already in the ea
 
 Three structural features deserve marking. **First**, the Buddha's "all is burning" is not a generalized lament about worldly suffering. It is a precise inventory laid out across the complete framework of the six internal sense-bases, six external objects, six consciousnesses, six contacts, and six feelings. Fire is located at every node of the cognitive apparatus. **Second**, the causes of the burning are exactly identified: greed, hatred, and delusion (*rāga*, *dveṣa*, *moha* — the three poisons), supplemented by the existential burning of birth, aging, sickness, and death. **Third**, and most crucially, the audience for this sermon is the thousand "matted-hair brahmins" who had until that moment been *fire-worshippers* — the followers of Uruvilvā-kāśyapa, whose religious practice had centered on the maintenance of sacred fire. The Buddha's choice of metaphor is not arbitrary. He preached *the fire of the senses* to people whose entire spiritual life had been organized around *the fire of the altar*. The metaphor was a precision instrument: it asked them to turn from the fire they tended to the fire they were. The text closes: "Then the thousand bhikṣus, hearing what the Buddha had said, gave rise to no further outflows; their minds attained liberation."[^4]
 
-The historical depth of this conversion is preserved in a verse from the *Aitareya Saṃyukta* (*Bieyi-zayan-han*, T0100), where Kāśyapa himself confesses: "I was once exceedingly foolish, not recognizing the truth; I performed fire-sacrifices and ascetic torments, and called these the cause of liberation. Like a man born blind who cannot see the path of liberation."[^5] His former practice — fire-worship — is described as the blindness that mistakes the cause for the cure. True liberation, the verse implies, lies precisely in seeing that *one is oneself the fire*.
+The historical depth of this conversion is preserved in a verse from the *Aitareya Saṃyukta* (*Bieyi za ahan*, T0100), where Kāśyapa himself confesses: "I was once exceedingly foolish, not recognizing the truth; I performed fire-sacrifices and ascetic torments, and called these the cause of liberation. Like a man born blind who cannot see the path of liberation."[^5] His former practice — fire-worship — is described as the blindness that mistakes the cause for the cure. True liberation, the verse implies, lies precisely in seeing that *one is oneself the fire*.
 
 The "all is burning" metaphor is not isolated within the early canon. The series of sūtras 175–185 of the seventh fascicle of the *Saṃyukta-āgama* — the so-called "Hair-on-Fire" group — uses the figure "as a man whose hair and clothes have caught fire, what should he do?" as the opening trope, and applies it sequentially to the four foundations of mindfulness, the four right efforts, the five faculties, the five powers, the seven factors of awakening, the noble eightfold path, and the four noble truths. Each is presented as urgent precisely because of "the fire of impermanence."[^6] Sūtra 286 of fascicle twelve develops the image of a great fire heaped with ever more dry grass and firewood, directly linking the twelve-link chain of dependent arising — "craving conditions clinging, clinging conditions becoming" — to "fire continuing to blaze through the long night."[^7] Fascicle thirty-one lists among the synonyms of nirvāṇa "free of blazing flame, free of burning."[^8] This last is structurally important: the literal meaning of *nirvāṇa* is *the extinguishing of fire*. Fire is not a literary flourish in the early canon; it is the core metaphor for the nature of saṃsāric existence itself.
 
@@ -270,7 +270,7 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 - *Saddharmapuṇḍarīka-sūtra* (妙法蓮華經), trans. Kumārajīva, T. 9, no. 0262.
 - *Zhengfahua jing* (正法華經), trans. Dharmarakṣa, T. 9, no. 0263.
 - *Saṃyukta-āgama* (雜阿含經), trans. Guṇabhadra, T. 2, no. 0099.
-- *Bieyi-zayan-han jing* (別譯雜阿含經), translator unknown, T. 2, no. 0100.
+- *Bieyi za ahan jing* (別譯雜阿含經), translator unknown, T. 2, no. 0100.
 - *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍), Vasubandhu, trans. Bodhiruci, T. 26, no. 1519.
 - *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經論優波提舍), Vasubandhu, trans. Ratnamati, T. 26, no. 1520.
 - *Fahua wenju* (妙法蓮華經文句), Zhiyi, T. 34, no. 1718.
@@ -296,7 +296,7 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 | *Saddharmapuṇḍarīka-sūtra* 妙法蓮華經 | T0262 | §2.1b, §3 (all), §5 |
 | *Zhengfahua jing* 正法華經 | T0263 | §2.1b (collation) |
 | *Saṃyukta-āgama* 雜阿含經 | T0099 | §2.1a, §3.2 |
-| *Bieyi-zayan-han jing* 別譯雜阿含經 | T0100 | §2.1a |
+| *Bieyi za ahan jing* 別譯雜阿含經 | T0100 | §2.1a |
 | *Saddharmapuṇḍarīka-upadeśa* 妙法蓮華經憂波提舍 | T1519 | §2.2a, §3.6 |
 | *Saddharmapuṇḍarīka-upadeśa* 妙法蓮華經論優波提舍 | T1520 | §2.2a |
 | *Fahua wenju* 妙法蓮華經文句 | T1718 | §3.1, §3.4 |
@@ -328,7 +328,7 @@ To read the Burning House parable rightly is not to grasp the metaphor "the worl
 
 [^4]: Ibid.
 
-[^5]: *Bieyi-zayan-han jing*, fascicle 1, T. 2, no. 0100. Uruvilvā-kāśyapa was the leader of a group of fire-worshipping ascetics whose mass conversion to the Buddha is recounted in the *Mahāvagga* of the Pali Vinaya and in multiple Chinese Āgama sources. The Fire Sermon was preached at Gayāśīrṣa shortly after this conversion.
+[^5]: *Bieyi za ahan jing*, fascicle 1, T. 2, no. 0100. Uruvilvā-kāśyapa was the leader of a group of fire-worshipping ascetics whose mass conversion to the Buddha is recounted in the *Mahāvagga* of the Pali Vinaya and in multiple Chinese Āgama sources. The Fire Sermon was preached at Gayāśīrṣa shortly after this conversion.
 
 [^6]: *Saṃyukta-āgama*, fascicle 7, sūtras 175–185, T. 2, no. 0099, pp. 46–47. The "hair-on-fire" series links the urgency of practice — across the four foundations of mindfulness, the four right efforts, the five faculties, the five powers, the seven factors of awakening, the noble eightfold path, and the four noble truths — to "the fire of impermanence."
 

@@ -359,44 +359,44 @@ This paper provides the "general account." Next, S2-P05 will proceed to the "det
 
 ## References
 
-### 一、佛教原典 Primary Buddhist Sources
+### I. Primary Buddhist Sources
 
-《雜阿含經》，求那跋陀羅譯，《大正藏》第2冊，No. 0099。
+*Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), translated by Guṇabhadra, Taishō vol. 2, no. 0099.
 
-《中阿含經》，瞿曇僧伽提婆譯，《大正藏》第1冊，No. 0026。
+*Madhyama Āgama* (*Zhong ahan jing* 中阿含經), translated by Gautama Saṅghadeva, Taishō vol. 1, no. 0026.
 
-《長阿含經》，佛陀耶舍共竺佛念譯，《大正藏》第1冊，No. 0001。
+*Dīrgha Āgama* (*Chang ahan jing* 長阿含經), translated by Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
 
-《增壹阿含經》，瞿曇僧伽提婆譯，《大正藏》第2冊，No. 0125。
+*Ekottara Āgama* (*Zengyi ahan jing* 增壹阿含經), translated by Gautama Saṅghadeva, Taishō vol. 2, no. 0125.
 
-《金剛般若波羅蜜經》，鳩摩羅什譯，《大正藏》第8冊，No. 0235。
+*Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), translated by Kumārajīva, Taishō vol. 8, no. 0235.
 
-《大智度論》，龍樹菩薩造，鳩摩羅什譯，《大正藏》第25冊，No. 1509。
+*Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), composed by Nāgārjuna Bodhisattva, translated by Kumārajīva, Taishō vol. 25, no. 1509.
 
-《成唯識論》，護法等菩薩造，唐玄奘譯，《大正藏》第31冊，No. 1585。
+*Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論), composed by Dharmapāla and other bodhisattvas, translated by Xuanzang (Tang), Taishō vol. 31, no. 1585.
 
-窺基《般若波羅蜜多心經幽贊》，《大正藏》第33冊，No. 1710。
+Kuiji 窺基, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, no. 1710.
 
-圓測《般若波羅蜜多心經贊》，《大正藏》第33冊，No. 1711。
+Woncheuk 圓測, *Prajñāpāramitā-hṛdaya-sūtra Zan* 《般若波羅蜜多心經贊》, Taishō vol. 33, no. 1711.
 
-### 二、現代學術著作 Modern Scholarship
+### II. Modern Scholarship
 
 Clark, A. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36(3), 2013.
 
 Hohwy, J. *The Predictive Mind*. Oxford University Press, 2013.
 
-### 三、經論索引 Sūtra & Śāstra Index
+### III. Sūtra & Śāstra Index
 
 | No. | Title | Taishō Vol. | No. | Fascicles Cited |
 |-----|-------|-------------|------|-----------------|
-| 1 | 雜阿含經 | T2 | No. 0099 | 卷3、6、10、12、15、24、26、29 |
-| 2 | 中阿含經 | T1 | No. 0026 | 卷7、54 |
-| 3 | 長阿含經 | T1 | No. 0001 | 卷2、8 |
-| 4 | 金剛般若波羅蜜經 | T8 | No. 0235 | 卷1 |
-| 5 | 大智度論 | T25 | No. 1509 | 卷6、29、69 |
-| 6 | 成唯識論 | T31 | No. 1585 | 卷3、9 |
-| 7 | 般若波羅蜜多心經幽贊 | T33 | No. 1710 | 卷2 |
-| 8 | 般若波羅蜜多心經贊 | T33 | No. 1711 | 卷1 |
+| 1 | *Saṃyukta Āgama* 雜阿含經 | T2 | No. 0099 | fasc. 3, 6, 10, 12, 15, 24, 26, 29 |
+| 2 | *Madhyama Āgama* 中阿含經 | T1 | No. 0026 | fasc. 7, 54 |
+| 3 | *Dīrgha Āgama* 長阿含經 | T1 | No. 0001 | fasc. 2, 8 |
+| 4 | *Vajracchedikā Prajñāpāramitā Sūtra* 金剛般若波羅蜜經 | T8 | No. 0235 | fasc. 1 |
+| 5 | *Mahāprajñāpāramitā-śāstra* 大智度論 | T25 | No. 1509 | fasc. 6, 29, 69 |
+| 6 | *Vijñaptimātratāsiddhi* 成唯識論 | T31 | No. 1585 | fasc. 3, 9 |
+| 7 | *Prajñāpāramitā-hṛdaya-sūtra Youzan* 般若波羅蜜多心經幽贊 | T33 | No. 1710 | fasc. 2 |
+| 8 | *Prajñāpāramitā-hṛdaya-sūtra Zan* 般若波羅蜜多心經贊 | T33 | No. 1711 | fasc. 1 |
 
 ---
 
@@ -415,61 +415,61 @@ Hohwy, J. *The Predictive Mind*. Oxford University Press, 2013.
 
 ## Footnotes
 
-[^1]: Perception-aggregate (saṃjñā): its nature is apprehending characteristics; its function is to discriminate and conceptualize with respect to objects. See *Chéng Wéishí Lùn* fascicle 3: "Perception means apprehending images with respect to objects as its nature." 《大正藏》第31冊，No. 1585。
+[^1]: Perception-aggregate (saṃjñā): its nature is apprehending characteristics; its function is to discriminate and conceptualize with respect to objects. See *Chéng Wéishí Lùn* fascicle 3: "Perception means apprehending images with respect to objects as its nature." Taishō vol. 31, no. 1585.
 
-[^2]: *Saṃyukta Āgama* fascicle 10 (sūtra 256/257), Śāriputra and Mahākoṣṭhila's dialogue on the meaning of vidyā and avidyā. 《大正藏》第2冊，No. 0099。
+[^2]: *Saṃyukta Āgama* fascicle 10 (sūtra 256/257), Śāriputra and Mahākoṣṭhila's dialogue on the meaning of vidyā and avidyā. Taishō vol. 2, no. 0099.
 
-[^3]: *Saṃyukta Āgama* fascicle 6 (sūtra 121), the Buddha instructs Rādha on truly observing the five appropriated aggregates as not-self. 《大正藏》第2冊，No. 0099。
+[^3]: *Saṃyukta Āgama* fascicle 6 (sūtra 121), the Buddha instructs Rādha on truly observing the five appropriated aggregates as not-self. Taishō vol. 2, no. 0099.
 
-[^4]: *Saṃyukta Āgama* fascicle 6 (sūtra 111), the Buddha tells Rādha about the flow of existence and its cessation — knowing the five aggregates' gratification, danger, and escape as they truly are leads to the cessation of the mass of suffering. 《大正藏》第2冊，No. 0099。
+[^4]: *Saṃyukta Āgama* fascicle 6 (sūtra 111), the Buddha tells Rādha about the flow of existence and its cessation — knowing the five aggregates' gratification, danger, and escape as they truly are leads to the cessation of the mass of suffering. Taishō vol. 2, no. 0099.
 
-[^5]: *Saṃyukta Āgama* fascicle 29 (sūtra 803), the Buddha's own account of his two-month ānāpānasati practice. 《大正藏》第2冊，No. 0099。
+[^5]: *Saṃyukta Āgama* fascicle 29 (sūtra 803), the Buddha's own account of his two-month ānāpānasati practice. Taishō vol. 2, no. 0099.
 
-[^6]: *Saṃyukta Āgama* fascicle 15 (sūtra 379), Dhammacakkappavattana Sutta, the section on the Noble Truth of Suffering in the three turnings and twelve aspects. 《大正藏》第2冊，No. 0099。
+[^6]: *Saṃyukta Āgama* fascicle 15 (sūtra 379), Dhammacakkappavattana Sutta, the section on the Noble Truth of Suffering in the three turnings and twelve aspects. Taishō vol. 2, no. 0099.
 
-[^7]: *Madhyama Āgama* fascicle 7, *Discourse on the Analysis of the Noble Truths*, definition of the suffering of not getting what one wants among the eight kinds of suffering. 《大正藏》第1冊，No. 0026。
+[^7]: *Madhyama Āgama* fascicle 7, *Discourse on the Analysis of the Noble Truths*, definition of the suffering of not getting what one wants among the eight kinds of suffering. Taishō vol. 1, no. 0026.
 
-[^8]: *Saṃyukta Āgama* fascicle 3 (sūtra 63), the causal chain from imputing a self → contact → suffering and pleasure. 《大正藏》第2冊，No. 0099。
+[^8]: *Saṃyukta Āgama* fascicle 3 (sūtra 63), the causal chain from imputing a self → contact → suffering and pleasure. Taishō vol. 2, no. 0099.
 
-[^9]: *Saṃyukta Āgama* fascicle 3 (sūtra 64), the verse on non-self: "In phenomena there is no self, nor is there anything belonging to self." 《大正藏》第2冊，No. 0099。
+[^9]: *Saṃyukta Āgama* fascicle 3 (sūtra 64), the verse on non-self: "In phenomena there is no self, nor is there anything belonging to self." Taishō vol. 2, no. 0099.
 
-[^10]: *Saṃyukta Āgama* fascicle 12 (sūtra 283), the tree-planting simile for the accumulation of suffering through craving → grasping. 《大正藏》第2冊，No. 0099。
+[^10]: *Saṃyukta Āgama* fascicle 12 (sūtra 283), the tree-planting simile for the accumulation of suffering through craving → grasping. Taishō vol. 2, no. 0099.
 
-[^11]: *Saṃyukta Āgama* fascicle 12 (sūtra 285), the lamp-oil simile — relishing fuels craving as adding oil sustains a lamp. 《大正藏》第2冊，No. 0099。
+[^11]: *Saṃyukta Āgama* fascicle 12 (sūtra 285), the lamp-oil simile — relishing fuels craving as adding oil sustains a lamp. Taishō vol. 2, no. 0099.
 
-[^12]: *Saṃyukta Āgama* fascicle 10 (sūtra 268), the flood-river simile — those who do not know-as-it-is are swept away; those who know-as-it-is cross safely. 《大正藏》第2冊，No. 0099。
+[^12]: *Saṃyukta Āgama* fascicle 10 (sūtra 268), the flood-river simile — those who do not know-as-it-is are swept away; those who know-as-it-is cross safely. Taishō vol. 2, no. 0099.
 
-[^13]: *Saṃyukta Āgama* fascicle 24 (sūtra 638), the Buddha tells Ānanda to make himself an island, himself his refuge, and the Dharma his refuge. 《大正藏》第2冊，No. 0099。
+[^13]: *Saṃyukta Āgama* fascicle 24 (sūtra 638), the Buddha tells Ānanda to make himself an island, himself his refuge, and the Dharma his refuge. Taishō vol. 2, no. 0099.
 
-[^14]: *Dīrgha Āgama* fascicle 2, *Mahāparinirvāṇa Sūtra*, the Buddha's final instruction to Ānanda before parinirvāṇa: be your own lamp, take the Dharma as refuge. 《大正藏》第1冊，No. 0001。
+[^14]: *Dīrgha Āgama* fascicle 2, *Mahāparinirvāṇa Sūtra*, the Buddha's final instruction to Ānanda before parinirvāṇa: be your own lamp, take the Dharma as refuge. Taishō vol. 1, no. 0001.
 
-[^15]: *Dīrgha Āgama* fascicle 8, *Sandarśana Sūtra*, the fivefold self-benefit and benefit-of-others: "One who has crossed to the far shore can enable others to cross." 《大正藏》第1冊，No. 0001。
+[^15]: *Dīrgha Āgama* fascicle 8, *Sandarśana Sūtra*, the fivefold self-benefit and benefit-of-others: "One who has crossed to the far shore can enable others to cross." Taishō vol. 1, no. 0001.
 
-[^16]: *Madhyama Āgama* fascicle 54, *Ariṣṭa Sūtra*, the raft simile: "Even the Dharma should be relinquished, how much more so what is not-Dharma." 《大正藏》第1冊，No. 0026。
+[^16]: *Madhyama Āgama* fascicle 54, *Ariṣṭa Sūtra*, the raft simile: "Even the Dharma should be relinquished, how much more so what is not-Dharma." Taishō vol. 1, no. 0026.
 
-[^17]: *Vajracchedikā Prajñāpāramitā Sūtra*: "Thus liberating immeasurable, countless, boundless sentient beings, yet in truth no sentient being attains liberation." 《大正藏》第8冊，No. 0235。
+[^17]: *Vajracchedikā Prajñāpāramitā Sūtra*: "Thus liberating immeasurable, countless, boundless sentient beings, yet in truth no sentient being attains liberation." Taishō vol. 8, no. 0235.
 
-[^18]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2 (卷下), the five kinds of vision and the four stages of illuminating insight: "The wisdom-eye penetrates emptiness — clearly gazing and observing — hence the name 'illuminating insight.'" 《大正藏》第33冊，No. 1710。
+[^18]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2 (卷下), the five kinds of vision and the four stages of illuminating insight: "The wisdom-eye penetrates emptiness — clearly gazing and observing — hence the name 'illuminating insight.'" Taishō vol. 33, no. 1710.
 
-[^19]: *Saṃyukta Āgama* fascicle 26 (sūtra 647): "What is the wisdom-faculty? When a bhikṣu knows the Noble Truth of Suffering as it truly is." 《大正藏》第2冊，No. 0099。
+[^19]: *Saṃyukta Āgama* fascicle 26 (sūtra 647): "What is the wisdom-faculty? When a bhikṣu knows the Noble Truth of Suffering as it truly is." Taishō vol. 2, no. 0099.
 
-[^20]: *Mahāprajñāpāramitā-śāstra* fascicle 69: "The Buddha, with the five kinds of vision, observes this mind and finds it unapprehensible." Section on the five kinds of vision finding mind unapprehensible. 《大正藏》第25冊，No. 1509。
+[^20]: *Mahāprajñāpāramitā-śāstra* fascicle 69: "The Buddha, with the five kinds of vision, observes this mind and finds it unapprehensible." Section on the five kinds of vision finding mind unapprehensible. Taishō vol. 25, no. 1509.
 
-[^21]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, the three non-natures (tri-nihsvabhāvatā) as explanation of emptiness: "The three natures are neither empty nor non-empty; to counter attachment to existence, the Buddha spoke comprehensively and implicitly of 'emptiness.'" 《大正藏》第33冊，No. 1710。
+[^21]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, the three non-natures (tri-nihsvabhāvatā) as explanation of emptiness: "The three natures are neither empty nor non-empty; to counter attachment to existence, the Buddha spoke comprehensively and implicitly of 'emptiness.'" Taishō vol. 33, no. 1710.
 
-[^22]: Yuáncè, *Prajñāpāramitā-hṛdaya-sūtra Zàn* fascicle 1, Dharmapāla's "contemplation gate of discerning emptiness by excluding the objective in consciousness." 《大正藏》第33冊，No. 1711。
+[^22]: Yuáncè, *Prajñāpāramitā-hṛdaya-sūtra Zàn* fascicle 1, Dharmapāla's "contemplation gate of discerning emptiness by excluding the objective in consciousness." Taishō vol. 33, no. 1711.
 
-[^23]: *Saṃyukta Āgama* fascicle 10 (sūtra 265), the foam sūtra and the five-aggregate similes. 《大正藏》第2冊，No. 0099。
+[^23]: *Saṃyukta Āgama* fascicle 10 (sūtra 265), the foam sūtra and the five-aggregate similes. Taishō vol. 2, no. 0099.
 
-[^24]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, in the voice of the proponent of superior emptiness (勝空者言, T33n1710 0536a05–a07): "Like a moth emerging from its cocoon, forever leaving its wrapping behind, one thereby transcends suffering." 《大正藏》第33冊，No. 1710。
+[^24]: Kuiji, *Prajñāpāramitā-hṛdaya-sūtra Youzan* fascicle 2, in the voice of the proponent of superior emptiness (勝空者言, T33n1710 0536a05–a07): "Like a moth emerging from its cocoon, forever leaving its wrapping behind, one thereby transcends suffering." Taishō vol. 33, no. 1710.
 
-[^25]: *Chéng Wéishí Lùn* fascicle 9, definition of āśraya-parāvṛtti: "To relinquish the thoroughly imagined nature superimposed upon the other-dependent, and to obtain the perfectly accomplished nature within the other-dependent." 《大正藏》第31冊，No. 1585。
+[^25]: *Chéng Wéishí Lùn* fascicle 9, definition of āśraya-parāvṛtti: "To relinquish the thoroughly imagined nature superimposed upon the other-dependent, and to obtain the perfectly accomplished nature within the other-dependent." Taishō vol. 31, no. 1585.
 
 [^26]: Clark, A. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36(3), 2013.
 
-[^27]: *Mahāprajñāpāramitā-śāstra* fascicle 6: the five-aggregate similes as Śrāvaka Dharma (dissolving self-grasping) and the gandharva-city simile as Mahāyāna Dharma (dissolving dharma-grasping). 《大正藏》第25冊，No. 1509。
+[^27]: *Mahāprajñāpāramitā-śāstra* fascicle 6: the five-aggregate similes as Śrāvaka Dharma (dissolving self-grasping) and the gandharva-city simile as Mahāyāna Dharma (dissolving dharma-grasping). Taishō vol. 25, no. 1509.
 
-[^28]: *Mahāprajñāpāramitā-śāstra* fascicle 29: after the bodhisattva contemplates the true character of all dharmas, great compassion causes them to return and perform meritorious deeds to save sentient beings. 《大正藏》第25冊，No. 1509。
+[^28]: *Mahāprajñāpāramitā-śāstra* fascicle 29: after the bodhisattva contemplates the true character of all dharmas, great compassion causes them to return and perform meritorious deeds to save sentient beings. Taishō vol. 25, no. 1509.
 
 ---
 

@@ -547,9 +547,9 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 5. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra, Taishō vol. 16, no. 0670.
 6. *Cheng weishi lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
 7. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
-8. Kuiji, *Jīngāng bōrě jīng zànshù* (金剛般若經讚述), Taishō vol. 33, no. 1700.
+8. Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), Taishō vol. 33, no. 1700.
 9. Vasubandhu, *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), trans. Bodhiruci, Taishō vol. 25, no. 1511.
-10. Zixuan, *Jīngāng jīng zuǎnyào kāndìng jì* (金剛經纂要刊定記), Taishō vol. 33, no. 1702.
+10. Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), Taishō vol. 33, no. 1702.
 
 ### II. Modern Scholarship
 

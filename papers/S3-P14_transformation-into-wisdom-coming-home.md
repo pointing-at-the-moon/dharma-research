@@ -695,11 +695,11 @@ Then start walking.
 - *Mahāprajñāpāramitā Śāstra* (*Da zhidu lun* 大智度論), Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
 - *Cheng Weishi Lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
 - *Dasheng Baifalun* (大乘百法明門論), Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
-- *Bāshí Guījǔ Sòng* with annotations (八識規矩補註), Xuanzang (verses, by tradition), Putai (Ming; annotations), Taishō vol. 45, no. 1865.
+- *Bashi Guiju Song* with annotations (八識規矩補註), Xuanzang (verses, by tradition), Putai (Ming; annotations), Taishō vol. 45, no. 1865.
 - *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), Asaṅga, trans. Paramārtha, Taishō vol. 31, no. 1593.
 - *Yogācārabhūmi* (*Yuqie shidi lun* 瑜伽師地論), Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
-- *Zōngjìng Lù* (宗鏡錄), Yongming Yanshou, Taishō vol. 48, no. 2016.
-- *Prajñāpāramitāhṛdaya Youzàn* (*Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊), Kuiji, Taishō vol. 33, no. 1710.
+- *Zongjing Lu* (宗鏡錄), Yongming Yanshou, Taishō vol. 48, no. 2016.
+- *Prajñāpāramitāhṛdaya Youzan* (*Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊), Kuiji, Taishō vol. 33, no. 1710.
 
 ### II. Modern Scholarship
 

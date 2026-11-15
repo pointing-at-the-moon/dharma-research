@@ -555,25 +555,25 @@ The ten feeling-aggregate māras are more dangerous than the ten form-aggregate 
 
 ### Primary Buddhist Sources
 
-*Śūraṅgama Sūtra* (*Dà fó dǐng rúlái mì yīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), translated by Paramiti 般剌密帝. Taishō vol. 19, no. 0945.
+*Śūraṅgama Sūtra* (*Da fo ding rulai mi yin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), translated by Paramiti 般剌密帝. Taishō vol. 19, no. 0945.
 
-*Commentary on the Śūraṅgama Sūtra* (*Shǒuléngyán yìshū zhù jīng* 首楞嚴義疏注經), compiled by Zǐxuán 子璿 (Song dynasty). Taishō vol. 39, no. 1799.
+*Commentary on the Śūraṅgama Sūtra* (*Shoulengyan yishu zhu jing* 首楞嚴義疏注經), compiled by Zixuan 子璿 (Song dynasty). Taishō vol. 39, no. 1799.
 
-*The Correct Vein Commentary on the Śūraṅgama Sūtra* (*Dà fó dǐng rúlái mì yīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng zhèngmài shū* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏), by Jiāoguāng Zhēnjiàn 交光真鑑 (Ming dynasty). *Xù Zàng Jīng* vol. 12, no. 275.
+*The Correct Vein Commentary on the Śūraṅgama Sūtra* (*Da fo ding rulai mi yin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing zhengmai shu* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏), by Jiaoguang Zhenjian 交光真鑑 (Ming dynasty). *Xu Zang Jing* vol. 12, no. 275.
 
-*Madhyama Āgama* (*Zhōng ā hán jīng* 中阿含經), translated by Gautama Saṃghadeva 瞿曇僧伽提婆. Taishō vol. 1, no. 0026.
+*Madhyama Āgama* (*Zhong a han jing* 中阿含經), translated by Gautama Saṃghadeva 瞿曇僧伽提婆. Taishō vol. 1, no. 0026.
 
-*Saṃyukta Āgama* (*Zá ā hán jīng* 雜阿含經), translated by Guṇabhadra 求那跋陀羅. Taishō vol. 2, no. 0099.
+*Saṃyukta Āgama* (*Za a han jing* 雜阿含經), translated by Guṇabhadra 求那跋陀羅. Taishō vol. 2, no. 0099.
 
-*Separately Translated Saṃyukta Āgama* (*Bié yì zá ā hán jīng* 別譯雜阿含經), translator unknown. Taishō vol. 2, no. 0100.
+*Separately Translated Saṃyukta Āgama* (*Bie yi za a han jing* 別譯雜阿含經), translator unknown. Taishō vol. 2, no. 0100.
 
-*Dīrgha Āgama* (*Cháng ā hán jīng* 長阿含經), translated by Buddhayaśas 佛陀耶舍 and Zhu Fonian 竺佛念. Taishō vol. 1, no. 0001.
+*Dīrgha Āgama* (*Chang a han jing* 長阿含經), translated by Buddhayaśas 佛陀耶舍 and Zhu Fonian 竺佛念. Taishō vol. 1, no. 0001.
 
-*Ekottara Āgama* (*Zēng yī ā hán jīng* 增壹阿含經), translated by Gautama Saṃghadeva 瞿曇僧伽提婆. Taishō vol. 2, no. 0125.
+*Ekottara Āgama* (*Zeng yi a han jing* 增壹阿含經), translated by Gautama Saṃghadeva 瞿曇僧伽提婆. Taishō vol. 2, no. 0125.
 
-*Mahāprajñāpāramitā-śāstra* (*Dà zhì dù lùn* 大智度論), attributed to Nāgārjuna 龍樹, translated by Kumārajīva 鳩摩羅什. Taishō vol. 25, no. 1509.
+*Mahāprajñāpāramitā-śāstra* (*Da zhi du lun* 大智度論), attributed to Nāgārjuna 龍樹, translated by Kumārajīva 鳩摩羅什. Taishō vol. 25, no. 1509.
 
-*Yogācārabhūmi-śāstra* (*Yúqié shīdì lùn* 瑜伽師地論), attributed to Maitreya 彌勒, translated by Xuánzàng 玄奘. Taishō vol. 30, no. 1579.
+*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), attributed to Maitreya 彌勒, translated by Xuanzang 玄奘. Taishō vol. 30, no. 1579.
 
 ### Modern Scholarship
 
@@ -622,7 +622,7 @@ This paper's doctrinal connections to other papers in the research program:
 
 [^1]: *Madhyama Āgama* fascicle 17, *Sūtra on the Origin of King Dīrghāyu* (sūtra 72): 「阿那律陀！我本未得覺無上正真道時，亦得光明而見色，彼見色光明尋復滅。」This passage is the Buddha's first-person account of the eleven *upakkilesa* ("afflictions," Ch. 患) he himself identified during his pre-awakening meditative practice, corresponding to MN 128 *Upakkilesa Sutta*. *Taishō Tripiṭaka* vol. 1, no. 26.
 
-[^2]: Ibid. The Chinese 患 is the standard rendering of *upakkilesa*, meaning "defilement, subsidiary affliction, taint." The Chinese translation does not use the term *suíhuánǎo* (隨煩惱, "subsidiary affliction") in this context.
+[^2]: Ibid. The Chinese 患 is the standard rendering of *upakkilesa*, meaning "defilement, subsidiary affliction, taint." The Chinese translation does not use the term *suífánnǎo* (隨煩惱, "subsidiary affliction") in this context.
 
 [^3]: *Madhyama Āgama* fascicle 17, *Sūtra on the Origin of King Dīrghāyu*, the eleven *upakkilesa*s. *Taishō Tripiṭaka* vol. 1, no. 26.
 

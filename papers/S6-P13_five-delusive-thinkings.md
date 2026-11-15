@@ -649,13 +649,13 @@ P13 is the formal construction of this bridge. From the close of this section on
 
 3. *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing* 妙法蓮華經). Translated by Kumārajīva (鳩摩羅什). Taishō vol. 9, no. 0262. Fascicle 3, *Pūrvayoga-parivarta* (Conjured-City Parable Chapter).
 
-4. *Mahā-vaipulya-pūrṇa-buddha-sūtra-prasannārtha-sūtra* (*Da fangguang yuanjue xiuduoluo liaoyi jing* 大方廣圓覺修多羅了義經 *Yuánjué Jīng*). Translated by Buddhatrāta (佛陀多羅). Taishō vol. 17, no. 0842. Cited via Zǐxuán's commentary for the formula "knowing illusion is itself separation from illusion."
+4. *Mahā-vaipulya-pūrṇa-buddha-sūtra-prasannārtha-sūtra* (*Da fangguang yuanjue xiuduoluo liaoyi jing* 大方廣圓覺修多羅了義經 *Yuanjue Jing*). Translated by Buddhatrāta (佛陀多羅). Taishō vol. 17, no. 0842. Cited via Zixuan's commentary for the formula "knowing illusion is itself separation from illusion."
 
 **Commentaries:**
 
-5. Zǐxuán 子璿 (965–1038). *Shǒulèngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (*Annotated Commentary on the Meaning of the Śūraṅgama-sūtra*). Taishō vol. 39, no. 1799. Core commentary on the five delusive thinkings, the boundaries of the five aggregates, and the sudden-gradual structure.
+5. Zixuan 子璿 (965–1038). *Shoulengyan Yishu Zhujing* 首楞嚴義疏注經 (*Annotated Commentary on the Meaning of the Śūraṅgama-sūtra*). Taishō vol. 39, no. 1799. Core commentary on the five delusive thinkings, the boundaries of the five aggregates, and the sudden-gradual structure.
 
-6. Jiāoguāng Zhēnjiàn 交光真鑑 (Ming dynasty). *Dàfódǐng Rúlái Mìyīn Xiūzhèng Liǎoyì Zhū Púsà Wànxíng Shǒulèngyán Jīng Zhèngmài Shū* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏 (*Treatise on the Correct Lineage of the Śūraṅgama*). *Manji Zokuzō* vol. 12, X0275. Core verdicts on the two-pole structure of the aggregate boundaries, the "complete identity" thesis between Avalokiteśvara's six knots and the five-aggregate exhaustion, and the entry into the first abiding upon the consciousness aggregate's exhaustion.
+6. Jiaoguang Zhenjian 交光真鑑 (Ming dynasty). *Dafoding Rulai Miyin Xiuzheng Liaoyi Zhu Pusa Wanxing Shoulengyan Jing Zhengmai Shu* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏 (*Treatise on the Correct Lineage of the Śūraṅgama*). *Manji Zokuzō* vol. 12, X0275. Core verdicts on the two-pole structure of the aggregate boundaries, the "complete identity" thesis between Avalokiteśvara's six knots and the five-aggregate exhaustion, and the entry into the first abiding upon the consciousness aggregate's exhaustion.
 
 ### II. Modern Scholarship
 

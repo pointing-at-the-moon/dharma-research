@@ -63,7 +63,7 @@ The series consists of twelve papers. Of these, P01 through P10 each take one of
 
 This paper takes the *simultaneous mutual correspondence gate* (*tóngshí jùzú xiāngyìng mén*) as its posture.
 
-This pairing is not arbitrary. In the fourth fascicle of the *Huayan yīchéng jiàoyì fēnqí zhāng* (*Treatise on the Distinguishing of the Doctrines of the One Vehicle of Huayan*), Fazang writes:
+This pairing is not arbitrary. In the fourth fascicle of the *Huayan yīshèng jiàoyì fēnqí zhāng* (*Treatise on the Distinguishing of the Doctrines of the One Vehicle of Huayan*), Fazang writes:
 
 > 一者同時具足相應門。此上十義同時相應成一緣起。無有前後始終等別。具足一切自在逆順。參而不雜成緣起際。此依海印三昧。炳然同時顯現成矣。
 >
@@ -269,13 +269,13 @@ These three lines—"the ocean-seal is the original awakening of suchness; when 
 
 #### C.2 Fazang's *Wǔjiào zhāng*, Fascicle 4: The Internal Textual Evidence
 
-When Fazang opens the ten mystery gates in fascicle 4 of the *Huayan yīchéng jiàoyì fēnqí zhāng* (T1866), he explicitly grounds the first gate, the simultaneously sufficient correspondence gate, in the ocean-seal samādhi:
+When Fazang opens the ten mystery gates in fascicle 4 of the *Huayan yīshèng jiàoyì fēnqí zhāng* (T1866), he explicitly grounds the first gate, the simultaneously sufficient correspondence gate, in the ocean-seal samādhi:
 
 > 一者同時具足相應門。此上十義同時相應成一緣起。無有前後始終等別。具足一切自在逆順。參而不雜成緣起際。此依海印三昧。炳然同時顯現成矣。
 >
 > "First, the simultaneously sufficient correspondence gate. The ten meanings above correspond simultaneously and form a single dependent arising, with no distinction of before, after, beginning, or end. They are sufficient in all things, free in opposing and following, mixed but not confused, forming the boundary of dependent arising. *This rests upon the ocean-seal samādhi, whereby they are brilliantly and simultaneously made manifest*."[^24]
 
-Before Fazang, Zhiyan's *Huayan yīchéng shí xuán mén* had already assigned the same gate to the power and function of the ocean-seal samādhi:
+Before Fazang, Zhiyan's *Huayan yīshèng shí xuán mén* had already assigned the same gate to the power and function of the ocean-seal samādhi:
 
 > 今釋第一同時具足相應門者。即具明教義理事等十門同時也。何以得如此耶。良由緣起實德法性海印三昧力用故得然。非是方便緣修所成故得同時。
 >
@@ -610,11 +610,11 @@ The pen of this paper stops here.
 
 **Commentaries**
 - Fazang, *Huayan jing tanxuan ji*. Taishō vol. 35, no. 1733.
-- Fazang, *Huayan yīchéng jiàoyì fēnqí zhāng* (*Wǔjiào zhāng*). Taishō vol. 45, no. 1866.
+- Fazang, *Huayan yisheng jiaoyi fenqi zhang* (*Wujiao zhang*). Taishō vol. 45, no. 1866.
 - Fazang, *Xiu huayan aozhi wangjin huanyuan guan*. Taishō vol. 45, no. 1876.
 - Chengguan, *Dafangguang fo huayan jing shu*. Taishō vol. 35, no. 1735.
 - Chengguan, *Dafangguang fo huayan jing suishu yanyi chao*. Taishō vol. 36, no. 1736.
-- Zhiyan, *Huayan yīchéng shí xuán mén*. Taishō vol. 45, no. 1868.
+- Zhiyan, *Huayan yisheng shi xuan men*. Taishō vol. 45, no. 1868.
 
 ### II. Modern Scholarship
 
@@ -636,11 +636,11 @@ The pen of this paper stops here.
 | 7 | *Bieyi za ahan jing* | T2 | No. 100 | 016 |
 | 8 | *Zengyi ahan jing* (*Ekottarikāgama*) | T2 | No. 125 | 010 (*Quanqing pin*), 014, 021 (*Kule pin*), 023 |
 | 9 | *Huayan jing tanxuan ji* | T35 | No. 1733 | 001, 004 |
-| 10 | *Huayan yīchéng jiàoyì fēnqí zhāng* | T45 | No. 1866 | 004 |
+| 10 | *Huayan yīshèng jiàoyì fēnqí zhāng* | T45 | No. 1866 | 004 |
 | 11 | *Xiu huayan aozhi wangjin huanyuan guan* | T45 | No. 1876 | 001 |
 | 12 | *Dafangguang fo huayan jing shu* | T35 | No. 1735 | 002 |
 | 13 | *Dafangguang fo huayan jing suishu yanyi chao* | T36 | No. 1736 | 001, 002, 010 |
-| 14 | *Huayan yīchéng shí xuán mén* | T45 | No. 1868 | 001 |
+| 14 | *Huayan yīshèng shí xuán mén* | T45 | No. 1868 | 001 |
 
 ---
 
@@ -660,9 +660,9 @@ The pen of this paper stops here.
 
 ## Footnotes
 
-[^1]: Fazang's *Huayan jing tanxuan ji*, fascicle 1, in the section "Revealing the Distinctions of Meaning," briefly lists ten gates: simultaneously sufficient correspondence; unobstructed wide and narrow freedom; mutual containment of one and many in non-identity; mutual identity and self-mastery of dharmas; simultaneous accomplishment of hidden and manifest; free placement of the subtle and refined; the dharmadhātu of Indra's net; manifestation of the dharma through entrusting events; differentiated formation of the ten time periods; perfect virtue of host and guest. Taishō vol. 35, no. 1733, 0123a27–b04. For the seventh gate the *Tànxuán jì* itself reads "因陀羅網法界門" (the dharmadhātu of Indra's net); this series follows the *Wǔjiào zhāng* and Zhiyan's *Huayan yīchéng shí xuán mén* in calling it "因陀羅網境界門" (the realm of Indra's net). The "old ten mystery gates" in fascicle 4 of the *Huayan yīchéng jiàoyì fēnqí zhāng* differ in names and order (see note 28).
+[^1]: Fazang's *Huayan jing tanxuan ji*, fascicle 1, in the section "Revealing the Distinctions of Meaning," briefly lists ten gates: simultaneously sufficient correspondence; unobstructed wide and narrow freedom; mutual containment of one and many in non-identity; mutual identity and self-mastery of dharmas; simultaneous accomplishment of hidden and manifest; free placement of the subtle and refined; the dharmadhātu of Indra's net; manifestation of the dharma through entrusting events; differentiated formation of the ten time periods; perfect virtue of host and guest. Taishō vol. 35, no. 1733, 0123a27–b04. For the seventh gate the *Tànxuán jì* itself reads "因陀羅網法界門" (the dharmadhātu of Indra's net); this series follows the *Wǔjiào zhāng* and Zhiyan's *Huayan yīshèng shí xuán mén* in calling it "因陀羅網境界門" (the realm of Indra's net). The "old ten mystery gates" in fascicle 4 of the *Huayan yīshèng jiàoyì fēnqí zhāng* differ in names and order (see note 28).
 
-[^2]: Fazang, *Huayan yīchéng jiàoyì fēnqí zhāng*, fascicle 4: "一者同時具足相應門。此上十義同時相應成一緣起……此依海印三昧。炳然同時顯現成矣" (*Yī zhě tóngshí jùzú xiāngyìng mén... cǐ yī hǎiyìn sānmèi. Bǐngrán tóngshí xiǎnxiàn chéng yǐ*; "First, the simultaneously sufficient correspondence gate. The ten meanings above correspond simultaneously and form a single dependent arising... This rests upon the ocean-seal samādhi, whereby they are brilliantly and simultaneously made manifest"). Taishō vol. 45, no. 1866, 0505a13–a16. This passage is the single internal textual evidence where Fazang explicitly grounds one of the ten mystery gates in the ocean-seal samādhi; it is the textual basis for S8-P01's locking of "simultaneously sufficient correspondence" as its mystery-gate posture.
+[^2]: Fazang, *Huayan yīshèng jiàoyì fēnqí zhāng*, fascicle 4: "一者同時具足相應門。此上十義同時相應成一緣起……此依海印三昧。炳然同時顯現成矣" (*Yī zhě tóngshí jùzú xiāngyìng mén... cǐ yī hǎiyìn sānmèi. Bǐngrán tóngshí xiǎnxiàn chéng yǐ*; "First, the simultaneously sufficient correspondence gate. The ten meanings above correspond simultaneously and form a single dependent arising... This rests upon the ocean-seal samādhi, whereby they are brilliantly and simultaneously made manifest"). Taishō vol. 45, no. 1866, 0505a13–a16. This passage is the single internal textual evidence where Fazang explicitly grounds one of the ten mystery gates in the ocean-seal samādhi; it is the textual basis for S8-P01's locking of "simultaneously sufficient correspondence" as its mystery-gate posture.
 
 [^3]: *Madhyamāgama* fascicle 60, *Jianyu jing* (Chapter on the Parable of the Arrow) in the *Li Pin*: "猶如有人身被毒箭，因毒箭故，受極重苦……彼人竟不得知，於其中間而命終也" ("Just as a man whose body is pierced by a poisoned arrow, because of the poisoned arrow endures extremely heavy suffering... that man, in the end, comes to know nothing, and in the midst of it meets death"). Taishō vol. 1, no. 26.
 
@@ -706,13 +706,13 @@ The pen of this paper stops here.
 
 [^23]: *Xiu huayan aozhi wangjin huanyuan guan*: "言海印者，真如本覺也。妄盡心澄，萬象齊現。猶如大海因風起浪，若風止息，海水澄清，無象不現" ("To say 'ocean-seal' is to say the original awakening of suchness. When delusion is exhausted and the mind clears, all images appear simultaneously. It is like the great ocean, which raises waves in response to the wind: when the wind ceases, the ocean water becomes clear, and there is no image it does not manifest"). Taishō vol. 45, no. 1876. These thirteen characters "真如本覺也，妄盡心澄，萬象齊現" (*zhēnrú běnjué yě; wàng jìn xīn chéng; wànxiàng qí xiàn*) are the Huayan school's most concentrated doctrinal definition of the ocean-seal samādhi, and serve as the shared core anchor for both S8-P01 and S8-P07.
 
-[^24]: Fazang, *Huayan yīchéng jiàoyì fēnqí zhāng*, fascicle 4: "一者同時具足相應門……此依海印三昧。炳然同時顯現成矣" (translation given in main text). Taishō vol. 45, no. 1866, 0505a13–a16. Same as footnote 2; repeated here to mark its doctrinal position in the meshing argument of section 3.
+[^24]: Fazang, *Huayan yīshèng jiàoyì fēnqí zhāng*, fascicle 4: "一者同時具足相應門……此依海印三昧。炳然同時顯現成矣" (translation given in main text). Taishō vol. 45, no. 1866, 0505a13–a16. Same as footnote 2; repeated here to mark its doctrinal position in the meshing argument of section 3.
 
 [^25]: *Dafangguang fo huayan jing suishu yanyi chao*, fascicle 1: "今說此經依何三昧？即海印三昧……如來智海識浪不生，澄渟清淨至明" ("Now, on what samādhi does the speaking of this scripture depend? Upon the ocean-seal samādhi... in the wisdom-ocean of the *Tathāgata*, the waves of *vijñāna* do not arise; it is settled, clear, and at the limit of brightness"). Taishō vol. 36, no. 1736, 0004b14–b20. Chengguan's phrase "the wisdom-ocean of the *Tathāgata*; the waves of *vijñāna* do not arise" explicitly identifies the "ocean" of "ocean-seal" with the *Tathāgata*'s wisdom-ocean, and the condition of the "imprint" with "the waves of *vijñāna* do not arise."
 
-[^26]: *Huayan jing tanxuan ji*, fascicle 1, list of the ten gates. Taishō vol. 35, no. 1733, 0123a27–0123b04. This is Fazang's "new ten mystery gates"; the seventh gate there reads "因陀羅網法界門," and this series follows the *Wǔjiào zhāng* and Zhiyan in calling it "因陀羅網境界門." The list in fascicle 4 of the *Huayan yīchéng jiàoyì fēnqí zhāng* is the "old ten mystery gates," which differs in names and order (see note 28).
+[^26]: *Huayan jing tanxuan ji*, fascicle 1, list of the ten gates. Taishō vol. 35, no. 1733, 0123a27–0123b04. This is Fazang's "new ten mystery gates"; the seventh gate there reads "因陀羅網法界門," and this series follows the *Wǔjiào zhāng* and Zhiyan in calling it "因陀羅網境界門." The list in fascicle 4 of the *Huayan yīshèng jiàoyì fēnqí zhāng* is the "old ten mystery gates," which differs in names and order (see note 28).
 
-[^27]: Zhiyan, *Huayan yīchéng shí xuán mén*, transmitting the teaching of Master Dushun: "今釋第一同時具足相應門者。即具明教義理事等十門同時也。何以得如此耶。良由緣起實德法性海印三昧力用故得然。非是方便緣修所成故得同時" (translation given in main text). Taishō vol. 45, no. 1868, 0515c27–0516a01. This is the earliest systematic document on the ten mystery gates; its order is not entirely consistent with Fazang's *Wǔjiào zhāng* "old ten mystery gates."
+[^27]: Zhiyan, *Huayan yīshèng shí xuán mén*, transmitting the teaching of Master Dushun: "今釋第一同時具足相應門者。即具明教義理事等十門同時也。何以得如此耶。良由緣起實德法性海印三昧力用故得然。非是方便緣修所成故得同時" (translation given in main text). Taishō vol. 45, no. 1868, 0515c27–0516a01. This is the earliest systematic document on the ten mystery gates; its order is not entirely consistent with Fazang's *Wǔjiào zhāng* "old ten mystery gates."
 
 [^28]: Fazang's *Tànxuán jì* (T1733) establishes the "new ten mystery gates," replacing the *Wǔjiào zhāng*'s "gate of the perfect virtue of pure and mixed dharma" and "gate of mind-transformation perfecting good" with "unobstructed wide and narrow freedom" and "perfect virtue of host and guest," respectively, and slightly adjusting the overall order. Taishō vol. 35, no. 1733. Fazang's rearrangement of his own ten mystery gates is internal evidence that "the expository order is rearrangeable."
 

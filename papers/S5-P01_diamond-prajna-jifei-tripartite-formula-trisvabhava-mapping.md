@@ -443,7 +443,7 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 | Vasubandhu's Treatise | Jingang bore boluomi jing lun | T25, No. 1511 |
 | Jingang xian lun | Jingang xian lun (trans. Bodhiruci) | T25, No. 1512 |
 | Asaṅga–Vasubandhu Commentary | Nengduan jingang bore boluomiduo jing lun shi | T25, No. 1513 |
-| Yogācārabhūmi-śāstra | Yujia shidi lun 瑜伽師地論 | T30, No. 1579 |
+| Yogācārabhūmi-śāstra | Yuqie shidi lun 瑜伽師地論 | T30, No. 1579 |
 | Kuiji's Commentary | Jingang bore jing zanshu | T33, No. 1700 |
 
 ---

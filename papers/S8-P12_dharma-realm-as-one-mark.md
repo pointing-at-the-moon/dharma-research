@@ -556,25 +556,25 @@ The Pointing-at-the-Moon academic treatise stratum reaches to here and no furthe
 - *Mahāvaipulya-buddhâvataṃsaka-sūtra* (eighty-fascicle *Avataṃsaka*), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
 - *Mahāvaipulya-buddhâvataṃsaka-sūtra* (sixty-fascicle *Avataṃsaka*), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
 - *Mahāvaipulya-buddhâvataṃsaka-sūtra* (forty-fascicle *Avataṃsaka*, containing the final fascicle of the *Samantabhadra-caryā-praṇidhāna*), trans. Prajñā, Taishō vol. 10, no. 0293.
-- *Dīrgha-āgama* (*Cháng ā-hán jīng*), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
-- *Madhyama-āgama* (*Zhōng ā-hán jīng*), trans. Gautama Saṃghadeva, Taishō vol. 1, no. 0026.
-- *Saṃyukta-āgama* (*Zá ā-hán jīng*), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
-- *Ekottarika-āgama* (*Zēng yī ā-hán jīng*), trans. Gautama Saṃghadeva, Taishō vol. 2, no. 0125.
-- *Saddharma-puṇḍarīka-sūtra* (*Miàofǎ liánhuá jīng*), trans. Kumārajīva, Taishō vol. 9, no. 0262.
-- *Vajracchedikā-prajñāpāramitā-sūtra* (*Jīngāng bōrě bōluómì jīng*), trans. Kumārajīva, Taishō vol. 8, no. 0235.
-- *Mahāprajñāpāramitā-sūtra* (*Dà bōrě bōluómìduō jīng*), trans. Xuanzang, Taishō vols. 5–7, no. 0220.
-- *Prajñāpāramitā-hṛdaya-sūtra* (*Bōrě bōluómìduō xīn jīng*), trans. Xuanzang, Taishō vol. 8, no. 0251.
-- *Śūraṅgama-sūtra* (*Dà fóding rúlái mìyīn xiūzhèng liǎoyì zhū púsà wànxíng shǒulèngyán jīng*), trans. attributed to Pāramiti, Taishō vol. 19, no. 0945.
+- *Dīrgha-āgama* (*Chang a-han jing*), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
+- *Madhyama-āgama* (*Zhong a-han jing*), trans. Gautama Saṃghadeva, Taishō vol. 1, no. 0026.
+- *Saṃyukta-āgama* (*Za a-han jing*), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Ekottarika-āgama* (*Zeng yi a-han jing*), trans. Gautama Saṃghadeva, Taishō vol. 2, no. 0125.
+- *Saddharma-puṇḍarīka-sūtra* (*Miaofa lianhua jing*), trans. Kumārajīva, Taishō vol. 9, no. 0262.
+- *Vajracchedikā-prajñāpāramitā-sūtra* (*Jingang bore boluomi jing*), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *Mahāprajñāpāramitā-sūtra* (*Da bore boluomiduo jing*), trans. Xuanzang, Taishō vols. 5–7, no. 0220.
+- *Prajñāpāramitā-hṛdaya-sūtra* (*Bore boluomiduo xin jing*), trans. Xuanzang, Taishō vol. 8, no. 0251.
+- *Śūraṅgama-sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing*), trans. attributed to Pāramiti, Taishō vol. 19, no. 0945.
 
 **Śāstras and Commentaries**
 
-- *Mahāyāna Hundred Dharmas Gate of Clarity Treatise* (*Dàshèng bǎi fǎ míngmén lùn* 大乘百法明門論), Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
-- *Huayan One-Vehicle Ten Profound Gates* (*Huāyán yīchéng shíxuán mén* 華嚴一乘十玄門), Zhiyan, transmitting the teachings of Du Shun, Taishō vol. 45, no. 1868.
-- *Treatise on the Five Teachings of the One Vehicle of Huayan* (*Huāyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章, a.k.a. *Huāyán wǔjiào zhāng*), Fazang, Taishō vol. 45, no. 1866.
-- *Record of Investigations into the Mysteries of the Avataṃsaka* (*Huāyán jīng tànxuán jì* 華嚴經探玄記), Fazang, Taishō vol. 35, no. 1733.
-- *Contemplation of the Profound Meaning of Huayan: Exhausting the Deluded and Returning to the Source* (*Xiū huāyán àozhǐ wàngjìn huányuán guān* 修華嚴奧旨妄盡還源觀), Fazang, Taishō vol. 45, no. 1876.
-- *Commentary on the Mahāvaipulya-buddhâvataṃsaka-sūtra* (*Dà fāngguǎng fó huāyán jīng shū* 大方廣佛華嚴經疏), Chengguan, Taishō vol. 35, no. 1735.
-- *Sub-Commentary Elaborating the Meaning of the Commentary on the Huayan Sūtra* (*Dà fāngguǎng fó huāyán jīng suíshū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔), Chengguan, Taishō vol. 36, no. 1736.
+- *Mahāyāna Hundred Dharmas Gate of Clarity Treatise* (*Dasheng bai fa mingmen lun* 大乘百法明門論), Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+- *Huayan One-Vehicle Ten Profound Gates* (*Huayan yisheng shixuan men* 華嚴一乘十玄門), Zhiyan, transmitting the teachings of Du Shun, Taishō vol. 45, no. 1868.
+- *Treatise on the Five Teachings of the One Vehicle of Huayan* (*Huayan yisheng jiaoyi fenqi zhang* 華嚴一乘教義分齊章, a.k.a. *Huayan wujiao zhang*), Fazang, Taishō vol. 45, no. 1866.
+- *Record of Investigations into the Mysteries of the Avataṃsaka* (*Huayan jing tanxuan ji* 華嚴經探玄記), Fazang, Taishō vol. 35, no. 1733.
+- *Contemplation of the Profound Meaning of Huayan: Exhausting the Deluded and Returning to the Source* (*Xiu huayan aozhi wangjin huanyuan guan* 修華嚴奧旨妄盡還源觀), Fazang, Taishō vol. 45, no. 1876.
+- *Commentary on the Mahāvaipulya-buddhâvataṃsaka-sūtra* (*Da fangguang fo huayan jing shu* 大方廣佛華嚴經疏), Chengguan, Taishō vol. 35, no. 1735.
+- *Sub-Commentary Elaborating the Meaning of the Commentary on the Huayan Sūtra* (*Da fangguang fo huayan jing suishu yanyi chao* 大方廣佛華嚴經隨疏演義鈔), Chengguan, Taishō vol. 36, no. 1736.
 
 ### II. Modern Scholarship
 

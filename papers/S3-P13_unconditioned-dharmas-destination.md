@@ -788,7 +788,7 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 *Mahāyāna-saṃgraha* (*She dasheng lun* 攝大乘論). By Asaṅga. Translated by Paramārtha. Taishō vol. 31, no. 1593.
 *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論). By Nāgārjuna. Translated by Kumārajīva. Taishō vol. 25, no. 1509.
 *Jingangxian Lun* (金剛仙論). By Vasubandhu; explained by the master Jingangxian. Translated by Bodhiruci. Taishō vol. 25, no. 1512.
-*Bā Shí Guī Jǔ Bǔ Zhù* (八識規矩補註). Annotated by Putai. Taishō vol. 45, no. 1865.
+*Ba Shi Gui Ju Bu Zhu* (八識規矩補註). Annotated by Putai. Taishō vol. 45, no. 1865.
 *Yuqie lunji* (瑜伽論記). Compiled by Dunlun. Taishō vol. 42, no. 1828.
 *Commentary on the Huayan Dharma-Realm Contemplation Gate* (*Zhu huayan fajie guanmen* 注華嚴法界觀門). By Zongmi. Taishō vol. 45, no. 1884.
 *Huayan Dharma-Realm Dark Mirror* (*Huayan fajie xuanjing* 華嚴法界玄鏡). By Chengguan. Taishō vol. 45, no. 1883.

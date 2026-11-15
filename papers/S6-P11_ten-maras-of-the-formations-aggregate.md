@@ -520,13 +520,13 @@ The entire cultivation of the formations-aggregate stage is contained in the fou
 ### Taishō and Wanzi Tripiṭaka Sources
 
 - *Mahā-Buddhoṣṇīṣa-Tathāgata-mantra Śūraṅgama Sūtra* (《大佛頂如來密因修證了義諸菩薩萬行首楞嚴經》, Śūraṅgama Sūtra), trans. Pāramiti, Taishō vol. 19, no. 0945, fascicle 10 (formations-aggregate section).
-- *Long Āgama: Brahmajāla* (《長阿含經·梵動經》, *Brahmajāla Sūtra*), trans. Buddhayaśas and Zhú Fóniàn, Taishō vol. 1, no. 0001, fascicle 14 (the twenty-first sūtra).
+- *Long Āgama: Brahmajāla* (《長阿含經·梵動經》, *Brahmajāla Sūtra*), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001, fascicle 14 (the twenty-first sūtra).
 - *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099 — fascicle 3 (sūtra 59), fascicle 12 (sūtra 298), fascicle 14 (sūtra 344), fascicle 17 (sūtra 473), fascicle 21 (sūtra 568), fascicle 22 (sūtra 576), fascicle 34 (sūtra 956), fascicle 44 (sūtra 1197).
 - *Madhyama Āgama: Sacred Path Sūtra* (*Zhong ahan jing: Shengdao jing* 中阿含經·聖道經), trans. Gautama Saṃghadeva, Taishō vol. 1, no. 0026, fascicle 49 (sūtra 189).
 - *Madhyama Āgama: Salt Simile Sūtra* (*Zhong ahan jing: Yanyu jing* 中阿含經·鹽喻經), Taishō vol. 1, no. 0026, fascicle 3 (sūtra 11).
 - *Madhyama Āgama: Eight Difficulties Sūtra* (*Zhong ahan jing: Banan jing* 中阿含經·八難經), Taishō vol. 1, no. 0026, fascicle 29.
-- Zǐxuán (子璿, Song dynasty), *Shǒulèngyán yìshū zhùjīng* (《首楞嚴義疏注經》), Taishō vol. 39, no. 1799, fascicle 10 (upper and lower).
-- Zhēnjiàn (真鑒, "Jiāoguāng" 交光, Ming dynasty), *Dàfódǐng rúlái mìyīn xiūzhèng liǎoyì zhū púsà wànxíng shǒulèngyán jīng zhèngmài shū* (《大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏》, *Zhèngmài shū*), *Wanzi xu zang* vol. 12, no. 0275, fascicle 10.
+- Zixuan (子璿, Song dynasty), *Shoulengyan yishu zhujing* (《首楞嚴義疏注經》), Taishō vol. 39, no. 1799, fascicle 10 (upper and lower).
+- Zhenjian (真鑒, "Jiaoguang" 交光, Ming dynasty), *Dafoding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing zhengmai shu* (《大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏》, *Zhengmai shu*), *Wanzi xu zang* vol. 12, no. 0275, fascicle 10.
 
 ### Modern English-Language Scholarship
 

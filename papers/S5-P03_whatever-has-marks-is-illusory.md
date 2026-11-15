@@ -210,7 +210,7 @@ Zixuan further explains a note by the monk Sēngzhào (僧肇) to guard against 
 
 ### 2.7 The Yogācārabhūmi: Bondage by Language
 
-The Yogācārabhūmi (瑜伽師地論 Yújiā shīdì lùn), fascicle 73, provides a precise analysis of the binding relationship between "marks" and "language" (名言 míngyán)[^10]:
+The Yogācārabhūmi (瑜伽師地論 Yúqié shīdì lùn), fascicle 73, provides a precise analysis of the binding relationship between "marks" and "language" (名言 míngyán)[^10]:
 
 > "All the unawakened are bound by language within marks. Know that as name, as speech, they falsely grasp self-nature regarding the referent."
 >

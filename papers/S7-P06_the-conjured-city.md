@@ -358,21 +358,21 @@ This is the slide into personalist theism — reading the Buddha as a subject wh
 
 ### Primary Buddhist Sources
 
-- *Saddharmapuṇḍarīka-sūtra* (*Miàofǎ liánhuá jīng*), tr. Kumārajīva (Yao Qin). Taishō vol. 9, no. 0262.
-- *Zhèngfǎhuá jīng*, tr. Dharmarakṣa (Western Jin). Taishō vol. 9, no. 0263.
-- *Saddharmapuṇḍarīka-upadeśa* (*Miàofǎ liánhuá jīng lùn yōubōtíshè*), by Vasubandhu, tr. Ratnamati (Later Wei). Taishō vol. 26, no. 1520.
-- *Miàofǎ liánhuá jīng yōubōtíshè*, by Vasubandhu, tr. Bodhiruci et al. (Later Wei). Taishō vol. 26, no. 1519.
-- *Fǎhuá wénjù* (Commentary on the Text of the Lotus), by Zhiyi (Sui). Taishō vol. 34, no. 1718.
-- *Fǎhuá wénjù jì*, by Zhanran (Tang). Taishō vol. 34, no. 1719.
-- *Fǎhuá yìshū*, by Jizang (Sui). Taishō vol. 34, no. 1721.
-- *Miàofǎ liánhuá jīng xuánzàn*, by Kuiji (Tang). Taishō vol. 34, no. 1723.
-- *Chéng wéishì lùn* (*Vijñaptimātratāsiddhi*), by Dharmapāla et al., tr. Xuanzang (Tang). Taishō vol. 31, no. 1585.
-- *Yúqié shīdì lùn* (*Yogācārabhūmi*), tr. Xuanzang (Tang). Taishō vol. 30, no. 1579.
-- *Dàchéng qǐxìn lùn* (*Awakening of Faith in the Mahāyāna*), attr. Aśvaghoṣa, tr. Paramārtha (Liang). Taishō vol. 32, no. 1666.
-- *Dàchéng qǐxìn lùn*, tr. Śikṣānanda (Tang). Taishō vol. 32, no. 1667.
-- *Madhyamāgama* (*Zhōng āhán jīng*), tr. Gautama Saṃghadeva (Eastern Jin). Taishō vol. 1, no. 0026.
-- *Saṃyuktāgama* (*Zá āhán jīng*), tr. Guṇabhadra (Liu Song). Taishō vol. 2, no. 0099.
-- *Ekottarāgama* (*Zēngyī āhán jīng*), tr. Gautama Saṃghadeva (Eastern Jin). Taishō vol. 2, no. 0125.
+- *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing*), tr. Kumārajīva (Yao Qin). Taishō vol. 9, no. 0262.
+- *Zhengfahua jing*, tr. Dharmarakṣa (Western Jin). Taishō vol. 9, no. 0263.
+- *Saddharmapuṇḍarīka-upadeśa* (*Miaofa lianhua jing lun youbotishe*), by Vasubandhu, tr. Ratnamati (Later Wei). Taishō vol. 26, no. 1520.
+- *Miaofa lianhua jing youbotishe*, by Vasubandhu, tr. Bodhiruci et al. (Later Wei). Taishō vol. 26, no. 1519.
+- *Fahua wenju* (Commentary on the Text of the Lotus), by Zhiyi (Sui). Taishō vol. 34, no. 1718.
+- *Fahua wenju ji*, by Zhanran (Tang). Taishō vol. 34, no. 1719.
+- *Fahua yishu*, by Jizang (Sui). Taishō vol. 34, no. 1721.
+- *Miaofa lianhua jing xuanzan*, by Kuiji (Tang). Taishō vol. 34, no. 1723.
+- *Cheng weishi lun* (*Vijñaptimātratāsiddhi*), by Dharmapāla et al., tr. Xuanzang (Tang). Taishō vol. 31, no. 1585.
+- *Yuqie shidi lun* (*Yogācārabhūmi*), tr. Xuanzang (Tang). Taishō vol. 30, no. 1579.
+- *Dasheng qixin lun* (*Awakening of Faith in the Mahāyāna*), attr. Aśvaghoṣa, tr. Paramārtha (Liang). Taishō vol. 32, no. 1666.
+- *Dasheng qixin lun*, tr. Śikṣānanda (Tang). Taishō vol. 32, no. 1667.
+- *Madhyamāgama* (*Zhong ahan jing*), tr. Gautama Saṃghadeva (Eastern Jin). Taishō vol. 1, no. 0026.
+- *Saṃyuktāgama* (*Za ahan jing*), tr. Guṇabhadra (Liu Song). Taishō vol. 2, no. 0099.
+- *Ekottarāgama* (*Zengyi ahan jing*), tr. Gautama Saṃghadeva (Eastern Jin). Taishō vol. 2, no. 0125.
 
 ### Modern Scholarship
 
@@ -392,8 +392,8 @@ This paper does not rely on modern scholarship as citational support; all argume
 | Fǎhuá xuánzàn | Miàofǎ liánhuá jīng xuánzàn | T1723 | Kuiji |
 | Chéng wéishì lùn | Chéng wéishì lùn | T1585 | Dharmapāla / Xuanzang |
 | Yogācārabhūmi | Yúqié shīdì lùn | T1579 | Maitreya / Xuanzang |
-| Awakening of Faith (Paramārtha) | Dàchéng qǐxìn lùn | T1666 | Aśvaghoṣa / Paramārtha |
-| Awakening of Faith (Śikṣānanda) | Dàchéng qǐxìn lùn | T1667 | Aśvaghoṣa / Śikṣānanda |
+| Awakening of Faith (Paramārtha) | Dàshèng qǐxìn lùn | T1666 | Aśvaghoṣa / Paramārtha |
+| Awakening of Faith (Śikṣānanda) | Dàshèng qǐxìn lùn | T1667 | Aśvaghoṣa / Śikṣānanda |
 | Madhyamāgama | Zhōng āhán jīng | T0026 | Gautama Saṃghadeva |
 | Saṃyuktāgama | Zá āhán jīng | T0099 | Guṇabhadra |
 | Ekottarāgama | Zēngyī āhán jīng | T0125 | Gautama Saṃghadeva |

@@ -372,21 +372,21 @@ This paper has returned from the Pointing-at-the-Moon series' signature imprint�
 ### I. Primary Buddhist Sources
 
 **Sūtras**
-- *Miàofǎ liánhuá jīng* (*Saddharmapuṇḍarīka Sūtra*, trans. Kumārajīva). Taishō 9, no. 262.
-- *Zhèng fǎhuá jīng* (*Saddharmapuṇḍarīka Sūtra*, trans. Dharmarakṣa). Taishō 9, no. 263.
-- *Jiěshēnmì jīng* (*Saṃdhinirmocana Sūtra*, trans. Xuanzang). Taishō 16, no. 676.
-- *Dàfāngguǎng fó huáyán jīng* (*Avataṃsaka Sūtra*, 80-fascicle version, trans. Śikṣānanda). Taishō 10, no. 279.
+- *Miaofa lianhua jing* (*Saddharmapuṇḍarīka Sūtra*, trans. Kumārajīva). Taishō 9, no. 262.
+- *Zheng fahua jing* (*Saddharmapuṇḍarīka Sūtra*, trans. Dharmarakṣa). Taishō 9, no. 263.
+- *Jieshenmi jing* (*Saṃdhinirmocana Sūtra*, trans. Xuanzang). Taishō 16, no. 676.
+- *Dafangguang fo huayan jing* (*Avataṃsaka Sūtra*, 80-fascicle version, trans. Śikṣānanda). Taishō 10, no. 279.
 
 **Indian Treatises**
-- *Miàofǎ liánhuá jīng yōubōtíshě* (Vasubandhu's *Saddharmapuṇḍarīkopadeśa*, trans. Bodhiruci and Tanlin). Taishō 26, no. 1519.
-- *Miàofǎ liánhuá jīng lùn yōubōtíshě* (Alternate translation of Vasubandhu's *Upadeśa*, trans. Ratnamati). Taishō 26, no. 1520.
-- *Chéng wéishì lùn* (*Vijñaptimātratā-siddhi*, compiled by Xuanzang from Dharmapāla et al.). Taishō 31, no. 1585.
+- *Miaofa lianhua jing youbotishe* (Vasubandhu's *Saddharmapuṇḍarīkopadeśa*, trans. Bodhiruci and Tanlin). Taishō 26, no. 1519.
+- *Miaofa lianhua jing lun youbotishe* (Alternate translation of Vasubandhu's *Upadeśa*, trans. Ratnamati). Taishō 26, no. 1520.
+- *Cheng weishi lun* (*Vijñaptimātratā-siddhi*, compiled by Xuanzang from Dharmapāla et al.). Taishō 31, no. 1585.
 
 **Chinese Commentaries**
-- *Miàofǎ liánhuá jīng xuánzàn* (Kuiji's *Profound Commentary on the Lotus Sūtra*). Taishō 34, no. 1723.
-- *Miàofǎ liánhuá jīng xuányì* (Zhiyi's *Profound Meaning of the Lotus Sūtra*). Taishō 33, no. 1716.
-- *Miàofǎ liánhuá jīng wénjù* (Zhiyi's *Textual Commentary on the Lotus Sūtra*). Taishō 34, no. 1718.
-- *Fǎhuá yìshū* (Jizang's *Commentary on the Meaning of the Lotus Sūtra*). Taishō 34, no. 1721.
+- *Miaofa lianhua jing xuanzan* (Kuiji's *Profound Commentary on the Lotus Sūtra*). Taishō 34, no. 1723.
+- *Miaofa lianhua jing xuanyi* (Zhiyi's *Profound Meaning of the Lotus Sūtra*). Taishō 33, no. 1716.
+- *Miaofa lianhua jing wenju* (Zhiyi's *Textual Commentary on the Lotus Sūtra*). Taishō 34, no. 1718.
+- *Fahua yishu* (Jizang's *Commentary on the Meaning of the Lotus Sūtra*). Taishō 34, no. 1721.
 
 ### II. Modern Scholarship
 

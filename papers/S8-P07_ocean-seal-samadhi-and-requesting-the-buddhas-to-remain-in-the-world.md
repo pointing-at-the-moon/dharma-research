@@ -188,7 +188,7 @@ This is the "Ocean-Seal as general meaning of the Ten Profound Gates" doctrine t
 [^1]: *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (80-fascicle *Avataṃsaka*), fasc. 14, *Xiánshǒu pǐn* 賢首品 12.1, trans. Śikṣānanda (Tang), Taishō vol. 10, no. 0279.
 [^2]: Ibid., T0279 fasc. 14, immediately following the Ocean-Seal verse.
 [^3]: Ibid., T0279 fasc. 14, immediately following the Huayan Samādhi verse.
-[^4]: Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), fasc. 4, Taishō vol. 45, no. 1866.
+[^4]: Fazang, *Huáyán yīshèng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), fasc. 4, Taishō vol. 45, no. 1866.
 [^5]: Chengguan, *Dàfāngguǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, fasc. 16, Taishō vol. 35, no. 1735.
 [^6]: 80-*Avataṃsaka*, *Xianshou pin*, fasc. 14; the core chapter in which Mañjuśrī on the Samantabhadra assembly questions, and Xianshou answers, concerning the merit of the faith-stage. T0279 fasc. 14.
 [^7]: *Dàfāngguǎng fó huáyán jīng*, fasc. 52, *Rúlái chūxiàn pǐn* 如來出現品 37.3, T0279, vol. 10. In the 80-*Avataṃsaka*, the "Manifestation of the Tathāgata" chapter is the 37th, spanning fascicles 50–52; the present passage is from fascicle 52.
@@ -201,7 +201,7 @@ This is the "Ocean-Seal as general meaning of the Ten Profound Gates" doctrine t
 [^14]: Fazang, *Huáyán jīng tànxuán jì* 華嚴經探玄記, Taishō vol. 35, no. 1733.
 [^15]: Ibid., T1733 fasc. 4, "Gate of Perfectly Bright Ocean-Seal Samādhi" section.
 [^16]: Ibid., T1733 fasc. 4, "asura's fourfold army" simile section.
-[^17]: First sentence: Fazang, *Huáyán jīng tànxuán jì*, fasc. 1, "ten gates" passage of the section on the scope of doctrinal meaning, T1733 (35.123b04–05). Second sentence: Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng*, fasc. 4, "Ten Profound Gates of Unobstructed Dependent Origination," first gate, T1866 (45.505a13–16).
+[^17]: First sentence: Fazang, *Huáyán jīng tànxuán jì*, fasc. 1, "ten gates" passage of the section on the scope of doctrinal meaning, T1733 (35.123b04–05). Second sentence: Fazang, *Huáyán yīshèng jiàoyì fēnqí zhāng*, fasc. 4, "Ten Profound Gates of Unobstructed Dependent Origination," first gate, T1866 (45.505a13–16).
 
 ---
 
@@ -453,23 +453,23 @@ The next paper, S8-P08 (*Six Characteristics in Perfect Fusion*), will unfold th
 
 #### Sūtras
 
-- *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (80-fascicle *Avataṃsaka*), trans. Śikṣānanda (Tang), Taishō vol. 10, no. 0279.
-- *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (60-fascicle *Avataṃsaka*), trans. Buddhabhadra (Eastern Jin), Taishō vol. 9, no. 0278.
-- *Cháng āhán jīng · Yóuxíng jīng* 長阿含經·遊行經, trans. Buddhayaśas and Zhu Fonian (Later Qin), Taishō vol. 1, no. 0001.
-- *Fó bānníhuán jīng* 佛般泥洹經, trans. Bai Fazu (Western Jin), Taishō vol. 1, no. 0005.
-- *Bānníhuán jīng* 般泥洹經, translator unknown, Taishō vol. 1, no. 0006.
-- *Dà bānnièpán jīng* (Hīnayāna) 大般涅槃經, trans. Faxian (Eastern Jin), Taishō vol. 1, no. 0007.
-- *Zēngyī āhán jīng* 增壹阿含經, trans. Gautama Saṃghadeva (Eastern Jin), Taishō vol. 2, no. 0125.
+- *Dafangguang fo huayan jing* 大方廣佛華嚴經 (80-fascicle *Avataṃsaka*), trans. Śikṣānanda (Tang), Taishō vol. 10, no. 0279.
+- *Dafangguang fo huayan jing* 大方廣佛華嚴經 (60-fascicle *Avataṃsaka*), trans. Buddhabhadra (Eastern Jin), Taishō vol. 9, no. 0278.
+- *Chang ahan jing · Youxing jing* 長阿含經·遊行經, trans. Buddhayaśas and Zhu Fonian (Later Qin), Taishō vol. 1, no. 0001.
+- *Fo bannihuan jing* 佛般泥洹經, trans. Bai Fazu (Western Jin), Taishō vol. 1, no. 0005.
+- *Bannihuan jing* 般泥洹經, translator unknown, Taishō vol. 1, no. 0006.
+- *Da banniepan jing* (Hīnayāna) 大般涅槃經, trans. Faxian (Eastern Jin), Taishō vol. 1, no. 0007.
+- *Zengyi ahan jing* 增壹阿含經, trans. Gautama Saṃghadeva (Eastern Jin), Taishō vol. 2, no. 0125.
 
 #### Treatises and Commentaries
 
-- Zhiyan, *Huáyán yīchéng shíxuán mén* 華嚴一乘十玄門, Taishō vol. 45, no. 1868.
-- Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), Taishō vol. 45, no. 1866.
-- Fazang, *Huáyán jīng tànxuán jì* 華嚴經探玄記, Taishō vol. 35, no. 1733.
-- Fazang, *Xiū Huáyán àozhǐ wàng jìn huányuán guān* 修華嚴奧旨妄盡還源觀, Taishō vol. 45, no. 1876.
-- Fazang, *Huáyán jīn shīzǐ zhāng* 華嚴金師子章 (no independent Taishō number; carried in Jingyuan's *Yúnjiān lèijiě* Taishō vol. 45, no. 1880 and Chengqian's annotated recension Taishō vol. 45, no. 1881), Taishō vol. 45.
-- Chengguan, *Dàfāngguǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, Taishō vol. 35, no. 1735.
-- Chengguan, *Dàfāngguǎng fó huáyán jīng suí shū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔, Taishō vol. 36, no. 1736.
+- Zhiyan, *Huayan yisheng shixuan men* 華嚴一乘十玄門, Taishō vol. 45, no. 1868.
+- Fazang, *Huayan yisheng jiaoyi fenqi zhang* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), Taishō vol. 45, no. 1866.
+- Fazang, *Huayan jing tanxuan ji* 華嚴經探玄記, Taishō vol. 35, no. 1733.
+- Fazang, *Xiu Huayan aozhi wang jin huanyuan guan* 修華嚴奧旨妄盡還源觀, Taishō vol. 45, no. 1876.
+- Fazang, *Huayan jin shizi zhang* 華嚴金師子章 (no independent Taishō number; carried in Jingyuan's *Yunjian leijie* Taishō vol. 45, no. 1880 and Chengqian's annotated recension Taishō vol. 45, no. 1881), Taishō vol. 45.
+- Chengguan, *Dafangguang fo huayan jing shu* 大方廣佛華嚴經疏, Taishō vol. 35, no. 1735.
+- Chengguan, *Dafangguang fo huayan jing sui shu yanyi chao* 大方廣佛華嚴經隨疏演義鈔, Taishō vol. 36, no. 1736.
 
 ### II. Modern Scholarship
 
@@ -486,8 +486,8 @@ The next paper, S8-P08 (*Six Characteristics in Perfect Fusion*), will unfold th
 | *Bānníhuán jīng* | *Bānníhuán jīng* | T0006 | translator unknown |
 | *Dà bānnièpán jīng* | *Dà bānnièpán jīng* (Hīnayāna) | T0007 | trans. Faxian |
 | *Ekottara-āgama* | *Zēngyī āhán jīng* | T0125 | trans. Gautama Saṃghadeva |
-| *Shixuan men* | *Huáyán yīchéng shíxuán mén* | T1868 | composed by Zhiyan |
-| *Wujiao zhang* | *Huáyán yīchéng jiàoyì fēnqí zhāng* | T1866 | composed by Fazang |
+| *Shixuan men* | *Huáyán yīshèng shíxuán mén* | T1868 | composed by Zhiyan |
+| *Wujiao zhang* | *Huáyán yīshèng jiàoyì fēnqí zhāng* | T1866 | composed by Fazang |
 | *Tanxuan ji* | *Huáyán jīng tànxuán jì* | T1733 | composed by Fazang |
 | *Wàng jìn huányuán guān* | *Xiū Huáyán àozhǐ wàng jìn huányuán guān* | T1876 | composed by Fazang |
 | *Jin shizi zhang* | *Huáyán jīn shīzǐ zhāng* (carried in T1880/T1881) | T1880 / T1881 | composed by Fazang |
@@ -501,13 +501,13 @@ The next paper, S8-P08 (*Six Characteristics in Perfect Fusion*), will unfold th
 [^20]: Chengguan, *Huáyán jīng shū*, fasc. 16 (T1735). "Three-time radiant manifestation" is the author's heading, not an original name; it draws on the ninth meaning, constant manifestation, and the tenth, manifesting without facing, "because it does not wait to be faced, it manifests constantly, spanning the three times," 35.621c18–22.
 [^21]: Chengguan, *Huáyán jīng shū*, fasc. 16 (T1735). "Ultimately inexhaustible" is the author's heading, not an original name; it draws on the sixth meaning, vastness, "the samādhic mind pervades the *dharmadhātu*," 35.621c10–13.
 [^22]: For the original names of the ten meanings see the opening of §III. The third (the manifesting and the manifested are not one), fourth (not different), fifth (neither coming nor going) and seventh (universal manifestation, citing "bodhi universally seals all mental activities") meanings, not unfolded here, should be unfolded in their full form in S8-P11, together with the overall structure of the Ten Profound Gates.
-[^23]: Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng*, fasc. 4, "Ten Profound Gates · Gate of Simultaneous Mutual Correspondence," T1866.
+[^23]: Fazang, *Huáyán yīshèng jiàoyì fēnqí zhāng*, fasc. 4, "Ten Profound Gates · Gate of Simultaneous Mutual Correspondence," T1866.
 [^24]: *Huáyán jīng*, fasc. 51, *Rúlái chūxiàn pǐn* 37.2, "nine thunder-sounds" passage, T0279.
 [^25]: *Cháng āhán jīng · Yóuxíng jīng*, trans. Buddhayaśas and Zhu Fonian (Later Qin), T0001, Taishō vol. 1 (four bases of miraculous power, fasc. 2, 1.15b20–24; "know that it is the time," 1.15b26; the spat-food simile, fasc. 3, 1.17b13–16). The line "precisely because of you" is not in the *Yóuxíng jīng*; it is from Faxian's (Eastern Jin) *Dà bānnièpán jīng*, first fascicle (T0007, 1.192b26–27), as is "I have already consented to Māra: three months hence I shall enter final *nirvāṇa*" (1.192b18). Compare also *Fó bānníhuán jīng*, T0005, Taishō vol. 1; *Bānníhuán jīng*, T0006, Taishō vol. 1; *Dà bānnièpán jīng* (Hīnayāna), T0007, Taishō vol. 1.
 [^26]: *Zēngyī āhán jīng*, fasc. 18, trans. Gautama Saṃghadeva (Eastern Jin), T0125, Taishō vol. 2. The passage on Śāriputra's prior *parinirvāṇa*, containing the Buddha's rhetorical "Why do I not remain for a kalpa?" and the "four inconceivables" section.
 [^27]: See the S6 *Śūraṅgama* series' treatment of the Chapter on the Perfect Penetration of the Ear-Faculty. This paper does not duplicate that discussion.
 [^28]: *Huáyán jīng*, fasc. 52, *Rúlái chūxiàn pǐn* 37.3, prose section, T0279.
-[^29]: The "Gate of Subtle Inclusion and Establishment" is one of the Ten Profound Gates of the Huayan school. In the New Ten Profound Gates (Fazang, *Huáyán jīng tànxuán jì*, T1733) it is the sixth gate; in the Old Ten Profound Gates (Zhiyan, *Huáyán yīchéng shíxuán mén* 華嚴一乘十玄門, T1868; Fazang's earlier ten-gate formulation in the *Huayan wujiao zhang*, T1866) the position differs slightly. For the detailed structural analysis, see S8-P11 (*Synoptic Reading of the Ten Profound Gates*).
+[^29]: The "Gate of Subtle Inclusion and Establishment" is one of the Ten Profound Gates of the Huayan school. In the New Ten Profound Gates (Fazang, *Huáyán jīng tànxuán jì*, T1733) it is the sixth gate; in the Old Ten Profound Gates (Zhiyan, *Huáyán yīshèng shíxuán mén* 華嚴一乘十玄門, T1868; Fazang's earlier ten-gate formulation in the *Huayan wujiao zhang*, T1866) the position differs slightly. For the detailed structural analysis, see S8-P11 (*Synoptic Reading of the Ten Profound Gates*).
 [^30]: "The one who pays homage and the one who receives it—their natures are empty and still" is a widely used phrase in Chinese Buddhist prostration verses, ultimately rooted in the spirit of Samantabhadra's Vows of Practice in the *Avataṃsaka*, and broadly adopted in later liturgical manuals.
 
 ---

@@ -338,7 +338,7 @@ But the premise is—you must, like the farmer, plant first.
 - *Commentary on the Awakening of Mahāyāna Faith* (*Dasheng Qixin Lun Yiji* 大乘起信論義記), by Fazang, Taishō vol. 44, no. 1846.
 - *Mahāyānasaṃgraha-bhāṣya* (*She dasheng lun shi* 攝大乘論釋) (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, no. 1595.
 - 《大方廣佛華嚴經》(四十卷本) *Avataṃsaka Sūtra* (40-fascicle edition), trans. Prajñā, Taishō vol. 10, no. 0293.
-- 《八識規矩補註》*Bāshí Guījǔ Bǔzhù* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, no. 1865.
+- 《八識規矩補註》*Bashi Guiju Buzhu* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, no. 1865.
 - *Abhidharmakośabhāṣya* (*Apidamo jushe lun* 阿毘達磨俱舍論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 29, no. 1558.
 - *Mahāparinirvāṇa Sūtra* (*Da banniepan jing* 大般涅槃經), trans. Dharmakṣema, Taishō vol. 12, no. 0374.
 

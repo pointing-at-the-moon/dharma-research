@@ -46,7 +46,7 @@ But there is a deeper consideration. The chapter structure of this paper should 
 
 ### 1.2 A One-Paragraph Historical Background
 
-Zhiyan, in his *One-Vehicle Ten Profound Gates of the Avataṃsaka* (*Huáyán yīchéng shíxuán mén* 華嚴一乘十玄門, T1868), gave the first systematic formulation of the Ten Gates, building on the teachings of Du Shun. Fazang, in his *Treatise on the Five Doctrines of the One-Vehicle of the Avataṃsaka* (*Huáyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章, T1866, fascicle four), retained Zhiyan's gate-names but rearranged the sequence. In his later *Record of Investigations into the Mysteries of the Avataṃsaka* (*Huáyán jīng tànxuán jì* 華嚴經探玄記, T1733, fascicle one), Fazang rearranged them a second time and substituted the "Gate of Unhindered Freedom of Broad and Narrow" (*guǎngxiá zìzài wúài mén* 廣狹自在無礙門) for Zhiyan's "Gate of Pure-and-Mixed Adornments" (*zhūzàng chúnzá jùdé mén* 諸藏純雜具德門), and substituted the "Gate of Host-and-Guest Perfect Clarity and Complete Virtue" (*zhǔbàn yuánmíng jùdé mén* 主伴圓明具德門) for the "Gate of Mind-Only Perfect Turning" (*wéixīn huízhuǎn shànchéng mén* 唯心迴轉善成門)[^1]. Chengguan, in his *Commentary on the Avataṃsaka Sūtra* (*Dà fāng guǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, T1735) and in the *Elaborated Exegesis* (*Dà fāng guǎng fó huáyán jīng suíshū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔, T1736), made explicit that the ten-gate structure is "one-totality and nine-differentiations"—the Gate of Simultaneous Mutual Correspondence is the totality, the remaining nine are differentiations[^2]. **All three patriarchs disagreed on the sequence, and Chengguan explicitly stated that the ten gates are not a linear progression**.
+Zhiyan, in his *One-Vehicle Ten Profound Gates of the Avataṃsaka* (*Huáyán yīshèng shíxuán mén* 華嚴一乘十玄門, T1868), gave the first systematic formulation of the Ten Gates, building on the teachings of Du Shun. Fazang, in his *Treatise on the Five Doctrines of the One-Vehicle of the Avataṃsaka* (*Huáyán yīshèng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章, T1866, fascicle four), retained Zhiyan's gate-names but rearranged the sequence. In his later *Record of Investigations into the Mysteries of the Avataṃsaka* (*Huáyán jīng tànxuán jì* 華嚴經探玄記, T1733, fascicle one), Fazang rearranged them a second time and substituted the "Gate of Unhindered Freedom of Broad and Narrow" (*guǎngxiá zìzài wúài mén* 廣狹自在無礙門) for Zhiyan's "Gate of Pure-and-Mixed Adornments" (*zhūzàng chúnzá jùdé mén* 諸藏純雜具德門), and substituted the "Gate of Host-and-Guest Perfect Clarity and Complete Virtue" (*zhǔbàn yuánmíng jùdé mén* 主伴圓明具德門) for the "Gate of Mind-Only Perfect Turning" (*wéixīn huízhuǎn shànchéng mén* 唯心迴轉善成門)[^1]. Chengguan, in his *Commentary on the Avataṃsaka Sūtra* (*Dà fāng guǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, T1735) and in the *Elaborated Exegesis* (*Dà fāng guǎng fó huáyán jīng suíshū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔, T1736), made explicit that the ten-gate structure is "one-totality and nine-differentiations"—the Gate of Simultaneous Mutual Correspondence is the totality, the remaining nine are differentiations[^2]. **All three patriarchs disagreed on the sequence, and Chengguan explicitly stated that the ten gates are not a linear progression**.
 
 The significance of this history for the present paper lies not in textual criticism but in a principle it demonstrates: **the order of the Ten Profound Gates is not fixed**. Order can be rearranged for pedagogical purpose; gate-names can be substituted for doctrinal precision. This is precisely the principle that "patriarchs may rearrange, but what the Buddha said may not be rearranged"—an internal warrant from within the Huayan tradition itself. What this paper does—taking the sequence of Samantabhadra's Ten Great Vows as its organizing axis and pairing it with the Ten Profound Gates—continues the same tradition. What Fazang did in the seventh century, this paper does in the twenty-first, in the same spirit.
 
@@ -251,7 +251,7 @@ When the inner grammar of this prostration ceases to be the dualistic structure 
 
 ### 3.2 Vow 2: Praise of the Tathāgata × Gate of Unhindered Freedom of Broad and Narrow
 
-**The action.** The nine-character formula "Homage to the Original Teacher Śākyamuni Buddha" (*Nánwú běnshī Shìjiāmóuní Fó* 南無本師釋迦牟尼佛). Or the recitation of a verse of praise: "In heaven and on earth there is none like the Buddha; in the worlds of the ten directions there is also none to compare; of all that the world contains I have seen, none is like the Buddha." A single word, a single phrase, a single verse—this is the physical action of praise.
+**The action.** The nine-character formula "Homage to the Original Teacher Śākyamuni Buddha" (*Námó běnshī Shìjiāmóuní Fó* 南無本師釋迦牟尼佛). Or the recitation of a verse of praise: "In heaven and on earth there is none like the Buddha; in the worlds of the ten directions there is also none to compare; of all that the world contains I have seen, none is like the Buddha." A single word, a single phrase, a single verse—this is the physical action of praise.
 
 **The window opens.** The Gate of Unhindered Freedom of Broad and Narrow states that "the divisible is the indivisible, the indivisible is the divisible; broad and narrow are sovereign and without obstruction" (Fazang's phrasing in the *Record of Investigations*)[^22]. A limited material unit—say, a single lotus leaf, or the nine-character buddha-name—can "universally pervade the dharma-realm without losing its own position"—remaining both finite and pervasive of the infinite dharma-realm.
 
@@ -798,20 +798,20 @@ After reading this paper, please put it down and continue your daily practice—
 - *Mahāvaipulya-buddhāvataṃsaka-sūtra* (eighty-fascicle Huayan), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
 - *Mahāvaipulya-buddhāvataṃsaka-sūtra* (sixty-fascicle Huayan), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
 - *Mahāvaipulya-buddhāvataṃsaka-sūtra* (forty-fascicle Huayan, including the final fascicle of the *Samantabhadra-caryā-praṇidhāna*), trans. Prajñā, Taishō vol. 10, no. 0293.
-- *Saṃyuktāgama* (*Zá ā-hán jīng*), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
-- *Dīrghāgama* (*Cháng ā-hán jīng*), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
+- *Saṃyuktāgama* (*Za a-han jing*), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Dīrghāgama* (*Chang a-han jing*), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
 
 **Śāstras and Commentaries**
 
-- *Huayan One-Vehicle Ten Profound Gates* (*Huāyán yīchéng shíxuán mén* 華嚴一乘十玄門), Zhiyan, transmitting Du Shun's teachings, Taishō vol. 45, no. 1868.
-- *Treatise on the Five Teachings of the One Vehicle of Huayan* (*Huāyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章), Fazang, Taishō vol. 45, no. 1866.
-- *Elaborated Exegesis of the Huayan Sūtra* (*Huāyán jīng tànxuán jì* 華嚴經探玄記), Fazang, Taishō vol. 35, no. 1733.
-- *Contemplation of the Profound Meaning of Huayan: Exhausting the Deluded and Returning to the Source* (*Xiū huāyán àozhǐ wàngjìn huányuán guān* 修華嚴奧旨妄盡還源觀), Fazang, Taishō vol. 45, no. 1876.
-- *Cloud-Boundary Type-Commentary on the Golden Lion Chapter of Huayan* (*Huāyán jīn shīzi zhāng yún jiān lèi jiě* 華嚴金師子章雲間類解), Fazang composing, Jingyuan commentating, Taishō vol. 45, no. 1880.
-- *Annotated Golden Lion Chapter of the Huayan Sūtra* (*Huāyán jīng jīn shīzi zhāng zhù* 華嚴經金師子章註), Fazang composing, Chengqian annotating, Taishō vol. 45, no. 1881.
-- *Commentary on the Mahāvaipulya-buddhāvataṃsaka-sūtra* (*Dà fāngguǎng fó huāyán jīng shū* 大方廣佛華嚴經疏), Chengguan, Taishō vol. 35, no. 1735.
-- *Sub-Commentary Elaborating the Meaning of the Commentary on the Huayan Sūtra* (*Dà fāngguǎng fó huāyán jīng suíshū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔), Chengguan, Taishō vol. 36, no. 1736.
-- *Commentary on the Contemplation of the Dharmadhātu of Huayan* (*Zhù huāyán fǎjiè guānmén* 註華嚴法界觀門), Zongmi, Taishō vol. 45, no. 1884.
+- *Huayan One-Vehicle Ten Profound Gates* (*Huayan yisheng shixuan men* 華嚴一乘十玄門), Zhiyan, transmitting Du Shun's teachings, Taishō vol. 45, no. 1868.
+- *Treatise on the Five Teachings of the One Vehicle of Huayan* (*Huayan yisheng jiaoyi fenqi zhang* 華嚴一乘教義分齊章), Fazang, Taishō vol. 45, no. 1866.
+- *Elaborated Exegesis of the Huayan Sūtra* (*Huayan jing tanxuan ji* 華嚴經探玄記), Fazang, Taishō vol. 35, no. 1733.
+- *Contemplation of the Profound Meaning of Huayan: Exhausting the Deluded and Returning to the Source* (*Xiu huayan aozhi wangjin huanyuan guan* 修華嚴奧旨妄盡還源觀), Fazang, Taishō vol. 45, no. 1876.
+- *Cloud-Boundary Type-Commentary on the Golden Lion Chapter of Huayan* (*Huayan jin shizi zhang yun jian lei jie* 華嚴金師子章雲間類解), Fazang composing, Jingyuan commentating, Taishō vol. 45, no. 1880.
+- *Annotated Golden Lion Chapter of the Huayan Sūtra* (*Huayan jing jin shizi zhang zhu* 華嚴經金師子章註), Fazang composing, Chengqian annotating, Taishō vol. 45, no. 1881.
+- *Commentary on the Mahāvaipulya-buddhāvataṃsaka-sūtra* (*Da fangguang fo huayan jing shu* 大方廣佛華嚴經疏), Chengguan, Taishō vol. 35, no. 1735.
+- *Sub-Commentary Elaborating the Meaning of the Commentary on the Huayan Sūtra* (*Da fangguang fo huayan jing suishu yanyi chao* 大方廣佛華嚴經隨疏演義鈔), Chengguan, Taishō vol. 36, no. 1736.
+- *Commentary on the Contemplation of the Dharmadhātu of Huayan* (*Zhu huayan fajie guanmen* 註華嚴法界觀門), Zongmi, Taishō vol. 45, no. 1884.
 
 ### II. Modern Scholarship
 

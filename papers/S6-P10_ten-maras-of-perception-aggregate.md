@@ -594,8 +594,8 @@ From "severing" to "obtaining" — this is the entire substance of the ten perce
 1. *Dafoding rulai miyin xiuzheng liaoyi zhupusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經 (*Śūraṅgama Sūtra*), trans. Pāramiti, Taishō vol. 19, no. 0945.
 2. *Za ahan jing* 雜阿含經 (*Saṃyukta Āgama*), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
 3. *Zhong ahan jing* 中阿含經 (*Madhyama Āgama*), trans. Gautama Saṅghadeva, Taishō vol. 1, no. 0026.
-4. Zǐxuán 子璿, *Shoulengyan yishu zhujing* 首楞嚴義疏注經, Taishō vol. 39, no. 1799.
-5. Zhēnjiàn (Jiāoguāng) 真鑒（交光）, *Dafoding shoulengyan jing zhengmai shu* 大佛頂首楞嚴經正脈疏, *Wanzi xu zang* vol. 12, no. 275.
+4. Zixuan 子璿, *Shoulengyan yishu zhujing* 首楞嚴義疏注經, Taishō vol. 39, no. 1799.
+5. Zhenjian (Jiaoguang) 真鑒（交光）, *Dafoding shoulengyan jing zhengmai shu* 大佛頂首楞嚴經正脈疏, *Wanzi xu zang* vol. 12, no. 275.
 
 ### Modern Scholarly References
 

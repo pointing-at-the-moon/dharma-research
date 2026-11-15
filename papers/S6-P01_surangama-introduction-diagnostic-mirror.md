@@ -397,11 +397,11 @@ This is the entry point for S6-P02.
 
 ### I. Primary Buddhist Sources
 
-- *Dà Fódǐng Rúlái Mìyīn Xiūzhèng Liǎoyì Zhū Púsà Wànxíng Shǒuléngyán Jīng* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti (般剌蜜帝), Taishō vol. 19, no. 0945.
-- *Shǒuléngyán Yìshū Zhùjīng* 首楞嚴義疏注經, compiled by Zixuan 子璿, Taishō vol. 39, no. 1799.
-- *Dà Fódǐng Shǒuléngyán Jīng Zhèngmài Shū* 楞嚴經正脈疏, by Jiāoguāng Zhēnjiàn 交光真鑑, X12, No. 275.
-- *Dàzhìdù Lùn* 大智度論, by Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
-- *Jīngāng Bōrě Bōluómì Jīng* 金剛般若波羅蜜經, trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *Da Foding Rulai Miyin Xiuzheng Liaoyi Zhu Pusa Wanxing Shoulengyan Jing* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti (般剌蜜帝), Taishō vol. 19, no. 0945.
+- *Shoulengyan Yishu Zhujing* 首楞嚴義疏注經, compiled by Zixuan 子璿, Taishō vol. 39, no. 1799.
+- *Da Foding Shoulengyan Jing Zhengmai Shu* 楞嚴經正脈疏, by Jiaoguang Zhenjian 交光真鑑, X12, No. 275.
+- *Dazhidu Lun* 大智度論, by Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
+- *Jingang Bore Boluomi Jing* 金剛般若波羅蜜經, trans. Kumārajīva, Taishō vol. 8, no. 0235.
 
 ### II. Sūtra & Śāstra Index
 

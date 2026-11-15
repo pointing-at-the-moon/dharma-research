@@ -432,7 +432,7 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 9. *Prajñāpāramitā-hṛdaya Sūtra* (Heart Sūtra), trans. Xuanzang, Taishō vol. 8, no. 0251.
 10. *Vimalakīrti-nirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva, Taishō vol. 14, no. 0475.
 11. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
-12. *Bāshí guījǔ bǔzhù* (八識規矩補註), annotated by Putai, Taishō vol. 45, no. 1865.
+12. *Bashi guiju buzhu* (八識規矩補註), annotated by Putai, Taishō vol. 45, no. 1865.
 13. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
 14. *Abhidharmasamuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論), comp. Sthiramati, trans. Xuanzang, Taishō vol. 31, no. 1606.
 15. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.

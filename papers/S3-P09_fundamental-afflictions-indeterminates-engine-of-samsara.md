@@ -635,7 +635,7 @@ Next, we turn to the fifth category of mental factors — the twenty subsidiary 
 6. *Śūraṅgama-sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
 7. *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
 8. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), spoken by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
-9. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai, Taishō vol. 45, no. 1865.
+9. *Bashi Guiju Buzhu* (八識規矩補註), annotated by Putai, Taishō vol. 45, no. 1865.
 10. *Pañcaskandhaka-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1612.
 11. *Śatadharmaprakāśamukha-śāstra* (*Dasheng baifa mingmen lun* 大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
 

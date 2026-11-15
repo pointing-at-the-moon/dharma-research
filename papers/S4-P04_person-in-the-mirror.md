@@ -270,14 +270,14 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 ### I. Primary Buddhist Sources
 
-1. *Dà Fódǐng Rúlái Mìyīn Xiūzhèng Liǎoyì Zhū Púsà Wànxíng Shǒuléngyán Jīng* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
-2. *Jīngāng Bōrě Bōluómì Jīng* (金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
-3. *Fó Shuō Néng Duàn Jīngāng Bōrě Bōluómìduō Jīng* (能斷金剛般若波羅蜜多經), trans. Yijing, Taishō vol. 8, no. 0239.
-4. *Liùzǔ Dàshī Fǎbǎo Tánjīng* (六祖大師法寶壇經), ed. Zongbao, Taishō vol. 48, no. 2008.
-5. *Chéng Wéishì Lùn* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
-6. *Chéng Wéishì Lùn Shùjì* (成唯識論述記), by Kuiji, Taishō vol. 43, no. 1830.
-7. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), by Putai, Taishō vol. 45, no. 1865.
-8. *Jīngāng Bōrě Bōluómì Jīng Pò Qǔzhuó Bùhuài Jiǎmíng Lùn* (金剛般若波羅蜜經破取著不壞假名論), by Guṇada 功德施, trans. Divākara 地婆訶羅, Taishō vol. 25, no. 1515.
+1. *Da Foding Rulai Miyin Xiuzheng Liaoyi Zhu Pusa Wanxing Shoulengyan Jing* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+2. *Jingang Bore Boluomi Jing* (金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+3. *Fo Shuo Neng Duan Jingang Bore Boluomiduo Jing* (能斷金剛般若波羅蜜多經), trans. Yijing, Taishō vol. 8, no. 0239.
+4. *Liuzu Dashi Fabao Tanjing* (六祖大師法寶壇經), ed. Zongbao, Taishō vol. 48, no. 2008.
+5. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+6. *Cheng Weishi Lun Shuji* (成唯識論述記), by Kuiji, Taishō vol. 43, no. 1830.
+7. *Bashi Guiju Buzhu* (八識規矩補註), by Putai, Taishō vol. 45, no. 1865.
+8. *Jingang Bore Boluomi Jing Po Quzhuo Buhuai Jiaming Lun* (金剛般若波羅蜜經破取著不壞假名論), by Guṇada 功德施, trans. Divākara 地婆訶羅, Taishō vol. 25, no. 1515.
 
 ### II. Modern Scholarship
 
@@ -359,7 +359,7 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 [^23]: *Śūraṅgama Sūtra*, fascicle 4, doctrinal significance of the Yaṇḍadatta passage: the reflected head represents what the grasping mind (*prapañca-citta*) perceives as characteristics; one's own head represents intrinsic awareness (*svābhāvika-bodhi*). The "head" (awareness) was never lost — it simply cannot be objectified.
 
-[^24]: Zixuan (子璿), *Jīngāng Jīng Cuǎnyào Kāndìng Jì* (金剛經纂要刊定記), fascicle 3: the Utpalavarṇā kōan — "Grasping characteristics and confused about truth, one is a thousand miles away even face to face; emptying the mind and embodying things, heaven and earth are one family" (「執相迷真對面千里，虛心體物天地一家」), T33, No. 1702.
+[^24]: Zixuan (子璿), *Jīngāng Jīng Zuǎnyào Kāndìng Jì* (金剛經纂要刊定記), fascicle 3: the Utpalavarṇā kōan — "Grasping characteristics and confused about truth, one is a thousand miles away even face to face; emptying the mind and embodying things, heaven and earth are one family" (「執相迷真對面千里，虛心體物天地一家」), T33, No. 1702.
 
 [^25]: *Śūraṅgama Sūtra*, fascicle 6, Avalokiteśvara's method of perfect penetration: "Beginning within hearing, I entered the stream and relinquished the object… arising and ceasing both ceased, quiescent cessation manifested" (「初於聞中入流亡所……生滅既滅，寂滅現前」), T19, No. 945.
 

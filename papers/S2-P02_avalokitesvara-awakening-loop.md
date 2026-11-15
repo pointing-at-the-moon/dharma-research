@@ -69,7 +69,7 @@ Kuiji explicates through compassion-wisdom unity; Woncheuk's four-wisdom framewo
 
 ### 2.3 The Sanskrit Name: Avalokiteśvara versus Avalokitasvara
 
-The Sanskrit Avalokiteśvara (*avalokita* + *īśvara*, "sovereign lord of observation") differs from the earlier Avalokitasvara (*avalokita* + *svara*, "one who observes sounds"). The *Yujia lunji* (Record of the Yogācārabhūmi, T1828) states plainly:
+The Sanskrit Avalokiteśvara (*avalokita* + *īśvara*, "sovereign lord of observation") differs from the earlier Avalokitasvara (*avalokita* + *svara*, "one who observes sounds"). The *Yuqie lunji* (Record of the Yogācārabhūmi, T1828) states plainly:
 
 > "Avalokiteśvara Bodhisattva" — the old translation says "Avalokitasvara" (Observer of the World's Sounds), which is a translator's error. ... Now, according to the Sanskrit, the correct translation is "Avalokiteśvara" (Sovereign Observer).[^5]
 
@@ -344,7 +344,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 8. Nāgārjuna, trans. Kumārajīva, *Dazhidu lun* (大智度論), Taishō vol. 25, no. 1509.
 9. Trans. Xuanzang, *Jie shenmi jing* (解深密經 / *Saṃdhinirmocana-sūtra*), Taishō vol. 16, no. 0676.
 10. Trans. Kumārajīva, *Jingang bore boluomi jing* (金剛般若波羅蜜經 / *Vajracchedikā*), Taishō vol. 8, no. 0235.
-11. Dunlun, *Yujia lunji* (瑜伽論記), Taishō vol. 42, no. 1828.
+11. Dunlun, *Yuqie lunji* (瑜伽論記), Taishō vol. 42, no. 1828.
 
 ### II. Modern Scholarship
 
@@ -357,7 +357,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 | Avalokiteśvara — compassion-wisdom, ten freedoms | Youzan, fasc. 1 | T1710 |
 | Avalokiteśvara — principle-phenomena unobstructed | Brief Commentary, fasc. 1 | T1712 |
 | Bodhi — four-wisdom scheme (pratyavekṣaṇā-jñāna) | Heart Sūtra Commentary, fasc. 1 | T1711 |
-| Avalokiteśvara vs Avalokitasvara (translation) | Yujia lunji, fasc. 21 | T1828 |
+| Avalokiteśvara vs Avalokitasvara (translation) | Yuqie lunji, fasc. 21 | T1828 |
 | Avalokiteśvara — complete meaning | Lüeshu lianzhuji (T1713), fasc. 2 | T1713 |
 | Deep practice — two dimensions of depth | Heart Sūtra Commentary, fasc. 1 | T1711 |
 | Prajñā as eye of six pāramitā (blind analogy) | Dazhidu lun, fasc. 62 | T1509 |
@@ -397,7 +397,7 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 [^4]: Woncheuk, *Heart Sūtra Commentary*, fasc. 1, T33, No. 1711. The four-wisdom-to-eight-consciousness correspondence: 8th → *ādarśa-jñāna*, 7th → *samatā-jñāna*, 6th → *pratyavekṣaṇā-jñāna*, first five → *kṛtyānuṣṭhāna-jñāna*.
 
-[^5]: Dunlun, *Yujia lunji*, fasc. 21, T42, No. 1828. This passage directly identifies the older translation "Avalokitasvara" as a translation error.
+[^5]: Dunlun, *Yuqie lunji*, fasc. 21, T42, No. 1828. This passage directly identifies the older translation "Avalokitasvara" as a translation error.
 
 [^6]: Shihui, *Lüeshu lianzhuji* 《般若心經略疏連珠記》, fasc. 2, T33, No. 1713, 0562a01–04. "The sūtra takes the complete meaning" follows the preceding account of verbal, bodily, and mental karma — "this is the meaning of sovereignty"; contrasting the two names as prajñā versus compassion is the author's interpretation.
 

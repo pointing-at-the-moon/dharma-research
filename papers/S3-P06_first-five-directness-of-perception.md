@@ -519,7 +519,7 @@ S3-P05 unfolded the translator — how the sixth consciousness receives signals 
 11. *Vimalakīrtinirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva (Later Qin). Taishō vol. 14, no. 0475.
 12. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna, trans. Kumārajīva (Later Qin). Taishō vol. 25, no. 1509.
 13. *Cheng Weishi Lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang). Taishō vol. 31, no. 1585.
-14. *Bāshí guījǔ bǔzhù* 八識規矩補註, annotated by Putai (Ming). Taishō vol. 45, no. 1865.
+14. *Bashi guiju buzhu* 八識規矩補註, annotated by Putai (Ming). Taishō vol. 45, no. 1865.
 15. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, trans. Xuanzang (Tang). Taishō vol. 31, no. 1614.
 16. *Prajñāpāramitāhṛdaya-sūtra Lüeshu* (*Bore boluomiduo xinjing lüeshu* 般若波羅蜜多心經略疏), by Fazang (Tang). Taishō vol. 33, no. 1712.
 
