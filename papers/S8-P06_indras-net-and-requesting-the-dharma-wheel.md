@@ -396,21 +396,21 @@ The paper closes here. May the reader bring Indra's net back from a beautiful im
 
 #### Sūtra
 
-- *Mahāvaipulya-buddha-avataṃsaka-sūtra* (80-fascicle *Avataṃsaka*), trans. Śikṣānanda, T0279, *Taishō* vol. 10.
-- *Mahāvaipulya-buddha-avataṃsaka-sūtra* (60-fascicle *Avataṃsaka*), trans. Buddhabhadra, T0278, *Taishō* vol. 9.
-- *Ekottarāgama* (《增壹阿含經》), trans. Gautama Saṃghadeva, T0125, *Taishō* vol. 2.
-- *Qishi jing* (《起世經》), trans. Jñānagupta et al., T0024, *Taishō* vol. 1.
-- *Dīrghāgama · Shiji jing* (《長阿含經·世記經》), trans. Buddhayaśas and Zhu Fonian, T0001, *Taishō* vol. 1.
+- *Mahāvaipulya-buddha-avataṃsaka-sūtra* (80-fascicle *Avataṃsaka*), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Mahāvaipulya-buddha-avataṃsaka-sūtra* (60-fascicle *Avataṃsaka*), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+- *Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經), trans. Gautama Saṃghadeva, Taishō vol. 2, no. 0125.
+- *Qishi jing* (《起世經》), trans. Jñānagupta et al., Taishō vol. 1, no. 0024.
+- *Dīrghāgama · Shiji jing* (*Chang ahan jing: Shiji jing* 長阿含經·世記經), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
 
 #### Treatise and Commentary
 
-- Zhiyan, *Huayan yisheng shixuan men* (《華嚴一乘十玄門》), T1868, *Taishō* vol. 45.
-- Fazang, *Huayan yisheng jiaoyi fenqi zhang* (*Huayan wujiao zhang*, 《華嚴一乘教義分齊章》/《華嚴五教章》), T1866, *Taishō* vol. 45.
-- Fazang, *Huayan jing tanxuan ji* (《華嚴經探玄記》), T1733, *Taishō* vol. 35.
-- Chengguan, *Dafangguang fo huayan jing shu* (《大方廣佛華嚴經疏》), T1735, *Taishō* vol. 35.
-- Chengguan, *Dafangguang fo huayan jing suishu yanyi chao* (《大方廣佛華嚴經隨疏演義鈔》), T1736, *Taishō* vol. 36.
-- Chengguan, *Huayan fajie xuanjing* (《華嚴法界玄鏡》), T1883, *Taishō* vol. 45.
-- Zongmi, *Zhu Huayan fajie guanmen* (《註華嚴法界觀門》), T1884, *Taishō* vol. 45.
+- Zhiyan, *Huayan yisheng shixuan men* (《華嚴一乘十玄門》), Taishō vol. 45, no. 1868.
+- Fazang, *Huayan yisheng jiaoyi fenqi zhang* (*Huayan wujiao zhang*, 《華嚴一乘教義分齊章》/《華嚴五教章》), Taishō vol. 45, no. 1866.
+- Fazang, *Huayan jing tanxuan ji* (《華嚴經探玄記》), Taishō vol. 35, no. 1733.
+- Chengguan, *Dafangguang fo huayan jing shu* (《大方廣佛華嚴經疏》), Taishō vol. 35, no. 1735.
+- Chengguan, *Dafangguang fo huayan jing suishu yanyi chao* (《大方廣佛華嚴經隨疏演義鈔》), Taishō vol. 36, no. 1736.
+- Chengguan, *Huayan fajie xuanjing* (《華嚴法界玄鏡》), Taishō vol. 45, no. 1883.
+- Zongmi, *Zhu Huayan fajie guanmen* (《註華嚴法界觀門》), Taishō vol. 45, no. 1884.
 
 ### II. Modern Scholarship
 

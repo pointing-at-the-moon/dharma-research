@@ -196,13 +196,13 @@ This analogy is taken only at the level of formal structure ("a static resource 
 
 ### I. Primary Buddhist Sources
 
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 60-fascicle edition). Translated by Buddhabhadra. *Taishō Tripiṭaka* Vol. 9, No. 278.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle edition). Translated by Śikṣānanda. *Taishō Tripiṭaka* Vol. 10, No. 279.
-- *Mahāprajñāpāramitā Śāstra* (大智度論). Composed by Nāgārjuna, translated by Kumārajīva. *Taishō Tripiṭaka* Vol. 25, No. 1509.
-- *Daśabhūmika-vibhāṣā* (十住毗婆沙論). Composed by Nāgārjuna, translated by Kumārajīva. *Taishō Tripiṭaka* Vol. 26, No. 1521.
-- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論). Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1585.
-- *Awakening of Mahāyāna Faith* (大乘起信論). Composed by Aśvaghoṣa, translated by Paramārtha. *Taishō Tripiṭaka* Vol. 32, No. 1666.
-- *Commentary on the Avataṃsaka Sūtra* (華嚴經疏). By Chengguan. *Taishō Tripiṭaka* Vol. 35, No. 1735.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60-fascicle edition). Translated by Buddhabhadra. Taishō vol. 9, no. 0278.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle edition). Translated by Śikṣānanda. Taishō vol. 10, no. 0279.
+- *Mahāprajñāpāramitā Śāstra* (*Da zhidu lun* 大智度論). Composed by Nāgārjuna, translated by Kumārajīva. Taishō vol. 25, no. 1509.
+- *Daśabhūmika-vibhāṣā* (*Shizhu piposha lun* 十住毗婆沙論). Composed by Nāgārjuna, translated by Kumārajīva. Taishō vol. 26, no. 1521.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論). Composed by Dharmapāla et al., translated by Xuanzang. Taishō vol. 31, no. 1585.
+- *Awakening of Mahāyāna Faith* (*Dasheng qixin lun* 大乘起信論). Composed by Aśvaghoṣa, translated by Paramārtha. Taishō vol. 32, no. 1666.
+- *Commentary on the Avataṃsaka Sūtra* (*Huayan jing shu* 華嚴經疏). By Chengguan. Taishō vol. 35, no. 1735.
 
 ### II. Modern Scholarship
 

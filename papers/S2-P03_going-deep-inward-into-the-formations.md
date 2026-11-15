@@ -356,14 +356,14 @@ The next line of the Heart Sūtra reads "illuminated the emptiness of the five a
 
 ### I. Primary Buddhist Sources
 
-1. Kuiji, *Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊, *Taishō* vol. 33, No. 1710.
-2. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* 成唯識論, *Taishō* vol. 31, No. 1585.
-3. Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, *Taishō* vol. 30, No. 1579.
-4. Nāgārjuna, trans. Kumārajīva, *Mahāprajñāpāramitā-śāstra* 大智度論, *Taishō* vol. 25, No. 1509.
-5. Trans. Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80 fascicles), *Taishō* vol. 10, No. 0279.
-6. Trans. Kumārajīva, *Saddharmapuṇḍarīka Sūtra* 妙法蓮華經, *Taishō* vol. 9, No. 0262.
-7. Trans. Pāramiti, *Śūraṅgama Sūtra* 大佛頂首楞嚴經, *Taishō* vol. 19, No. 0945.
-8. Woncheuk, *Bore boluomiduo xinjing zan* 般若波羅蜜多心經贊, *Taishō* vol. 33, No. 1711.
+1. Kuiji, *Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊, Taishō vol. 33, no. 1710.
+2. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* 成唯識論, Taishō vol. 31, no. 1585.
+3. Maitreya, trans. Xuanzang, *Yogācārabhūmi-śāstra* 瑜伽師地論, Taishō vol. 30, no. 1579.
+4. Nāgārjuna, trans. Kumārajīva, *Mahāprajñāpāramitā-śāstra* 大智度論, Taishō vol. 25, no. 1509.
+5. Trans. Śikṣānanda, *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80 fascicles), Taishō vol. 10, no. 0279.
+6. Trans. Kumārajīva, *Saddharmapuṇḍarīka Sūtra* 妙法蓮華經, Taishō vol. 9, no. 0262.
+7. Trans. Pāramiti, *Śūraṅgama Sūtra* 大佛頂首楞嚴經, Taishō vol. 19, no. 0945.
+8. Woncheuk, *Bore boluomiduo xinjing zan* 般若波羅蜜多心經贊, Taishō vol. 33, no. 1711.
 
 ### II. Modern Scholarship
 

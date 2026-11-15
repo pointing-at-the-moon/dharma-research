@@ -340,13 +340,13 @@ See if you can do it.
 
 ### I. Primary Buddhist Sources 佛教原典
 
-- *Saṃyukta Āgama* 《雜阿含經》, trans. Guṇabhadra 求那跋陀羅, *Taishō* vol. 2, No. 0099.
-- *Separate Translation Saṃyukta Āgama* 《別譯雜阿含經》, translator unknown 失譯, *Taishō* vol. 2, No. 0100.
-- *Avataṃsaka Sūtra* 《大方廣佛華嚴經》, trans. Śikṣānanda 實叉難陀, *Taishō* vol. 10, No. 0279.
-- *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna 龍樹菩薩, trans. Kumārajīva 鳩摩羅什, *Taishō* vol. 25, No. 1509.
-- *Yogācārabhūmi-śāstra* 《瑜伽師地論》, by Maitreya 彌勒菩薩, trans. Xuanzang 唐玄奘, *Taishō* vol. 30, No. 1579.
-- *Mohe Zhiguan* 《摩訶止觀》, by Zhiyi 智顗, recorded by Guanding 灌頂, *Taishō* vol. 46, No. 1911.
-- *Shimen Guijing Yi* 《釋門歸敬儀》, by Daoxuan 道宣, *Taishō* vol. 45, No. 1896.
+- *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra 求那跋陀羅, Taishō vol. 2, no. 0099.
+- *Separate Translation Saṃyukta Āgama* (*Bieyi za ahan jing* 別譯雜阿含經), translator unknown 失譯, Taishō vol. 2, no. 0100.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經), trans. Śikṣānanda 實叉難陀, Taishō vol. 10, no. 0279.
+- *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna 龍樹菩薩, trans. Kumārajīva 鳩摩羅什, Taishō vol. 25, no. 1509.
+- *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya 彌勒菩薩, trans. Xuanzang 唐玄奘, Taishō vol. 30, no. 1579.
+- *Mohe Zhiguan* 《摩訶止觀》, by Zhiyi 智顗, recorded by Guanding 灌頂, Taishō vol. 46, no. 1911.
+- *Shimen Guijing Yi* 《釋門歸敬儀》, by Daoxuan 道宣, Taishō vol. 45, no. 1896.
 
 ### II. Modern Scholarship 現代學術著作
 

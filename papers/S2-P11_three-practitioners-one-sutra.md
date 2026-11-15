@@ -401,43 +401,43 @@ Cross. Ferry others across. To the other shore. Everyone together to the other s
 
 ### I. Primary Buddhist Sources
 
-*Prajñāpāramitāhṛdaya-sūtra* (般若波羅蜜多心經). Trans. Xuanzang. *Taishō* vol. 8, no. 0251.
+*Prajñāpāramitāhṛdaya-sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經). Trans. Xuanzang. Taishō vol. 8, no. 0251.
 
-*Mahāprajñāpāramitā-mahāvidyā-sūtra* (摩訶般若波羅蜜大明呪經). Trans. Kumārajīva. *Taishō* vol. 8, no. 0250.
+*Mahāprajñāpāramitā-mahāvidyā-sūtra* (*Mohe bore boluomi da mingzhou jing* 摩訶般若波羅蜜大明呪經). Trans. Kumārajīva. Taishō vol. 8, no. 0250.
 
-*Vajracchedikā-prajñāpāramitā-sūtra* (金剛般若波羅蜜經). Trans. Kumārajīva. *Taishō* vol. 8, no. 0235.
+*Vajracchedikā-prajñāpāramitā-sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經). Trans. Kumārajīva. Taishō vol. 8, no. 0235.
 
-*Mahāprajñāpāramitāśāstra* (大智度論). By Nāgārjuna. Trans. Kumārajīva. *Taishō* vol. 25, no. 1509.
+*Mahāprajñāpāramitāśāstra* (*Da zhidu lun* 大智度論). By Nāgārjuna. Trans. Kumārajīva. Taishō vol. 25, no. 1509.
 
-*Mahāyānasaṃgraha* (攝大乘論). By Asaṅga. Trans. Paramārtha. *Taishō* vol. 31, no. 1593.
+*Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論). By Asaṅga. Trans. Paramārtha. Taishō vol. 31, no. 1593.
 
-*Mahāyānasaṃgraha* (攝大乘論). By Asaṅga. Trans. Xuanzang. *Taishō* vol. 31, no. 1594.
+*Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論). By Asaṅga. Trans. Xuanzang. Taishō vol. 31, no. 1594.
 
-*Mahāyānasaṃgrahabhāṣya* (攝大乘論釋). By Vasubandhu. Trans. Paramārtha. *Taishō* vol. 31, no. 1595.
+*Mahāyānasaṃgrahabhāṣya* (*She dasheng lun shi* 攝大乘論釋). By Vasubandhu. Trans. Paramārtha. Taishō vol. 31, no. 1595.
 
-*Mahāyānasaṃgrahabhāṣya* (攝大乘論釋). By Vasubandhu. Trans. Xuanzang. *Taishō* vol. 31, no. 1597.
+*Mahāyānasaṃgrahabhāṣya* (*She dasheng lun shi* 攝大乘論釋). By Vasubandhu. Trans. Xuanzang. Taishō vol. 31, no. 1597.
 
-*Mahāyānasaṃgrahabhāṣya* (攝大乘論釋). By Asvabhāva. Trans. Xuanzang. *Taishō* vol. 31, no. 1598.
+*Mahāyānasaṃgrahabhāṣya* (*She dasheng lun shi* 攝大乘論釋). By Asvabhāva. Trans. Xuanzang. Taishō vol. 31, no. 1598.
 
-*Vijñaptimātratāsiddhi* (成唯識論). By Dharmapāla et al. Trans. Xuanzang. *Taishō* vol. 31, no. 1585.
+*Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論). By Dharmapāla et al. Trans. Xuanzang. Taishō vol. 31, no. 1585.
 
-*Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論). By Vasubandhu. Trans. Bodhiruci. *Taishō* vol. 25, no. 1511.
+*Vajracchedikā-prajñāpāramitā-śāstra* (*Jingang bore boluomi jing lun* 金剛般若波羅蜜經論). By Vasubandhu. Trans. Bodhiruci. Taishō vol. 25, no. 1511.
 
-*Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論). By Asaṅga. Trans. Dharmagupta. *Taishō* vol. 25, no. 1510b.
+*Vajracchedikā-prajñāpāramitā-śāstra* (*Jingang bore boluomi jing lun* 金剛般若波羅蜜經論). By Asaṅga. Trans. Dharmagupta. Taishō vol. 25, no. 1510b.
 
-*Vajracchedikā-ṭīkā* (金剛仙論). By Vasubandhu, with commentary by Vajra-ṛṣi. Trans. Bodhiruci. *Taishō* vol. 25, no. 1512.
+*Vajracchedikā-ṭīkā* (*Jingangxian lun* 金剛仙論). By Vasubandhu, with commentary by Vajra-ṛṣi. Trans. Bodhiruci. Taishō vol. 25, no. 1512.
 
-*Vajracchedikā-prajñāpāramitā-nirgrantha-śāstra* (金剛般若波羅蜜經破取著不壞假名論). By Guṇamati. Trans. Divākara et al. *Taishō* vol. 25, no. 1515.
+*Vajracchedikā-prajñāpāramitā-nirgrantha-śāstra* (*Jingang bore boluomi jing poquzhuo buhuai jiaming lun* 金剛般若波羅蜜經破取著不壞假名論). By Guṇamati. Trans. Divākara et al. Taishō vol. 25, no. 1515.
 
 ### II. Classical Commentaries
 
-*Prajñāpāramitāhṛdaya-sūtra Youzan* (般若波羅蜜多心經幽贊). By Kuiji. *Taishō* vol. 33, no. 1710.
+*Prajñāpāramitāhṛdaya-sūtra Youzan* (*Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊). By Kuiji. Taishō vol. 33, no. 1710.
 
-*Prajñāhṛdaya-sūtra-zàn* (般若心經贊). By Woncheuk. *Taishō* vol. 33, no. 1711.
+*Prajñāhṛdaya-sūtra-zàn* (*Bore xinjing zan* 般若心經贊). By Woncheuk. Taishō vol. 33, no. 1711.
 
-*Prajñāpāramitāhṛdaya-sūtra Lüèshū* (般若波羅蜜多心經略疏). By Fazang. *Taishō* vol. 33, no. 1712.
+*Prajñāpāramitāhṛdaya-sūtra Lüèshū* (*Bore boluomiduo xinjing lüeshu* 般若波羅蜜多心經略疏). By Fazang. Taishō vol. 33, no. 1712.
 
-*Xīnjīng Zhùjiě* (心經註解). *Taishō* vol. 33, no. 1714.
+*Xīnjīng Zhùjiě* (心經註解). Taishō vol. 33, no. 1714.
 
 ### III. Modern Scholarship
 

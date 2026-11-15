@@ -439,19 +439,19 @@ The vehicle metaphor continues: P07's universals are the engine, the object-spec
 
 ### I. Primary Buddhist Sources
 
-1. *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, *Taishō* vol. 2, No. 99.
-2. *Ekottarikāgama* (增一阿含經), trans. Gautama Saṅghadeva, *Taishō* vol. 2, No. 125.
-3. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle), trans. Śikṣānanda, *Taishō* vol. 10, No. 279.
-4. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 60-fascicle), trans. Buddhabhadra, *Taishō* vol. 9, No. 278.
-5. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, *Taishō* vol. 16, No. 676.
-6. *Śūraṅgama Sūtra* (楞嚴經), trans. Pāramiti, *Taishō* vol. 19, No. 945.
-7. *Mahāprajñāpāramitā-śāstra* (大智度論), by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
-8. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
-9. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
-10. *Bashi Guiju Buzhu* (八識規矩補註), by Putai, *Taishō* vol. 45, No. 1865.
-11. *Pañcaskandhaka-prakaraṇa* (大乘五蘊論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1612.
-12. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
-13. *Shou Lengyan Yishu Zhujing* (首楞嚴義疏注經), by Zixuan 子璿, *Taishō* vol. 39, No. 1799.
+1. *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+2. *Ekottarikāgama* (*Zengyi ahan jing* 增一阿含經), trans. Gautama Saṅghadeva, Taishō vol. 2, no. 0125.
+3. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+4. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60-fascicle), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+5. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+6. *Śūraṅgama Sūtra* (*Lengyan jing* 楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+7. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
+8. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+9. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+10. *Bashi Guiju Buzhu* (八識規矩補註), by Putai, Taishō vol. 45, no. 1865.
+11. *Pañcaskandhaka-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1612.
+12. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+13. *Shou Lengyan Yishu Zhujing* (首楞嚴義疏注經), by Zixuan 子璿, Taishō vol. 39, no. 1799.
 
 ### II. Modern Scholarship
 

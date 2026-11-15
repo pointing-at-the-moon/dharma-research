@@ -603,22 +603,22 @@ Next, we enter the fourth category of the five — the twenty-four factors disso
 
 ### I. Primary Buddhist Sources
 
-1. *Saṃyukta Āgama* (雜阿含經), trans. Guṇabhadra, *Taishō Tripiṭaka* vol. 2, No. 0099.
-2. *Madhyama Āgama* (中阿含經), trans. Gautama Saṅghadeva, *Taishō* vol. 1, No. 0026.
-3. *Laṅkāvatāra Sūtra* (入楞伽經), trans. Bodhiruci, *Taishō* vol. 16, No. 0671.
-4. *Mahāyāna-Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda, *Taishō* vol. 16, No. 0672.
-5. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, *Taishō* vol. 10, No. 0279.
-6. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra, *Taishō* vol. 9, No. 0278.
-7. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, *Taishō* vol. 16, No. 0676.
-8. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti, *Taishō* vol. 19, No. 0945.
-9. *Mahāprajñāpāramitā-śāstra* (大智度論), by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
-10. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
-11. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
-12. *Pañcaskandhaka-prakaraṇa* (大乘五蘊論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1612.
-13. *Abhidharmasamuccaya* (大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1605.
-14. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), by Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
-15. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai (Ming), *Taishō* vol. 45, No. 1865.
-16. *Daśabhūmika-sūtra-śāstra* (十地經論), by Vasubandhu, trans. Bodhiruci, *Taishō* vol. 26, No. 1522.
+1. *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+2. *Madhyama Āgama* (*Zhong ahan jing* 中阿含經), trans. Gautama Saṅghadeva, Taishō vol. 1, no. 0026.
+3. *Laṅkāvatāra Sūtra* (*Ru lengqie jing* 入楞伽經), trans. Bodhiruci, Taishō vol. 16, no. 0671.
+4. *Mahāyāna-Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda, Taishō vol. 16, no. 0672.
+5. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+6. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+7. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+8. *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pramiti, Taishō vol. 19, no. 0945.
+9. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
+10. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+11. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+12. *Pañcaskandhaka-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1612.
+13. *Abhidharmasamuccaya* (*Dasheng apidamo ji lun* 大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, Taishō vol. 31, no. 1605.
+14. *Abhidharmasamuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論), by Sthiramati, trans. Xuanzang, Taishō vol. 31, no. 1606.
+15. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai (Ming), Taishō vol. 45, no. 1865.
+16. *Daśabhūmika-sūtra-śāstra* (*Shidi jing lun* 十地經論), by Vasubandhu, trans. Bodhiruci, Taishō vol. 26, no. 1522.
 
 ### II. Modern Scholarship
 

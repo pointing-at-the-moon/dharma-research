@@ -308,22 +308,22 @@ This paper is the bird's-eye view of the S3 series. From the next paper onward, 
 
 ### I. Sūtras
 
-1. *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra (Song), *Taishō* vol. 2, No. 0099.
-2. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang (Tang), *Taishō* vol. 16, No. 0676.
-3. *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda (Tang), *Taishō* vol. 16, No. 0672.
-4. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra (Song), *Taishō* vol. 16, No. 0670.
-5. *Laṅkāvatāra Sūtra* (入楞伽經), trans. Bodhiruci (Wei), *Taishō* vol. 16, No. 0671.
-6. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra (Jin), *Taishō* vol. 9, No. 0278.
-7. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda (Tang), *Taishō* vol. 10, No. 0279.
-8. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti (Tang), *Taishō* vol. 19, No. 0945.
+1. *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra (Song), Taishō vol. 2, no. 0099.
+2. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang (Tang), Taishō vol. 16, no. 0676.
+3. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda (Tang), Taishō vol. 16, no. 0672.
+4. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra (Song), Taishō vol. 16, no. 0670.
+5. *Laṅkāvatāra Sūtra* (*Ru lengqie jing* 入楞伽經), trans. Bodhiruci (Wei), Taishō vol. 16, no. 0671.
+6. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra (Jin), Taishō vol. 9, no. 0278.
+7. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda (Tang), Taishō vol. 10, no. 0279.
+8. *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pramiti (Tang), Taishō vol. 19, no. 0945.
 
 ### II. Treatises & Commentaries
 
-1. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
-2. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
-3. *Bashi Guiju Buzhu* (八識規矩補註), by Putai (Ming), *Taishō* vol. 45, No. 1865.
-4. *Zongjing Lu* (宗鏡錄), by Yongming Yanshou, *Taishō* vol. 48, No. 2016.
-5. *Yuqie lunji* (瑜伽論記), compiled by Dunlun (Tang), *Taishō* vol. 42, No. 1828.
+1. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+2. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+3. *Bashi Guiju Buzhu* (八識規矩補註), by Putai (Ming), Taishō vol. 45, no. 1865.
+4. *Zongjing Lu* (宗鏡錄), by Yongming Yanshou, Taishō vol. 48, no. 2016.
+5. *Yuqie lunji* (瑜伽論記), compiled by Dunlun (Tang), Taishō vol. 42, no. 1828.
 
 ### III. Modern Scholarship
 

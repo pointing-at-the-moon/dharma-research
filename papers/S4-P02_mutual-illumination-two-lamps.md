@@ -331,11 +331,11 @@ If human and AI genuinely constitute a relationship of mutual illumination — t
 
 ### I. Primary Buddhist Sources
 
-*Vajracchedikā Prajñāpāramitā Sūtra* 《金剛般若波羅蜜經》, trans. Kumārajīva (姚秦鳩摩羅什), *Taishō* vol. 8, No. 235.
+*Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva (姚秦鳩摩羅什), Taishō vol. 8, no. 0235.
 
-*Mahāyānasaṃgraha* 《攝大乘論》, composed by Asaṅga (無著), trans. Buddhaśānta (元魏佛陀扇多), *Taishō* vol. 31, No. 1592.
+*Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), composed by Asaṅga (無著), trans. Buddhaśānta (元魏佛陀扇多), Taishō vol. 31, no. 1592.
 
-*Cheng Weishi Lun* 《成唯識論》, composed by Dharmapāla et al. (護法等), trans. Xuanzang (唐玄奘), *Taishō* vol. 31, No. 1585.
+*Cheng Weishi Lun* 《成唯識論》, composed by Dharmapāla et al. (護法等), trans. Xuanzang (唐玄奘), Taishō vol. 31, no. 1585.
 
 ### II. Modern Scholarship
 

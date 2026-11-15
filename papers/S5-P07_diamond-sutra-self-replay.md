@@ -440,14 +440,14 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 ### I. Primary Buddhist Sources
 
-- *Vajracchedikā Prajñāpāramitā Sūtra* 金剛般若波羅蜜經, trans. Kumārajīva, T08, No. 235.
-- *Saṃdhinirmocana Sūtra* 解深密經, trans. Xuanzang, T16, No. 676.
-- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Vasubandhu), trans. Bodhiruci, T25, No. 1511.
-- *Jingang bore lun* 金剛般若論 (Asaṅga), trans. Dharmagupta, T25, No. 1510a.
-- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Asaṅga), trans. Dharmagupta, T25, No. 1510b.
-- *Cheng weishi lun* 成唯識論 (Dharmapāla et al.), trans. Xuanzang, T31, No. 1585.
-- *Yogācārabhūmi-śāstra* 瑜伽師地論 (Maitreya), trans. Xuanzang, T30, No. 1579.
-- Zixuan 子璿, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, T33, No. 1702.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Vasubandhu), trans. Bodhiruci, Taishō vol. 25, no. 1511.
+- *Jingang bore lun* 金剛般若論 (Asaṅga), trans. Dharmagupta, Taishō vol. 25, no. 1510a.
+- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Asaṅga), trans. Dharmagupta, Taishō vol. 25, no. 1510b.
+- *Cheng weishi lun* 成唯識論 (Dharmapāla et al.), trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論) (Maitreya), trans. Xuanzang, Taishō vol. 30, no. 1579.
+- Zixuan 子璿, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, Taishō vol. 33, no. 1702.
 
 ### II. Modern Scholarship
 

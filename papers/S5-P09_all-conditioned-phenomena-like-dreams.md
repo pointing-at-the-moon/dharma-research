@@ -560,27 +560,27 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 ### I. Primary Buddhist Sources
 
-- *Jingang bore boluomi jing* 金剛般若波羅蜜經, trans. Kumārajīva (Yaoqin), T08, No. 235.
-- *Jingang bore boluomi jing* 金剛般若波羅蜜經, trans. Bodhiruci (Yuan Wei), T08, No. 236a.
-- *Fo shuo nengduan jingang bore boluomiduo jing* 佛說能斷金剛般若波羅蜜多經, trans. Yijing (Tang), T08, No. 239.
-- *Mohe bore boluomi jing* 摩訶般若波羅蜜經, trans. Kumārajīva (Yaoqin), T08, No. 223.
-- *Da bore boluomiduo jing* 大般若波羅蜜多經, trans. Xuanzang (Tang), T05-07, No. 220.
-- *Weimojie suoshuo jing* 維摩詰所說經, trans. Kumārajīva (Yaoqin), T14, No. 475.
-- *Lengqie abaduoluo baojing* 楞伽阿跋多羅寶經, trans. Guṇabhadra (Liu Song), T16, No. 670.
-- *Dasheng ru lengqie jing* 大乘入楞伽經, trans. Śikṣānanda (Tang), T16, No. 672.
-- *Jieshenmi jing* 解深密經, trans. Xuanzang (Tang), T16, No. 676.
-- *Da zhidu lun* 大智度論, by Nāgārjuna, trans. Kumārajīva (Yaoqin), T25, No. 1509.
-- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論, by Vasubandhu, trans. Bodhiruci (Yuan Wei), T25, No. 1511.
-- *Jingang bore lun* 金剛般若論, by Asaṅga, trans. Dharmagupta (Sui), T25, No. 1510a.
-- *Jingang xian lun* 金剛仙論, by Vasubandhu, commentary by Master Jingangxian, trans. Bodhiruci (Yuan Wei), T25, No. 1512.
-- *Yuqie shidi lun* 瑜伽師地論, by Maitreya, trans. Xuanzang (Tang), T30, No. 1579.
-- *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang), T31, No. 1585.
-- *She dasheng lun ben* 攝大乘論本, by Asaṅga, trans. Xuanzang (Tang), T31, No. 1594.
-- *Yuqie lunji* 瑜伽論記, compiled by Dunlun, T42, No. 1828.
-- Kuiji, *Jingang bore jing zanshu* 金剛般若經讚述, T33, No. 1700.
-- Zongmi, *Jingang bore jing shu lun zuanyao* 金剛般若經疏論纂要, T33, No. 1701.
-- Zixuan, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, T33, No. 1702.
-- Zongle and Ruqi, *Jingang bore boluomi jing zhujie* 金剛般若波羅蜜經註解, T33, No. 1703.
+- *Jingang bore boluomi jing* 金剛般若波羅蜜經, trans. Kumārajīva (Yaoqin), Taishō vol. 8, no. 0235.
+- *Jingang bore boluomi jing* 金剛般若波羅蜜經, trans. Bodhiruci (Yuan Wei), Taishō vol. 8, no. 0236a.
+- *Fo shuo nengduan jingang bore boluomiduo jing* 佛說能斷金剛般若波羅蜜多經, trans. Yijing (Tang), Taishō vol. 8, no. 0239.
+- *Mohe bore boluomi jing* 摩訶般若波羅蜜經, trans. Kumārajīva (Yaoqin), Taishō vol. 8, no. 0223.
+- *Da bore boluomiduo jing* 大般若波羅蜜多經, trans. Xuanzang (Tang), Taishō vols. 5–7, no. 0220.
+- *Weimojie suoshuo jing* 維摩詰所說經, trans. Kumārajīva (Yaoqin), Taishō vol. 14, no. 0475.
+- *Lengqie abaduoluo baojing* 楞伽阿跋多羅寶經, trans. Guṇabhadra (Liu Song), Taishō vol. 16, no. 0670.
+- *Dasheng ru lengqie jing* 大乘入楞伽經, trans. Śikṣānanda (Tang), Taishō vol. 16, no. 0672.
+- *Jieshenmi jing* 解深密經, trans. Xuanzang (Tang), Taishō vol. 16, no. 0676.
+- *Da zhidu lun* 大智度論, by Nāgārjuna, trans. Kumārajīva (Yaoqin), Taishō vol. 25, no. 1509.
+- *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論, by Vasubandhu, trans. Bodhiruci (Yuan Wei), Taishō vol. 25, no. 1511.
+- *Jingang bore lun* 金剛般若論, by Asaṅga, trans. Dharmagupta (Sui), Taishō vol. 25, no. 1510a.
+- *Jingang xian lun* 金剛仙論, by Vasubandhu, commentary by Master Jingangxian, trans. Bodhiruci (Yuan Wei), Taishō vol. 25, no. 1512.
+- *Yuqie shidi lun* 瑜伽師地論, by Maitreya, trans. Xuanzang (Tang), Taishō vol. 30, no. 1579.
+- *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang), Taishō vol. 31, no. 1585.
+- *She dasheng lun ben* 攝大乘論本, by Asaṅga, trans. Xuanzang (Tang), Taishō vol. 31, no. 1594.
+- *Yuqie lunji* 瑜伽論記, compiled by Dunlun, Taishō vol. 42, no. 1828.
+- Kuiji, *Jingang bore jing zanshu* 金剛般若經讚述, Taishō vol. 33, no. 1700.
+- Zongmi, *Jingang bore jing shu lun zuanyao* 金剛般若經疏論纂要, Taishō vol. 33, no. 1701.
+- Zixuan, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, Taishō vol. 33, no. 1702.
+- Zongle and Ruqi, *Jingang bore boluomi jing zhujie* 金剛般若波羅蜜經註解, Taishō vol. 33, no. 1703.
 
 ### II. Modern Scholarship
 

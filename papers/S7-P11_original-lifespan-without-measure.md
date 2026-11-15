@@ -388,22 +388,22 @@ Original-lifespan-without-measure is not a factual statement about the Buddha; i
 
 **Canonical Sources** (CBETA / Taishō)
 
-- *Saddharmapuṇḍarīka-sūtra* (妙法蓮華經), tr. Kumārajīva, Later Qin, T0262 (fasc. 5: ch. 16 *Tathāgata-āyuṣpramāṇa*, ch. 17 *Distinction of Merits*)
-- *Zheng fahua jing* (正法華經), tr. Dharmarakṣa, Western Jin, T0263 (ch. 15 *Tathāgata's Manifested Lifespan*)
-- *Tianpin miaofa lianhua jing* (添品妙法蓮華經), tr. Jñānagupta and Dharmagupta, Sui, T0264
-- *Dīrgha-āgama* (長阿含經), tr. Buddhayaśas and Zhu Fonian, Later Qin, T0001 (fasc. 1, *Mahāpadāna-sutta*)
-- *Ekottara-āgama* (增壹阿含經), tr. Gautama Saṃghadeva, Eastern Jin, T0125 (fasc. 18)
-- *Śūraṃgama-sūtra* (首楞嚴經), tr. Pāramiti, Tang, T0945 (cross-reference with S6 series)
+- *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing* 妙法蓮華經), tr. Kumārajīva, Later Qin, Taishō vol. 9, no. 0262 (fasc. 5: ch. 16 *Tathāgata-āyuṣpramāṇa*, ch. 17 *Distinction of Merits*)
+- *Zheng fahua jing* (正法華經), tr. Dharmarakṣa, Western Jin, Taishō vol. 9, no. 0263 (ch. 15 *Tathāgata's Manifested Lifespan*)
+- *Tianpin miaofa lianhua jing* (添品妙法蓮華經), tr. Jñānagupta and Dharmagupta, Sui, Taishō vol. 9, no. 0264
+- *Dīrgha-āgama* (*Chang ahan jing* 長阿含經), tr. Buddhayaśas and Zhu Fonian, Later Qin, Taishō vol. 1, no. 0001 (fasc. 1, *Mahāpadāna-sutta*)
+- *Ekottara-āgama* (*Zengyi ahan jing* 增壹阿含經), tr. Gautama Saṃghadeva, Eastern Jin, Taishō vol. 2, no. 0125 (fasc. 18)
+- *Śūraṃgama-sūtra* (*Shoulengyan jing* 首楞嚴經), tr. Pāramiti, Tang, Taishō vol. 19, no. 0945 (cross-reference with S6 series)
 
 **Commentaries**
 
-- Vasubandhu, tr. Bodhiruci et al., *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍), T1519
-- Vasubandhu, tr. Ratnamati, *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經論優波提舍), T1520
-- Zhiyi, *Fahua xuanyi* (妙法蓮華經玄義), T1716 (ten marvels of the original-gate section)
-- Zhiyi, *Fahua wenju* (妙法蓮華經文句), T1718 (fasc. 5, line-by-line commentary on the Lifespan chapter)
-- Kuiji, *Fahua xuanzan* (妙法蓮華經玄贊), T1723 (fasc. 9b, three-body classification section)
-- Jizang, *Fahua yishu* (法華義疏), T1721 (fasc. 10, "determinate eternalist view" section)
-- Dharmapāla et al., tr. Xuanzang, *Cheng weishi lun* (成唯識論), T1585 (fasc. 10, three-body section)
+- Vasubandhu, tr. Bodhiruci et al., *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經憂波提舍), Taishō vol. 26, no. 1519
+- Vasubandhu, tr. Ratnamati, *Saddharmapuṇḍarīka-upadeśa* (妙法蓮華經論優波提舍), Taishō vol. 26, no. 1520
+- Zhiyi, *Fahua xuanyi* (妙法蓮華經玄義), Taishō vol. 33, no. 1716 (ten marvels of the original-gate section)
+- Zhiyi, *Fahua wenju* (妙法蓮華經文句), Taishō vol. 34, no. 1718 (fasc. 5, line-by-line commentary on the Lifespan chapter)
+- Kuiji, *Fahua xuanzan* (妙法蓮華經玄贊), Taishō vol. 34, no. 1723 (fasc. 9b, three-body classification section)
+- Jizang, *Fahua yishu* (法華義疏), Taishō vol. 34, no. 1721 (fasc. 10, "determinate eternalist view" section)
+- Dharmapāla et al., tr. Xuanzang, *Cheng weishi lun* (成唯識論), Taishō vol. 31, no. 1585 (fasc. 10, three-body section)
 
 ## Sūtra & Śāstra Index
 

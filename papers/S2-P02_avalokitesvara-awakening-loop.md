@@ -334,17 +334,17 @@ Every subsequent passage in the Heart Sūtra — the four statements on form and
 
 ### I. Primary Buddhist Sources
 
-1. Kuiji, *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), *Taishō* vol. 33, No. 1710.
-2. Woncheuk, *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), *Taishō* vol. 33, No. 1711.
-3. Fazang, *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), *Taishō* vol. 33, No. 1712.
-4. Shihui 師會, *Bore xinjing lüeshu lianzhuji* (般若心經略疏連珠記), *Taishō* vol. 33, No. 1713.
-5. *Bore boluomiduo xinjing zhu* (般若波羅蜜多心經注), *Taishō* vol. 33, No. 1714.
-6. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* (成唯識論), *Taishō* vol. 31, No. 1585.
-7. Vasubandhu, trans. Xuanzang, *Weishi sanshi lun song* (唯識三十論頌), *Taishō* vol. 31, No. 1586.
-8. Nāgārjuna, trans. Kumārajīva, *Dazhidu lun* (大智度論), *Taishō* vol. 25, No. 1509.
-9. Trans. Xuanzang, *Jie shenmi jing* (解深密經 / *Saṃdhinirmocana-sūtra*), *Taishō* vol. 16, No. 0676.
-10. Trans. Kumārajīva, *Jingang bore boluomi jing* (金剛般若波羅蜜經 / *Vajracchedikā*), *Taishō* vol. 8, No. 0235.
-11. Dunlun, *Yujia lunji* (瑜伽論記), *Taishō* vol. 42, No. 1828.
+1. Kuiji, *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), Taishō vol. 33, no. 1710.
+2. Woncheuk, *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), Taishō vol. 33, no. 1711.
+3. Fazang, *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), Taishō vol. 33, no. 1712.
+4. Shihui 師會, *Bore xinjing lüeshu lianzhuji* (般若心經略疏連珠記), Taishō vol. 33, no. 1713.
+5. *Bore boluomiduo xinjing zhu* (般若波羅蜜多心經注), Taishō vol. 33, no. 1714.
+6. Dharmapāla et al., trans. Xuanzang, *Cheng weishi lun* (成唯識論), Taishō vol. 31, no. 1585.
+7. Vasubandhu, trans. Xuanzang, *Weishi sanshi lun song* (唯識三十論頌), Taishō vol. 31, no. 1586.
+8. Nāgārjuna, trans. Kumārajīva, *Dazhidu lun* (大智度論), Taishō vol. 25, no. 1509.
+9. Trans. Xuanzang, *Jie shenmi jing* (解深密經 / *Saṃdhinirmocana-sūtra*), Taishō vol. 16, no. 0676.
+10. Trans. Kumārajīva, *Jingang bore boluomi jing* (金剛般若波羅蜜經 / *Vajracchedikā*), Taishō vol. 8, no. 0235.
+11. Dunlun, *Yujia lunji* (瑜伽論記), Taishō vol. 42, no. 1828.
 
 ### II. Modern Scholarship
 

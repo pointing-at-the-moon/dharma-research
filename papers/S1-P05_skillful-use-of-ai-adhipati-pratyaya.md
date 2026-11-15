@@ -288,11 +288,11 @@ The core arguments of this paper may be summarized as follows:
 
 ### I. Primary Buddhist Sources
 
-- *Saṃyuktāgama* (雜阿含經), translated by Guṇabhadra, *Taishō Tripiṭaka* Vol. 2, No. 99.
-- *Ekottarāgama* (增壹阿含經), translated by Gautama Saṅghadeva, *Taishō Tripiṭaka* Vol. 2, No. 125.
-- *Dīrghāgama* (長阿含經), translated by Buddhayaśas and Zhu Fonian, *Taishō Tripiṭaka* Vol. 1, No. 1.
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), translated by Kumārajīva, *Taishō Tripiṭaka* Vol. 8, No. 235.[^14]
-- *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., translated by Xuanzang, *Taishō Tripiṭaka* Vol. 31, No. 1585.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), translated by Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經), translated by Gautama Saṅghadeva, Taishō vol. 2, no. 0125.
+- *Dīrghāgama* (*Chang ahan jing* 長阿含經), translated by Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), translated by Kumārajīva, Taishō vol. 8, no. 0235.[^14]
+- *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., translated by Xuanzang, Taishō vol. 31, no. 1585.
 
 ### II. Modern Scholarship
 

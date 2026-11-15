@@ -468,16 +468,16 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 ### I. Primary Buddhist Sources
 
-- *Jingang bore boluomi jing* (金剛般若波羅蜜經), trans. Kumārajīva (姚秦鳩摩羅什), T08, No. 235.
-- *Zhong ahan jing* (中阿含經), trans. Gautama Saṃghadeva (東晉瞿曇僧伽提婆), T01, No. 26.
-- *Jie shenmi jing* (解深密經), trans. Xuanzang (唐玄奘), T16, No. 676.
-- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Vasubandhu (天親菩薩), trans. Bodhiruci (元魏菩提流支), T25, No. 1511.
-- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), T25, No. 1510b.
-- *Jingang bore lun* (金剛般若論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), T25, No. 1510a.
-- *Yuqie shidi lun* (瑜伽師地論), by Maitreya (彌勒菩薩), trans. Xuanzang (唐玄奘), T30, No. 1579.
-- *Cheng weishi lun* (成唯識論), by Dharmapāla et al. (護法等菩薩), trans. Xuanzang (唐玄奘), T31, No. 1585.
-- Kuiji (窺基), *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700.
-- Zixuan (子璿), *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
+- *Jingang bore boluomi jing* (金剛般若波羅蜜經), trans. Kumārajīva (姚秦鳩摩羅什), Taishō vol. 8, no. 0235.
+- *Zhong ahan jing* (中阿含經), trans. Gautama Saṃghadeva (東晉瞿曇僧伽提婆), Taishō vol. 1, no. 0026.
+- *Jie shenmi jing* (解深密經), trans. Xuanzang (唐玄奘), Taishō vol. 16, no. 0676.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Vasubandhu (天親菩薩), trans. Bodhiruci (元魏菩提流支), Taishō vol. 25, no. 1511.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), Taishō vol. 25, no. 1510b.
+- *Jingang bore lun* (金剛般若論), by Asaṅga (無著菩薩), trans. Dharmagupta (隋達磨笈多), Taishō vol. 25, no. 1510a.
+- *Yuqie shidi lun* (瑜伽師地論), by Maitreya (彌勒菩薩), trans. Xuanzang (唐玄奘), Taishō vol. 30, no. 1579.
+- *Cheng weishi lun* (成唯識論), by Dharmapāla et al. (護法等菩薩), trans. Xuanzang (唐玄奘), Taishō vol. 31, no. 1585.
+- Kuiji (窺基), *Jingang bore jing zanshu* (金剛般若經讚述), Taishō vol. 33, no. 1700.
+- Zixuan (子璿), *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), Taishō vol. 33, no. 1702.
 
 ### II. Modern Scholarship
 

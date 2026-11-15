@@ -340,12 +340,12 @@ The next paper (P07) will return to the Four Clear and Decisive Instructions on 
 
 ### I. Primary Buddhist Sources
 
-- *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pāramiti, T19, No. 945.
-- *Commentary on the Śūraṅgama* (首楞嚴義疏注經), Zǐxuán, T39, No. 1799.
+- *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+- *Commentary on the Śūraṅgama* (*Shoulengyan yishu zhu jing* 首楞嚴義疏注經), Zǐxuán, Taishō vol. 39, no. 1799.
 - *Orthodox Commentary on the Śūraṅgama* (楞嚴經正脈疏), Jiāoguāng Zhēnjiàn, X12, No. 275.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, T10, No. 279.
-- *Cheng Weishi Lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Cheng Weishi Lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
 
 ### II. Sūtra & Śāstra Index
 

@@ -540,16 +540,16 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 ### I. Primary Buddhist Sources
 
-1. *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, *Taishō Tripiṭaka* vol. 8, No. 235.
-2. *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pramiti, *Taishō* vol. 19, No. 945.
-3. *Vimalakīrti Nirdeśa Sūtra* (維摩詰所說經), trans. Kumārajīva, *Taishō* vol. 14, No. 475.
-4. *Vimalakīrti Nirdeśa Sūtra* (說無垢稱經), trans. Xuanzang, *Taishō* vol. 14, No. 476.
-5. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra, *Taishō* vol. 16, No. 670.
-6. *Cheng weishi lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
-7. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, *Taishō* vol. 16, No. 676.
-8. Kuiji, *Jīngāng bōrě jīng zànshù* (金剛般若經讚述), *Taishō* vol. 33, No. 1700.
-9. Vasubandhu, *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), trans. Bodhiruci, *Taishō* vol. 25, No. 1511.
-10. Zixuan, *Jīngāng jīng zuǎnyào kāndìng jì* (金剛經纂要刊定記), *Taishō* vol. 33, No. 1702.
+1. *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+2. *Śūraṅgama Sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pramiti, Taishō vol. 19, no. 0945.
+3. *Vimalakīrti Nirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva, Taishō vol. 14, no. 0475.
+4. *Vimalakīrti Nirdeśa Sūtra* (*Shuo wugoucheng jing* 說無垢稱經), trans. Xuanzang, Taishō vol. 14, no. 0476.
+5. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra, Taishō vol. 16, no. 0670.
+6. *Cheng weishi lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+7. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+8. Kuiji, *Jīngāng bōrě jīng zànshù* (金剛般若經讚述), Taishō vol. 33, no. 1700.
+9. Vasubandhu, *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), trans. Bodhiruci, Taishō vol. 25, no. 1511.
+10. Zixuan, *Jīngāng jīng zuǎnyào kāndìng jì* (金剛經纂要刊定記), Taishō vol. 33, no. 1702.
 
 ### II. Modern Scholarship
 

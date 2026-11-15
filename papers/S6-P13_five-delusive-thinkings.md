@@ -643,17 +643,17 @@ P13 is the formal construction of this bridge. From the close of this section on
 
 **Sūtras:**
 
-1. *Mahā-buddhoṣṇīṣa-tathāgata-guhya-hetu-sākṣātkriyā-nītārtha-sarva-bodhisattva-caryā-śūraṅgama-sūtra* (大佛頂首楞嚴經 *Dàfódǐng Shǒulèngyán Jīng*). Translated by Pāramiti (般剌蜜帝). *Taishō Tripiṭaka* vol. 19, no. 945. Core text of this paper, principal citations from fascicles 5, 6, and 10.
+1. *Mahā-buddhoṣṇīṣa-tathāgata-guhya-hetu-sākṣātkriyā-nītārtha-sarva-bodhisattva-caryā-śūraṅgama-sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經 *Dàfódǐng Shǒulèngyán Jīng*). Translated by Pāramiti (般剌蜜帝). Taishō vol. 19, no. 0945. Core text of this paper, principal citations from fascicles 5, 6, and 10.
 
-2. *Saṃyukta-āgama* (雜阿含經 *Zá Āhán Jīng*). Translated by Guṇabhadra (求那跋陀羅). *Taishō Tripiṭaka* vol. 2, no. 99. Sūtras 1–2 (right contemplation of impermanence); sūtras 33–34 (five aggregates as not-self); sūtra 265 (five similes of insubstantiality).
+2. *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經 *Zá Āhán Jīng*). Translated by Guṇabhadra (求那跋陀羅). Taishō vol. 2, no. 0099. Sūtras 1–2 (right contemplation of impermanence); sūtras 33–34 (five aggregates as not-self); sūtra 265 (five similes of insubstantiality).
 
-3. *Saddharmapuṇḍarīka-sūtra* (妙法蓮華經 *Miàofǎ Liánhuá Jīng*). Translated by Kumārajīva (鳩摩羅什). *Taishō Tripiṭaka* vol. 9, no. 262. Fascicle 3, *Pūrvayoga-parivarta* (Conjured-City Parable Chapter).
+3. *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing* 妙法蓮華經 *Miàofǎ Liánhuá Jīng*). Translated by Kumārajīva (鳩摩羅什). Taishō vol. 9, no. 0262. Fascicle 3, *Pūrvayoga-parivarta* (Conjured-City Parable Chapter).
 
-4. *Mahā-vaipulya-pūrṇa-buddha-sūtra-prasannārtha-sūtra* (大方廣圓覺修多羅了義經 *Yuánjué Jīng*). Translated by Buddhatrāta (佛陀多羅). *Taishō Tripiṭaka* vol. 17, no. 842. Cited via Zǐxuán's commentary for the formula "knowing illusion is itself separation from illusion."
+4. *Mahā-vaipulya-pūrṇa-buddha-sūtra-prasannārtha-sūtra* (*Da fangguang yuanjue xiuduoluo liaoyi jing* 大方廣圓覺修多羅了義經 *Yuánjué Jīng*). Translated by Buddhatrāta (佛陀多羅). Taishō vol. 17, no. 0842. Cited via Zǐxuán's commentary for the formula "knowing illusion is itself separation from illusion."
 
 **Commentaries:**
 
-5. Zǐxuán 子璿 (965–1038). *Shǒulèngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (*Annotated Commentary on the Meaning of the Śūraṅgama-sūtra*). *Taishō Tripiṭaka* vol. 39, no. 1799. Core commentary on the five delusive thinkings, the boundaries of the five aggregates, and the sudden-gradual structure.
+5. Zǐxuán 子璿 (965–1038). *Shǒulèngyán Yìshū Zhùjīng* 首楞嚴義疏注經 (*Annotated Commentary on the Meaning of the Śūraṅgama-sūtra*). Taishō vol. 39, no. 1799. Core commentary on the five delusive thinkings, the boundaries of the five aggregates, and the sudden-gradual structure.
 
 6. Jiāoguāng Zhēnjiàn 交光真鑑 (Ming dynasty). *Dàfódǐng Rúlái Mìyīn Xiūzhèng Liǎoyì Zhū Púsà Wànxíng Shǒulèngyán Jīng Zhèngmài Shū* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏 (*Treatise on the Correct Lineage of the Śūraṅgama*). *Manji Zokuzō* vol. 12, X0275. Core verdicts on the two-pole structure of the aggregate boundaries, the "complete identity" thesis between Avalokiteśvara's six knots and the five-aggregate exhaustion, and the entry into the first abiding upon the consciousness aggregate's exhaustion.
 

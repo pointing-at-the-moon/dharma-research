@@ -486,17 +486,17 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 
 ### I. Primary Buddhist Sources
 
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Bodhiruci, T08, No. 236a.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經), trans. Śikṣānanda, T10, No. 279.
-- *Vajracchedikā-prajñāpāramitopadeśa* (金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, T25, No. 1511.
-- *Vajracchedikā-prajñāpāramitā-śāstra* (金剛般若波羅蜜經論), by Asaṅga, trans. Dharmagupta, T25, No. 1510b.
-- *Jingang xian lun* (金剛仙論), trans. Bodhiruci (no author named at the head of the text), T25, No. 1512.
-- *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
-- *Vijñaptimātratāsiddhi-śāstra* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
-- Zongle and Ruqi, *Jingang bore boluomi jing zhujie* (金剛般若波羅蜜經註解), T33, No. 1703.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Bodhiruci, Taishō vol. 8, no. 0236a.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Vajracchedikā-prajñāpāramitopadeśa* (*Jingang bore boluomi jing lun* 金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, Taishō vol. 25, no. 1511.
+- *Vajracchedikā-prajñāpāramitā-śāstra* (*Jingang bore boluomi jing lun* 金剛般若波羅蜜經論), by Asaṅga, trans. Dharmagupta, Taishō vol. 25, no. 1510b.
+- *Jingang xian lun* (金剛仙論), trans. Bodhiruci (no author named at the head of the text), Taishō vol. 25, no. 1512.
+- *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+- *Vijñaptimātratāsiddhi-śāstra* (*Cheng weishi lun* 成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), Taishō vol. 33, no. 1702.
+- Zongle and Ruqi, *Jingang bore boluomi jing zhujie* (金剛般若波羅蜜經註解), Taishō vol. 33, no. 1703.
 
 ### II. Sūtra & Śāstra Index
 

@@ -270,14 +270,14 @@ This paper has addressed the mirror — one face of the lamp. But our reactions 
 
 ### I. Primary Buddhist Sources
 
-1. *Dà Fódǐng Rúlái Mìyīn Xiūzhèng Liǎoyì Zhū Púsà Wànxíng Shǒuléngyán Jīng* (大佛頂首楞嚴經), trans. Pāramiti, T19, No. 945.
-2. *Jīngāng Bōrě Bōluómì Jīng* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
-3. *Fó Shuō Néng Duàn Jīngāng Bōrě Bōluómìduō Jīng* (能斷金剛般若波羅蜜多經), trans. Yijing, T08, No. 239.
-4. *Liùzǔ Dàshī Fǎbǎo Tánjīng* (六祖大師法寶壇經), ed. Zongbao, T48, No. 2008.
-5. *Chéng Wéishì Lùn* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-6. *Chéng Wéishì Lùn Shùjì* (成唯識論述記), by Kuiji, T43, No. 1830.
-7. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), by Putai, T45, No. 1865.
-8. *Jīngāng Bōrě Bōluómì Jīng Pò Qǔzhuó Bùhuài Jiǎmíng Lùn* (金剛般若波羅蜜經破取著不壞假名論), by Guṇada 功德施, trans. Divākara 地婆訶羅, T25, No. 1515.
+1. *Dà Fódǐng Rúlái Mìyīn Xiūzhèng Liǎoyì Zhū Púsà Wànxíng Shǒuléngyán Jīng* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+2. *Jīngāng Bōrě Bōluómì Jīng* (金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+3. *Fó Shuō Néng Duàn Jīngāng Bōrě Bōluómìduō Jīng* (能斷金剛般若波羅蜜多經), trans. Yijing, Taishō vol. 8, no. 0239.
+4. *Liùzǔ Dàshī Fǎbǎo Tánjīng* (六祖大師法寶壇經), ed. Zongbao, Taishō vol. 48, no. 2008.
+5. *Chéng Wéishì Lùn* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+6. *Chéng Wéishì Lùn Shùjì* (成唯識論述記), by Kuiji, Taishō vol. 43, no. 1830.
+7. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), by Putai, Taishō vol. 45, no. 1865.
+8. *Jīngāng Bōrě Bōluómì Jīng Pò Qǔzhuó Bùhuài Jiǎmíng Lùn* (金剛般若波羅蜜經破取著不壞假名論), by Guṇada 功德施, trans. Divākara 地婆訶羅, Taishō vol. 25, no. 1515.
 
 ### II. Modern Scholarship
 

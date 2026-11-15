@@ -627,17 +627,17 @@ Next, we turn to the fifth category of mental factors — the twenty subsidiary 
 
 ### I. Primary Buddhist Sources
 
-1. *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, *Taishō Tripiṭaka* Vol. 2, No. 0099.
-2. *Ekottarāgama* (增一阿含經), trans. Gautama Saṅghadeva, *Taishō Tripiṭaka* Vol. 2, No. 0125.
-3. *Dīrghāgama* (長阿含經), trans. Buddhayaśas & Zhu Fonian, *Taishō Tripiṭaka* Vol. 1, No. 0001.
-4. *Avataṃsaka-sūtra* (大方廣佛華嚴經, 80-fascicle), trans. Śikṣānanda, *Taishō Tripiṭaka* Vol. 10, No. 0279.
-5. *Saṃdhinirmocana-sūtra* (解深密經), trans. Xuanzang, *Taishō Tripiṭaka* Vol. 16, No. 0676.
-6. *Śūraṅgama-sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, *Taishō Tripiṭaka* Vol. 19, No. 0945.
-7. *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, *Taishō Tripiṭaka* Vol. 31, No. 1585.
-8. *Yogācārabhūmi-śāstra* (瑜伽師地論), spoken by Maitreya, trans. Xuanzang, *Taishō Tripiṭaka* Vol. 30, No. 1579.
-9. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai, *Taishō Tripiṭaka* Vol. 45, No. 1865.
-10. *Pañcaskandhaka-prakaraṇa* (大乘五蘊論), composed by Vasubandhu, trans. Xuanzang, *Taishō Tripiṭaka* Vol. 31, No. 1612.
-11. *Śatadharmaprakāśamukha-śāstra* (大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, *Taishō Tripiṭaka* Vol. 31, No. 1614.
+1. *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+2. *Ekottarāgama* (*Zengyi ahan jing* 增一阿含經), trans. Gautama Saṅghadeva, Taishō vol. 2, no. 0125.
+3. *Dīrghāgama* (*Chang ahan jing* 長阿含經), trans. Buddhayaśas & Zhu Fonian, Taishō vol. 1, no. 0001.
+4. *Avataṃsaka-sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+5. *Saṃdhinirmocana-sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+6. *Śūraṅgama-sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+7. *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+8. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), spoken by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+9. *Bāshí Guījǔ Bǔzhù* (八識規矩補註), annotated by Putai, Taishō vol. 45, no. 1865.
+10. *Pañcaskandhaka-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1612.
+11. *Śatadharmaprakāśamukha-śāstra* (*Dasheng baifa mingmen lun* 大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
 
 ### II. Modern Scholarship
 

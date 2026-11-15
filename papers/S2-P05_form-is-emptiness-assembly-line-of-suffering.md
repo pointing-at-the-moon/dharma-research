@@ -356,16 +356,16 @@ The next time you pick up your smartphone, try observing: are you seeing the sma
 
 ### Primary Buddhist Sources (Taishō Tripiṭaka)
 
-1. *Prajñāpāramitā-hṛdaya-sūtra* 《般若波羅蜜多心經》, translated by Xuánzàng, Taishō vol. 8, No. 0251.
-2. *Saṃyukta Āgama* 《雜阿含經》, translated by Guṇabhadra, Taishō vol. 2, No. 0099.
-3. *Madhyama Āgama* 《中阿含經》, translated by Gautama Saṅghadeva, Taishō vol. 1, No. 0026.
-4. *Mahāyānābhidharma-samuccaya* 《大乘阿毘達磨集論》, composed by Asaṅga, translated by Xuánzàng, Taishō vol. 31, No. 1605.
+1. *Prajñāpāramitā-hṛdaya-sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), translated by Xuánzàng, Taishō vol. 8, no. 0251.
+2. *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), translated by Guṇabhadra, Taishō vol. 2, no. 0099.
+3. *Madhyama Āgama* (*Zhong ahan jing* 中阿含經), translated by Gautama Saṅghadeva, Taishō vol. 1, no. 0026.
+4. *Mahāyānābhidharma-samuccaya* (*Dasheng apidamo ji lun* 大乘阿毘達磨集論), composed by Asaṅga, translated by Xuánzàng, Taishō vol. 31, no. 1605.
 
 ### Commentarial Literature
 
-5. Kuiji 窺基, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, No. 1710.
-6. Woncheuk 圓測, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, No. 1711.
-7. Fazang 法藏, *Prajñāpāramitā-hṛdaya-sūtra Lüèshū* 《般若波羅蜜多心經略疏》, Taishō vol. 33, No. 1712.
+5. Kuiji 窺基, *Prajñāpāramitā-hṛdaya-sūtra Youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, no. 1710.
+6. Woncheuk 圓測, *Prajñāpāramitā-hṛdaya-sūtra Zàn* 《般若波羅蜜多心經贊》, Taishō vol. 33, no. 1711.
+7. Fazang 法藏, *Prajñāpāramitā-hṛdaya-sūtra Lüèshū* 《般若波羅蜜多心經略疏》, Taishō vol. 33, no. 1712.
 
 ### Modern Scholarship
 

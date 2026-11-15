@@ -383,18 +383,18 @@ S3's answer: **There are eight passengers in the car, but none of them is the dr
 
 ### I. Primary Buddhist Sources 佛教原典
 
-- *Dīrghāgama* (長阿含經), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, No. 0001.
-- *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, Taishō vol. 2, No. 0099.
-- *Ekottarāgama* (增壹阿含經), trans. Gautama Saṅghadeva, Taishō vol. 2, No. 0125.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra, Taishō vol. 9, No. 0278.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, Taishō vol. 10, No. 0279.
-- *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra, Taishō vol. 16, No. 0670.
-- *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda, Taishō vol. 16, No. 0672.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, Taishō vol. 16, No. 676.
-- *Śatadharmaprakāśamukha-śāstra* (大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, No. 1614.
-- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
-- *Yogācārabhūmi-śāstra* (瑜伽師地論), spoken by Maitreya, trans. Xuanzang, Taishō vol. 30, No. 1579.
-- *Vasupandhu-dharma-ācārya-caritra* (婆藪盤豆法師傳), trans. Paramārtha, Taishō vol. 50, No. 2049.
+- *Dīrghāgama* (*Chang ahan jing* 長阿含經), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經), trans. Gautama Saṅghadeva, Taishō vol. 2, no. 0125.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra, Taishō vol. 16, no. 0670.
+- *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda, Taishō vol. 16, no. 0672.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Śatadharmaprakāśamukha-śāstra* (*Dasheng baifa mingmen lun* 大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), spoken by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+- *Vasupandhu-dharma-ācārya-caritra* (*Posoupandou fashi zhuan* 婆藪盤豆法師傳), trans. Paramārtha, Taishō vol. 50, no. 2049.
 
 ### II. Modern Scholarship 現代學術著作
 

@@ -443,43 +443,43 @@ The Heart Sūtra's final passage no longer asks "how does one person awaken" but
 
 ### I. Primary Buddhist Sources
 
-*Dīrghāgama* (長阿含經). Translated by Buddhayaśas and Zhu Fonian, Later Qin. T1, No. 0001.
+*Dīrghāgama* (*Chang ahan jing* 長阿含經). Translated by Buddhayaśas and Zhu Fonian, Later Qin. Taishō vol. 1, no. 0001.
 
-*Mahāparinirvāṇa Sūtra* (大般涅槃經). Translated by Faxian, Eastern Jin. T1, No. 0007.
+*Mahāparinirvāṇa Sūtra* (*Da banniepan jing* 大般涅槃經). Translated by Faxian, Eastern Jin. Taishō vol. 1, no. 0007.
 
-*Ekottarāgama* (增壹阿含經). Translated by Gautama Saṃghadeva, Eastern Jin. T2, No. 0125.
+*Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經). Translated by Gautama Saṃghadeva, Eastern Jin. Taishō vol. 2, no. 0125.
 
-*Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經). Translated by Kumārajīva, Yao Qin. T8, No. 0235.
+*Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經). Translated by Kumārajīva, Yao Qin. Taishō vol. 8, no. 0235.
 
-*Prajñāpāramitā Hṛdaya Sūtra* (般若波羅蜜多心經). Translated by Xuanzang, Tang. T8, No. 0251.
+*Prajñāpāramitā Hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經). Translated by Xuanzang, Tang. Taishō vol. 8, no. 0251.
 
-*Laṅkāvatāra Sūtra* (入楞伽經). Translated by Bodhiruci, Northern Wei. T16, No. 0671.
+*Laṅkāvatāra Sūtra* (*Ru lengqie jing* 入楞伽經). Translated by Bodhiruci, Northern Wei. Taishō vol. 16, no. 0671.
 
-*Yogācārabhūmi-śāstra* (瑜伽師地論). Expounded by Maitreya Bodhisattva; translated by Xuanzang, Tang. T30, No. 1579.
+*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論). Expounded by Maitreya Bodhisattva; translated by Xuanzang, Tang. Taishō vol. 30, no. 1579.
 
-*Vijñaptimātratāsiddhi* (成唯識論). Composed by Dharmapāla and other bodhisattvas; translated by Xuanzang, Tang. T31, No. 1585.
+*Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論). Composed by Dharmapāla and other bodhisattvas; translated by Xuanzang, Tang. Taishō vol. 31, no. 1585.
 
-*Mahāyānasaṃgrahabhāṣya* by Vasubandhu (攝大乘論釋, Vasubandhu). Translated by Xuanzang, Tang. T31, No. 1597.
+*Mahāyānasaṃgrahabhāṣya* by Vasubandhu (攝大乘論釋, Vasubandhu). Translated by Xuanzang, Tang. Taishō vol. 31, no. 1597.
 
-*Mahāyānasaṃgrahabhāṣya* by Asvabhāva (攝大乘論釋, Asvabhāva). Translated by Xuanzang, Tang. T31, No. 1598.
+*Mahāyānasaṃgrahabhāṣya* by Asvabhāva (攝大乘論釋, Asvabhāva). Translated by Xuanzang, Tang. Taishō vol. 31, no. 1598.
 
-*Madhyāntavibhāga* (辯中邊論). Composed by Vasubandhu; translated by Xuanzang, Tang. T31, No. 1600.
+*Madhyāntavibhāga* (*Bian zhongbian lun* 辯中邊論). Composed by Vasubandhu; translated by Xuanzang, Tang. Taishō vol. 31, no. 1600.
 
-*Mahāyānasaṃgrahabhāṣya* by Vasubandhu (攝大乘論釋, Paramārtha's version). Translated by Paramārtha, Chen. T31, No. 1595.
+*Mahāyānasaṃgrahabhāṣya* by Vasubandhu (攝大乘論釋, Paramārtha's version). Translated by Paramārtha, Chen. Taishō vol. 31, no. 1595.
 
-*Ratnagotravibhāga* (究竟一乘寶性論). Composed by Sāramati; translated by Ratnamati, Northern Wei. T31, No. 1611.
+*Ratnagotravibhāga* (*Jiujing yisheng baoxing lun* 究竟一乘寶性論). Composed by Sāramati; translated by Ratnamati, Northern Wei. Taishō vol. 31, no. 1611.
 
-*Mahāprajñāpāramitopadeśa* (大智度論). Composed by Nāgārjuna; translated by Kumārajīva, Yao Qin. T25, No. 1509.
+*Mahāprajñāpāramitopadeśa* (*Da zhidu lun* 大智度論). Composed by Nāgārjuna; translated by Kumārajīva, Yao Qin. Taishō vol. 25, no. 1509.
 
 ### II. Classical Commentaries
 
-*Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊). Composed by Kuiji, Tang. T33, No. 1710.
+*Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊). Composed by Kuiji, Tang. Taishō vol. 33, no. 1710.
 
-*Jingang bore jing zanshu* (金剛般若經贊述). Composed by Kuiji, Tang. T33, No. 1700.
+*Jingang bore jing zanshu* (金剛般若經贊述). Composed by Kuiji, Tang. Taishō vol. 33, no. 1700.
 
-*Jingang bore shu* (金剛般若疏). Composed by Jizang, Sui. T33, No. 1699.
+*Jingang bore shu* (金剛般若疏). Composed by Jizang, Sui. Taishō vol. 33, no. 1699.
 
-*Bashi guiju buzhu* (八識規矩補注). Supplementary commentary by Putai. T45, No. 1865.
+*Bashi guiju buzhu* (八識規矩補注). Supplementary commentary by Putai. Taishō vol. 45, no. 1865.
 
 ### III. Modern Scholarship
 

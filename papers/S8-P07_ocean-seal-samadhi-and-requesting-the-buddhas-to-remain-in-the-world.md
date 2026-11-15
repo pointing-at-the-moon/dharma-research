@@ -453,23 +453,23 @@ The next paper, S8-P08 (*Six Characteristics in Perfect Fusion*), will unfold th
 
 #### Sūtras
 
-- *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (80-fascicle *Avataṃsaka*), trans. Śikṣānanda (Tang), T0279, Taishō vol. 10.
-- *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (60-fascicle *Avataṃsaka*), trans. Buddhabhadra (Eastern Jin), T0278, Taishō vol. 9.
-- *Cháng āhán jīng · Yóuxíng jīng* 長阿含經·遊行經, trans. Buddhayaśas and Zhu Fonian (Later Qin), T0001, Taishō vol. 1.
-- *Fó bānníhuán jīng* 佛般泥洹經, trans. Bai Fazu (Western Jin), T0005, Taishō vol. 1.
-- *Bānníhuán jīng* 般泥洹經, translator unknown, T0006, Taishō vol. 1.
-- *Dà bānnièpán jīng* (Hīnayāna) 大般涅槃經, trans. Faxian (Eastern Jin), T0007, Taishō vol. 1.
-- *Zēngyī āhán jīng* 增壹阿含經, trans. Gautama Saṃghadeva (Eastern Jin), T0125, Taishō vol. 2.
+- *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (80-fascicle *Avataṃsaka*), trans. Śikṣānanda (Tang), Taishō vol. 10, no. 0279.
+- *Dàfāngguǎng fó huáyán jīng* 大方廣佛華嚴經 (60-fascicle *Avataṃsaka*), trans. Buddhabhadra (Eastern Jin), Taishō vol. 9, no. 0278.
+- *Cháng āhán jīng · Yóuxíng jīng* 長阿含經·遊行經, trans. Buddhayaśas and Zhu Fonian (Later Qin), Taishō vol. 1, no. 0001.
+- *Fó bānníhuán jīng* 佛般泥洹經, trans. Bai Fazu (Western Jin), Taishō vol. 1, no. 0005.
+- *Bānníhuán jīng* 般泥洹經, translator unknown, Taishō vol. 1, no. 0006.
+- *Dà bānnièpán jīng* (Hīnayāna) 大般涅槃經, trans. Faxian (Eastern Jin), Taishō vol. 1, no. 0007.
+- *Zēngyī āhán jīng* 增壹阿含經, trans. Gautama Saṃghadeva (Eastern Jin), Taishō vol. 2, no. 0125.
 
 #### Treatises and Commentaries
 
-- Zhiyan, *Huáyán yīchéng shíxuán mén* 華嚴一乘十玄門, T1868, Taishō vol. 45.
-- Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), T1866, Taishō vol. 45.
-- Fazang, *Huáyán jīng tànxuán jì* 華嚴經探玄記, T1733, Taishō vol. 35.
-- Fazang, *Xiū Huáyán àozhǐ wàng jìn huányuán guān* 修華嚴奧旨妄盡還源觀, T1876, Taishō vol. 45.
-- Fazang, *Huáyán jīn shīzǐ zhāng* 華嚴金師子章 (no independent Taishō number; carried in Jingyuan's *Yúnjiān lèijiě* T1880 and Chengqian's annotated recension T1881), Taishō vol. 45.
-- Chengguan, *Dàfāngguǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, T1735, Taishō vol. 35.
-- Chengguan, *Dàfāngguǎng fó huáyán jīng suí shū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔, T1736, Taishō vol. 36.
+- Zhiyan, *Huáyán yīchéng shíxuán mén* 華嚴一乘十玄門, Taishō vol. 45, no. 1868.
+- Fazang, *Huáyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), Taishō vol. 45, no. 1866.
+- Fazang, *Huáyán jīng tànxuán jì* 華嚴經探玄記, Taishō vol. 35, no. 1733.
+- Fazang, *Xiū Huáyán àozhǐ wàng jìn huányuán guān* 修華嚴奧旨妄盡還源觀, Taishō vol. 45, no. 1876.
+- Fazang, *Huáyán jīn shīzǐ zhāng* 華嚴金師子章 (no independent Taishō number; carried in Jingyuan's *Yúnjiān lèijiě* Taishō vol. 45, no. 1880 and Chengqian's annotated recension Taishō vol. 45, no. 1881), Taishō vol. 45.
+- Chengguan, *Dàfāngguǎng fó huáyán jīng shū* 大方廣佛華嚴經疏, Taishō vol. 35, no. 1735.
+- Chengguan, *Dàfāngguǎng fó huáyán jīng suí shū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔, Taishō vol. 36, no. 1736.
 
 ### II. Modern Scholarship
 

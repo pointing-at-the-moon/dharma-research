@@ -335,7 +335,7 @@ For daily practice: do not affix lineage labels to yourself (whether "determinat
 
 **Vasubandhu's *Lotus Treatise*:**
 - *Saddharmapuṇḍarīkopadeśa* (*Miaofa lianhua jing youbotishe* 妙法蓮華經憂波提舍), Vasubandhu, trans. Bodhiruci. Taishō vol. 26, no. 1519.
-- *Saddharmapuṇḍarīkopadeśa*, Vasubandhu, trans. Ratnamati. Taishō vol. 26, no. 1520.
+- *Saddharmapuṇḍarīkopadeśa* (*Miaofa lianhua jing lun youbotishe* 妙法蓮華經論優波提舍), Vasubandhu, trans. Ratnamati. Taishō vol. 26, no. 1520.
 
 **Lotus Commentaries:**
 - *Miaofa lianhua jing wenju* 妙法蓮華經文句, Zhiyi. Taishō vol. 34, no. 1718.

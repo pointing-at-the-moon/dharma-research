@@ -456,15 +456,15 @@ Series 2 -- we will meet there.
 
 ### I. Primary Buddhist Sources 佛教原典
 
-- *Da Banniepan Jing* 《大般涅槃經》 (three-fascicle version, tr. Faxian), fascicle 1, *Taisho* vol. 1, No. 0007.
-- *Ekottara Agama* 《增壹阿含經》, fascicles 1, 7, 18, 26, *Taisho* vol. 2, No. 0125.
-- *Vimalakirti Sutra* 《維摩詰經》, trans. Zhi Qian, *Taisho* vol. 14, No. 0474.
-- *Vimalakirtinirdesa Sutra* 《維摩詰所說經》, trans. Kumarajiva, *Taisho* vol. 14, No. 0475.
-- *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, *Taisho* vol. 31, No. 1595.
-- *Buddhagotra-sastra* 《佛性論》, fascicle 4, *Taisho* vol. 31, No. 1610.
-- *Sifen Lü Xingshi Chao Zichi Ji* 《四分律行事鈔資持記》, by Yuanzhao 元照, *Taisho* vol. 40, No. 1805.
-- *Mahaprajnaparamita-sastra* 《大智度論》, fascicle 19, by Nagarjuna, trans. Kumarajiva, *Taisho* vol. 25, No. 1509.
-- *Yuqie Lun Ji* 《瑜伽論記》 (Dunlun's record of commentary on the *Yogacarabhumi-sastra*), fascicle 22, *Taisho* vol. 42, No. 1828.
+- *Da Banniepan Jing* 《大般涅槃經》 (three-fascicle version, tr. Faxian), fascicle 1, Taishō vol. 1, no. 0007.
+- *Ekottara Agama* (*Zengyi ahan jing* 增壹阿含經), fascicles 1, 7, 18, 26, Taishō vol. 2, no. 0125.
+- *Vimalakirti Sutra* (*Weimojie jing* 維摩詰經), trans. Zhi Qian, Taishō vol. 14, no. 0474.
+- *Vimalakirtinirdesa Sutra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumarajiva, Taishō vol. 14, no. 0475.
+- *Mahāyānasaṃgraha-bhāṣya* (Paramārtha) 《攝大乘論釋》, fascicle 10, Taishō vol. 31, no. 1595.
+- *Buddhagotra-sastra* (*Foxing lun* 佛性論), fascicle 4, Taishō vol. 31, no. 1610.
+- *Sifen Lü Xingshi Chao Zichi Ji* 《四分律行事鈔資持記》, by Yuanzhao 元照, Taishō vol. 40, no. 1805.
+- *Mahaprajnaparamita-sastra* (*Da zhidu lun* 大智度論), fascicle 19, by Nagarjuna, trans. Kumarajiva, Taishō vol. 25, no. 1509.
+- *Yuqie Lun Ji* 《瑜伽論記》 (Dunlun's record of commentary on the *Yogacarabhumi-sastra*), fascicle 22, Taishō vol. 42, no. 1828.
 
 ### II. Modern Scholarship 現代學術著作
 

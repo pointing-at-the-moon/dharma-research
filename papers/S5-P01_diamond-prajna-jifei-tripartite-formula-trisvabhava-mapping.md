@@ -415,15 +415,15 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 
 ### I. Primary Buddhist Sources
 
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經), trans. Śikṣānanda, T10, No. 279.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
-- *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti (般剌蜜帝), T19, No. 945.
-- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Asaṅga, trans. Dharmagupta, T25, No. 1510b.
-- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Vasubandhu, trans. Bodhiruci, T25, No. 1511.
-- *Jingang xian lun* (金剛仙論), trans. Bodhiruci (no author named at the head of the text), T25, No. 1512.
-- *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (能斷金剛般若波羅蜜多經論釋), Asaṅga (verses), Vasubandhu (commentary), trans. Yijing, T25, No. 1513.
-- Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pramiti (般剌蜜帝), Taishō vol. 19, no. 0945.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Asaṅga, trans. Dharmagupta, Taishō vol. 25, no. 1510b.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), Vasubandhu, trans. Bodhiruci, Taishō vol. 25, no. 1511.
+- *Jingang xian lun* (金剛仙論), trans. Bodhiruci (no author named at the head of the text), Taishō vol. 25, no. 1512.
+- *Commentary on the Treatise on the Ability to Sever the Diamond Prajñāpāramitā* (*Nengduan jingang bore boluomiduo jing lun shi* 能斷金剛般若波羅蜜多經論釋), Asaṅga (verses), Vasubandhu (commentary), trans. Yijing, Taishō vol. 25, no. 1513.
+- Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), Taishō vol. 33, no. 1700.
 
 ### II. Modern Scholarship
 

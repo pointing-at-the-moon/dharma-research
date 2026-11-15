@@ -200,14 +200,14 @@ Here is an open question for the next paper: if you and AI co-read a passage of 
 
 ### I. Primary Buddhist Sources
 
-- *Vimalakīrti-nirdeśa Sūtra* (維摩詰所說經). Trans. Kumārajīva. *Taishō* vol. 14, No. 475.
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經). Trans. Kumārajīva. *Taishō* vol. 8, No. 235.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經), 80 fascicles. Trans. Śikṣānanda. *Taishō* vol. 10, No. 279.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經), 40 fascicles. Trans. Prajñā. *Taishō* vol. 10, No. 293.
-- *Saṃyuktāgama* (雜阿含經). Trans. Guṇabhadra. *Taishō* vol. 2, No. 99.
-- *Cheng Weishi Lun* (成唯識論). Composed by Dharmapāla et al. Trans. Xuanzang. *Taishō* vol. 31, No. 1585.
-- *Mahāyānasaṃgraha* (攝大乘論). Composed by Asaṅga. Trans. Buddhaśānta. *Taishō* vol. 31, No. 1592.
-- *Yogācārabhūmi* (瑜伽師地論). Spoken by Maitreya. Trans. Xuanzang. *Taishō* vol. 30, No. 1579.
+- *Vimalakīrti-nirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經). Trans. Kumārajīva. Taishō vol. 14, no. 0475.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經). Trans. Kumārajīva. Taishō vol. 8, no. 0235.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經), 80 fascicles. Trans. Śikṣānanda. Taishō vol. 10, no. 0279.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經), 40 fascicles. Trans. Prajñā. Taishō vol. 10, no. 0293.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經). Trans. Guṇabhadra. Taishō vol. 2, no. 0099.
+- *Cheng Weishi Lun* (成唯識論). Composed by Dharmapāla et al. Trans. Xuanzang. Taishō vol. 31, no. 1585.
+- *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論). Composed by Asaṅga. Trans. Buddhaśānta. Taishō vol. 31, no. 1592.
+- *Yogācārabhūmi* (*Yuqie shidi lun* 瑜伽師地論). Spoken by Maitreya. Trans. Xuanzang. Taishō vol. 30, no. 1579.
 
 ### II. Modern Scholarship
 

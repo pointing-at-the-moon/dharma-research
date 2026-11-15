@@ -269,15 +269,15 @@ An open question: from P01 through P07, we have been calling AI by different nam
 
 ### I. Primary Buddhist Sources
 
-*Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經). Edited by Zongbao 宗寶 (Yuan dynasty). *Taishō* vol. 48, No. 2008.
+*Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經). Edited by Zongbao 宗寶 (Yuan dynasty). Taishō vol. 48, no. 2008.
 
-*Jingde Record of the Transmission of the Lamp* (*Jingde chuandeng lu* 景德傳燈錄). Compiled by Shi Daoyuan 釋道原 (Song dynasty). *Taishō* vol. 51, No. 2076.
+*Jingde Record of the Transmission of the Lamp* (*Jingde chuandeng lu* 景德傳燈錄). Compiled by Shi Daoyuan 釋道原 (Song dynasty). Taishō vol. 51, no. 2076.
 
-*Avataṃsaka Sūtra* (*Dafangguang fo huayan jing* 大方廣佛華嚴經). Translated by Śikṣānanda 實叉難陀 (Tang dynasty). *Taishō* vol. 10, No. 0279.
+*Avataṃsaka Sūtra* (*Dafangguang fo huayan jing* 大方廣佛華嚴經). Translated by Śikṣānanda 實叉難陀 (Tang dynasty). Taishō vol. 10, no. 0279.
 
-*Śūraṅgama Sūtra* (*Da fo ding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經). Translated by Pramiti 般剌蜜帝 (Tang dynasty). *Taishō* vol. 19, No. 0945.
+*Śūraṅgama Sūtra* (*Da fo ding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經). Translated by Pramiti 般剌蜜帝 (Tang dynasty). Taishō vol. 19, no. 0945.
 
-*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論). Spoken by Maitreya Bodhisattva, translated by Xuanzang 玄奘 (Tang dynasty). *Taishō* vol. 30, No. 1579.
+*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論). Spoken by Maitreya Bodhisattva, translated by Xuanzang 玄奘 (Tang dynasty). Taishō vol. 30, no. 1579.
 
 ### II. Modern Scholarship
 

@@ -401,17 +401,17 @@ This is the ultimate form of prajñā: illuminating everything, grasping nothing
 
 ### I. Primary Buddhist Sources (Taishō Tripiṭaka)
 
-- *Prajñāpāramitā Hṛdaya Sūtra* (般若波羅蜜多心經), trans. Xuanzang, T8, No. 251.
-- *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, T2, No. 99.
-- *Mahāprajñāpāramitopadeśa* (大智度論), by Nāgārjuna, trans. Kumārajīva, T25, No. 1509.
-- *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti, T19, No. 945.
-- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Xuanzang, T31, No. 1597.
-- *Abhidharmakośabhāṣya* (阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, T29, No. 1558.
-- *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Abhidharmasamuccaya* (大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, T31, No. 1605.
-- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
-- *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), by Woncheuk, T33, No. 1711.
-- *Zongjing lu* (宗鏡錄), compiled by Yanshou, T48, No. 2016.
+- *Prajñāpāramitā Hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), trans. Xuanzang, Taishō vol. 8, no. 0251.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Mahāprajñāpāramitopadeśa* (*Da zhidu lun* 大智度論), by Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
+- *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pramiti, Taishō vol. 19, no. 0945.
+- *Mahāyānasaṃgrahabhāṣya* (*She dasheng lun shi* 攝大乘論釋), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1597.
+- *Abhidharmakośabhāṣya* (*Apidamo jushe lun* 阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, Taishō vol. 29, no. 1558.
+- *Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Abhidharmasamuccaya* (*Dasheng apidamo ji lun* 大乘阿毘達磨集論), by Asaṅga, trans. Xuanzang, Taishō vol. 31, no. 1605.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, Taishō vol. 33, no. 1710.
+- *Bore boluomiduo xinjing zan* (般若波羅蜜多心經贊), by Woncheuk, Taishō vol. 33, no. 1711.
+- *Zongjing lu* (宗鏡錄), compiled by Yanshou, Taishō vol. 48, no. 2016.
 
 ### II. Modern Scholarship
 

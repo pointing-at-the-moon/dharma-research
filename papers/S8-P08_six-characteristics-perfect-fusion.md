@@ -902,25 +902,25 @@ The next time you offer homage to a buddha, recite a buddha-name, chant a sūtra
 
 #### Sūtras
 
-- 《大方廣佛華嚴經》(eighty-fascicle *Avataṃsaka*), *Dà fāng guǎng fó huáyán jīng*, translated by Śikṣānanda of Khotan during the Tang dynasty, *Taishō* vol. 10, no. 0279.
-- 《大方廣佛華嚴經》(sixty-fascicle *Avataṃsaka*), translated by Buddhabhadra of India during the Eastern Jin dynasty, *Taishō* vol. 9, no. 0278.
-- 《十地經》, *Daśabhūmika-sūtra* (Sanskrit; the Chinese version is preserved within the scriptural portion of T1522).
+- 《大方廣佛華嚴經》(eighty-fascicle *Avataṃsaka*), *Dà fāng guǎng fó huáyán jīng*, translated by Śikṣānanda of Khotan during the Tang dynasty, Taishō vol. 10, no. 0279.
+- 《大方廣佛華嚴經》(sixty-fascicle *Avataṃsaka*), translated by Buddhabhadra of India during the Eastern Jin dynasty, Taishō vol. 9, no. 0278.
+- 《十地經》, *Daśabhūmika-sūtra* (Sanskrit; the Chinese version is preserved within the scriptural portion of Taishō vol. 26, no. 1522).
 #### Indian Commentaries
 
-- 《十地經論》(*Daśabhūmika-vyākhyāna*), composed by Vasubandhu, translated by Bodhiruci and others of Northern India during the Northern Wei dynasty, *Taishō* vol. 26, no. 1522.
+- 《十地經論》(*Daśabhūmika-vyākhyāna*), composed by Vasubandhu, translated by Bodhiruci and others of Northern India during the Northern Wei dynasty, Taishō vol. 26, no. 1522.
 
 #### Chinese Patriarchal Commentaries
 
-- 《華嚴一乘教義分齊章》(*Huáyán wǔjiào zhāng*), composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1866.
-- 《華嚴經探玄記》, composed by Fazang of the Tang dynasty, *Taishō* vol. 35, no. 1733.
-- 《華嚴金師子章》, composed by Fazang of the Tang dynasty, *Taishō* vol. 45, no. 1880.
-- 《華嚴經金師子章註》, composed by Fazang of the Tang dynasty, annotated by Chengqian of the Song dynasty, *Taishō* vol. 45, no. 1881.
-- 《華嚴經義海百門》, *Taishō* vol. 45, no. 1875.
-- 《華嚴經金師子章雲間類解》, composed by Jingyuan of the Song dynasty, *Taishō* vol. 45, no. 1880.
-- 《華嚴經疏》, composed by Chengguan of the Tang dynasty, *Taishō* vol. 35, no. 1735.
-- 《華嚴經隨疏演義鈔》, composed by Chengguan of the Tang dynasty, *Taishō* vol. 36, no. 1736.
-- 《華嚴一乘十玄門》, attributed to Du Shun (orally) and composed by Zhiyan of the Sui–Tang transition, *Taishō* vol. 45, no. 1868.
-- 《華嚴經問答》, attributed to Zhiyan of the Tang dynasty, *Taishō* vol. 45, no. 1873.
+- 《華嚴一乘教義分齊章》(*Huáyán wǔjiào zhāng*), composed by Fazang of the Tang dynasty, Taishō vol. 45, no. 1866.
+- 《華嚴經探玄記》, composed by Fazang of the Tang dynasty, Taishō vol. 35, no. 1733.
+- 《華嚴金師子章》, composed by Fazang of the Tang dynasty, Taishō vol. 45, no. 1880.
+- 《華嚴經金師子章註》, composed by Fazang of the Tang dynasty, annotated by Chengqian of the Song dynasty, Taishō vol. 45, no. 1881.
+- 《華嚴經義海百門》, Taishō vol. 45, no. 1875.
+- 《華嚴經金師子章雲間類解》, composed by Jingyuan of the Song dynasty, Taishō vol. 45, no. 1880.
+- 《華嚴經疏》, composed by Chengguan of the Tang dynasty, Taishō vol. 35, no. 1735.
+- 《華嚴經隨疏演義鈔》, composed by Chengguan of the Tang dynasty, Taishō vol. 36, no. 1736.
+- 《華嚴一乘十玄門》, attributed to Du Shun (orally) and composed by Zhiyan of the Sui–Tang transition, Taishō vol. 45, no. 1868.
+- 《華嚴經問答》, attributed to Zhiyan of the Tang dynasty, Taishō vol. 45, no. 1873.
 
 ### II. Modern Scholarship
 

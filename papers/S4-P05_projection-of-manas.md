@@ -241,16 +241,16 @@ The open question for Paper Six: If projection is structural and cannot be switc
 
 ### I. Primary Buddhist Sources
 
-1. *Madhyama-āgama* (中阿含經), trans. Gautama Saṅghadeva (瞿曇僧伽提婆), *Taishō Tripiṭaka*, vol. 1, No. 0026.
-2. *Saṃyukta-āgama* (雜阿含經), trans. Guṇabhadra (求那跋陀羅), *Taishō Tripiṭaka*, vol. 2, No. 0099.
-3. *Mahāprajñāpāramitā Sūtra* (摩訶般若波羅蜜經), trans. Kumārajīva (鳩摩羅什), *Taishō Tripiṭaka*, vol. 8, No. 0223.
-4. *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 7, No. 0220.
-5. *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda (實叉難陀), *Taishō Tripiṭaka*, vol. 16, No. 0672.
-6. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya (彌勒), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 30, No. 1579.
-7. *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla (護法) et al., trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 31, No. 1585.
-8. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), compiled by Sthiramati (安慧), trans. Xuanzang (玄奘), *Taishō Tripiṭaka*, vol. 31, No. 1606.
-9. *Bashi Guiju Buzhu* (八識規矩補註, containing Xuanzang's 玄奘 root verses 八識規矩頌), supplementary commentary by Putai (普泰), *Taishō Tripiṭaka*, vol. 45, No. 1865.
-10. *Mahāprajñāpāramitā-śāstra* (大智度論), by Nāgārjuna (龍樹), trans. Kumārajīva (鳩摩羅什), *Taishō Tripiṭaka*, vol. 25, No. 1509.
+1. *Madhyama-āgama* (*Zhong ahan jing* 中阿含經), trans. Gautama Saṅghadeva (瞿曇僧伽提婆), Taishō vol. 1, no. 0026.
+2. *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra (求那跋陀羅), Taishō vol. 2, no. 0099.
+3. *Mahāprajñāpāramitā Sūtra* (*Mohe bore boluomi jing* 摩訶般若波羅蜜經), trans. Kumārajīva (鳩摩羅什), Taishō vol. 8, no. 0223.
+4. *Mahāprajñāpāramitā Sūtra* (*Da bore boluomiduo jing* 大般若波羅蜜多經), trans. Xuanzang (玄奘), Taishō vol. 7, no. 0220.
+5. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda (實叉難陀), Taishō vol. 16, no. 0672.
+6. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya (彌勒), trans. Xuanzang (玄奘), Taishō vol. 30, no. 1579.
+7. *Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論), by Dharmapāla (護法) et al., trans. Xuanzang (玄奘), Taishō vol. 31, no. 1585.
+8. *Abhidharmasamuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論), compiled by Sthiramati (安慧), trans. Xuanzang (玄奘), Taishō vol. 31, no. 1606.
+9. *Bashi Guiju Buzhu* (八識規矩補註, containing Xuanzang's 玄奘 root verses 八識規矩頌), supplementary commentary by Putai (普泰), Taishō vol. 45, no. 1865.
+10. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna (龍樹), trans. Kumārajīva (鳩摩羅什), Taishō vol. 25, no. 1509.
 
 ### II. Modern Scholarship
 

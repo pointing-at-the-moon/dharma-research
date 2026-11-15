@@ -206,13 +206,13 @@ What is learned is not three sets of classification to memorize, but three ways 
 
 ### A. Primary Buddhist Sources
 
-- *Saṃyukta-āgama* (雜阿含經), trans. Guṇabhadra, Taishō vol. 2, No. 0099.
-- *Prajñāpāramitā-hṛdaya-sūtra / Heart Sūtra* (般若波羅蜜多心經), trans. Xuanzang, Taishō vol. 8, No. 0251.
-- *Abhidharmakośa-bhāṣya* (阿毗達磨俱舍論), by Vasubandhu, trans. Xuanzang, Taishō vol. 29, No. 1558.
-- *Abhidharmakośa* (old translation, 阿毗達磨俱舍釋論), trans. Paramārtha, Taishō vol. 29, No. 1559.
-- *Abhidharma-mahāvibhāṣā* (阿毗達磨大毗婆沙論), trans. Xuanzang, Taishō vol. 27, No. 1545.
-- *Mahāyāna-śatadharma-prakāśamukha-śāstra / Treatise on the Hundred Dharmas* (大乘百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, No. 1614.
-- *Cheng Weishi Lun / Demonstration of Consciousness-Only* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
+- *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Prajñāpāramitā-hṛdaya-sūtra / Heart Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), trans. Xuanzang, Taishō vol. 8, no. 0251.
+- *Abhidharmakośa-bhāṣya* (*Apidamo jushe lun* 阿毗達磨俱舍論), by Vasubandhu, trans. Xuanzang, Taishō vol. 29, no. 1558.
+- *Abhidharmakośa* (old translation, 阿毗達磨俱舍釋論), trans. Paramārtha, Taishō vol. 29, no. 1559.
+- *Abhidharma-mahāvibhāṣā* (*Apidamo da piposha lun* 阿毗達磨大毗婆沙論), trans. Xuanzang, Taishō vol. 27, no. 1545.
+- *Mahāyāna-śatadharma-prakāśamukha-śāstra / Treatise on the Hundred Dharmas* (*Dasheng baifa mingmen lun* 大乘百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+- *Cheng Weishi Lun / Demonstration of Consciousness-Only* (*Cheng weishi lun* 成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
 
 ### B. Modern Scholarship
 

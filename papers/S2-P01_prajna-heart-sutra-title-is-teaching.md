@@ -216,14 +216,14 @@ The Tathāgata has nowhere from which he comes and nowhere to which he goes. You
 
 ### I. Primary Buddhist Sources 佛教原典
 
-1. Kuiji 窺基, *Bore boluomiduo xinjing youzan* 《般若波羅蜜多心經幽贊》 (T1710), *Taishō* vol. 33, No. 1710.
-2. Dharmapāla et al. 護法等菩薩造, trans. Xuanzang 玄奘, *Cheng Weishi Lun* 《成唯識論》 (T1585), *Taishō* vol. 31, No. 1585.
-3. Trans. Kumārajīva 鳩摩羅什, *Vajracchedikā Prajñāpāramitā Sūtra* 《金剛般若波羅蜜經》 (T0235), *Taishō* vol. 8, No. 235.
-4. Nāgārjuna 龍樹菩薩造, trans. Kumārajīva 鳩摩羅什, *Mahāprajñāpāramitā-śāstra* 《大智度論》 (T1509), *Taishō* vol. 25, No. 1509.
-5. Vasubandhu 世親菩薩造, trans. Xuanzang 玄奘, *Madhyāntavibhāga* 《辯中邊論》 (T1600), *Taishō* vol. 31, No. 1600.
-6. Asaṅga 無著菩薩造, trans. Prabhākaramitra 波羅頗蜜多羅, *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》 (T1604), *Taishō* vol. 31, No. 1604.
-7. Trans. Śikṣānanda 實叉難陀, *Dasheng Qixin Lun* 《大乘起信論》 (T1667), *Taishō* vol. 32, No. 1667.
-8. *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》 (T2008), *Taishō* vol. 48, No. 2008.
+1. Kuiji 窺基, *Bore boluomiduo xinjing youzan* 《般若波羅蜜多心經幽贊》, Taishō vol. 33, no. 1710.
+2. Dharmapāla et al. 護法等菩薩造, trans. Xuanzang 玄奘, *Cheng Weishi Lun* 《成唯識論》, Taishō vol. 31, no. 1585.
+3. Trans. Kumārajīva 鳩摩羅什, *Vajracchedikā Prajñāpāramitā Sūtra* 《金剛般若波羅蜜經》, Taishō vol. 8, no. 0235.
+4. Nāgārjuna 龍樹菩薩造, trans. Kumārajīva 鳩摩羅什, *Mahāprajñāpāramitā-śāstra* 《大智度論》, Taishō vol. 25, no. 1509.
+5. Vasubandhu 世親菩薩造, trans. Xuanzang 玄奘, *Madhyāntavibhāga* 《辯中邊論》, Taishō vol. 31, no. 1600.
+6. Asaṅga 無著菩薩造, trans. Prabhākaramitra 波羅頗蜜多羅, *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》, Taishō vol. 31, no. 1604.
+7. Trans. Śikṣānanda 實叉難陀, *Dasheng Qixin Lun* 《大乘起信論》, Taishō vol. 32, no. 1667.
+8. *Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經), Taishō vol. 48, no. 2008.
 
 ### II. Modern Scholarship 現代學術著作
 

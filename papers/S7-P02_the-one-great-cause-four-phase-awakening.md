@@ -418,18 +418,18 @@ This paper has, taking the *Upāyakauśalya* chapter's "one great matter and cau
 
 ### I. Primary Buddhist Sources
 
-- *Saddharmapuṇḍarīka-sūtra* (《妙法蓮華經》). Translated by Kumārajīva (Yao Qin). *Taishō* vol. 9, no. 0262.
-- *Zheng fahua jing* (《正法華經》). Translated by Dharmarakṣa (Western Jin). *Taishō* vol. 9, no. 0263.
-- *Saṃyukta-āgama* (《雜阿含經》). Translated by Guṇabhadra (Liu Song). *Taishō* vol. 2, no. 0099.
-- *Madhyama-āgama* (《中阿含經》). Translated by Gautama Saṅghadeva (Eastern Jin). *Taishō* vol. 1, no. 0026.
-- *Dīrgha-āgama* (《長阿含經》). Translated by Buddhayaśas and Zhu Fonian (Later Qin). *Taishō* vol. 1, no. 0001.
-- *Saddharmapuṇḍarīka-upadeśa* (《妙法蓮華經憂波提舍》). By Vasubandhu. Translated by Bodhiruci (Northern Wei). *Taishō* vol. 26, no. 1519.
-- *Saddharmapuṇḍarīka-upadeśa* (parallel translation). By Vasubandhu. Translated by Ratnamati and Senglang (Northern Wei). *Taishō* vol. 26, no. 1520.
-- *Fahua xuanyi* (《法華玄義》). By Zhiyi (Sui). *Taishō* vol. 33, no. 1716.
-- *Fahua wenju* (《法華文句》). By Zhiyi (Sui). *Taishō* vol. 34, no. 1718.
-- *Fahua yishu* (《法華義疏》). By Jizang (Sui). *Taishō* vol. 34, no. 1721.
-- *Miaofa lianhua jing xuanzan* (《妙法蓮華經玄贊》). By Kuiji (Tang). *Taishō* vol. 34, no. 1723.
-- *Cheng weishi lun* (《成唯識論》). By Dharmapāla et al. Translated by Xuanzang (Tang). *Taishō* vol. 31, no. 1585.
+- *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing* 妙法蓮華經). Translated by Kumārajīva (Yao Qin). Taishō vol. 9, no. 0262.
+- *Zheng fahua jing* (《正法華經》). Translated by Dharmarakṣa (Western Jin). Taishō vol. 9, no. 0263.
+- *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經). Translated by Guṇabhadra (Liu Song). Taishō vol. 2, no. 0099.
+- *Madhyama-āgama* (*Zhong ahan jing* 中阿含經). Translated by Gautama Saṅghadeva (Eastern Jin). Taishō vol. 1, no. 0026.
+- *Dīrgha-āgama* (*Chang ahan jing* 長阿含經). Translated by Buddhayaśas and Zhu Fonian (Later Qin). Taishō vol. 1, no. 0001.
+- *Saddharmapuṇḍarīka-upadeśa* (*Miaofa lianhua jing youbotishe* 妙法蓮華經憂波提舍). By Vasubandhu. Translated by Bodhiruci (Northern Wei). Taishō vol. 26, no. 1519.
+- *Saddharmapuṇḍarīka-upadeśa* (parallel translation). By Vasubandhu. Translated by Ratnamati and Senglang (Northern Wei). Taishō vol. 26, no. 1520.
+- *Fahua xuanyi* (《法華玄義》). By Zhiyi (Sui). Taishō vol. 33, no. 1716.
+- *Fahua wenju* (《法華文句》). By Zhiyi (Sui). Taishō vol. 34, no. 1718.
+- *Fahua yishu* (《法華義疏》). By Jizang (Sui). Taishō vol. 34, no. 1721.
+- *Miaofa lianhua jing xuanzan* (《妙法蓮華經玄贊》). By Kuiji (Tang). Taishō vol. 34, no. 1723.
+- *Cheng weishi lun* (《成唯識論》). By Dharmapāla et al. Translated by Xuanzang (Tang). Taishō vol. 31, no. 1585.
 
 ### II. Modern Scholarship
 

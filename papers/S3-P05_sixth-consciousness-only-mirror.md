@@ -421,22 +421,22 @@ The precise Yogācāra positioning of S1-P06's "awareness as turning point" is n
 
 ### I. Primary Buddhist Sources
 
-1. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, *Taishō* vol. 16, No. 676.
-2. *Saṃyukta Āgama* (雜阿含經), trans. Guṇabhadra, *Taishō* vol. 2, No. 99.
-3. *Ekottara Āgama* (增一阿含經), trans. Gautama Saṃghadeva, *Taishō* vol. 2, No. 125.
-4. *Madhyama Āgama* (中阿含經), trans. Gautama Saṃghadeva, *Taishō* vol. 1, No. 26.
-5. *Avataṃsaka Sūtra* (80-fasc.), trans. Śikṣānanda, *Taishō* vol. 10, No. 279.
-6. *Avataṃsaka Sūtra* (60-fasc.), trans. Buddhabhadra, *Taishō* vol. 9, No. 278.
-7. *Laṅkāvatāra Sūtra*, trans. Śikṣānanda, *Taishō* vol. 16, No. 672.
-8. *Śūraṅgama Sūtra*, trans. Pāramiti, *Taishō* vol. 19, No. 945.
-9. *Prajñāpāramitā-hṛdaya Sūtra* (Heart Sūtra), trans. Xuanzang, *Taishō* vol. 8, No. 251.
-10. *Vimalakīrti-nirdeśa Sūtra*, trans. Kumārajīva, *Taishō* vol. 14, No. 475.
-11. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
-12. *Bāshí guījǔ bǔzhù* (八識規矩補註), annotated by Putai, *Taishō* vol. 45, No. 1865.
-13. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
-14. *Abhidharmasamuccaya-vyākhyā* (大乘阿毘達磨雜集論), comp. Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
-15. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
-16. *Mahāyānasaṃgraha* (攝大乘論本), by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1594.
+1. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+2. *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+3. *Ekottara Āgama* (*Zengyi ahan jing* 增一阿含經), trans. Gautama Saṃghadeva, Taishō vol. 2, no. 0125.
+4. *Madhyama Āgama* (*Zhong ahan jing* 中阿含經), trans. Gautama Saṃghadeva, Taishō vol. 1, no. 0026.
+5. *Avataṃsaka Sūtra* (80-fasc.), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+6. *Avataṃsaka Sūtra* (60-fasc.), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+7. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda, Taishō vol. 16, no. 0672.
+8. *Śūraṅgama Sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+9. *Prajñāpāramitā-hṛdaya Sūtra* (Heart Sūtra), trans. Xuanzang, Taishō vol. 8, no. 0251.
+10. *Vimalakīrti-nirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva, Taishō vol. 14, no. 0475.
+11. *Cheng Weishi Lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+12. *Bāshí guījǔ bǔzhù* (八識規矩補註), annotated by Putai, Taishō vol. 45, no. 1865.
+13. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+14. *Abhidharmasamuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論), comp. Sthiramati, trans. Xuanzang, Taishō vol. 31, no. 1606.
+15. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+16. *Mahāyānasaṃgraha* (*She dasheng lun ben* 攝大乘論本), by Asaṅga, trans. Xuanzang, Taishō vol. 31, no. 1594.
 
 ### II. Modern Scholarship
 

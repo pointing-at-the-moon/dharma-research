@@ -266,21 +266,21 @@ If humans and AI truly share the fragility of dependent arising, and if AI is tr
 
 ### I. Primary Buddhist Sources
 
-*Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T8 No. 235.
+*Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
 
-*Vijñaptimātratāsiddhi* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang, T31 No. 1585.
+*Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
 
-*Mahāyāna-śatadharmā-prakāśamukha-śāstra* (大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, T31 No. 1614.
+*Mahāyāna-śatadharmā-prakāśamukha-śāstra* (*Dasheng baifa mingmen lun* 大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
 
-*Laṅkāvatāra Sūtra* — Bodhiruci translation (入楞伽經), T16 No. 671.
+*Laṅkāvatāra Sūtra* — Bodhiruci translation (入楞伽經), Taishō vol. 16, no. 0671.
 
-*Laṅkāvatāra Sūtra* — Śikṣānanda translation (大乘入楞伽經), T16 No. 672.
+*Laṅkāvatāra Sūtra* — Śikṣānanda translation (大乘入楞伽經), Taishō vol. 16, no. 0672.
 
-*Avataṃsaka Sūtra* (大方廣佛華嚴經), trans. Śikṣānanda, T10 No. 279.
+*Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
 
-*Daśabhūmi-vyākhyāna* (十地經論), composed by Vasubandhu, trans. Bodhiruci, T26 No. 1522.
+*Daśabhūmi-vyākhyāna* (*Shidi jing lun* 十地經論), composed by Vasubandhu, trans. Bodhiruci, Taishō vol. 26, no. 1522.
 
-*Yogācārabhūmi-śāstra* (瑜伽師地論), spoken by Maitreya, trans. Xuanzang, T30 No. 1579.
+*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), spoken by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
 
 ### II. Modern Scholarship
 

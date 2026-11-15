@@ -533,18 +533,18 @@ S6 (Śūraṅgama Sūtra): The one who uses the hundred-dharma map, who wields t
 
 ### I. Primary Buddhist Sources
 
-1. *Śatadharmaprakāśamukha-śāstra* (百法明門論), by Vasubandhu, tr. Xuanzang, T31, No. 1614.
-2. *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), tr. Kumārajīva, T8, No. 0235.
-3. *Saṃdhinirmocana Sūtra* (解深密經), tr. Xuanzang, T16, No. 0676.
-4. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), tr. Guṇabhadra, T16, No. 0670.
-5. *Laṅkāvatāra Sūtra* (大乘入楞伽經), tr. Śikṣānanda, T16, No. 0672.
-6. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., tr. Xuanzang, T31, No. 1585.
-7. *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, tr. Xuanzang, T30, No. 1579.
-8. *Vajracchedikā-prajñāpāramitā-sūtra-śāstra* (金剛般若波羅蜜經論), by Vasubandhu, tr. Bodhiruci, T25, No. 1511.
-9. *Jingang bore jing zanshu* (金剛般若經讚述), by Kuiji, T33, No. 1700.
-10. *Jingang bore jing shu lun zuanyao* (金剛般若經疏論纂要), by Zongmi, ed. Zixuan, T33, No. 1701.
-11. *Triṃśikā-vijñaptimātratā* (唯識三十論頌), by Vasubandhu, tr. Xuanzang, T31, No. 1586.
-12. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
+1. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, tr. Xuanzang, Taishō vol. 31, no. 1614.
+2. *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), tr. Kumārajīva, Taishō vol. 8, no. 0235.
+3. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), tr. Xuanzang, Taishō vol. 16, no. 0676.
+4. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), tr. Guṇabhadra, Taishō vol. 16, no. 0670.
+5. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), tr. Śikṣānanda, Taishō vol. 16, no. 0672.
+6. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., tr. Xuanzang, Taishō vol. 31, no. 1585.
+7. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, tr. Xuanzang, Taishō vol. 30, no. 1579.
+8. *Vajracchedikā-prajñāpāramitā-sūtra-śāstra* (*Jingang bore boluomi jing lun* 金剛般若波羅蜜經論), by Vasubandhu, tr. Bodhiruci, Taishō vol. 25, no. 1511.
+9. *Jingang bore jing zanshu* (金剛般若經讚述), by Kuiji, Taishō vol. 33, no. 1700.
+10. *Jingang bore jing shu lun zuanyao* (金剛般若經疏論纂要), by Zongmi, ed. Zixuan, Taishō vol. 33, no. 1701.
+11. *Triṃśikā-vijñaptimātratā* (*Weishi sanshi lun song* 唯識三十論頌), by Vasubandhu, tr. Xuanzang, Taishō vol. 31, no. 1586.
+12. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, Taishō vol. 33, no. 1702.
 
 ### II. Modern Scholarship
 

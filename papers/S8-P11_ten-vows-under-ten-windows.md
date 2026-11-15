@@ -795,23 +795,23 @@ After reading this paper, please put it down and continue your daily practice—
 
 **Sūtras**
 
-- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (eighty-fascicle Huayan), trans. Śikṣānanda, *Taishō* vol. 10, no. 279.
-- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (sixty-fascicle Huayan), trans. Buddhabhadra, *Taishō* vol. 9, no. 278.
-- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (forty-fascicle Huayan, including the final fascicle of the *Samantabhadra-caryā-praṇidhāna*), trans. Prajñā, *Taishō* vol. 10, no. 293.
-- *Saṃyuktāgama* (*Zá ā-hán jīng*), trans. Guṇabhadra, *Taishō* vol. 2, no. 99.
-- *Dīrghāgama* (*Cháng ā-hán jīng*), trans. Buddhayaśas and Zhu Fonian, *Taishō* vol. 1, no. 1.
+- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (eighty-fascicle Huayan), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (sixty-fascicle Huayan), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (forty-fascicle Huayan, including the final fascicle of the *Samantabhadra-caryā-praṇidhāna*), trans. Prajñā, Taishō vol. 10, no. 0293.
+- *Saṃyuktāgama* (*Zá ā-hán jīng*), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Dīrghāgama* (*Cháng ā-hán jīng*), trans. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001.
 
 **Śāstras and Commentaries**
 
-- *Huayan One-Vehicle Ten Profound Gates* (*Huāyán yīchéng shíxuán mén* 華嚴一乘十玄門), Zhiyan, transmitting Du Shun's teachings, *Taishō* vol. 45, no. 1868.
-- *Treatise on the Five Teachings of the One Vehicle of Huayan* (*Huāyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章), Fazang, *Taishō* vol. 45, no. 1866.
-- *Elaborated Exegesis of the Huayan Sūtra* (*Huāyán jīng tànxuán jì* 華嚴經探玄記), Fazang, *Taishō* vol. 35, no. 1733.
-- *Contemplation of the Profound Meaning of Huayan: Exhausting the Deluded and Returning to the Source* (*Xiū huāyán àozhǐ wàngjìn huányuán guān* 修華嚴奧旨妄盡還源觀), Fazang, *Taishō* vol. 45, no. 1876.
-- *Cloud-Boundary Type-Commentary on the Golden Lion Chapter of Huayan* (*Huāyán jīn shīzi zhāng yún jiān lèi jiě* 華嚴金師子章雲間類解), Fazang composing, Jingyuan commentating, *Taishō* vol. 45, no. 1880.
-- *Annotated Golden Lion Chapter of the Huayan Sūtra* (*Huāyán jīng jīn shīzi zhāng zhù* 華嚴經金師子章註), Fazang composing, Chengqian annotating, *Taishō* vol. 45, no. 1881.
-- *Commentary on the Mahāvaipulya-buddhāvataṃsaka-sūtra* (*Dà fāngguǎng fó huāyán jīng shū* 大方廣佛華嚴經疏), Chengguan, *Taishō* vol. 35, no. 1735.
-- *Sub-Commentary Elaborating the Meaning of the Commentary on the Huayan Sūtra* (*Dà fāngguǎng fó huāyán jīng suíshū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔), Chengguan, *Taishō* vol. 36, no. 1736.
-- *Commentary on the Contemplation of the Dharmadhātu of Huayan* (*Zhù huāyán fǎjiè guānmén* 註華嚴法界觀門), Zongmi, *Taishō* vol. 45, no. 1884.
+- *Huayan One-Vehicle Ten Profound Gates* (*Huāyán yīchéng shíxuán mén* 華嚴一乘十玄門), Zhiyan, transmitting Du Shun's teachings, Taishō vol. 45, no. 1868.
+- *Treatise on the Five Teachings of the One Vehicle of Huayan* (*Huāyán yīchéng jiàoyì fēnqí zhāng* 華嚴一乘教義分齊章), Fazang, Taishō vol. 45, no. 1866.
+- *Elaborated Exegesis of the Huayan Sūtra* (*Huāyán jīng tànxuán jì* 華嚴經探玄記), Fazang, Taishō vol. 35, no. 1733.
+- *Contemplation of the Profound Meaning of Huayan: Exhausting the Deluded and Returning to the Source* (*Xiū huāyán àozhǐ wàngjìn huányuán guān* 修華嚴奧旨妄盡還源觀), Fazang, Taishō vol. 45, no. 1876.
+- *Cloud-Boundary Type-Commentary on the Golden Lion Chapter of Huayan* (*Huāyán jīn shīzi zhāng yún jiān lèi jiě* 華嚴金師子章雲間類解), Fazang composing, Jingyuan commentating, Taishō vol. 45, no. 1880.
+- *Annotated Golden Lion Chapter of the Huayan Sūtra* (*Huāyán jīng jīn shīzi zhāng zhù* 華嚴經金師子章註), Fazang composing, Chengqian annotating, Taishō vol. 45, no. 1881.
+- *Commentary on the Mahāvaipulya-buddhāvataṃsaka-sūtra* (*Dà fāngguǎng fó huāyán jīng shū* 大方廣佛華嚴經疏), Chengguan, Taishō vol. 35, no. 1735.
+- *Sub-Commentary Elaborating the Meaning of the Commentary on the Huayan Sūtra* (*Dà fāngguǎng fó huāyán jīng suíshū yǎnyì chāo* 大方廣佛華嚴經隨疏演義鈔), Chengguan, Taishō vol. 36, no. 1736.
+- *Commentary on the Contemplation of the Dharmadhātu of Huayan* (*Zhù huāyán fǎjiè guānmén* 註華嚴法界觀門), Zongmi, Taishō vol. 45, no. 1884.
 
 ### II. Modern Scholarship
 

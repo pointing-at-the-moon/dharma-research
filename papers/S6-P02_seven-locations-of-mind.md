@@ -346,12 +346,12 @@ This is not rhetoric. It is the subject of the next paper.
 
 ### I. Primary Buddhist Sources
 
-1. *Dafoding rulai miyin xiuzheng liaoyi zhupusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經, trans. Pramiti (般剌蜜帝), Tang dynasty. T19, No. 0945.
-2. *Shoulengyan yishu zhujing* 首楞嚴義疏注經, by Zixuan (子璿), Song dynasty. T39, No. 1799.
+1. *Dafoding rulai miyin xiuzheng liaoyi zhupusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經, trans. Pramiti (般剌蜜帝), Tang dynasty. Taishō vol. 19, no. 0945.
+2. *Shoulengyan yishu zhujing* 首楞嚴義疏注經, by Zixuan (子璿), Song dynasty. Taishō vol. 39, no. 1799.
 3. *Dafoding shoulengyan jing zhengmai shu* 大佛頂首楞嚴經正脈疏, by Jiaoguang Zhenjian (交光真鑑), Ming dynasty. X12, No. 0275.
-4. *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (玄奘), Tang dynasty. T31, No. 1585.
-5. *Jieshenmi jing* 解深密經, trans. Xuanzang (玄奘), Tang dynasty. T16, No. 0676.
-6. *Dasheng apidamo za ji lun* 大乘阿毘達磨雜集論, compiled by Sthiramati (安慧), trans. Xuanzang (玄奘), Tang dynasty. T31, No. 1606.
+4. *Cheng weishi lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (玄奘), Tang dynasty. Taishō vol. 31, no. 1585.
+5. *Jieshenmi jing* 解深密經, trans. Xuanzang (玄奘), Tang dynasty. Taishō vol. 16, no. 0676.
+6. *Dasheng apidamo za ji lun* 大乘阿毘達磨雜集論, compiled by Sthiramati (安慧), trans. Xuanzang (玄奘), Tang dynasty. Taishō vol. 31, no. 1606.
 
 ### II. Modern Scholarship
 

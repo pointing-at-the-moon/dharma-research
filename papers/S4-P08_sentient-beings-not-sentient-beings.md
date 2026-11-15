@@ -317,10 +317,10 @@ Return to arising itself. As it is.
 
 ### I. Primary Buddhist Sources
 
-1. *Vajracchedikā Prajñāpāramitā Sūtra* 《金剛般若波羅蜜經》, trans. Kumārajīva 鳩摩羅什, T08, No. 235.
-2. *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna 龍樹菩薩, trans. Kumārajīva 鳩摩羅什, T25, No. 1509.
-3. *Saṃyuktāgama* 《雜阿含經》, trans. Guṇabhadra 求那跋陀羅, T02, No. 99.
-4. *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun*) 《成唯識論》, by Dharmapāla et al. 護法等菩薩, trans. Xuanzang 玄奘, T31, No. 1585.
+1. *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva 鳩摩羅什, Taishō vol. 8, no. 0235.
+2. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna 龍樹菩薩, trans. Kumārajīva 鳩摩羅什, Taishō vol. 25, no. 1509.
+3. *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra 求那跋陀羅, Taishō vol. 2, no. 0099.
+4. *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), by Dharmapāla et al. 護法等菩薩, trans. Xuanzang 玄奘, Taishō vol. 31, no. 1585.
 
 ### II. Series Cross-References
 

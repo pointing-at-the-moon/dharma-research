@@ -719,29 +719,29 @@ Next, we will enter the third group of mental factors — the eleven wholesome f
 
 ### I. Primary Buddhist Sources
 
-*Saṃyukta Āgama* (雜阿含經). Trans. Guṇabhadra. *Taishō Tripiṭaka* vol. 2, No. 0099.
+*Saṃyukta Āgama* (*Za ahan jing* 雜阿含經). Trans. Guṇabhadra. Taishō vol. 2, no. 0099.
 
-*Ekottara Āgama* (增一阿含經). Trans. Gautama Saṅghadeva. *Taishō Tripiṭaka* vol. 2, No. 0125.
+*Ekottara Āgama* (*Zengyi ahan jing* 增一阿含經). Trans. Gautama Saṅghadeva. Taishō vol. 2, no. 0125.
 
-*Madhyama Āgama* (中阿含經). Trans. Gautama Saṅghadeva. *Taishō Tripiṭaka* vol. 1, No. 0026.
+*Madhyama Āgama* (*Zhong ahan jing* 中阿含經). Trans. Gautama Saṅghadeva. Taishō vol. 1, no. 0026.
 
-*Saṃdhinirmocana Sūtra* (解深密經). Trans. Xuanzang. *Taishō Tripiṭaka* vol. 16, No. 0676.
+*Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經). Trans. Xuanzang. Taishō vol. 16, no. 0676.
 
-*Śūraṅgama Sūtra* (大佛頂首楞嚴經). Trans. Pramiti. *Taishō Tripiṭaka* vol. 19, No. 0945.
+*Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經). Trans. Pramiti. Taishō vol. 19, no. 0945.
 
-*Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle). Trans. Śikṣānanda. *Taishō Tripiṭaka* vol. 10, No. 0279.
+*Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle). Trans. Śikṣānanda. Taishō vol. 10, no. 0279.
 
-*Laṅkāvatāra Sūtra* (大乘入楞伽經). Trans. Śikṣānanda. *Taishō Tripiṭaka* vol. 16, No. 0672.
+*Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經). Trans. Śikṣānanda. Taishō vol. 16, no. 0672.
 
-*Cheng Weishi Lun* (成唯識論). Dharmapāla et al. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1585.
+*Cheng Weishi Lun* (成唯識論). Dharmapāla et al. Trans. Xuanzang. Taishō vol. 31, no. 1585.
 
-*Yogācārabhūmi-śāstra* (瑜伽師地論). Maitreya. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 30, No. 1579.
+*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論). Maitreya. Trans. Xuanzang. Taishō vol. 30, no. 1579.
 
-*Bashi Guiju Buzhu* (八識規矩補註). Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
+*Bashi Guiju Buzhu* (八識規矩補註). Putai. Taishō vol. 45, no. 1865.
 
-*Śatadharmaprakāśamukha-śāstra* (大乘百法明門論). Vasubandhu. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1614.
+*Śatadharmaprakāśamukha-śāstra* (*Dasheng baifa mingmen lun* 大乘百法明門論). Vasubandhu. Trans. Xuanzang. Taishō vol. 31, no. 1614.
 
-*Pañcaskandha-prakaraṇa* (大乘五蘊論). Vasubandhu. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1612.
+*Pañcaskandha-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論). Vasubandhu. Trans. Xuanzang. Taishō vol. 31, no. 1612.
 
 ### II. Modern Scholarship
 

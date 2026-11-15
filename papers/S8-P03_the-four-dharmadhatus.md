@@ -567,23 +567,23 @@ May this small contemplation become the one step from the *Heart Sūtra* to the 
 
 ### Scriptural Sources
 
-- *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經), translated by Guṇabhadra, fifty fascicles, T vol. 2, no. 0099.
-- *Ekottara-āgama* (*Zengyi ahan jing* 增壹阿含經), translated by Gautama Saṃghadeva, fifty-one fascicles, T vol. 2, no. 0125.
-- *Dīrgha-āgama* (*Chang ahan jing* 長阿含經), translated by Buddhayaśas and Zhu Fonian, twenty-two fascicles, T vol. 1, no. 0001.
-- *Mahāvaipulya Buddhāvataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, eighty-fascicle version), translated by Śikṣānanda, eighty fascicles, T vol. 10, no. 0279.
-- *Mahāvaipulya Buddhāvataṃsaka Sūtra* (forty-fascicle version), translated by Prajñā 般若, forty fascicles, T vol. 10, no. 0293.
-- *Prajñāpāramitā Hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), translated by Xuanzang, T vol. 8, no. 0251.
+- *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經), translated by Guṇabhadra, fifty fascicles, Taishō vol. 2, no. 0099.
+- *Ekottara-āgama* (*Zengyi ahan jing* 增壹阿含經), translated by Gautama Saṃghadeva, fifty-one fascicles, Taishō vol. 2, no. 0125.
+- *Dīrgha-āgama* (*Chang ahan jing* 長阿含經), translated by Buddhayaśas and Zhu Fonian, twenty-two fascicles, Taishō vol. 1, no. 0001.
+- *Mahāvaipulya Buddhāvataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, eighty-fascicle version), translated by Śikṣānanda, eighty fascicles, Taishō vol. 10, no. 0279.
+- *Mahāvaipulya Buddhāvataṃsaka Sūtra* (forty-fascicle version), translated by Prajñā 般若, forty fascicles, Taishō vol. 10, no. 0293.
+- *Prajñāpāramitā Hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), translated by Xuanzang, Taishō vol. 8, no. 0251.
 
 ### Treatises and Commentaries
 
-- Dushun 杜順, *Huayan wujiao zhiguan* 華嚴五教止觀, one fascicle, T vol. 45, no. 1867.
-- Fazang 法藏, *Huayan jing tanxuan ji* 華嚴經探玄記, twenty fascicles, T vol. 35, no. 1733.
-- Fazang, *Huayan yisheng jiaoyi fenqi zhang* 華嚴一乘教義分齊章 (*Wujiao zhang* 五教章), four fascicles, T vol. 45, no. 1866.
-- Fazang (transmitted from Zhiyan 智儼), *Huayan yisheng shi xuan men* 華嚴一乘十玄門, one fascicle, T vol. 45, no. 1868.
-- Chengguan 澄觀, *Da fangguang fo huayan jing shu* 大方廣佛華嚴經疏, sixty fascicles, T vol. 35, no. 1735.
-- Chengguan, *Da fangguang fo huayan jing sui shu yanyi chao* 大方廣佛華嚴經隨疏演義鈔, ninety fascicles, T vol. 36, no. 1736.
-- Zongmi 宗密, *Zhu huayan fajie guanmen* 註華嚴法界觀門 (containing Dushun's *Huayan fajie guanmen* 華嚴法界觀門 and Zongmi's annotation), one fascicle, T vol. 45, no. 1884.
-- Shihui 師會, *Bore boluomiduo xinjing lüe shu lianzhu ji* 般若波羅蜜多心經略疏連珠記, two fascicles, T vol. 33, no. 1713.
+- Dushun 杜順, *Huayan wujiao zhiguan* 華嚴五教止觀, one fascicle, Taishō vol. 45, no. 1867.
+- Fazang 法藏, *Huayan jing tanxuan ji* 華嚴經探玄記, twenty fascicles, Taishō vol. 35, no. 1733.
+- Fazang, *Huayan yisheng jiaoyi fenqi zhang* 華嚴一乘教義分齊章 (*Wujiao zhang* 五教章), four fascicles, Taishō vol. 45, no. 1866.
+- Fazang (transmitted from Zhiyan 智儼), *Huayan yisheng shi xuan men* 華嚴一乘十玄門, one fascicle, Taishō vol. 45, no. 1868.
+- Chengguan 澄觀, *Da fangguang fo huayan jing shu* 大方廣佛華嚴經疏, sixty fascicles, Taishō vol. 35, no. 1735.
+- Chengguan, *Da fangguang fo huayan jing sui shu yanyi chao* 大方廣佛華嚴經隨疏演義鈔, ninety fascicles, Taishō vol. 36, no. 1736.
+- Zongmi 宗密, *Zhu huayan fajie guanmen* 註華嚴法界觀門 (containing Dushun's *Huayan fajie guanmen* 華嚴法界觀門 and Zongmi's annotation), one fascicle, Taishō vol. 45, no. 1884.
+- Shihui 師會, *Bore boluomiduo xinjing lüe shu lianzhu ji* 般若波羅蜜多心經略疏連珠記, two fascicles, Taishō vol. 33, no. 1713.
 
 ---
 

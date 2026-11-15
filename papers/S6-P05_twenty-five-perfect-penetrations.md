@@ -353,11 +353,11 @@ What hears has always been there.
 
 ### 1. Primary Buddhist Sources
 
-1. *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經). Translated by Pramiti (般剌蜜帝), Tang dynasty. T19, No. 945.
-2. *Śūraṅgama Commentary* (首楞嚴義疏注經). By Zixuan (子璿), Song dynasty. T39, No. 1799.
+1. *Śūraṅgama Sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經). Translated by Pramiti (般剌蜜帝), Tang dynasty. Taishō vol. 19, no. 0945.
+2. *Śūraṅgama Commentary* (*Shoulengyan yishu zhu jing* 首楞嚴義疏注經). By Zixuan (子璿), Song dynasty. Taishō vol. 39, no. 1799.
 3. *Śūraṅgama Sūtra: Commentary Following the Essential Pulse* (楞嚴經正脈疏). By Jiaoguang Zhenjian (交光真鑒), Ming dynasty. X12, No. 275.
-4. *Lotus Sūtra* (妙法蓮華經). Translated by Kumārajīva (鳩摩羅什), Later Qin dynasty. T9, No. 262.
-5. *Saṃdhinirmocana Sūtra* (解深密經). Translated by Xuanzang (玄奘), Tang dynasty. T16, No. 676.
+4. *Lotus Sūtra* (*Miaofa lianhua jing* 妙法蓮華經). Translated by Kumārajīva (鳩摩羅什), Later Qin dynasty. Taishō vol. 9, no. 0262.
+5. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經). Translated by Xuanzang (玄奘), Tang dynasty. Taishō vol. 16, no. 0676.
 
 ### 2. Modern Scholarship
 

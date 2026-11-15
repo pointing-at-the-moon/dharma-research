@@ -515,12 +515,12 @@ From form aggregate to consciousness aggregate, the entire map of the fifty *ska
 
 ### Canonical Sources (Taishō Tripiṭaka)
 
-- *Da fo ding rulai mi yin xiu zheng liaoyi zhupusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經 (*Śūraṅgama Sūtra*), trans. Pāramiti, *Taishō* vol. 19, no. 0945, fascicle 10 (consciousness aggregate section).
-- *Za ahan jing* 雜阿含經 (*Saṃyukta Āgama*), trans. Guṇabhadra, *Taishō* vol. 2, no. 0099, fascicle 12 (sūtra 298, on "consciousness conditioned by formations").
-- *Zhong ahan jing* 中阿含經 (*Madhyama Āgama*), trans. Saṃghadeva, *Taishō* vol. 1, no. 0026 (canonical definitions of *adhimāna* and "claiming attainment where there is no attainment").
-- *Miaofa lianhua jing* 妙法蓮華經 (*Saddharmapuṇḍarīka-sūtra*, *Lotus Sūtra*), trans. Kumārajīva, *Taishō* vol. 9, no. 0262, fasc. 1 (*Upāyakauśalya*), fasc. 2 (*Aupamya*), fasc. 3 (*Pūrva-yoga*, the conjured city).
-- *Lengjia abaduoluo bao jing* 楞伽阿跋多羅寶經 (*Laṅkāvatāra-sūtra*), trans. Guṇabhadra, *Taishō* vol. 16, no. 0670 (early Mahāyāna treatment of *ālaya-vijñāna* / storehouse consciousness).
-- *Shoulengyan yishu zhujing* 首楞嚴義疏注經, comp. Zǐxuán 子璿 (Song dynasty), *Taishō* vol. 39, no. 1799, fasc. 10 (upper and lower).
+- *Da fo ding rulai mi yin xiu zheng liaoyi zhupusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經 (*Śūraṅgama Sūtra*), trans. Pāramiti, Taishō vol. 19, no. 0945, fascicle 10 (consciousness aggregate section).
+- *Za ahan jing* 雜阿含經 (*Saṃyukta Āgama*), trans. Guṇabhadra, Taishō vol. 2, no. 0099, fascicle 12 (sūtra 298, on "consciousness conditioned by formations").
+- *Zhong ahan jing* 中阿含經 (*Madhyama Āgama*), trans. Saṃghadeva, Taishō vol. 1, no. 0026 (canonical definitions of *adhimāna* and "claiming attainment where there is no attainment").
+- *Miaofa lianhua jing* 妙法蓮華經 (*Saddharmapuṇḍarīka-sūtra*, *Lotus Sūtra*), trans. Kumārajīva, Taishō vol. 9, no. 0262, fasc. 1 (*Upāyakauśalya*), fasc. 2 (*Aupamya*), fasc. 3 (*Pūrva-yoga*, the conjured city).
+- *Lengjia abaduoluo bao jing* 楞伽阿跋多羅寶經 (*Laṅkāvatāra-sūtra*), trans. Guṇabhadra, Taishō vol. 16, no. 0670 (early Mahāyāna treatment of *ālaya-vijñāna* / storehouse consciousness).
+- *Shoulengyan yishu zhujing* 首楞嚴義疏注經, comp. Zǐxuán 子璿 (Song dynasty), Taishō vol. 39, no. 1799, fasc. 10 (upper and lower).
 - *Da fo ding rulai mi yin xiu zheng liaoyi zhupusa wanxing shoulengyan jing zhengmai shu* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏, comp. Jiāoguāng Zhēnjiàn 交光真鑒 (Ming dynasty), *Xuzangjing* vol. 12, no. 0275, fasc. 10.
 
 ### Modern Scholarship (English Peer-Reviewed)

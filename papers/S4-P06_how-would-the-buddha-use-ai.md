@@ -241,16 +241,16 @@ This paper has demonstrated the positive path of skillful use. But does skillful
 
 ### I. Primary Buddhist Sources
 
-1. *Vajracchedikā Prajñāpāramitā Sūtra* (《金剛般若波羅蜜經》), tr. Kumārajīva, T8 No. 0235.
-2. *Buddhāvataṃsaka Sūtra* (80-fascicle, 《大方廣佛華嚴經》), tr. Śikṣānanda, T10 No. 0279.
-3. *Buddhāvataṃsaka Sūtra* (40-fascicle, 《大方廣佛華嚴經》), tr. Prajñā, T10 No. 0293.
-4. *Sukhāvatīvyūha Sūtra* (shorter, 《佛說阿彌陀經》), tr. Kumārajīva, T12 No. 0366.
-5. *Vimalakīrti Nirdeśa Sūtra* (《維摩詰所說經》), tr. Kumārajīva, T14 No. 0475.
-6. *Mahāprajñāpāramitā Śāstra* (《大智度論》), by Nāgārjuna, tr. Kumārajīva, T25 No. 1509.
-7. *Yogācārabhūmi Śāstra* (《瑜伽師地論》), by Maitreya, tr. Xuanzang, T30 No. 1579.
-8. *Vijñaptimātratāsiddhi* / *Cheng Weishi Lun* (《成唯識論》), by Dharmapāla et al., tr. Xuanzang, T31 No. 1585.
-9. *Mahāyānasaṃgraha* (《攝大乘論》), by Asaṅga, tr. Buddhaśānta, T31 No. 1592.
-10. *Jǐngdé Chuándēng Lù* (《景德傳燈錄》), comp. Daoyuan, T51 No. 2076.
+1. *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), tr. Kumārajīva, Taishō vol. 8, no. 0235.
+2. *Buddhāvataṃsaka Sūtra* (80-fascicle, 《大方廣佛華嚴經》), tr. Śikṣānanda, Taishō vol. 10, no. 0279.
+3. *Buddhāvataṃsaka Sūtra* (40-fascicle, 《大方廣佛華嚴經》), tr. Prajñā, Taishō vol. 10, no. 0293.
+4. *Sukhāvatīvyūha Sūtra* (shorter, 《佛說阿彌陀經》), tr. Kumārajīva, Taishō vol. 12, no. 0366.
+5. *Vimalakīrti Nirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), tr. Kumārajīva, Taishō vol. 14, no. 0475.
+6. *Mahāprajñāpāramitā Śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna, tr. Kumārajīva, Taishō vol. 25, no. 1509.
+7. *Yogācārabhūmi Śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, tr. Xuanzang, Taishō vol. 30, no. 1579.
+8. *Vijñaptimātratāsiddhi* / *Cheng Weishi Lun* (《成唯識論》), by Dharmapāla et al., tr. Xuanzang, Taishō vol. 31, no. 1585.
+9. *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), by Asaṅga, tr. Buddhaśānta, Taishō vol. 31, no. 1592.
+10. *Jǐngdé Chuándēng Lù* (《景德傳燈錄》), comp. Daoyuan, Taishō vol. 51, no. 2076.
 
 ### II. Sūtra & Śāstra Index
 

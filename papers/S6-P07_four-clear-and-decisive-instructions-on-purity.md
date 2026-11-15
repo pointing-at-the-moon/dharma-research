@@ -420,13 +420,13 @@ May all who read this far be able to erect these four perimeters within their ow
 
 ### I. Primary Buddhist Sources
 
-- *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pāramiti, *Taishō Tripiṭaka*, vol. 19, No. 945. (Primary reference: fascicle 6; see also fascicles 7, 8, 9, 10.)
-- *Śūraṅgama Yìshū Zhùjīng* (首楞嚴義疏注經), by Zǐxuán (Song dynasty), *Taishō Tripiṭaka*, vol. 39, No. 1799. (Primary reference: fascicle 6.)
+- *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945. (Primary reference: fascicle 6; see also fascicles 7, 8, 9, 10.)
+- *Śūraṅgama Yìshū Zhùjīng* (首楞嚴義疏注經), by Zǐxuán (Song dynasty), Taishō vol. 39, no. 1799. (Primary reference: fascicle 6.)
 - *Śūraṅgama Zhèng-mài-shū* (楞嚴經正脈疏), by Jiāoguāng Zhēnjiàn (Ming dynasty), *Xù-zàng* (卍新續藏), vol. 12, No. 275. (Primary reference: fascicle 6.)
-- *Brahmajāla Sūtra* (梵網經), trans. Kumārajīva, *Taishō Tripiṭaka*, vol. 24, No. 1484. (Fascicle 2 Ten Major Precepts.)
-- *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuánzàng, *Taishō Tripiṭaka*, vol. 30, No. 1579. (Fascicle 40 Bodhisattva Precept Chapter; fascicle 41 Skillful Expedient section.)
-- *Awakening of Faith in the Mahāyāna* (大乘起信論), attr. Aśvaghoṣa, trans. Paramārtha, *Taishō Tripiṭaka*, vol. 32, No. 1666.
-- *Mahāparinirvāṇa Sūtra* (大般涅槃經), trans. Dharmakṣema, *Taishō Tripiṭaka*, vol. 12, No. 374. (Chapter on the True and False, cited by Zǐxuán and Jiāoguāng.)
+- *Brahmajāla Sūtra* (*Fanwang jing* 梵網經), trans. Kumārajīva, Taishō vol. 24, no. 1484. (Fascicle 2 Ten Major Precepts.)
+- *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuánzàng, Taishō vol. 30, no. 1579. (Fascicle 40 Bodhisattva Precept Chapter; fascicle 41 Skillful Expedient section.)
+- *Awakening of Faith in the Mahāyāna* (*Dasheng qixin lun* 大乘起信論), attr. Aśvaghoṣa, trans. Paramārtha, Taishō vol. 32, no. 1666.
+- *Mahāparinirvāṇa Sūtra* (*Da banniepan jing* 大般涅槃經), trans. Dharmakṣema, Taishō vol. 12, no. 0374. (Chapter on the True and False, cited by Zǐxuán and Jiāoguāng.)
 
 ### II. Modern Scholarship
 

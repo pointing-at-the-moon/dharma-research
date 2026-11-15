@@ -599,14 +599,14 @@ The pen of this paper stops here.
 ### I. Primary Buddhist Sources
 
 **Sūtras**
-- *Dafangguang fo huayan jing* (*Buddhāvataṃsaka-mahāvaipulya-sūtra*, 80-fascicle version), trans. Śikṣānanda. Taishō vol. 10, no. 279.
-- *Dafangguang fo huayan jing* (60-fascicle version), trans. Buddhabhadra. Taishō vol. 9, no. 278.
-- *Dafangguang fo huayan jing* (40-fascicle version, containing the closing *Puxian xingyuan pin*), trans. Prajñā. Taishō vol. 10, no. 293.
-- *Dīrgha-āgama* (*Chang ahan jing*), trans. Buddhayaśas and Zhu Fonian. Taishō vol. 1, no. 1.
-- *Madhyamāgama* (*Zhong ahan jing*), trans. Gautama Saṃghadeva. Taishō vol. 1, no. 26.
-- *Saṃyuktāgama* (*Za ahan jing*), trans. Guṇabhadra. Taishō vol. 2, no. 99.
-- *Bieyi Saṃyuktāgama* (*Bieyi za ahan jing*), translator unknown. Taishō vol. 2, no. 100.
-- *Ekottarikāgama* (*Zengyi ahan jing*), trans. Gautama Saṃghadeva. Taishō vol. 2, no. 125.
+- *Dafangguang fo huayan jing* (*Buddhāvataṃsaka-mahāvaipulya-sūtra*, 80-fascicle version), trans. Śikṣānanda. Taishō vol. 10, no. 0279.
+- *Dafangguang fo huayan jing* (60-fascicle version), trans. Buddhabhadra. Taishō vol. 9, no. 0278.
+- *Dafangguang fo huayan jing* (40-fascicle version, containing the closing *Puxian xingyuan pin*), trans. Prajñā. Taishō vol. 10, no. 0293.
+- *Dīrgha-āgama* (*Chang ahan jing*), trans. Buddhayaśas and Zhu Fonian. Taishō vol. 1, no. 0001.
+- *Madhyamāgama* (*Zhong ahan jing*), trans. Gautama Saṃghadeva. Taishō vol. 1, no. 0026.
+- *Saṃyuktāgama* (*Za ahan jing*), trans. Guṇabhadra. Taishō vol. 2, no. 0099.
+- *Bieyi Saṃyuktāgama* (*Bieyi za ahan jing*), translator unknown. Taishō vol. 2, no. 0100.
+- *Ekottarikāgama* (*Zengyi ahan jing*), trans. Gautama Saṃghadeva. Taishō vol. 2, no. 0125.
 
 **Commentaries**
 - Fazang, *Huayan jing tanxuan ji*. Taishō vol. 35, no. 1733.

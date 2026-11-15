@@ -350,9 +350,9 @@ AI as the kōan mirror of the digital age — AI holds all knowledge but possess
 
 ### I. Primary Buddhist Sources
 
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
-- *The Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), T48, No. 2008.
-- Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), T33, No. 1700.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *The Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經), Taishō vol. 48, no. 2008.
+- Kuiji, *Jingang bore jing zanshu* (金剛般若經讚述), Taishō vol. 33, no. 1700.
 
 ### II. Modern Scholarship
 

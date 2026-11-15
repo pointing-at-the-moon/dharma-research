@@ -541,16 +541,16 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 
 ### I. Primary Buddhist Sources
 
-1. *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, Liu Song dynasty. T02, No. 0099.
-2. *Ekottarāgama* (增壹阿含經), trans. Gautama Saṅghadeva, Eastern Jin dynasty. T02, No. 0125.
-3. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, Tang dynasty. T16, No. 0676.
-4. *Śūraṅgama Sūtra* (楞嚴經), trans. Pāramiti, Tang dynasty. T19, No. 0945.
-5. *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle version), trans. Śikṣānanda, Tang dynasty. T10, No. 0279.
-6. *Mahāprajñāpāramitā-śāstra* (大智度論), Nāgārjuna, trans. Kumārajīva, Later Qin dynasty. T25, No. 1509.
-7. *Cheng weishi lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, Tang dynasty. T31, No. 1585.
-8. *Yogācārabhūmi-śāstra* (瑜伽師地論), Maitreya, trans. Xuanzang, Tang dynasty. T30, No. 1579.
-9. *Pañcaskandhaka* (大乘五蘊論), Vasubandhu, trans. Xuanzang, Tang dynasty. T31, No. 1612.
-10. *Bashi guiju buzhu* (八識規矩補註), Putai, Ming dynasty. T45, No. 1865.
+1. *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Liu Song dynasty. Taishō vol. 2, no. 0099.
+2. *Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經), trans. Gautama Saṅghadeva, Eastern Jin dynasty. Taishō vol. 2, no. 0125.
+3. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Tang dynasty. Taishō vol. 16, no. 0676.
+4. *Śūraṅgama Sūtra* (*Lengyan jing* 楞嚴經), trans. Pāramiti, Tang dynasty. Taishō vol. 19, no. 0945.
+5. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle version), trans. Śikṣānanda, Tang dynasty. Taishō vol. 10, no. 0279.
+6. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), Nāgārjuna, trans. Kumārajīva, Later Qin dynasty. Taishō vol. 25, no. 1509.
+7. *Cheng weishi lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, Tang dynasty. Taishō vol. 31, no. 1585.
+8. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), Maitreya, trans. Xuanzang, Tang dynasty. Taishō vol. 30, no. 1579.
+9. *Pañcaskandhaka* (*Dasheng wuyun lun* 大乘五蘊論), Vasubandhu, trans. Xuanzang, Tang dynasty. Taishō vol. 31, no. 1612.
+10. *Bashi guiju buzhu* (八識規矩補註), Putai, Ming dynasty. Taishō vol. 45, no. 1865.
 
 ### II. Modern Scholarship
 

@@ -288,19 +288,19 @@ The true mark of all dharmas is just so, originally so.[^12]
 
 **Canonical Sources** (CBETA / Taishō Tripiṭaka)
 
-- *Miaofa lianhua jing* 妙法蓮華經 (*Saddharmapuṇḍarīka-sūtra*), tr. Kumārajīva, T0262 (fasc. 1 *Prologue*; fasc. 4 *Stūpa*; fasc. 6 *Tathāgata's Supernatural Powers*, *Entrustment*; fasc. 7 *Encouragements of Samantabhadra*)
-- *Chang ahan jing* 長阿含經 (*Dīrgha-āgama*), tr. Buddhayaśas and Zhu Fonian, T0001 (fasc. 1 *Mahāpadāna-sūtra*, Brahmā-entreaty passage)
-- *Zhong ahan jing* 中阿含經 (*Madhyama-āgama*), tr. Gautama Saṃghadeva, T0026 (fasc. 24 *Satipaṭṭhāna-sutta*, "one path that purifies beings")
-- *Zengyi ahan jing* 增壹阿含經 (*Ekottarika-āgama*), tr. Gautama Saṃghadeva, T0125 (fasc. 10 *Adhyeṣaṇā-vagga*, Brahmā's entreaty)
-- *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Eighty *Avataṃsaka*), tr. Śikṣānanda, T0279 (fasc. 1–2 *Lokadhātu-vyūha* 世主妙嚴品, opening passage; fasc. 14 *Worthy Leader* 賢首品, Ocean Seal verse; fasc. 40 *Ten Concentrations* 十定品, *kṣaṇa-pratyutpanna* samādhi passage)
-- *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Forty *Avataṃsaka*), tr. Prajña, T0293 (fasc. 40 *Bhadracarī-praṇidhāna* 普賢行願品, Ten Great Practice-Vows)
+- *Miaofa lianhua jing* 妙法蓮華經 (*Saddharmapuṇḍarīka-sūtra*), tr. Kumārajīva, Taishō vol. 9, no. 0262 (fasc. 1 *Prologue*; fasc. 4 *Stūpa*; fasc. 6 *Tathāgata's Supernatural Powers*, *Entrustment*; fasc. 7 *Encouragements of Samantabhadra*)
+- *Chang ahan jing* 長阿含經 (*Dīrgha-āgama*), tr. Buddhayaśas and Zhu Fonian, Taishō vol. 1, no. 0001 (fasc. 1 *Mahāpadāna-sūtra*, Brahmā-entreaty passage)
+- *Zhong ahan jing* 中阿含經 (*Madhyama-āgama*), tr. Gautama Saṃghadeva, Taishō vol. 1, no. 0026 (fasc. 24 *Satipaṭṭhāna-sutta*, "one path that purifies beings")
+- *Zengyi ahan jing* 增壹阿含經 (*Ekottarika-āgama*), tr. Gautama Saṃghadeva, Taishō vol. 2, no. 0125 (fasc. 10 *Adhyeṣaṇā-vagga*, Brahmā's entreaty)
+- *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Eighty *Avataṃsaka*), tr. Śikṣānanda, Taishō vol. 10, no. 0279 (fasc. 1–2 *Lokadhātu-vyūha* 世主妙嚴品, opening passage; fasc. 14 *Worthy Leader* 賢首品, Ocean Seal verse; fasc. 40 *Ten Concentrations* 十定品, *kṣaṇa-pratyutpanna* samādhi passage)
+- *Dafang guang fo huayan jing* 大方廣佛華嚴經 (Forty *Avataṃsaka*), tr. Prajña, Taishō vol. 10, no. 0293 (fasc. 40 *Bhadracarī-praṇidhāna* 普賢行願品, Ten Great Practice-Vows)
 
 **Commentaries**
 
-- Zhiyi, *Fahua xuanyi* 妙法蓮華經玄義, T1716 (fasc. 10 lower, five-flavor classification chapter)
-- Kuiji, *Fahua xuanzan* 妙法蓮華經玄贊, T1723 (fasc. 1, one-vehicle/three-vehicle classification)
-- Fazang, *Huayan yi sheng jiao yi fen qi zhang* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), T1866 (fasc. 1, distinct-teaching one-vehicle chapter, "arises depending on the Ocean Seal Samādhi")
-- Chengguan, *Dafang guang fo huayan jing shu* 大方廣佛華嚴經疏, T1735 (ten-meaning classification of the *Avataṃsaka*)
+- Zhiyi, *Fahua xuanyi* 妙法蓮華經玄義, Taishō vol. 33, no. 1716 (fasc. 10 lower, five-flavor classification chapter)
+- Kuiji, *Fahua xuanzan* 妙法蓮華經玄贊, Taishō vol. 34, no. 1723 (fasc. 1, one-vehicle/three-vehicle classification)
+- Fazang, *Huayan yi sheng jiao yi fen qi zhang* 華嚴一乘教義分齊章 (*Huayan wujiao zhang*), Taishō vol. 45, no. 1866 (fasc. 1, distinct-teaching one-vehicle chapter, "arises depending on the Ocean Seal Samādhi")
+- Chengguan, *Dafang guang fo huayan jing shu* 大方廣佛華嚴經疏, Taishō vol. 35, no. 1735 (ten-meaning classification of the *Avataṃsaka*)
 
 ## Sūtra & Śāstra Index
 

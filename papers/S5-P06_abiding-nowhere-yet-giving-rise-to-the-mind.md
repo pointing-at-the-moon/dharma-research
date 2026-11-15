@@ -319,15 +319,15 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 
 ### I. Primary Buddhist Sources
 
-1. *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T8, No. 0235.
-2. *Vimalakīrtinirdeśa Sūtra* (維摩詰所說經), trans. Kumārajīva, T14, No. 0475.
-3. *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), trans. Xuanzang, T5–7, No. 0220.
-4. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra, T16, No. 0670.
-5. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Paramiti, T19, No. 0945.
-6. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 0676.
-7. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-8. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
-9. *Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), comp. Zongbao, T48, No. 2008.
+1. *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+2. *Vimalakīrtinirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva, Taishō vol. 14, no. 0475.
+3. *Mahāprajñāpāramitā Sūtra* (*Da bore boluomiduo jing* 大般若波羅蜜多經), trans. Xuanzang, Taishō vols. 5–7, no. 0220.
+4. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra, Taishō vol. 16, no. 0670.
+5. *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Paramiti, Taishō vol. 19, no. 0945.
+6. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+7. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+8. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, Taishō vol. 33, no. 1702.
+9. *Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經), comp. Zongbao, Taishō vol. 48, no. 2008.
 
 ### II. Modern Scholarship
 

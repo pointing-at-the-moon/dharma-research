@@ -253,10 +253,10 @@ If you find this conclusion uncomfortable, recall the Buddha's words: when a sti
 
 ### Primary Buddhist Sources
 
-- *Saṃyuktāgama* (雜阿含經). Trans. Guṇabhadra (求那跋陀羅). Taishō vol. 2, no. 99.
-- *Madhyamāgama* (中阿含經). Trans. Gautama Saṅghadeva (瞿曇僧伽提婆). Taishō vol. 1, no. 26.
-- *Ekottarāgama* (增壹阿含經). Trans. Gautama Saṅghadeva (瞿曇僧伽提婆). Taishō vol. 2, no. 125.
-- *Dīrghāgama* (長阿含經). Trans. Buddhayaśas and Zhu Fonian (佛陀耶舍共竺佛念). Taishō vol. 1, no. 1.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經). Trans. Guṇabhadra (求那跋陀羅). Taishō vol. 2, no. 0099.
+- *Madhyamāgama* (*Zhong ahan jing* 中阿含經). Trans. Gautama Saṅghadeva (瞿曇僧伽提婆). Taishō vol. 1, no. 0026.
+- *Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經). Trans. Gautama Saṅghadeva (瞿曇僧伽提婆). Taishō vol. 2, no. 0125.
+- *Dīrghāgama* (*Chang ahan jing* 長阿含經). Trans. Buddhayaśas and Zhu Fonian (佛陀耶舍共竺佛念). Taishō vol. 1, no. 0001.
 - *Cheng weishi lun* (成唯識論). By Dharmapāla et al. Trans. Xuanzang (玄奘). Taishō vol. 31, no. 1585.
 
 ### Modern Scholarship

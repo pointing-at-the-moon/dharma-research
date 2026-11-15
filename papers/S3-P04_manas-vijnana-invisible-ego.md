@@ -440,24 +440,24 @@ This upgrade cannot be completed by reading a paper. But knowing the architectur
 
 ### I. Sūtras
 
-1. *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra (Song), *Taishō* vol. 2, No. 0099.
-2. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang (Tang), *Taishō* vol. 16, No. 0676.
-3. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra (Song), *Taishō* vol. 16, No. 0670.
-4. *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda (Tang), *Taishō* vol. 16, No. 0672.
-5. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pramiti (Tang), *Taishō* vol. 19, No. 0945.
-6. *Ghanavyūha Sūtra* (大乘密嚴經, Amoghavajra trans.), *Taishō* vol. 16, No. 0682.
-7. *Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), compiled by Zongbao (Yuan), *Taishō* vol. 48, No. 2008.
+1. *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra (Song), Taishō vol. 2, no. 0099.
+2. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang (Tang), Taishō vol. 16, no. 0676.
+3. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra (Song), Taishō vol. 16, no. 0670.
+4. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda (Tang), Taishō vol. 16, no. 0672.
+5. *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pramiti (Tang), Taishō vol. 19, no. 0945.
+6. *Ghanavyūha Sūtra* (*Dasheng miyan jing* 大乘密嚴經, Amoghavajra trans.), Taishō vol. 16, no. 0682.
+7. *Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經), compiled by Zongbao (Yuan), Taishō vol. 48, no. 2008.
 
 ### II. Treatises & Commentaries
 
-1. *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1585.
-2. *Yogācārabhūmi-śāstra* (瑜伽師地論), spoken by Maitreya, trans. Xuanzang (Tang), *Taishō* vol. 30, No. 1579.
-3. *Mahāyānasaṃgraha* (攝大乘論), composed by Asaṅga, trans. Paramārtha (Chen), *Taishō* vol. 31, No. 1593.
-4. *Mahāyānasaṃgrahopanibandhana* (攝大乘論釋), commentary by Asvabhāva, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1598.
-5. *Śatadharmaprakāśamukha-śāstra* (百法明門論), composed by Vasubandhu, trans. Xuanzang (Tang), *Taishō* vol. 31, No. 1614.
-6. *Bashi Guiju Buzhu* (八識規矩補註), sub-commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
-7. *Zongjing Lu* (宗鏡錄), compiled by Yongming Yanshou (Song), *Taishō* vol. 48, No. 2016.
-8. *Susim Kyol* / *Xiuxin Jue* (修心訣), by Chinul (Goryeo), *Taishō* vol. 48, No. 2020.
+1. *Cheng Weishi Lun* (成唯識論), composed by Dharmapāla et al., trans. Xuanzang (Tang), Taishō vol. 31, no. 1585.
+2. *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), spoken by Maitreya, trans. Xuanzang (Tang), Taishō vol. 30, no. 1579.
+3. *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), composed by Asaṅga, trans. Paramārtha (Chen), Taishō vol. 31, no. 1593.
+4. *Mahāyānasaṃgrahopanibandhana* (*She dasheng lun shi* 攝大乘論釋), commentary by Asvabhāva, trans. Xuanzang (Tang), Taishō vol. 31, no. 1598.
+5. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), composed by Vasubandhu, trans. Xuanzang (Tang), Taishō vol. 31, no. 1614.
+6. *Bashi Guiju Buzhu* (八識規矩補註), sub-commentary by Putai (Ming), Taishō vol. 45, no. 1865.
+7. *Zongjing Lu* (宗鏡錄), compiled by Yongming Yanshou (Song), Taishō vol. 48, no. 2016.
+8. *Susim Kyol* / *Xiuxin Jue* (修心訣), by Chinul (Goryeo), Taishō vol. 48, no. 2020.
 
 ### III. Modern Scholarship
 

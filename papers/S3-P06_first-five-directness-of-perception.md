@@ -506,22 +506,22 @@ S3-P05 unfolded the translator — how the sixth consciousness receives signals 
 
 ### I. Primary Buddhist Sources
 
-1. *Saṃyukta Āgama* 雜阿含經, trans. Guṇabhadra (Liu Song). *Taishō* vol. 2, No. 99.
-2. *Ekottara Āgama* 增一阿含經, trans. Gautama Saṅghadeva (Eastern Jin). *Taishō* vol. 2, No. 125.
-3. *Saṃdhinirmocana Sūtra* 解深密經, trans. Xuanzang (Tang). *Taishō* vol. 16, No. 676.
-4. *Laṅkāvatāra Sūtra* 楞伽阿跋多羅寶經, trans. Guṇabhadra (Liu Song). *Taishō* vol. 16, No. 670.
-5. *Laṅkāvatāra Sūtra* 入楞伽經, trans. Bodhiruci (Wei). *Taishō* vol. 16, No. 671.
-6. *Laṅkāvatāra Sūtra* 大乘入楞伽經, trans. Śikṣānanda (Tang). *Taishō* vol. 16, No. 672.
-7. *Śūraṅgama Sūtra* 楞嚴經, trans. Pāramiti (Tang). *Taishō* vol. 19, No. 945.
-8. *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80-fasc.), trans. Śikṣānanda (Tang). *Taishō* vol. 10, No. 279.
-9. *Avataṃsaka Sūtra* 大方廣佛華嚴經 (60-fasc.), trans. Buddhabhadra (Eastern Jin). *Taishō* vol. 9, No. 278.
-10. *Prajñāpāramitā-hṛdaya Sūtra* 般若波羅蜜多心經, trans. Xuanzang (Tang). *Taishō* vol. 8, No. 251.
-11. *Vimalakīrtinirdeśa Sūtra* 維摩詰所說經, trans. Kumārajīva (Later Qin). *Taishō* vol. 14, No. 475.
-12. *Mahāprajñāpāramitā-śāstra* 大智度論, by Nāgārjuna, trans. Kumārajīva (Later Qin). *Taishō* vol. 25, No. 1509.
-13. *Cheng Weishi Lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang). *Taishō* vol. 31, No. 1585.
-14. *Bāshí guījǔ bǔzhù* 八識規矩補註, annotated by Putai (Ming). *Taishō* vol. 45, No. 1865.
-15. *Śatadharmaprakāśamukha-śāstra* 百法明門論, by Vasubandhu, trans. Xuanzang (Tang). *Taishō* vol. 31, No. 1614.
-16. *Prajñāpāramitāhṛdaya-sūtra Lüeshu* 般若波羅蜜多心經略疏, by Fazang (Tang). *Taishō* vol. 33, No. 1712.
+1. *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra (Liu Song). Taishō vol. 2, no. 0099.
+2. *Ekottara Āgama* (*Zengyi ahan jing* 增一阿含經), trans. Gautama Saṅghadeva (Eastern Jin). Taishō vol. 2, no. 0125.
+3. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang (Tang). Taishō vol. 16, no. 0676.
+4. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra (Liu Song). Taishō vol. 16, no. 0670.
+5. *Laṅkāvatāra Sūtra* (*Ru lengqie jing* 入楞伽經), trans. Bodhiruci (Wei). Taishō vol. 16, no. 0671.
+6. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda (Tang). Taishō vol. 16, no. 0672.
+7. *Śūraṅgama Sūtra* (*Lengyan jing* 楞嚴經), trans. Pāramiti (Tang). Taishō vol. 19, no. 0945.
+8. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fasc.), trans. Śikṣānanda (Tang). Taishō vol. 10, no. 0279.
+9. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60-fasc.), trans. Buddhabhadra (Eastern Jin). Taishō vol. 9, no. 0278.
+10. *Prajñāpāramitā-hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), trans. Xuanzang (Tang). Taishō vol. 8, no. 0251.
+11. *Vimalakīrtinirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva (Later Qin). Taishō vol. 14, no. 0475.
+12. *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), by Nāgārjuna, trans. Kumārajīva (Later Qin). Taishō vol. 25, no. 1509.
+13. *Cheng Weishi Lun* 成唯識論, by Dharmapāla et al., trans. Xuanzang (Tang). Taishō vol. 31, no. 1585.
+14. *Bāshí guījǔ bǔzhù* 八識規矩補註, annotated by Putai (Ming). Taishō vol. 45, no. 1865.
+15. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論), by Vasubandhu, trans. Xuanzang (Tang). Taishō vol. 31, no. 1614.
+16. *Prajñāpāramitāhṛdaya-sūtra Lüeshu* (*Bore boluomiduo xinjing lüeshu* 般若波羅蜜多心經略疏), by Fazang (Tang). Taishō vol. 33, no. 1712.
 
 ### II. Modern Scholarship
 

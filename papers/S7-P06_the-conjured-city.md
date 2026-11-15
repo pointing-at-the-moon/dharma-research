@@ -358,21 +358,21 @@ This is the slide into personalist theism — reading the Buddha as a subject wh
 
 ### Primary Buddhist Sources
 
-- *Saddharmapuṇḍarīka-sūtra* (*Miàofǎ liánhuá jīng*), tr. Kumārajīva (Yao Qin). *Taishō* Vol. 9, No. 262.
-- *Zhèngfǎhuá jīng*, tr. Dharmarakṣa (Western Jin). *Taishō* Vol. 9, No. 263.
-- *Saddharmapuṇḍarīka-upadeśa* (*Miàofǎ liánhuá jīng lùn yōubōtíshè*), by Vasubandhu, tr. Ratnamati (Later Wei). *Taishō* Vol. 26, No. 1520.
-- *Miàofǎ liánhuá jīng yōubōtíshè*, by Vasubandhu, tr. Bodhiruci et al. (Later Wei). *Taishō* Vol. 26, No. 1519.
-- *Fǎhuá wénjù* (Commentary on the Text of the Lotus), by Zhiyi (Sui). *Taishō* Vol. 34, No. 1718.
-- *Fǎhuá wénjù jì*, by Zhanran (Tang). *Taishō* Vol. 34, No. 1719.
-- *Fǎhuá yìshū*, by Jizang (Sui). *Taishō* Vol. 34, No. 1721.
-- *Miàofǎ liánhuá jīng xuánzàn*, by Kuiji (Tang). *Taishō* Vol. 34, No. 1723.
-- *Chéng wéishì lùn* (*Vijñaptimātratāsiddhi*), by Dharmapāla et al., tr. Xuanzang (Tang). *Taishō* Vol. 31, No. 1585.
-- *Yúqié shīdì lùn* (*Yogācārabhūmi*), tr. Xuanzang (Tang). *Taishō* Vol. 30, No. 1579.
-- *Dàchéng qǐxìn lùn* (*Awakening of Faith in the Mahāyāna*), attr. Aśvaghoṣa, tr. Paramārtha (Liang). *Taishō* Vol. 32, No. 1666.
-- *Dàchéng qǐxìn lùn*, tr. Śikṣānanda (Tang). *Taishō* Vol. 32, No. 1667.
-- *Madhyamāgama* (*Zhōng āhán jīng*), tr. Gautama Saṃghadeva (Eastern Jin). *Taishō* Vol. 1, No. 26.
-- *Saṃyuktāgama* (*Zá āhán jīng*), tr. Guṇabhadra (Liu Song). *Taishō* Vol. 2, No. 99.
-- *Ekottarāgama* (*Zēngyī āhán jīng*), tr. Gautama Saṃghadeva (Eastern Jin). *Taishō* Vol. 2, No. 125.
+- *Saddharmapuṇḍarīka-sūtra* (*Miàofǎ liánhuá jīng*), tr. Kumārajīva (Yao Qin). Taishō vol. 9, no. 0262.
+- *Zhèngfǎhuá jīng*, tr. Dharmarakṣa (Western Jin). Taishō vol. 9, no. 0263.
+- *Saddharmapuṇḍarīka-upadeśa* (*Miàofǎ liánhuá jīng lùn yōubōtíshè*), by Vasubandhu, tr. Ratnamati (Later Wei). Taishō vol. 26, no. 1520.
+- *Miàofǎ liánhuá jīng yōubōtíshè*, by Vasubandhu, tr. Bodhiruci et al. (Later Wei). Taishō vol. 26, no. 1519.
+- *Fǎhuá wénjù* (Commentary on the Text of the Lotus), by Zhiyi (Sui). Taishō vol. 34, no. 1718.
+- *Fǎhuá wénjù jì*, by Zhanran (Tang). Taishō vol. 34, no. 1719.
+- *Fǎhuá yìshū*, by Jizang (Sui). Taishō vol. 34, no. 1721.
+- *Miàofǎ liánhuá jīng xuánzàn*, by Kuiji (Tang). Taishō vol. 34, no. 1723.
+- *Chéng wéishì lùn* (*Vijñaptimātratāsiddhi*), by Dharmapāla et al., tr. Xuanzang (Tang). Taishō vol. 31, no. 1585.
+- *Yúqié shīdì lùn* (*Yogācārabhūmi*), tr. Xuanzang (Tang). Taishō vol. 30, no. 1579.
+- *Dàchéng qǐxìn lùn* (*Awakening of Faith in the Mahāyāna*), attr. Aśvaghoṣa, tr. Paramārtha (Liang). Taishō vol. 32, no. 1666.
+- *Dàchéng qǐxìn lùn*, tr. Śikṣānanda (Tang). Taishō vol. 32, no. 1667.
+- *Madhyamāgama* (*Zhōng āhán jīng*), tr. Gautama Saṃghadeva (Eastern Jin). Taishō vol. 1, no. 0026.
+- *Saṃyuktāgama* (*Zá āhán jīng*), tr. Guṇabhadra (Liu Song). Taishō vol. 2, no. 0099.
+- *Ekottarāgama* (*Zēngyī āhán jīng*), tr. Gautama Saṃghadeva (Eastern Jin). Taishō vol. 2, no. 0125.
 
 ### Modern Scholarship
 

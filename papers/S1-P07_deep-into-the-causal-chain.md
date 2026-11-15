@@ -331,16 +331,16 @@ But the premise is—you must, like the farmer, plant first.
 
 ### I. Primary Buddhist Sources 佛教原典
 
-- 《雜阿含經》*Saṃyuktāgama*, trans. Guṇabhadra, Taishō vol. 2, No. 0099.
-- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
-- 《攝大乘論釋》(無性釋) *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary), trans. Xuanzang, Taishō vol. 31, No. 1598.
-- 《大乘阿毘達磨集論》*Abhidharmasamuccaya*, composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, No. 1605.
-- *Commentary on the Awakening of Mahāyāna Faith* (*Dasheng Qixin Lun Yiji* 大乘起信論義記), by Fazang, Taishō vol. 44, No. 1846.
-- 《攝大乘論釋》*Mahāyānasaṃgraha-bhāṣya* (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
-- 《大方廣佛華嚴經》(四十卷本) *Avataṃsaka Sūtra* (40-fascicle edition), trans. Prajñā, Taishō vol. 10, No. 0293.
-- 《八識規矩補註》*Bāshí Guījǔ Bǔzhù* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, No. 1865.
-- 《阿毘達磨俱舍論》*Abhidharmakośabhāṣya*, composed by Vasubandhu, trans. Xuanzang, Taishō vol. 29, No. 1558.
-- 《大般涅槃經》*Mahāparinirvāṇa Sūtra*, trans. Dharmakṣema, Taishō vol. 12, No. 0374.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- 《攝大乘論釋》(無性釋) *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary), trans. Xuanzang, Taishō vol. 31, no. 1598.
+- *Abhidharmasamuccaya* (*Dasheng apidamo ji lun* 大乘阿毘達磨集論), composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, no. 1605.
+- *Commentary on the Awakening of Mahāyāna Faith* (*Dasheng Qixin Lun Yiji* 大乘起信論義記), by Fazang, Taishō vol. 44, no. 1846.
+- *Mahāyānasaṃgraha-bhāṣya* (*She dasheng lun shi* 攝大乘論釋) (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, no. 1595.
+- 《大方廣佛華嚴經》(四十卷本) *Avataṃsaka Sūtra* (40-fascicle edition), trans. Prajñā, Taishō vol. 10, no. 0293.
+- 《八識規矩補註》*Bāshí Guījǔ Bǔzhù* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, no. 1865.
+- *Abhidharmakośabhāṣya* (*Apidamo jushe lun* 阿毘達磨俱舍論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 29, no. 1558.
+- *Mahāparinirvāṇa Sūtra* (*Da banniepan jing* 大般涅槃經), trans. Dharmakṣema, Taishō vol. 12, no. 0374.
 
 ### II. Modern Scholarship 現代學術著作
 

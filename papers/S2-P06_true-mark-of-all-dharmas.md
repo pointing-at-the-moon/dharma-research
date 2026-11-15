@@ -363,21 +363,21 @@ This is why "deeply practicing prajñāpāramitā" is so critical. What you are 
 
 ### Buddhist Canonical Texts
 
-- *Mahāprajñāpāramitā Sūtra* (摩訶般若波羅蜜經), trans. Kumārajīva, T08, No. 223.
-- *Prajñāpāramitā Hṛdaya Sūtra* (般若波羅蜜多心經), trans. Xuanzang, T08, No. 251.
-- *Anūnatvāpūrṇatva-nirdeśa Sūtra* (佛說不增不減經), trans. Bodhiruci, T16, No. 668.
-- *Śrīmālādevī-siṃhanāda Sūtra* (勝鬘師子吼一乘大方便方廣經), trans. Guṇabhadra, T12, No. 353.
-- *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pramiti, T19, No. 945.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
-- *Mahāprajñāpāramitopadeśa* (大智度論), by Nāgārjuna, trans. Kumārajīva, T25, No. 1509.
-- *Vajra-ṛṣi-śāstra* (金剛仙論), by Vasubandhu, trans. Bodhiruci, T25, No. 1512.
-- *Madhyāntavibhāga* (辯中邊論), by Vasubandhu, trans. Xuanzang, T31, No. 1600.
-- *Vijñaptimātratāsiddhi* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Mahāyānasaṃgrahabhāṣya* (攝大乘論釋), by Vasubandhu, trans. Paramārtha, T31, No. 1595.
-- *Ratnagotravibhāga* (究竟一乘寶性論), trans. Ratnamati, T31, No. 1611.
-- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, T33, No. 1710.
-- *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), by Fazang, T33, No. 1712.
-- *Zongjing lu* (宗鏡錄), compiled by Yanshou, T48, No. 2016.
+- *Mahāprajñāpāramitā Sūtra* (*Mohe bore boluomi jing* 摩訶般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0223.
+- *Prajñāpāramitā Hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), trans. Xuanzang, Taishō vol. 8, no. 0251.
+- *Anūnatvāpūrṇatva-nirdeśa Sūtra* (*Fo shuo buzeng bujian jing* 佛說不增不減經), trans. Bodhiruci, Taishō vol. 16, no. 0668.
+- *Śrīmālādevī-siṃhanāda Sūtra* (*Shengman shizihou yisheng da fangbian fangguang jing* 勝鬘師子吼一乘大方便方廣經), trans. Guṇabhadra, Taishō vol. 12, no. 0353.
+- *Śūraṅgama Sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pramiti, Taishō vol. 19, no. 0945.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Mahāprajñāpāramitopadeśa* (*Da zhidu lun* 大智度論), by Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
+- *Vajra-ṛṣi-śāstra* (*Jingangxian lun* 金剛仙論), by Vasubandhu, trans. Bodhiruci, Taishō vol. 25, no. 1512.
+- *Madhyāntavibhāga* (*Bian zhongbian lun* 辯中邊論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1600.
+- *Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Mahāyānasaṃgrahabhāṣya* (*She dasheng lun shi* 攝大乘論釋), by Vasubandhu, trans. Paramārtha, Taishō vol. 31, no. 1595.
+- *Ratnagotravibhāga* (*Jiujing yisheng baoxing lun* 究竟一乘寶性論), trans. Ratnamati, Taishō vol. 31, no. 1611.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊), by Kuiji, Taishō vol. 33, no. 1710.
+- *Bore boluomiduo xinjing lüeshu* (般若波羅蜜多心經略疏), by Fazang, Taishō vol. 33, no. 1712.
+- *Zongjing lu* (宗鏡錄), compiled by Yanshou, Taishō vol. 48, no. 2016.
 
 ### Related Papers
 

@@ -372,22 +372,22 @@ This is the ālaya-vijñāna's most fundamental teaching: **Every thought you pl
 
 ### I. Primary Buddhist Sūtras
 
-1. *Ghanavyūha Sūtra* 大乘密嚴經. Translated by Divākara (地婆訶羅). *Taishō Tripiṭaka* vol. 16, No. 681.
-2. *Ghanavyūha Sūtra* 大乘密嚴經. Translated by Amoghavajra (不空). *Taishō Tripiṭaka* vol. 16, No. 682.
-3. *Saṃdhinirmocana Sūtra* 解深密經. Translated by Xuanzang. *Taishō Tripiṭaka* vol. 16, No. 676.
-4. *Laṅkāvatāra Sūtra* 楞伽阿跋多羅寶經. Translated by Guṇabhadra. *Taishō Tripiṭaka* vol. 16, No. 670.
-5. *Laṅkāvatāra Sūtra* 大乘入楞伽經. Translated by Śikṣānanda. *Taishō Tripiṭaka* vol. 16, No. 672.
-6. *Avataṃsaka Sūtra* 大方廣佛華嚴經 (80-fascicle). Translated by Śikṣānanda. *Taishō Tripiṭaka* vol. 10, No. 279.
-7. *Avataṃsaka Sūtra* 大方廣佛華嚴經 (60-fascicle). Translated by Buddhabhadra. *Taishō Tripiṭaka* vol. 9, No. 278.
-8. *Saṃyukta Āgama* 雜阿含經. Translated by Guṇabhadra. *Taishō Tripiṭaka* vol. 2, No. 99.
+1. *Ghanavyūha Sūtra* (*Dasheng miyan jing* 大乘密嚴經). Translated by Divākara (地婆訶羅). Taishō vol. 16, no. 0681.
+2. *Ghanavyūha Sūtra* (*Dasheng miyan jing* 大乘密嚴經). Translated by Amoghavajra (不空). Taishō vol. 16, no. 0682.
+3. *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經). Translated by Xuanzang. Taishō vol. 16, no. 0676.
+4. *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經). Translated by Guṇabhadra. Taishō vol. 16, no. 0670.
+5. *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經). Translated by Śikṣānanda. Taishō vol. 16, no. 0672.
+6. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle). Translated by Śikṣānanda. Taishō vol. 10, no. 0279.
+7. *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60-fascicle). Translated by Buddhabhadra. Taishō vol. 9, no. 0278.
+8. *Saṃyukta Āgama* (*Za ahan jing* 雜阿含經). Translated by Guṇabhadra. Taishō vol. 2, no. 0099.
 
 ### II. Buddhist Treatises & Commentaries
 
-1. *Cheng Weishi Lun* 成唯識論. Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1585.
-2. *Mahāyānasaṃgraha* 攝大乘論. Composed by Asaṅga, translated by Paramārtha. *Taishō Tripiṭaka* vol. 31, No. 1593.
-3. *Śatadharmaprakāśamukha-śāstra* 百法明門論. Composed by Vasubandhu, translated by Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1614.
-4. *Bashi Guiju Buzhu* 八識規矩補註. Commentary by Putai. *Taishō Tripiṭaka* vol. 45, No. 1865.
-5. *Cheng Weishi Lun Shuji* 成唯識論述記. Composed by Kuiji. *Taishō Tripiṭaka* vol. 43, No. 1830.
+1. *Cheng Weishi Lun* 成唯識論. Composed by Dharmapāla et al., translated by Xuanzang. Taishō vol. 31, no. 1585.
+2. *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論). Composed by Asaṅga, translated by Paramārtha. Taishō vol. 31, no. 1593.
+3. *Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論). Composed by Vasubandhu, translated by Xuanzang. Taishō vol. 31, no. 1614.
+4. *Bashi Guiju Buzhu* 八識規矩補註. Commentary by Putai. Taishō vol. 45, no. 1865.
+5. *Cheng Weishi Lun Shuji* 成唯識論述記. Composed by Kuiji. Taishō vol. 43, no. 1830.
 
 ### III. Modern Scholarship
 

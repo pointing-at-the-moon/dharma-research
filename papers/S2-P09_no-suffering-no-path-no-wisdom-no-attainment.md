@@ -412,11 +412,11 @@ Yet "letting go" sounds easy but doing it triggers the deepest fear on the path.
 
 ### I. Primary Buddhist Sources
 
-- *Prajñāpāramitā Hṛdaya Sūtra* (般若波羅蜜多心經). Trans. Xuanzang. *Taishō Tripiṭaka* vol. 8, No. 251.
-- *Saṃyuktāgama* (雜阿含經). Trans. Guṇabhadra. *Taishō Tripiṭaka* vol. 2, No. 99.
-- *Mahāprajñāpāramitopadeśa* (大智度論). Nāgārjuna. Trans. Kumārajīva. *Taishō Tripiṭaka* vol. 25, No. 1509.
-- *Vijñaptimātratāsiddhi* (成唯識論). Dharmapāla et al. Trans. Xuanzang. *Taishō Tripiṭaka* vol. 31, No. 1585.
-- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊). Kuiji. *Taishō Tripiṭaka* vol. 33, No. 1710.
+- *Prajñāpāramitā Hṛdaya Sūtra* (*Bore boluomiduo xinjing* 般若波羅蜜多心經). Trans. Xuanzang. Taishō vol. 8, no. 0251.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經). Trans. Guṇabhadra. Taishō vol. 2, no. 0099.
+- *Mahāprajñāpāramitopadeśa* (*Da zhidu lun* 大智度論). Nāgārjuna. Trans. Kumārajīva. Taishō vol. 25, no. 1509.
+- *Vijñaptimātratāsiddhi* (*Cheng weishi lun* 成唯識論). Dharmapāla et al. Trans. Xuanzang. Taishō vol. 31, no. 1585.
+- *Bore boluomiduo xinjing youzan* (般若波羅蜜多心經幽贊). Kuiji. Taishō vol. 33, no. 1710.
 
 ### II. Modern Scholarship
 

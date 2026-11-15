@@ -402,19 +402,19 @@ The present paper closes here.
 
 ### Sūtras
 
-- *Madhyama-āgama* (trans. Gautama Saṃghadeva), *Taishō* vol. 1, no. 0026.
-- *Saṃyukta-āgama* (trans. Guṇabhadra), *Taishō* vol. 2, no. 0099.
-- *Ekottarika-āgama* (trans. Gautama Saṃghadeva), *Taishō* vol. 2, no. 0125.
-- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (Eighty-fascicle, trans. Śikṣānanda), *Taishō* vol. 10, no. 0279.
-- *Mahāvaipulya-buddhāvataṃsaka-sūtra · Samantabhadra-caryā-praṇidhāna* (Forty-fascicle, trans. Prajñā), *Taishō* vol. 10, no. 0293.
+- *Madhyama-āgama* (trans. Gautama Saṃghadeva), Taishō vol. 1, no. 0026.
+- *Saṃyukta-āgama* (trans. Guṇabhadra), Taishō vol. 2, no. 0099.
+- *Ekottarika-āgama* (trans. Gautama Saṃghadeva), Taishō vol. 2, no. 0125.
+- *Mahāvaipulya-buddhāvataṃsaka-sūtra* (Eighty-fascicle, trans. Śikṣānanda), Taishō vol. 10, no. 0279.
+- *Mahāvaipulya-buddhāvataṃsaka-sūtra · Samantabhadra-caryā-praṇidhāna* (Forty-fascicle, trans. Prajñā), Taishō vol. 10, no. 0293.
 
 ### Treatises and Commentaries
 
-- Fazang, *Huayan yīshèng jiàoyì fēnqí zhāng* (*Wǔjiào zhāng*), *Taishō* vol. 45, no. 1866.
-- Fazang, *Huayan jīng tànxuán jì*, *Taishō* vol. 35, no. 1733.
-- Fazang, *Xiū huayan àozhǐ wàngjǐn huányuán guān*, *Taishō* vol. 45, no. 1876.
-- Chengguan, *Dàfāngguǎng fó huayan jīng suí shū yǎnyì chāo*, *Taishō* vol. 36, no. 1736.
-- Jingyuan, *Jīn shīzǐ zhāng yúnjiān lèijiě*, *Taishō* vol. 45, no. 1880.
+- Fazang, *Huayan yīshèng jiàoyì fēnqí zhāng* (*Wǔjiào zhāng*), Taishō vol. 45, no. 1866.
+- Fazang, *Huayan jīng tànxuán jì*, Taishō vol. 35, no. 1733.
+- Fazang, *Xiū huayan àozhǐ wàngjǐn huányuán guān*, Taishō vol. 45, no. 1876.
+- Chengguan, *Dàfāngguǎng fó huayan jīng suí shū yǎnyì chāo*, Taishō vol. 36, no. 1736.
+- Jingyuan, *Jīn shīzǐ zhāng yúnjiān lèijiě*, Taishō vol. 45, no. 1880.
 
 ---
 

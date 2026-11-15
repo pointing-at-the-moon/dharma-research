@@ -269,15 +269,15 @@ The person who does not know this is still looking outside.
 
 ### I. Primary Buddhist Sources 佛教原典
 
-- *Saṃyuktāgama* 《雜阿含經》, trans. Guṇabhadra 求那跋陀羅, *Taishō* vol. 2, No. 0099.
-- *Madhyamāgama* 《中阿含經》, trans. Gautama Saṅghadeva 瞿曇僧伽提婆, *Taishō* vol. 1, No. 0026.
-- *Dīrghāgama* 《長阿含經》, trans. Buddhayaśas and Zhu Fonian 佛陀耶舍共竺佛念, *Taishō* vol. 1, No. 0001.
-- *Cheng Weishi Lun* 《成唯識論》, composed by Dharmapāla et al., trans. Xuanzang 玄奘, *Taishō* vol. 31, No. 1585.
-- *Mahāprajñāpāramitā-śāstra* 《大智度論》, composed by Nāgārjuna, trans. Kumārajīva 鳩摩羅什, *Taishō* vol. 25, No. 1509.
-- *Jingde Chuandeng Lu* 《景德傳燈錄》, compiled by Daoyuan 道原, *Taishō* vol. 51, No. 2076.
-- *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu 裴休, *Taishō* vol. 48, No. 2012A.
-- *Platform Sūtra of the Sixth Patriarch* 《六祖大師法寶壇經》, edited by Zongbao 宗寶, *Taishō* vol. 48, No. 2008.
-- *Shizhu Piposha Lun* 《十住毘婆沙論》, composed by Nāgārjuna, trans. Kumārajīva 鳩摩羅什, *Taishō* vol. 26, No. 1521.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra 求那跋陀羅, Taishō vol. 2, no. 0099.
+- *Madhyamāgama* (*Zhong ahan jing* 中阿含經), trans. Gautama Saṅghadeva 瞿曇僧伽提婆, Taishō vol. 1, no. 0026.
+- *Dīrghāgama* (*Chang ahan jing* 長阿含經), trans. Buddhayaśas and Zhu Fonian 佛陀耶舍共竺佛念, Taishō vol. 1, no. 0001.
+- *Cheng Weishi Lun* 《成唯識論》, composed by Dharmapāla et al., trans. Xuanzang 玄奘, Taishō vol. 31, no. 1585.
+- *Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論), composed by Nāgārjuna, trans. Kumārajīva 鳩摩羅什, Taishō vol. 25, no. 1509.
+- *Jingde Chuandeng Lu* 《景德傳燈錄》, compiled by Daoyuan 道原, Taishō vol. 51, no. 2076.
+- *Huangbo Duanji Chanshi Chuanxin Fayao* 《黃檗山斷際禪師傳心法要》, compiled by Pei Xiu 裴休, Taishō vol. 48, no. 2012A.
+- *Platform Sūtra of the Sixth Patriarch* (*Liuzu dashi fabao tanjing* 六祖大師法寶壇經), edited by Zongbao 宗寶, Taishō vol. 48, no. 2008.
+- *Shizhu Piposha Lun* 《十住毘婆沙論》, composed by Nāgārjuna, trans. Kumārajīva 鳩摩羅什, Taishō vol. 26, no. 1521.
 
 ### II. Modern Scholarship 現代學術著作
 

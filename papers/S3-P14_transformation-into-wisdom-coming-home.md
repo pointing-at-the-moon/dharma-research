@@ -679,27 +679,27 @@ Then start walking.
 
 ### I. Primary Buddhist Sources
 
-- *Saṃyuktāgama* (雜阿含經), trans. Guṇabhadra, T2, No. 0099.
-- *Ekottarāgama* (增壹阿含經), trans. Gautama Saṅghadeva, T2, No. 0125.
-- *Prajñāpāramitāhṛdaya* (般若波羅蜜多心經), trans. Xuanzang, T8, No. 0251.
-- *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), trans. Xuanzang, T5–7, No. 0220.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 0676.
-- *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Pāramiti, T19, No. 0945.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, T10, No. 0279.
-- *Avataṃsaka Sūtra* (大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra, T9, No. 0278.
-- *Saddharmapuṇḍarīka Sūtra* (妙法蓮華經), trans. Kumārajīva, T9, No. 0262.
-- *Vimalakīrtinirdeśa Sūtra* (維摩詰所說經), trans. Kumārajīva, T14, No. 0475.
-- *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra, T16, No. 0670.
-- *Laṅkāvatāra Sūtra* (入楞伽經), trans. Bodhiruci, T16, No. 0671.
-- *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda, T16, No. 0672.
-- *Mahāprajñāpāramitā Śāstra* (大智度論), Nāgārjuna, trans. Kumārajīva, T25, No. 1509.
-- *Cheng Weishi Lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Dasheng Baifalun* (大乘百法明門論), Vasubandhu, trans. Xuanzang, T31, No. 1614.
-- *Bāshí Guījǔ Sòng* with annotations (八識規矩補註), Xuanzang (verses, by tradition), Putai (Ming; annotations), T45, No. 1865.
-- *Mahāyānasaṃgraha* (攝大乘論), Asaṅga, trans. Paramārtha, T31, No. 1593.
-- *Yogācārabhūmi* (瑜伽師地論), Maitreya, trans. Xuanzang, T30, No. 1579.
-- *Zōngjìng Lù* (宗鏡錄), Yongming Yanshou, T48, No. 2016.
-- *Prajñāpāramitāhṛdaya Youzàn* (般若波羅蜜多心經幽贊), Kuiji, T33, No. 1710.
+- *Saṃyuktāgama* (*Za ahan jing* 雜阿含經), trans. Guṇabhadra, Taishō vol. 2, no. 0099.
+- *Ekottarāgama* (*Zengyi ahan jing* 增壹阿含經), trans. Gautama Saṅghadeva, Taishō vol. 2, no. 0125.
+- *Prajñāpāramitāhṛdaya* (*Bore boluomiduo xinjing* 般若波羅蜜多心經), trans. Xuanzang, Taishō vol. 8, no. 0251.
+- *Mahāprajñāpāramitā Sūtra* (*Da bore boluomiduo jing* 大般若波羅蜜多經), trans. Xuanzang, Taishō vols. 5–7, no. 0220.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Śūraṅgama Sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80 fasc.), trans. Śikṣānanda, Taishō vol. 10, no. 0279.
+- *Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 60 fasc.), trans. Buddhabhadra, Taishō vol. 9, no. 0278.
+- *Saddharmapuṇḍarīka Sūtra* (*Miaofa lianhua jing* 妙法蓮華經), trans. Kumārajīva, Taishō vol. 9, no. 0262.
+- *Vimalakīrtinirdeśa Sūtra* (*Weimojie suoshuo jing* 維摩詰所說經), trans. Kumārajīva, Taishō vol. 14, no. 0475.
+- *Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經), trans. Guṇabhadra, Taishō vol. 16, no. 0670.
+- *Laṅkāvatāra Sūtra* (*Ru lengqie jing* 入楞伽經), trans. Bodhiruci, Taishō vol. 16, no. 0671.
+- *Laṅkāvatāra Sūtra* (*Dasheng ru lengqie jing* 大乘入楞伽經), trans. Śikṣānanda, Taishō vol. 16, no. 0672.
+- *Mahāprajñāpāramitā Śāstra* (*Da zhidu lun* 大智度論), Nāgārjuna, trans. Kumārajīva, Taishō vol. 25, no. 1509.
+- *Cheng Weishi Lun* (成唯識論), Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Dasheng Baifalun* (大乘百法明門論), Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+- *Bāshí Guījǔ Sòng* with annotations (八識規矩補註), Xuanzang (verses, by tradition), Putai (Ming; annotations), Taishō vol. 45, no. 1865.
+- *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), Asaṅga, trans. Paramārtha, Taishō vol. 31, no. 1593.
+- *Yogācārabhūmi* (*Yuqie shidi lun* 瑜伽師地論), Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+- *Zōngjìng Lù* (宗鏡錄), Yongming Yanshou, Taishō vol. 48, no. 2016.
+- *Prajñāpāramitāhṛdaya Youzàn* (*Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊), Kuiji, Taishō vol. 33, no. 1710.
 
 ### II. Modern Scholarship
 

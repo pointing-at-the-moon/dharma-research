@@ -492,21 +492,21 @@ The hundred dharmas are the necessary map — without it, the practitioner would
 
 ### I. Primary Buddhist Sources
 
-- *Cheng Weishi Lun* 《成唯識論》, by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Triṃśikā-vijñaptimātratā* 《唯識三十論頌》, by Vasubandhu, trans. Xuanzang, T31, No. 1586.
-- *Yogācārabhūmi* 《瑜伽師地論》, by Maitreya, trans. Xuanzang, T30, No. 1579.
-- *Mahāyānasaṃgraha* 《攝大乘論》, by Asaṅga, trans. Paramārtha, T31, No. 1593.
-- *Viṃśatikā* 《唯識二十論》, by Vasubandhu, trans. Xuanzang, T31, No. 1590.
-- *Mahāyānasaṃgraha-bhāṣya* 《攝大乘論釋》, by Asvabhāva, trans. Xuanzang, T31, No. 1598.
-- *Śatadharmaprakāśamukha-śāstra* 《大乘百法明門論》, by Vasubandhu, trans. Xuanzang, T31, No. 1614.
-- *Madhyāntavibhāga* 《辯中邊論》, by Vasubandhu, trans. Xuanzang, T31, No. 1600.
-- *Mahāyānasaṃgraha-bhāṣya* 《攝大乘論釋》, by Vasubandhu, trans. Paramārtha, T31, No. 1595.
-- *Mahāyānasūtrālaṃkāra* 《大乘莊嚴經論》, by Asaṅga, trans. Prabhākaramitra, T31, No. 1604.
-- *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, by Sthiramati, trans. Xuanzang, T31, No. 1606.
-- *Sandhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, T16, No. 676.
-- *Abhidharmakośa* 《阿毘達磨俱舍論》, by Vasubandhu, trans. Xuanzang, T29, No. 1558.
-- *Prajñāpāramitā Hṛdaya Sūtra Youzhan* 《般若波羅蜜多心經幽贊》, by Kuiji, T33, No. 1710.
-- *Jingang jing zuanyao kanding ji* 《金剛經纂要刊定記》, by Zixuan, T33, No. 1702.
+- *Cheng Weishi Lun* 《成唯識論》, by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Triṃśikā-vijñaptimātratā* (*Weishi sanshi lun song* 唯識三十論頌), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1586.
+- *Yogācārabhūmi* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+- *Mahāyānasaṃgraha* (*She dasheng lun* 攝大乘論), by Asaṅga, trans. Paramārtha, Taishō vol. 31, no. 1593.
+- *Viṃśatikā* (*Weishi ershi lun* 唯識二十論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1590.
+- *Mahāyānasaṃgraha-bhāṣya* (*She dasheng lun shi* 攝大乘論釋), by Asvabhāva, trans. Xuanzang, Taishō vol. 31, no. 1598.
+- *Śatadharmaprakāśamukha-śāstra* (*Dasheng baifa mingmen lun* 大乘百法明門論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1614.
+- *Madhyāntavibhāga* (*Bian zhongbian lun* 辯中邊論), by Vasubandhu, trans. Xuanzang, Taishō vol. 31, no. 1600.
+- *Mahāyānasaṃgraha-bhāṣya* (*She dasheng lun shi* 攝大乘論釋), by Vasubandhu, trans. Paramārtha, Taishō vol. 31, no. 1595.
+- *Mahāyānasūtrālaṃkāra* (*Dasheng zhuangyan jing lun* 大乘莊嚴經論), by Asaṅga, trans. Prabhākaramitra, Taishō vol. 31, no. 1604.
+- *Abhidharmasamuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論), by Sthiramati, trans. Xuanzang, Taishō vol. 31, no. 1606.
+- *Sandhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Abhidharmakośa* (*Apidamo jushe lun* 阿毘達磨俱舍論), by Vasubandhu, trans. Xuanzang, Taishō vol. 29, no. 1558.
+- *Prajñāpāramitā Hṛdaya Sūtra Youzhan* (*Bore boluomiduo xinjing youzan* 般若波羅蜜多心經幽贊), by Kuiji, Taishō vol. 33, no. 1710.
+- *Jingang jing zuanyao kanding ji* 《金剛經纂要刊定記》, by Zixuan, Taishō vol. 33, no. 1702.
 
 ### II. Modern Scholarship
 

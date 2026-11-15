@@ -767,32 +767,32 @@ The next step takes us to the final paper of the S3 series—S3-P14, "Transforma
 
 ### I. Primary Buddhist Sources
 
-*Saṃyuktāgama* (雜阿含經). Translated by Guṇabhadra. *Taishō* vol. 2, No. 0099.
-*Madhyamāgama* (中阿含經). Translated by Gautama Saṃghadeva. *Taishō* vol. 1, No. 0026.
-*Separately Translated Saṃyuktāgama* (別譯雜阿含經). Translator unknown. *Taishō* vol. 2, No. 0100.
-*Mahāparinirvāṇa Sūtra* (大般涅槃經). Translated by Faxian. *Taishō* vol. 1, No. 0007.
-*Prajñāpāramitā Hṛdaya Sūtra* (般若心經). Translated by Xuanzang. *Taishō* vol. 8, No. 0251.
-*Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經). Translated by Xuanzang. *Taishō* vols. 5–7, No. 0220.
-*Saṃdhinirmocana Sūtra* (解深密經). Translated by Xuanzang. *Taishō* vol. 16, No. 0676.
-*Śūraṅgama Sūtra* (楞嚴經). Translated by Pāramiti. *Taishō* vol. 19, No. 0945.
-*Laṅkāvatāra Sūtra* (入楞伽經). Translated by Bodhiruci. *Taishō* vol. 16, No. 0671.
-*Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經). Translated by Guṇabhadra. *Taishō* vol. 16, No. 0670.
-*Ghanavyūha Sūtra* (大乘密嚴經). Translated by Amoghavajra. *Taishō* vol. 16, No. 0682.
-*Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle). Translated by Śikṣānanda. *Taishō* vol. 10, No. 0279.
-*Śatadharmaprakāśamukha-śāstra* (百法明門論). By Vasubandhu. Translated by Xuanzang. *Taishō* vol. 31, No. 1614.
-*Cheng Weishi Lun* (成唯識論). By Dharmapāla et al. Translated by Xuanzang. *Taishō* vol. 31, No. 1585.
-*Yogācārabhūmi-śāstra* (瑜伽師地論). By Maitreya. Translated by Xuanzang. *Taishō* vol. 30, No. 1579.
-*Pañcaskandhaka-prakaraṇa* (大乘五蘊論). By Vasubandhu. Translated by Xuanzang. *Taishō* vol. 31, No. 1612.
-*Abhidharma-samuccaya* (大乘阿毘達磨集論). By Asaṅga. Translated by Xuanzang. *Taishō* vol. 31, No. 1605.
-*Abhidharma-samuccaya-vyākhyā* (大乘阿毘達磨雜集論). Compiled by Sthiramati. Translated by Xuanzang. *Taishō* vol. 31, No. 1606.
-*Mahāyāna-saṃgraha* (攝大乘論). By Asaṅga. Translated by Paramārtha. *Taishō* vol. 31, No. 1593.
-*Mahāprajñāpāramitā-śāstra* (大智度論). By Nāgārjuna. Translated by Kumārajīva. *Taishō* vol. 25, No. 1509.
-*Jingangxian Lun* (金剛仙論). By Vasubandhu; explained by the master Jingangxian. Translated by Bodhiruci. *Taishō* vol. 25, No. 1512.
-*Bā Shí Guī Jǔ Bǔ Zhù* (八識規矩補註). Annotated by Putai. *Taishō* vol. 45, No. 1865.
-*Yuqie lunji* (瑜伽論記). Compiled by Dunlun. *Taishō* vol. 42, No. 1828.
-*Commentary on the Huayan Dharma-Realm Contemplation Gate* (注華嚴法界觀門). By Zongmi. *Taishō* vol. 45, No. 1884.
-*Huayan Dharma-Realm Dark Mirror* (華嚴法界玄鏡). By Chengguan. *Taishō* vol. 45, No. 1883.
-*Huayan Essay on Generating the Bodhi-Mind* (華嚴發菩提心章). By Fazang. *Taishō* vol. 45, No. 1878.
+*Saṃyuktāgama* (*Za ahan jing* 雜阿含經). Translated by Guṇabhadra. Taishō vol. 2, no. 0099.
+*Madhyamāgama* (*Zhong ahan jing* 中阿含經). Translated by Gautama Saṃghadeva. Taishō vol. 1, no. 0026.
+*Separately Translated Saṃyuktāgama* (*Bieyi za ahan jing* 別譯雜阿含經). Translator unknown. Taishō vol. 2, no. 0100.
+*Mahāparinirvāṇa Sūtra* (*Da banniepan jing* 大般涅槃經). Translated by Faxian. Taishō vol. 1, no. 0007.
+*Prajñāpāramitā Hṛdaya Sūtra* (*Bore xinjing* 般若心經). Translated by Xuanzang. Taishō vol. 8, no. 0251.
+*Mahāprajñāpāramitā Sūtra* (*Da bore boluomiduo jing* 大般若波羅蜜多經). Translated by Xuanzang. Taishō vols. 5–7, no. 0220.
+*Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經). Translated by Xuanzang. Taishō vol. 16, no. 0676.
+*Śūraṅgama Sūtra* (*Lengyan jing* 楞嚴經). Translated by Pāramiti. Taishō vol. 19, no. 0945.
+*Laṅkāvatāra Sūtra* (*Ru lengqie jing* 入楞伽經). Translated by Bodhiruci. Taishō vol. 16, no. 0671.
+*Laṅkāvatāra Sūtra* (*Lengqie abaduoluobao jing* 楞伽阿跋多羅寶經). Translated by Guṇabhadra. Taishō vol. 16, no. 0670.
+*Ghanavyūha Sūtra* (*Dasheng miyan jing* 大乘密嚴經). Translated by Amoghavajra. Taishō vol. 16, no. 0682.
+*Avataṃsaka Sūtra* (*Da fangguang fo huayan jing* 大方廣佛華嚴經, 80-fascicle). Translated by Śikṣānanda. Taishō vol. 10, no. 0279.
+*Śatadharmaprakāśamukha-śāstra* (*Baifa mingmen lun* 百法明門論). By Vasubandhu. Translated by Xuanzang. Taishō vol. 31, no. 1614.
+*Cheng Weishi Lun* (成唯識論). By Dharmapāla et al. Translated by Xuanzang. Taishō vol. 31, no. 1585.
+*Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論). By Maitreya. Translated by Xuanzang. Taishō vol. 30, no. 1579.
+*Pañcaskandhaka-prakaraṇa* (*Dasheng wuyun lun* 大乘五蘊論). By Vasubandhu. Translated by Xuanzang. Taishō vol. 31, no. 1612.
+*Abhidharma-samuccaya* (*Dasheng apidamo ji lun* 大乘阿毘達磨集論). By Asaṅga. Translated by Xuanzang. Taishō vol. 31, no. 1605.
+*Abhidharma-samuccaya-vyākhyā* (*Dasheng apidamo zaji lun* 大乘阿毘達磨雜集論). Compiled by Sthiramati. Translated by Xuanzang. Taishō vol. 31, no. 1606.
+*Mahāyāna-saṃgraha* (*She dasheng lun* 攝大乘論). By Asaṅga. Translated by Paramārtha. Taishō vol. 31, no. 1593.
+*Mahāprajñāpāramitā-śāstra* (*Da zhidu lun* 大智度論). By Nāgārjuna. Translated by Kumārajīva. Taishō vol. 25, no. 1509.
+*Jingangxian Lun* (金剛仙論). By Vasubandhu; explained by the master Jingangxian. Translated by Bodhiruci. Taishō vol. 25, no. 1512.
+*Bā Shí Guī Jǔ Bǔ Zhù* (八識規矩補註). Annotated by Putai. Taishō vol. 45, no. 1865.
+*Yuqie lunji* (瑜伽論記). Compiled by Dunlun. Taishō vol. 42, no. 1828.
+*Commentary on the Huayan Dharma-Realm Contemplation Gate* (*Zhu huayan fajie guanmen* 注華嚴法界觀門). By Zongmi. Taishō vol. 45, no. 1884.
+*Huayan Dharma-Realm Dark Mirror* (*Huayan fajie xuanjing* 華嚴法界玄鏡). By Chengguan. Taishō vol. 45, no. 1883.
+*Huayan Essay on Generating the Bodhi-Mind* (*Huayan fa putixin zhang* 華嚴發菩提心章). By Fazang. Taishō vol. 45, no. 1878.
 
 ### II. Modern Scholarship
 

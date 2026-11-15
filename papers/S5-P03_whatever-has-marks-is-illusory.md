@@ -433,14 +433,14 @@ In the merit-comparison passages, "upholding four lines of verse surpasses givin
 
 ### I. Primary Buddhist Sources
 
-- *Vajracchedikā Prajñāpāramitā Sūtra* (金剛般若波羅蜜經), trans. Kumārajīva, T08, No. 235.
-- *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 676.
-- *Śūraṅgama Sūtra* (大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, T19, No. 945.
-- *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-- *Yogācārabhūmi-śāstra* (瑜伽師地論), by Maitreya, trans. Xuanzang, T30, No. 1579.
-- Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), T33, No. 1702.
-- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, T25, No. 1511.
-- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Asaṅga, trans. Dharmagupta, T25, No. 1510b.
+- *Vajracchedikā Prajñāpāramitā Sūtra* (*Jingang bore boluomi jing* 金剛般若波羅蜜經), trans. Kumārajīva, Taishō vol. 8, no. 0235.
+- *Saṃdhinirmocana Sūtra* (*Jie shenmi jing* 解深密經), trans. Xuanzang, Taishō vol. 16, no. 0676.
+- *Śūraṅgama Sūtra* (*Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), trans. Pāramiti, Taishō vol. 19, no. 0945.
+- *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, no. 1585.
+- *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論), by Maitreya, trans. Xuanzang, Taishō vol. 30, no. 1579.
+- Zixuan, *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), Taishō vol. 33, no. 1702.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Vasubandhu, trans. Bodhiruci, Taishō vol. 25, no. 1511.
+- *Jingang bore boluomi jing lun* (金剛般若波羅蜜經論), by Asaṅga, trans. Dharmagupta, Taishō vol. 25, no. 1510b.
 
 ### II. Modern Scholarship
 
