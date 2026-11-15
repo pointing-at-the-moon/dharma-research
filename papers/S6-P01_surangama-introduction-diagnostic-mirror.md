@@ -289,7 +289,7 @@ The core function of the middle circle is **practice methods**: you now know the
 
 **Outer circle (fascicles 8–10): How to know you are on the right track?**
 
-The fifty skandha-māra (fascicles 9–10) form the heart of the outer circle—ten states for each of the form, sensation, perception, formation, and consciousness aggregates, totaling fifty possible deviations encountered in meditative practice. Each state carries a verdict, and the first nine form-aggregate states share a single criterion: "If one does not take it as a saintly attainment, it is called a good state; if one regards it as a holy interpretation (若作聖解), one falls prey to all manner of deviance."
+The fifty skandha-māra (fascicles 9–10) form the heart of the outer circle—ten states for each of the form, sensation, perception, formation, and consciousness aggregates, totaling fifty possible deviations encountered in meditative practice. Each state carries a verdict, and the first nine form-aggregate states share a single criterion: "If one does not take it as a holy mind (聖心), it is called a good state; if one regards it as a holy interpretation (若作聖解), one falls prey to all manner of deviance."
 
 The core function of the outer circle is **discernment**: you are already practicing—how do you know you have not gone astray?
 

@@ -17,7 +17,7 @@ license: "CC BY-NC-SA 4.0"
 
 本文承續 S6-P09《受陰十魔——第二支箭的精微化》,進入照妖鏡的第三篇——想陰十魔的鑑別診斷。本文核心命題:**想陰十魔不是十個不同的精魅問題,而是「貪求」結構的十種對象化。每一種貪求都召出一個「鏡像他者」——一個看起來已經擁有你所貪求之物的人——通過這個他者的形象、聲音與教導,魔完成對行者的惑亂。**「飛精附人」不是天魔的隨機策略,而是貪求結構本身的必然顯現:因為想陰處理的是對外在能力的貪求,而外在能力需要一個「持有者」作為對象。子璿說「想陰未盡猶引外魔」,交光說「葢受盡者不能入其心腑,故假旁人惑之,轉令自亂耳」——二家共同宣告:受陰已破之後,魔不能再從內部進入,只能從外部、透過旁人來惑亂。本文最重要的獨創貢獻是「十貪→十鏡像他者」的現象學配對結構分析,並從中提煉出鏡像他者的四條基本法則。
 
-This paper continues S6-P09 (*The Ten Māras of the Receptive Aggregate: The Refinement of the Second Arrow*) and constitutes the third installment in the demon-revealing mirror series — the differential diagnosis of the ten māras of the perception aggregate (*saṃjñā-skandha*, 想陰). The central thesis: **the ten perception-aggregate māras are not ten distinct problems of demonic possession but ten objectifications of a single structure — craving (*tṛṣṇā*). Each craving conjures a "mirror-other" — a person who appears to already possess what the practitioner craves — and through that other's form, voice, and teaching the māra completes its disturbance of the practitioner.**
+This paper continues S6-P09 (*The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow*) and constitutes the third installment in the demon-revealing mirror series — the differential diagnosis of the ten māras of the perception aggregate (*saṃjñā-skandha*, 想陰). The central thesis: **the ten perception-aggregate māras are not ten distinct problems of demonic possession but ten objectifications of a single structure — craving (*tṛṣṇā*). Each craving conjures a "mirror-other" — a person who appears to already possess what the practitioner craves — and through that other's form, voice, and teaching the māra completes its disturbance of the practitioner.**
 
 "Dispatching essence to possess a person" (*fēi jīng fù rén* 飛精附人) is therefore not a random tactic deployed by the celestial māra (*deva-māra*) but the necessary phenomenological unfolding of the craving structure itself: because the perception aggregate processes craving for *external capacities*, and external capacities require a *possessor* as their object. The feeling-aggregate māras can "turn the practitioner upon himself" (Jiāoguāng's *zì diān* 自顛) precisely because their object is the practitioner's own internal state; the perception-aggregate māras must "possess a person" because their object is an external capacity, and capacity demands a venue of display, a display demands a performer, and the performer is the possessed person.
 
@@ -610,7 +610,7 @@ From "severing" to "obtaining" — this is the entire substance of the ten perce
 - S6-P06: The Three Gradual Stages and the Ground of Dry Wisdom (the root excision in form-aggregate cultivation).
 - S6-P07: The Four Clear and Decisive Instructions on Purity (the great-false-speech precept and the ethical antecedent of "claiming sagely attainment without basis").
 - S6-P08: The General Framework of the Fifty Skandha-Māras and the Ten States of the Form Aggregate (form-aggregate differential diagnosis).
-- S6-P09: The Ten Māras of the Receptive Aggregate — The Refinement of the Second Arrow (feeling-aggregate differential diagnosis).
+- S6-P09: The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow (feeling-aggregate differential diagnosis).
 - S5-P02: The Kōan-Mirror (*guān jì zhòng* — the reflexive structure of the observer; this thread will be reactivated in P11).
 
 ---
@@ -637,7 +637,7 @@ From "severing" to "obtaining" — this is the entire substance of the ten perce
 
 [^5]: *Śūraṅgama Sūtra* fascicle 9, opening of the first perception-aggregate māra (craving expedient skill), *Taishō* vol. 19, no. 945.
 
-[^6]: See S6-P09, *The Ten Māras of the Receptive Aggregate — The Refinement of the Second Arrow*, §6.3 (open question).
+[^6]: See S6-P09, *The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow*, §6.3 (open question).
 
 [^7]: Zǐxuán, *Shoulengyan yishu zhujing*, fascicle 10, *Taishō* vol. 39, no. 1799. Original text cited in footnote 19 below.
 

@@ -199,7 +199,7 @@ This table is the correspondence map between the book and the 92 underlying pape
 | 6.6 | S6-P06 | The Three Gradual Steps and the Stage of Dry Wisdom—the Purification Before the Gate | 4,540 |
 | 6.7 | S6-P07 | The Four Pure and Clear Instructions—the First Ward Before the Gate | 4,326 |
 | 6.8 | S6-P08 | The Outline of the Fifty Skandha-Demons and the Ten States of the Form Skandha—Consecrating the Demon-Revealing Mirror | 4,677 |
-| 6.9 | S6-P09 | The Ten Demons of the Feeling Skandha—the Refining of the Second Arrow | 5,014 |
+| 6.9 | S6-P09 | The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow | 5,014 |
 | 6.10 | S6-P10 | The Ten Demons of the Perception Skandha—the Mirror-Other of Craving | 5,405 |
 | 6.11 | S6-P11 | The Ten Demons of the Formations Skandha—the Mirror-Student and the Net of Brahmā's Stirring | 7,817 |
 | 6.12 | S6-P12 | The Ten Demons of the Consciousness Skandha—the Last Grasping Between the Two Pillars | 6,825 |

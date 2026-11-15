@@ -136,29 +136,29 @@ This is the outermost, most interpersonal layer of the form aggregate. Strikingl
 
 The first nine states share a common adjudicative formula:
 
-> ...it is not a sagely attainment. If not construed as sagely, it is called a wholesome state; if taken as a holy interpretation (若作聖解), one receives the host of demons.
+> ...it is not a sagely attainment. If not taken as a holy mind (聖心), it is called a wholesome state; if taken as a holy interpretation (若作聖解), one receives the host of demons.
 
 But at the tenth state the formula changes:
 
-> ...it is not a sagely attainment. If not construed as sagely, **the māra-events will dissipate**; if taken as a holy interpretation, one receives the host of demons.
+> ...it is not a sagely attainment. If not taken as a holy mind, **the māra-events will dissipate**; if taken as a holy interpretation, one receives the host of demons.
 
 "It is called a wholesome state" becomes "the māra-events will dissipate." This rupture in the wording is no idle variation. It is a **structural turning point**.
 
 The first nine states are the practitioner's own form aggregate manifesting of itself—the result of the practitioner's own power of meditative observation momentarily transcending delusion, a normal side effect of *dhyāna*, and thus they may be called "wholesome states."
 
-The tenth state is different. The sūtra says "this is the perverse mind receiving elemental sprites, or encountering celestial māras entering into the stomach of the mind"—this is already **external māra beginning to intervene**. So it cannot be called a "wholesome state"; one can only say, "if not construed as sagely, the māra-events will dissipate."
+The tenth state is different. The sūtra says "this is the perverse mind receiving elemental sprites, or encountering celestial māras entering into the stomach of the mind"—this is already **external māra beginning to intervene**. So it cannot be called a "wholesome state"; one can only say, "if not taken as a holy mind, the māra-events will dissipate."
 
 Master Zǐxuán makes the point precisely: "This section is not a wholesome state; it is purely māra-harassment, differing from the preceding text." Master Jiāoguāng is more exact still: "As the form aggregate is about to shatter and is shaken to its foundations, the māra-mind rises in fury at that very moment; this is why māra-harassment begins here."
 
 This also echoes the passage on "palaces crumbling"—when the practitioner's form aggregate is about to be broken through, the māra-king's palace genuinely feels the tremor, and only then does he intervene in person. The "māra" of the first nine states is all the projection of the practitioner's own form-aggregate delusion; the tenth state is the first true external māra. It is the bridge from the ten states of the form aggregate to the ten māras of the feeling aggregate.
 
-The practical meaning for the meditator is this: **the first nine states you can handle by yourself—so long as you do not construe them as sagely, they return automatically to the category of wholesome states. At the tenth state you must be on guard—because this is no longer your own delusion but the beginning of a true external māra at work.**
+The practical meaning for the meditator is this: **the first nine states you can handle by yourself—so long as you do not take them as a holy mind, they return automatically to the category of wholesome states. At the tenth state you must be on guard—because this is no longer your own delusion but the beginning of a true external māra at work.**
 
 ### Not Construing as Sagely—The Precision of the Criterion
 
 The core criterion of the ten form-aggregate states is exquisitely precise, and worth reading one word at a time—
 
-**"If not construed as sagely, it is called a wholesome state."**
+**"If not taken as a holy mind, it is called a wholesome state."**
 
 It is not "do not see the state." It is "see the state, but do not read the state as a sagely attainment." The arising of the state is fully affirmed as "wholesome"—provided only that your mind does not take it for "I have attained." In operation, this is a three-step movement:
 

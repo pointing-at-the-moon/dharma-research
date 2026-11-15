@@ -80,7 +80,7 @@ That bowl of plain noodles never had the property of "delicious"—"delicious" w
 
 ### 2.2 The Buddha's Direct Instruction: The Mind Seeks Externally
 
-The Buddha did not merely analyze the vedanā-aggregate in theory. In the Āgamas, he repeatedly, explicitly, and directly taught his disciples: do not seek externally.
+The Buddha did not merely analyze the feeling aggregate in theory. In the Āgamas, he repeatedly, explicitly, and directly taught his disciples: do not seek externally.
 
 The *Saṃyuktāgama* contains three consecutive sūtras (615–617) that form a complete teaching unit:
 

@@ -248,9 +248,9 @@ No longer observe "the nature of the formations aggregate" (that flow which cann
 
 And what is asked is only **five verb-like kinds of observation** — arising (how it arises), ceasing (how it subsides), savor (its present quality), peril (the dangers it brings), and emancipation (the way out of it). All five describe the flow; **not one is an assertion about the nature.**
 
-The Śūraṅgama gives this principle an exquisitely matched name — "**form no saintly mind**" (after its counterpart clause, "if you form a holy interpretation," this book also calls it "form no holy interpretation"). In the verdicts on the ten form-aggregate states, the Śūraṅgama repeats the same line (the first nine states use it verbatim; the tenth reads "if you form no saintly mind, the māric event subsides; if you form a holy interpretation, you receive the host of errancies"; the ten feeling-aggregate states also judge by "if you form a holy interpretation"):
+The Śūraṅgama gives this principle an exquisitely matched name — "**form no holy mind (聖心)**" (after its counterpart clause, "if you form a holy interpretation," this book also calls it "form no holy interpretation"). In the verdicts on the ten form-aggregate states, the Śūraṅgama repeats the same line (the first nine states use it verbatim; the tenth reads "if you form no holy mind, the māric event subsides; if you form a holy interpretation, you receive the host of errancies"; the ten feeling-aggregate states also judge by "if you form a holy interpretation"):
 
-> If you form no saintly mind, this is named a wholesome state; if you form a holy interpretation, you receive the host of errancies.
+> If you form no holy mind, this is named a wholesome state; if you form a holy interpretation, you receive the host of errancies.
 
 The structure of this line is completely isomorphic with the *Brahmajāla*'s cure-formula — "form no holy interpretation" is "render no thoroughgoing verdict on perceived objects"; "this is named a wholesome state" is letting the state remain in its flowing quality without being shaped into an object.
 

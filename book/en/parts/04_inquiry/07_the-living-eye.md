@@ -160,7 +160,7 @@ The *Śūraṅgama Sūtra*, fascicles nine and ten, records fifty kinds of skand
 
 At the close of each form-skandha demonic state, the Buddha repeats the same line:
 
-> This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as a holy interpretation (若作聖解), one immediately falls prey to demonic forces.
+> This is not saintly attainment. If one does not take it as a holy mind (聖心), it is called a wholesome state. If one takes this as a holy interpretation (若作聖解), one immediately falls prey to demonic forces.
 
 This line repeats ten times. The same experience—say, the body feeling that it can pass through a wall, or hearing a voice expounding the Dharma in empty space, or seeing the whole earth turn golden into a buddha-land—these experiences in themselves **are not the problem**. They are states that genuinely arise in the course of meditation.
 

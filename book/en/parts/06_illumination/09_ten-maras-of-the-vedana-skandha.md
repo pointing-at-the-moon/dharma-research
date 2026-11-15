@@ -31,7 +31,7 @@ The central claim of this chapter can be stated in a single sentence: **the ten 
 
 But first we must answer the question left hanging from the last chapter—**why is the feeling aggregate harder than the form aggregate?**
 
-Each of the ten realms of the form aggregate has a clear *object*. The body passes through obstructions, one sees worms within one's own body, one sees buddhas, one sees jeweled colors, one sees objects in a dark room… each of these ten realms has an external, identifiable, refusable object. When you "do not generate sagely conceit," you can say: "this body that passes through walls is not my sagely realization; this buddha-image that appears is not my sagely realization." **The thing to be refused is clear.**
+Each of the ten realms of the form aggregate has a clear *object*. The body passes through obstructions, one sees worms within one's own body, one sees buddhas, one sees jeweled colors, one sees objects in a dark room… each of these ten realms has an external, identifiable, refusable object. When you "do not generate a holy mind (聖心)," you can say: "this body that passes through walls is not my sagely realization; this buddha-image that appears is not my sagely realization." **The thing to be refused is clear.**
 
 And the ten realms of the feeling aggregate? The first is "boundless pity," the second "boundless courage," the third "fixed brooding without dispersal," the fourth "settling for little gained," the fifth "ceaseless sorrow," the sixth "boundless welling joy," the seventh "the towering of great conceit," the eighth "boundless pacification," the ninth "the understanding of annihilation," the tenth "boundless arising love."
 
@@ -107,7 +107,7 @@ If the ten māras were merely ten parallel items, they would be nothing but a li
 
 The insight of this structure is: **the structure of the form aggregate is layered (body → hearing → feeling → emptiness → other); the structure of the feeling aggregate is paired (suppression vs. rashness, retreat vs. settling for little…). The structure of objects is layered; the structure of judgments is paired.**
 
-And neither pole of any pair is the answer—**the Middle Way lies between the two poles of each pair.** Against pity one is not to swing to frenzy; against frenzy one is not to swing to pity; against recollection one is not to switch to contentment; against contentment one is not to revert to recollection. The Middle Way is to find, between each pair's two extremes, that unbiased position of "not generating sagely conceit."
+And neither pole of any pair is the answer—**the Middle Way lies between the two poles of each pair.** Against pity one is not to swing to frenzy; against frenzy one is not to swing to pity; against recollection one is not to switch to contentment; against contentment one is not to revert to recollection. The Middle Way is to find, between each pair's two extremes, that unbiased position of "not generating a holy mind."
 
 ### To Grasp Is to Draw In the Māra
 
@@ -117,7 +117,7 @@ In his concluding verdict on the first māra (the māra of pity), the master Zǐ
 
 Translated, these twelve characters say: these states are not themselves sagely realization; **the moment you grasp them as sagely realization, the māra is drawn in.** The other nine realms are all handled in the same way. Twelve characters say it all.
 
-In the form aggregate section the Buddha's "do not generate sagely conceit" was enough; the feeling aggregate section requires "do not grasp"—not only must one not generate the conceit of sagely realization, one must not even "grasp" at the meditative state at all. "Grasping" is more refined than "generating"—"generating" is conscious contrivance, while "grasping" can be unconscious clinging. From "not generating" to "not grasping" is the refinement from the worldling's stage to the feeling aggregate's stage.
+In the form aggregate section the Buddha's "do not generate a holy mind" was enough; the feeling aggregate section requires "do not grasp"—not only must one not generate the conceit of sagely realization, one must not even "grasp" at the meditative state at all. "Grasping" is more refined than "generating"—"generating" is conscious contrivance, while "grasping" can be unconscious clinging. From "not generating" to "not grasping" is the refinement from the worldling's stage to the feeling aggregate's stage.
 
 Why does the feeling aggregate section tighten its tone to such urgency? Zǐxuán gives a structural explanation—**the feeling aggregate is "the head of the four mind-aggregates."**
 
@@ -153,7 +153,7 @@ When you sense that you may have fallen into grasping at some meditative state, 
 
 ### The Antidote Is to See Through, Not to Suppress
 
-There is one more crucial point—the antidote to the māras of the feeling aggregate is not to suppress feeling but to **not generate sagely conceit.**
+There is one more crucial point—the antidote to the māras of the feeling aggregate is not to suppress feeling but to **not generate a holy mind.**
 
 The antidote to the first māra is not to suppress compassion but to not take that compassion for sagely realization. The antidote to the sixth māra is not to suppress joy but to not take that joy for unhindered liberation. The antidote to the tenth māra is not to reject the meditative state itself but to not generate "savoring" (the possessive tasting) toward that state.
 
@@ -175,10 +175,10 @@ This is why the māra of the perception aggregate must "send forth a spirit to p
 
 ### From "Not Generating" to "Not Grasping"
 
-"Not generating sagely conceit, this is called a wholesome state"—this is the verdict of the form aggregate section.
+"Not generating a holy mind, this is called a wholesome state"—this is the verdict of the form aggregate section.
 "This is not sagely realization; the moment one grasps it, demons are drawn in"—this is Zǐxuán's verdict on the feeling aggregate section.
 
-The two sentences share the same structure, but differ in depth. The form aggregate section says "do not generate sagely conceit," and that is enough; the feeling aggregate section requires "do not grasp"—not only must one not generate the mind of sagely realization, one must not even "grasp" at the meditative state. "Grasping" is more refined than "generating," because "generating" is conscious contrivance, while "grasping" can be unconscious clinging.
+The two sentences share the same structure, but differ in depth. The form aggregate section says "do not generate a holy mind," and that is enough; the feeling aggregate section requires "do not grasp"—not only must one not generate the mind of sagely realization, one must not even "grasp" at the meditative state. "Grasping" is more refined than "generating," because "generating" is conscious contrivance, while "grasping" can be unconscious clinging.
 
 **From "not generating" to "not grasping"—this is the whole point of this chapter.**
 

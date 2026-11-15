@@ -91,7 +91,7 @@ Fascicles nine and ten of the *Śūraṅgama Sūtra* record fifty kinds of skand
 
 Every color-skandha demonic state concludes with the same verification formula, repeated in full ten times:
 
-> "This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as a holy interpretation, one immediately falls prey to demonic forces."[^13]
+> "This is not saintly attainment. If one does not take it as a holy mind (聖心), it is called a wholesome state. If one takes this as a holy interpretation, one immediately falls prey to demonic forces."[^13]
 
 Fifty demonic states — from "the body passing through solid barriers" to "suddenly seeing the great earth and the mountains and rivers of the ten directions all become buddha-lands," on to the ten states that arise within the consciousness-skandha realm once the formation-skandha has ended, when it is "like a rooster crowing before dawn" — all are genuine experiences that may arise during meditation. They are not the problem. The problem is when you take them as signs of attainment.
 
@@ -209,7 +209,7 @@ The first three layers argued the irreplaceability of the *kalyāṇamitra*: the
 
 The *Śūraṅgama Sūtra*'s fifty skandha-māras constitute the most detailed map of the contemplative path — but the existence of a map cannot prevent you from getting lost.
 
-All fifty demonic states are genuine experiences that arise for practitioners. The body passing through solid barriers, hearing dharma-voices in empty space, seeing the earth become a buddha-land — these experiences genuinely occur in meditation. The Buddha's criterion is not "these experiences are false," but: your attitude toward them determines the outcome. "If one does not regard it as saintly, it is a wholesome state. If one takes it as a holy interpretation, one falls prey to demonic forces" — the same experience, without attachment, is a good sign; with attachment, it leads to the demonic path.
+All fifty demonic states are genuine experiences that arise for practitioners. The body passing through solid barriers, hearing dharma-voices in empty space, seeing the earth become a buddha-land — these experiences genuinely occur in meditation. The Buddha's criterion is not "these experiences are false," but: your attitude toward them determines the outcome. "If one does not take it as a holy mind, it is a wholesome state. If one takes it as a holy interpretation, one falls prey to demonic forces" — the same experience, without attachment, is a good sign; with attachment, it leads to the demonic path.
 
 The question is: who determines whether you are "taking it as a holy interpretation"?
 
@@ -339,7 +339,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^12]: *Śūraṅgama Sūtra*, fasc. 9: "When demonic states manifest, if you cannot recognize them, your attempt to purify the mind goes astray, and you fall into wrong views … the mind unclear, you mistake the thief for your own child" 「魔境現前，汝不能識，洗心非正，落於邪見……心中不明，認賊為子」. *Taishō* vol. 19, No. 0945.
 
-[^13]: *Śūraṅgama Sūtra*, fasc. 9: "If one does not regard it as saintly, it is a wholesome state. If one takes this as a holy interpretation, one falls prey to demonic forces" 「不作聖心，名善境界；若作聖解，即受群邪」. Color-skandha verification formula, repeated ten times. *Taishō* vol. 19, No. 0945.
+[^13]: *Śūraṅgama Sūtra*, fasc. 9: "If one does not take it as a holy mind, it is a wholesome state. If one takes this as a holy interpretation, one falls prey to demonic forces" 「不作聖心，名善境界；若作聖解，即受群邪」. Color-skandha verification formula, repeated ten times. *Taishō* vol. 19, No. 0945.
 
 [^14]: *Śūraṅgama Sūtra*, fasc. 9: "The accomplishment of disruption originates from the master of the five skandhas within your mind. When the master is deluded, the guest gains entry" 「成就破亂，由汝心中五陰主人。主人若迷，客得其便」. *Taishō* vol. 19, No. 0945.
 
