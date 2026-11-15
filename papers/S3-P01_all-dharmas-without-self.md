@@ -392,7 +392,7 @@ S3's answer: **There are eight passengers in the car, but none of them is the dr
 - *Laṅkāvatāra Sūtra* (大乘入楞伽經), trans. Śikṣānanda, Taishō vol. 16, No. 0672.
 - *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, Taishō vol. 16, No. 676.
 - *Śatadharmaprakāśamukha-śāstra* (大乘百法明門論), composed by Vasubandhu, trans. Xuanzang, Taishō vol. 31, No. 1614.
-- *Cheng Weishi Lun* (成唯識論, *Vijñaptimātratāsiddhi*), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
 - *Yogācārabhūmi-śāstra* (瑜伽師地論), spoken by Maitreya, trans. Xuanzang, Taishō vol. 30, No. 1579.
 - *Vasupandhu-dharma-ācārya-caritra* (婆藪盤豆法師傳), trans. Paramārtha, Taishō vol. 50, No. 2049.
 

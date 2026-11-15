@@ -356,7 +356,7 @@ For daily practice: do not affix lineage labels to yourself (whether "determinat
 - *Buddhadhātu-śāstra* (*Foxing lun* 佛性論), attrib. Vasubandhu, trans. Paramārtha. Taishō vol. 31, no. 1610.
 - *Ratnagotravibhāga* (*Jiujing yisheng baoxing lun* 究竟一乘寶性論), trans. Ratnamati. Taishō vol. 31, no. 1611.
 - *Awakening of Faith in the Mahāyāna* (*Dasheng qixin lun* 大乘起信論), attrib. Aśvaghoṣa, trans. Paramārtha. Taishō vol. 32, no. 1666.
-- 《大乘起信論義記》*Dasheng Qixin Lun Yiji* (*Commentary on the Awakening of Mahāyāna Faith*), Fazang. Taishō vol. 44, no. 1846.
+- *Commentary on the Awakening of Mahāyāna Faith* (*Dasheng Qixin Lun Yiji* 大乘起信論義記), Fazang. Taishō vol. 44, no. 1846.
 
 **Mahāparinirvāṇa-sūtra (cited via commentaries; not in vault):**
 - *Mahāparinirvāṇa-sūtra* (*Da banniepan jing* 大般涅槃經), trans. Dharmakṣema. Taishō vol. 12, no. 0374.

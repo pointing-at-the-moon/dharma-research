@@ -555,25 +555,25 @@ The ten feeling-aggregate māras are more dangerous than the ten form-aggregate 
 
 ### Primary Buddhist Sources
 
-*Dà fó dǐng rúlái mì yīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經 [*Śūraṅgama Sūtra*], translated by Paramiti 般剌密帝. *Taishō Tripiṭaka* vol. 19, no. 945.
+*Śūraṅgama Sūtra* (*Dà fó dǐng rúlái mì yīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經), translated by Paramiti 般剌密帝. *Taishō Tripiṭaka* vol. 19, no. 945.
 
-*Shǒuléngyán yìshū zhù jīng* 首楞嚴義疏注經 [*Commentary on the Śūraṅgama Sūtra*], compiled by Zǐxuán 子璿 (Song dynasty). *Taishō Tripiṭaka* vol. 39, no. 1799.
+*Commentary on the Śūraṅgama Sūtra* (*Shǒuléngyán yìshū zhù jīng* 首楞嚴義疏注經), compiled by Zǐxuán 子璿 (Song dynasty). *Taishō Tripiṭaka* vol. 39, no. 1799.
 
-*Dà fó dǐng rúlái mì yīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng zhèngmài shū* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏 [*The Correct Vein Commentary on the Śūraṅgama Sūtra*], by Jiāoguāng Zhēnjiàn 交光真鑑 (Ming dynasty). *Xù Zàng Jīng* vol. 12, no. 275.
+*The Correct Vein Commentary on the Śūraṅgama Sūtra* (*Dà fó dǐng rúlái mì yīn xiūzhèng liǎoyì zhū púsà wànxíng shǒuléngyán jīng zhèngmài shū* 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經正脈疏), by Jiāoguāng Zhēnjiàn 交光真鑑 (Ming dynasty). *Xù Zàng Jīng* vol. 12, no. 275.
 
-*Zhōng ā hán jīng* 中阿含經 [*Madhyama Āgama*], translated by Gautama Saṃghadeva 瞿曇僧伽提婆. *Taishō Tripiṭaka* vol. 1, no. 26.
+*Madhyama Āgama* (*Zhōng ā hán jīng* 中阿含經), translated by Gautama Saṃghadeva 瞿曇僧伽提婆. *Taishō Tripiṭaka* vol. 1, no. 26.
 
-*Zá ā hán jīng* 雜阿含經 [*Saṃyukta Āgama*], translated by Guṇabhadra 求那跋陀羅. *Taishō Tripiṭaka* vol. 2, no. 99.
+*Saṃyukta Āgama* (*Zá ā hán jīng* 雜阿含經), translated by Guṇabhadra 求那跋陀羅. *Taishō Tripiṭaka* vol. 2, no. 99.
 
-*Bié yì zá ā hán jīng* 別譯雜阿含經 [*Separately Translated Saṃyukta Āgama*], translator unknown. *Taishō Tripiṭaka* vol. 2, no. 100.
+*Separately Translated Saṃyukta Āgama* (*Bié yì zá ā hán jīng* 別譯雜阿含經), translator unknown. *Taishō Tripiṭaka* vol. 2, no. 100.
 
-*Cháng ā hán jīng* 長阿含經 [*Dīrgha Āgama*], translated by Buddhayaśas 佛陀耶舍 and Zhu Fonian 竺佛念. *Taishō Tripiṭaka* vol. 1, no. 1.
+*Dīrgha Āgama* (*Cháng ā hán jīng* 長阿含經), translated by Buddhayaśas 佛陀耶舍 and Zhu Fonian 竺佛念. *Taishō Tripiṭaka* vol. 1, no. 1.
 
-*Zēng yī ā hán jīng* 增壹阿含經 [*Ekottara Āgama*], translated by Gautama Saṃghadeva 瞿曇僧伽提婆. *Taishō Tripiṭaka* vol. 2, no. 125.
+*Ekottara Āgama* (*Zēng yī ā hán jīng* 增壹阿含經), translated by Gautama Saṃghadeva 瞿曇僧伽提婆. *Taishō Tripiṭaka* vol. 2, no. 125.
 
-*Dà zhì dù lùn* 大智度論 [*Mahāprajñāpāramitā-śāstra*], attributed to Nāgārjuna 龍樹, translated by Kumārajīva 鳩摩羅什. *Taishō Tripiṭaka* vol. 25, no. 1509.
+*Mahāprajñāpāramitā-śāstra* (*Dà zhì dù lùn* 大智度論), attributed to Nāgārjuna 龍樹, translated by Kumārajīva 鳩摩羅什. *Taishō Tripiṭaka* vol. 25, no. 1509.
 
-*Yúqié shīdì lùn* 瑜伽師地論 [*Yogācārabhūmi-śāstra*], attributed to Maitreya 彌勒, translated by Xuánzàng 玄奘. *Taishō Tripiṭaka* vol. 30, no. 1579.
+*Yogācārabhūmi-śāstra* (*Yúqié shīdì lùn* 瑜伽師地論), attributed to Maitreya 彌勒, translated by Xuánzàng 玄奘. *Taishō Tripiṭaka* vol. 30, no. 1579.
 
 ### Modern Scholarship
 

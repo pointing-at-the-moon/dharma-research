@@ -169,9 +169,9 @@ The dialogue between Yogācāra Buddhism and contemporary AI philosophy has only
 
 ### I. Primary Buddhist Sources
 
-- *Cheng Weishi Lun* (成唯識論, *Vijñaptimātratāsiddhi*). Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1585.
-- *Yuqie Shidi Lun* (瑜伽師地論, *Yogācārabhūmi-śāstra*). Spoken by Maitreya, translated by Xuanzang. *Taishō Tripiṭaka* Vol. 30, No. 1579.
-- *Dasheng Baifa Mingmen Lun* (大乘百法明門論, *Mahāyāna-śatadharmā-prakāśamukha-śāstra*). Composed by Vasubandhu, translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1614.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論). Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1585.
+- *Yogācārabhūmi-śāstra* (*Yuqie Shidi Lun* 瑜伽師地論). Spoken by Maitreya, translated by Xuanzang. *Taishō Tripiṭaka* Vol. 30, No. 1579.
+- *Mahāyāna-śatadharmā-prakāśamukha-śāstra* (*Dasheng Baifa Mingmen Lun* 大乘百法明門論). Composed by Vasubandhu, translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1614.
 
 ### II. Modern Scholarship
 

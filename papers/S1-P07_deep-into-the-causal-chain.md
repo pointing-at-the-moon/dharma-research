@@ -332,10 +332,10 @@ But the premise is—you must, like the farmer, plant first.
 ### I. Primary Buddhist Sources 佛教原典
 
 - 《雜阿含經》*Saṃyuktāgama*, trans. Guṇabhadra, Taishō vol. 2, No. 0099.
-- 《成唯識論》*Cheng Weishi Lun* (*Vijñaptimātratāsiddhi*), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論), composed by Dharmapāla et al., trans. Xuanzang, Taishō vol. 31, No. 1585.
 - 《攝大乘論釋》(無性釋) *Mahāyānasaṃgrahabhāṣya* (Asvabhāva's commentary), trans. Xuanzang, Taishō vol. 31, No. 1598.
 - 《大乘阿毘達磨集論》*Abhidharmasamuccaya*, composed by Asaṅga, trans. Xuanzang, Taishō vol. 31, No. 1605.
-- 《大乘起信論義記》*Dasheng Qixin Lun Yiji* (*Commentary on the Awakening of Mahāyāna Faith*), by Fazang, Taishō vol. 44, No. 1846.
+- *Commentary on the Awakening of Mahāyāna Faith* (*Dasheng Qixin Lun Yiji* 大乘起信論義記), by Fazang, Taishō vol. 44, No. 1846.
 - 《攝大乘論釋》*Mahāyānasaṃgraha-bhāṣya* (Paramārtha's translation), commentary by Vasubandhu, trans. Paramārtha, Taishō vol. 31, No. 1595.
 - 《大方廣佛華嚴經》(四十卷本) *Avataṃsaka Sūtra* (40-fascicle edition), trans. Prajñā, Taishō vol. 10, No. 0293.
 - 《八識規矩補註》*Bāshí Guījǔ Bǔzhù* (*Supplementary Notes on the Verses on the Eight Consciousnesses*, containing the root verses), Taishō vol. 45, No. 1865.

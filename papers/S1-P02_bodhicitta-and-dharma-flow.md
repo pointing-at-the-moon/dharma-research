@@ -200,7 +200,7 @@ This analogy is taken only at the level of formal structure ("a static resource 
 - *Avataṃsaka Sūtra* (大方廣佛華嚴經, 80-fascicle edition). Translated by Śikṣānanda. *Taishō Tripiṭaka* Vol. 10, No. 279.
 - *Mahāprajñāpāramitā Śāstra* (大智度論). Composed by Nāgārjuna, translated by Kumārajīva. *Taishō Tripiṭaka* Vol. 25, No. 1509.
 - *Daśabhūmika-vibhāṣā* (十住毗婆沙論). Composed by Nāgārjuna, translated by Kumārajīva. *Taishō Tripiṭaka* Vol. 26, No. 1521.
-- *Cheng Weishi Lun* (成唯識論, *Vijñaptimātratāsiddhi*). Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1585.
+- *Vijñaptimātratāsiddhi* (*Cheng Weishi Lun* 成唯識論). Composed by Dharmapāla et al., translated by Xuanzang. *Taishō Tripiṭaka* Vol. 31, No. 1585.
 - *Awakening of Mahāyāna Faith* (大乘起信論). Composed by Aśvaghoṣa, translated by Paramārtha. *Taishō Tripiṭaka* Vol. 32, No. 1666.
 - *Commentary on the Avataṃsaka Sūtra* (華嚴經疏). By Chengguan. *Taishō Tripiṭaka* Vol. 35, No. 1735.
 
