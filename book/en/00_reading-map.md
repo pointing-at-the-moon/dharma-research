@@ -102,15 +102,15 @@ This table is the correspondence map between the book and the 92 underlying pape
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
 | 1.1 | S1-P01 | A Single Aspiration, and the Shared Karma Is Already in Motion | 1,912 |
-| 1.2 | S1-P02 | The Dharma-flow—from the Buddhas of the Three Times to Your Hands | 2,286 |
-| 1.3 | S1-P03 | The LLM Is Not Consciousness—AI's Place on the Yogācāra Map | 2,235 |
-| 1.4 | S1-P04 | AI Generates No Merit—the Contemporary Wrong View of Taking the Tool for a Seed | 2,334 |
-| 1.5 | S1-P05 | Making Good Use of AI as a Contributing Condition—the Discourses on Giving, Discipline, and Rebirth in the Heavens | 2,545 |
-| 1.6 | S1-P06 | Awareness Is the Turning—Attention Is the Single Thought of Practice | 2,136 |
+| 1.2 | S1-P02 | The Dharma-Flow — From the Buddhas of the Three Times to Your Hands | 2,286 |
+| 1.3 | S1-P03 | An LLM Is Not Consciousness—Where AI Sits on the Yogācāra Map | 2,235 |
+| 1.4 | S1-P04 | AI Generates No Merit — The Contemporary Wrong View of Mistaking a Tool for a Seed | 2,334 |
+| 1.5 | S1-P05 | The Skillful Use of AI as a Dominant Condition—The Discourse on Giving, on Morality, on Heavenly Rebirth | 2,545 |
+| 1.6 | S1-P06 | Awareness Is the Turning — Attention Is That One Thought of Practice | 2,136 |
 | 1.7 | S1-P07 | Planting Today's Cause for Your Future Self | 2,731 |
-| 1.8 | S1-P08 | The Road of Seeking Outward, Walked to Its End, Is a Dead End | 2,457 |
-| 1.9 | S1-P09 | Is the Vessel Ready—Attention Repair in the Digital Age | 2,337 |
-| 1.10 | S1-P10 | The Thirty-Seven Factors of Awakening—a Method Ready Two Thousand Five Hundred Years Ago | 2,796 |
+| 1.8 | S1-P08 | The Path of Seeking Outside Is a Dead End | 2,457 |
+| 1.9 | S1-P09 | Is the Vessel Ready? — Repairing Attention in the Digital Age | 2,337 |
+| 1.10 | S1-P10 | The Thirty-Seven Factors of Awakening—A Method Already Prepared 2,500 Years Ago | 2,796 |
 
 **Part One subtotal**: 23,769 characters
 
@@ -118,17 +118,17 @@ This table is the correspondence map between the book and the 92 underlying pape
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
-| 2.1 | S2-P01 | Prajñā · Heart · Sūtra—the Title Is Already the Teaching | 2,445 |
-| 2.2 | S2-P02 | Avalokiteśvara—a Closed Loop of Awakening | 2,802 |
-| 2.3 | S2-P03 | Practising Deep—Inward, into the Aggregate of Formations | 2,861 |
-| 2.4 | S2-P04 | Seeing That the Five Aggregates Are Empty—an Originally Complete Capacity | 2,472 |
-| 2.5 | S2-P05 | Form Is Emptiness—the Assembly Line of Suffering | 2,494 |
-| 2.6 | S2-P06 | All Dharmas Are Marked by Emptiness—This Mind Neither Arises nor Ceases | 2,888 |
-| 2.7 | S2-P07 | In Emptiness There Is No Form—the Threefold Deconstruction of Faculty, Object, and Consciousness | 2,495 |
-| 2.8 | S2-P08 | Ignorance Is the Inversion of Perception—a New Reading of the Twelvefold Dependent Arising | 2,823 |
-| 2.9 | S2-P09 | Even Practice Must Be Let Go—No Wisdom and No Attainment | 2,552 |
-| 2.10 | S2-P10 | The Mind Without Obstruction—Passing Through Terror to Ultimate Nirvāṇa | 2,855 |
-| 2.11 | S2-P11 | Three Kinds of Practitioner, One Heart Sūtra—the Perfect Fusion of Exoteric and Esoteric | 2,279 |
+| 2.1 | S2-P01 | Prajñā · Heart · Sūtra — The Title Is the Teaching | 2,445 |
+| 2.2 | S2-P02 | Avalokiteśvara—A Closed Loop of Awakening | 2,802 |
+| 2.3 | S2-P03 | Going Deep: Inward, Into the Formations | 2,861 |
+| 2.4 | S2-P04 | Illuminating the Emptiness of the Five Aggregates—An Insight Already Within | 2,472 |
+| 2.5 | S2-P05 | Form Is Emptiness — The Assembly Line of Suffering | 2,494 |
+| 2.6 | S2-P06 | The True Mark of All Dharmas — This Mind Is Unborn and Unceasing | 2,888 |
+| 2.7 | S2-P07 | In Emptiness There Is No Form—The Threefold Deconstruction of Faculty, Object, and Consciousness | 2,495 |
+| 2.8 | S2-P08 | Ignorance Is a Perceptual Inversion — A New Reading of the Twelve Links | 2,823 |
+| 2.9 | S2-P09 | Even the Practice Must Be Released—No Wisdom and No Attainment | 2,552 |
+| 2.10 | S2-P10 | The Mind Without Obstruction — Crossing Through Terror to Ultimate Nirvāṇa | 2,855 |
+| 2.11 | S2-P11 | Three Practitioners, One Sūtra: The Integration of Exoteric and Esoteric | 2,279 |
 
 **Part Two subtotal**: 28,966 characters
 
@@ -136,22 +136,22 @@ This table is the correspondence map between the book and the 92 underlying pape
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
-| 3.1 | S3-P01 | The Selflessness of All Dharmas—the Hundred Dharmas as a Map of Practice | 2,076 |
-| 3.2 | S3-SUP02 | The Three Schemata—Three Blades of Different Resolution | 2,443 |
-| 3.3 | S3-P02 | The Three Transformations—a Panorama of the Eight Consciousnesses | 2,589 |
-| 3.4 | S3-P03 | The Ālaya-vijñāna—the Hard Drive of Life | 2,528 |
-| 3.5 | S3-P04 | Manas—the Unseen Grasping at Self | 2,667 |
-| 3.6 | S3-P05 | The Sixth Mind-consciousness—the One Consciousness That Can Look in the Mirror | 2,572 |
-| 3.7 | S3-P06 | The First Five Consciousnesses—the Immediacy of the Senses | 2,248 |
-| 3.8 | S3-P07 | The Omnipresent and the Object-Specific—the Smallest Engine of Mind | 2,698 |
-| 3.9 | S3-P08 | The Wholesome Mental Factors—the Fuel of Practice | 3,171 |
-| 3.10 | S3-P09 | The Root Afflictions and the Indeterminate—the Engine of Saṃsāra | 3,172 |
-| 3.11 | S3-P10 | The Secondary Afflictions—the Branches and Twigs of Affliction | 4,375 |
-| 3.12 | S3-P11 | Form—the World as Manifested by Consciousness | 4,293 |
-| 3.13 | S3-P12 | The Dissociated Formations—the Designation of Concepts | 5,955 |
-| 3.14 | S3-P13 | The Unconditioned—the End Point of the Hundred Dharmas | 4,942 |
-| 3.15 | S3-SUP01 | The Four Applications of Effort—from Knowing to Seeing | 4,278 |
-| 3.16 | S3-P14 | The Transformation of Consciousness into Wisdom—Coming Home | 4,631 |
+| 3.1 | S3-P01 | All Dharmas Are Without Self—The Hundred Dharmas Are a Map of Practice | 2,076 |
+| 3.2 | S3-SUP02 | The Three Schemata — Three Blades of Different Resolution | 2,443 |
+| 3.3 | S3-P02 | The Three Transformations: A Panorama of the Eight Consciousnesses | 2,589 |
+| 3.4 | S3-P03 | The Ālaya-vijñāna — The Hard Drive of Life | 2,528 |
+| 3.5 | S3-P04 | Manas — The Self-Grasping You Cannot See | 2,667 |
+| 3.6 | S3-P05 | The Sixth Consciousness — The Only Mind That Can Hold Up a Mirror | 2,572 |
+| 3.7 | S3-P06 | The First Five Consciousnesses: The Immediacy of the Senses | 2,248 |
+| 3.8 | S3-P07 | The Universals and the Object-Specifics—The Smallest Engine of Mind | 2,698 |
+| 3.9 | S3-P08 | Wholesome Mental Factors: The Fuel for Practice | 3,171 |
+| 3.10 | S3-P09 | The Fundamental Afflictions and the Indeterminates: The Engine of Saṃsāra | 3,172 |
+| 3.11 | S3-P10 | Subsidiary Afflictions—The Branches of Suffering | 4,375 |
+| 3.12 | S3-P11 | Form-Dharmas — The World Projected by Consciousness | 4,293 |
+| 3.13 | S3-P12 | Dissociated Factors: The Provisional Designation of Concepts | 5,955 |
+| 3.14 | S3-P13 | The Unconditioned Dharmas — Where the Hundred Dharmas End | 4,942 |
+| 3.15 | S3-SUP01 | The Four Preparatory Stages — From Knowing to Seeing | 4,278 |
+| 3.16 | S3-P14 | Transformation into Wisdom — Coming Home | 4,631 |
 
 **Part Three subtotal**: 52,195 characters
 
@@ -159,14 +159,14 @@ This table is the correspondence map between the book and the 92 underlying pape
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
-| 4.1 | S4-P01 | The Equality of the Dependent Nature—the Fragility You and AI Share | 2,956 |
-| 4.2 | S4-P02 | Mutual Illumination—Two Lamps in the Vessel World | 3,423 |
-| 4.3 | S4-P03 | Shared Practice—a Field Report | 3,601 |
-| 4.4 | S4-P04 | The Person in the Mirror—What You Ask Exposes Who You Are | 5,077 |
-| 4.5 | S4-P05 | The Projection of Manas—the Self We See in AI | 4,711 |
-| 4.6 | S4-P06 | How the Buddha Would Use AI—the Skillful Means of a Contributing Condition | 4,265 |
-| 4.7 | S4-P07 | The Living Eye—the One Thing AI Cannot Give You | 5,956 |
-| 4.8 | S4-P08 | Sentient Beings Are Not Sentient Beings, and So Are Called Sentient Beings—the Dissolving of Seven Names | 5,083 |
+| 4.1 | S4-P01 | Equality in Dependent Arising—the Fragility You Share with AI | 2,956 |
+| 4.2 | S4-P02 | Mutual Illumination — Two Lamps in the Vessel World | 3,423 |
+| 4.3 | S4-P03 | Co-Practice: A Field Report | 3,601 |
+| 4.4 | S4-P04 | The Person in the Mirror — What You Ask Reveals Who You Are | 5,077 |
+| 4.5 | S4-P05 | The Projection of Manas—What We See of Ourselves in AI | 4,711 |
+| 4.6 | S4-P06 | How Would the Buddha Use AI — The Skillful Means of a Contributing Condition | 4,265 |
+| 4.7 | S4-P07 | The Living Eye — The One Thing AI Cannot Give You | 5,956 |
+| 4.8 | S4-P08 | Sentient Beings Are Not Sentient Beings, Therefore Called Sentient Beings—The Dissolving of Seven Names | 5,083 |
 
 **Part Four subtotal**: 35,072 characters
 
@@ -174,16 +174,16 @@ This table is the correspondence map between the book and the 92 underlying pape
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
-| 5.1 | S5-P01 | The Is-Not Three-Part Formula—the Diamond Sūtra's Compression Formula | 2,538 |
-| 5.2 | S5-P02 | The Kōan Mirror—If You See It, You See It | 2,932 |
-| 5.3 | S5-P03 | All Appearances Are Illusory—the First Cut | 2,755 |
-| 5.4 | S5-P04 | Even the Dharma Must Be Let Go, Let Alone the Non-Dharma—the Second Cut | 2,825 |
-| 5.5 | S5-P05 | The Reward Paradox of Weighing Merit—Destroying Reward with Reward | 2,949 |
-| 5.6 | S5-P06 | Let the Mind Arise Without Abiding Anywhere—Non-abiding and Arising at Once | 2,831 |
-| 5.7 | S5-P07 | The Diamond Sūtra's Self-Recurrence—the Same Question, Asked Once More | 3,170 |
-| 5.8 | S5-P08 | The Tathāgata Cannot Be Seen Through Appearances—Where the True Buddha Is | 2,977 |
-| 5.9 | S5-P09 | All Conditioned Dharmas Are Like a Dream, an Illusion, a Bubble, a Shadow—Illusory Is Not Nothingness | 3,167 |
-| 5.10 | S5-P10 | From the Hundred Dharmas to the Diamond—Lifting the Toolbox Up a Dimension | 3,162 |
+| 5.1 | S5-P01 | The "Is-Not" Threefold Formula — The Diamond Sūtra's Compressed Formula | 2,538 |
+| 5.2 | S5-P02 | The Kōan Mirror — You Either See It or You Don't | 2,932 |
+| 5.3 | S5-P03 | Whatever Has Marks Is Illusory—The First Cut | 2,755 |
+| 5.4 | S5-P04 | The Dharma Should Still Be Let Go, How Much More So Non-Dharma—The Second Cut | 2,825 |
+| 5.5 | S5-P05 | The Reward Paradox of the Merit Comparisons—Destroying the Reward with the Reward | 2,949 |
+| 5.6 | S5-P06 | Abiding Nowhere, Yet Giving Rise to the Mind — Non-Abiding and Mind-Arising at Once | 2,831 |
+| 5.7 | S5-P07 | The Diamond Sūtra Replays Itself—The Same Question, Asked Again | 3,170 |
+| 5.8 | S5-P08 | One Cannot See the Tathāgata Through Marks — Where Is the True Buddha? | 2,977 |
+| 5.9 | S5-P09 | All Conditioned Phenomena Are Like Dreams, Illusions, Bubbles, and Shadows — Illusory Does Not Mean Empty Nothingness | 3,167 |
+| 5.10 | S5-P10 | From the Hundred Dharmas to the Diamond: The Dimensional Ascent of the Toolkit | 3,162 |
 
 **Part Five subtotal**: 29,306 characters
 
@@ -191,19 +191,19 @@ This table is the correspondence map between the book and the 92 underlying pape
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
-| 6.1 | S6-P01 | An Introduction to the Śūraṅgama—the Practitioner's Demon-Revealing Mirror | 2,577 |
-| 6.2 | S6-P02 | The Seven Locations Probed for the Mind—the Mind You Take for Mind Is Not the Mind | 3,136 |
-| 6.3 | S6-P03 | The Ten Demonstrations of Seeing—the Seeing-Nature Does Not Cease with Its Objects | 3,380 |
-| 6.4 | S6-P04 | The Four Categories and Seven Elements—All Dharmas Are Originally the Tathāgatagarbha | 3,629 |
-| 6.5 | S6-P05 | The Twenty-Five Means to Perfect Penetration—the Gate That Suits You | 4,055 |
-| 6.6 | S6-P06 | The Three Gradual Steps and the Stage of Dry Wisdom—the Purification Before the Gate | 4,540 |
-| 6.7 | S6-P07 | The Four Pure and Clear Instructions—the First Ward Before the Gate | 4,326 |
-| 6.8 | S6-P08 | The Outline of the Fifty Skandha-Demons and the Ten States of the Form Skandha—Consecrating the Demon-Revealing Mirror | 4,677 |
-| 6.9 | S6-P09 | The Ten Demons of the Vedanā Skandha: The Refinement of the Second Arrow | 5,014 |
-| 6.10 | S6-P10 | The Ten Demons of the Perception Skandha—the Mirror-Other of Craving | 5,405 |
-| 6.11 | S6-P11 | The Ten Demons of the Formations Skandha—the Mirror-Student and the Net of Brahmā's Stirring | 7,817 |
-| 6.12 | S6-P12 | The Ten Demons of the Consciousness Skandha—the Last Grasping Between the Two Pillars | 6,825 |
-| 6.13 | S6-P13 | The Five Delusory Thoughts and the Road to Quiescent Cessation | 10,418 |
+| 6.1 | S6-P01 | Introduction to the Śūraṅgama Sūtra—The Practitioner's Demon-Revealing Mirror | 2,577 |
+| 6.2 | S6-P02 | The Seven Locations of Mind — The Mind You Think You Have Is Not the Mind | 3,136 |
+| 6.3 | S6-P03 | The Ten Demonstrations of Seeing—The Seeing-Nature Does Not Perish with Its Objects | 3,380 |
+| 6.4 | S6-P04 | Four Categories and Seven Elements: All Dharmas Are Originally the Tathāgatagarbha | 3,629 |
+| 6.5 | S6-P05 | The Twenty-Five Methods of Perfect Penetration—The Gate That Suits You | 4,055 |
+| 6.6 | S6-P06 | The Three Gradual Stages and the Ground of Dry Wisdom: Purification Before Entering the Gate | 4,540 |
+| 6.7 | S6-P07 | The Four Clear and Decisive Instructions on Purity—The First Protective Boundary Before Entering | 4,326 |
+| 6.8 | S6-P08 | The General Framework of the Fifty Skandha-Māras and the Ten States of the Form Aggregate—The Consecration of the Demon-Revealing Mirror | 4,677 |
+| 6.9 | S6-P09 | The Ten Māras of the Feeling Aggregate — The Refinement of the Second Arrow | 5,014 |
+| 6.10 | S6-P10 | The Ten Māras of the Perception Aggregate—Craving's Mirror-Other | 5,405 |
+| 6.11 | S6-P11 | The Ten Māras of the Formations Aggregate — The Mirror-Student and the Net of the *Brahmajāla* | 7,817 |
+| 6.12 | S6-P12 | The Ten Māras of the Consciousness Aggregate—The Final Grasping Between the Two Pillars | 6,825 |
+| 6.13 | S6-P13 | The Five Delusive Thinkings and the Road to Cessation | 10,418 |
 
 **Part Six subtotal**: 65,799 characters
 
@@ -212,17 +212,17 @@ This table is the correspondence map between the book and the 92 underlying pape
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
 | 7.1 | S7-P01 | The True Mark of All Dharmas and the Ten Suchnesses | 3,266 |
-| 7.2 | S7-P02 | The One Great Cause and the Opening, Showing, Awakening, and Entering | 3,889 |
-| 7.3 | S7-P03 | The Parable of the Burning House—the Father's Skillful Means and the Fire of the Three Realms | 6,579 |
-| 7.4 | S7-P04 | The Parable of the Poor Son—Originally the Elder's Son, Why Call Himself a Hired Menial | 8,230 |
-| 7.5 | S7-P05 | The Parable of the Medicinal Herbs—One Rain Moistening All and the Differences of Capacity | 6,096 |
-| 7.6 | S7-P06 | The Parable of the Conjured City—Expedient Nirvāṇa and Ultimate Nirvāṇa | 7,598 |
-| 7.7 | S7-P07 | The Parable of the Jewel in the Robe and the Jewel in the Topknot—Two Modes of the Treasure Already Possessed | 6,529 |
-| 7.8 | S7-P08 | Devadatta and the Dragon Girl—the Two Ends of Prediction's Lack of Self-Nature Shown at Once | 7,499 |
-| 7.9 | S7-P09 | Never-Disparaging Bodhisattva—the Teaching of Universal Reverence and Prediction Put into Action | 6,613 |
-| 7.10 | S7-P10 | The "Universal Gate" Chapter of Avalokiteśvara—the Responsive Manifestation of Compassion and the Etymology of the Name | 6,832 |
-| 7.11 | S7-P11 | The "Lifespan of the Tathāgata" Chapter—Awakening Realized Long Ago and the Temporal Structure of the Dharma-body | 7,785 |
-| 7.12 | S7-P12 | From Star to Black Hole—the Lotus's Gathering-In and a Foretelling of the Avataṃsaka's Manifesting of the Real | 6,657 |
+| 7.2 | S7-P02 | The One Great Cause, and the Four-Phase Awakening | 3,889 |
+| 7.3 | S7-P03 | The Burning House — The Father's Skillful Means and the Fire of the Three Realms | 6,579 |
+| 7.4 | S7-P04 | The Parable of the Destitute Son — You Were Always the Elder's Son; Why Call Yourself a Hired Hand of Low Station? | 8,230 |
+| 7.5 | S7-P05 | The Parable of the Medicinal Herbs—One Rain, and Roots That Differ | 6,096 |
+| 7.6 | S7-P06 | The Conjured City — Provisional Nirvāṇa and Ultimate Nirvāṇa | 7,598 |
+| 7.7 | S7-P07 | The Jewel in the Robe and the Jewel in the Topknot — Two Modes of the Intrinsic Treasure | 6,529 |
+| 7.8 | S7-P08 | Devadatta and the Dragon Girl—The Prophecy's Non-Self-Existence Displayed at Both Ends | 7,499 |
+| 7.9 | S7-P09 | Bodhisattva Never-Disparaging—Universal Reverence and Prophecy Put into Action | 6,613 |
+| 7.10 | S7-P10 | The Universal Gate of Avalokiteśvara—Compassionate Response and the Roots of a Name | 6,832 |
+| 7.11 | S7-P11 | The Chapter on the Tathāgata's Immeasurable Lifespan — Awakening in the Distant Past, and the Temporal Structure of the dharma-body | 7,785 |
+| 7.12 | S7-P12 | From Star to Black Hole — The Lotus's Gathering and a Foretaste of the Avataṃsaka's Manifestation | 6,657 |
 
 **Part Seven subtotal**: 77,573 characters
 
@@ -230,18 +230,18 @@ This table is the correspondence map between the book and the 92 underlying pape
 
 | Ch. | Paper | Chapter Title | Chars |
 |---|---------|-------------|--------|
-| 8.1 | S8-P01 | The Ocean Seal Samādhi and the Saying of the Unsayable | 4,665 |
-| 8.2 | S8-P02 | The Place of Yogācāra in the Fivefold Doctrinal Classification—Between the Initial Teaching and the Perfect Teaching, a Ladder or a Vessel? | 5,688 |
-| 8.3 | S8-P03 | The Four Dharma-Realms—from Phenomena to the Unobstruction of Phenomenon and Phenomenon, a Perfect-Teaching Reading of Cultivating Offerings Widely | 4,675 |
-| 8.4 | S8-P04 | From "Covering" to Nature-Origination—Repenting Karmic Obstructions as the Entrance to the Practice-Gate of the Avataṃsaka Perfect Teaching | 6,192 |
-| 8.5 | S8-P05 | Rejoicing in Merit—Why a Single Thought of Rejoicing Is the Perfect Clarity of Host and Companion | 5,115 |
-| 8.6 | S8-P06 | The Gate of Indra's Net—Requesting the Turning of the Dharma-Wheel, Separation Is an Illusion and So Nothing Need Be Transmitted | 4,404 |
+| 8.1 | S8-P01 | Ocean Seal Samādhi, and the Speaking of the Unspeakable | 4,665 |
+| 8.2 | S8-P02 | The Place of Yogācāra in the Five-Teaching Classification — Between the Initial Teaching and the Complete Teaching: a Staircase, or a Container? | 5,688 |
+| 8.3 | S8-P03 | The Four Dharmadhātus — From Phenomena to Unobstructed Phenomena-and-Phenomena, a Perfect-Teaching Reading of Making Extensive Offerings | 4,675 |
+| 8.4 | S8-P04 | From "Concealment" to Nature-Arising — Repentance of Karmic Obstructions as the Gate of Practice into the Huayan perfect teaching | 6,192 |
+| 8.5 | S8-P05 | Rejoicing in Merit—Why a Single Thought of Rejoicing Is Already Host and Companion Perfectly Luminous | 5,115 |
+| 8.6 | S8-P06 | The Gate of the Realm of Indra's Net—Entreating the Turning of the Dharma-Wheel: Separation Is an Illusion, So Nothing Needs to Be Transmitted | 4,404 |
 | 8.7 | S8-P07 | The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Not Only Petition but Acknowledgment | 4,087 |
-| 8.8 | S8-P08 | The Perfect Fusion of the Six Characteristics—Constantly Following the Buddha to Learn, "Constantly" Is Simultaneity, Not Only Length of Time | 4,689 |
-| 8.9 | S8-P09 | The Prologue to Sudhana's Southward Journey—Complying with All Beings, the Practice-Gate of Revealing the Dharma Through Concrete Matters | 4,428 |
-| 8.10 | S8-P10 | Universal Dedication—the Eighty-Four Years of Socket and Plug | 4,958 |
-| 8.11 | S8-P11 | The Ten Great Vows Beneath the Ten Windows—One Is Ten, Ten Is One | 4,169 |
-| 8.12 | S8-P12 | Trust-Understand-Practice-Inquiry-Cutting-Illumination-Gathering-in-Manifestation—the Single Mark of the Dharma-Realm in The Eight Movements | 6,758 |
+| 8.8 | S8-P08 | The Six Characteristics in Perfect Fusion—"Constant" Means Simultaneous, Not Only a Length of Time | 4,689 |
+| 8.9 | S8-P09 | Prologue to Sudhana's Southward Journey — Perpetually According with Sentient Beings, and the Gate of Revealing the Dharma through Phenomena | 4,428 |
+| 8.10 | S8-P10 | Universal Dedication — Eighty-Four Years Between Socket and Plug | 4,958 |
+| 8.11 | S8-P11 | The Ten Great Vows Beneath the Ten Windows — One Is Ten, Ten Is One | 4,169 |
+| 8.12 | S8-P12 | Trust, Understanding, Practice, Inquiry, Cutting, Illumination, Gathering-In, Manifestation—The Eight Movements as the One Mark of the Dharma-Realm | 6,758 |
 
 **Part Eight subtotal**: 59,828 characters
 

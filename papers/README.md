@@ -116,7 +116,7 @@
 | 6 | S6-P06 | [三種漸次與乾慧地_進門前的淨化](S6-P06_三種漸次與乾慧地_進門前的淨化.md) | [EN](S6-P06_three-gradual-stages-ground-of-dry-wisdom.md) |
 | 7 | S6-P07 | [四種清淨明誨_進門之前的第一道結界](S6-P07_四種清淨明誨_進門之前的第一道結界.md) | [EN](S6-P07_four-clear-and-decisive-instructions-on-purity.md) |
 | 8 | S6-P08 | [五十陰魔總綱與色陰十境_照妖鏡的開光](S6-P08_五十陰魔總綱與色陰十境_照妖鏡的開光.md) | [EN](S6-P08_fifty-skandha-maras-ten-states-of-form-aggregate.md) |
-| 9 | S6-P09 | [受陰十魔_第二支箭的精微化](S6-P09_受陰十魔_第二支箭的精微化.md) | [EN](S6-P09_ten-demons-of-the-vedanā-skandha.md) |
+| 9 | S6-P09 | [受陰十魔_第二支箭的精微化](S6-P09_受陰十魔_第二支箭的精微化.md) | [EN](S6-P09_ten-demons-of-the-vedana-skandha.md) |
 | 10 | S6-P10 | [想陰十魔_貪求的鏡像他者](S6-P10_想陰十魔_貪求的鏡像他者.md) | [EN](S6-P10_ten-maras-of-perception-aggregate.md) |
 | 11 | S6-P11 | [行陰十魔_鏡像學生與梵動之網](S6-P11_行陰十魔_鏡像學生與梵動之網.md) | [EN](S6-P11_ten-maras-of-the-formations-aggregate.md) |
 | 12 | S6-P12 | [識陰十魔_兩楹之間的最後認取](S6-P12_識陰十魔_兩楹之間的最後認取.md) | [EN](S6-P12_ten-snares-of-consciousness-aggregate.md) |
@@ -133,8 +133,8 @@
 | 2 | S7-P02 | [一大事因緣_開示悟入_會三歸一](S7-P02_一大事因緣_開示悟入_會三歸一.md) | [EN](S7-P02_the-one-great-cause-four-phase-awakening.md) |
 | 3 | S7-P03 | [火宅喻_父之方便與三界之火](S7-P03_火宅喻_父之方便與三界之火.md) | [EN](S7-P03_the-burning-house-fathers-skillful-means-and-fire-of-three-realms.md) |
 | 4 | S7-P04 | [窮子喻_本是長者子何以自謂客作賤人](S7-P04_窮子喻_本是長者子何以自謂客作賤人.md) | [EN](S7-P04_the-prodigal-son-you-were-always-the-heir.md) |
-| 5 | S7-P05 | [藥草喻_一雨普潤與根器差別](S7-P05_藥草喻_一雨普潤與根器差別.md) | [EN](S7-P05_medicinal-herbs_one-rain-differentiated-reception.md) |
-| 6 | S7-P06 | [化城喻_方便涅槃與究竟涅槃](S7-P06_化城喻_方便涅槃與究竟涅槃.md) | [EN](S7-P06_The_Conjured_City.md) |
+| 5 | S7-P05 | [藥草喻_一雨普潤與根器差別](S7-P05_藥草喻_一雨普潤與根器差別.md) | [EN](S7-P05_medicinal-herbs-one-rain-differentiated-reception.md) |
+| 6 | S7-P06 | [化城喻_方便涅槃與究竟涅槃](S7-P06_化城喻_方便涅槃與究竟涅槃.md) | [EN](S7-P06_the-conjured-city.md) |
 | 7 | S7-P07 | [衣珠髻珠_本有寶藏的兩種模式](S7-P07_衣珠髻珠_本有寶藏的兩種模式.md) | [EN](S7-P07_robe-jewel-topknot-jewel.md) |
 | 8 | S7-P08 | [授記無自性_兩端同時展示](S7-P08_授記無自性_兩端同時展示.md) | [EN](S7-P08_non-self-existent-prophecy-displayed-at-both-ends.md) |
 | 9 | S7-P09 | [常不輕菩薩_普敬法門與授記的行動化](S7-P09_常不輕菩薩_普敬法門與授記的行動化.md) | [EN](S7-P09_sadaparibhuta-universal-reverence.md) |
@@ -151,7 +151,7 @@
 |---|------|------|---------|
 | 1 | S8-P01 | [海印三昧與不可說的說](S8-P01_海印三昧與不可說的說.md) | [EN](S8-P01_ocean-seal-samadhi-speaking-the-unspeakable.md) |
 | 2 | S8-P02 | [五教判中的唯識位置](S8-P02_五教判中的唯識位置.md) | [EN](S8-P02_position-of-yogacara-in-five-teaching-classification.md) |
-| 3 | S8-P03 | [四法界_廣修供養的圓教讀法](S8-P03_四法界_廣修供養的圓教讀法.md) | [EN](S8-P03_The_Four_Dharmadhatus.md) |
+| 3 | S8-P03 | [四法界_廣修供養的圓教讀法](S8-P03_四法界_廣修供養的圓教讀法.md) | [EN](S8-P03_the-four-dharmadhatus.md) |
 | 4 | S8-P04 | [懺悔作為性起入口](S8-P04_懺悔作為性起入口.md) | [EN](S8-P04_from-concealment-to-nature-arising.md) |
 | 5 | S8-P05 | [隨喜功德與主伴圓明具德門](S8-P05_隨喜功德與主伴圓明具德門.md) | [EN](S8-P05_rejoicing-in-merit-and-perfect-luminous-host-companion.md) |
 | 6 | S8-P06 | [因陀羅網境界門與請轉法輪](S8-P06_因陀羅網境界門與請轉法輪.md) | [EN](S8-P06_indras-net-and-requesting-the-dharma-wheel.md) |
