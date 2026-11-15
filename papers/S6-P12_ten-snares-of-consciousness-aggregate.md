@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P12"
 paper_number: 12
 date: "2026-04"
-version: "v1.1"
+version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Ten Snares of the Consciousness Aggregate

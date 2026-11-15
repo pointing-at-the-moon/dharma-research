@@ -5,7 +5,7 @@ series_short: "S1"
 paper_id: "S1-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Butterfly Effect of Initial Aspiration
