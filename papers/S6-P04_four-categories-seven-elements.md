@@ -57,9 +57,9 @@ The Buddha uses five vividly concrete analogies to expose, one by one, the illus
 
 You stare at a clear sky long enough and you begin to see floating patterns. Those patterns are not in the sky, nor do they come from your eyes. The form aggregate works the same way: what you take to be a solid material world is a "fatigue-of-staring" (*dèng yǐ fā láo* 瞪以發勞) — an appearance on the originally pure tathāgatagarbha produced by fixation.
 
-**Sensation aggregate — "insubstantial luminous" delusion** (*xūmíng wàngxiǎng* 虛明妄想). The analogy is rubbing the palms together in empty air:
+**Feeling aggregate — "insubstantial luminous" delusion** (*xūmíng wàngxiǎng* 虛明妄想). The analogy is rubbing the palms together in empty air:
 
-> "Ānanda! Suppose a person whose limbs are at ease and body well adjusted, suddenly as if forgetting he is alive, with a nature free from pleasure or pain. For no reason he rubs his two palms together in empty space, and between his two hands there falsely arise sensations of roughness, smoothness, cold, and heat… Therefore you should know that the sensation aggregate is illusory; it is originally neither caused by conditions nor arising from a self-nature."[^3]
+> "Ānanda! Suppose a person whose limbs are at ease and body well adjusted, suddenly as if forgetting he is alive, with a nature free from pleasure or pain. For no reason he rubs his two palms together in empty space, and between his two hands there falsely arise sensations of roughness, smoothness, cold, and heat… Therefore you should know that the feeling aggregate (*vedanā-skandha*, 受陰) is illusory; it is originally neither caused by conditions nor arising from a self-nature."[^3]
 
 **Perception aggregate — "interpenetrating" delusion** (*róngtōng wàngxiǎng* 融通妄想). The analogy is hearing about sour plums:
 

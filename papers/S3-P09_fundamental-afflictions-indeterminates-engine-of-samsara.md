@@ -143,11 +143,11 @@ If the Āgamas provide the foundational taxonomy of affliction, the Śūraṅgam
 
 "The mind not clearly seeing, one takes the thief for one's own child." These four characters are the core of the entire fifty skandha-demon teaching — the greatest danger of affliction lies not in its power but in the practitioner's mistaking affliction for realization. This is perfectly consonant with the Yogācāra definition of ignorance as "darkness regarding principles and things."
 
-Among the ten demons of the sensation-aggregate, all six root afflictions manifest. The mad-demon of pride is especially vivid:
+Among the ten demons of the feeling-aggregate, all six root afflictions manifest. The mad-demon of pride is especially vivid:
 
 > 「感激過分……謂三僧祇一念能越。……若作聖解，則有狂魔入其心腑，見人則誇，我慢無比。」[^19]
 
-"Excessive exaltation … claiming to surpass three incalculable eons in a single thought. … If one takes this as saintly realization, the mad demon enters one's heart — boasting to everyone, pride beyond compare."
+"Excessive exaltation … claiming to surpass three incalculable eons in a single thought. … If one takes this as a holy interpretation (若作聖解), the mad demon enters one's heart — boasting to everyone, pride beyond compare."
 
 The great-pride demon even more dramatically:
 
@@ -159,7 +159,7 @@ The emptiness-demon corresponds to the extreme form of ignorance:
 
 > 「撥無因果，一向入空。……若作聖解，則有空魔入其心腑，乃謗持戒名為小乘。」[^21]
 
-"Denying causality, plunging entirely into emptiness. … If one takes this as saintly realization, the emptiness-demon enters one's heart — slandering those who uphold precepts as 'Hīnayāna.'"
+"Denying causality, plunging entirely into emptiness. … If one takes this as a holy interpretation, the emptiness-demon enters one's heart — slandering those who uphold precepts as 'Hīnayāna.'"
 
 The desire-demon reveals craving's transformation during practice:
 
@@ -471,7 +471,7 @@ The five views have a strict genetic sequence: self-view → extreme views → w
 
 **Pride's** seven varieties (conceit, over-conceit, conceit-exceeding-conceit, self-conceit, superiority conceit, inferiority conceit, wrong conceit) display the many faces of self-exaltation. "Inferiority conceit" deserves special note — "deeming oneself only slightly inferior to the greatly superior" — seemingly humble, yet still comparing, still conceit.
 
-Khemaka's experience is pride's finest clinical case.[^88] The Śūraṅgama-sūtra's sensation-aggregate demons dramatize it further — seven types of conceit "erupting simultaneously, one's mind even looking down upon the Tathāgatas of the ten directions."[^89] From the Yogācāra perspective, Khemaka had severed discriminatively-arisen self-view (path of seeing) but not yet cleared innately-arisen self-conceit (the target of the path of cultivation).
+Khemaka's experience is pride's finest clinical case.[^88] The Śūraṅgama-sūtra's feeling-aggregate demons dramatize it further — seven types of conceit "erupting simultaneously, one's mind even looking down upon the Tathāgatas of the ten directions."[^89] From the Yogācāra perspective, Khemaka had severed discriminatively-arisen self-view (path of seeing) but not yet cleared innately-arisen self-conceit (the target of the path of cultivation).
 
 **Doubt** appears mild but is lethal. "Vacillation as its nature; its function is to obstruct wholesome qualities"[^90] — doubt's harm is not in doing wrong but in doing nothing. Wholesome qualities simply fail to arise.
 
@@ -706,7 +706,7 @@ Next, we turn to the fifth category of mental factors — the twenty subsidiary 
 [^16]: *Saṃyuktāgama*, fasc. 24 (Sūtra 611): five hindrances as the unwholesome aggregate. *Taishō* Vol. 2, No. 0099.
 [^17]: *Saṃyuktāgama*, fasc. 27 (Sūtra 715): complete treatment table for the five hindrances. *Taishō* Vol. 2, No. 0099.
 [^18]: *Śūraṅgama-sūtra* 楞嚴經, fasc. 9: 「心中不明，認賊為子」 *Taishō* Vol. 19, No. 0945.
-[^19]: *Śūraṅgama-sūtra*, fasc. 9: the mad-demon of pride in the sensation-aggregate. *Taishō* Vol. 19, No. 0945.
+[^19]: *Śūraṅgama-sūtra*, fasc. 9: the mad-demon of pride in the feeling-aggregate. *Taishō* Vol. 19, No. 0945.
 [^20]: *Śūraṅgama-sūtra*, fasc. 9: the great-pride demon — seven types of conceit erupting simultaneously. *Taishō* Vol. 19, No. 0945.
 [^21]: *Śūraṅgama-sūtra*, fasc. 9: the emptiness-demon — denying causality. *Taishō* Vol. 19, No. 0945.
 [^22]: *Śūraṅgama-sūtra*, fasc. 9: the desire-demon — 「愛極發狂，便為貪欲」 *Taishō* Vol. 19, No. 0945.

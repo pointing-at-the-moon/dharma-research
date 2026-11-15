@@ -212,9 +212,9 @@ The general principle of the feeling-aggregate domain:
 
 The first type of feeling-aggregate deviation is highly representative:
 
-> "The mind develops brightness and is excessively suppressed inward, whereupon boundless grief suddenly arises… even seeing mosquitoes as if they were infants, giving rise to pity and shedding tears unknowingly. This is called the overexertion of functional suppression. If understood, there is no fault — it is not saintly attainment. If one takes it as saintly attainment, then a grief-demon enters the chambers of one's mind."[^30]
+> "The mind develops brightness and is excessively suppressed inward, whereupon boundless grief suddenly arises… even seeing mosquitoes as if they were infants, giving rise to pity and shedding tears unknowingly. This is called the overexertion of functional suppression. If understood, there is no fault — it is not saintly attainment. If one takes it as a holy interpretation (若作聖解), then a grief-demon enters the chambers of one's mind."[^30]
 
-The practitioner, due to excessive inner suppression, suddenly generates boundless compassion — seeing insects as infants, weeping uncontrollably. This is not the great compassion of a sage but a manifestation of feeling gone awry: the "receiving" function of feeling has become oversensitized, amplifying every encounter into emotional impact. The key phrase: "If one takes it as saintly attainment, then a demon enters" — mistaking feeling's dysfunction for realization opens the door to demonic influence.
+The practitioner, due to excessive inner suppression, suddenly generates boundless compassion — seeing insects as infants, weeping uncontrollably. This is not the great compassion of a sage but a manifestation of feeling gone awry: the "receiving" function of feeling has become oversensitized, amplifying every encounter into emotional impact. The key phrase: "If one takes it as a holy interpretation, then a demon enters" — mistaking feeling's dysfunction for realization opens the door to demonic influence.
 
 The perception-aggregate domain is equally sobering:
 

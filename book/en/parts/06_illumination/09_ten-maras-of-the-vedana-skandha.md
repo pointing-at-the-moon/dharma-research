@@ -27,7 +27,7 @@ The answer is: **the second arrow has not vanished. It has become invisible.**
 
 ### The Refinement of the Two Arrows in the Depths of Absorption
 
-The central claim of this chapter can be stated in a single sentence: **the ten māras of the feeling aggregate are not a new category of demonic territory invented by the *Śūraṅgama Sūtra*; they are the refined return, at the depths of absorption, of the early canon's "second arrow."**
+The central claim of this chapter can be stated in a single sentence: **the ten māras of the feeling aggregate (*vedanā-skandha*, 受陰) are not a new category of demonic territory invented by the *Śūraṅgama Sūtra*; they are the refined return, at the depths of absorption, of the early canon's "second arrow."**
 
 But first we must answer the question left hanging from the last chapter—**why is the feeling aggregate harder than the form aggregate?**
 
@@ -59,7 +59,7 @@ The root of the form aggregate is "solid false thinking" (the fixedness of the s
 
 ### The Ten Māras of the Feeling Aggregate
 
-Below we walk through the ten māras one by one. The textual structure of each is the same formula (only the ninth lacks the "this is called" clause)—**occasion of arising → excessive reaction → "this is called X" → "recognized, there is no harm, for it is not sagely realization; taken as sagely realization, the X-māra enters his heart-organ" → he loses correct *samādhi* and falls into sinking destruction.**
+Below we walk through the ten māras one by one. The textual structure of each is the same formula (only the ninth lacks the "this is called" clause)—**occasion of arising → excessive reaction → "this is called X" → "recognized, there is no harm, for it is not sagely realization; taken as a holy interpretation (若作聖解), the X-māra enters his heart-organ" → he loses correct *samādhi* and falls into sinking destruction.**
 
 **The first māra: the māra of pity.** Attaining great radiance, his inward suppression goes to excess, and suddenly boundless pity arises. Seeing even mosquitoes and gnats as his own infants, he weeps without noticing. This is called "the function of self-reproach gone to excess"—to spur and reproach oneself was a means of breaking the feeling aggregate, but suppression in excess gives rise to a pathological pity.
 
@@ -81,7 +81,7 @@ Below we walk through the ten māras one by one. The textual structure of each i
 
 **The tenth māra: the māra of desire.** **Savoring the empty-luminous, he lets it penetrate to the bone.** Suddenly his heart gives rise to boundless love; **love at its peak becomes derangement, and so becomes lust.** He gathers white-robed lay followers to practice desire as equals, and names the fornicators "true sons of the Dharma." This is called "the meditative state settling smoothly into the heart, entering without the wisdom to hold oneself."
 
-The verdict on all ten māras is the same formula: **recognized, there is no harm, for it is not sagely realization; taken as sagely realization, he loses correct *samādhi* and falls into sinking destruction.**
+The verdict on all ten māras is the same formula: **recognized, there is no harm, for it is not sagely realization; taken as a holy interpretation, he loses correct *samādhi* and falls into sinking destruction.**
 
 ### Five Paired Reverse-Overextensions
 

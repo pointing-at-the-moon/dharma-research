@@ -65,7 +65,7 @@ Curiously, the "theoretical general framework" of the fifty skandha-māras does 
 The Buddha then specifies the type of false thought for each aggregate. These five names were already brought out earlier, in the part on the four categories and seven elements, through the Buddha's five similes (the staring eyes, the rubbed hands, the mouth watering at sour plums, the rushing torrent, the kalaviṅka-jar lifting empty space); now, in the context of discerning māra, they are formally named:
 
 - **The form aggregate**—solidified false thought: the solid clinging to the body (the coalescence of the four great elements)
-- **The receptive aggregate**—empty-bright false thought: the grasping at sensation
+- **The feeling aggregate (*vedanā-skandha*, 受陰)**—empty-bright false thought: the grasping at sensation
 - **The perceptive aggregate**—penetrating-merging false thought: the interfusion between thought and body
 - **The formative aggregate**—hidden-subtle false thought: the most concealed impulsion of the will
 - **The consciousness aggregate**—imagistic, empty, upside-down false thought: the deepest structure of cognition
@@ -136,11 +136,11 @@ This is the outermost, most interpersonal layer of the form aggregate. Strikingl
 
 The first nine states share a common adjudicative formula:
 
-> ...it is not a sagely attainment. If not construed as sagely, it is called a wholesome state; if construed as sagely, one receives the host of demons.
+> ...it is not a sagely attainment. If not construed as sagely, it is called a wholesome state; if taken as a holy interpretation (若作聖解), one receives the host of demons.
 
 But at the tenth state the formula changes:
 
-> ...it is not a sagely attainment. If not construed as sagely, **the māra-events will dissipate**; if construed as sagely, one receives the host of demons.
+> ...it is not a sagely attainment. If not construed as sagely, **the māra-events will dissipate**; if taken as a holy interpretation, one receives the host of demons.
 
 "It is called a wholesome state" becomes "the māra-events will dissipate." This rupture in the wording is no idle variation. It is a **structural turning point**.
 
@@ -150,7 +150,7 @@ The tenth state is different. The sūtra says "this is the perverse mind receivi
 
 Master Zǐxuán makes the point precisely: "This section is not a wholesome state; it is purely māra-harassment, differing from the preceding text." Master Jiāoguāng is more exact still: "As the form aggregate is about to shatter and is shaken to its foundations, the māra-mind rises in fury at that very moment; this is why māra-harassment begins here."
 
-This also echoes the passage on "palaces crumbling"—when the practitioner's form aggregate is about to be broken through, the māra-king's palace genuinely feels the tremor, and only then does he intervene in person. The "māra" of the first nine states is all the projection of the practitioner's own form-aggregate delusion; the tenth state is the first true external māra. It is the bridge from the ten states of the form aggregate to the ten māras of the receptive aggregate.
+This also echoes the passage on "palaces crumbling"—when the practitioner's form aggregate is about to be broken through, the māra-king's palace genuinely feels the tremor, and only then does he intervene in person. The "māra" of the first nine states is all the projection of the practitioner's own form-aggregate delusion; the tenth state is the first true external māra. It is the bridge from the ten states of the form aggregate to the ten māras of the feeling aggregate.
 
 The practical meaning for the meditator is this: **the first nine states you can handle by yourself—so long as you do not construe them as sagely, they return automatically to the category of wholesome states. At the tenth state you must be on guard—because this is no longer your own delusion but the beginning of a true external māra at work.**
 
@@ -172,7 +172,7 @@ The ingenuity of this criterion is that **it does not require you to destroy the
 
 ### The Misunderstanding of the Ābhassara Devas
 
-The error of "construing as sagely" has, in the Āgamas, a cosmological version—the story of the Ābhassara deva who mistook himself for the creator.
+The error of "forming a holy interpretation" has, in the Āgamas, a cosmological version—the story of the Ābhassara deva who mistook himself for the creator.
 
 After the fire-age and the dissolution of the world, certain Ābhassara devas, their merit exhausted, descend and are reborn into the empty Brahma heaven. The first of these beings to descend sees the whole world empty of everything, and a loneliness arises in his heart. Then the other beings descend, one after another. The first to arrive, seeing the later ones appearing in succession, draws a mistaken inference—**it is because of my wish that these beings have appeared**. And so he names himself the Great Brahmā, declares himself the creator.
 
@@ -180,7 +180,7 @@ Why is this Great Brahmā mistaken? Because he knows only two facts: one, I exis
 
 The error of this inference is that **priority in time is not causal agency**. My existing before the others does not mean I am the cause of their existence; the true cause is their own exhaustion of merit, life, and karma, which brought about their descent.
 
-This psychological mechanism corresponds exactly to "construing as sagely" in the ten form-aggregate states. In concentration the meditator sees light, sees Buddhas, sees jeweled colors—these states do appear within his meditative experience; that is a fact. But the meditator then infers, mistakenly: these states appear in my meditative experience, therefore they are proof of my awakening. **The very same error**—the priority of a state's appearing is not the causal agency of awakening. That a state appears within your meditative experience does not mean you are the one who realizes it; the true cause is that your power of meditative observation has momentarily transcended the interplay with form-aggregate delusion, which has nothing to do with your personal attainment.
+This psychological mechanism corresponds exactly to "forming a holy interpretation" in the ten form-aggregate states. In concentration the meditator sees light, sees Buddhas, sees jeweled colors—these states do appear within his meditative experience; that is a fact. But the meditator then infers, mistakenly: these states appear in my meditative experience, therefore they are proof of my awakening. **The very same error**—the priority of a state's appearing is not the causal agency of awakening. That a state appears within your meditative experience does not mean you are the one who realizes it; the true cause is that your power of meditative observation has momentarily transcended the interplay with form-aggregate delusion, which has nothing to do with your personal attainment.
 
 This error has a name—**overestimation**. Not obvious arrogance, but an exquisitely subtle cognitive error: mistaking a phenomenon produced by the coalescence of conditions for an accomplishment of one's own subject.
 
@@ -192,16 +192,16 @@ The ten form-aggregate states yield three concrete principles for the contempora
 
 **Second, the demon-revealing mirror is for looking at oneself, not at others.** This is of the greatest importance. One of the commonest misuses in the Latter Dharma age is exactly this—taking the entries of the fifty skandha-māras as weapons, using them to accuse other meditators: "you have gone astray in such-and-such a form-aggregate state," "yours is such-and-such of the ten perception-māras." This entirely violates the original intent of the Śūraṅgama. Zǐxuán states plainly, "if one dismisses it all as māra, one suppresses the function of wholesome effort"—if one may not lightly judge even one's *own* states as māra, how much less another's? **The demon-revealing mirror can only reflect oneself; turned upon another, what it reflects is not the other's māra but one's own conceit.** (That the mirror is only for reflecting oneself is this book's exhortation—this is the author's interpretation.) This was already established in chapter one of this part; here it is confirmed again.
 
-**Third, if the host is not deluded, the māra-events dissipate of themselves.** The host-and-guest discourse tells us that māra has no independent power to harm; all power to harm derives from the practitioner's own delusion. So long as the host (the awakening of the five aggregates) is not deluded, any māra-event dissipates automatically. This does not mean you should set about "counteracting" each state—indeed, the very attempt to counteract is itself a form of construing as sagely (in the sūtra, "construing as sagely" means taking a state for a sagely attainment; counting counteraction as a form of it is this book's extension—this is the author's interpretation). The right posture is **to sustain the original, undeluded condition, and let the states come and go on their own**. Your proper business is to keep turning hearing inward, to keep entering the stream; the states will handle themselves.
+**Third, if the host is not deluded, the māra-events dissipate of themselves.** The host-and-guest discourse tells us that māra has no independent power to harm; all power to harm derives from the practitioner's own delusion. So long as the host (the awakening of the five aggregates) is not deluded, any māra-event dissipates automatically. This does not mean you should set about "counteracting" each state—indeed, the very attempt to counteract is itself a form of forming a holy interpretation (in the sūtra, "forming a holy interpretation" means taking a state for a sagely attainment; counting counteraction as a form of it is this book's extension—this is the author's interpretation). The right posture is **to sustain the original, undeluded condition, and let the states come and go on their own**. Your proper business is to keep turning hearing inward, to keep entering the stream; the states will handle themselves.
 
-The form aggregate is the trap of the body; the receptive aggregate is the trap of sensation. The next chapter—the ten māras of the receptive aggregate—deals with something harder than the form aggregate.
+The form aggregate is the trap of the body; the feeling aggregate is the trap of sensation. The next chapter—the ten māras of the feeling aggregate—deals with something harder than the form aggregate.
 
-Harder in what way? Each of the ten form-aggregate states has a definite phenomenal content (the body passing through obstruction, seeing Buddhas, hearing voices, and so on); you need only refrain from construing that content as sagely, and the first nine fall into the category of wholesome states (the tenth reads instead "the māra-events will dissipate"). But the receptive aggregate deals with **sensation itself**—grief, joy, recollection, contentment, anxiety, happiness, arrogance, lightness, emptiness, desire—and these sensations have no definite "phenomenal content"; they *are* the state of the mind itself.
+Harder in what way? Each of the ten form-aggregate states has a definite phenomenal content (the body passing through obstruction, seeing Buddhas, hearing voices, and so on); you need only refrain from construing that content as sagely, and the first nine fall into the category of wholesome states (the tenth reads instead "the māra-events will dissipate"). But the feeling aggregate deals with **sensation itself**—grief, joy, recollection, contentment, anxiety, happiness, arrogance, lightness, emptiness, desire—and these sensations have no definite "phenomenal content"; they *are* the state of the mind itself.
 
 You can refuse to construe "seeing Buddhas" as a sagely attainment (the fourth form-aggregate state), but how do you refuse to construe "profound peace and bliss" as awakening? You can refuse to construe "seeing in a dark room" as a supernormal power (the sixth form-aggregate state), but how do you refuse to construe the feeling that "all attachment has been let go" as liberation?
 
-The receptive aggregate is more dangerous than the form aggregate precisely because sensation is the very thing the meditator has been pursuing all along—one of the aims of *dhyāna* itself is peace and joy, and when true peace and joy arrive, how can one not cling?
+The feeling aggregate is more dangerous than the form aggregate precisely because sensation is the very thing the meditator has been pursuing all along—one of the aims of *dhyāna* itself is peace and joy, and when true peace and joy arrive, how can one not cling?
 
-Master Jiāoguāng gives a clear pointer here: the ten form-aggregate states "are only the beginner's mind manifesting of itself; there is as yet no external māra" (at the tenth, as noted above, māra-harassment already begins); the ten receptive-aggregate māras "have already summoned external māras, which, however, slip covertly into the body"—and the point of entry for the external māra is precisely the practitioner's clinging to sensation.
+Master Jiāoguāng gives a clear pointer here: the ten form-aggregate states "are only the beginner's mind manifesting of itself; there is as yet no external māra" (at the tenth, as noted above, māra-harassment already begins); the ten feeling-aggregate māras "have already summoned external māras, which, however, slip covertly into the body"—and the point of entry for the external māra is precisely the practitioner's clinging to sensation.
 
 That turning is the subject of the next chapter.

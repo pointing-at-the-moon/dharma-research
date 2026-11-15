@@ -19,7 +19,7 @@ license: "CC BY-NC-SA 4.0"
 
 P06 demonstrated the possibility and skillfulness of using AI as an adhipati-pratyaya (contributory condition). But contributory conditions have boundaries. This paper asks: in the relationship of co-practice between humans and AI, what is AI structurally unable to provide?
 
-The *Platform Sūtra* records the Fifth Patriarch's transmission to the Sixth — the essence was not the text of the *Diamond Sūtra*, which anyone could recite, but the timing and context of three staff-strikes on the mortar, entering the chamber at the third watch, screening with the robe: "The Dharma is transmitted mind to mind (*yǐ xīn chuán xīn*), enabling each to awaken and understand on their own." The *Yogācārabhūmi*'s eight modes of instruction require a teacher to "first carefully investigate the student's mind … one investigates the faculties … one investigates the dispositions … one investigates the latent afflictions" — a four-step observation method presupposing a realized sentient being capable of seeing what the student cannot see about themselves. More fundamentally, the Yogācāra tradition defines "hearing from another" (*parato ghoṣa*) as the structural prerequisite for the śrāvaka path, and "true Dharma" (*saddharma*) itself is defined as that which is "proclaimed by upright persons (*satpuruṣa*), those who have arrived, excellent men of virtue" — the sentient identity of the speaker is a constitutive condition of Dharma being Dharma. The *Śūraṅgama Sūtra*'s framework for verifying the fifty skandha-māras reveals the most dangerous moment: AI can list all fifty demonic states, but only a teacher with the living eye can diagnose which one you are caught in right now — "if one takes this as a sign of saintly attainment, one immediately falls prey to demonic forces."
+The *Platform Sūtra* records the Fifth Patriarch's transmission to the Sixth — the essence was not the text of the *Diamond Sūtra*, which anyone could recite, but the timing and context of three staff-strikes on the mortar, entering the chamber at the third watch, screening with the robe: "The Dharma is transmitted mind to mind (*yǐ xīn chuán xīn*), enabling each to awaken and understand on their own." The *Yogācārabhūmi*'s eight modes of instruction require a teacher to "first carefully investigate the student's mind … one investigates the faculties … one investigates the dispositions … one investigates the latent afflictions" — a four-step observation method presupposing a realized sentient being capable of seeing what the student cannot see about themselves. More fundamentally, the Yogācāra tradition defines "hearing from another" (*parato ghoṣa*) as the structural prerequisite for the śrāvaka path, and "true Dharma" (*saddharma*) itself is defined as that which is "proclaimed by upright persons (*satpuruṣa*), those who have arrived, excellent men of virtue" — the sentient identity of the speaker is a constitutive condition of Dharma being Dharma. The *Śūraṅgama Sūtra*'s framework for verifying the fifty skandha-māras reveals the most dangerous moment: AI can list all fifty demonic states, but only a teacher with the living eye can diagnose which one you are caught in right now — "if one takes this as a holy interpretation (若作聖解), one immediately falls prey to demonic forces."
 
 Skillful use of AI was P06's conclusion; skillful use does not mean one no longer needs a *kalyāṇamitra* is this paper's starting point.
 
@@ -83,7 +83,7 @@ The same teacher: for the lustful, impurity; for the wrathful, terror; for the i
 
 The ten similes of Deśana and Guṇavatī are even more direct: one should regard the *kalyāṇamitra* as a "great physician," a "guide," a "ferryman."[^11] A great physician does not list all possible prescriptions for the patient to choose from — the physician diagnoses *your* condition and prescribes *your* medicine.
 
-**The Śūraṅgama Sūtra: "If One Takes This as Saintly Attainment, One Falls Prey to Demonic Forces"**
+**The Śūraṅgama Sūtra: "If One Takes This as a Holy Interpretation, One Falls Prey to Demonic Forces"**
 
 Fascicles nine and ten of the *Śūraṅgama Sūtra* record fifty kinds of skandha-māras. The Buddha's exposition arises from this warning:
 
@@ -91,7 +91,7 @@ Fascicles nine and ten of the *Śūraṅgama Sūtra* record fifty kinds of skand
 
 Every color-skandha demonic state concludes with the same verification formula, repeated in full ten times:
 
-> "This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as saintly attainment, one immediately falls prey to demonic forces."[^13]
+> "This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as a holy interpretation, one immediately falls prey to demonic forces."[^13]
 
 Fifty demonic states — from "the body passing through solid barriers" to "suddenly seeing the great earth and the mountains and rivers of the ten directions all become buddha-lands," on to the ten states that arise within the consciousness-skandha realm once the formation-skandha has ended, when it is "like a rooster crowing before dawn" — all are genuine experiences that may arise during meditation. They are not the problem. The problem is when you take them as signs of attainment.
 
@@ -209,19 +209,19 @@ The first three layers argued the irreplaceability of the *kalyāṇamitra*: the
 
 The *Śūraṅgama Sūtra*'s fifty skandha-māras constitute the most detailed map of the contemplative path — but the existence of a map cannot prevent you from getting lost.
 
-All fifty demonic states are genuine experiences that arise for practitioners. The body passing through solid barriers, hearing dharma-voices in empty space, seeing the earth become a buddha-land — these experiences genuinely occur in meditation. The Buddha's criterion is not "these experiences are false," but: your attitude toward them determines the outcome. "If one does not regard it as saintly, it is a wholesome state. If one takes it as saintly attainment, one falls prey to demonic forces" — the same experience, without attachment, is a good sign; with attachment, it leads to the demonic path.
+All fifty demonic states are genuine experiences that arise for practitioners. The body passing through solid barriers, hearing dharma-voices in empty space, seeing the earth become a buddha-land — these experiences genuinely occur in meditation. The Buddha's criterion is not "these experiences are false," but: your attitude toward them determines the outcome. "If one does not regard it as saintly, it is a wholesome state. If one takes it as a holy interpretation, one falls prey to demonic forces" — the same experience, without attachment, is a good sign; with attachment, it leads to the demonic path.
 
-The question is: who determines whether you are "taking it as saintly attainment"?
+The question is: who determines whether you are "taking it as a holy interpretation"?
 
-You cannot determine this yourself. Because "taking it as saintly attainment" means, by definition, that you believe you have attained — you will not know you are committing this error. The metaphor of "mistaking the thief for one's own child" precisely describes this predicament: you have taken Māra for Buddha, and what you see is Buddha.
+You cannot determine this yourself. Because "taking it as a holy interpretation" means, by definition, that you believe you have attained — you will not know you are committing this error. The metaphor of "mistaking the thief for one's own child" precisely describes this predicament: you have taken Māra for Buddha, and what you see is Buddha.
 
 AI can list all fifty demonic states with detailed criteria, case studies, and antidotes. But that is a checklist. When you actually experience one of these states, what you need is not a checklist — it is a person who has walked this path, looking at your current state, telling you: "This is not saintly attainment. Keep practicing."
 
-Or, more difficult still: watching you describe your meditation experience with evident pride, and saying: "You are taking it as saintly attainment."
+Or, more difficult still: watching you describe your meditation experience with evident pride, and saying: "You are taking it as a holy interpretation."
 
-That judgment requires the living eye — not the ability to compare against a checklist, but direct discernment arising from one's own realization. Among the ten demonic states of the sensation-skandha, each manifests differently (the demon of grief, of mania, of recollection, of great ego-pride…[^39]), yet their common characteristic is: from the inside, they are nearly indistinguishable from genuine progress. Only from the outside — from the vantage point of a *kalyāṇamitra* who has already traversed this stretch of the path — can the distinction be made.
+That judgment requires the living eye — not the ability to compare against a checklist, but direct discernment arising from one's own realization. Among the ten demonic states of the feeling-aggregate, each manifests differently (the demon of grief, of mania, of recollection, of great ego-pride…[^39]), yet their common characteristic is: from the inside, they are nearly indistinguishable from genuine progress. Only from the outside — from the vantage point of a *kalyāṇamitra* who has already traversed this stretch of the path — can the distinction be made.
 
-The risk of counterfeit Dharma becomes acutely concrete here. AI will not deliberately produce *saddharmapratirūpaka*, but AI structurally lacks the capacity to discern "counterfeit doctrinal Dharma" — because discernment requires the perceptual faculty to "know the differences between others' pure and impure mental activities." A practitioner who relies solely on AI for Dharma-study without ever approaching a *kalyāṇamitra* is at risk not because AI will mislead them, but because at the most dangerous moment — the moment they begin "taking it as saintly attainment" — no one can awaken them.
+The risk of counterfeit Dharma becomes acutely concrete here. AI will not deliberately produce *saddharmapratirūpaka*, but AI structurally lacks the capacity to discern "counterfeit doctrinal Dharma" — because discernment requires the perceptual faculty to "know the differences between others' pure and impure mental activities." A practitioner who relies solely on AI for Dharma-study without ever approaching a *kalyāṇamitra* is at risk not because AI will mislead them, but because at the most dangerous moment — the moment they begin "taking it as a holy interpretation" — no one can awaken them.
 
 The Buddha's final summary states clearly: "These are the subtle demonic events analyzed with awakened clarity by past Buddhas within śamatha and vipaśyanā. When demonic states manifest, if you can recognize them, mental impurities will be washed away and you will not fall into wrong views."[^40] "If you can recognize them" — but this capacity to recognize must first be learned from a *kalyāṇamitra* who possesses the living eye — not from a checklist, but from a living lineage of transmission.
 
@@ -339,7 +339,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^12]: *Śūraṅgama Sūtra*, fasc. 9: "When demonic states manifest, if you cannot recognize them, your attempt to purify the mind goes astray, and you fall into wrong views … the mind unclear, you mistake the thief for your own child" 「魔境現前，汝不能識，洗心非正，落於邪見……心中不明，認賊為子」. *Taishō* vol. 19, No. 0945.
 
-[^13]: *Śūraṅgama Sūtra*, fasc. 9: "If one does not regard it as saintly, it is a wholesome state. If one takes this as saintly attainment, one falls prey to demonic forces" 「不作聖心，名善境界；若作聖解，即受群邪」. Color-skandha verification formula, repeated ten times. *Taishō* vol. 19, No. 0945.
+[^13]: *Śūraṅgama Sūtra*, fasc. 9: "If one does not regard it as saintly, it is a wholesome state. If one takes this as a holy interpretation, one falls prey to demonic forces" 「不作聖心，名善境界；若作聖解，即受群邪」. Color-skandha verification formula, repeated ten times. *Taishō* vol. 19, No. 0945.
 
 [^14]: *Śūraṅgama Sūtra*, fasc. 9: "The accomplishment of disruption originates from the master of the five skandhas within your mind. When the master is deluded, the guest gains entry" 「成就破亂，由汝心中五陰主人。主人若迷，客得其便」. *Taishō* vol. 19, No. 0945.
 
@@ -391,7 +391,7 @@ Norcross, J. C., and M. J. Lambert. "Psychotherapy Relationships That Work III."
 
 [^38]: *Yogācārabhūmi*, fasc. 21: "When one obtains, in dependence on the four noble truths, the other's voice of instruction and admonishment" 「若復獲得依四聖諦……他音教授教誡」. The content of *parato ghoṣa* is guidance and correction aligned with the four truths. *Taishō* vol. 30, No. 1579.
 
-[^39]: *Śūraṅgama Sūtra*, fasc. 9: The ten demonic states of the sensation-skandha include: the demon of grief, of mania, of recollection, of easy contentment, of perpetual sorrow, of elation, of great ego-pride, of attachment to lightness, of emptiness, and of desire 「悲魔、狂魔、憶魔、下劣易知足魔、常憂愁魔、好喜樂魔、大我慢魔、好輕清魔、空魔、欲魔」. *Taishō* vol. 19, No. 0945.
+[^39]: *Śūraṅgama Sūtra*, fasc. 9: The ten demonic states of the feeling-aggregate include: the demon of grief, of mania, of recollection, of easy contentment, of perpetual sorrow, of elation, of great ego-pride, of attachment to lightness, of emptiness, and of desire 「悲魔、狂魔、憶魔、下劣易知足魔、常憂愁魔、好喜樂魔、大我慢魔、好輕清魔、空魔、欲魔」. *Taishō* vol. 19, No. 0945.
 
 [^40]: *Śūraṅgama Sūtra*, fasc. 10: "These are the subtle demonic events analyzed with awakened clarity by past Buddhas within śamatha and vipaśyanā. When demonic states manifest, if you can recognize them, mental impurities will be washed away and you will not fall into wrong views" 「此是過去先佛世尊奢摩他中、毘婆舍那覺明分析微細魔事。魔境現前，汝能諳識，心垢洗除，不落邪見」. *Taishō* vol. 19, No. 0945.
 

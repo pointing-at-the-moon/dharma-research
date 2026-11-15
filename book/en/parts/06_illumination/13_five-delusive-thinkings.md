@@ -4,7 +4,7 @@
 
 The fifty skandha-māras have been taught in full.
 
-From the latter half of Fascicle Nine through the bulk of Fascicle Ten, the Buddha unfolds, one by one, the fifty typical traps of the form aggregate, the feeling aggregate, the perception aggregate, the formations aggregate, and the consciousness aggregate—ten per aggregate, fifty in all. By any ordinary logic, the teaching ought to end here.
+From the latter half of Fascicle Nine through the bulk of Fascicle Ten, the Buddha unfolds, one by one, the fifty typical traps of the form aggregate, the feeling aggregate (*vedanā-skandha*, 受陰), the perception aggregate, the formations aggregate, and the consciousness aggregate—ten per aggregate, fifty in all. By any ordinary logic, the teaching ought to end here.
 
 But the *Śūraṅgama Sūtra* does not end.
 
@@ -60,7 +60,7 @@ The second layer: **from five to one.** What do these five sections share? The s
 
 The third layer: **this principle is itself without cause.** Where does delusive thinking come from? Delusion is fundamentally without cause. The asking has no end, because the asking is itself inside delusive thinking.
 
-These three layers of gathering carry several direct implications for the reader. For reading: the fifty māras need not be memorized item by item—grasp the fivefold structure and the one principle, and every phenomenon can be understood under that principle. For practice: the fifty māras need not be met with fifty separate methods—each of the five structures has one typical remedial principle, and these five in turn gather into the single overarching principle, "do not form a sagely realization" (this book's name for the principle, after the sūtra's "form no saintly mind" and its counterpart clause "if you form a sagely realization"). For doctrinal classification: the *Śūraṅgama*'s classification of meditative practice does not enumerate errors, it reveals the principle—any meditative phenomenon not listed in the catalogue of fifty, so long as its structure falls within one of the five aggregate-sections, can be handled by the corresponding remedial principle.
+These three layers of gathering carry several direct implications for the reader. For reading: the fifty māras need not be memorized item by item—grasp the fivefold structure and the one principle, and every phenomenon can be understood under that principle. For practice: the fifty māras need not be met with fifty separate methods—each of the five structures has one typical remedial principle, and these five in turn gather into the single overarching principle, "do not form a holy interpretation (不作聖解)" (this book's name for the principle, after the sūtra's "form no saintly mind" and its counterpart clause "if you form a holy interpretation"). For doctrinal classification: the *Śūraṅgama*'s classification of meditative practice does not enumerate errors, it reveals the principle—any meditative phenomenon not listed in the catalogue of fifty, so long as its structure falls within one of the five aggregate-sections, can be handled by the corresponding remedial principle.
 
 The catalogue is finite, but the principle is exhaustive.
 
@@ -114,7 +114,7 @@ Two features of this spectrum must be seen clearly.
 
 This spectrum explains why the five sections of the fifty māras grow ever subtler and ever harder to discern. It is not that the meditator grows more confused as he advances, but that **the object itself grows more refined.** The traps of the form-aggregate section (light-displays, paranormal powers) are easy to identify, because the object is coarse; the traps of the consciousness-aggregate section (the settled stillness that seems unified, seems permanent) are extremely hard to identify, because the object is already "seeming-real but unreal." The whole internal difficulty-gradient of the fifty māras is just the outward expression of this spectrum of unreal-and-real.
 
-This spectrum also explains why the principle "do not form a sagely realization" takes different forms across the five aggregates. For a coarse object, the form is "do not grasp at substance" (do not take a light-display for attainment); for a fine object, the form is "do not establish supreme understanding" (do not take the seeming-real, unreal settled stillness for cessation). The remedy refines because the object refines.
+This spectrum also explains why the principle "do not form a holy interpretation" takes different forms across the five aggregates. For a coarse object, the form is "do not grasp at substance" (do not take a light-display for attainment); for a fine object, the form is "do not establish supreme understanding" (do not take the seeming-real, unreal settled stillness for cessation). The remedy refines because the object refines.
 
 ### The Boundaries of the Five Aggregates—Each Aggregate Has Two Ends
 
@@ -172,7 +172,7 @@ This structure carries three implications for the reader.
 
 This distinction is enormously important. It means a meditator may have entirely correct view (principle already opened all at once) and yet still meet the māras at the level of phenomena—this is not a contradiction; it is the necessary result of the "sudden principle, gradual phenomena" structure. More sharply put: **the appearance of māras is a sign of meditative progress** (this is the author's interpretation), not a sign of meditative failure. Only the meditator who has already entered the sequential advance of phenomena can meet the māras. The meditator with no progress meets no māras at all—because he has not even begun to stir the form aggregate.
 
-The key to handling the māras is never "do not enter this road," but "having entered, do not stop at any position on the road"—which is exactly how the overarching principle "do not form a sagely realization" unfolds at the level of gradual phenomena.
+The key to handling the māras is never "do not enter this road," but "having entered, do not stop at any position on the road"—which is exactly how the overarching principle "do not form a holy interpretation" unfolds at the level of gradual phenomena.
 
 ### The Knots of the Kalpa-Cloth—Avalokiteśvara's Perfect Penetration and the Fifty Māras Share One Structure
 
@@ -232,9 +232,9 @@ Three nodes—mutual functioning of the faculties, vajra-dry wisdom, wonderful e
 
 > In the perfect school there are only two positions: one cuts the prior pervasive delusions, leaping in one bound from full contemplative practice straight into the first abiding, **with no taking-of-attestation in between**; the other cuts the later distinct delusions, leaping in one bound from entering the first abiding straight to equal enlightenment, **again with no taking-of-attestation in between.**
 
-"No taking-of-attestation in between." From contemplative practice to the first abiding, from the first abiding to equal enlightenment, none of the intermediate positions is treated as a place where one "should stop and attest." **No taking-of-attestation**—this is exactly how the overarching principle "do not form a sagely realization" unfolds across the fifty-five positions. From the first rousing of the mind to the final mind of equal enlightenment, not one of the fifty-five positions is the final ultimate.
+"No taking-of-attestation in between." From contemplative practice to the first abiding, from the first abiding to equal enlightenment, none of the intermediate positions is treated as a place where one "should stop and attest." **No taking-of-attestation**—this is exactly how the overarching principle "do not form a holy interpretation" unfolds across the fifty-five positions. From the first rousing of the mind to the final mind of equal enlightenment, not one of the fifty-five positions is the final ultimate.
 
-**Wonderful enlightenment**—the one and only ultimate. This is the destination of the map, and also the one position that needs no remedy by "do not form a sagely realization"—because it is no longer a "position" at all, but "the thorough transcendence of the very category of position." Any thought that takes "wonderful enlightenment" as one more position to be transcended pulls it back inside the category of "position," and so misses its very nature.
+**Wonderful enlightenment**—the one and only ultimate. This is the destination of the map, and also the one position that needs no remedy by "do not form a holy interpretation"—because it is no longer a "position" at all, but "the thorough transcendence of the very category of position." Any thought that takes "wonderful enlightenment" as one more position to be transcended pulls it back inside the category of "position," and so misses its very nature.
 
 But this three-node map has its trap as well. In his commentary on the aggregate boundaries, Jiāoguāng leaves a verdict heavy enough to bring out a sweat:
 
@@ -314,13 +314,13 @@ This is my reading of the sūtra (this is the author's interpretation); in the s
 
 This part—illumination—comes to its close here.
 
-Across the five chapters just walked, the principle "do not form a sagely realization" has appeared again and again. In the form-aggregate section, it was "do not take a light-display for attainment." In the feeling-aggregate section, "do not take a change of feeling for attainment." In the perception-aggregate section, "do not be deceived by the mirror-other into thinking yourself a sage." In the formations-aggregate section, "do not pronounce a thorough verdict on the nature of the states you perceive." In the consciousness-aggregate section, "do not establish supreme understanding of the subtle objects of consciousness as the truly permanent, and do not crown a stagewise attainment as the summit of awakening."
+Across the five chapters just walked, the principle "do not form a holy interpretation" has appeared again and again. In the form-aggregate section, it was "do not take a light-display for attainment." In the feeling-aggregate section, "do not take a change of feeling for attainment." In the perception-aggregate section, "do not be deceived by the mirror-other into thinking yourself a sage." In the formations-aggregate section, "do not pronounce a thorough verdict on the nature of the states you perceive." In the consciousness-aggregate section, "do not establish supreme understanding of the subtle objects of consciousness as the truly permanent, and do not crown a stagewise attainment as the summit of awakening."
 
 Five stages, one principle. The direction of refinement points, in every case, to a single form—**establish no ultimate at any intermediate position.**
 
 But this very principle gives rise to a natural question: **where, then, is the ultimate?**
 
-If no intermediate position can be established as ultimate, then where, in the end, is the ultimate? Should even "wonderful enlightenment," the destination itself, be met with "do not form a sagely realization"? And if there is no ultimate either, is not the whole of practice a road without an end?
+If no intermediate position can be established as ultimate, then where, in the end, is the ultimate? Should even "wonderful enlightenment," the destination itself, be met with "do not form a holy interpretation"? And if there is no ultimate either, is not the whole of practice a road without an end?
 
 This question the *Śūraṅgama* does not fully answer head-on. Its answer stops at "no taking-of-attestation in between"—from the first rousing of the mind to the final mind of equal enlightenment, none of the fifty-five positions is the final ultimate, and the ultimate lies only at the last stage. What it leaves is a negative form: **no intermediate position is the ultimate.**
 
@@ -334,7 +334,7 @@ The *Śūraṅgama*'s "establish no ultimate position" and the *Lotus*'s "there 
 
 **The conjured city is precisely the fifty māras**—each māra is an intermediate conjured city. It truly appears in the course of meditation, and it looks just like the destination. The light-display of the form aggregate is a conjured city; the pliancy of the feeling aggregate is a conjured city; the skillfulness of the perception aggregate is a conjured city; the formations aggregate's "I have seen through the nature of the world" is a conjured city; the consciousness aggregate's "clear and bright dharma-body" is a conjured city. Each truly exists; none is the treasure-place.
 
-**"The real treasure-place is still ahead" is precisely "do not form a sagely realization"**—the guide's reminder to the travelers and the Buddha's reminder to the meditator are the same act. Do not take the conjured city for the treasure-place; the real treasure-place is still ahead.
+**"The real treasure-place is still ahead" is precisely "do not form a holy interpretation"**—the guide's reminder to the travelers and the Buddha's reminder to the meditator are the same act. Do not take the conjured city for the treasure-place; the real treasure-place is still ahead.
 
 **"There is only one treasure-place" is precisely "wonderful enlightenment"**—the *Lotus*'s treasure-place and the *Śūraṅgama*'s wonderful enlightenment are both "the thorough transcendence of the category of position," both the ultimate position that "cannot be further negated."
 

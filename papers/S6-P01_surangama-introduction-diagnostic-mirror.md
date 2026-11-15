@@ -289,7 +289,7 @@ The core function of the middle circle is **practice methods**: you now know the
 
 **Outer circle (fascicles 8–10): How to know you are on the right track?**
 
-The fifty skandha-māra (fascicles 9–10) form the heart of the outer circle—ten states for each of the form, sensation, perception, formation, and consciousness aggregates, totaling fifty possible deviations encountered in meditative practice. Each state carries a verdict, and the first nine form-aggregate states share a single criterion: "If one does not take it as a saintly attainment, it is called a good state; if one regards it as a saintly realization, one falls prey to all manner of deviance."
+The fifty skandha-māra (fascicles 9–10) form the heart of the outer circle—ten states for each of the form, sensation, perception, formation, and consciousness aggregates, totaling fifty possible deviations encountered in meditative practice. Each state carries a verdict, and the first nine form-aggregate states share a single criterion: "If one does not take it as a saintly attainment, it is called a good state; if one regards it as a holy interpretation (若作聖解), one falls prey to all manner of deviance."
 
 The core function of the outer circle is **discernment**: you are already practicing—how do you know you have not gone astray?
 
@@ -379,7 +379,7 @@ The Śūraṅgama Sūtra is a practitioner's diagnostic manual. Its ten fascicle
 
 ### 5.2 Practice Guidance
 
-The Śūraṅgama's core teaching is not a knowledge system to be memorized. Its core is a habit: "If one does not take it as a saintly attainment, it is called a good state; if one regards it as a saintly realization, one falls prey to all manner of deviance." Whenever you feel you have had some remarkable meditative experience, first pause—do not rush to conclusions. This habit, by itself, is worth more than memorizing the names of all fifty skandha-māra.
+The Śūraṅgama's core teaching is not a knowledge system to be memorized. Its core is a habit: "If one does not take it as a saintly attainment, it is called a good state; if one regards it as a holy interpretation, one falls prey to all manner of deviance." Whenever you feel you have had some remarkable meditative experience, first pause—do not rush to conclusions. This habit, by itself, is worth more than memorizing the names of all fifty skandha-māra.
 
 Each time you read the Śūraṅgama, you are holding the mirror up to yourself once more. You need not read the whole thing at once, nor understand it all at once. You need only be willing to look.
 

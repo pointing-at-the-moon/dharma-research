@@ -22,9 +22,9 @@ The previous chapter closed on "the māra changes battlefields." Now we need fir
 
 Fascicle nine of the Śūraṅgama gives an extraordinarily precise definition:
 
-> That good son cultivating *samādhi* who has exhausted the receptive aggregate—although not yet exhausted of outflows, his mind has departed from his form, like a bird leaving its cage. He has already accomplished the capacity, from this ordinary body, to traverse the bodhisattva's sixty sage stations, attaining a mind-made body that goes wherever it wills without obstruction… This is called the territory of the perception aggregate. If the moving thoughts are exhausted and floating notions dissolved, then upon the awareness-luminous mind, as dust and stains are removed, the entire generation-and-cessation of one cycle of birth-and-death is illumined from beginning to end. This is called the exhaustion of the perception aggregate… Examining its origin, the false thought of pervasive transformation is its root.
+> That good son cultivating *samādhi* who has exhausted the feeling aggregate (*vedanā-skandha*, 受陰)—although not yet exhausted of outflows, his mind has departed from his form, like a bird leaving its cage. He has already accomplished the capacity, from this ordinary body, to traverse the bodhisattva's sixty sage stations, attaining a mind-made body that goes wherever it wills without obstruction… This is called the territory of the perception aggregate. If the moving thoughts are exhausted and floating notions dissolved, then upon the awareness-luminous mind, as dust and stains are removed, the entire generation-and-cessation of one cycle of birth-and-death is illumined from beginning to end. This is called the exhaustion of the perception aggregate… Examining its origin, the false thought of pervasive transformation is its root.
 
-"His mind has departed from his form, like a bird leaving its cage"—the weight of this line is immense. The practitioner at the receptive-aggregate stage is still bound by the reading of his sensations; the one who has exhausted the receptive aggregate can already let his mind slip free of the body, **like a bird out of its cage.** Attaining a mind-made body that goes wherever it wills, traversing the sixty sage stations of the bodhisattva—this is a very deep position indeed. An ordinary person could not reach it even in a dream.
+"His mind has departed from his form, like a bird leaving its cage"—the weight of this line is immense. The practitioner at the feeling-aggregate stage is still bound by the reading of his sensations; the one who has exhausted the feeling aggregate can already let his mind slip free of the body, **like a bird out of its cage.** Attaining a mind-made body that goes wherever it wills, traversing the sixty sage stations of the bodhisattva—this is a very deep position indeed. An ordinary person could not reach it even in a dream.
 
 And yet the perception aggregate is still not exhausted. The text reaches for an unexpected simile—**a person talking in his sleep.**
 
@@ -32,7 +32,7 @@ And yet the perception aggregate is still not exhausted. The text reaches for an
 
 Like a man deep asleep who talks in his sleep. He himself knows nothing, yet his words have order, have sequence; the waking person beside him can even follow them. **This is the truth of the perception-aggregate territory: the words make sense, but the one speaking them is not present.**
 
-The root of the form aggregate is "solidified false thought"—the congealed solidity of matter. The root of the receptive aggregate is "false thought of empty luminosity"—the receiving structure of sensation. The root of the perception aggregate is **the false thought of pervasive transformation**—perception's power (its grasping of images, its recognizing, its conceptualizing) to fuse and transform reality. Imagine a sour plum and the mouth waters; imagine the edge of a cliff and the knees go weak—**perception has the power to turn mental content into bodily reaction, to turn a thought into a world.**
+The root of the form aggregate is "solidified false thought"—the congealed solidity of matter. The root of the feeling aggregate is "false thought of empty luminosity"—the receiving structure of sensation. The root of the perception aggregate is **the false thought of pervasive transformation**—perception's power (its grasping of images, its recognizing, its conceptualizing) to fuse and transform reality. Imagine a sour plum and the mouth waters; imagine the edge of a cliff and the knees go weak—**perception has the power to turn mental content into bodily reaction, to turn a thought into a world.**
 
 From solidified to empty-luminous to pervasively transforming is a three-step shift: from form, to formlessness, to a formlessness that can take on form. **The perception aggregate is the stage of *what can transform.*** And precisely because it can transform, it can turn craving into a perception, into a relationship, into the "spiritual friend" who appears along the road.
 
@@ -42,9 +42,9 @@ The mirror-other can exist at all, fundamentally, because the perception aggrega
 
 The sūtra opens its account of the first perception-aggregate māra like this:
 
-> That good son's receptive aggregate has become empty and subtle. He encounters no errant cogitation. His perfect *samādhi* unfolds in luminous clarity. Within the *samāpatti*, the mind cherishes perfect luminosity, sharpens his keen contemplation, and craves expedient skill. At this moment, the celestial māra, watching for his chance, dispatches an essence to possess a person, who expounds dharmas through that person's mouth.
+> That good son's feeling aggregate has become empty and subtle. He encounters no errant cogitation. His perfect *samādhi* unfolds in luminous clarity. Within the *samāpatti*, the mind cherishes perfect luminosity, sharpens his keen contemplation, and craves expedient skill. At this moment, the celestial māra, watching for his chance, dispatches an essence to possess a person, who expounds dharmas through that person's mouth.
 
-Notice the sequence. The first four steps are all genuine, positive advance—**receptive aggregate empty and subtle, encountering no errant cogitation, perfect *samādhi* unfolding, the mind cherishing perfect luminosity.** This is a truly lofty state. Without this premise, what follows would never happen.
+Notice the sequence. The first four steps are all genuine, positive advance—**feeling aggregate empty and subtle, encountering no errant cogitation, perfect *samādhi* unfolding, the mind cherishing perfect luminosity.** This is a truly lofty state. Without this premise, what follows would never happen.
 
 The fifth step brings the word "**sharpens.**" The sixth brings the two words "**craves.**" These two words mark the soundless pivot from forward into reverse—the mind, tempered keener by meditation, begins to take aim at a target; a target appears; and craving is born.
 
@@ -66,11 +66,11 @@ The possessed person—the one possessed by the Strange Ghost, the *Bá* Ghost, 
 
 ### Why the Māra Must "Possess a Person"
 
-The previous chapter left a question hanging: the receptive-aggregate māra can "turn the practitioner upon himself" (the practitioner alone completes the misrecognition), so why must the perception-aggregate māra "possess a person" (why does there have to be a second person at all)? Now we answer it directly.
+The previous chapter left a question hanging: the feeling-aggregate māra can "turn the practitioner upon himself" (the practitioner alone completes the misrecognition), so why must the perception-aggregate māra "possess a person" (why does there have to be a second person at all)? Now we answer it directly.
 
-The core distinction is a single sentence: **the object of the receptive aggregate is "one's own state"; the object of the perception aggregate is "an external capacity."**
+The core distinction is a single sentence: **the object of the feeling aggregate is "one's own state"; the object of the perception aggregate is "an external capacity."**
 
-Every one of the ten receptive-aggregate māras—sorrow, exhilaration, recollection, easy contentment, grief, excessive joy, conceit, fondness for ease, emptiness, sensual desire—has as its object **the practitioner's own present sensation.** Limitless tranquility is a sensation. Boundless joy is a sensation. A taste of empty luminosity is a sensation. These all live within the practitioner's inner awareness; they hold without any outside person, without any outside situation. The practitioner alone can complete the whole process of "mistaking this sensation for sagely attainment." The māric event is completed within the heart—which is the "self" in "the māra darkly enters the practitioner's own heart and, unawares, causes him to turn upon himself."
+Every one of the ten feeling-aggregate māras—sorrow, exhilaration, recollection, easy contentment, grief, excessive joy, conceit, fondness for ease, emptiness, sensual desire—has as its object **the practitioner's own present sensation.** Limitless tranquility is a sensation. Boundless joy is a sensation. A taste of empty luminosity is a sensation. These all live within the practitioner's inner awareness; they hold without any outside person, without any outside situation. The practitioner alone can complete the whole process of "mistaking this sensation for sagely attainment." The māric event is completed within the heart—which is the "self" in "the māra darkly enters the practitioner's own heart and, unawares, causes him to turn upon himself."
 
 The ten perception-aggregate māras are wholly different. The object of each one is some kind of **capacity that can be displayed**—the eloquence of expedient skill, the spiritual mobility to roam through all realms, fusion with a target, sharp and subtle discernment, formless resonance, deep stillness, knowledge of past lives, the transformations of divine power, the realization of deep emptiness, eternal lifespan.
 
@@ -86,9 +86,9 @@ This is the structural necessity of "dispatching essence to possess a person." I
 
 The commentator Jiāoguāng puts it with great bluntness:
 
-> Because once the receptive aggregate is exhausted, [the māra] cannot enter the practitioner's heart-organs; it borrows a bystander to confuse him, turning him to disturb himself.
+> Because once the feeling aggregate is exhausted, [the māra] cannot enter the practitioner's heart-organs; it borrows a bystander to confuse him, turning him to disturb himself.
 
-"**Once the receptive aggregate is exhausted**"—that is, the practitioner who has entered the perception-aggregate stage. "**Cannot enter the heart-organs**"—the māra can no longer get in, because the heart no longer holds the kind of fissure it offered to the receptive-aggregate māra. "**Borrows a bystander to confuse him**"—so it can only work through a third party. "**Turning him to disturb himself**"—it lets him disturb himself.
+"**Once the feeling aggregate is exhausted**"—that is, the practitioner who has entered the perception-aggregate stage. "**Cannot enter the heart-organs**"—the māra can no longer get in, because the heart no longer holds the kind of fissure it offered to the feeling-aggregate māra. "**Borrows a bystander to confuse him**"—so it can only work through a third party. "**Turning him to disturb himself**"—it lets him disturb himself.
 
 Here is an exceedingly sharp paradox—**the perception-aggregate practitioner's "interior is now protected," and this very protection becomes "exterior vulnerability."**
 
@@ -106,7 +106,7 @@ This list is often read literally as "the Śūraṅgama asserts that ten ghost-s
 
 Jiāoguāng makes the point with perfect clarity:
 
-> The essence means the various essence-spirits of the māra's party—and each comes according to its own kind… Below, the Buddha himself names each of the possessed types… for once the receptive aggregate is exhausted, [the māra] cannot enter the practitioner's heart-organs; it borrows a bystander to confuse him, turning him to disturb himself.
+> The essence means the various essence-spirits of the māra's party—and each comes according to its own kind… Below, the Buddha himself names each of the possessed types… for once the feeling aggregate is exhausted, [the māra] cannot enter the practitioner's heart-organs; it borrows a bystander to confuse him, turning him to disturb himself.
 
 "**Each comes according to its own kind**"—each craving corresponds to its own matching kind of essence-spirit. The form of the ghost-essence is not random; it is **determined by the content of what is craved.**
 
@@ -131,7 +131,7 @@ The commentator Zǐxuán sums up the whole dynamic in four characters:
 
 "**Tempering**" is the smith's act of heating iron red and plunging it into water to make it harder, keener. "**Tempering and sharpening the loving-mind**" is forging the loving-mind into something keener. Zǐxuán's diagnosis is exact—**the root of the ten perception-aggregate māras is not some external demon but the result of the practitioner's own "loving-mind" being tempered keener by deep meditation.**
 
-The earlier "errant cogitations" (the receptive-aggregate māras of sorrow, exhilaration, grief, joy, and so on) have already been overcome. But what arises after their overcoming is **not love-lessness**—it is **tempered love**: love that meditation has worked into a sharper, subtler, more target-precise form. Coarse love (love for the five sense-pleasures) has been set down; subtle love (love for the capacities in the depths of meditation) has taken over.
+The earlier "errant cogitations" (the feeling-aggregate māras of sorrow, exhilaration, grief, joy, and so on) have already been overcome. But what arises after their overcoming is **not love-lessness**—it is **tempered love**: love that meditation has worked into a sharper, subtler, more target-precise form. Coarse love (love for the five sense-pleasures) has been set down; subtle love (love for the capacities in the depths of meditation) has taken over.
 
 In essence, it is still love, still the truth of origination, still "to be known and severed." Only the object has changed.
 

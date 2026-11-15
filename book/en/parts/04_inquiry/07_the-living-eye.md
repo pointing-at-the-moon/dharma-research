@@ -160,15 +160,15 @@ The *Śūraṅgama Sūtra*, fascicles nine and ten, records fifty kinds of skand
 
 At the close of each form-skandha demonic state, the Buddha repeats the same line:
 
-> This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as saintly attainment, one immediately falls prey to demonic forces.
+> This is not saintly attainment. If one does not regard it as a sign of sainthood, it is called a wholesome state. If one takes this as a holy interpretation (若作聖解), one immediately falls prey to demonic forces.
 
 This line repeats ten times. The same experience—say, the body feeling that it can pass through a wall, or hearing a voice expounding the Dharma in empty space, or seeing the whole earth turn golden into a buddha-land—these experiences in themselves **are not the problem**. They are states that genuinely arise in the course of meditation.
 
 The problem lies in **your attitude toward them**. No attachment—it is a good state, it can pass. Attachment—you fall into the demonic path.
 
-So the question arises: **who is to judge whether you are "taking it as saintly attainment"?**
+So the question arises: **who is to judge whether you are "taking it as a holy interpretation"?**
 
-You cannot do it yourself. This is the hardest part of the fifty skandha-māras—the very definition of "taking it as saintly attainment" is that **you believe you have attained**. You will not know you are committing this error, because what you see is precisely a saintly state; to you it **simply is** real.
+You cannot do it yourself. This is the hardest part of the fifty skandha-māras—the very definition of "taking it as a holy interpretation" is that **you believe you have attained**. You will not know you are committing this error, because what you see is precisely a saintly state; to you it **simply is** real.
 
 The metaphor of "mistaking the thief for your own child" precisely describes this predicament: you have taken Māra to be Buddha, but what you see **simply is** Buddha. Inside that "simply is" there is no room for doubt—because the mechanism of doubt has been switched off by the demonic state itself.
 
@@ -178,19 +178,19 @@ The most central simile among the fifty skandha-māras is the "master of the fiv
 
 When the master is deluded, the guest gets its chance to break in. **If the master himself is deluded, who is to wake the master?**
 
-The answer is not a checklist of the fifty skandha-māras—you may have memorized that list long ago, and it does no good, because at the moment of "taking it as saintly attainment" you cannot recognize that you are matching the description. The answer is: **a person who has seen this road with their own eyes**, watching you at the moment of your greatest pride, and speaking the very words you least want to hear: "This is not saintly attainment. Keep practicing."
+The answer is not a checklist of the fifty skandha-māras—you may have memorized that list long ago, and it does no good, because at the moment of "taking it as a holy interpretation" you cannot recognize that you are matching the description. The answer is: **a person who has seen this road with their own eyes**, watching you at the moment of your greatest pride, and speaking the very words you least want to hear: "This is not saintly attainment. Keep practicing."
 
-Or, harder still: watching you describe your meditation experience with shining eyes, and then saying: "You are taking it as saintly attainment."
+Or, harder still: watching you describe your meditation experience with shining eyes, and then saying: "You are taking it as a holy interpretation."
 
 That judgment requires the living eye. Not the ability to compare against a checklist—AI can list all fifty demonic states in full, with detailed criteria, case studies, and antidotes; that is a checklist function, and AI can do it very well. The living eye is **direct discernment arising from one's own realization**—the spiritual friend **has walked this stretch of road himself**, so he knows what the state you are now describing looks like from the outside.
 
-The ten demonic states of the sensation-skandha are especially telling—the demon of grief, the demon of mania, the demon of recollection, the demon of great ego-pride, the demon of attachment to lightness—their common trait is this: **from the inside, they are nearly indistinguishable from genuine progress**.
+The ten demonic states of the feeling-aggregate are especially telling—the demon of grief, the demon of mania, the demon of recollection, the demon of great ego-pride, the demon of attachment to lightness—their common trait is this: **from the inside, they are nearly indistinguishable from genuine progress**.
 
 You feel your compassion is boundless and you want to weep—that might be genuine compassion, or it might be the demon of grief. You feel body and mind have grown light and transparent, utterly pure—that might be genuine ease, or it might be the demon of attachment to lightness. These two states, seen from inside yourself, **have no difference**. Only from the outside—from the vantage of a spiritual friend who has already walked this stretch of road—can the difference be seen.
 
 Here we return to the risk of counterfeit Dharma discussed in 4.5—but now it becomes very concrete. AI will not deliberately produce a likeness of true Dharma, but AI structurally lacks the capacity to discern "counterfeit doctrinal Dharma." The capacity to discern requires the perceptual power to "know the differences between others' pure and impure mental activities"—and this is a power only a sentient being, and a realized sentient being at that, possesses.
 
-If a practitioner **relies only on AI to study the Dharma, without ever drawing near a spiritual friend**, the real danger is not that AI will mislead them—it is that **at the most critical moment, the moment they begin to "take it as saintly attainment," no one can wake them.**
+If a practitioner **relies only on AI to study the Dharma, without ever drawing near a spiritual friend**, the real danger is not that AI will mislead them—it is that **at the most critical moment, the moment they begin to "take it as a holy interpretation," no one can wake them.**
 
 The *Śūraṅgama Sūtra*'s summary in fascicle ten states it clearly: "These are the subtle demonic events analyzed with awakened clarity by past Buddhas, the World-Honored Ones, within śamatha and vipaśyanā. When demonic states manifest, if you can recognize them, mental impurities will be washed away and you will not fall into wrong views."—you must be able to "recognize" them.
 

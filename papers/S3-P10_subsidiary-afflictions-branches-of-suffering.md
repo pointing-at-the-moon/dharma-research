@@ -210,9 +210,9 @@ Torpor is not just "wanting to sleep." It includes sinking within concentration 
 
 The *Śūraṅgama Sūtra* does not use Yogācāra classification terminology, but its descriptions of the fifty skandha-demons contain numerous psychological phenomena corresponding to subsidiary afflictions.
 
-Among the ten demons of the feeling-skandha in fascicle nine, one passage closely resembles deluded mindfulness combined with torpor:
+Among the ten demons of the feeling-aggregate in fascicle nine, one passage closely resembles deluded mindfulness combined with torpor:
 
-> "Seeing the form-skandha dissolved and the feeling-skandha clearly manifest, yet with no new attainment ahead and having lost the former dwelling. Wisdom weakens, falling into an intermediate state with nothing visible anywhere. Suddenly a great thirst of desiccation arises in the mind, and at all times one sinks into memory without dispersal, taking this to be the mark of diligent effort."[^34]
+> "Seeing the form-skandha dissolved and the feeling-aggregate clearly manifest, yet with no new attainment ahead and having lost the former dwelling. Wisdom weakens, falling into an intermediate state with nothing visible anywhere. Suddenly a great thirst of desiccation arises in the mind, and at all times one sinks into memory without dispersal, taking this to be the mark of diligent effort."[^34]
 
 "Sinking into memory without dispersal" — the mind plunges into some memory or state and cannot extricate itself, yet mistakes this condition for spiritual effort. This is a compound manifestation of deluded mindfulness (inability to clearly note) and torpor (incapacity). The sūtra's judgment: "This is called losing wisdom through cultivating the mind without discernment" — without right knowing (the opposite of wrong knowing), the pathological is mistaken for the healthy.
 
@@ -220,7 +220,7 @@ Another passage corresponds to restlessness:
 
 > "When superior signs appear, one is excessively stirred, and limitless courage suddenly arises. The mind becomes fierce and sharp, one's aspiration equals the Buddhas, and one claims that the three incalculable aeons can be surpassed in a single thought."[^35]
 
-A mind overexcited, agitated, and deluded about its own capacities — this is restlessness in its meditative form. The sūtra warns: "If one takes this as a saintly attainment, a demon of madness enters one's heart; upon seeing others, one boasts, and one's arrogance has no equal." Restlessness undetected is misjudged by wrong knowing as genuine attainment, then generates arrogance.
+A mind overexcited, agitated, and deluded about its own capacities — this is restlessness in its meditative form. The sūtra warns: "If one takes this as a holy interpretation (若作聖解), a demon of madness enters one's heart; upon seeing others, one boasts, and one's arrogance has no equal." Restlessness undetected is misjudged by wrong knowing as genuine attainment, then generates arrogance.
 
 The critical point: the *Śūraṅgama* uses descriptive language rather than Yogācāra classification terminology. The following mapping table provides cross-reference[^37]:
 
@@ -630,7 +630,7 @@ Next, we enter the third of the five categories — the eleven form dharmas (S3-
 [^31]: Ibid., cross-elimination passage.
 [^32]: Ibid., calming-arousing-equanimity three aspects passage.
 [^33]: Ibid., five types of mental scattering — internal scattering.
-[^34]: *Śūraṅgama Sūtra*, fascicle 9, feeling-skandha demons, "sinking into memory" passage. T19, No. 0945.
+[^34]: *Śūraṅgama Sūtra*, fascicle 9, feeling-aggregate demons, "sinking into memory" passage. T19, No. 0945.
 [^35]: Ibid., "mind fierce and sharp, aspiring to equal the Buddhas." T19, No. 0945.
 [^36]: Ibid., "denying cause and effect... empty mind appearing." T19, No. 0945.
 [^37]: The *Śūraṅgama*-to-Hundred-Dharmas mapping is Pointing at the Moon's analytical arrangement. The *Śūraṅgama* does not use Yogācāra classification terminology; this mapping is based on functional correspondence of descriptive language, not on traditional commentarial assignments.
