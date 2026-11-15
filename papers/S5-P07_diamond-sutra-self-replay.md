@@ -200,6 +200,8 @@ Vasubandhu explains: the first half's teaching cuts external practices — "not 
 
 This is the doctrinal rationale for §17's existence. Subhūti did not fail to understand the first half. On the contrary — he understood it. But understanding itself generated a new problem: "I am a bodhisattva who understands prajñā" — this self-identification is itself dharma-attachment. The verse's five characters *cún wǒ wéi púsà* (存我為菩薩, "harboring 'I am a bodhisattva'") diagnose the covert pathology with surgical precision.
 
+The *Jingang xian lun* (金剛仙論, T1512), fasc. 9, further observes that "the phrasing is similar but the meaning differs" (0860a13–a14) — the same merit comparison (the giving of seven treasures filling a trichiliocosm) recurs at least four times in the Diamond Sūtra. Each repetition is not redundancy; it cuts a different layer of attachment in a different context — fully consistent with this paper's dual-layer structure thesis.
+
 #### 2.8 Asaṅga's Structural Analysis
 
 Asaṅga's commentary (T1510a/b) uses "seven meaning-gates" and "eighteen abiding-places" as the sūtra's structural framework. Analyzing the re-questioning section, Asaṅga notes:[^17]
@@ -445,6 +447,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Vasubandhu), trans. Bodhiruci, Taishō vol. 25, no. 1511.
 - *Jingang bore lun* 金剛般若論 (Asaṅga), trans. Dharmagupta, Taishō vol. 25, no. 1510a.
 - *Jingang bore boluomi jing lun* 金剛般若波羅蜜經論 (Asaṅga), trans. Dharmagupta, Taishō vol. 25, no. 1510b.
+- *Jingang xian lun* 金剛仙論 (author not named at the head of the text), trans. Bodhiruci, Taishō vol. 25, no. 1512.
 - *Cheng weishi lun* 成唯識論 (Dharmapāla et al.), trans. Xuanzang, Taishō vol. 31, no. 1585.
 - *Yogācārabhūmi-śāstra* (*Yuqie shidi lun* 瑜伽師地論) (Maitreya), trans. Xuanzang, Taishō vol. 30, no. 1579.
 - Zixuan 子璿, *Jingang jing zuanyao kanding ji* 金剛經纂要刊定記, Taishō vol. 33, no. 1702.
@@ -462,6 +465,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 | Saṃdhinirmocana Sūtra 解深密經 | Saṃdhinirmocana Sūtra 解深密經 | T16, No. 676 | fasc. 2, 4 |
 | Vasubandhu's Commentary 金剛般若經論 | Jingang bore boluomi jing lun 金剛般若波羅蜜經論 | T25, No. 1511 | fasc. 2 |
 | Asaṅga's Commentary 金剛般若論 | Jingang bore lun 金剛般若論 | T25, No. 1510a | fasc. 2 |
+| Jingang xian lun 金剛仙論 | Jingang xian lun 金剛仙論 | T25, No. 1512 | fasc. 9 |
 | Yogācārabhūmi 瑜伽師地論 | Yogācārabhūmi-śāstra 瑜伽師地論 | T30, No. 1579 | fasc. 36, 73 |
 | Cheng weishi lun 成唯識論 | Vijñaptimātratāsiddhi 成唯識論 | T31, No. 1585 | fasc. 9, 10 |
 | Zixuan's Kanding ji 金剛經刊定記 | Jingang jing zuanyao kanding ji 金剛經纂要刊定記 | T33, No. 1702 | fasc. 1, 2, 7 |
