@@ -643,11 +643,11 @@ P13 is the formal construction of this bridge. From the close of this section on
 
 **Sūtras:**
 
-1. *Mahā-buddhoṣṇīṣa-tathāgata-guhya-hetu-sākṣātkriyā-nītārtha-sarva-bodhisattva-caryā-śūraṅgama-sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經 *Dàfódǐng Shǒulèngyán Jīng*). Translated by Pāramiti (般剌蜜帝). Taishō vol. 19, no. 0945. Core text of this paper, principal citations from fascicles 5, 6, and 10.
+1. *Mahā-buddhoṣṇīṣa-tathāgata-guhya-hetu-sākṣātkriyā-nītārtha-sarva-bodhisattva-caryā-śūraṅgama-sūtra* (*Da foding shoulengyan jing* 大佛頂首楞嚴經). Translated by Pāramiti (般剌蜜帝). Taishō vol. 19, no. 0945. Core text of this paper, principal citations from fascicles 5, 6, and 10.
 
-2. *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經 *Zá Āhán Jīng*). Translated by Guṇabhadra (求那跋陀羅). Taishō vol. 2, no. 0099. Sūtras 1–2 (right contemplation of impermanence); sūtras 33–34 (five aggregates as not-self); sūtra 265 (five similes of insubstantiality).
+2. *Saṃyukta-āgama* (*Za ahan jing* 雜阿含經). Translated by Guṇabhadra (求那跋陀羅). Taishō vol. 2, no. 0099. Sūtras 1–2 (right contemplation of impermanence); sūtras 33–34 (five aggregates as not-self); sūtra 265 (five similes of insubstantiality).
 
-3. *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing* 妙法蓮華經 *Miàofǎ Liánhuá Jīng*). Translated by Kumārajīva (鳩摩羅什). Taishō vol. 9, no. 0262. Fascicle 3, *Pūrvayoga-parivarta* (Conjured-City Parable Chapter).
+3. *Saddharmapuṇḍarīka-sūtra* (*Miaofa lianhua jing* 妙法蓮華經). Translated by Kumārajīva (鳩摩羅什). Taishō vol. 9, no. 0262. Fascicle 3, *Pūrvayoga-parivarta* (Conjured-City Parable Chapter).
 
 4. *Mahā-vaipulya-pūrṇa-buddha-sūtra-prasannārtha-sūtra* (*Da fangguang yuanjue xiuduoluo liaoyi jing* 大方廣圓覺修多羅了義經 *Yuánjué Jīng*). Translated by Buddhatrāta (佛陀多羅). Taishō vol. 17, no. 0842. Cited via Zǐxuán's commentary for the formula "knowing illusion is itself separation from illusion."
 
