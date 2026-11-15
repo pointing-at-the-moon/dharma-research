@@ -314,6 +314,7 @@ S8-P11 has already treated the unfolded correspondence of "Ten Great Vows × Ten
 - *Huayan yisheng jiaoyi fenqi zhang*, Fazang, T1866 — perfect-teaching classification and the folding of the ten times
 - *Huayan jing shu*, Chengguan, T1735 — commentary on the 80-fascicle *Avataṃsaka* (his commentary on fascicle 40 is the *Huayan jing xingyuanpin shu*, X227; correspondence not made explicit)
 - *Huayan jing suishu yanyi chao*, Chengguan, T1736 — same as above
+- *Huayan jing xingyuanpin shu* (《華嚴經行願品疏》), Chengguan, *Manji Shinsan Zokuzōkyō*, vol. 5, No. 227 (X227) — his commentary on fascicle 40 of the *Forty-Fascicle Avataṃsaka*
 - *Huayan jing xingyuanpin shuchao* (《華嚴經行願品疏鈔》), Zongmi, *Manji Shinsan Zokuzōkyō*, vol. 5, No. 229 (X229) — commentary on fascicle 40; it treats Universal Dedication at length in divided sections yet sets up no ten-vow/ten-gate correspondence table — the principal negative-evidence text
 - *Chanyuan zhuquanji duxu* (*Preface to the Collected Writings on the Sources of Chan*), Zongmi, T2015 — does not cite Samantabhadra's Ten Great Vow-Kings (CBETA search for 普賢, 願王, 行願: 0 hits)
 - *Yuanren lun* (*On the Origin of the Human*), Zongmi, T1886 — principal reference for the negative-evidence argument
