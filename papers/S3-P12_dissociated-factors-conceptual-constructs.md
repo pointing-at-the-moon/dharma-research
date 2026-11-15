@@ -692,26 +692,24 @@ The next step takes us into the fifth and final category — unconditioned dharm
 1. *Śatadharmaprakāśamukha-śāstra* 《百法明門論》, by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1614.
 2. *Cheng weishi lun* 《成唯識論》, by Dharmapāla et al., trans. Xuanzang, *Taishō* vol. 31, No. 1585.
 3. *Yogācāra-bhūmi-śāstra* 《瑜伽師地論》, by Maitreya, trans. Xuanzang, *Taishō* vol. 30, No. 1579.
-4. *Pañcaskandhaka-prakaraṇa* 《大乘五蘊論》, by Vasubandhu, trans. Xuanzang, *Taishō* vol. 31, No. 1612.
-5. *Abhidharmasamuccaya* 《大乘阿毘達磨集論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1605.
-6. *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, compiled by Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
-7. *Xianyang shengjiao lun* 《顯揚聖教論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1602.
-8. *Bashi guiju buzhu* 《八識規矩補註》, supplementary commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
-9. *Cheng weishi lun shuji* 《成唯識論述記》, by Kuiji, *Taishō* vol. 43, No. 1830.
-10. *Saṃdhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, *Taishō* vol. 16, No. 676.
-11. *Saṃyukta Āgama* 《雜阿含經》, trans. Guṇabhadra, *Taishō* vol. 2, No. 99.
-12. *Madhyama Āgama* 《中阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 1, No. 26.
-13. *Ekottara Āgama* 《增壹阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 2, No. 125.
-14. *Dīrgha Āgama* 《長阿含經》, trans. Buddhayaśas et al., *Taishō* vol. 1, No. 1.
-15. *Mahāparinirvāṇa Sūtra* 《大般涅槃經》 (three-fascicle version), trans. Faxian (Eastern Jin), *Taishō* vol. 1, No. 7.
-16. *Qishi jing* 《起世經》, trans. Jñānagupta, *Taishō* vol. 1, No. 24.
-17. *Avataṃsaka Sūtra* (80-fasc.) 《大方廣佛華嚴經》, trans. Śikṣānanda, *Taishō* vol. 10, No. 279.
-18. *Avataṃsaka Sūtra* (60-fasc.) 《大方廣佛華嚴經》, trans. Buddhabhadra, *Taishō* vol. 9, No. 278.
-19. *Śūraṅgama Sūtra* 《大佛頂首楞嚴經》, trans. Pāramiti, *Taishō* vol. 19, No. 945.
-20. *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
-21. *Laṅkāvatāra Sūtra* 《大乘入楞伽經》, trans. Śikṣānanda, *Taishō* vol. 16, No. 672.
-22. *Yuqie lunji* 《瑜伽論記》, compiled by Dunlun (Tang), *Taishō* vol. 42, No. 1828.
-23. *Shoulengyan yishu zhujing* 《首楞嚴義疏注經》, compiled by Zixuan (Song), *Taishō* vol. 39, No. 1799.
+4. *Abhidharmasamuccaya* 《大乘阿毘達磨集論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1605.
+5. *Abhidharmasamuccaya-vyākhyā* 《大乘阿毘達磨雜集論》, compiled by Sthiramati, trans. Xuanzang, *Taishō* vol. 31, No. 1606.
+6. *Xianyang shengjiao lun* 《顯揚聖教論》, by Asaṅga, trans. Xuanzang, *Taishō* vol. 31, No. 1602.
+7. *Bashi guiju buzhu* 《八識規矩補註》, supplementary commentary by Putai (Ming), *Taishō* vol. 45, No. 1865.
+8. *Saṃdhinirmocana Sūtra* 《解深密經》, trans. Xuanzang, *Taishō* vol. 16, No. 676.
+9. *Saṃyukta Āgama* 《雜阿含經》, trans. Guṇabhadra, *Taishō* vol. 2, No. 99.
+10. *Madhyama Āgama* 《中阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 1, No. 26.
+11. *Ekottara Āgama* 《增壹阿含經》, trans. Gautama Saṅghadeva, *Taishō* vol. 2, No. 125.
+12. *Dīrgha Āgama* 《長阿含經》, trans. Buddhayaśas et al., *Taishō* vol. 1, No. 1.
+13. *Mahāparinirvāṇa Sūtra* 《大般涅槃經》 (three-fascicle version), trans. Faxian (Eastern Jin), *Taishō* vol. 1, No. 7.
+14. *Qishi jing* 《起世經》, trans. Jñānagupta, *Taishō* vol. 1, No. 24.
+15. *Avataṃsaka Sūtra* (80-fasc.) 《大方廣佛華嚴經》, trans. Śikṣānanda, *Taishō* vol. 10, No. 279.
+16. *Avataṃsaka Sūtra* (60-fasc.) 《大方廣佛華嚴經》, trans. Buddhabhadra, *Taishō* vol. 9, No. 278.
+17. *Śūraṅgama Sūtra* 《大佛頂首楞嚴經》, trans. Pāramiti, *Taishō* vol. 19, No. 945.
+18. *Mahāprajñāpāramitā-śāstra* 《大智度論》, by Nāgārjuna, trans. Kumārajīva, *Taishō* vol. 25, No. 1509.
+19. *Laṅkāvatāra Sūtra* 《大乘入楞伽經》, trans. Śikṣānanda, *Taishō* vol. 16, No. 672.
+20. *Yuqie lunji* 《瑜伽論記》, compiled by Dunlun (Tang), *Taishō* vol. 42, No. 1828.
+21. *Shoulengyan yishu zhujing* 《首楞嚴義疏注經》, compiled by Zixuan (Song), *Taishō* vol. 39, No. 1799.
 
 ### II. Modern Scholarship
 
