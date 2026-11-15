@@ -6,7 +6,7 @@ series_short: "S8"
 paper_id: "S8-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # No Distance to Cross

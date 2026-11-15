@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Twenty-Five Perfect Penetrations: The Door That Fits You

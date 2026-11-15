@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P11"
 paper_number: 11
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Ten Māras of the Formations Aggregate — The Mirror-Student and the Net of the *Brahmajāla*
@@ -624,7 +624,7 @@ The entire cultivation of the formations-aggregate stage is contained in the fou
 
 **Word count:** approximately 16,500 English words
 **Date completed:** April 2026
-**Version:** 1.0
+**Version:** 1.2
 **Author:** Shi Huijing (釋慧鏡)
 **License:** CC BY-NC-SA 4.0
 **Series:** S6 Reflection — *Śūraṅgama Sūtra* / Paper 11 of 13

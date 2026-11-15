@@ -605,7 +605,7 @@ From form aggregate to consciousness aggregate, the entire map of the fifty *ska
 
 ---
 
-**Version:** 1.0
+**Version:** 1.1
 **Author:** Shi Huijing (釋慧鏡)
 **License:** CC BY-NC-SA 4.0
 **Series:** S6 Reflection — *Śūraṅgama Sūtra* / Paper 12 of 13

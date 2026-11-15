@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P10"
 paper_number: 10
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Universal Gate of Avalokiteśvara: The Structure of Compassionate Response and an Etymological Inquiry into the Name

@@ -6,7 +6,7 @@ series_short: "S8"
 paper_id: "S8-P09"
 paper_number: 9
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Prologue to Sudhana's Southward Journey — Vow 9 *Accommodating All Sentient Beings* × The Gate of Revealing the Dharma through Reliance on Phenomena

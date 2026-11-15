@@ -6,7 +6,7 @@ series_short: "S6"
 paper_id: "S6-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Three Gradual Stages and the Ground of Dry Wisdom: Purification Before Entering

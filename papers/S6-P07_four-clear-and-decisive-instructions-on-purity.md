@@ -5,7 +5,7 @@ series_short: "S6"
 paper_id: "S6-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Four Clear and Decisive Instructions on Purity: The First Perimeter Before Entering

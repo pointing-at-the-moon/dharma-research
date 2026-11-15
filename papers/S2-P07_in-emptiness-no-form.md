@@ -6,7 +6,7 @@ series_short: "S2"
 paper_id: "S2-P07"
 paper_number: 7
 date: "2026-03"
-version: "1.2"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # In Emptiness There Is No Form: Awareness of Sense-Bases, Objects, and Consciousness

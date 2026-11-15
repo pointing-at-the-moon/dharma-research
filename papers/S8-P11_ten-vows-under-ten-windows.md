@@ -6,7 +6,7 @@ series_short: "S8"
 paper_id: "S8-P11"
 paper_number: 11
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Ten Vows under Ten Windows

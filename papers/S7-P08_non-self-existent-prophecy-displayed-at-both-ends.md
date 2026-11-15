@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P08"
 paper_number: 8
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Non-Self-Existent Prophecy Displayed at Both Ends: The Symmetrical Wings of the Devadatta Chapter and the Limits of a Seed-Reading

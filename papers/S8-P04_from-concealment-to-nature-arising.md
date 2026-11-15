@@ -5,7 +5,7 @@ series_short: "S8"
 paper_id: "S8-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # From Concealment to Nature-Arising: Repentance of Karmic Obstructions as the Gate of Practice into the Huayan Perfect Teaching

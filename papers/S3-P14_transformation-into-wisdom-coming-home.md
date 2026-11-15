@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P14"
 paper_number: 14
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Transformation into Wisdom: Coming Home

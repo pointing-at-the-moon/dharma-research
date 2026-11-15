@@ -6,7 +6,7 @@ series_short: "S3"
 paper_id: "S3-P03"
 paper_number: 3
 date: "2026-03"
-version: "2.1"
+version: "2.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Ālaya-vijñāna: The Hard Drive of Life

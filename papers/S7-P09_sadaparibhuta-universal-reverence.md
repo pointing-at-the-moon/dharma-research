@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P09"
 paper_number: 9
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Sadāparibhūta Bodhisattva: The Universal Reverence Dharma-Gate and the Operationalization of Prediction

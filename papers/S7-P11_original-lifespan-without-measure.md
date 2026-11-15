@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P11"
 paper_number: 11
 date: "2026-04"
-version: "1.1"
+version: "1.3"
 license: "CC BY-NC-SA 4.0"
 ---
 # Original Lifespan Without Measure — The Inaugural Disclosure of the Original-Gate in the *Lifespan Chapter* and the Temporal Structure of the Dharma-Body

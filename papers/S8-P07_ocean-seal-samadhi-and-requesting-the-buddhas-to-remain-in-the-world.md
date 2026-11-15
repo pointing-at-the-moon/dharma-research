@@ -6,7 +6,7 @@ series_short: "S8"
 paper_id: "S8-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Ocean-Seal Samādhi and Requesting the Buddhas to Remain in the World

@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P07"
 paper_number: 7
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Robe-Jewel and the Topknot-Jewel: Two Modes of the Intrinsic Treasure

@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P12"
 paper_number: 12
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # From Star to Black Hole — The Lotus's Gathering and the Avataṃsaka's Manifestation

@@ -5,7 +5,7 @@ series_short: "S7"
 paper_id: "S7-P06"
 paper_number: 6
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Parable of the Conjured City
