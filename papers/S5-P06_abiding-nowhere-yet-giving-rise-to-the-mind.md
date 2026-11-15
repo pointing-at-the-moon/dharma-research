@@ -323,12 +323,11 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 2. *Vimalakīrtinirdeśa Sūtra* (維摩詰所說經), trans. Kumārajīva, T14, No. 0475.
 3. *Mahāprajñāpāramitā Sūtra* (大般若波羅蜜多經), trans. Xuanzang, T5–7, No. 0220.
 4. *Laṅkāvatāra Sūtra* (楞伽阿跋多羅寶經), trans. Guṇabhadra, T16, No. 0670.
-5. *Laṅkāvatāra Sūtra* (入楞伽經), trans. Bodhiruci, T16, No. 0671.
-6. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Paramiti, T19, No. 0945.
-7. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 0676.
-8. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
-9. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
-10. *Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), comp. Zongbao, T48, No. 2008.
+5. *Śūraṅgama Sūtra* (大佛頂首楞嚴經), trans. Paramiti, T19, No. 0945.
+6. *Saṃdhinirmocana Sūtra* (解深密經), trans. Xuanzang, T16, No. 0676.
+7. *Cheng weishi lun* (成唯識論), by Dharmapāla et al., trans. Xuanzang, T31, No. 1585.
+8. *Jingang jing zuanyao kanding ji* (金剛經纂要刊定記), by Zixuan, T33, No. 1702.
+9. *Platform Sūtra of the Sixth Patriarch* (六祖大師法寶壇經), comp. Zongbao, T48, No. 2008.
 
 ### II. Modern Scholarship
 
@@ -343,12 +342,11 @@ Third, the corroboration layer: the Vimalakīrti Sūtra's "from non-abiding as r
 | 2 | Vimalakīrti Sūtra | Vimalakīrtinirdeśa Sūtra | T14 | 0475 | Kumārajīva | Fasc. 1, 2 |
 | 3 | Great Prajñāpāramitā | Mahāprajñāpāramitā Sūtra | T5–7 | 0220 | Xuanzang | Fasc. 570 |
 | 4 | Laṅkāvatāra (Liu Song) | Laṅkāvatāra Sūtra | T16 | 0670 | Guṇabhadra | Fasc. 1, 4 |
-| 5 | Laṅkāvatāra (N. Wei) | Laṅkāvatāra Sūtra | T16 | 0671 | Bodhiruci | Fasc. 4, 8 |
-| 6 | Śūraṅgama Sūtra | Śūraṅgama Sūtra | T19 | 0945 | Paramiti | Fasc. 1 |
-| 7 | Saṃdhinirmocana | Saṃdhinirmocana Sūtra | T16 | 0676 | Xuanzang | Fasc. 2, 3, 5 |
-| 8 | Cheng weishi lun | Cheng weishi lun | T31 | 1585 | Dharmapāla / Xuanzang | Fasc. 9, 10 |
-| 9 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33 | 1702 | Zixuan | Fasc. 2, 4, 5 |
-| 10 | Platform Sūtra | Platform Sūtra of the Sixth Patriarch | T48 | 2008 | Zongbao | Fasc. 1 |
+| 5 | Śūraṅgama Sūtra | Śūraṅgama Sūtra | T19 | 0945 | Paramiti | Fasc. 1 |
+| 6 | Saṃdhinirmocana | Saṃdhinirmocana Sūtra | T16 | 0676 | Xuanzang | Fasc. 2, 3, 5 |
+| 7 | Cheng weishi lun | Cheng weishi lun | T31 | 1585 | Dharmapāla / Xuanzang | Fasc. 9, 10 |
+| 8 | Zixuan's Kanding ji | Jingang jing zuanyao kanding ji | T33 | 1702 | Zixuan | Fasc. 2, 4, 5 |
+| 9 | Platform Sūtra | Platform Sūtra of the Sixth Patriarch | T48 | 2008 | Zongbao | Fasc. 1 |
 
 ---
 
