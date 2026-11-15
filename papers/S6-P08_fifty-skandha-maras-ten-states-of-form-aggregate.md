@@ -377,7 +377,7 @@ This discourse provides an ontological grounding for the Āgama's "knowing as it
 
 This point is profoundly important for contemporary meditators. **You do not need to "learn" to recognize the form-aggregate states; you need only maintain non-delusion — and in the state of non-delusion, recognition occurs automatically.** The work of practice is not to acquire a diagnostic technique but to sustain the awakened condition of the five-aggregate host. The former is seeking outside; the latter is inner observation. The former grows heavier and more exhausting with study; the latter grows simpler and lighter with practice.
 
-### 3.3 "Not Construing as Sagely" as the Unfolding of "Knowing as It Truly Is" and "Subduing All Perceptions"
+### 3.3 "Not Taking It as a Holy Mind" as the Unfolding of "Knowing as It Truly Is" and "Subduing All Perceptions"
 
 The relation between the Śūraṅgama's "not taking it as a holy mind, it is called a wholesome state" and the Āgama's "knowing as it truly is" and "subduing all perceptions" deserves further refinement. These are three expressions of the same teaching, but with subtly different emphases, forming a graduated three-layer diagnostic procedure.
 

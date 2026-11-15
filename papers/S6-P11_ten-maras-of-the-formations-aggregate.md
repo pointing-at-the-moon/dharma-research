@@ -394,7 +394,7 @@ But the error of the *mirror-student* is *structural* — **once you have render
 
 This is why the Śūraṅgama's warning concerning the ten formations-aggregate māras takes the severe form "completing the great false speech, falling into the Avīci hell." Not because it is threatening the practitioner (the Śūraṅgama never uses threats as instruction), but because it is describing a structural fact — **once the "mad interpretation" of the formations-aggregate stage has been taken for true, the practitioner has entered a closed loop that admits no self-correction.** *Avīci hell* is not an external punishment but the structural name for that closed loop itself — a structure with no gap, no exit, no margin within which correction might be possible.
 
-### 3.7 The Cure-Principle: Non-Grasping Is Essential — From the *Brahmajāla*'s "Knowing the Six Contacts … as They Actually Are" to the Śūraṅgama's "Forming No Saintly Mind"
+### 3.7 The Cure-Principle: Non-Grasping Is Essential — From the *Brahmajāla*'s "Knowing the Six Contacts … as They Actually Are" to the Śūraṅgama's "Forming No Holy Mind"
 
 If the structural cause of the ten formations-aggregate māras is "the very act of rendering exhaustive verdict upon the nature of the formations aggregate," then the direction of the cure can only be one: **stop this act.** But the word *stop* requires extreme care in unfolding, because it is easily misread as "do not think" or "enter a state of non-discrimination."
 

@@ -458,7 +458,7 @@ The correct reading is given in §3.4: "external demons concealed" is a phenomen
 
 The paper has repeatedly emphasized that the *vedanā*-skandha is harder than the rūpa-skandha, but this does not mean the rūpa-skandha is easy. The ten realms of the rūpa-skandha are themselves an extraordinarily advanced meditative discrimination — anyone who can enter them is already an advanced practitioner. "Harder" is a relative refinement, not a difficulty ordering. To misread "the *vedanā*-skandha is harder" as "the rūpa-skandha is easy, skip directly" is wholly mistaken. Without the firm ground of the rūpa-skandha there is no doorway into the *vedanā*-skandha at all — every passage in the ten *vedanā*-realms takes "the rūpa-skandha exhausted, the *vedanā*-skandha clarified" as its precondition.
 
-### 5.4 ❌ The Treatment Is Not the Suppression of Feeling, but Not Generating Sagely Conceit
+### 5.4 ❌ The Treatment Is Not the Suppression of Feeling, but Not Generating a Holy Mind
 
 Another common misreading: taking "the treatment of the *vedanā*-demons" to mean "suppressing or eliminating these feelings." This is wrong. The core training of *vedanānupassanā* is "feeling X, he knows feeling X" — knowing-as-it-is, not elimination. Likewise, "not generating a holy mind" treats the verdict, not the phenomenon.
 

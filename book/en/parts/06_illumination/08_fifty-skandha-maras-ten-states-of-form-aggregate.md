@@ -154,7 +154,7 @@ This also echoes the passage on "palaces crumbling"—when the practitioner's fo
 
 The practical meaning for the meditator is this: **the first nine states you can handle by yourself—so long as you do not take them as a holy mind, they return automatically to the category of wholesome states. At the tenth state you must be on guard—because this is no longer your own delusion but the beginning of a true external māra at work.**
 
-### Not Construing as Sagely—The Precision of the Criterion
+### Not Taking It as a Holy Mind—The Precision of the Criterion
 
 The core criterion of the ten form-aggregate states is exquisitely precise, and worth reading one word at a time—
 
