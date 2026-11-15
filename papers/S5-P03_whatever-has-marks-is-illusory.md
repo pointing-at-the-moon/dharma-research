@@ -499,7 +499,7 @@ In the merit-comparison passages, "upholding four lines of verse surpasses givin
 
 ---
 
-*Pointing at the Moon · S5-P03 · Whatever Has Marks Is Illusory: The Diamond Sūtra's First Cut · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P03 · Whatever Has Marks Is Illusory: The Diamond Sūtra's First Cut · Version 1.1 · 2026*
 *The true nature of all dharmas — just as they are.*
 
 ---

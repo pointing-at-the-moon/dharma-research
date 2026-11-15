@@ -721,7 +721,7 @@ P10 will be the final paper of S5 — bridging the *Bǎifǎ* (Hundred Dharmas) t
 
 ---
 
-*Pointing at the Moon · S5-P09 · All Conditioned Phenomena Are Like Dreams and Illusions · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P09 · All Conditioned Phenomena Are Like Dreams and Illusions · Version 1.1 · 2026*
 *The true nature of all dharmas — just as they are.*
 
 ---

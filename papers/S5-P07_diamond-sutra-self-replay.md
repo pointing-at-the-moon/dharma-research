@@ -538,7 +538,7 @@ S5-P10 From Hundred Dharmas to the Diamond — S3 spent fourteen papers construc
 
 ---
 
-*Pointing at the Moon · S5-P07 · The Diamond Sūtra's Self-Replay · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P07 · The Diamond Sūtra's Self-Replay · Version 1.1 · 2026*
 *All dharmas as they truly are.*
 
 ---

@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P01"
 paper_number: 1
 date: "2026-03"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Diamond Prajñā: The "Jífēi" Tripartite Formula as Trisvabhāva Mapping
@@ -462,7 +462,7 @@ Construction and dimensional upgrade — S3's *Treatise on the Doors of the Hund
 
 ---
 
-*Pointing at the Moon · S5-P01 · Diamond Prajñā: The Jífēi Tripartite Formula as Trisvabhāva Mapping · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P01 · Diamond Prajñā: The Jífēi Tripartite Formula as Trisvabhāva Mapping · Version 1.2 · 2026*
 *The true nature of all dharmas — as it has always been.*
 
 ---

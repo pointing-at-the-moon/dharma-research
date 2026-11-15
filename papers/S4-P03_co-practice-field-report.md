@@ -276,7 +276,7 @@ Here is an open question for the next paper: if you and AI co-read a passage of 
 
 ---
 
-*Pointing at the Moon · S4-P03 · Co-Practice: A Field Report from the Pointing-at-the-Moon Project · Version 1.0 · 2026*
+*Pointing at the Moon · S4-P03 · Co-Practice: A Field Report from the Pointing-at-the-Moon Project · Version 1.1 · 2026*
 *True mark of all dharmas, just as they are.*
 
 ---

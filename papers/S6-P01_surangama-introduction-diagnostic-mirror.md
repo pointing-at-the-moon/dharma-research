@@ -379,7 +379,7 @@ The Śūraṅgama Sūtra is a practitioner's diagnostic manual. Its ten fascicle
 
 ### 5.2 Practice Guidance
 
-The Śūraṅgama's core teaching is not a knowledge system to be memorized. Its core is a habit: "If one does not take it as a saintly attainment, it is called a good state; if one regards it as a holy interpretation, one falls prey to all manner of deviance." Whenever you feel you have had some remarkable meditative experience, first pause—do not rush to conclusions. This habit, by itself, is worth more than memorizing the names of all fifty skandha-māra.
+The Śūraṅgama's core teaching is not a knowledge system to be memorized. Its core is a habit: "If one does not take it as a holy mind, it is called a good state; if one regards it as a holy interpretation, one falls prey to all manner of deviance." Whenever you feel you have had some remarkable meditative experience, first pause—do not rush to conclusions. This habit, by itself, is worth more than memorizing the names of all fifty skandha-māra.
 
 Each time you read the Śūraṅgama, you are holding the mirror up to yourself once more. You need not read the whole thing at once, nor understand it all at once. You need only be willing to look.
 
@@ -494,7 +494,7 @@ This is the entry point for S6-P02.
 
 ---
 
-*Pointing at the Moon · S6-P01 · Introduction to the Śūraṅgama Sūtra: The Practitioner's Diagnostic Mirror · Version 1.0 · 2026*
+*Pointing at the Moon · S6-P01 · Introduction to the Śūraṅgama Sūtra: The Practitioner's Diagnostic Mirror · Version 1.1 · 2026*
 *The true nature of all dharmas is originally thus.*
 
 ---

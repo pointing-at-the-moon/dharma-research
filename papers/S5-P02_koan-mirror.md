@@ -384,7 +384,7 @@ AI as the kōan mirror of the digital age — AI holds all knowledge but possess
 
 ---
 
-*Pointing at the Moon · S5-P02 · The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra and the Zhǐyuè Method · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P02 · The Kōan Mirror: Pedagogical Architecture of the Diamond Sūtra and the Zhǐyuè Method · Version 1.1 · 2026*
 *The true nature of all dharmas — as it has always been.*
 
 ---

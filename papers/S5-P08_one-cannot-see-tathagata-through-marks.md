@@ -661,7 +661,7 @@ The next paper, S5-P09, enters the Diamond Sūtra's final conclusion: the six si
 
 ---
 
-*Pointing at the Moon · S5-P08 · One Cannot See the Tathāgata Through Marks · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P08 · One Cannot See the Tathāgata Through Marks · Version 1.1 · 2026*
 *The true nature of all dharmas — just as it is.*
 
 ---

@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P05"
 paper_number: 5
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # The Pedagogical Arc of Merit Comparisons
@@ -623,7 +623,7 @@ S5-P09 will analyze the §32 six similes — this paper has touched on the simil
 
 ---
 
-*Pointing at the Moon · S5-P05 · The Pedagogical Arc of Merit Comparisons · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P05 · The Pedagogical Arc of Merit Comparisons · Version 1.2 · 2026*
 *The true nature of all dharmas has always been thus.*
 
 ---

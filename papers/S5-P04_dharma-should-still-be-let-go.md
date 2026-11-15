@@ -5,7 +5,7 @@ series_short: "S5"
 paper_id: "S5-P04"
 paper_number: 4
 date: "2026-04"
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
 ---
 # Dharma Should Still Be Let Go
@@ -600,7 +600,7 @@ The six similes of §32 (dream, illusion, bubble, shadow, dew, lightning) repres
 
 ---
 
-*Pointing at the Moon · S5-P04 · Dharma Should Still Be Let Go · Version 1.0 · 2026*
+*Pointing at the Moon · S5-P04 · Dharma Should Still Be Let Go · Version 1.2 · 2026*
 *The true nature of all dharmas — just as it is.*
 
 ---
