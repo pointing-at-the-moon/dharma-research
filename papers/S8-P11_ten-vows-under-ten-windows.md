@@ -20,7 +20,7 @@ license: "CC BY-NC-SA 4.0"
 
 The Ten Profound Gates (*shíxuán mén* 十玄門) formulated by the Huayan patriarch Fazang constitute the central doctrinal structure by which the Huayan tradition articulates *dharmadhātu* dependent origination (*fǎjiè yuánqǐ* 法界緣起). Successive patriarchs—Zhiyan, Fazang himself, Chengguan, and Zongmi—adjusted the order, the gate names, and the totality-differentiation relations among the ten gates. This paper does not rehearse that hermeneutic history. Instead, it proposes an original soteriological thesis: **the Ten Profound Gates and the Ten Great Vows of Samantabhadra (*Pǔxián shí dà yuàn wáng* 普賢十大願王) constitute two coordinated unfoldings of a single Perfect Teaching (*yuánjiào* 圓教) structure—the former as discursive face, the latter as practical face**.
 
-The Ten Gates, on this reading, are not ten independent doctrinal channels but rather a "one-totality, nine-differentiations" stereoscopic structure—a reading made explicit by Chengguan's dictum that "the Gate of Simultaneous Mutual Correspondence contains the lower nine gates, while the lower nine do not contain Simultaneous Mutual Correspondence." The Ten Vows are likewise not ten independent daily practices but a single bodhisattva mind-conduct deployed across ten facets. Building on Chengguan's asymmetric formulation, this paper installs each gate onto its corresponding vow and then performs two "pivot demonstrations" (the Gate of Simultaneous Mutual Correspondence containing all ten vows; Homage to All Buddhas containing all ten gates) to display how *one-is-all* operates in actual practice.
+The Ten Gates, on this reading, are not ten independent doctrinal channels but rather a "one-totality, nine-differentiations" stereoscopic structure—a reading made explicit by Chengguan's dictum that "the Gate of Simultaneous Mutual Correspondence contains the lower nine gates, while the lower nine do not contain Simultaneous Mutual Correspondence." The Ten Vows are likewise not ten independent daily practices but a single bodhisattva mind-conduct deployed across ten facets. Building on Chengguan's asymmetric formulation, this paper installs each gate onto its corresponding vow and then performs two "pivot demonstrations" (the Gate of Simultaneous Mutual Correspondence containing all ten vows; Paying Reverence and Respect to the Buddhas containing all ten gates) to display how *one-is-all* operates in actual practice.
 
 The paper's own structure is itself a demonstration of the Ten Gates—reading it constitutes a single complete passage through the Gates' structure. This paper is the culminating gathering of the ten cultivation correspondences across the S8 series, and it also lays preparatory ground for the formal argument of the original thesis in S8-P10 (Samantabhadra's Vows of Practice).
 
@@ -173,7 +173,7 @@ This sub-section lists only the necessary anchors; no expansion of historical cr
 
 **3. Fazang, *Essay on the Golden Lion of the Avataṃsaka* (*Huáyán jīnshīzi zhāng* 華嚴金師子章, T1880 / T1881).** Fazang's most succinct demonstration, delivered as a teaching to Empress Wu Zetian. Here Fazang uses "gold" (metaphor for dharma-realm essence) and "lion" (metaphor for dependently-arisen phenomena) to install the Ten Gates, one by one, onto the single concrete image of a "golden lion." **This is the most important patriarchal precedent for the present paper**: Fazang has already demonstrated the installation of the Ten Gates onto a simple concrete object. What this paper does is identical in spirit—only the object is exchanged, from the golden lion to the actions of daily practice.
 
-Fazang's handling of the Gate of Simultaneous Mutual Correspondence in the *Golden Lion* can serve as a methodological template for §III of this paper: "Gold and lion arise simultaneously; complete, perfect, mutually fulfilling." In twelve characters the abstract doctrine is collapsed onto a single concrete visual image. §3.1 of this paper ("Homage to All Buddhas × Simultaneous Mutual Correspondence") adopts the same method—collapsing the abstract doctrine onto a single concrete bodily action.
+Fazang's handling of the Gate of Simultaneous Mutual Correspondence in the *Golden Lion* can serve as a methodological template for §III of this paper: "Gold and lion arise simultaneously; complete, perfect, mutually fulfilling." In twelve characters the abstract doctrine is collapsed onto a single concrete visual image. §3.1 of this paper ("Paying Reverence and Respect to the Buddhas × Simultaneous Mutual Correspondence") adopts the same method—collapsing the abstract doctrine onto a single concrete bodily action.
 
 **4. Chengguan, *Commentary on the Avataṃsaka Sūtra* (T1735) and *Elaborated Exegesis* (T1736).** The proponent of the "one-totality, nine-differentiations" reading. Chengguan makes this reading explicit in three places:
 
@@ -206,7 +206,7 @@ But Chengguan does not stop there. Slightly later in the same passage, he adds:
 
 This is a critical turn. "Speaking in terms of non-separation" means: when we shift focus from the "totality-differentiation relation" to the "non-separation (mutual containment) relation," each differentiation-gate also contains the other nine. Chengguan thus gives two grammars for "one-contains-ten":
 
-- **Totality-grammar**: the Gate of Simultaneous Mutual Correspondence, as "totality," contains the subsequent nine gates—this is the position already held by S8-P01 (the Gate of Simultaneous Mutual Correspondence × Vow 1, Homage to All Buddhas).
+- **Totality-grammar**: the Gate of Simultaneous Mutual Correspondence, as "totality," contains the subsequent nine gates—this is the position already held by S8-P01 (the Gate of Simultaneous Mutual Correspondence × Vow 1, Paying Reverence and Respect to the Buddhas).
 - **Differentiation-grammar**: each differentiation-gate also contains the other nine—this is what §III of this paper demonstrates in each pair.
 
 In other words: "one-is-all" in the structure of the Ten Gates operates at two scales. The first scale is "totality over totality"—the Gate of Simultaneous Mutual Correspondence, as totality, naturally contains the subsequent nine gates. The second scale is "differentiation over totality"—each differentiation-gate, when you enter into its internal structure, also contains the other nine. **The first scale is "structural containment"; the second is "performative containment."**
@@ -215,15 +215,15 @@ This distinction has two direct consequences for how this paper is written.
 
 **Consequence One: §3.1–§3.10 of this paper cannot be written as isolated pair-by-pair correspondences.** If each pair were written only as a single-line correspondence ("Vow 1 ↔ Simultaneous Mutual Correspondence; Vow 2 ↔ Broad-and-Narrow..."), the writing would remain at the level of "differentiation against differentiation" and would not touch the "differentiation-against-totality" scale. Each pair in this paper must display how "this window also contains the shadows of the other nine windows"—this is the necessity of the "horizontal leakage" block in each pair.
 
-**Consequence Two: This paper must, in §3.11 (Pivot Demonstrations), push "one-contains-ten" to its logical limit.** It is not enough to offer "horizontal hints" in each pair; at some point (§3.11), the full unfolding of "one-contains-ten" must be displayed. This paper selects a totality-gate (Simultaneous Mutual Correspondence) and shows how it contains all ten vows; it selects a totality-vow (Homage to All Buddhas) and shows how it contains all ten gates. These pivot demonstrations are not "another iteration"; they are the explicit completion of what the horizontal leakages only hint at, so the reader may see with her own eyes the full shape of "one-is-ten."
+**Consequence Two: This paper must, in §3.11 (Pivot Demonstrations), push "one-contains-ten" to its logical limit.** It is not enough to offer "horizontal hints" in each pair; at some point (§3.11), the full unfolding of "one-contains-ten" must be displayed. This paper selects a totality-gate (Simultaneous Mutual Correspondence) and shows how it contains all ten vows; it selects a totality-vow (Paying Reverence and Respect to the Buddhas) and shows how it contains all ten gates. These pivot demonstrations are not "another iteration"; they are the explicit completion of what the horizontal leakages only hint at, so the reader may see with her own eyes the full shape of "one-is-ten."
 
-**The Ten Great Vows likewise have a totality-differentiation structure.** Which vow is the "totality"? This is the question that S8-P10 §VI will formally argue. The present paper offers a pointing answer: **Homage to All Buddhas is the totality of the ten vows, because homage itself already contains the other nine vows**—and the gate it corresponds to, the Gate of Simultaneous Mutual Correspondence, is likewise the totality of the Ten Gates. **The correspondence totality-vow-to-totality-gate is not coincidence; it is the same Perfect Teaching structure unfolding its two faces in parallel on the soteriological and the discursive sides.** §3.11.B below will display how this one action of Homage to All Buddhas contains the shadows of the other nine vows.
+**The Ten Great Vows likewise have a totality-differentiation structure.** Which vow is the "totality"? This is the question that S8-P10 §VI will formally argue. The present paper offers a pointing answer: **Paying Reverence and Respect to the Buddhas is the totality of the ten vows, because homage itself already contains the other nine vows**—and the gate it corresponds to, the Gate of Simultaneous Mutual Correspondence, is likewise the totality of the Ten Gates. **The correspondence totality-vow-to-totality-gate is not coincidence; it is the same Perfect Teaching structure unfolding its two faces in parallel on the soteriological and the discursive sides.** §3.11.B below will display how this one action of Paying Reverence and Respect to the Buddhas contains the shadows of the other nine vows.
 
 Having articulated this pivot, this section proceeds directly to the ten-pair unfolding.
 
 ---
 
-### 3.1 Vow 1: Homage to All Buddhas × Gate of Simultaneous Mutual Correspondence
+### 3.1 Vow 1: Paying Reverence and Respect to the Buddhas × Gate of Simultaneous Mutual Correspondence
 
 **The action.** A standard prostration breaks into seven phases: palms joined, head lowered, knees bent, kneeling, forehead to ground, palms turned up, rising. From the outside, these seven phases are linear—palms join before the knees bend; kneeling precedes the forehead touching the ground. Each physical phase has temporal priority.
 
@@ -249,7 +249,7 @@ When the inner grammar of this prostration ceases to be the dualistic structure 
 
 ---
 
-### 3.2 Vow 2: Praise of the Tathāgata × Gate of Unhindered Freedom of Broad and Narrow
+### 3.2 Vow 2: Praising the Tathāgatas × Gate of Unhindered Freedom of Broad and Narrow
 
 **The action.** The nine-character formula "Homage to the Original Teacher Śākyamuni Buddha" (*Námó běnshī Shìjiāmóuní Fó* 南無本師釋迦牟尼佛). Or the recitation of a verse of praise: "In heaven and on earth there is none like the Buddha; in the worlds of the ten directions there is also none to compare; of all that the world contains I have seen, none is like the Buddha." A single word, a single phrase, a single verse—this is the physical action of praise.
 
@@ -259,7 +259,7 @@ Installed onto the action of praise: the nine characters of "Homage to the Origi
 
 **The reversal of time and space.** Praise is not a quantitative relation of "short phrases are inferior to long verses" (it is not that reciting a verse a thousand times creates more merit than reciting a short phrase); it is the qualitative structure of "the sincerity of the narrow is the dharma-realm resonance of the broad." When the nine characters are sincere inner-evidential praise, their function is broad; when they are performative outer-directed praise, even a thousand recitations remain narrow. **The difference between broad and narrow is not in the number of recitations but in the inner structure of this one recitation.**
 
-S8-P02 §3.5 proposed a critical reversal in practice: after a reader has worked through S1–S7, the inner grammar of the action "Praise of the Tathāgata" has quietly shifted—from "I praise an external object" to "I recognize in myself the same nature as that object." The recognition is itself praise. And when the recognition is genuine, the dharma-realm praises back. §3.2 of the present paper connects directly to S8-P02 §3.5 and does not rehearse its argument.
+S8-P02 §3.5 proposed a critical reversal in practice: after a reader has worked through S1–S7, the inner grammar of the action "Praising the Tathāgatas" has quietly shifted—from "I praise an external object" to "I recognize in myself the same nature as that object." The recognition is itself praise. And when the recognition is genuine, the dharma-realm praises back. §3.2 of the present paper connects directly to S8-P02 §3.5 and does not rehearse its argument.
 
 **Realizing this in practice.** The reader may perform another inner experiment during praise. When you recite "Homage to the Original Teacher Śākyamuni Buddha," ask: to whom do these two characters "Original Teacher" point?
 
@@ -273,7 +273,7 @@ If they point only to the historical Śākyamuni, then the nine characters are n
 
 ---
 
-### 3.3 Vow 3: Extensive Offering × Gate of Mutual Identity and Sovereign Freedom of All Dharmas
+### 3.3 Vow 3: Cultivating Offerings Far and Wide × Gate of Mutual Identity and Sovereign Freedom of All Dharmas
 
 **The action.** Offer flowers, incense, lamps, water, fruit. Each is arranged before the buddha. A hand passes over the petals; a stick of incense is lit; water is poured into the cup; fruit is placed on the dish. This is the physical action of offering.
 
@@ -285,7 +285,7 @@ Fazang, in the *Essay on the Golden Lion*, uses gold and lion to illustrate mutu
 
 **The reversal of time and space.** Offering is not the unidirectional giving structure of "I give the buddha objects"; it is the mutually-identical structure of "offering instrument, offerer, and recipient are empty of the three wheels." Emptiness of the three wheels is not a rhetorical addition; it is the literal realization of the Gate of Mutual Identity—when offering instrument, offerer, and recipient are mutually identical, the dualistic structure of "giving" dissolves. There is no "I" who is giving; there is no "buddha" who is receiving; there is no "object" independent of the two. These three are three aspects of a single event in the moment of this one offering.
 
-**Realizing this in practice.** The Dharma-offering is supreme. Samantabhadra's unfolding of "Extensive Offering" in the Ten Great Vows explicitly states: "Among all offerings, the Dharma-offering is the highest"—the Dharma-offering includes "offering by practicing according to the teaching, offering by benefiting beings, offering by gathering beings in, offering by bearing the suffering of beings, offering by diligently cultivating wholesome roots, offering by not abandoning the work of a bodhisattva, offering by not leaving the awakening-mind." Why is the Dharma-offering supreme? Because the Dharma-offering most thoroughly realizes "mutual identity"—the act of "practicing according to the teaching" is itself the object of the offering (the Dharma), the offerer and the object of offering being mutually identical in this one action.
+**Realizing this in practice.** The Dharma-offering is supreme. Samantabhadra's unfolding of "Cultivating Offerings Far and Wide" in the Ten Great Vows explicitly states: "Among all offerings, the Dharma-offering is the highest"—the Dharma-offering includes "offering by practicing according to the teaching, offering by benefiting beings, offering by gathering beings in, offering by bearing the suffering of beings, offering by diligently cultivating wholesome roots, offering by not abandoning the work of a bodhisattva, offering by not leaving the awakening-mind." Why is the Dharma-offering supreme? Because the Dharma-offering most thoroughly realizes "mutual identity"—the act of "practicing according to the teaching" is itself the object of the offering (the Dharma), the offerer and the object of offering being mutually identical in this one action.
 
 The progression from matter-offering (flower, incense) → principle-offering (understanding the principle of offering) → Dharma-offering (offering by practicing according to the teaching) is the unfolding of the Four Dharma-Realms (matter → principle → matter-and-principle unhindered → matter-and-matter unhindered) on the action of offering. S8-P03 will develop this in full; the present paper does not repeat it. What the present paper emphasizes is: **the simplest single stick of incense, when its inner grammar is "mutual identity," is already the deepest Dharma-offering**.
 
@@ -323,7 +323,7 @@ In the moment of true confession, both extremes are simultaneously transcended. 
 
 ---
 
-### 3.5 Vow 5: Rejoicing in Others' Merit × Gate of Host-and-Guest Perfect Clarity and Complete Virtue
+### 3.5 Vow 5: Rejoicing in Merit and Virtue × Gate of Host-and-Guest Perfect Clarity and Complete Virtue
 
 **The action.** Hearing that another has done good, practiced, or attained fruition—a friend begins to keep precepts, an elder funds the building of a stūpa, a teacher enters a ten-year retreat, a stranger rescues others in an earthquake. At the moment of hearing, joy arises in the heart. This is the "action" of rejoicing—it does not even require an external bodily movement, only the single inner thought of joy.
 
@@ -352,7 +352,7 @@ A deeper observation: **in the moment of genuine rejoicing, the duality of "I" a
 
 **Practice layer.**
 
-Kneel and request the buddhas, the saṅgha, and good spiritual friends to expound the Dharma. Or in your mind raise gratitude toward all good spiritual friends who have ever taught you, and request that they continue to turn the Dharma-wheel. Or while reading sūtras and treatises, raise the inner gesture of "requesting the turning of the wheel." Requesting the Dharma is not limited to outward verbal request; the deeper layer is the inner posture of requesting.
+Kneel and request the buddhas, the saṅgha, and good spiritual friends to expound the Dharma. Or in your mind raise gratitude toward all good spiritual friends who have ever taught you, and request that they continue to turn the Dharma-wheel. Or while reading sūtras and treatises, raise the inner gesture of "requesting the turning of the Dharma wheel." Requesting the Dharma is not limited to outward verbal request; the deeper layer is the inner posture of requesting.
 
 **The window opens.**
 
@@ -386,21 +386,21 @@ When this one thought of requesting is an Indra's-net request, this one thought 
 
 ---
 
-### 3.7 Vow 7 Requesting the Buddhas to Remain in the World × The Gate of Subtle Containment and Establishment
+### 3.7 Vow 7 Requesting the Buddhas to Abide in the World × The Gate of Subtle Containment and Establishment
 
 **Practice layer.**
 
-Request the buddhas, bodhisattvas, śrāvakas, pratyekabuddhas, and all spiritual friends not to enter parinirvāṇa, but to remain in the world for the sake of sentient beings. Or in your mind ask all spiritual friends who have ever guided you to "please continue to be present for me." Or in moments of reading the sūtras and treatises, raise the gesture of "requesting the buddhas to remain in the world."
+Request the buddhas, bodhisattvas, śrāvakas, pratyekabuddhas, and all spiritual friends not to enter parinirvāṇa, but to remain in the world for the sake of sentient beings. Or in your mind ask all spiritual friends who have ever guided you to "please continue to be present for me." Or in moments of reading the sūtras and treatises, raise the gesture of "requesting the buddhas to abide in the world."
 
 **The window opens.**
 
 The core teaching of the Subtle Containment and Establishment Gate is: in any one fine, subtle position, all the meanings of the dharma-realm are completely contained, and these meanings are mutually established without obstruction. The metaphor in Fazang's *Golden Lion Chapter* is: "Gold and the lion: now hidden, now manifest; now one, now many. Determinately pure, determinately mixed; with power, without power. Identical here, identical there; host and guest mutually radiant. Principle and matter simultaneously appearing, all completely contained, without obstructing the establishment of the subtle"[^31]. The point of this gate is "in the most fine and subtle, the most complete is contained."
 
-Install this teaching onto requesting the buddhas to remain in the world: when you request the buddhas to remain, this request is not a request for "physical longevity"; it is a request that "the buddhas' presence be subtly contained in every fine and subtle position." Every breath of yours, every glance, every thought—if it can be a position where the buddhas' presence is contained, then the buddhas have already remained in the world, in the most subtle way.
+Install this teaching onto requesting the buddhas to abide in the world: when you request the buddhas to abide in the world, this request is not a request for "physical longevity"; it is a request that "the buddhas' presence be subtly contained in every fine and subtle position." Every breath of yours, every glance, every thought—if it can be a position where the buddhas' presence is contained, then the buddhas have already remained in the world, in the most subtle way.
 
 **Spatiotemporal inversion.**
 
-The conventional understanding of "requesting the buddhas to remain in the world" is: I request the buddhas not to leave, so that they continue to exist in the visible world. The inversion under the gate of subtle containment is: the buddhas' "remaining in the world" is not a function of physical presence; it is a function of being subtly contained in every fine and subtle position of the practitioner. **As long as one practitioner can have the buddhas' presence subtly contained in their breath and glance, the buddhas have not entered parinirvāṇa.**
+The conventional understanding of "requesting the buddhas to abide in the world" is: I request the buddhas not to leave, so that they continue to exist in the visible world. The inversion under the gate of subtle containment is: the buddhas' "remaining in the world" is not a function of physical presence; it is a function of being subtly contained in every fine and subtle position of the practitioner. **As long as one practitioner can have the buddhas' presence subtly contained in their breath and glance, the buddhas have not entered parinirvāṇa.**
 
 This inversion solves a very stubborn problem: the buddhas have already entered parinirvāṇa more than two thousand years ago; how do we still "request them to remain"? Under the gate of subtle containment, the buddhas' "remaining" never depended on physical longevity. The buddhas' remaining is a function of "subtle containment in the practitioner's every position."
 
@@ -412,7 +412,7 @@ If your answer is yes, then in this moment the buddhas have remained in the worl
 
 **Horizontal leakage.**
 
-When this one act of requesting the buddhas to remain is a subtle-containment request, it is itself **simultaneously mutually corresponding** (the buddhas' remaining contained in every fine subtle position is the simultaneity of one and all), **Indra's net** (each subtle position reflects the buddhas' remaining in all other subtle positions), **mutually identical** (the practitioner and the buddhas remain mutually identical in this subtle position), **host-and-guest perfect clarity** (in this subtle position, the practitioner is host with the buddhas as guests, the buddhas as host with the practitioner as guest). Subtle containment is the central structure of this event; the other nine gates are the same event observed from nine other angles.
+When this one act of requesting the buddhas to abide in the world is a subtle-containment request, it is itself **simultaneously mutually corresponding** (the buddhas' remaining contained in every fine subtle position is the simultaneity of one and all), **Indra's net** (each subtle position reflects the buddhas' remaining in all other subtle positions), **mutually identical** (the practitioner and the buddhas remain mutually identical in this subtle position), **host-and-guest perfect clarity** (in this subtle position, the practitioner is host with the buddhas as guests, the buddhas as host with the practitioner as guest). Subtle containment is the central structure of this event; the other nine gates are the same event observed from nine other angles.
 
 **Pointing-at-the-moon phrase.**
 
@@ -458,21 +458,21 @@ When this one act of constant learning is a mutual-containment-without-identity 
 
 ---
 
-### 3.9 Vow 9 Constantly Accommodating Sentient Beings × The Gate of Dependence on Phenomena to Reveal the Dharma
+### 3.9 Vow 9 Constantly According with Sentient Beings × The Gate of Dependence on Phenomena to Reveal the Dharma
 
 **Practice layer.**
 
-Constantly accommodate sentient beings—not as the parent accommodates the child (with the parent always knowing better), but as Samantabhadra accommodates: serving sentient beings "as one serves one's own father and mother, as one serves one's teacher, the arhats, and the Tathāgata, all equally without distinction." Heal the sick, guide the lost, accompany the lonely, comfort the suffering. Or in your mind raise the inner gesture of "accommodating all sentient beings without distinction."
+Constantly accord with sentient beings—not as the parent accommodates the child (with the parent always knowing better), but as Samantabhadra accommodates: serving sentient beings "as one serves one's own father and mother, as one serves one's teacher, the arhats, and the Tathāgata, all equally without distinction." Heal the sick, guide the lost, accompany the lonely, comfort the suffering. Or in your mind raise the inner gesture of "accommodating all sentient beings without distinction."
 
 **The window opens.**
 
 The core teaching of the Dependence on Phenomena to Reveal the Dharma Gate is: the Dharma is not revealed apart from phenomena; the Dharma is revealed through specific phenomena. Zhiyan's *One-Vehicle Ten Profound Gates*: "Speaking of dependence on phenomena: as in the sūtra raising the matter of the gold-colored realm, this immediately reveals the Dharma of original arising in the actual edge"[^33]. The point of this gate is "no specific phenomenon, no Dharma."
 
-Install this teaching onto accommodating sentient beings: when you accommodate sentient beings, you are not accommodating an abstract category of "sentient beings"; you are accommodating this particular person in front of you, in their particular suffering, in their particular need. **The Dharma is revealed through this particular accommodation, not despite it. If you bypass the particular and try to access the universal directly, you have lost the Dharma.**
+Install this teaching onto constantly according with sentient beings: when you accommodate sentient beings, you are not accommodating an abstract category of "sentient beings"; you are accommodating this particular person in front of you, in their particular suffering, in their particular need. **The Dharma is revealed through this particular accommodation, not despite it. If you bypass the particular and try to access the universal directly, you have lost the Dharma.**
 
 **Spatiotemporal inversion.**
 
-The conventional understanding of "accommodating sentient beings" is: I have wisdom and compassion, and I distribute them to sentient beings. The inversion under the gate of dependence on phenomena is: **sentient beings are the phenomena through which the Dharma reveals itself to me**. Without this particular sentient being in front of me, the Dharma has no occasion to reveal one of its facets. Sentient beings are not the recipients of my compassion; they are the conditions for the Dharma's self-revelation.
+The conventional understanding of "constantly according with sentient beings" is: I have wisdom and compassion, and I distribute them to sentient beings. The inversion under the gate of dependence on phenomena is: **sentient beings are the phenomena through which the Dharma reveals itself to me**. Without this particular sentient being in front of me, the Dharma has no occasion to reveal one of its facets. Sentient beings are not the recipients of my compassion; they are the conditions for the Dharma's self-revelation.
 
 This inversion is structurally crucial. It dissolves a subtle pride that haunts even sincere bodhisattva practice: "I am the giver, they are the receivers." Under the gate of dependence on phenomena, the relationship is reversed—**they are the conditions under which the Dharma reveals itself, and I am the one being revealed to**. My accommodation is not a gift to them; it is the Dharma using their particular existence to teach me one of its facets.
 
@@ -492,7 +492,7 @@ When this one act of accommodation is a dependence-on-phenomena accommodation, i
 
 ---
 
-### 3.10 Vow 10 Universal Dedication × The Gate of Ten-Time Distinct Establishment
+### 3.10 Vow 10 Dedicating All Universally × The Gate of Ten-Time Distinct Establishment
 
 **Practice layer.**
 
@@ -502,7 +502,7 @@ Take all the merit you have accumulated through all the previous nine vows and d
 
 The core teaching of the Ten-Time Distinct Establishment Gate is: the three times (past, present, future) each contain the three times, accomplishing the nine times; the nine times become one, accomplishing the ten times. Each time is distinct (not collapsed into one another), and yet each contains the totality. Zhiyan: "The past speaks of past… The three times become one thought; combined with the previous nine, they make ten times"[^34]. And: "By the power of dependent arising, they are mutually identical and mutually entering, yet do not lose the three times. Like the five fingers becoming a fist without losing the fingers. The ten times though simultaneous do not lose the ten times"[^35].
 
-Install this teaching onto universal dedication: when you dedicate the merit, the dedication is not occurring "now and only now"; it is occurring across the ten times simultaneously. The dedication you make in this present thought is also being made in all your past lives' past, present, and future, in this present life's past, present, and future, and in all your future lives' past, present, and future. **One thought of dedication = ten thoughts of dedication across the ten times.**
+Install this teaching onto dedicating all universally: when you dedicate the merit, the dedication is not occurring "now and only now"; it is occurring across the ten times simultaneously. The dedication you make in this present thought is also being made in all your past lives' past, present, and future, in this present life's past, present, and future, and in all your future lives' past, present, and future. **One thought of dedication = ten thoughts of dedication across the ten times.**
 
 **Spatiotemporal inversion.**
 
@@ -530,23 +530,23 @@ When this one act of dedication is a ten-time dedication, it is itself **simulta
 
 We have now completed the ten vow-gate pairs. Each pair has primary correspondence with its assigned gate and horizontal leakage with the other nine gates. The argument so far has demonstrated that **each vow contains all ten gates** (because each pair's "horizontal leakage" block names the other nine gates' presence in the act). What §III.0 promised was the symmetric demonstration: each gate contains all ten vows. This subsection performs both demonstrations explicitly, on the strength of Chengguan's totality-differentiation pivot.
 
-Two demonstrations follow. The first takes one gate—the gate of simultaneous mutual correspondence, which is the totality among the ten gates—and shows how it contains all ten vows. The second takes one vow—Vow 1, "homage to all buddhas," which is the totality among the ten vows—and shows how it contains all ten gates. The two demonstrations are not arbitrary; they are determined by the totality-differentiation pivot. The two totalities (totality-gate and totality-vow) are the natural starting points for the symmetric exhibition.
+Two demonstrations follow. The first takes one gate—the gate of simultaneous mutual correspondence, which is the totality among the ten gates—and shows how it contains all ten vows. The second takes one vow—Vow 1, "paying reverence and respect to the buddhas," which is the totality among the ten vows—and shows how it contains all ten gates. The two demonstrations are not arbitrary; they are determined by the totality-differentiation pivot. The two totalities (totality-gate and totality-vow) are the natural starting points for the symmetric exhibition.
 
 #### Demonstration A: The Gate of Simultaneous Mutual Correspondence Contains All Ten Vows
 
 The gate of simultaneous mutual correspondence is the totality among the ten gates. As Chengguan explicitly states, "within the gate of simultaneity, the lower nine gates are contained." We now ask: within the gate of simultaneity, are the ten vows also contained? The answer must be yes—because if simultaneity is the totality and the ten vows are practical actualizations of the dharma-realm, then by structural symmetry the ten vows must also be contained within simultaneity.
 
-Concretely: the gate of simultaneous mutual correspondence says that all dharmas are simultaneously mutually corresponding, without before and after, without obstruction. When this teaching is installed onto the totality of the ten vows, the result is: **all ten vows are simultaneously mutually corresponding in any one act of cultivation**. When the practitioner makes one prostration to the buddhas, this one prostration is simultaneously: (1) homage to all buddhas, (2) praise of the Tathāgata (the body's prostration is itself a praise), (3) abundant offering (the body's prostration offers the practitioner's whole being), (4) repentance of karmic obstacles (the body's prostration humbles the karmic obstacles), (5) rejoicing in merit (the body's prostration rejoices in the buddhas' awakening), (6) requesting the Dharma-wheel (the body's prostration is itself a request that the Dharma continue to turn), (7) requesting the buddhas to remain (the body's prostration asks the buddhas not to leave), (8) constant learning from the Buddha (the body's prostration follows the model of all bodhisattvas who have prostrated), (9) accommodating sentient beings (the body's prostration includes all beings in this single act), (10) universal dedication (the body's prostration is dedicated to all beings).
+Concretely: the gate of simultaneous mutual correspondence says that all dharmas are simultaneously mutually corresponding, without before and after, without obstruction. When this teaching is installed onto the totality of the ten vows, the result is: **all ten vows are simultaneously mutually corresponding in any one act of cultivation**. When the practitioner makes one prostration to the buddhas, this one prostration is simultaneously: (1) paying reverence and respect to the buddhas, (2) praising the Tathāgatas (the body's prostration is itself a praise), (3) cultivating offerings far and wide (the body's prostration offers the practitioner's whole being), (4) repenting of karmic obstructions (the body's prostration humbles the karmic obstacles), (5) rejoicing in merit and virtue (the body's prostration rejoices in the buddhas' awakening), (6) requesting the turning of the Dharma-wheel (the body's prostration is itself a request that the Dharma continue to turn), (7) requesting the buddhas to abide in the world (the body's prostration asks the buddhas not to leave), (8) constant learning from the Buddha (the body's prostration follows the model of all bodhisattvas who have prostrated), (9) constantly according with sentient beings (the body's prostration includes all beings in this single act), (10) dedicating all universally (the body's prostration is dedicated to all beings).
 
 **These ten are not "ten meanings sequentially read into one prostration"; they are simultaneously present in the one prostration.** This simultaneous presence is the literal application of the gate of simultaneous mutual correspondence to the ten vows.
 
 The reader may object: but is this not just rhetorical multiplication? Are these ten "really" present, or am I just decorating one act with ten labels? The answer is: under the gate of simultaneous mutual correspondence, the question "really present or just labeled" is itself misframed. **In the perfect-teaching reading, "present" means "structurally instantiated by the act," and the prostration structurally instantiates all ten vows in their relational totality.** If you read "present" in the separative sense (each vow as a distinct thing that must be located in the act), you have already left the perfect-teaching framework.
 
-#### Demonstration B: Homage to All Buddhas Contains All Ten Gates
+#### Demonstration B: Paying Reverence and Respect to the Buddhas Contains All Ten Gates
 
-Homage to all buddhas is the totality among the ten vows. (The full argument for why is reserved for S8-P10 §VI; here we accept the structural fact.) We now ask: within homage to all buddhas, are the ten gates also contained? The answer must be yes—by the same symmetry as Demonstration A.
+Paying reverence and respect to the buddhas is the totality among the ten vows. (The full argument for why is reserved for S8-P10 §VI; here we accept the structural fact.) We now ask: within paying reverence and respect to the buddhas, are the ten gates also contained? The answer must be yes—by the same symmetry as Demonstration A.
 
-Concretely: homage to all buddhas means making prostrations and offerings to "all buddhas of past, present, and future, throughout the ten directions, exhausting the limits of empty space, of the dharma-realm." When this one act is performed in the perfect-teaching framework, the ten gates are simultaneously instantiated:
+Concretely: paying reverence and respect to the buddhas means making prostrations and offerings to "all buddhas of past, present, and future, throughout the ten directions, exhausting the limits of empty space, of the dharma-realm." When this one act is performed in the perfect-teaching framework, the ten gates are simultaneously instantiated:
 
 (1) **Simultaneous mutual correspondence**: the homage and the buddhas correspond at the same instant; there is no temporal gap between "I make homage" and "the buddhas receive homage."
 
@@ -568,7 +568,7 @@ Concretely: homage to all buddhas means making prostrations and offerings to "al
 
 (10) **Ten-time distinct establishment**: this one homage in the present moment is also a homage in past lives' past-present-future, this life's past-present-future, and future lives' past-present-future.
 
-**All ten gates are simultaneously instantiated in the one act of homage to all buddhas.** This is not metaphor; it is the literal structure of the act when performed in the perfect-teaching framework.
+**All ten gates are simultaneously instantiated in the one act of paying reverence and respect to the buddhas.** This is not metaphor; it is the literal structure of the act when performed in the perfect-teaching framework.
 
 #### Closing of §III: The Two-Way Containment Is Now Demonstrated
 
@@ -662,7 +662,7 @@ This section lists five correction items. The first four address potential misre
 
 ### 5.1 ❌1 The Mechanized Reading of Correspondence (Pedagogical Danger #13, Main Battlefield)
 
-**Potential misreading.** Reading "ten gates corresponding to ten vows" as an "vow = gate" equation. For example: "Homage to the buddhas *is* the gate of simultaneous mutual correspondence; abundant offerings *is* the gate of mutual identity…" This reading degrades correspondence into identity.
+**Potential misreading.** Reading "ten gates corresponding to ten vows" as an "vow = gate" equation. For example: "Paying reverence and respect to the buddhas *is* the gate of simultaneous mutual correspondence; cultivating offerings far and wide *is* the gate of mutual identity…" This reading degrades correspondence into identity.
 
 **Correction.** Correspondence is not "vow = gate" as an equation; it is the intermeshing of the cultivation face and the discursive face. "Intermeshing" is not "merging"—the vow remains an action (concrete movements the bodhisattva makes at the level of body and consciousness), the gate remains a doctrine (the angle from which the Huayan patriarchs observe the dharma-realm structure). The position of the correspondence is: the inner structure of each vow on the cultivation face is precisely what some gate describes as the dharma-realm structure on the discursive face. The two are two self-displays of the same perfect-teaching structure, not two names for the same thing.
 
@@ -733,7 +733,7 @@ This is the second time this paper has marked the position of putting down the p
 
 ### 6.1 The Ten Windows Are Now Installed
 
-This paper has done one concrete thing: install Fazang's Ten Profound Gates one by one onto the ten actions of Samantabhadra's Great Vows. Beginning with the gate of simultaneous mutual correspondence × homage to all buddhas, ending with the gate of ten-time distinct establishment × universal dedication. After the ten pairs are unfolded, two pivot demonstrations (the gate of simultaneous correspondence containing all ten vows; homage to all buddhas containing all ten gates) demonstrate the concrete operation of "one is ten" on the cultivation face.
+This paper has done one concrete thing: install Fazang's Ten Profound Gates one by one onto the ten actions of Samantabhadra's Great Vows. Beginning with the gate of simultaneous mutual correspondence × paying reverence and respect to the buddhas, ending with the gate of ten-time distinct establishment × dedicating all universally. After the ten pairs are unfolded, two pivot demonstrations (the gate of simultaneous correspondence containing all ten vows; paying reverence and respect to the buddhas containing all ten gates) demonstrate the concrete operation of "one is ten" on the cultivation face.
 
 The purpose of this installation is not to establish an external correspondence table, but to let the reader see: **each action of Samantabhadra's Great Vows has, in its inner structure, precisely the dharma-realm structure described by some Profound Gate**. Ten gates and ten vows are not the accidental coincidence of two independent systems; they are two self-displays of the same perfect-teaching structure on the discursive face and the cultivation face.
 
@@ -741,7 +741,7 @@ Looking back over the previous ten papers of S8 from this paper, one can see a l
 
 ### 6.2 Folding Back the Foreshadowing for S8-P10 §VI
 
-This paper has hinted at a small thesis: homage to all buddhas is the totality of the ten vows, because homage already contains the other nine vows—and the corresponding gate of simultaneous mutual correspondence is also the totality of the ten gates. **Totality-vow corresponds to totality-gate; this structural symmetry is not accidental, but the two self-displays of the same perfect-teaching structure on the cultivation face and the discursive face.**
+This paper has hinted at a small thesis: paying reverence and respect to the buddhas is the totality of the ten vows, because homage already contains the other nine vows—and the corresponding gate of simultaneous mutual correspondence is also the totality of the ten gates. **Totality-vow corresponds to totality-gate; this structural symmetry is not accidental, but the two self-displays of the same perfect-teaching structure on the cultivation face and the discursive face.**
 
 The formal argument for this small thesis belongs to the work of S8-P10 §VI. S8-P10 will use historical investigation, doctrinal intermeshing, and textual history to formally argue why this original thesis—"the Ten Profound Gates correspond to the Ten Great Vows"—holds. This paper does not repeat P10's work, but in §3.11.B's homage-to-buddhas × ten-gates unfolding has already laid out the cultivation-face evidence for the small thesis—P10 only needs to bring up the academic argument in §VI.
 
@@ -759,9 +759,9 @@ Starting tomorrow, in your daily practice, after completing each action, pause f
 - After repentance: "Where is the karma? Where is the emptiness of karma?" (Gate of hidden-and-manifest mutually accomplished)
 - After rejoicing: "Was he the host or was I the host?" (Gate of host-and-guest perfect clarity)
 - After requesting the Dharma: "Was this individual request or dharma-realm resonance?" (Gate of Indra's net realm)
-- After requesting the buddhas to remain: "Did I request physical time or the limit of the future?" (Gate of subtle containment and establishment)
+- After requesting the buddhas to abide in the world: "Did I request physical time or the limit of the future?" (Gate of subtle containment and establishment)
 - After learning from the Buddha: "Did I learn one or learn all?" (Gate of one-and-many mutual containment)
-- After accommodating sentient beings: "What Dharma is this sentient being revealing?" (Gate of dependence on phenomena to reveal the Dharma)
+- After constantly according with sentient beings: "What Dharma is this sentient being revealing?" (Gate of dependence on phenomena to reveal the Dharma)
 - After dedication: "Was the dedication a transmission or a folding?" (Gate of ten-time distinct establishment)
 
 Ten questions, one round per day. You do not need an answer to every question—the question itself is the cultivation. After asking, the inner structure of the action will slowly transform from linear to perfect-fusion. This transformation will not be completed in a day, and may take many years. But one round per day, and after thirty years looking back, you will see a completely different practitioner.
@@ -842,13 +842,13 @@ The argumentative axis of this paper comes entirely from primary sources. The cr
 |-------|------------------------|
 | S8-P01 *Ocean-Seal Samādhi and the Speaking of the Unspeakable* | Establishes the methodological declarations for the entire S8 series (including Declaration II "Profound-Gates posture" and Declaration IV "the radicalization of sūtras-first-treatises-second at the structural level"). This paper is the meta-level exception to Declaration II (it does not select any single Profound Gate as posture). |
 | S8-P02 *The Yogācāra Position in the Five-Teaching Classification* | Establishes the container thesis (the three-stage container of Inception/Final/Perfect plus audience cosmology). This paper's §IV "the startle is a reaction of the desire-realm consciousness" directly depends on P02's container framework. |
-| S8-P03 *The Four Dharmadhātus* | Will fully unfold the progression of "phenomena → principle → unobstructed-principle-and-phenomena → unobstructed-phenomena-and-phenomena." This paper's §3.3 (abundant offerings) cites this progression but does not unfold it. |
-| S8-P04 *Nature-Origination and Dependent Arising* | Will fully unfold the doctrinal basis of the gate of hidden-and-manifest mutual accomplishment. This paper's §3.4 (repentance of karmic obstacles) references this but does not unfold. |
-| S8-P05 *Buddhahood at the Completion of Faith and the Mutual Containment of Position by Position* | Will fully unfold "practice-buddha not position-buddha" and the mutual containment of positions. This paper's §3.5 (rejoicing in merit) cites Fazang's *Five Teachings* term "practice-buddha." |
+| S8-P03 *The Four Dharmadhātus* | Will fully unfold the progression of "phenomena → principle → unobstructed-principle-and-phenomena → unobstructed-phenomena-and-phenomena." This paper's §3.3 (cultivating offerings far and wide) cites this progression but does not unfold it. |
+| S8-P04 *Nature-Origination and Dependent Arising* | Will fully unfold the doctrinal basis of the gate of hidden-and-manifest mutual accomplishment. This paper's §3.4 (repenting of karmic obstructions) references this but does not unfold. |
+| S8-P05 *Buddhahood at the Completion of Faith and the Mutual Containment of Position by Position* | Will fully unfold "practice-buddha not position-buddha" and the mutual containment of positions. This paper's §3.5 (rejoicing in merit and virtue) cites Fazang's *Five Teachings* term "practice-buddha." |
 | S8-P06 *Indra's Net (Black Hole × Holographic × Quantum Full Display)* | This paper's §IV gives the simplified version of the quantum-entanglement reading; P06 will fully unfold black holes, the holographic principle, AdS/CFT correspondence, and complete the strong-force version of "the startle is a reaction of the desire-realm consciousness" (the carry-forward notes for this paper preserves all materials). |
-| S8-P07 *Ocean-Seal Samādhi* | Will fully unfold "in one thought sealing the three times" and Chengguan's "ten meanings of the ocean-seal explanation." This paper's §3.7 (requesting the buddhas to remain) references this but does not unfold. |
+| S8-P07 *Ocean-Seal Samādhi* | Will fully unfold "in one thought sealing the three times" and Chengguan's "ten meanings of the ocean-seal explanation." This paper's §3.7 (requesting the buddhas to abide in the world) references this but does not unfold. |
 | S8-P08 *The Perfect Fusion of the Six Marks* | Structurally parallel to this paper—both the six marks and the ten profound gates are tools for unfolding the Huayan dharma-realm contemplation, and may serve as supplementary observation to the ten gates. |
-| S8-P09 *Sudhana's Southern Pilgrimage Prologue* | Will fully unfold the personalized concrete embodiment of "dependence on phenomena to reveal the Dharma." This paper's §3.9 (accommodation of sentient beings) foreshadows this. |
+| S8-P09 *Sudhana's Southern Pilgrimage Prologue* | Will fully unfold the personalized concrete embodiment of "dependence on phenomena to reveal the Dharma." This paper's §3.9 (constantly according with sentient beings) foreshadows this. |
 | S8-P10 *Samantabhadra's Vows* | The paired paper of this one. P10 §VI will use historical investigation, doctrinal intermeshing, and textual history to formally argue that "the Ten Profound Gates correspond to the Ten Great Vows" as an original thesis; this paper demonstrates the concrete operation of that correspondence on the cultivation face. **P10 proves it; P11 teaches you how to use it.** This paper's §3.11 hint that "homage is the totality of the ten vows" foreshadows P10 §VI. |
 | S8-P12 *The Single Mark of the Dharma-Realm in the Eight Movements* | The meta-level closure of the eight movements (faith / understanding / practice / inquiry / cutting / illumination / gathering / display). The "ten gates × ten vows" structure built in this paper will be expanded by P12 into "eight movements × dharma-realm structure." |
 | S1-P10 *The Thirty-Seven Wings of Awakening* | The meta-level closure of S1. This paper and S1-P10 correspond in structural function—the latter closes S1's cultivation sequence, the former closes S8's discursive sequence; the two are isomorphic at the level of "sequence is the dharma-realm." |
@@ -895,7 +895,7 @@ The argumentative axis of this paper comes entirely from primary sources. The cr
 [^33]: *One-Vehicle Ten Profound Gates*, fascicle 1: Zhiyan's unfolding of the gate of dependence on phenomena to reveal the Dharma: "Speaking of dependence on phenomena: as in the sūtra raising the matter of the gold-colored realm, this immediately reveals the Dharma of original arising in the actual edge," *Taishō* vol. 45, no. 1868.
 [^34]: *One-Vehicle Ten Profound Gates*, fascicle 1: Zhiyan's unfolding of the gate of ten-time distinct establishment: "The past speaks of past… the three times become one thought; combined with the previous nine, they make ten times," *Taishō* vol. 45, no. 1868.
 [^35]: Same source: "By the power of dependent arising, they are mutually identical and mutually entering, yet do not lose the three times. Like the five fingers becoming a fist without losing the fingers. The ten times though simultaneous do not lose the ten times."
-[^36]: *Mahāvaipulya-buddhāvataṃsaka-sūtra* (40-fascicle), fascicle 40, *Samantabhadra-caryā-praṇidhāna*, universal dedication section: "To the limit of empty space, to the exhaustion of the realm of beings, to the exhaustion of the karma of beings, to the exhaustion of the afflictions of beings; my dedication is without limit. Thought after thought succeeding without interruption, in body, speech, and mind, without weariness," *Taishō* vol. 10, no. 293.
+[^36]: *Mahāvaipulya-buddhāvataṃsaka-sūtra* (40-fascicle), fascicle 40, *Samantabhadra-caryā-praṇidhāna*, dedicating all universally section: "To the limit of empty space, to the exhaustion of the realm of beings, to the exhaustion of the karma of beings, to the exhaustion of the afflictions of beings; my dedication is without limit. Thought after thought succeeding without interruption, in body, speech, and mind, without weariness," *Taishō* vol. 10, no. 293.
 [^37]: *One-Vehicle Ten Profound Gates*, fascicle 1: "If one is established in its own nature, ten cannot be accomplished. If ten cannot be accomplished, one also cannot be accomplished." Zhiyan's argument that ten and one are mutually conditioning, *Taishō* vol. 45, no. 1868.
 [^38]: *Elaborated Exegesis*, fascicle 15: "Ten is the perfect number, endlessly extending." See footnote 9.
 

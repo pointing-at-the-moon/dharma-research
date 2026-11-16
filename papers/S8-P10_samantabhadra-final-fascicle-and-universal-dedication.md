@@ -1,5 +1,5 @@
 ---
-title: "The Final Fascicle of the *Samantabhadra-caryā-praṇidhāna* and Universal Dedication: Eighty-Four Years Between Socket and Plug"
+title: "The Final Fascicle of the *Samantabhadra-caryā-praṇidhāna* and Dedicating All Universally: Eighty-Four Years Between Socket and Plug"
 author: "釋慧鏡 (Shi Huijing)"
 series: "S8 Manifestation · *Avataṃsaka-sūtra* / Paper 10"
 series_short: "S8"
@@ -9,7 +9,7 @@ date: "2026-04"
 version: "1.1"
 license: "CC BY-NC-SA 4.0"
 ---
-# The Final Fascicle of the *Samantabhadra-caryā-praṇidhāna* and Universal Dedication: Eighty-Four Years Between Socket and Plug
+# The Final Fascicle of the *Samantabhadra-caryā-praṇidhāna* and Dedicating All Universally: Eighty-Four Years Between Socket and Plug
 
 *普賢行願品終卷與普皆迴向：插座與插頭的八十四年——
 The Bilateral Symmetry of the Huayan Ten-Times Profound Gate and Samantabhadra's Ten Great Vow-Kings*
@@ -20,7 +20,7 @@ This paper presents the formal argumentative core for an original scholarly thes
 
 本篇為 S8 系列原創學術命題之正式論證篇。藉由法藏（643–712）圓寂與般若三藏（Prajñā，734?–810?）譯出《四十華嚴》卷四十（796–798）之間八十四年的時間差，提出「插座與插頭」這一隱喻：十世隔法異成門是法藏在論述面裝好的插座，普賢十大願王是般若三藏在修證面接上的插頭，兩者規格完全吻合，卻分屬兩個不同的譯出脈絡。本篇以十條一一對應表、雙端對稱結構、與宗密《華嚴經行願品疏鈔》（X229）等所構成的反面證據，完成「總願對總門」的命題收口。
 
-**Keywords 關鍵詞:** Gate of the Distinct Completion of Dharmas Across the Ten Times, Universal Dedication, Ten Great Vows of Samantabhadra, Forty-Fascicle Avataṃsaka, Fazang, Prajñā Tripiṭaka, socket and plug, negative evidence, Perfect Teaching, threefold turn of dedication / 十世隔法異成門、普皆迴向、普賢十大願王、四十華嚴、法藏、般若三藏、插座與插頭、反面證據、圓教、迴向的三轉
+**Keywords 關鍵詞:** Gate of the Distinct Completion of Dharmas Across the Ten Times, Dedicating All Universally, Ten Great Vows of Samantabhadra, Forty-Fascicle Avataṃsaka, Fazang, Prajñā Tripiṭaka, socket and plug, negative evidence, Perfect Teaching, threefold turn of dedication / 十世隔法異成門、普皆迴向、普賢十大願王、四十華嚴、法藏、般若三藏、插座與插頭、反面證據、圓教、迴向的三轉
 
 ---
 
@@ -44,7 +44,7 @@ What this paper takes up is the question that the morning and evening services s
 
 Fazang entered parinirvāṇa in Chang'an in 712. His most important doctrinal contribution — the Ten Profound Gates (十玄門) — was already fully formed in the *Tanxuan ji* and the *Huayan yisheng jiaoyi fenqi zhang*. Among them is the **Gate of the Distinct Completion of Dharmas Across the Ten Times** (十世隔法異成門) — listed ninth in the *Tanxuan ji* and eighth in the *Huayan yisheng jiaoyi fenqi zhang*. Its formula, in the *Tanxuan ji*: "That is to say, the three times each have three, gathered into a single thought, hence ten times." That is: past, present, and future each contain their own past, present, and future, making nine times; the nine times are gathered into a single thought, hence ten times. This is the perfect-teaching architecture on the doctrinal side, folding the linear flow of time into the simultaneous presentation of "one thought — ten times."
 
-Eighty-four years after Fazang's death, in 796, Prajñā Tripiṭaka opened the translation of the forty-fascicle *Mahāvaipulya-buddhâvataṃsaka-sūtra* (T0293, conventionally the *Forty-Fascicle Avataṃsaka*) at Chongfu Temple in Chang'an. It was completed in 798. This translation is only an expanded version of the *Gaṇḍavyūha* — the "Entry into the Dharmadhātu" chapter — but its **final fascicle, fascicle 40**, contains material absent from both the Jin-dynasty 60-fascicle and the Tang 80-fascicle versions: **Samantabhadra's Ten Great Vow-Kings**. The tenth vow is Universal Dedication (普皆迴向). After the vow text, a refrain appears ten times: "thought after thought continuing without interruption; in body, speech, and mind, without weariness."
+Eighty-four years after Fazang's death, in 796, Prajñā Tripiṭaka opened the translation of the forty-fascicle *Mahāvaipulya-buddhâvataṃsaka-sūtra* (T0293, conventionally the *Forty-Fascicle Avataṃsaka*) at Chongfu Temple in Chang'an. It was completed in 798. This translation is only an expanded version of the *Gaṇḍavyūha* — the "Entry into the Dharmadhātu" chapter — but its **final fascicle, fascicle 40**, contains material absent from both the Jin-dynasty 60-fascicle and the Tang 80-fascicle versions: **Samantabhadra's Ten Great Vow-Kings**. The tenth vow is Dedicating All Universally (普皆迴向). After the vow text, a refrain appears ten times: "thought after thought continuing without interruption; in body, speech, and mind, without weariness."
 
 Eighty-four years separate the two events. Fazang could not have read the Ten Great Vow-Kings — in his lifetime the text had not yet been translated. Prajñā Tripiṭaka's bureau at Chongfu Temple in Chang'an (the interpreter Guangji came from the Eastern Capital and first reached Ximing Temple; as Ximing was too far away, Chongfu Temple was chosen for the translation) had no direct lineage relation to Fazang's Huayan school; Prajñā Tripiṭaka belonged to the Indian esoteric transmission, and his co-translation team was led by Yuanzhao as scribe and Zhirou as reviser of the wording, not by disciples of Fazang. Yet among the posts listed for this translation, the office of final review (詳定) was held by, among others, Chengguan, the great Huayan commentator (*Zhenyuan xinding shijiao mulu*, fascicle 17).
 
@@ -82,13 +82,13 @@ Eighty-four years before Samantabhadra's Ten Great Vow-Kings were translated, th
 
 This line must be read precisely. It is not saying "Samantabhadra excels at dedication," nor "dedication is one among Samantabhadra's many virtues." It is a definitional statement: **the one who is able to abide in dedication is Samantabhadra.** In other words, Samantabhadra is not a particular historical person; it is the title for the position of "one complete in dedication." Whoever comes to stand in that position is Samantabhadra.
 
-This definitional line was sealed 84 years later when Prajñā Tripiṭaka translated the Ten Great Vow-Kings: the last of the Ten Great Vows is precisely Universal Dedication, and the refrain repeatedly stresses that this vow is "thought after thought continuing without interruption" — meaning that Samantabhadra is Samantabhadra precisely because he stands continuously in the position of dedication, never leaving for a single instant.
+This definitional line was sealed 84 years later when Prajñā Tripiṭaka translated the Ten Great Vow-Kings: the last of the Ten Great Vows is precisely Dedicating All Universally, and the refrain repeatedly stresses that this vow is "thought after thought continuing without interruption" — meaning that Samantabhadra is Samantabhadra precisely because he stands continuously in the position of dedication, never leaving for a single instant.
 
 **2.B.2  T0293, fascicle 40: the Ten Great Vows and the refrain**
 
-The structural core of fascicle 40 of the *Forty-Fascicle Avataṃsaka* is the Ten Great Vows. Each vow opens with the formula "furthermore, good son," unfolds through a passage of vow-text, and then attaches the refrain. The Ten Great Vows are: (1) reverence to all Buddhas, (2) praise of the Tathāgatas, (3) extensive offerings, (4) repentance of karmic obstructions, (5) rejoicing in merit, (6) requesting the turning of the Dharma-wheel, (7) requesting the Buddhas to remain in the world, (8) constantly following the Buddha's learning, (9) ever according with sentient beings, (10) Universal Dedication (T0293, 10.844c–847a)[^5].
+The structural core of fascicle 40 of the *Forty-Fascicle Avataṃsaka* is the Ten Great Vows. Each vow opens with the formula "furthermore, good son," unfolds through a passage of vow-text, and then attaches the refrain. The Ten Great Vows are: (1) paying reverence and respect to the Buddhas, (2) praising the Tathāgatas, (3) cultivating offerings far and wide, (4) repenting of karmic obstructions, (5) rejoicing in merit and virtue, (6) requesting the turning of the Dharma-wheel, (7) requesting the Buddhas to abide in the world, (8) always following the Buddhas in learning, (9) constantly according with sentient beings, (10) Dedicating All Universally (T0293, 10.844c–847a)[^5].
 
-The text of the tenth vow, Universal Dedication, reads: <cite>"as for Universal Dedication: from the initial prostration down through every act of according, all the merit thereby produced is wholly dedicated to all sentient beings throughout the dharma realm and the realm of space"</cite> (T0293, 10.846b)[^6]. Note the internal structure: the passage gathers the merit of the preceding nine vows and dedicates the entirety of it. The tenth vow is not the tenth item laid out in parallel with the first nine; it is the sealing of the first nine — the first nine are "the doing," and the tenth is "handing the entire doing back."
+The text of the tenth vow, Dedicating All Universally, reads: <cite>"as for Dedicating All Universally: from the initial prostration down through every act of according, all the merit thereby produced is wholly dedicated to all sentient beings throughout the dharma realm and the realm of space"</cite> (T0293, 10.846b)[^6]. Note the internal structure: the passage gathers the merit of the preceding nine vows and dedicates the entirety of it. The tenth vow is not the tenth item laid out in parallel with the first nine; it is the sealing of the first nine — the first nine are "the doing," and the tenth is "handing the entire doing back."
 
 What follows is the refrain, repeated with striking regularity ten times across fascicle 40, once after each vow-text. The complete refrain reads: <cite>"thought after thought continuing, without interruption; in body, speech, and mind, without weariness."</cite>
 
@@ -112,13 +112,13 @@ This is the real thesis of the Ten-Times Profound Gate: **the deepest structure 
 
 Chengguan (738–839), in the *Huayan jing shu* and the *Huayan jing suishu yanyi chao*, lays recurring groundwork in fascicles 26, 30, 48, and 51 for the move "dedication is Samantabhadra" — whenever he comments on the "Chapter on the Ten Dedications" of the 80-fascicle *Avataṃsaka*, he repeatedly links the practice of dedication with the position of Samantabhadra. In fascicle 11 of the *Suishu yanyi chao*: <cite>"here we merely take the three times as mutually arising in dependence, thereby forming nine times; because they do not leave a single thought, they make ten times"</cite> (T1736, 36.81a)[^8] — which is almost a mirror restatement of Fazang's formula.
 
-But Chengguan's main commentary has a blank. The *Dafangguang fo huayan jing shu* (T1735) comments on the 80-fascicle *Avataṃsaka*, so **the Universal Dedication vow of fascicle 40 of the *Forty-Fascicle Avataṃsaka* falls outside its scope.** The proper commentarial treatment appears in his separately authored commentary on the *Forty-Fascicle Avataṃsaka* (extant as the single-text commentary in X227). T1735's silence on Universal Dedication, set against Chengguan's repeated preparatory groundwork elsewhere for "dedication is Samantabhadra," forms a tension (this is the author's interpretation): he knew this vow was the summit, he had laid down every preparatory thread, but he did not formally seal the point in his main commentary.
+But Chengguan's main commentary has a blank. The *Dafangguang fo huayan jing shu* (T1735) comments on the 80-fascicle *Avataṃsaka*, so **the Dedicating All Universally vow of fascicle 40 of the *Forty-Fascicle Avataṃsaka* falls outside its scope.** The proper commentarial treatment appears in his separately authored commentary on the *Forty-Fascicle Avataṃsaka* (extant as the single-text commentary in X227). T1735's silence on Dedicating All Universally, set against Chengguan's repeated preparatory groundwork elsewhere for "dedication is Samantabhadra," forms a tension (this is the author's interpretation): he knew this vow was the summit, he had laid down every preparatory thread, but he did not formally seal the point in his main commentary.
 
 The tension is real. It is not an oversight on Chengguan's part but a trace, visible at the commentarial layer, of the "socket and plug" structure being read — Chengguan is the first person to feel the interlock exists without yet having a name by which to call it.
 
 **2.C.3  Zongmi, X229: the absent correspondence table as negative evidence**
 
-Zongmi (780–841), in the *Huayan jing xingyuanpin shuchao* (《華嚴經行願品疏鈔》, X229), comments on the *Practices and Vows of Samantabhadra* chapter, and he treats the tenth vow — Universal Dedication — at length in divided sections: the commentary sets out "the tenth, Universal Dedication, in three parts: first, citing the name"; the subcommentary opens dedication into ten kinds — "first, turning from self toward others; second, turning from the few toward the many," down to "tenth, turning from phenomena that accord with principle toward phenomena accomplished by principle" — then gathers them into the two gates of with-marks and beyond-marks, and goes on to list the ten names from the "Chapter on the Ten Dedications" (X229, 5.297c–299a).
+Zongmi (780–841), in the *Huayan jing xingyuanpin shuchao* (《華嚴經行願品疏鈔》, X229), comments on the *Practices and Vows of Samantabhadra* chapter, and he treats the tenth vow — Dedicating All Universally — at length in divided sections: the commentary sets out "the tenth, Dedicating All Universally, in three parts: first, citing the name"; the subcommentary opens dedication into ten kinds — "first, turning from self toward others; second, turning from the few toward the many," down to "tenth, turning from phenomena that accord with principle toward phenomena accomplished by principle" — then gathers them into the two gates of with-marks and beyond-marks, and goes on to list the ten names from the "Chapter on the Ten Dedications" (X229, 5.297c–299a).
 
 Detailed as his treatment of dedication is, Zongmi does not pair the Ten Great Vow-Kings with the Ten Profound Gates one by one — and this will be formally argued as negative evidence in §VI, 6.5. Here I note only this: Zongmi did not fail to grasp the importance of dedication. As a Huayan patriarch with a Chan background, he knew this vow was the summit; but he set up no ten-vow/ten-gate correspondence at the commentarial level — and this absence is itself a signal (this is the author's interpretation).
 
@@ -166,7 +166,7 @@ The refrain Prajñā Tripiṭaka translated is precisely this conversion. "Thoug
 
 The four phrases together translate Fazang's doctrinal proposition entirely into an enactable cultivational injunction. **The folding of the ten times on the doctrinal side is, on the cultivational side, the sixteen characters of the refrain.** This is the interlock of socket and plug.
 
-And the refrain in fascicle 40 repeats ten times — once after each vow. The meaning of this structure is this: the Ten Great Vows are not ten parallel tasks but ten training grounds for the same refrain. From reverencing all Buddhas down to Universal Dedication, each vow trains your capacity for "thought after thought continuing without interruption," until at the tenth vow that capacity itself is called "dedication," is called "Samantabhadra."
+And the refrain in fascicle 40 repeats ten times — once after each vow. The meaning of this structure is this: the Ten Great Vows are not ten parallel tasks but ten training grounds for the same refrain. From paying reverence and respect to the Buddhas down to Dedicating All Universally, each vow trains your capacity for "thought after thought continuing without interruption," until at the tenth vow that capacity itself is called "dedication," is called "Samantabhadra."
 
 ### 3.5  Where the directional sense dissolves — the position called Samantabhadra
 
@@ -208,7 +208,7 @@ To read dedication as "I transmit my merit to somebody else" is to reify merit i
 
 ### ❌ #59  Dedication requires an explicit object to be effective (a utilitarian misreading)
 
-The second misreading binds dedication to the specificity of its object: dedicating to a named person is effective; unnamed dedication has no effect. This demotes dedication to the filling-out of a wish-list. The four characters "Universal Dedication" (普皆迴向) in the scripture already refuse this reading — "universal" means that one need not, and cannot, select an object, because the moment an object is selected one has returned to the directional-sense structure of §3.1 and has not yet entered the second turn.
+The second misreading binds dedication to the specificity of its object: dedicating to a named person is effective; unnamed dedication has no effect. This demotes dedication to the filling-out of a wish-list. The four characters "Dedicating All Universally" (普皆迴向) in the scripture already refuse this reading — "universally" means that one need not, and cannot, select an object, because the moment an object is selected one has returned to the directional-sense structure of §3.1 and has not yet entered the second turn.
 
 ### ❌ #60  "Without their light, my light does not stand" sliding into annihilationism
 
@@ -216,7 +216,7 @@ When §3.2 speaks of "the directional sense dissolving," a tempting direction of
 
 ---
 
-## §VI  Socket and Plug: The Bilateral Symmetry of the Ten-Times Profound Gate × Universal Dedication
+## §VI  Socket and Plug: The Bilateral Symmetry of the Ten-Times Profound Gate × Dedicating All Universally
 
 This section is the formal argumentative core of the original S8 thesis, and it carries two functions: (1) it completes the doctrinal interlock of S8-P10 under the symmetric structure of "Total Vow facing Total Gate"; (2) it proposes the 84-year gap as positive evidence — evidence of non-design — for the overall framework of the S8 series.
 
@@ -240,22 +240,22 @@ The table below is fully synchronized with S8-P11 §3.11.乙, and functions as t
 
 | # | Great Vow | Profound Gate Posture | Doctrinal Interlock |
 |---|---|---|---|
-| 1 | Reverence to all Buddhas | Simultaneous Complete Correspondence | A single prostration is at once a prostration to all Buddhas of the ten directions and the three times |
-| 2 | Praise of the Tathāgatas | Unobstructed Freedom of Broad and Narrow | A single phrase of praise gathers boundless merit |
-| 3 | Extensive Offerings | Mutual Identity and Freedom of All Dharmas | A single stick of incense is every offering |
-| 4 | Repentance of Karmic Obstructions | Hidden and Manifest Jointly Establishing | The nature of obstruction is empty, the phenomenal mark vivid, both established |
-| 5 | Rejoicing in Merit | Host and Retinue Perfectly Illuminating All Virtues | The one who rejoices is at once complete in the full virtue of the one rejoiced in |
+| 1 | Paying Reverence and Respect to the Buddhas | Simultaneous Complete Correspondence | A single prostration is at once a prostration to all Buddhas of the ten directions and the three times |
+| 2 | Praising the Tathāgatas | Unobstructed Freedom of Broad and Narrow | A single phrase of praise gathers boundless merit |
+| 3 | Cultivating Offerings Far and Wide | Mutual Identity and Freedom of All Dharmas | A single stick of incense is every offering |
+| 4 | Repenting of Karmic Obstructions | Hidden and Manifest Jointly Establishing | The nature of obstruction is empty, the phenomenal mark vivid, both established |
+| 5 | Rejoicing in Merit and Virtue | Host and Retinue Perfectly Illuminating All Virtues | The one who rejoices is at once complete in the full virtue of the one rejoiced in |
 | 6 | Requesting the Turning of the Dharma-Wheel | The Realm of Indra's Net | A single request gathers every request across the ten directions |
-| 7 | Requesting the Buddhas to Remain in the World | Subtle Mutual Containment and Establishment | Thought after thought, a Buddha is always attaining perfect awakening |
-| 8 | Constantly Following the Buddha's Learning | Mutual Inclusion of One and Many | Learning from one Buddha is learning from all Buddhas |
-| 9 | Ever Accord with Sentient Beings | Revealing Dharma through Phenomena | Every encounter is the dharma-realm disclosing itself |
-| 10 | Universal Dedication | Distinct Completion of Dharmas Across the Ten Times | The three times fold into a single thought; the directional sense of dedication dissolves |
+| 7 | Requesting the Buddhas to Abide in the World | Subtle Mutual Containment and Establishment | Thought after thought, a Buddha is always attaining perfect awakening |
+| 8 | Always Following the Buddhas in Learning | Mutual Inclusion of One and Many | Learning from one Buddha is learning from all Buddhas |
+| 9 | Constantly According with Sentient Beings | Revealing Dharma through Phenomena | Every encounter is the dharma-realm disclosing itself |
+| 10 | Dedicating All Universally | Distinct Completion of Dharmas Across the Ten Times | The three times fold into a single thought; the directional sense of dedication dissolves |
 
 All ten interlock. Not one requires a forced pairing, and not one is left over.
 
 ### 6.4  Total Vow facing Total Gate: bilateral symmetry
 
-At a deeper layer: the first vow, "reverence to all Buddhas," and the first gate, "Simultaneous Complete Correspondence," form the entry-end symmetry — reverence is the first action of cultivation, simultaneous complete correspondence is the first structure of doctrine, and both are saying "the whole is present in this single thought." The tenth vow, "Universal Dedication," and the gate in the tenth row of this table, "Distinct Completion of Dharmas Across the Ten Times," form the exit-end symmetry — dedication is the final action of cultivation, the ten-times gate stands in this table as the final structure of doctrine (the *Tanxuan ji* lists it ninth and the *Huayan yisheng jiaoyi fenqi zhang* eighth; the order of this table is set by this paper's pairing — this is the author's interpretation), and both are saying "the directional sense dissolves within folded time."
+At a deeper layer: the first vow, "paying reverence and respect to the Buddhas," and the first gate, "Simultaneous Complete Correspondence," form the entry-end symmetry — reverence is the first action of cultivation, simultaneous complete correspondence is the first structure of doctrine, and both are saying "the whole is present in this single thought." The tenth vow, "Dedicating All Universally," and the gate in the tenth row of this table, "Distinct Completion of Dharmas Across the Ten Times," form the exit-end symmetry — dedication is the final action of cultivation, the ten-times gate stands in this table as the final structure of doctrine (the *Tanxuan ji* lists it ninth and the *Huayan yisheng jiaoyi fenqi zhang* eighth; the order of this table is set by this paper's pairing — this is the author's interpretation), and both are saying "the directional sense dissolves within folded time."
 
 Entry-end symmetry and exit-end symmetry together compose a fully bilateral closed loop: beginning at "the whole present," ending at "the directional sense dissolved"; entering through "reverence," exiting through "dedication." The eight vows and eight gates in between interlock one by one, saturating the loop. **This is not a forced fit; it is two translators, across an 84-year gap, each completing one half of the same structure.**
 
@@ -315,7 +315,7 @@ S8-P11 has already treated the unfolded correspondence of "Ten Great Vows × Ten
 - *Huayan jing shu*, Chengguan, T1735 — commentary on the 80-fascicle *Avataṃsaka* (his commentary on fascicle 40 is the *Huayan jing xingyuanpin shu*, X227; correspondence not made explicit)
 - *Huayan jing suishu yanyi chao*, Chengguan, T1736 — same as above
 - *Huayan jing xingyuanpin shu* (《華嚴經行願品疏》), Chengguan, *Manji Shinsan Zokuzōkyō*, vol. 5, No. 227 (X227) — his commentary on fascicle 40 of the *Forty-Fascicle Avataṃsaka*
-- *Huayan jing xingyuanpin shuchao* (《華嚴經行願品疏鈔》), Zongmi, *Manji Shinsan Zokuzōkyō*, vol. 5, No. 229 (X229) — commentary on fascicle 40; it treats Universal Dedication at length in divided sections yet sets up no ten-vow/ten-gate correspondence table — the principal negative-evidence text
+- *Huayan jing xingyuanpin shuchao* (《華嚴經行願品疏鈔》), Zongmi, *Manji Shinsan Zokuzōkyō*, vol. 5, No. 229 (X229) — commentary on fascicle 40; it treats Dedicating All Universally at length in divided sections yet sets up no ten-vow/ten-gate correspondence table — the principal negative-evidence text
 - *Chanyuan zhuquanji duxu* (*Preface to the Collected Writings on the Sources of Chan*), Zongmi, T2015 — does not cite Samantabhadra's Ten Great Vow-Kings (CBETA search for 普賢, 願王, 行願: 0 hits)
 - *Yuanren lun* (*On the Origin of the Human*), Zongmi, T1886 — principal reference for the negative-evidence argument
 
@@ -337,9 +337,9 @@ S8-P11 has already treated the unfolded correspondence of "Ten Great Vows × Ten
 
 [^4]: *Mahāvaipulya-buddhâvataṃsaka-sūtra* (*80-Fascicle Avataṃsaka*), fascicle 33, "Chapter on the Ten Dedications," verse: "If one would accomplish what the Buddha teaches, / the bodhisattva's vast and supreme practice, / let him well abide in this dedication — / such a son of the Buddhas is called Samantabhadra." *Taishō Tripiṭaka*, vol. 10, No. 279. This paper cites the line as "one who well abides in this dedication — such a son of the Buddhas is called Samantabhadra" in abridged sense-citation form.
 
-[^5]: *Forty-Fascicle Avataṃsaka*, fascicle 40: "Good son! The merits of the Tathāgata… if one wishes to accomplish this gate of merit, one should cultivate the ten great practices and vows. What are the ten? First, reverence to all Buddhas; second, praise of the Tathāgatas; third, extensive offerings; fourth, repentance of karmic obstructions; fifth, rejoicing in merit; sixth, requesting the turning of the Dharma-wheel; seventh, requesting the Buddhas to remain in the world; eighth, constantly following the Buddha's learning; ninth, ever according with sentient beings; tenth, Universal Dedication." *Taishō Tripiṭaka*, vol. 10, No. 293. The original reads 恒 (not 恆) in "ever according with sentient beings"; the enumeration uses 懺悔業障 for "repentance of karmic obstructions," while individual passages sometimes open with 懺除業障 — both refer to the same vow.
+[^5]: *Forty-Fascicle Avataṃsaka*, fascicle 40: "Good son! The merits of the Tathāgata… if one wishes to accomplish this gate of merit, one should cultivate the ten great practices and vows. What are the ten? First, paying reverence and respect to the Buddhas; second, praising the Tathāgatas; third, cultivating offerings far and wide; fourth, repenting of karmic obstructions; fifth, rejoicing in merit and virtue; sixth, requesting the turning of the Dharma-wheel; seventh, requesting the Buddhas to abide in the world; eighth, always following the Buddhas in learning; ninth, constantly according with sentient beings; tenth, Dedicating All Universally." *Taishō Tripiṭaka*, vol. 10, No. 293. The original reads 恒 (not 恆) in "constantly according with sentient beings"; the enumeration uses 懺悔業障 for "repenting of karmic obstructions," while individual passages sometimes open with 懺除業障 — both refer to the same vow.
 
-[^6]: *Forty-Fascicle Avataṃsaka*, fascicle 40, long-form text of the tenth great vow, Universal Dedication: "Furthermore, good son! As for Universal Dedication: from the initial prostration down through every act of according, all the merit thereby produced is wholly dedicated to all sentient beings throughout the dharma realm and the realm of space, wishing that sentient beings may constantly obtain peace and bliss, free from all sickness… the bodhisattva thus dedicates: though the realm of space be exhausted, the realm of sentient beings be exhausted, the karma of sentient beings be exhausted, the defilements of sentient beings be exhausted, this dedication of mine is without end — thought after thought continuing, without interruption, body, speech, and mind without weariness." *Taishō Tripiṭaka*, vol. 10, No. 293.
+[^6]: *Forty-Fascicle Avataṃsaka*, fascicle 40, long-form text of the tenth great vow, Dedicating All Universally: "Furthermore, good son! As for Dedicating All Universally: from the initial prostration down through every act of according, all the merit thereby produced is wholly dedicated to all sentient beings throughout the dharma realm and the realm of space, wishing that sentient beings may constantly obtain peace and bliss, free from all sickness… the bodhisattva thus dedicates: though the realm of space be exhausted, the realm of sentient beings be exhausted, the karma of sentient beings be exhausted, the defilements of sentient beings be exhausted, this dedication of mine is without end — thought after thought continuing, without interruption, body, speech, and mind without weariness." *Taishō Tripiṭaka*, vol. 10, No. 293.
 
 [^7]: Fazang, *Huayan yisheng jiaoyi fenqi zhang*, fascicle 4, glossing "the Gate of the Distinct Completion of Dharmas Across the Ten Times": "As for the ten times: past, future, and present — three times — each has a past, future, and present, yielding nine times. These nine times mutually interpenetrate one another to form a single total phrase; total and partial together compose the ten times." *Taishō Tripiṭaka*, vol. 45, No. 1866. This passage is structurally consistent with the formula of *Tanxuan ji* fascicle 1 (see [^2]), with only minor verbal variation: here "since the nine times mutually interpenetrate, they form a single total phrase" stands in place of "gathered into a single thought." Both ultimately express the same folding structure: "nine times + one total phrase = ten times."
 

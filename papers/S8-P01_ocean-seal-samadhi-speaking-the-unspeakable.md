@@ -27,7 +27,7 @@ The third posture is the *failure point* convention. Every paper must mark expli
 
 The fourth posture is the radicalization of the "scripture-first, treatise-second" principle from citation order to structural order. Whereas S1 through S7 applied this principle only to the order of quotations within a paper's section two, S8 applies it to the ordering of the series itself. Papers P01 through P10 follow the sequence of Samantabhadra's ten great vows—the order set out in the closing fascicle of the forty-fascicle *Avataṃsaka* (T0293)—rather than the order of the ten mystery gates, which is the patriarchs' expository order and was repeatedly rearranged by Zhiyan, Fazang, and Chengguan. When a sequence the sūtra itself sets out meets a sequence the patriarchs constructed for teaching purposes, the former takes precedence.
 
-The four postures are not four separate things but four faces of one thing. The single thing they all converge upon is the *simultaneously sufficient correspondence gate* (*tóngshí jùzú xiāngyìng mén*), the first of the ten mystery gates. The pairing of this paper with this gate is not the present author's invention. In *Wǔjiào zhāng* fascicle four, Fazang himself says of the simultaneously sufficient correspondence gate: "This rests upon the ocean-seal samādhi, whereby they are brilliantly and simultaneously made manifest"—and this is the *only* one of the ten gates that Fazang explicitly grounds in the ocean-seal samādhi. The triple chain (homage to all buddhas → simultaneous correspondence → ocean-seal samādhi) was therefore built by Fazang himself; the present author is merely reading it back out.
+The four postures are not four separate things but four faces of one thing. The single thing they all converge upon is the *simultaneously sufficient correspondence gate* (*tóngshí jùzú xiāngyìng mén*), the first of the ten mystery gates. The pairing of this paper with this gate is not the present author's invention. In *Wǔjiào zhāng* fascicle four, Fazang himself says of the simultaneously sufficient correspondence gate: "This rests upon the ocean-seal samādhi, whereby they are brilliantly and simultaneously made manifest"—and this is the *only* one of the ten gates that Fazang explicitly grounds in the ocean-seal samādhi. The triple chain (paying reverence and respect to the buddhas → simultaneous correspondence → ocean-seal samādhi) was therefore built by Fazang himself; the present author is merely reading it back out.
 
 The doctrinal anchor for the entire series is Fazang's thirteen-character definition of the ocean-seal samādhi from his *Wàngjìn huányuán guān* (T1876): "The ocean-seal is the original awakening of suchness. When delusion ceases and the mind clears, all images appear simultaneously."
 
@@ -69,7 +69,7 @@ This pairing is not arbitrary. In the fourth fascicle of the *Huayan yīshèng j
 >
 > First, the simultaneous mutual correspondence gate. The ten meanings above correspond simultaneously and form a single dependent arising, with no distinction of before, after, beginning, or end. They are sufficient in all things, free in opposing and following, mixed but not confused, forming the boundary of dependent arising. This rests upon the ocean-seal samādhi, whereby they are brilliantly and simultaneously made manifest.[^2]
 
-Of the ten mystery gates, *only this one* is explicitly grounded by Fazang in the ocean-seal samādhi. When this paper locks together its theme (ocean-seal samādhi), its mystery-gate posture (simultaneous mutual correspondence), and its corresponding Samantabhadra vow (homage to all buddhas), it is not constructing a forced association. Fazang himself built the chain. The present paper is reading it out.
+Of the ten mystery gates, *only this one* is explicitly grounded by Fazang in the ocean-seal samādhi. When this paper locks together its theme (ocean-seal samādhi), its mystery-gate posture (simultaneous mutual correspondence), and its corresponding Samantabhadra vow (paying reverence and respect to the buddhas), it is not constructing a forced association. Fazang himself built the chain. The present paper is reading it out.
 
 The literal sense of the simultaneous mutual correspondence gate is this: all dharma-gates, all doctrinal meanings, all causes and effects, are present and mutually corresponding in the same instant, without before or after. This is the posture this paper requires, because the four methodological declarations to follow are not a linear progression in which the second depends on the first and the third depends on the second. They are simultaneous, mutually supporting, mutually requiring. By the end of the paper, the reader should feel that they are not four things but four faces of one thing.
 
@@ -83,7 +83,7 @@ Section 4 (*Cross-disciplinary Resonance*) gives only a brief foreshadowing of t
 
 Section 5 (*Middle-Way Corrections*) addresses three pedagogical hazards directly relevant to this paper: the latent anxiety of "the *Avataṃsaka* is not buddha-vacana," the bidirectional slippage of the unspeakable, and the semantic shift of *acintya* between āgama and *Avataṃsaka*.
 
-Section 6 (*Practice-Gate Correspondence*) is the new structural element introduced for the entire S8 series. It maps the doctrinal object of the paper onto the bodily entry of the corresponding Samantabhadra vow—in this case, paying homage to all buddhas as the bodily realization of "simultaneous sufficiency."
+Section 6 (*Practice-Gate Correspondence*) is the new structural element introduced for the entire S8 series. It maps the doctrinal object of the paper onto the bodily entry of the corresponding Samantabhadra vow—in this case, paying reverence and respect to the buddhas as the bodily realization of "simultaneous sufficiency."
 
 Section 7 (*Conclusion*) closes the paper and opens the question that will be taken up in P02.
 
@@ -281,7 +281,7 @@ Before Fazang, Zhiyan's *Huayan yīshèng shí xuán mén* had already assigned 
 >
 > "Now, on releasing the meaning of the first gate, the simultaneously sufficient correspondence gate: it makes manifest the ten gates of teaching, doctrine, principle, phenomena, and so on, simultaneously. Why is it possible for them to be like this? It is because of the power and function of the ocean-seal samādhi of the dharma-nature of true virtue in dependent arising. It is not something attained through the cultivation of provisional conditions, and that is why it is simultaneous."[^27]
 
-Of the ten mystery gates, this is the *only* one Fazang explicitly grounds in the ocean-seal samādhi (Zhiyan's *Shí xuán mén* states the same principle and serves as corroboration). The implication for S8-P01 is decisive. When this paper locks together its theme (ocean-seal samādhi), its mystery-gate posture (simultaneously sufficient correspondence), and its corresponding Samantabhadra vow (paying homage to all buddhas), it is not constructing a forced association. Fazang himself has built the chain at one end—the ocean-seal samādhi is the basis of the simultaneously sufficient correspondence gate. The other end—that the simultaneously sufficient correspondence gate corresponds to paying homage to all buddhas—will be argued in section 3.4 below.
+Of the ten mystery gates, this is the *only* one Fazang explicitly grounds in the ocean-seal samādhi (Zhiyan's *Shí xuán mén* states the same principle and serves as corroboration). The implication for S8-P01 is decisive. When this paper locks together its theme (ocean-seal samādhi), its mystery-gate posture (simultaneously sufficient correspondence), and its corresponding Samantabhadra vow (paying reverence and respect to the buddhas), it is not constructing a forced association. Fazang himself has built the chain at one end—the ocean-seal samādhi is the basis of the simultaneously sufficient correspondence gate. The other end—that the simultaneously sufficient correspondence gate corresponds to paying reverence and respect to the buddhas—will be argued in section 3.4 below.
 
 #### C.3 Chengguan's *Huayan jing suishu yanyi chao*: The Samādhi That Supports the Speaking
 
@@ -371,16 +371,16 @@ Papers P01 through P10 of S8 correspond to Samantabhadra's ten great vows in the
 
 | Paper | Samantabhadra Vow | Mystery Gate |
 |---|---|---|
-| P01 | Vow 1: Pay homage to all buddhas | Simultaneously sufficient correspondence |
+| P01 | Vow 1: Pay reverence and respect to the buddhas | Simultaneously sufficient correspondence |
 | P02 | Vow 2: Praise the *Tathāgatas* | Unobstructed wide and narrow freedom |
-| P03 | Vow 3: Make extensive offerings | Mutual identity and self-mastery of dharmas |
-| P04 | Vow 4: Confess and repent karmic obstructions | Simultaneous accomplishment of hidden and manifest |
-| P05 | Vow 5: Rejoice in merits | Perfect virtue of host and guest |
+| P03 | Vow 3: Cultivate offerings far and wide | Mutual identity and self-mastery of dharmas |
+| P04 | Vow 4: Repent of karmic obstructions | Simultaneous accomplishment of hidden and manifest |
+| P05 | Vow 5: Rejoice in merit and virtue | Perfect virtue of host and guest |
 | P06 | Vow 6: Request the turning of the dharma-wheel | The realm of Indra's net |
-| P07 | Vow 7: Request the Buddha to remain in the world | Free placement of the subtle and refined |
-| P08 | Vow 8: Constantly follow the Buddha in study | Mutual containment of one and many in non-identity |
+| P07 | Vow 7: Request the Buddhas to abide in the world | Free placement of the subtle and refined |
+| P08 | Vow 8: Always follow the Buddhas in learning | Mutual containment of one and many in non-identity |
 | P09 | Vow 9: Constantly accord with sentient beings | Manifestation of dharma through entrusting events |
-| P10 | Vow 10: Universally transfer all merit | Differentiated formation of the ten time periods |
+| P10 | Vow 10: Dedicate all universally | Differentiated formation of the ten time periods |
 
 P11 and P12 are meta-level exceptions. The full argument for the correspondence will be developed in P10's section 6 (practice-gate correspondence)—the doctrinal apex of S8, where each correspondence is argued one by one through doctrinal meshing, historical-causal investigation, and the reverse case. This paper only sets up the framework.
 
@@ -404,7 +404,7 @@ First, *set out in the sūtra*—in the closing fascicle of the *Puxian xingyuan
 
 Second, *fixed by scripture*—the order of the vows in T0293's closing fascicle is fixed; later editions cannot rearrange them, and to do so would be to violate the scripture.
 
-Third, *a sequence of cultivation and realization*—the order of the ten vows is itself the sequence of cultivation: vow 1 (homage to all buddhas) establishes the dharma-vessel (the most basic bodily acceptance) → vow 2 (praising the *Tathāgatas*) transforms speech-karma (from silence to praise) → vow 3 (making offerings) extends to action-karma → vow 4 (confessing and repenting karmic obstructions) purifies prior karma → vow 5 (rejoicing in merits) transforms the jealousy of mind-karma → vow 6 (requesting the turning of the dharma-wheel) is outward protection → vow 7 (requesting the Buddha to remain in the world) is the temporal commitment → vow 8 (constantly following the Buddha in study) is the structure of dependence → vow 9 (constantly according with sentient beings) is the return into the realm of beings → vow 10 (universally transferring all merit) is the final transfer. Each vow is the natural extension of the previous one; the sequence has an irreversible practical logic.
+Third, *a sequence of cultivation and realization*—the order of the ten vows is itself the sequence of cultivation: vow 1 (paying reverence and respect to the buddhas) establishes the dharma-vessel (the most basic bodily acceptance) → vow 2 (praising the *Tathāgatas*) transforms speech-karma (from silence to praise) → vow 3 (cultivating offerings far and wide) extends to action-karma → vow 4 (repenting of karmic obstructions) purifies prior karma → vow 5 (rejoicing in merit and virtue) transforms the jealousy of mind-karma → vow 6 (requesting the turning of the dharma-wheel) is outward protection → vow 7 (requesting the Buddhas to abide in the world) is the temporal commitment → vow 8 (always following the Buddhas in learning) is the structure of dependence → vow 9 (constantly according with sentient beings) is the return into the realm of beings → vow 10 (dedicating all universally) is the final transfer. Each vow is the natural extension of the previous one; the sequence has an irreversible practical logic.
 
 When "an expository order rearrangeable by patriarchs" meets "an order of cultivation set out in the sūtra," the latter takes precedence over the former. This is precisely the radicalization of "scripture first, treatise second" at the structural level. S1–S7 applied "scripture first, treatise second" to the order of citations within section 2; S8 applies the same principle to the order of the papers in the series itself.
 
@@ -514,13 +514,13 @@ When reading the "unthinkable" in the āgamas, read it with the function of "a p
 
 ---
 
-## 6. Practice-Gate Correspondence: Paying Homage to All Buddhas · Simultaneously Sufficient Correspondence
+## 6. Practice-Gate Correspondence: Paying Reverence and Respect to the Buddhas · Simultaneously Sufficient Correspondence
 
 > *This section is the first demonstration of a new structural element introduced across the entire S8 series. Its position is between section 5 (middle-way corrections) and section 7 (conclusion). Its task is not to demote the paper into a practice manual, but to point the doctrinal object of the paper toward a bodily entrance—so that the reader, after finishing the paper, can do one concrete thing with their body, realizing in action once what they have read today in doctrine.*
 
-P01 corresponds to the first of Samantabhadra's ten great vows: paying homage to all buddhas.
+P01 corresponds to the first of Samantabhadra's ten great vows: paying reverence and respect to the buddhas.
 
-The closing fascicle of the *Puxian xingyuan pin* unfolds "paying homage to all buddhas" as follows:
+The closing fascicle of the *Puxian xingyuan pin* unfolds "paying reverence and respect to the buddhas" as follows:
 
 > "All the world-honoured buddhas as numerous as particles of dust in all buddha-fields of all dharma-realms and empty space in all the ten directions of the three times—I, by the power of the practices and vows of Samantabhadra, giving rise to deep faith and understanding, as if they were face to face before me, with pure body, speech, and mind, constantly pay homage. At the place of each single buddha, I manifest bodies as numerous as the particles of dust of unspeakably unspeakable buddha-fields, and each body pays homage to buddhas as numerous as the particles of dust of unspeakably unspeakable buddha-fields."[^32]
 
@@ -538,7 +538,7 @@ Fazang's "when delusion is exhausted and the mind clears, all images appear simu
 
 "*All images appear simultaneously*"—in the very moment when the water of the mind clears, all the buddhas of the ten directions and three times are simultaneously imprinted in this bow. You do not need to summon them; they are already here. You do not need to count them; they are all here at once.
 
-This is the bodily realization of paying homage to all buddhas as "simultaneously sufficient."
+This is the bodily realization of paying reverence and respect to the buddhas as "simultaneously sufficient."
 
 ### A Suggestion for Practice
 
@@ -564,7 +564,7 @@ Third, *the failure point convention*—every paper marks explicitly where langu
 
 Fourth, *the radicalization of "scripture first, treatise second" at the structural level*—papers P01 through P10 of S8 correspond to Samantabhadra's ten great vows (the order set out in the sūtra) rather than to the ten mystery gates (the order constructed by the patriarchs). When the sūtra's order meets the order constructed by the patriarchs, the former takes precedence. The one-to-one correspondence between the ten vows and the ten gates is the Pointing-at-the-Moon project's original scholarly contribution to Huayan studies and will be formally argued in the practice-gate correspondence section of P10.
 
-The four declarations are not four things but four faces of one thing, whose doctrinal basis is the ocean-seal samādhi defined by Fazang's thirteen characters in the *Wàngjìn huányuán guān*: "the original awakening of suchness; when delusion is exhausted and the mind clears, all images appear simultaneously." The correspondence between this paper and the simultaneously sufficient correspondence gate is established by Fazang himself in *Wǔjiào zhāng* fascicle four—the chain of "ocean-seal samādhi → simultaneously sufficient correspondence gate → paying homage to all buddhas" is not constructed by the present author but read out of Fazang's own text.
+The four declarations are not four things but four faces of one thing, whose doctrinal basis is the ocean-seal samādhi defined by Fazang's thirteen characters in the *Wàngjìn huányuán guān*: "the original awakening of suchness; when delusion is exhausted and the mind clears, all images appear simultaneously." The correspondence between this paper and the simultaneously sufficient correspondence gate is established by Fazang himself in *Wǔjiào zhāng* fascicle four—the chain of "ocean-seal samādhi → simultaneously sufficient correspondence gate → paying reverence and respect to the buddhas" is not constructed by the present author but read out of Fazang's own text.
 
 ### 7.2 Practice Guidance
 
