@@ -31,21 +31,21 @@ S8 全系列方法論宣言篇。以法藏《還源觀》十六字為錨點，�
 📄 [中文](../papers/S8-P02_五教判中的唯識位置.md) · [English](../papers/S8-P02_position-of-yogacara-in-five-teaching-classification.md)
 
 ### S8-P03. 四法界——從事到事事無礙的層級展開：廣修供養的圓教讀法
-**The Four Dharmadhātus: From Phenomena to Unobstructed Phenomena-and-Phenomena — A Perfect-Teaching Reading of Abundant Offerings**
+**The Four Dharmadhātus: From Phenomena to Unobstructed Phenomena-and-Phenomena — A Perfect-Teaching Reading of Cultivating Offerings Far and Wide**
 
 杜順所立、清涼澄觀系統化的「四法界」是華嚴宗對法界內部結構的最早完整描述。本文論證四命題：四法界非四個並列世界而是同一法界的四種觀照角度；心經「色即是空」對應事理無礙法界，華嚴繼續走到事事無礙；普賢第三願「廣修供養」是事事無礙在身體層的最直接修證；事事無礙不是泛神論——差別不被取消。以「諸法相即自在門」為寫作姿態。
 
 📄 [中文](../papers/S8-P03_四法界_廣修供養的圓教讀法.md) · [English](../papers/S8-P03_The_Four_Dharmadhatus.md)
 
 ### S8-P04. 從「覆」到性起——懺悔業障作為華嚴圓教的行門入口
-**From Concealment to Nature-Arising: Repentance of Karmic Obstructions as the Gate of Practice into the Huayan Perfect Teaching**
+**From Concealment to Nature-Arising: Repenting of Karmic Obstructions as the Gate of Practice into the Huayan Perfect Teaching**
 
 阿含懺悔「見罪發露，護不更作」三支程式能拔除五逆重罪（阿闍世王案例），但修道語法「除、斷、得」缺乏形上學根據。本文以華嚴性起論——「皆同一性，所謂無性」——為根據，將懺悔業障重新定位為「隱密顯了俱成門」的當下現量：業障事相宛然（顯），其體性本空（隱），二者在誠心懺悔中同時成立。以通潤《首楞嚴經寶鏡疏》為橋樑，正式建立 S6 楞嚴如來藏論 → S8 華嚴圓教的跨系列轉位。對應普賢第四願懺悔業障與十玄門隱密顯了俱成門。
 
 📄 [中文](../papers/S8-P04_懺悔作為性起入口.md) · [English](../papers/S8-P04_from-concealment-to-nature-arising.md)
 
 ### S8-P05. 隨喜功德與主伴圓明具德門——以思同功的法界結構
-**Rejoicing in Merit and the Gate of Perfect-Luminous Host-Companion Completion: The Dharmadhātu Structure of Tongōng through Cetanā**
+**Rejoicing in Merit and Virtue and the Gate of Perfect-Luminous Host-Companion Completion: The Dharmadhātu Structure of Tongōng through Cetanā**
 
 論證普賢第五願「隨喜功德」與華嚴十玄門「主伴圓明具德門」的義理對應，並建立「阿含 cetanā 本體論＋華嚴主伴圓明法界結構」雙層咬合論證。底層以中阿含《思經》「思即是業」、《優婆離經》「意業為最重」、雜阿含 1288「少財淨心勝多財濁心」確立業的本體論；以增壹阿含牟尼女反證區分真、假隨喜；以雜阿含 659 接上大乘發心結構。頂層循法藏《五教章》「行佛非位佛」「初發心時便成正覺」、《探玄記》主伴圓明具德門定義、澄觀《演義鈔》四類眷屬、《還源觀》主伴互現帝網觀，建立華嚴法界結構論，並在澄觀四類眷屬之上原創提出第五類「行眷屬」作為願五↔門十的結構橋樑。核心命題：真隨喜的一念，在 cetanā 的本體上是阿含所說的最重意業，在法界的結構上是華嚴所說的主伴圓明具德；底防虛幻，頂破狹隘。對應普賢第五願隨喜功德與十玄門主伴圓明具德門。
 
@@ -59,7 +59,7 @@ S8 全系列方法論宣言篇。以法藏《還源觀》十六字為錨點，�
 📄 [中文](../papers/S8-P06_因陀羅網境界門與請轉法輪.md) · [English](../papers/S8-P06_indras-net-and-requesting-the-dharma-wheel.md)
 
 ### S8-P07. 海印三昧與請佛住世——願七作為對能印之用的當下承認
-**Ocean-Seal Samādhi and Requesting the Buddhas to Remain in the World: The Seventh Vow as a Direct Acknowledgment of the Sealing-Function**
+**Ocean-Seal Samādhi and Requesting the Buddhas to Abide in the World: The Seventh Vow as a Direct Acknowledgment of the Sealing-Function**
 
 論證普賢十大願王第七願「請佛住世」不是祈求外在的佛延長肉身壽命，而是對海印三昧「能印之用念念常現」這個結構事實的當下承認。以〈賢首品〉海印偈與〈如來出現品〉「菩提普印諸心行，是故說名為正覺」八字為經文錨點，論證「海印→華嚴→十玄」三昧體系的經文原點已在賢首品信位段落完整呈現。以澄觀「十義釋海印」選四義展開，並把阿含〈遊行經〉遮婆羅園三默的負像翻轉為華嚴「念念皆是」的正像結構之門。以晨起第一念、禮佛當下、面對逆境眾生三個場景示範願七如何以「微細—相容—安立」三相同時運作。對應普賢第七願與十玄門微細相容安立門。
 
@@ -73,14 +73,14 @@ S8 全系列方法論宣言篇。以法藏《還源觀》十六字為錨點，�
 📄 [中文](../papers/S8-P08_六相圓融_常隨佛學的圓教讀法.md) · [English](../papers/S8-P08_six-characteristics-perfect-fusion.md)
 
 ### S8-P09. 善財南行序章——願9 恆順眾生 × 託事顯法生解門：德雲比丘段與五十三參的雙向教學鏈
-**Prologue to Sudhana's Southward Journey: Vow 9 "Accommodating All Sentient Beings" × the Gate of Revealing the Dharma through Reliance on Phenomena — The Meghaśrī Episode and the Bidirectional Pedagogy of the Fifty-Three Visits**
+**Prologue to Sudhana's Southward Journey: Vow 9 "Constantly According with Sentient Beings" × the Gate of Revealing the Dharma through Reliance on Phenomena — The Meghaśrī Episode and the Bidirectional Pedagogy of the Fifty-Three Visits**
 
 以〈普賢行願品〉第九願「恆順眾生」為錨，以〈入法界品〉善財童子第一參德雲比丘段為核心文本，論證恆順眾生在華嚴圓教中是**雙向結構**：善知識並非單向施教者，善財並非單向求法者；每一參的教學關係兩端皆在被度，善知識的「恆順眾生」願由前來求法者所兌現。以澄觀《演義鈔》卷八十五「德雲寄初發心住」為階位定錨，以法藏《探玄記》「託事顯法生解門」定義（「非是託此別有所表」）為玄門骨幹，並透過善財五十三參前四位善知識（德雲、海雲、善住、彌伽）段末共通的「自承—對比—自謙—轉介」四段式結構，論證「我唯知此」不是開場謙虛話，而是段末交棒的條件宣告——五十三參的接力鏈是被善知識自己一參一參交出去的，學生的求法正是善知識「善知識身份」的成立條件，善財南行同時是在替十方一切善知識兌現普賢願9。進一步區分華嚴式念佛（德雲二十一門）與淨土宗稱名念佛，承接 S8-P05〈行佛非位佛〉的「信滿入住」命題。對應普賢第九願恆順眾生與十玄門託事顯法生解門；本文為 S8.5 善財南行子系列的序章。
 
 📄 [中文](../papers/S8-P09_善財南行序章_願9恆順眾生_託事顯法生解門.md) · [English](../papers/S8-P09_sudhana-prologue-accommodating-sentient-beings.md)
 
 ### S8-P10. 普賢行願品終卷與普皆迴向——插座與插頭的八十四年
-**The Final Fascicle of the Samantabhadra-caryā-praṇidhāna and Universal Dedication: Eighty-Four Years Between Socket and Plug**
+**The Final Fascicle of the Samantabhadra-caryā-praṇidhāna and Dedicating All Universally: Eighty-Four Years Between Socket and Plug**
 
 以法藏（643–712）圓寂與般若三藏（734?–810?）譯出《四十華嚴》卷四十（796–798）之間八十四年的時間差為樞紐，提出 S8 系列原創命題「插座與插頭」的正式論證：十世隔法異成門是法藏在論述面裝好的插座，普賢十大願王是般若三藏在修證面接上的插頭，兩者規格完全吻合卻分屬不相往來的譯出脈絡。論證迴向的三轉結構（常識方向 → 方向感消失 → 普賢位置）與十世折疊的義理共鳴，以十條一一對應表、雙端對稱結構、與宗密《華嚴經行願品疏鈔》（X229）對普皆迴向的零釋作為反面證據，完成「總願對總門」的命題收口。同時承擔 S1-P02〈初發菩提心與法流〉的華嚴式收束，為 S8 系列最終收口鋪路。對應普賢第十願普皆迴向與十玄門十世隔法異成門。
 
