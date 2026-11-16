@@ -462,7 +462,7 @@ When this one act of constant learning is a mutual-containment-without-identity 
 
 **Practice layer.**
 
-Constantly accord with sentient beings—not as the parent accommodates the child (with the parent always knowing better), but as Samantabhadra accommodates: serving sentient beings "as one serves one's own father and mother, as one serves one's teacher, the arhats, and the Tathāgata, all equally without distinction." Heal the sick, guide the lost, accompany the lonely, comfort the suffering. Or in your mind raise the inner gesture of "accommodating all sentient beings without distinction."
+Constantly accord with sentient beings—not as the parent accommodates the child (with the parent always knowing better), but as Samantabhadra accommodates: serving sentient beings "as one serves one's own father and mother, as one serves one's teacher, the arhats, and the Tathāgata, all equally without distinction." Heal the sick, guide the lost, accompany the lonely, comfort the suffering. Or in your mind raise the inner gesture of "constantly according with all sentient beings without distinction."
 
 **The window opens.**
 
