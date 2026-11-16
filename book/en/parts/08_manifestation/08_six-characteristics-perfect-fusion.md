@@ -173,7 +173,7 @@ This chapter ends here.
 
 Dharma-realm dependent origination is, from the start, the structure of the perfect fusion of the six characteristics. You do not need to achieve the simultaneity of the six characteristics—the six characteristics are simultaneous from the start. All you need to do is, at the instant of revering a buddha, reciting the buddha's name, chanting a sūtra, or sitting in meditation, open those six windows and let the six characteristics present themselves simultaneously.
 
-The "constant" of constantly following the Buddhas in study is not only a length of time; it is also simultaneity. Every act of reverence is one simultaneous opening of the six characteristics; every simultaneous opening of the six characteristics is one present-moment realization of constantly following the Buddhas in study.
+The "always" of always following the Buddhas in learning is not only a length of time; it is also simultaneity. Every act of reverence is one simultaneous opening of the six characteristics; every simultaneous opening of the six characteristics is one present-moment realization of always following the Buddhas in learning.
 
 The original awakening of suchness naturally discloses itself within this simultaneous fusion of the six characteristics. It is never covered by any single observational facet—It is beheld directly in the **integral present moment** in which the six characteristics open simultaneously.
 
