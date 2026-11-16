@@ -40,7 +40,7 @@ Central question: when illumination reaches its end, are all the distinctions st
 
 **Part Eight · manifestation: unfolding with the Avataṃsaka**
 
-Central question: what does the *dharma-realm* originally look like? Central scripture: the Avataṃsaka Sūtra. Central stance: the *Ocean Seal Samādhi*. Twelve chapters take Samantabhadra's ten great vows as their spine and the ten profound gates as their windows, unfolding the full panorama of dharma-realm dependent arising—the Ocean Seal Samādhi, the place of Yogācāra within the fivefold doctrinal classification, the four dharma-realms, repenting karmic obstructions, rejoicing in merit, Indra's net, requesting the Buddhas to remain in the world, the perfect fusion of the six characteristics, Sudhana's southward journey, universal dedication, the ten great vows beneath the ten windows, and closing with chapter twelve, "trust-understand-practice-inquiry-cutting-illumination-gathering-in-manifestation—the single mark of the dharma-realm in The Eight Movements." This chapter itself carries the function of the book's final chapter: Samantabhadra's tenth vow, universal dedication, returns to the first vow, paying homage to all Buddhas, and returns to the initial aspiration of Part One, chapter one. The whole road bends into a circle, walking from Part Eight back to Part One.
+Central question: what does the *dharma-realm* originally look like? Central scripture: the Avataṃsaka Sūtra. Central stance: the *Ocean Seal Samādhi*. Twelve chapters take Samantabhadra's ten great vows as their spine and the ten profound gates as their windows, unfolding the full panorama of dharma-realm dependent arising—the Ocean Seal Samādhi, the place of Yogācāra within the fivefold doctrinal classification, the four dharma-realms, repenting of karmic obstructions, rejoicing in merit and virtue, Indra's net, requesting the Buddhas to abide in the world, the perfect fusion of the six characteristics, Sudhana's southward journey, dedicating all universally, the ten great vows beneath the ten windows, and closing with chapter twelve, "trust-understand-practice-inquiry-cutting-illumination-gathering-in-manifestation—the single mark of the dharma-realm in The Eight Movements." This chapter itself carries the function of the book's final chapter: Samantabhadra's tenth vow, dedicating all universally, returns to the first vow, paying reverence and respect to the Buddhas, and returns to the initial aspiration of Part One, chapter one. The whole road bends into a circle, walking from Part Eight back to Part One.
 
 **The seven transition chapters**
 
@@ -232,14 +232,14 @@ This table is the correspondence map between the book and the 92 underlying pape
 |---|---------|-------------|--------|
 | 8.1 | S8-P01 | Ocean Seal Samādhi, and the Speaking of the Unspeakable | 4,665 |
 | 8.2 | S8-P02 | The Place of Yogācāra in the Five-Teaching Classification — Between the Initial Teaching and the Complete Teaching: a Staircase, or a Container? | 5,688 |
-| 8.3 | S8-P03 | The Four Dharmadhātus — From Phenomena to Unobstructed Phenomena-and-Phenomena, a Perfect-Teaching Reading of Making Extensive Offerings | 4,675 |
-| 8.4 | S8-P04 | From "Concealment" to Nature-Arising — Repentance of Karmic Obstructions as the Gate of Practice into the Huayan perfect teaching | 6,192 |
-| 8.5 | S8-P05 | Rejoicing in Merit—Why a Single Thought of Rejoicing Is Already Host and Companion Perfectly Luminous | 5,115 |
-| 8.6 | S8-P06 | The Gate of the Realm of Indra's Net—Entreating the Turning of the Dharma-Wheel: Separation Is an Illusion, So Nothing Needs to Be Transmitted | 4,404 |
-| 8.7 | S8-P07 | The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Not Only Petition but Acknowledgment | 4,087 |
+| 8.3 | S8-P03 | The Four Dharmadhātus — From Phenomena to Unobstructed Phenomena-and-Phenomena, a Perfect-Teaching Reading of Cultivating Offerings Far and Wide | 4,675 |
+| 8.4 | S8-P04 | From "Concealment" to Nature-Arising — Repenting of Karmic Obstructions as the Gate of Practice into the Huayan perfect teaching | 6,192 |
+| 8.5 | S8-P05 | Rejoicing in Merit and Virtue—Why a Single Thought of Rejoicing Is Already Host and Companion Perfectly Luminous | 5,115 |
+| 8.6 | S8-P06 | The Gate of the Realm of Indra's Net—Requesting the Turning of the Dharma-Wheel: Separation Is an Illusion, So Nothing Needs to Be Transmitted | 4,404 |
+| 8.7 | S8-P07 | The Ocean Seal Samādhi and Requesting the Buddhas to Abide in the World—Vow Seven Is Not Only Petition but Acknowledgment | 4,087 |
 | 8.8 | S8-P08 | The Six Characteristics in Perfect Fusion—"Constant" Means Simultaneous, Not Only a Length of Time | 4,689 |
-| 8.9 | S8-P09 | Prologue to Sudhana's Southward Journey — Perpetually According with Sentient Beings, and the Gate of Revealing the Dharma through Phenomena | 4,428 |
-| 8.10 | S8-P10 | Universal Dedication — Eighty-Four Years Between Socket and Plug | 4,958 |
+| 8.9 | S8-P09 | Prologue to Sudhana's Southward Journey — Constantly According with Sentient Beings, and the Gate of Revealing the Dharma through Phenomena | 4,428 |
+| 8.10 | S8-P10 | Dedicating All Universally — Eighty-Four Years Between Socket and Plug | 4,958 |
 | 8.11 | S8-P11 | The Ten Great Vows Beneath the Ten Windows — One Is Ten, Ten Is One | 4,169 |
 | 8.12 | S8-P12 | Trust, Understanding, Practice, Inquiry, Cutting, Illumination, Gathering-In, Manifestation—The Eight Movements as the One Mark of the Dharma-Realm | 6,758 |
 
@@ -298,7 +298,7 @@ Every term in the main text is explained on the spot, in brackets or with a dash
 | the middle path | neither grasping at existence nor grasping at emptiness—the precise position that leans on neither side |
 | tathāgatagarbha | the awakened nature originally complete in all sentient beings—sometimes equated with the ālaya-vijñāna, sometimes the pure aspect of the ālaya-vijñāna |
 | the ten profound gates | the ten windows the Huayan school uses to describe the dharma-realm, each looking at the same object from a different angle |
-| Samantabhadra's ten great vows | the ten great vows of practice Samantabhadra sets forth on the Buddha's behalf in the "Practices and Vows of Samantabhadra" chapter of the Avataṃsaka Sūtra, from "paying homage to all Buddhas" to "universal dedication" |
+| Samantabhadra's ten great vows | the ten great vows of practice Samantabhadra sets forth on the Buddha's behalf in the "Practices and Vows of Samantabhadra" chapter of the Avataṃsaka Sūtra, from "paying reverence and respect to the Buddhas" to "dedicating all universally" |
 
 If, having read this far, all twelve of these words feel unfamiliar, please do not panic—the work of this book is to make them clear. Unfamiliarity is the starting point, not the obstacle. If you already have an impression of more than half of them, then you already have a foundation, and can go straight into Part One.
 

@@ -1,4 +1,4 @@
-## 8.7 The Ocean Seal Samādhi and Requesting the Buddhas to Remain in the World—Vow Seven Is Not Only Petition but Acknowledgment
+## 8.7 The Ocean Seal Samādhi and Requesting the Buddhas to Abide in the World—Vow Seven Is Not Only Petition but Acknowledgment
 
 The end of the previous chapter fixed the separation of space as an illusion. This chapter takes up the separation of time.
 
@@ -8,9 +8,9 @@ But its starting point is not a comfortable doctrinal deduction. It is a questio
 
 Śākyamuni Buddha's physical body did in fact pass away in history. His relics were divided. His disciples have guarded his teaching for more than two thousand years. These are unalterable historical facts.
 
-And yet the seventh of Samantabhadra's ten great vows is called **requesting the Buddhas to remain in the world**. In the face of the historical fact that one Buddha has already entered *nirvāṇa* and that other Buddhas will enter it too, whom exactly does this vow ask to remain? What is it requesting?
+And yet the seventh of Samantabhadra's ten great vows is called **requesting the Buddhas to abide in the world**. In the face of the historical fact that one Buddha has already entered *nirvāṇa* and that other Buddhas will enter it too, whom exactly does this vow ask to remain? What is it requesting?
 
-This chapter answers that question. The answer, in a single sentence first: **requesting the Buddhas to remain in the world is not only a request that some external Buddha extend the lifespan of his physical body; it is also a direct, present acknowledgment of one structural fact—that the sealing-function of the Ocean Seal Samādhi "manifests moment by moment without cease."**
+This chapter answers that question. The answer, in a single sentence first: **requesting the Buddhas to abide in the world is not only a request that some external Buddha extend the lifespan of his physical body; it is also a direct, present acknowledgment of one structural fact—that the sealing-function of the Ocean Seal Samādhi "manifests moment by moment without cease."**
 
 As regards Śākyamuni's physical body, petition is powerless before historical fact. Acknowledgment does not need historical fact to change.
 
@@ -64,7 +64,7 @@ The three operate at once, and perfect awakening is being sealed in this very mo
 
 The first chapter of this book already cited the thirteen characters of Fazang's *Cessation of Delusion and Return to the Source*—"the original awakening of suchness; when delusion is exhausted and the mind clears, all the myriad images appear simultaneously." At that point the other face of the Ocean Seal had not yet been made explicit. This chapter supplies it: **the Ocean Seal is not a still mirror waiting for the myriad images to come and be reflected.**
 
-"As a mirror reflects objects" is a simile often used in later explanations of the Ocean Seal, but the simile has a structural weakness: a mirror is static, passive, waiting for objects to arrive. If the Ocean Seal were only this, then requesting the Buddhas to remain in the world would degrade into "asking the mirror to keep being there"—a reading at once powerless and mistaken.
+"As a mirror reflects objects" is a simile often used in later explanations of the Ocean Seal, but the simile has a structural weakness: a mirror is static, passive, waiting for objects to arrive. If the Ocean Seal were only this, then requesting the Buddhas to abide in the world would degrade into "asking the mirror to keep being there"—a reading at once powerless and mistaken.
 
 The verses of the Chapter on the Manifestation of the Tathāgata make the dynamic face of the Ocean Seal quite clear:
 
@@ -122,7 +122,7 @@ The conclusions of the preceding sections can be gathered into one sentence: **V
 
 What you request is not only that some external Buddha extend the lifespan of his physical body—of the Buddhas and Tathāgatas of the ten directions and three times who are about to manifest *parinirvāṇa*, the sūtra plainly bids you make earnest entreaty, and that layer stands word for word. Deeper still, what you acknowledge is the structural fact that within your own mind, moment by moment, a Buddha is always attaining perfect awakening. What remains is not only Śākyamuni Buddha's physical form; it is also this sealing-function itself. And this sealing-function **remains moment by moment and has never departed**.
 
-The true action of the four words "requesting the Buddhas to remain in the world" is not only asking some external thing to change its state; it is also **turning the mind toward the sealing-function that has been at work all along**.
+The true action of the four words "requesting the Buddhas to abide in the world" is not only asking some external thing to change its state; it is also **turning the mind toward the sealing-function that has been at work all along**.
 
 This "acknowledgment" is not the affirmation of a philosophical proposition; it is a present, actual act—just as, in the instant the king of the Brahmā heaven knew from afar, there was no calculation, no effort, no preparation; the distant knowing was already, in itself, complete. Acknowledgment is the same: it is not first thinking and then doing; it is an act in itself.
 
@@ -142,7 +142,7 @@ The practice of Vow Seven is different. At the very moment the first thought pou
 
 **Establishment**—the scattered thought is still in its position, not eliminated; "a Buddha is attaining perfect awakening" is also in its position, not petitioned over from outside. Both stand stably in their places.
 
-This is the present-moment practice of requesting the Buddhas to remain in the world. The Buddha has not come from outside—because the Buddha has never departed; the scattered thought has not been negated—because the scattered thought is itself the object being universally sealed.
+This is the present-moment practice of requesting the Buddhas to abide in the world. The Buddha has not come from outside—because the Buddha has never departed; the scattered thought has not been negated—because the scattered thought is itself the object being universally sealed.
 
 **Scene Two · The Moment of Bowing to the Buddha**
 
@@ -156,7 +156,7 @@ The reading of Vow Seven inverts this structure.
 
 **Establishment**—the act of bowing is still the act of bowing; the Buddha is still the Buddha. The concrete act of homage keeps its full integrity at the level of phenomena; "inclusion" does not cancel "establishment."
 
-The concrete action of requesting the Buddhas to remain in the world within the bow is this: before, during, and after the bow, silently acknowledge in the heart, "Within this one bow, the Buddhas are moment by moment attaining perfect awakening"—and this acknowledgment is itself the request. It is not an extra petition-thought added on; it is reading the act of bowing itself as the request.
+The concrete action of requesting the Buddhas to abide in the world within the bow is this: before, during, and after the bow, silently acknowledge in the heart, "Within this one bow, the Buddhas are moment by moment attaining perfect awakening"—and this acknowledgment is itself the request. It is not an extra petition-thought added on; it is reading the act of bowing itself as the request.
 
 **Scene Three · Facing a Person Who Wrongs You**
 
@@ -172,7 +172,7 @@ The practice of Vow Seven does not require first pressing down aversion. At the 
 
 **Establishment**—the harm is still harm, and the worldly judgment is not cancelled; the aversion is still aversion, and your own feeling is not denied. But beneath this "still" there is now one more layer—an acknowledgment. This acknowledgment does not change the event, but it changes your relation to the event.
 
-This practice is not telling you to forgive at once, to let go at once—those are later fruits. It tells you to do only this, in the present: to acknowledge—**this person's mental activity, in this moment, is also being universally sealed by the Ocean Seal; a Buddha is attaining perfect awakening here, in this very place, now.** The acknowledgment is itself requesting the Buddhas to remain in the world. The appearance of a person who wrongs you is, within Huayan doctrine, one concrete door at which Vow Seven can be practiced.
+This practice is not telling you to forgive at once, to let go at once—those are later fruits. It tells you to do only this, in the present: to acknowledge—**this person's mental activity, in this moment, is also being universally sealed by the Ocean Seal; a Buddha is attaining perfect awakening here, in this very place, now.** The acknowledgment is itself requesting the Buddhas to abide in the world. The appearance of a person who wrongs you is, within Huayan doctrine, one concrete door at which Vow Seven can be practiced.
 
 ⚠️ One methodological self-limitation: the three scenes above are only demonstrations; they **do not replace the foundational path-factors built up in the earlier parts of this book**. Without the foundation of discipline, concentration, and wisdom, "acknowledgment" alone is not enough—it will slide into "meditation sickness" or "empty talk of perfect fusion." The posture of acknowledgment presupposes that you already have the foundational path-factors and are only adding, upon that foundation, one further layer of Huayan insight. Neither can be done without.
 
@@ -184,7 +184,7 @@ Here the chapter rests.
 
 The sealing-function of the original awakening of suchness is present moment by moment and has never departed. It is not an object you must call back—it has never gone far. All you need to do is, in this one thought, this one bow, this one moment of facing a person who wrongs you, turn the mind toward the sealing-function that has been at work all along. Acknowledgment is itself the act.
 
-The next chapter pushes this acknowledgment into its next natural movement—**following**. If the Buddha is present moment by moment, then what you follow is no longer the footsteps of some Buddha in history but the moment-by-moment sealing-function itself. The eighth chapter takes the gate of the mutual containment of one and many without difference as its window, paired with Samantabhadra's eighth vow—constantly following the Buddha in study. From acknowledgment (Vow Seven) to following (Vow Eight), the whole structure of Huayan cultivation and realization enters its unfolding through the perfect fusion of the six characteristics.
+The next chapter pushes this acknowledgment into its next natural movement—**following**. If the Buddha is present moment by moment, then what you follow is no longer the footsteps of some Buddha in history but the moment-by-moment sealing-function itself. The eighth chapter takes the gate of the mutual containment of one and many without difference as its window, paired with Samantabhadra's eighth vow—always following the Buddhas in learning. From acknowledgment (Vow Seven) to following (Vow Eight), the whole structure of Huayan cultivation and realization enters its unfolding through the perfect fusion of the six characteristics.
 
 > Every chapter of this series stops somewhere. The place where it stops is not an oversight; it is reverence. A three-dimensional pen cannot write the ten-dimensional object; all it can do is mark clearly the place where the pen is set down—so that the reader knows that, past this line, one must rely on one's own dharma-eye.
 

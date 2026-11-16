@@ -1,4 +1,4 @@
-## 8.5 Rejoicing in Merit—Why a Single Thought of Rejoicing Is Already Host and Companion Perfectly Luminous
+## 8.5 Rejoicing in Merit and Virtue—Why a Single Thought of Rejoicing Is Already Host and Companion Perfectly Luminous
 
 At the end of the last chapter we said that the moment the covering is opened and you reconnect to the field of conditions, the next movement to surface naturally is rejoicing.
 
@@ -6,7 +6,7 @@ What this chapter has to handle is—**why it should be rejoicing**.
 
 ### Three Doubts
 
-The phrase "rejoicing in merit" raises three objections in almost every beginning reader who hears it.
+The phrase "rejoicing in merit and virtue" raises three objections in almost every beginning reader who hears it.
 
 **First**: why should rejoicing carry merit? You hear of someone else doing good, and your heart lifts in sympathy for a moment—does this really count? No money given, no labor spent, no time invested; on what basis do you share in another's merit?
 
@@ -22,7 +22,7 @@ The answer is best stated in advance: **the merit of rejoicing lies not in exter
 
 ### The Āgamas: The Substance of Karma Is "Volition"
 
-To understand Huayan's "rejoicing in merit," one must—counterintuitively—first return to the Āgamas, to see how the Buddha, in the earliest stratum of teaching, defined karma and merit.
+To understand Huayan's "rejoicing in merit and virtue," one must—counterintuitively—first return to the Āgamas, to see how the Buddha, in the earliest stratum of teaching, defined karma and merit.
 
 The *Cetanā-sūtra* of the *Madhyama-āgama* gives the most direct statement on the substance of karma:
 
@@ -68,9 +68,9 @@ The structure of this section directly answers the first two questions raised at
 
 The Āgamas have established the ontology at the base. Huayan, taking it up, presses this ontology to a dharma-realm scale.
 
-The closing fascicle of the *Forty-fascicle Avataṃsaka*'s "Samantabhadra-caryā-praṇidhāna" unfolds "rejoicing in merit" thus:
+The closing fascicle of the *Forty-fascicle Avataṃsaka*'s "Samantabhadra-caryā-praṇidhāna" unfolds "rejoicing in merit and virtue" thus:
 
-> As for what is called rejoicing in merit: in all the buddhas and tathāgatas throughout the exhaustion of the dharma-realm, the realm of empty space, the ten directions and three times, and the kṣetras of all buddhas numerous as dust-motes—from the first arousing of the aspirational mind for the sake of all-knowledge … all their roots of goodness, I entirely rejoice in. And in all the worlds of the ten directions, among the six destinies and four modes of birth, in every kind of being, whatever merit there is, down to a single dust-mote's worth, I entirely rejoice in. … As the realm of empty space is exhausted, as the realm of beings is exhausted, as the karma of beings is exhausted, as the defilements of beings are exhausted—so too my rejoicing will have no exhaustion; thought after thought continuously, without interruption, with no weariness of body, speech, or mind.
+> As for what is called rejoicing in merit and virtue: in all the buddhas and tathāgatas throughout the exhaustion of the dharma-realm, the realm of empty space, the ten directions and three times, and the kṣetras of all buddhas numerous as dust-motes—from the first arousing of the aspirational mind for the sake of all-knowledge … all their roots of goodness, I entirely rejoice in. And in all the worlds of the ten directions, among the six destinies and four modes of birth, in every kind of being, whatever merit there is, down to a single dust-mote's worth, I entirely rejoice in. … As the realm of empty space is exhausted, as the realm of beings is exhausted, as the karma of beings is exhausted, as the defilements of beings are exhausted—so too my rejoicing will have no exhaustion; thought after thought continuously, without interruption, with no weariness of body, speech, or mind.
 
 This passage must be unfolded structurally.
 
@@ -110,7 +110,7 @@ This is the literal realization, in rejoicing, of the four words "host and compa
 
 Now the third question, raised at the opening, can be answered.
 
-**The answer to the third question, "why the correspondence with the gate of host-and-companion in perfect luminous endowment"**: because what host-and-companion perfect luminosity prescribes is precisely the structure "the companion at that moment already possesses the full virtue of the host." The rejoicer (companion) and the one rejoiced in (host) share substance at the level of *cetanā* and share virtue within the host-companion perfect-luminous structure of the dharma-realm. This correspondence is not the explicit text of any commentary—Fazang nowhere directly maps this vow onto this gate—it is a conclusion compelled from Huayan's own doctrine. Given that the dharma-realm's structure is host-companion perfect luminosity, given that the substance of merit is *cetanā*, and given that the cognitive object of rejoicing is already the entirety of the dharma-realm, the conclusion "rejoicing in merit = the cultivation-face of host-companion perfect luminosity" follows necessarily from these three premises. It is not arbitrary pairing.
+**The answer to the third question, "why the correspondence with the gate of host-and-companion in perfect luminous endowment"**: because what host-and-companion perfect luminosity prescribes is precisely the structure "the companion at that moment already possesses the full virtue of the host." The rejoicer (companion) and the one rejoiced in (host) share substance at the level of *cetanā* and share virtue within the host-companion perfect-luminous structure of the dharma-realm. This correspondence is not the explicit text of any commentary—Fazang nowhere directly maps this vow onto this gate—it is a conclusion compelled from Huayan's own doctrine. Given that the dharma-realm's structure is host-companion perfect luminosity, given that the substance of merit is *cetanā*, and given that the cognitive object of rejoicing is already the entirety of the dharma-realm, the conclusion "rejoicing in merit and virtue = the cultivation-face of host-companion perfect luminosity" follows necessarily from these three premises. It is not arbitrary pairing.
 
 ### The Two-Tier Clamp: The Base Guards Against the Spurious, the Summit Breaks the Constricted
 
@@ -207,7 +207,7 @@ Read together, rejoicing truly stands: **the Āgama base keeps it from becoming 
 
 Suchness, the original awareness, has never drawn a border between "you" and "the other." The barrier between you and the other is a covering, not the dharma-realm. The covering opens—this was the work of the last chapter—and host-companion perfect luminosity is present.
 
-The next chapter will continue unfolding this host-companion structure from another angle. Host-companion perfect luminosity is a two-pole symmetry (I, the other); Indra's net is an endless layering (interreflection upon interreflection, light illumining light). Chapter Six takes "the gate of the realm of Indra's net" as its window and unfolds Samantabhadra's sixth vow—petitioning the turning of the dharma wheel. When you sincerely ask the buddhas, bodhisattvas, or a spiritual friend to turn the dharma wheel, you are not asking a distant person to do a particular thing; you are activating one node within Indra's net—and that activation resounds at once, simultaneously, throughout the layered eyes of the net.
+The next chapter will continue unfolding this host-companion structure from another angle. Host-companion perfect luminosity is a two-pole symmetry (I, the other); Indra's net is an endless layering (interreflection upon interreflection, light illumining light). Chapter Six takes "the gate of the realm of Indra's net" as its window and unfolds Samantabhadra's sixth vow—requesting the turning of the dharma wheel. When you sincerely ask the buddhas, bodhisattvas, or a spiritual friend to turn the dharma wheel, you are not asking a distant person to do a particular thing; you are activating one node within Indra's net—and that activation resounds at once, simultaneously, throughout the layered eyes of the net.
 
 > Every chapter in this series stops somewhere. The place where it stops is not an omission; it is reverence. A three-dimensional pen cannot write to a ten-dimensional object; all it can do is mark clearly the place where the pen is set down—so the reader knows that, beyond this line, one must rely on one's own dharma-eye.
 

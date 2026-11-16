@@ -1,4 +1,4 @@
-## 8.4 From "Concealment" to Nature-Arising — Repentance of Karmic Obstructions as the Gate of Practice into the Huayan perfect teaching
+## 8.4 From "Concealment" to Nature-Arising — Repenting of Karmic Obstructions as the Gate of Practice into the Huayan perfect teaching
 
 The previous chapter left a question hanging at its end: if the dharma-realm is, by its own nature, everywhere unobstructed, phenomenon to phenomenon — if a single stick of incense, here and now, already holds all things complete — then why do you feel a layer between yourself and that original nature? What is that layer? How do you deal with it?
 
@@ -188,13 +188,13 @@ The chapter ends here.
 
 The Āgamas tell you the method: seeing the offense, disclosing it, guarding against recurrence — eight characters that are one complete operational sequence, capable of uprooting even patricide. The *Śūraṅgama* tells you the depth: what is disclosed when the fifty skandha-*māras* are exhausted is nothing other than the tathāgatagarbha you always had. Huayan tells you the grounds: what is disclosed is not newly made but originally thus — "takes non-arising as arising." You are not constructing a new self; you are recognizing again the self that never left.
 
-The three scriptures converge perfectly upon this single act of repenting karmic obstructions. This is the true weight, within the perfect teaching, of the fourth of Samantabhadra's ten great vows.
+The three scriptures converge perfectly upon this single act of repenting of karmic obstructions. This is the true weight, within the perfect teaching, of the fourth of Samantabhadra's ten great vows.
 
 The original awareness of suchness does not diminish by a hair's breadth because of your concealment; it only waits, beneath the concealment, for you to speak.
 
 But before you move on to the next chapter, please do not read this one merely as a chapter. **Today, walk to the Buddha.**
 
-The next chapter continues from the state that follows repentance — when that concealment has been opened and your body has reconnected to the field of conditions, the next action to surface naturally is rejoicing. To see another's wholesome roots and feel gladness, without giving rise to envy — this is not a moral precept; it is the inevitable manifestation, at the level of emotion, of the dharma-realm's structure of host and guest perfectly interfused. Chapter Five takes the Gate of the Host and Guest Perfectly Luminous and Endowed with Virtue as its window, and unfolds Samantabhadra's fifth vow: rejoicing in merit.
+The next chapter continues from the state that follows repentance — when that concealment has been opened and your body has reconnected to the field of conditions, the next action to surface naturally is rejoicing. To see another's wholesome roots and feel gladness, without giving rise to envy — this is not a moral precept; it is the inevitable manifestation, at the level of emotion, of the dharma-realm's structure of host and guest perfectly interfused. Chapter Five takes the Gate of the Host and Guest Perfectly Luminous and Endowed with Virtue as its window, and unfolds Samantabhadra's fifth vow: rejoicing in merit and virtue.
 
 > Every chapter of this series stops somewhere. The place where it stops is not an oversight; it is reverence. A three-dimensional pen cannot write its way to a ten-dimensional object; all it can do is mark clearly the place where it is laid down — so that the reader knows that, beyond this line, one must rely on one's own Dharma-eye.
 

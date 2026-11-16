@@ -40,7 +40,7 @@ There is one more thing that, having come this far, can now be said.
 
 The structure of the entire eight-part work is a circle, not a straight line.
 
-The last aspiration of the eighth part is **the universal dedication**—dedicating all merit to the dharma-realm. The first aspiration of the eighth part is **paying homage to all Buddhas**—a bow. And this bodily act of paying homage to the Buddhas is precisely the first thing done by that newly-setting-out practitioner in Part One, 1.1, "A Single Aspiration." From paying homage to the Buddhas at the start, to the universal dedication, and back again to paying homage to the Buddhas—the circle closes.
+The last aspiration of the eighth part is **dedicating all universally**—dedicating all merit to the dharma-realm. The first aspiration of the eighth part is **paying reverence and respect to the Buddhas**—a bow. And this bodily act of paying reverence and respect to the Buddhas is precisely the first thing done by that newly-setting-out practitioner in Part One, 1.1, "A Single Aspiration." From paying reverence and respect to the Buddhas at the start, to dedicating all universally, and back again to paying reverence and respect to the Buddhas—the circle closes.
 
 But this is not "returning to the starting point." The same bodily act of bowing, after the journey through seven parts, carries an entirely different weight. The bow at first aspiration is the posture of **trust**—a willingness to begin. The bow after the eight parts are walked is the posture of **manifestation**—the whole dharma-realm fully present, all at once, in that one bow. The same body, the same act, a different density.
 

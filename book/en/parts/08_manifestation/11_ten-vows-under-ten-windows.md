@@ -26,7 +26,7 @@ But slightly later in the same passage, Chengguan says something that turns it a
 
 There are two grammars here.
 
-**The totality-grammar of containment**: the gate of simultaneous mutual correspondence, as "totality," contains the latter nine gates. This is the position already shouldered in chapter one — the vow to revere all Buddhas was paired with the gate of simultaneous mutual correspondence, because in the physical instant of one act of reverence, all Buddhas of the ten directions and three times are simultaneously revered; this is the totality-gate's structural containment of the whole.
+**The totality-grammar of containment**: the gate of simultaneous mutual correspondence, as "totality," contains the latter nine gates. This is the position already shouldered in chapter one — the vow to pay reverence and respect to the Buddhas was paired with the gate of simultaneous mutual correspondence, because in the physical instant of one act of reverence, all Buddhas of the ten directions and three times are simultaneously revered; this is the totality-gate's structural containment of the whole.
 
 **The differentiation-grammar of containment**: each differentiation-gate, when you enter into its inner structure, **also** contains the other nine gates. This is performative containment — not a "natural" structural containment, but the discovery, when you actually open the gate and look, that "so the others are here too."
 
@@ -38,25 +38,25 @@ This is not a linear summing of "ten times one." It is the stereoscopic mutual c
 
 The first pivot demonstration. Let all ten great vows stand beneath a single window — the gate of simultaneous mutual correspondence — and watch how each of them manifests itself simultaneously within that one window.
 
-**Reverence for all Buddhas** within simultaneity: in the physical instant of one prostration, all Buddhas of the ten directions and three times are revered at once. This was fully unfolded in chapter one.
+**Paying reverence and respect to the Buddhas** within simultaneity: in the physical instant of one prostration, all Buddhas of the ten directions and three times are revered at once. This was fully unfolded in chapter one.
 
-**Praise of the Tathāgatas** within simultaneity: the nine syllables of "Homage to the Original Teacher Śākyamuni Buddha" take only about three seconds, but in the very moment of those three seconds, every act of praising a Buddha throughout the ten directions and three times corresponds simultaneously — not "it will arrive later," but "it already is, right now."
+**Praising the Tathāgatas** within simultaneity: the nine syllables of "Homage to the Original Teacher Śākyamuni Buddha" take only about three seconds, but in the very moment of those three seconds, every act of praising a Buddha throughout the ten directions and three times corresponds simultaneously — not "it will arrive later," but "it already is, right now."
 
-**Extensive offering** within simultaneity: in the instant one stick of incense is lit, all offering instruments are established at once. Incense, flowers, lamps, water, fruit all arise together in this one stick of incense — not "offered in sequence," but "one offering is all offering."
+**Cultivating offerings far and wide** within simultaneity: in the instant one stick of incense is lit, all offering instruments are established at once. Incense, flowers, lamps, water, fruit all arise together in this one stick of incense — not "offered in sequence," but "one offering is all offering."
 
-**Repentance of karmic obstructions** within simultaneity: in the instant of one thought of repentance, the immeasurable karma accumulated through beginningless aeons is purified all at once. The "manifest" of karma (its phenomenal marks, vivid and distinct) and the "hidden" of karma (its ultimate emptiness of nature) are both established in this one thought — not the sequence of "first confirm the karma, then seek its emptiness," but two faces manifesting themselves simultaneously in the same one thought.
+**Repenting of karmic obstructions** within simultaneity: in the instant of one thought of repentance, the immeasurable karma accumulated through beginningless aeons is purified all at once. The "manifest" of karma (its phenomenal marks, vivid and distinct) and the "hidden" of karma (its ultimate emptiness of nature) are both established in this one thought — not the sequence of "first confirm the karma, then seek its emptiness," but two faces manifesting themselves simultaneously in the same one thought.
 
-**Rejoicing in merit** within simultaneity: in the instant of one thought of rejoicing, the immeasurable merit that others have cultivated over immeasurable aeons is contained, all at once, within this one thought of yours. Position and practice are established together in this one thought — your position is that of an ordinary being, yet your practice is already that of a Buddha.
+**Rejoicing in merit and virtue** within simultaneity: in the instant of one thought of rejoicing, the immeasurable merit that others have cultivated over immeasurable aeons is contained, all at once, within this one thought of yours. Position and practice are established together in this one thought — your position is that of an ordinary being, yet your practice is already that of a Buddha.
 
-**Entreating the turning of the Dharma-wheel** within simultaneity: in the instant of requesting the Dharma in one place, the events of requesting the Dharma in all the Buddha-realms of the ten directions are established at once. Every jewel of Indra's net, in this one thought, simultaneously requests the Dharma, hears the Dharma, turns the Dharma — not occurring one after another, but manifesting themselves simultaneously.
+**Requesting the turning of the Dharma-wheel** within simultaneity: in the instant of requesting the Dharma in one place, the events of requesting the Dharma in all the Buddha-realms of the ten directions are established at once. Every jewel of Indra's net, in this one thought, simultaneously requests the Dharma, hears the Dharma, turns the Dharma — not occurring one after another, but manifesting themselves simultaneously.
 
-**Entreating the Buddhas to remain in the world** within simultaneity: in the instant of one thought entreating them to remain, all the instants to the very limit of the future are contained at once. The most subtle thought of "entreating them to remain" and the most vast "limit of the future" are established together in this one thought. **Time unfolds from this one thought; it is not that this one thought happens within time.**
+**Requesting the Buddhas to abide in the world** within simultaneity: in the instant of one thought entreating them to remain, all the instants to the very limit of the future are contained at once. The most subtle thought of "entreating them to remain" and the most vast "limit of the future" are established together in this one thought. **Time unfolds from this one thought; it is not that this one thought happens within time.**
 
-**Constantly following the Buddhas in study** within simultaneity: in the instant of studying under one Buddha, the teachings of all Buddhas of the ten directions are studied at once. The objects of study are compatible-yet-distinct in this one thought — one is many, many is one, yet the one does not become the many and the many does not become the one. In the very moment you study Śākyamuni, you are at once studying all the Buddhas of the ten directions, with no need to choose.
+**Always following the Buddhas in learning** within simultaneity: in the instant of studying under one Buddha, the teachings of all Buddhas of the ten directions are studied at once. The objects of study are compatible-yet-distinct in this one thought — one is many, many is one, yet the one does not become the many and the many does not become the one. In the very moment you study Śākyamuni, you are at once studying all the Buddhas of the ten directions, with no need to choose.
 
-**Perpetually according with sentient beings** within simultaneity: in the instant of according with one sentient being, the event of according with all sentient beings is established at once. Every sentient being accorded with is the dharma-realm revealing the Dharma to itself by entrusting it to a phenomenon — and this revealing does not happen "after" according with this one; it is in the very same instant as "according with this one."
+**Constantly according with sentient beings** within simultaneity: in the instant of according with one sentient being, the event of according with all sentient beings is established at once. Every sentient being accorded with is the dharma-realm revealing the Dharma to itself by entrusting it to a phenomenon — and this revealing does not happen "after" according with this one; it is in the very same instant as "according with this one."
 
-**Universal dedication of all merit** within simultaneity: in the instant of one thought of dedication, the ten times fold into one thought. Past's three times, present's three times, future's three times, and the totalizing three times all arise simultaneously in this one thought — dedication is not a transmission across time, but the unfolding of time out of this one thought.
+**Dedicating all universally** within simultaneity: in the instant of one thought of dedication, the ten times fold into one thought. Past's three times, present's three times, future's three times, and the totalizing three times all arise simultaneously in this one thought — dedication is not a transmission across time, but the unfolding of time out of this one thought.
 
 When all ten vows stand beneath one window, a clear structure surfaces:
 
@@ -64,13 +64,13 @@ When all ten vows stand beneath one window, a clear structure surfaces:
 
 Prostrating, praising, offering, repenting, rejoicing, requesting the Dharma, entreating them to remain, studying under the Buddhas, according with beings, dedicating — the physical instants of these ten actions are not "isolated points in time." They are the dharma-realm's simultaneous correspondence with itself across ten of its own facets.
 
-The gate of simultaneous mutual correspondence is not "the one window that corresponds to reverence for all Buddhas." It is **the totalizing window for all ten vows**.
+The gate of simultaneous mutual correspondence is not "the one window that corresponds to paying reverence and respect to the Buddhas." It is **the totalizing window for all ten vows**.
 
-### One Vow Contains Ten Gates: Reverence for All Buddhas × the Ten Profound Gates
+### One Vow Contains Ten Gates: Paying Reverence and Respect to the Buddhas × the Ten Profound Gates
 
 The pivot in the reverse direction.
 
-Reverence for all Buddhas is not merely "the vow that pairs with the gate of simultaneous mutual correspondence." It is the one action among the ten vows that lets **all ten gates be seen at once**. This is why it stands first in the sequence of the ten vows — not first in temporal order, but first in structural order.
+Paying reverence and respect to the Buddhas is not merely "the vow that pairs with the gate of simultaneous mutual correspondence." It is the one action among the ten vows that lets **all ten gates be seen at once**. This is why it stands first in the sequence of the ten vows — not first in temporal order, but first in structural order.
 
 When you complete a single prostration before the shrine, this one prostration opens all ten windows at once:
 
@@ -96,7 +96,7 @@ When you complete a single prostration before the shrine, this one prostration o
 
 The ten windows are opened at once upon this one action.
 
-**This is why reverence for all Buddhas stands first in the sequence of the ten vows.** It is the totalizing vow that lets all ten gates be seen simultaneously.
+**This is why paying reverence and respect to the Buddhas stands first in the sequence of the ten vows.** It is the totalizing vow that lets all ten gates be seen simultaneously.
 
 ### Ten Is Not Ten; Ten Is the Index of the Inexhaustible
 

@@ -6,7 +6,7 @@ But to take this on is itself a difficulty.
 
 This chapter is about the Avataṃsaka—words written by a human conceptual mind, to be read by a human conceptual mind. And the very thing this chapter is claiming is that the object of the Avataṃsaka exceeds the range a human conceptual mind can process. If that claim is true, then every word of this chapter violates it. If the claim is false, then Part Eight has no reason to exist.
 
-This is a structural kōan. This chapter does not intend to untie it; what it intends to do is bear it openly—in three steps. First, set out clearly what the Ocean Seal Samādhi is. Second, point out the structure by which the āgamas and the Avataṃsaka aim at one and the same object, and in passing lay down the anxiety that has long circled overhead—"was the Avataṃsaka really spoken by the Buddha himself?" Third, on the vow of paying homage to all Buddhas, hand the doctrine over to the body.
+This is a structural kōan. This chapter does not intend to untie it; what it intends to do is bear it openly—in three steps. First, set out clearly what the Ocean Seal Samādhi is. Second, point out the structure by which the āgamas and the Avataṃsaka aim at one and the same object, and in passing lay down the anxiety that has long circled overhead—"was the Avataṃsaka really spoken by the Buddha himself?" Third, on the vow of paying reverence and respect to the Buddhas, hand the doctrine over to the body.
 
 ### What the Ocean Seal Samādhi Is
 
@@ -84,24 +84,24 @@ Before walking into Part Eight, four preparations of posture need to be made cle
 
 ⚠️ This one can slide in two directions. One direction is "because the object is unspeakable, any way of speaking is right"—wrong. The same unspeakable object has, at the level of words, right ways and wrong ways of pointing; unspeakability does not turn the wrong into the right. The other direction is "because the object is unspeakable, best to keep silent"—also wrong. If we keep silent, the reader will only be drawn off by other, mistaken pointings. The right posture is: within the range where words can work, push the pointing to its limit, then at the precise spot where the tool fails, mark it and stop.
 
-****Fourth, the chapter order follows Samantabhadra's ten great vows.**** In the closing fascicle of the Chapter on the Practices and Vows of Samantabhadra, the bodhisattva Samantabhadra, on the Buddha's behalf, proclaims the ten great vow-kings: paying homage to all Buddhas, praising the Tathāgatas, making vast offerings, repenting karmic obstructions, rejoicing in merit, requesting the turning of the dharma-wheel, requesting the Buddhas to remain in the world, constantly following the Buddhas in learning, perpetually accommodating sentient beings, and universally transferring all merit. This order is set out in the sūtra, is a sequence of cultivation and realization, and is fixed. By contrast, the order of the ten mystery gates was arranged differently by each of the three patriarchs within the Huayan school—Zhiyan, Fazang, and Chengguan all listed them inconsistently—and Chengguan's *Yanyi chao* says that the first gate, "because it is the total, is placed at the head of the nine gates"—on this book's reading, the ten gates are not a linear sequence. The Buddha's spoken order overrides the patriarchs' expository order. So this book, from chapter one to chapter ten, takes the ten vow-kings as its spine and the ten mystery gates as its windows, walking one vow, one gate at a time:
+****Fourth, the chapter order follows Samantabhadra's ten great vows.**** In the closing fascicle of the Chapter on the Practices and Vows of Samantabhadra, the bodhisattva Samantabhadra, on the Buddha's behalf, proclaims the ten great vow-kings: paying reverence and respect to the Buddhas, praising the Tathāgatas, cultivating offerings far and wide, repenting of karmic obstructions, rejoicing in merit and virtue, requesting the turning of the dharma-wheel, requesting the Buddhas to abide in the world, always following the Buddhas in learning, constantly according with sentient beings, and dedicating all universally. This order is set out in the sūtra, is a sequence of cultivation and realization, and is fixed. By contrast, the order of the ten mystery gates was arranged differently by each of the three patriarchs within the Huayan school—Zhiyan, Fazang, and Chengguan all listed them inconsistently—and Chengguan's *Yanyi chao* says that the first gate, "because it is the total, is placed at the head of the nine gates"—on this book's reading, the ten gates are not a linear sequence. The Buddha's spoken order overrides the patriarchs' expository order. So this book, from chapter one to chapter ten, takes the ten vow-kings as its spine and the ten mystery gates as its windows, walking one vow, one gate at a time:
 
 | Chapter | Samantabhadra Vow | Mystery Gate |
 | ---- | ---- | ------- |
-| 8.1  | Paying homage to all Buddhas | Simultaneous Mutual Correspondence |
+| 8.1  | Paying reverence and respect to the Buddhas | Simultaneous Mutual Correspondence |
 | 8.2  | Praising the Tathāgatas | Unobstructed Freedom of Wide and Narrow |
-| 8.3  | Making vast offerings | Mutual Identity and Self-Mastery of Dharmas |
-| 8.4  | Repenting karmic obstructions | Simultaneous Accomplishment of Hidden and Manifest |
-| 8.5  | Rejoicing in merit | Perfect Virtue of Host and Guest in Mutual Illumination |
+| 8.3  | Cultivating offerings far and wide | Mutual Identity and Self-Mastery of Dharmas |
+| 8.4  | Repenting of karmic obstructions | Simultaneous Accomplishment of Hidden and Manifest |
+| 8.5  | Rejoicing in merit and virtue | Perfect Virtue of Host and Guest in Mutual Illumination |
 | 8.6  | Requesting the turning of the dharma-wheel | The Realm of Indra's Net |
-| 8.7  | Requesting the Buddhas to remain | Free Placement of the Subtle and Refined |
-| 8.8  | Constantly following the Buddhas in learning | Mutual Containment of One and Many in Non-Identity |
-| 8.9  | Perpetually accommodating sentient beings | Manifesting the Dharma through Entrusting Events |
-| 8.10 | Universally transferring merit | Differentiated Formation of the Ten Time Periods |
+| 8.7  | Requesting the Buddhas to abide in the world | Free Placement of the Subtle and Refined |
+| 8.8  | Always following the Buddhas in learning | Mutual Containment of One and Many in Non-Identity |
+| 8.9  | Constantly according with sentient beings | Manifesting the Dharma through Entrusting Events |
+| 8.10 | Dedicating all universally | Differentiated Formation of the Ten Time Periods |
 
 Chapter eleven looks back at how the ten windows together point at one object. Chapter twelve closes the whole eight-part work.
 
-The pairing of "paying homage to all Buddhas" with "Simultaneous Mutual Correspondence" is not a forced match. Fazang, in the fourth fascicle of his *Treatise on the Doctrines of the One Vehicle of Huayan*, writes plainly: "First, the Simultaneous Mutual Correspondence gate... This rests upon the Ocean Seal Samādhi, whereby they are brilliantly and simultaneously made manifest." Of the ten mystery gates, only the first is explicitly grounded by Fazang in the Ocean Seal Samādhi—this chain, "Ocean Seal Samādhi → Simultaneous Mutual Correspondence → chapter one," was built by Fazang himself. This project merely reads it out.
+The pairing of "paying reverence and respect to the Buddhas" with "Simultaneous Mutual Correspondence" is not a forced match. Fazang, in the fourth fascicle of his *Treatise on the Doctrines of the One Vehicle of Huayan*, writes plainly: "First, the Simultaneous Mutual Correspondence gate... This rests upon the Ocean Seal Samādhi, whereby they are brilliantly and simultaneously made manifest." Of the ten mystery gates, only the first is explicitly grounded by Fazang in the Ocean Seal Samādhi—this chain, "Ocean Seal Samādhi → Simultaneous Mutual Correspondence → chapter one," was built by Fazang himself. This project merely reads it out.
 
 ### The Event Horizon of a Black Hole—a Heuristic Foreshadowing
 
@@ -123,7 +123,7 @@ This difference locates the unspeakability of the Avataṃsaka in the realm of e
 
 The doctrine has been laid out; now we enter the body.
 
-This chapter corresponds to Samantabhadra's first vow—paying homage to all Buddhas. The closing fascicle of the Chapter on the Practices and Vows of Samantabhadra unfolds this vow as follows:
+This chapter corresponds to Samantabhadra's first vow—paying reverence and respect to the Buddhas. The closing fascicle of the Chapter on the Practices and Vows of Samantabhadra unfolds this vow as follows:
 
 > All the world-honoured Buddhas as numerous as the particles of dust in all buddha-fields throughout the whole dharma-realm and realm of empty space, in all the ten directions and three times—I, by the power of the practices and vows of Samantabhadra, giving rise to deep faith and understanding, as if they were face to face before me, with pure body, speech, and mind, constantly pay homage. At the place of each single Buddha, I manifest bodies as numerous as the particles of dust of unspeakably unspeakable buddha-fields, and each body pays homage to Buddhas as numerous as the particles of dust of unspeakably unspeakable buddha-fields.
 
@@ -141,7 +141,7 @@ Fazang's thirteen characters from the *Cessation of Delusion and Return to the S
 
 **"All images appear simultaneously"**—in the very moment the water of the mind clears, all the Buddhas of the ten directions and three times are simultaneously imprinted in this single bow. You do not need to summon Them; They are already here. You do not need to number Them; They are all here at once.
 
-This is paying homage to all Buddhas, made simultaneously complete at the level of the body.
+This is paying reverence and respect to the Buddhas, made simultaneously complete at the level of the body.
 
 From today on, the daily practice of bowing can include this contemplation: before each bow, do not first think "to whom am I paying homage now." In the instant of the bow, let the body bear all the homage—let the four characters "simultaneously complete" be realized in this single bow. Rise, and do the next bow. Do not count, do not calculate, do not fuss over how many bows you have done today—each bow is innumerable bows, and to fret over the number of bows is itself a return to the deluded mind of sequentiality.
 
@@ -153,7 +153,7 @@ The most important thing after finishing this chapter is not to memorize the fou
 
 This chapter ends here.
 
-The Ocean Seal Samādhi is not some high-order meditative absorption to be achieved; it is the original awakening of suchness, self-revealed once the waves of consciousness come to rest. The āgama scriptures already left a blank space; the Avataṃsaka Sūtra unfolds that blank space at full power. This chapter takes the trinity-chain built by Fazang himself—Ocean Seal Samādhi plus the Simultaneous Mutual Correspondence gate plus paying homage to all Buddhas—as the starting point of Part Eight. The other nine chapters will walk on from here, each with one window and one vow for its spine, failingly pointing from one dimension at the same object—the original awakening of suchness.
+The Ocean Seal Samādhi is not some high-order meditative absorption to be achieved; it is the original awakening of suchness, self-revealed once the waves of consciousness come to rest. The āgama scriptures already left a blank space; the Avataṃsaka Sūtra unfolds that blank space at full power. This chapter takes the trinity-chain built by Fazang himself—Ocean Seal Samādhi plus the Simultaneous Mutual Correspondence gate plus paying reverence and respect to the Buddhas—as the starting point of Part Eight. The other nine chapters will walk on from here, each with one window and one vow for its spine, failingly pointing from one dimension at the same object—the original awakening of suchness.
 
 The question of the next chapter is already surfacing. The Yogācāra toolbox of Part Three of this book (the hundred dharmas, the eight consciousnesses, the fifty-one mental factors) falls, within the patriarchs' system of doctrinal classification, under the "beginning teaching," while the Avataṃsaka is the "perfect teaching." Between the beginning teaching and the perfect teaching, is there a hierarchy of value? Is the Yogācāra you learned in Part Three surpassed and left behind by the time you reach Part Eight?
 

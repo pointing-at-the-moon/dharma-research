@@ -246,7 +246,7 @@ Not knowledge, but the capacity to see the true character of reality directly; t
 ### 海印三昧 · Ocean Seal Samādhi (sāgaramudrā-samādhi)
 The root samādhi within the Buddha's Huayan realm; as when the wind over a great ocean stills and all images appear at once on its surface, it illustrates all dharmas manifesting simultaneously within a single thought-moment of mind.
 **First appears**: Avataṃsaka Sūtra, "Worthy Leader" chapter and "Manifestation of the Tathāgata" chapter.
-**In this book**: 8.1 The Ocean Seal Samādhi and the Saying of the Unsayable; 8.7 The Ocean Seal Samādhi and Requesting the Buddha to Remain in the World.
+**In this book**: 8.1 The Ocean Seal Samādhi and the Saying of the Unsayable; 8.7 The Ocean Seal Samādhi and Requesting the Buddhas to Abide in the World.
 
 ### 託事顯法生解門 · the gate of revealing the Dharma through concrete things to give rise to understanding
 One of the ten profound gates of Huayan; through concrete things (a single flower, a single mote of dust) it manifests profound teaching, awakening understanding.
@@ -279,7 +279,7 @@ The only consciousness among the eight able to reflect back upon itself; it crea
 **In this book**: 3.6 The Only Consciousness That Can Look in a Mirror.
 
 ### 普賢十大願 · the ten great vows of Samantabhadra
-The ten great vows of practice that Samantabhadra sets forth on the Buddha's behalf in the Avataṃsaka Sūtra, "Practices and Vows of Samantabhadra" chapter: to pay homage to all Buddhas, to praise the Tathāgatas, to make abundant offerings, to repent of karmic obstructions, to rejoice in others' merit, to request the turning of the Dharma-wheel, to request the Buddhas to remain in the world, to follow the Buddhas in study always, to accord with sentient beings constantly, and to dedicate all merit universally.
+The ten great vows of practice that Samantabhadra sets forth on the Buddha's behalf in the Avataṃsaka Sūtra, "Practices and Vows of Samantabhadra" chapter: to pay reverence and respect to the Buddhas, to praise the Tathāgatas, to cultivate offerings far and wide, to repent of karmic obstructions, to rejoice in merit and virtue, to request the turning of the Dharma-wheel, to request the Buddhas to abide in the world, to always follow the Buddhas in learning, to constantly accord with sentient beings, and to dedicate all universally.
 **First appears**: the fortieth fascicle of the Forty-Fascicle Avataṃsaka, "Practices and Vows of Samantabhadra" chapter (T10 No. 293).
 **In this book**: all of Part VIII takes these as its spine; 8.11 The Ten Great Vows Beneath the Ten Windows.
 
@@ -332,7 +332,7 @@ A term of this book: borrowing the Yogācāra structure of "perceived-aspect / p
 **First appears**: an original usage of this book (grounded in the mechanism by which manas grasps the perceiving-aspect as the self).
 **In this book**: 4.4 The Person in the Mirror; 4.5 The Projection of Manas; 6.10 The Ten Demons of the Perception Aggregate (the mirror-image other).
 
-### 隨喜功德 · rejoicing in merit
+### 隨喜功德 · rejoicing in merit and virtue
 The fifth of Samantabhadra's ten great vows; the single thought in which one genuinely resonates with another's good deed, sealed by vow-and-dedication. Because the substance of merit is mind and not external form, the blessing of that one thought is deep and far-reaching; but joy that remains merely verbal or affective does not count, nor is the merit a mechanical equal of the one rejoiced in.
 **First appears**: Avataṃsaka Sūtra, "Practices and Vows of Samantabhadra" chapter; many places in the Prajñāpāramitā sūtras.
 **In this book**: 8.5 Why a Single Thought of Rejoicing Is the Perfect Clarity of Host and Guest.

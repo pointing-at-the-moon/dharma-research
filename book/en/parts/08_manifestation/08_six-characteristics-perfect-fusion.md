@@ -2,7 +2,7 @@
 
 At the close of the previous chapter, the seventh vow came to rest on one word: *acknowledgment*. Within your own mind, thought after thought, a buddha is always attaining full awakening. You do not need to petition some external buddha; you only need to acknowledge that the structure is already this way. The next natural movement is to **follow**.
 
-The four words "constantly following the Buddhas in study" are most easily read as a matter of time—"following forever": I keep learning in this life, I keep learning in the next, I follow in the Buddhas' footsteps life after life. There is nothing wrong with this reading. But to stop at this layer is to miss the true weight this vow carries within the perfect teaching of Huayan.
+The four words "always following the Buddhas in learning" are most easily read as a matter of time—"following forever": I keep learning in this life, I keep learning in the next, I follow in the Buddhas' footsteps life after life. There is nothing wrong with this reading. But to stop at this layer is to miss the true weight this vow carries within the perfect teaching of Huayan.
 
 If a buddha is present in thought after thought (and the seventh vow has already acknowledged this), then what you follow is not the footsteps of some particular buddha in history; it is the imprinting function itself, present in every thought. This "following" is not, in temporal terms, a linear continuation. In structural terms, it is the full, simultaneous presence of the present moment.
 
@@ -135,15 +135,15 @@ Choose one of the simplest possible actions: **before a buddha-hall, joining you
 
 ### The True Meaning of the Word "Constant"
 
-When the above six characteristics operate simultaneously at the instant of this action of reverence, the vow of "constantly following the Buddhas in study" is already fully realized.
+When the above six characteristics operate simultaneously at the instant of this action of reverence, the vow of "always following the Buddhas in learning" is already fully realized.
 
 Not only as the temporal commitment "from now on I will often follow Śākyamuni in study," but also as—
 
 at this instant of reverence, learning from Śākyamuni *is* learning from the buddhas of the ten directions (totality-as-sameness + sameness-as-formation), yet Śākyamuni remains Śākyamuni (distinction-as-difference + difference-as-formation); this dharma-learning event is genuinely established (formation-establishes) and simultaneously dispels grasping at the dharma-learning (decay-abides).
 
-**The true meaning of the word "constant" is not only "forever" (a length of time); it is also "simultaneous" (the six-characteristics structure).** At every instant of revering Śākyamuni, these six characteristics operate simultaneously—and so every instant is already constantly following the Buddhas in study.
+**The true meaning of the word "constant" is not only "forever" (a length of time); it is also "simultaneous" (the six-characteristics structure).** At every instant of revering Śākyamuni, these six characteristics operate simultaneously—and so every instant is already always following the Buddhas in learning.
 
-Constantly following the Buddhas in study is not only a future goal you must work toward; it is also the present-moment event already underway each time you revere a buddha.
+Always following the Buddhas in learning is not only a future goal you must work toward; it is also the present-moment event already underway each time you revere a buddha.
 
 The corresponding profound gate, the *Mutual Containment Without Confusion*, and the six-characteristics version of this chapter are two facets of the same doctrine. Mutual containment—learning from one buddha is learning from all buddhas; yet the one does not become the many, and the many do not become the one—Śākyamuni remains Śākyamuni, and His concrete teaching skillful means remain His alone. The profound-gate angle is a structural statement; the six-characteristics angle is an observational unfolding. The two converge upon the same fact: **the instant of learning from one buddha is not a personal psychological event; it is the simultaneous presentation of the dependent origination of the dharma-realm.**
 
@@ -177,7 +177,7 @@ The "constant" of constantly following the Buddhas in study is not only a length
 
 The original awakening of suchness naturally discloses itself within this simultaneous fusion of the six characteristics. It is never covered by any single observational facet—It is beheld directly in the **integral present moment** in which the six characteristics open simultaneously.
 
-The next chapter will push this integral present moment toward another action—**constantly according with sentient beings**. Constantly following the Buddhas in study (the eighth vow) looks at the object you follow; constantly according with sentient beings (the ninth vow) looks at the object you take up. If what you follow is the imprinting function present in thought after thought, then who is the object you take up? The answer, in a single phrase first: **all sentient beings**. But this taking-up is not looking toward beings from a distance; it is walking in among them. Chapter Nine takes the *Entering the Dharma-Realm* chapter of the *Avataṃsaka Sūtra* as its window, opening from the prologue to Sudhana's southward journey of fifty-three visits—a young man leaving the bodhisattva Mañjuśrī and walking toward every being of the dharma-realm, disclosing the dharma within each concrete person and event.
+The next chapter will push this integral present moment toward another action—**constantly according with sentient beings**. Always following the Buddhas in learning (the eighth vow) looks at the object you follow; constantly according with sentient beings (the ninth vow) looks at the object you take up. If what you follow is the imprinting function present in thought after thought, then who is the object you take up? The answer, in a single phrase first: **all sentient beings**. But this taking-up is not looking toward beings from a distance; it is walking in among them. Chapter Nine takes the *Entering the Dharma-Realm* chapter of the *Avataṃsaka Sūtra* as its window, opening from the prologue to Sudhana's southward journey of fifty-three visits—a young man leaving the bodhisattva Mañjuśrī and walking toward every being of the dharma-realm, disclosing the dharma within each concrete person and event.
 
 > Every chapter of this series stops somewhere. The place where it stops is not an omission; it is an act of reverence. A three-dimensional pen cannot write to a ten-dimensional object; all it can do is mark clearly the place where it is set down—so that the reader knows that, beyond this line, one must rely on one's own dharma-eye.
 

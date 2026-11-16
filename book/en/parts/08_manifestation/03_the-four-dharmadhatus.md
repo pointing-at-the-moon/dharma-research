@@ -1,4 +1,4 @@
-## 8.3 The Four Dharmadhātus — From Phenomena to Unobstructed Phenomena-and-Phenomena, a Perfect-Teaching Reading of Making Extensive Offerings
+## 8.3 The Four Dharmadhātus — From Phenomena to Unobstructed Phenomena-and-Phenomena, a Perfect-Teaching Reading of Cultivating Offerings Far and Wide
 
 The previous chapter ended with a question. If the three layers of description are all operating at once in our nature, then how, within the bodily actions of daily life, do they happen simultaneously?
 
@@ -78,7 +78,7 @@ The "is" in "a stick of incense is all offering implements" is not "physically b
 
 Now we enter the body.
 
-This chapter corresponds to Samantabhadra's third vow—making extensive offerings. The final fascicle of the *Samantabhadra Vow Chapter* unfolds this vow in two sections. First comes phenomenal offering: clouds of flowers, clouds of garlands, clouds of heavenly music, clouds of heavenly parasols, clouds of heavenly garments, all kinds of heavenly incense, smearing incense, burning incense, powdered incense, and all kinds of lamps. Then comes Dharma-offering:
+This chapter corresponds to Samantabhadra's third vow—cultivating offerings far and wide. The final fascicle of the *Samantabhadra Vow Chapter* unfolds this vow in two sections. First comes phenomenal offering: clouds of flowers, clouds of garlands, clouds of heavenly music, clouds of heavenly parasols, clouds of heavenly garments, all kinds of heavenly incense, smearing incense, burning incense, powdered incense, and all kinds of lamps. Then comes Dharma-offering:
 
 > Among all offerings, the Dharma-offering is supreme. Namely: the offering of practicing as taught, the offering of benefiting sentient beings, the offering of embracing sentient beings, the offering of taking on the suffering of sentient beings, the offering of diligently cultivating wholesome roots, the offering of not abandoning the bodhisattva's task, the offering of not departing from *bodhicitta*.
 
@@ -146,7 +146,7 @@ The question is not asking you to pick an answer. It is meant to make you notice
 
 The progression from phenomenal offering to Dharma-offering does not lie in the number or price of the offering implements; it lies in **the depth of the inner grammar.**
 
-A common inner obstacle is this: "I do not have money to buy expensive offering implements—will my offering have no merit?" The response of making extensive offerings is: the merit of an offering lies not in the price of the offering implement but in the depth of according with nature. An elderly person who, with a cup of plain water from home, a flower picked from the courtyard, and the most ordinary stick of incense, makes an offering sincerely and in accordance with nature—this offering, under the structure of unobstructed phenomena-and-phenomena, is no different from the most lavish offering. For unobstructed phenomena-and-phenomena was never a comparison of material; it is the according-with-nature of structure.
+A common inner obstacle is this: "I do not have money to buy expensive offering implements—will my offering have no merit?" The response of cultivating offerings far and wide is: the merit of an offering lies not in the price of the offering implement but in the depth of according with nature. An elderly person who, with a cup of plain water from home, a flower picked from the courtyard, and the most ordinary stick of incense, makes an offering sincerely and in accordance with nature—this offering, under the structure of unobstructed phenomena-and-phenomena, is no different from the most lavish offering. For unobstructed phenomena-and-phenomena was never a comparison of material; it is the according-with-nature of structure.
 
 ### Drawing to a Close
 
@@ -156,7 +156,7 @@ The Heart Sūtra pierces through form and emptiness. The Avataṃsaka pierces th
 
 Suchness, the original awareness, is complete within this single stick of incense.
 
-The next chapter will move to a deeper question—since the dharma-realm is by nature unobstructed phenomena-and-phenomena, and since a stick of incense in this very moment already is fully equipped with all things, then why do you feel that there is a layer separating you from this naturalness? What is that layer? How is it to be handled? This is what the vow of repenting karmic obstacles is meant to address. Chapter Four takes "the gate of the simultaneous establishment of the concealed and the revealed" as its window, and looks at repentance as the entrance to "nature-arising"—not a mourning self-punishment, but a letting of the Buddha-nature that is already there emerge from beneath the karmic obstacles.
+The next chapter will move to a deeper question—since the dharma-realm is by nature unobstructed phenomena-and-phenomena, and since a stick of incense in this very moment already is fully equipped with all things, then why do you feel that there is a layer separating you from this naturalness? What is that layer? How is it to be handled? This is what the vow of repenting of karmic obstructions is meant to address. Chapter Four takes "the gate of the simultaneous establishment of the concealed and the revealed" as its window, and looks at repentance as the entrance to "nature-arising"—not a mourning self-punishment, but a letting of the Buddha-nature that is already there emerge from beneath the karmic obstacles.
 
 > Every chapter in this series stops somewhere. The place where it stops is not an oversight; it is an act of reverence. A three-dimensional pen cannot write all the way to a ten-dimensional object; all it can do is mark clearly the place where the pen is set down—so that the reader knows that, beyond this line, one must rely on one's own Dharma-eye.
 

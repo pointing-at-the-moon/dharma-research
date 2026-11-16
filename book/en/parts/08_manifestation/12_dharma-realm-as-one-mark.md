@@ -210,9 +210,9 @@ From Chan's "this very mind is the Buddha" to Huayan's "the mind itself, thought
 
 The whole posture of this book's thirty-some chapters aims, in the end, at this "how is it." It does not set up a new thesis for you to learn; it points out a fact that has long been present, only not yet seen by you—**the tathāgatagarbha-nature already fully present within your own body is not different from the Buddha's**. At the moment when, having finished this chapter, you close the book, if these two characters "how is it" appear in your heart even for a single instant, then the more than three hundred thousand characters of this book have not been written in vain.
 
-### Universal Dedication
+### Dedicating All Universally
 
-The tenth vow of the closing fascicle of the *Samantabhadra-caryā-praṇidhāna*, "universal dedication," says:
+The tenth vow of the closing fascicle of the *Samantabhadra-caryā-praṇidhāna*, "dedicating all universally," says:
 
 > From the first vow of Homage down through Accommodation, all the merits produced, I dedicate universally to all sentient beings of the boundless dharma-realm and empty-space realm. … To the limit of empty space, to the exhaustion of the realm of beings, to the exhaustion of the karma of beings, to the exhaustion of the afflictions of beings: my dedication shall be without limit. Thought after thought continuing without interruption; in body, speech, and mind, without weariness.
 
