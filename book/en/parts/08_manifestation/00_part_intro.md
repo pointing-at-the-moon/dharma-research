@@ -40,7 +40,7 @@ From the first chapter through the tenth, each chapter carries one vow and one g
 
 The whole road has a structural surprise waiting for you at the end.
 
-The tenth vow is dedicating all universally—transferring all merit to the dharma-realm. But the way the ten vows are arranged in the scripture is a ring whose head and tail join: it begins with paying reverence and respect to the Buddhas, passes through nine vows, and after dedicating all universally the next cycle opens once more from paying reverence and respect to the Buddhas. Paying reverence and respect to the Buddhas—this is exactly the earliest bodily form of "a single aspiration" at the opening of Part One, Trust. The bow.
+The tenth vow is dedicating all universally—dedicating all merit to the dharma-realm. But the way the ten vows are arranged in the scripture is a ring whose head and tail join: it begins with paying reverence and respect to the Buddhas, passes through nine vows, and after dedicating all universally the next cycle opens once more from paying reverence and respect to the Buddhas. Paying reverence and respect to the Buddhas—this is exactly the earliest bodily form of "a single aspiration" at the opening of Part One, Trust. The bow.
 
 The whole road is not a straight line. It is a circle.
 
